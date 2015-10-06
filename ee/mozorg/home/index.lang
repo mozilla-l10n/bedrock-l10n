@@ -1,0 +1,300 @@
+## active ##
+## fx10_independent ##
+## gear_store ##
+## meta_update_201503 ##
+## privacy_day ##
+## webmaker_promo_make ##
+## NOTE: demo server at https://www-dev.allizom.org/
+
+
+# Used as page title in HTML meta tag
+;We’re building a better Internet
+Miele Internet si nyo wu la tum
+
+
+# Used as page description in HTML meta tag
+;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
+Ɖe nenya? Mozilla — Firefox wɔla la— dzea agbagba be yeawɔ Internet la woanɔ ʋuʋu na ame sia ame le xexea me kata.
+
+
+;Home of the Mozilla Project
+Mozilla Project la ƒe Home
+
+
+;Read more
+Xle bubuwo
+
+
+;Community
+Community {ok}
+
+
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
+;Continue to mozilla.org
+Yi mozilla.org
+
+
+;Discover <br>what drives our mission
+Discover <br>nu si da megbe na miaƒe taɖodzinu
+
+
+;See the principles <br>that guide everything <br>we do.
+Kpɔ ɖoɖo <br> siwo dzɔa nu siwo kata <br>miewɔma la ɖa.
+
+
+;Read the <br>Mozilla Manifesto
+Xle <br>Mozilla Manifesto la
+
+
+;Mozilla Developer Network
+Mozilla Ddevelopa Network
+
+
+;10 years of documenting your Web.
+10 years of documenting your Web.
+
+
+;Celebrate with us
+Celebrate with us
+
+
+# Do no translate "Firefox Friends" (https://friends.mozilla.org)
+;Introducing <br>Firefox Friends
+Introducing <br>Firefox Friends
+
+
+;Join. Share. <br>Get rewarded.
+Join. Share. <br>Get rewarded.
+
+
+;Join Firefox Friends
+Join Firefox Friends
+
+
+# Small tile. Link points to https://advocacy.mozilla.org
+;Learn about Mozilla Advocacy
+Srɔ̃ nu tso Mozilla Advocacy ŋu
+
+
+;Understand your privacy online
+Se wo kadzinɔnɔ ƒe privacy gɔme
+
+
+;Download Firefox
+Downloadi Firefox
+
+
+;Introducing<br> the new Webmaker
+Introducing<br> the new Webmaker
+
+
+;Discover, create and share original content with the free Webmaker app.
+Discover, create and share original content with the free Webmaker app.
+
+
+;Learn more
+Srɔ̃ nu bubuwo
+
+
+# This string is used on the little blue tile, see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach<br> the Web
+Teach<br> the Web
+
+
+;Make the Web you want
+Wɔ Web si nedi la
+
+
+;Build a Web page or app in minutes<br> — no coding required.
+Tu Web axa alo app le miniti sue aɖe megbe<br> — coding mehia o.
+
+
+;Become a Webmaker
+Zu Webmaker
+
+
+# This string is used as title on the big pink tile for locales that have not translated the new version above (Make the Web you want), see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach the Web
+Fia Web la
+
+
+;Let’s build a Web that’s open <br>and made by everyone.
+Na miatu Web si anyo <br> eye esi ame sia ame wɔ.
+
+
+;Build an app <br>in seconds
+Tu app <br> le aɖabaƒoƒo ʋɛwo me
+
+
+;Volunteer <br>with Mozilla
+Wɔ lɔlɔnu fã dɔ <br> na Mozilla
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Try Firefox Developer Edition
+Try Firefox Developer Edition
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Introducing Firefox Developer Edition
+Firefox Developer Edition kpɔkplɔyiɖeme
+
+
+;The only browser made only for developers.
+Wowɔ browser sia na developerwo ɖeɖe ko.
+
+
+;Get Firefox Developer Edition
+Xɔ Firefox Developer Edition
+
+
+;Try the best Firefox yet
+Te Firefox si nyo wu la kpɔ
+
+
+;Made with a mission to put you first.
+Woe nye taɖodzinu gbatɔ si ta wo wɔe ɖo.
+
+
+;Learn more about Firefox
+Srɔ nu bubuwo tso Firefox ŋu
+
+
+;Put your Firefox on your Android
+Da wo Firefox ɖe wo Android dzi
+
+
+;The features <br>you love. <br>The privacy <br>you trust.
+Emenu siwo <br>nelɔ. <br>Privacy <br>si dzi neka ɖo.
+
+
+;Learn about <br>Firefox for Android
+Srɔ̃ nu tso <br>Firefox na Android ŋu
+
+
+# Used in a small tile
+;Official Mozilla gear is here
+Official Mozilla gear le afisia
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
+Merch kple taɖodzinu aɖe. <br>Product siwo si susu le<br>.<br>Adzɔnu siwo wɔa nu nyui.
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Get your Mozilla gear
+Xɔ wo Mozilla gear
+
+
+;Help Mozilla users
+Kpeɖe Mozilla zalawo ŋu
+
+
+;Help millions <br>get the most from their <br>favorite browser.
+Kpeɖe millionwo <br> ŋu be woakpɔ ŋudzedze tso <br> woƒe browser ŋu.
+
+
+;Join our support team
+Ge ɖe miaƒe support team me
+
+
+# Used in Twitter feed
+;Reply
+Reply {ok}
+
+
+# Used in Twitter feed
+;Retweet
+Retweet {ok}
+
+
+# <strong> tags below are for visual formatting only.
+;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
+Mieli na <strong>wò, wò privacy</strong> kple <strong>Web </strong>si nyo wu
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;active Mozillians <br>worldwide
+Mozillia zãlawo <br> le xexeame
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;upcoming events <br>around the globe
+nyadzɔdzɔ siwo gbɔna le <br> xexea me godo la
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;languages and counting, <br>on every continent
+gbegbɔgblɔwo kple bubu siwo gbɔna, <br> le kɔŋtinɛnti ɖe sia ɖe dzi
+
+
+;Get Involved with Mozilla today
+Xɔ Involved kple Mozilla egbe
+
+
+;Upcoming events
+Nudzɔdzɔ siwo gbɔna
+
+
+;Next event
+Nudzɔdzɔ si gbɔna
+
+
+;See all events
+Kpɔ nudzɔdzɔwo katã
+
+
+;Compare prices, check the weather, listen to music, send a tweet and more right from Firefox.
+Compare asiwo, check weather la, se ha, ɖo tweet ɖa kple nu bubuwo tso Firefox gbɔ.
+
+
+;Careers
+Dɔwɔɖuiwo
+
+
+;Learn about the benefits of working at Mozilla and view open positions around the world.
+Srɔ nu tso viɖe siwo nakpɔ le dɔwɔwɔ kple Mozilla me eye nakpɔ mɔ ʋuʋu le xexeame kata.
+
+
+;Get answers to your questions about Firefox and all Mozilla products from our support team.
+Xɔ ŋuɖoɖowo na wo biabiawo tso Firefox kple Mozilla productwo kata ŋu tso miaƒe support team gbɔ.
+
+
+;Discover more
+Kpɔ bubuwo
+
+
+;Help us celebrate 10 years of Firefox.
+Kpeɖe miaŋu le Firefox ƒe eƒe ewo ɖuɖu me.
+
+
+# Old promo tiles
+;Donate to Mozilla
+Nanu Mozilla
+
+
+;Your gift helps us build the Internet the world needs.
+Wo nunana kpena ɖe miaŋu be miatu Internet si xexea di.
+
+
+;Donate today
+Nanu egbe
+
+
+;Meet<br> Firefox Hello
+Do go<br> Firefox Hello
+
+
+;The easiest way to connect for free over video.
+Mɔ bɔbɔe tɔ si dzi nato atsia ka hena vidio femaxe.
+
+
+;Try Firefox Hello
+Te Firefox Hello kpɔ
+
+
+;Try the Thimble code editor
+Try the Thimble code editor
+
+

@@ -1,0 +1,818 @@
+;Navigation
+നാവിഗേഷന്‍
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+<span>for</span> Desktop
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+<span>for</span> Android
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+<span>for</span> iOS
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+OS
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+For desktops &amp; laptops
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+For phones &amp; tablets
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+അവലോകനം
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+വിശ്വസനീയം
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+രൂപപ്പെടുത്താം
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+വേഗം
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+ഇതിനെക്കുറിച്ച്
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+Devices
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+For partners
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+Apps
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+Do Not Track
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Tiles
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Interest Dashboard
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Developer Edition
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+Private Browsing
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+സഹായം?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+News
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+For developers
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Find My Device
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+Developers
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+Choose the independent browser
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+
+
+;Donate
+സംഭാവന
+
+
+;Support
+സഹായം
+
+
+;Products
+ഉല്‍പ്പന്നങ്ങള്‍
+
+
+;Add-ons
+ആഡ്-ഓണുകള്‍
+
+
+;About Us
+ഞങ്ങളെക്കുറിച്ച്
+
+
+;Labs
+ലാബുകള്‍
+
+
+;skip to Navigation
+നാവിഗേഷനിലേക്ക് മാറുക
+
+
+;switch language
+ഭാഷ മാറ്റുക
+
+
+;Back to home page
+തിരികെ ആസ്ഥാന താളിലേക്ക്
+
+
+;About Mozilla
+മോസില്ലയെ കുറിച്ച്
+
+
+;Get Involved
+പങ്കെടുക്കുക
+
+
+;Careers
+തൊഴിലുകള്‍
+
+
+;Press Center
+മാധ്യമ സങ്കേതം
+
+
+;Contact Us
+ഞങ്ങളെ ബന്ധപ്പെടുക
+
+
+;Other languages:
+മറ്റ് ഭാഷകള്‍:
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+%d-%m-%Y
+
+
+;Legal
+നിയമപരം
+
+
+# Used as link in the footer
+;Cookies
+കുക്കികള്‍\u0020
+
+
+# Used as link in the footer
+;Firefox Affiliates
+Firefox Affiliates
+
+
+;Legal Notices
+നിയമപരമായുള്ള അറിയിപ്പുകള്‍
+
+
+;Privacy Policy
+സ്വകാര്യ വ്യവസ്ഥകള്‍
+
+
+;Release Notes
+പ്രകാശനക്കുറിപ്പുകള്‍
+
+
+;Other Systems and Languages
+മറ്റു ഭാഷകളും സിസ്റ്റങ്ങളും
+
+
+;Close
+അടയ്ക്കുക
+
+
+;(in English)
+(ഇംഗ്ലീഷില്‍)
+
+
+;Return to top
+മുകളിലേക്ക് തിരികെ പോവുക
+
+
+;Features
+സവിശേഷതകള്‍
+
+
+;Customize
+ഇശ്ചാനുസൃതം
+
+
+;Download
+ഡൗണ്‍ലോഡ്
+
+
+;Previous
+Previous
+
+
+;Next
+അടുത്തതു്
+
+
+# MegaBytes abbreviation
+;MB
+എംബി
+
+
+;MegaBytes
+മെഗാബൈറ്റ്സ്
+
+
+;FAQ
+പതിവു് സംശയങ്ങള്‍
+
+
+;Videos
+വീഡിയോകള്‍
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+<a href="%s">പ്രത്യേകം അടയാളപ്പെടുത്തിയിട്ടില്ലാത്ത</a> സ്ഥലങ്ങള്‍ ഒഴികെ, ഈ സൈറ്റിലെ ഉള്ളടക്കം <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> അല്ലെങ്കില്‍ അതിനു ശേഷമുള്ള വകഭേതം വഴി ലൈസെന്‍സ് ചെയ്തിരിക്കുന്നു.
+
+
+;Report Trademark Abuse
+വ്യാപാരമുദ്രയുടെ ദുരുപയോഗം രേഖപ്പെടുത്തുക
+
+
+;Free Upgrade
+സൌജന്യ പരിഷ്കരണം
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+ഞങ്ങളെ പിന്തുടരുക :
+
+
+;Customize with Add-ons
+ആഡ് ഓന്‍സ് ഉപയോഗിച്ച് ഇശ്ചാനുസൃതമാക്കുക
+
+
+;Learn More
+കൂടുതല്‍ അറിയുക
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+കൂടുതല്‍ അറിയുക
+
+
+# Link used to play again an animation or a video
+;Replay
+വീണ്ടും പ്ലേ ചെയ്യൂ
+
+
+;Watch the video
+വീഡിയോ കാണൂ
+
+
+;Replay the video
+Replay the video
+
+
+;Share the video
+Share the video
+
+
+;WebM format
+WebM ഫോര്‍മാറ്റ്
+
+
+;Ogg Theora format
+Ogg Theora ഫോര്‍മാറ്റ്
+
+
+;MPEG-4 format
+MPEG-4 ഫോര്‍മാറ്റ്
+
+
+;Mobile
+മൊബൈല്‍
+
+
+;Check out the new look and feel of Firefox.
+ഫയര്‍ഫോക്സിന്റെ പുതിയ ശൈലിയും ഭാവവും തൊട്ടറിയൂ.
+
+
+;View Full Site
+പൂര്‍ണ്ണ സൈറ്റ് കാണുക
+
+
+;Download for <span>Android</span>
+<span>ആന്‍ഡ്രോയിഡ്</span>-നായി ഡൌണ്‍ലോഡ് ചെയ്യൂ
+
+
+;Desktop
+പണിയിടം
+
+
+;Firefox Beta for mobile
+മൊബൈയിലിനുള്ള ഫയര്‍ഫോക്സ് ബീറ്റാ
+
+
+;Firefox for mobile
+മൊബൈയിലിനുള്ള ഫയര്‍ഫോക്സ്
+
+
+;Email
+ഈമെയില്‍
+
+
+;Super speed
+അടിപൊളി വേഗത
+
+
+;Stunning graphics
+അടിപോളി ഗ്രാഫിക്സ്
+
+
+;The latest technologies
+ഏറ്റവും പുതിയ ടെക്നോളജികള്‍
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+നിങ്ങള്‍ക്കൊരു പരിഷ്കരണം ആവശ്യമുണ്ടു്! ഒരു മിനിറ്റില്‍ എല്ലാം ലഭ്യമാക്കുക. <br/>ഏറ്റവും ഉത്തമമായ ബ്രൌസിങിനായി പുതിയ ഫയര്‍ഫോക്സ് ഉപയോഗിയ്ക്കുക. <br/>   ഇതു് സൌജന്യമാകുന്നു!
+
+
+;Upgrade now
+ഉടന്‍ പരിഷ്കരിയ്ക്കുക
+
+
+;Update now
+ഉടന്‍ പുതുക്കുക
+
+
+;Supported Devices
+പിന്തുണയ്ക്കുന്ന ഡിവൈസുകള്‍
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+പുതിയതെന്തെല്ലാം
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+സ്വകാര്യത
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+വിവരങ്ങളുടം ഈ ഭാഗങ്ങള്‍  ഓരോ mozilla.org സംഭാവനക്കാരുടെ ©1998–%(current_year)s പകര്‍പ്പവകാശത്തിലാകുന്നു. <a href="%(url)s">ക്രിയേറ്റീവ് കോമണ്‍സ് ലൈസന്‍സില്‍</a> വിവരങ്ങള്‍ ലഭ്യം.
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+Contribute to this site
+
+
+# Footer string
+;Contribute to this page
+ഈ താളിനു് സംഭവന നല്‍കുക
+
+
+# Top menu item
+;Mission
+ദൌത്യം
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+പര്യടനം
+
+
+# Footer item
+;Partner with Us
+ഞങ്ങളുടെ പങ്കാളിയാകുക
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+Sync
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+പണിയിടത്തിനുള്ള ആഡ്-ഓണുകള്‍
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+Android Add-ons
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+പ്രമേയങ്ങള്‍
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+പണിയിട പിന്തുണ
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+Android Support
+
+
+# Top menu item on firefox/update page
+;Performance
+പ്രവര്‍ത്തനം
+
+
+# Top menu item on firefox/update page
+;Technology
+സങ്കേതികവിദ്യ
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+സ്വകാര്യതയും സുരക്ഷയും
+
+
+# Top menu item on firefox/update page
+;Releases
+പതിപ്പുകള്‍
+
+
+# Top menu item on firefox/update page
+;Firefox
+ഫയര്‍ഫോക്സ്
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+സ്ഥാപനങ്ങള്‍ക്കുള്ള ഫയര്‍ഫോക്സ്
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+മൊബൈലിനുള്ള ആഡ്-ഓണുകള്‍
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+മൊബൈല്‍ പിന്തുണ
+
+
+# Top menu item on firefox/update page
+;Blog
+ബ്ലോഗ്
+
+
+# Top menu item on firefox/update page
+;About Firefox
+ഫയര്‍ഫോക്സിനെപ്പറ്റി
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+മോസിലയില്‍ പങ്കു് ചേരുക
+
+
+# Top menu item on firefox/update page
+;Participate
+പങ്കു് ചേരുക
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
+;Volunteer
+Volunteer
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+ബ്രാന്‍ഡ് ടൂള്‍ക്കിറ്റ്
+
+
+# Top menu item on firefox/update page
+;Partnerships
+പങ്കാളികള്‍
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+മോസില്ലാ പരിഷ്കരണങ്ങള്‍ ലഭ്യമാക്കൂ
+
+
+# share button for social networks
+;Share
+പങ്കിടുക
+
+
+# footer link
+;Mozilla on Twitter
+ട്വിറ്ററില്‍ മോസില്ലാ
+
+
+# footer link
+;Firefox on Twitter
+ട്വിറ്ററില്‍ ഫയര്‍ഫോക്സ്
+
+
+# footer link
+;Mozilla on Facebook
+ഫെയിസ്ബുക്കില്‍ മോസില്ലാ
+
+
+# footer link
+;Firefox on Facebook
+ഫെയിസ്ബുക്കില്‍ ഫയര്‍ഫോക്സ്
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+ഫോറം
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Leadership
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+നിയന്ത്രണം
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+ചരിത്രം
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+ഉല്‍പന്നങ്ങള്‍
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+ദൌത്യം വിപുലീകരിയ്ക്കുന്നതിനു് രൂപപ്പെടുത്തിയ സോഫ്റ്റ്‌വെയറും മറ്റു് മാറ്റങ്ങളും.
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+പല മേഘലകളില്‍ നിങ്ങള്‍ക്കു് സംഭാവനകള്‍ നല്‍കാം.
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+മെനു
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+നിങ്ങളുടെ സ്വകാര്യത ഞങ്ങളുടെ പ്രതിബന്ധത
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+Choose Independent
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+Please turn on JavaScript to display this page correctly.
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+ഫയര്‍ഫോക്സ് വിശേഷതകള്‍
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+ഫയര്‍ഫോക്സിനുള്ള സഹായം
+
+
+;January
+ജനുവരി
+
+
+;February
+ഫെബ്രുവരി
+
+
+;March
+മാര്‍ച്ച്
+
+
+;April
+ഏപ്രില്‍
+
+
+;May
+മേയ്
+
+
+;June
+ജൂണ്‍
+
+
+;July
+ജൂലൈ
+
+
+;August
+ഓഗസ്റ്റ്
+
+
+;September
+സെപ്തംബര്‍
+
+
+;October
+ഒക്ടോബര്‍
+
+
+;November
+നവംബര്‍
+
+
+;December
+ഡിസംബര്‍
+
+
+;<abbr>Jan</abbr>
+<abbr>ജാ</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>ഫെ</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>മാ</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>ഏ</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>മേ</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>ജൂ</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>ജൂലൈ</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>ആഗ</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>സെപ്</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>ഒക്</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>നവം</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>ഡിസം</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+
+
+;Congrats. You’re up to date!
+Congrats. You’re up to date!
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+;Format
+ശൈലി
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;Text
+വാചകം
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;HTML
+HTML
+
+
+# This is the error message displayed if you provide an invalid email address in a form
+;Whoops! Be sure to enter a valid email address.
+നല്‍കിയ ഈമെയില്‍ വിലാസം ശരിയെന്നു് ഉറപ്പു് വരുത്തുക!
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+<a href="%s">ഈ സ്വകാര്യ വ്യവസ്ഥയില്‍</a> വ്യക്തമാക്കിയിരിയ്ക്കുന്ന രീതിയില്‍ മോസില്ലാ എന്റെ വിവരങ്ങള്‍ ഉപയോഗിയ്ക്കുന്നതിനു് എനിയ്ക്കു് സമ്മതമാണു്.
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+ഫയര്‍ഫോക്സ് വാര്‍ത്തകള്‍ ലഭ്യമാക്കുക
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+നിങ്ങളുടെ ഈമെയില്‍ വിലാസം ഇവിടെ നല്‍കുക
+
+
+# Subscription Button
+;Sign me up
+പങ്കു് ചേരുക
+
+
+;Select country
+രാജ്യം തെരഞ്ഞെടുക്കുക
+
+
+;Available Languages
+ലഭ്യമായ ഭാഷകള്‍
+
+
+;We will only send you Mozilla-related information.
+മോസില്ലാ സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍ മാത്രമേ ഞങ്ങള്‍ അയച്ചു് തരൂ.
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+നന്ദി! നിങ്ങളുടെ സബ്സ്ക്രിപ്ഷന്‍ ഉറപ്പാക്കുന്നതിനായി ഇന്‍ബോക്സ് പരിശോധിയ്ക്കുക.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+നിങ്ങളുടെ സബ്സ്ക്രിപ്ഷന്‍ ഉറപ്പാക്കുന്നതിനായി mozilla@e.mozilla.org-ല്‍ നിന്നും നിങ്ങള്‍ക്കു് ഈമെയില്‍ ലഭിയ്ക്കുന്നതാണു്. ഇന്‍ബോക്സില്‍ കണ്ടില്ലെങ്കില്‍ സ്പാം ഫില്‍റ്റര്‍ പരിശോധിയ്ക്കുക. ഞങ്ങളുടെ വാര്‍ത്താപത്രികകള്‍ ലഭിയ്ക്കുന്നതിനായി നിങ്ങളുടെ സബ്സ്ക്രിപ്ഷന്‍ ഉറപ്പാക്കേണ്ടതുണ്ടു്.
+
+
+;Read all about it in our <span>newsletter</span>
+എല്ലാ വിവരങ്ങളും <span>വാര്‍ത്താപത്രികയില്‍</span> വായിച്ചറിയുക.
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+എല്ലാ മാസവുമുള്ള പരിഷ്കരങ്ങള്‍ക്കും ഏറ്റവും പുതിയ മോസില്ലാ വാര്‍ത്തകള്‍ക്കും സബ്സ്ക്രൈബ് ചെയ്യുക. ഫയര്‍ഫോക്സ് ബ്രൌസറിന്റെ ഏറ്റവും പുതിയ വിശേഷതകളും നിങ്ങള്‍ക്കു് ലഭ്യമാകുന്നു.
+
+

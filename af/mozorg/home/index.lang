@@ -1,0 +1,302 @@
+## active ##
+## fx10_independent ##
+## gear_store ##
+## mdn_10_years ##
+## meta_update_201503 ##
+## privacy_day ##
+## webmaker_promo_introducing ##
+## webmaker_promo_make ##
+## NOTE: demo server at https://www-dev.allizom.org/
+
+
+# Used as page title in HTML meta tag
+;We’re building a better Internet
+Ons bou 'n beter Internet
+
+
+# Used as page description in HTML meta tag
+;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
+Het u geweet? Mozilla — die maker van Firefox — werp alles in die stryd om die Internet 'n wêreldwye openbare hulpbron te hou wat oop en toeganklik vir almal is.
+
+
+;Home of the Mozilla Project
+Tuiste van die Mozilla-projek
+
+
+;Read more
+Meer inligting
+
+
+;Community
+Gemeenskap
+
+
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
+;Continue to mozilla.org
+Gaan voort na mozilla.org
+
+
+;Discover <br>what drives our mission
+Ontdek <br>die dryfveer van ons missie
+
+
+;See the principles <br>that guide everything <br>we do.
+Die beginsels <br>agter alles wat ons doen.
+
+
+;Read the <br>Mozilla Manifesto
+Lees die <br>Mozilla-manifes
+
+
+;Mozilla Developer Network
+Mozilla-ontwikkelaarsnetwerk
+
+
+;10 years of documenting your Web.
+10 jaar van webdokumentasie.
+
+
+;Celebrate with us
+Vier dit saam met ons
+
+
+# Do no translate "Firefox Friends" (https://friends.mozilla.org)
+;Introducing <br>Firefox Friends
+Ons stel <br>Firefox Friends <br>bekend
+
+
+;Join. Share. <br>Get rewarded.
+Join. Share. <br>Get rewarded.
+
+
+;Join Firefox Friends
+Sluit aan by Firefox Friends
+
+
+# Small tile. Link points to https://advocacy.mozilla.org
+;Learn about Mozilla Advocacy
+Leer meer oor Mozilla-bevordering
+
+
+;Understand your privacy online
+Verstaan jou privaatheid aanlyn
+
+
+;Download Firefox
+Laai Firefox af
+
+
+;Introducing<br> the new Webmaker
+Ons stel die nuwe<br> Webmaker bekend
+
+
+;Discover, create and share original content with the free Webmaker app.
+Ontdek, skep en deel oorspronklike  inhoud met ons gratis Webmakerprogram.
+
+
+;Learn more
+Meer inligting
+
+
+# This string is used on the little blue tile, see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach<br> the Web
+Onderrig<br> oor die web
+
+
+;Make the Web you want
+Skep die Web na hartelus
+
+
+;Build a Web page or app in minutes<br> — no coding required.
+Bou 'n webbladsy of 'n webprogram in minute<br> — sonder programmering.
+
+
+;Become a Webmaker
+Word 'n webmaker
+
+
+# This string is used as title on the big pink tile for locales that have not translated the new version above (Make the Web you want), see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach the Web
+Onderrig oor die web
+
+
+;Let’s build a Web that’s open <br>and made by everyone.
+Kom ons bou 'n ope web <br> wat deur almal gebou word.
+
+
+;Build an app <br>in seconds
+Bou 'n program <br>in sekondes
+
+
+;Volunteer <br>with Mozilla
+Willig in <br>vir Mozilla
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Try Firefox Developer Edition
+Kry Firefox-ontwikkelaar­weergawe
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Introducing Firefox Developer Edition
+Ons stel Firefox-ontwikkelaar­weergawe bekend
+
+
+;The only browser made only for developers.
+Die enigste blaaier wat slegs vir ontwikkelaars gemaak is.
+
+
+;Get Firefox Developer Edition
+Kry Firefox-ontwikkelaarweergawe
+
+
+;Try the best Firefox yet
+Probeer die beste Firefox nog
+
+
+;Made with a mission to put you first.
+Gemaak met 'n missie om jou eerste te plaas.
+
+
+;Learn more about Firefox
+Meer inligting oor Firefox
+
+
+;Put your Firefox on your Android
+Kry Firefox vir 'n Android-foon
+
+
+;The features <br>you love. <br>The privacy <br>you trust.
+Geliefde <br>funksionaliteit. <br>Betroubare <br>privaatheid.
+
+
+;Learn about <br>Firefox for Android
+Meer inligting oor <br>Firefox vir Android
+
+
+# Used in a small tile
+;Official Mozilla gear is here
+Amptelike Mozilla-drag
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
+Handelsware by die honderde. <br>Produkte met 'n plan. <br>Goedere wat goed doen.
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Get your Mozilla gear
+Kry jou Mozilla-drag
+
+
+;Help Mozilla users
+Help Mozilla-gebruikers
+
+
+;Help millions <br>get the most from their <br>favorite browser.
+Help miljoene om <br>die beste te kry uit hul <br>gunsteling-blaaier.
+
+
+;Join our support team
+Sluit aan by ons steunspan
+
+
+# Used in Twitter feed
+;Reply
+Antwoord
+
+
+# Used in Twitter feed
+;Retweet
+Hertwiet
+
+
+# <strong> tags below are for visual formatting only.
+;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
+Verbonde tot <strong>jou, jou privaatheid</strong> en 'n <strong>ope web</strong>
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;active Mozillians <br>worldwide
+aktiewe bydraers tot <br>Mozilla, wêreldwyd
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;upcoming events <br>around the globe
+komende geleenthede <br>wêreldwyd
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;languages and counting, <br>on every continent
+tale op elke kontinent, <br>en dit word steeds meer
+
+
+;Get Involved with Mozilla today
+Raak vandag nog betrokke by Mozilla
+
+
+;Upcoming events
+Komende geleenthede
+
+
+;Next event
+Volgende geleentheid
+
+
+;See all events
+Sien alle geleenthede
+
+
+;Compare prices, check the weather, listen to music, send a tweet and more right from Firefox.
+Vergelyk pryse, hou die weer dop, luister na musiek, stuur 'n twiet en vele meer direk van Firefox af.
+
+
+;Careers
+Loopbane
+
+
+;Learn about the benefits of working at Mozilla and view open positions around the world.
+Inligting oor die voordele van 'n werk by Mozilla en beskikbare poste wêreldwyd.
+
+
+;Get answers to your questions about Firefox and all Mozilla products from our support team.
+Antwoorde van ons steunspan op vrae oor Firefox en alle Mozilla-produkte.
+
+
+;Discover more
+Ontdek meer
+
+
+;Help us celebrate 10 years of Firefox.
+Help ons om 10 jaar van Firefox te vier.
+
+
+# Old promo tiles
+;Donate to Mozilla
+Skenk aan Mozilla
+
+
+;Your gift helps us build the Internet the world needs.
+Jou donasie help ons om die internet te bou wat die wêreld nodig het.
+
+
+;Donate today
+Skenk vandag nog
+
+
+;Meet<br> Firefox Hello
+Ontmoet<br> Firefox Hello
+
+
+;The easiest way to connect for free over video.
+Die maklikste manier om gratis kontak te hou, met video.
+
+
+;Try Firefox Hello
+Probeer Firefox Hello
+
+
+;Try the Thimble code editor
+Try the Thimble code editor
+
+

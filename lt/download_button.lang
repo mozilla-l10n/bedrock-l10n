@@ -1,0 +1,84 @@
+## NOTE: Strings used in our download buttons. Test area: https://www-dev.allizom.org/styleguide/websites/sandstone/buttons/
+
+
+;Download Firefox
+Parsiųsti „Firefox“
+
+
+;Your system doesn't meet the <a href="%(url)s">requirements</a> to run Firefox.
+Jūsų sistema netenkina „Firefox“ naršyklės <a href="%(url)s">reikalavimų</a>.
+
+
+;<span>Firefox Beta</span> for Android
+<span>Firefox Beta</span> „Android“ įrenginiams
+
+
+;<span>Firefox Aurora</span> for Android
+<span>Firefox Aurora</span> „Android“ įrenginiams
+
+
+;<span>Firefox</span> for Android
+<span>Firefox</span> „Android“ įrenginiams
+
+
+;Get it free on Google Play
+Parsisiųskite nemokamai iš „Google Play“
+
+
+;<span>Firefox</span> for iOS
+<span>Firefox</span> „iOS“ įrenginiams
+
+
+;Get it free from the App Store
+Parsisiųskite nemokamai iš „App Store“
+
+
+;Firefox Beta
+Firefox Beta {ok}
+
+
+;Firefox Aurora
+Firefox Aurora {ok}
+
+
+;Free Download
+Parsisiųskite
+
+
+# Displayed in the download button for users of old versions of Firefox (should be short)
+;Update your Firefox
+Atnaujinkite savo „Firefox“ naršyklę
+
+
+;Supported Devices
+Palaikomi įrenginiai
+
+
+;Get it on Google Play
+Parsisiųskite iš „Google Play“
+
+
+;Get Firefox for Android
+Parsisiųskite „Firefox“ „Android“ įrenginiams
+
+
+;Download on the App Store
+Parsisiųskite iš „App Store“
+
+
+;Get Firefox for iOS
+Parsisiųskite „Firefox“ „iOS“ įrenginiams
+
+
+;What’s New
+Naujovės
+
+
+;Privacy
+Privatumas
+
+
+;Systems &amp; Languages
+Operacinės sistemos ir kalbos
+
+

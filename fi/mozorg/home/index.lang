@@ -1,0 +1,296 @@
+## active ##
+## gear_store ##
+## NOTE: demo server at https://www-dev.allizom.org/
+
+
+# Used as page title in HTML meta tag
+;We’re building a better Internet
+Rakennamme parempaa internetiä
+
+
+# Used as page description in HTML meta tag
+;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
+Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
+
+
+;Home of the Mozilla Project
+Mozilla-projektin koti
+
+
+;Read more
+Lue lisää
+
+
+;Community
+Yhteisö
+
+
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
+;Continue to mozilla.org
+Continue to mozilla.org
+
+
+;Discover <br>what drives our mission
+Tutustu siihen <br>mikä johtaa tehtäväämme
+
+
+;See the principles <br>that guide everything <br>we do.
+Katso periaatteet, <br>jotka ohjaavat kaikkia <br>tekojamme.
+
+
+;Read the <br>Mozilla Manifesto
+Lue <br>Mozilla-manifesti
+
+
+;Mozilla Developer Network
+Mozilla-kehittäjien verkko
+
+
+;10 years of documenting your Web.
+10 years of documenting your Web.
+
+
+;Celebrate with us
+Celebrate with us
+
+
+# Do no translate "Firefox Friends" (https://friends.mozilla.org)
+;Introducing <br>Firefox Friends
+Introducing <br>Firefox Friends
+
+
+;Join. Share. <br>Get rewarded.
+Join. Share. <br>Get rewarded.
+
+
+;Join Firefox Friends
+Join Firefox Friends
+
+
+# Small tile. Link points to https://advocacy.mozilla.org
+;Learn about Mozilla Advocacy
+Learn about Mozilla Advocacy
+
+
+;Understand your privacy online
+Ymmärrä tietosuojasi verkossa
+
+
+;Download Firefox
+Lataa Firefox
+
+
+;Introducing<br> the new Webmaker
+Introducing<br> the new Webmaker
+
+
+;Discover, create and share original content with the free Webmaker app.
+Discover, create and share original content with the free Webmaker app.
+
+
+;Learn more
+Lue lisää
+
+
+# This string is used on the little blue tile, see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach<br> the Web
+Teach<br> the Web
+
+
+;Make the Web you want
+Make the Web you want
+
+
+;Build a Web page or app in minutes<br> — no coding required.
+Build a Web page or app in minutes<br> — no coding required.
+
+
+;Become a Webmaker
+Ryhdy Webmakeriksi
+
+
+# This string is used as title on the big pink tile for locales that have not translated the new version above (Make the Web you want), see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach the Web
+Opeta verkkoa
+
+
+;Let’s build a Web that’s open <br>and made by everyone.
+Rakennetaan verkko, joka on avoin <br>ja kaikkien tekemä.
+
+
+;Build an app <br>in seconds
+Tee sovellus <br>sekunneissa
+
+
+;Volunteer <br>with Mozilla
+Ryhdy Mozillan <br>tukijaksi
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Try Firefox Developer Edition
+Try Firefox Developer Edition
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Introducing Firefox Developer Edition
+Introducing Firefox Developer Edition
+
+
+;The only browser made only for developers.
+The only browser made only for developers.
+
+
+;Get Firefox Developer Edition
+Get Firefox Developer Edition
+
+
+;Try the best Firefox yet
+Kokeile parasta Firefoxia tähän mennessä
+
+
+;Made with a mission to put you first.
+Tehty sinä etusijalla.
+
+
+;Learn more about Firefox
+Lue lisää Firefoxista
+
+
+;Put your Firefox on your Android
+Laita Firefox Androidiisi
+
+
+;The features <br>you love. <br>The privacy <br>you trust.
+Ominaisuudet, <br>joita rakastat. <br>Tietosuoja, <br>johon luotat.
+
+
+;Learn about <br>Firefox for Android
+Lue lisää <br>Firefoxin Android-versiosta
+
+
+# Used in a small tile
+;Official Mozilla gear is here
+Viralliset Mozilla-varusteet ovat täällä
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
+Myyjä, jolla on missio. <br>Tuotteita, jotka tekevät tehtävänsä. <br>Tavaroita, jotka tekevät hyvää.
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Get your Mozilla gear
+Hanki Mozilla-varusteita
+
+
+;Help Mozilla users
+Auta Mozillan käyttäjiä
+
+
+;Help millions <br>get the most from their <br>favorite browser.
+Auta miljoonia <br>saamaan eniten irti <br>suosikkiselaimestaan.
+
+
+;Join our support team
+Liity tukitiimiimme
+
+
+# Used in Twitter feed
+;Reply
+Vastaa
+
+
+# Used in Twitter feed
+;Retweet
+Twiittaa edelleen
+
+
+# <strong> tags below are for visual formatting only.
+;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
+Sitoutunut <strong>sinuun, tietosuojaasi</strong> ja <strong>avoimeen verkkoon</strong>
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;active Mozillians <br>worldwide
+aktiivista mozillalaista <br>maailmassa
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;upcoming events <br>around the globe
+tulevaa tapahtumaa <br>ympäri maailman
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;languages and counting, <br>on every continent
+kieltä ja lisää tulossa, <br>joka mantereella
+
+
+;Get Involved with Mozilla today
+Osallistu Mozillaan tänään
+
+
+;Upcoming events
+Tulevat tapahtumat
+
+
+;Next event
+Seuraava tapahtuma
+
+
+;See all events
+Katso kaikki tapahtumat
+
+
+;Compare prices, check the weather, listen to music, send a tweet and more right from Firefox.
+Vertaa hintoja, tarkista sää, kuuntele musiikkia, lähetä twiitti ja muuta, suoraan Firefoxista.
+
+
+;Careers
+Urat
+
+
+;Learn about the benefits of working at Mozilla and view open positions around the world.
+Lue lisää Mozillalla työskentelyn eduista ja katso avoimet paikat ympäri maailman.
+
+
+;Get answers to your questions about Firefox and all Mozilla products from our support team.
+Löydät vastaukset kysymyksiisi Firefoxiin ja kaikkiin Mozillan tuotteisiin liittyen tukitiimiltämme.
+
+
+;Discover more
+Lue lisää
+
+
+;Help us celebrate 10 years of Firefox.
+Help us celebrate 10 years of Firefox.
+
+
+# Old promo tiles
+;Donate to Mozilla
+Donate to Mozilla
+
+
+;Your gift helps us build the Internet the world needs.
+Your gift helps us build the Internet the world needs.
+
+
+;Donate today
+Donate today
+
+
+;Meet<br> Firefox Hello
+Meet<br> Firefox Hello
+
+
+;The easiest way to connect for free over video.
+The easiest way to connect for free over video.
+
+
+;Try Firefox Hello
+Try Firefox Hello
+
+
+;Try the Thimble code editor
+Try the Thimble code editor
+
+

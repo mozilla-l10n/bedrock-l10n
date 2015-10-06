@@ -1,0 +1,221 @@
+## active ##
+## firefox_sync_non_fx ##
+## fx38_sync_updates ##
+## ios_announce ##
+## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
+
+
+;Keep your Firefox in sync
+Deixe seu Firefox sincronizado
+
+
+;Ready, Set, Sync
+Preparar, apontar, sincronizar!
+
+
+;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
+Você já está cadastrado e pronto para acessar <em>seu</em> Firefox em qualquer lugar, a qualquer momento.
+
+
+;Take your Web with you
+Leve sua Web com você
+
+
+;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
+Sincronize seu Firefox em qualquer lugar que você precisar para acessar seus favoritos, senhas, abas e muito mais em seu smartphone, tablet ou computador.
+
+
+;Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
+Sincronize seus favoritos, senhas, abas e muito mais usando a sua conta Firefox e acesse-os em todos os lugares que estiver conectado.
+
+
+;It looks like you’re running an older version of Firefox.
+Parece que você está usando uma versão desatualizada do Firefox.
+
+
+;The new version of Sync only works with the latest version of Firefox
+A mais nova versão do Sync funcionará somente com a última versão do Firefox
+
+
+;Soon you’ll be able to use Sync on your iOS device
+Em breve você poderá utilizar o Sync no seu aparelho com iOS
+
+
+;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
+O Sync é só um dos vários recursos que você poderá usar com o Firefox. Conheça todos!
+
+
+# This string is displayed when you visit the page with a different browser (i.e. not Firefox)
+;Sync is just one of the great features you’ll only get with Firefox.
+O Sync é apenas um dos ótimos recursos que você só consegue com o Firefox.
+
+
+;Download Firefox for Android
+Baixe o Firefox para Android
+
+
+;Get started with Sync
+Comece a usar o Sync
+
+
+;Update your Firefox
+Atualize seu Firefox
+
+
+;Download Firefox
+Baixe o Firefox
+
+
+;Get started with Sync in four easy steps:
+Comece a usar o Sync com apenas quatro passos:
+
+
+# You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+# If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
+;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Abra o <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> no canto direito superior do Firefox e selecione "<strong>Entrar no Sync</strong>"
+
+
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Get started</strong>” in the tab that opens.
+Clique em "<strong>Criar conta</strong>" na aba que será aberta.
+
+
+# (NEW STRING) <strong> tags used for font color formatting.
+;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Digite um e-mail e uma senha e clique em "<strong>Criar uma conta Firefox.</strong>"
+
+
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Next</strong>” to get a verification sent to your email.
+Clique em "<strong>Próximo</strong>" para receber o link de ativação da conta.
+
+
+;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+Ao confirmar seu email, clicando no link de confirmação, seu Sync já estará funcionando automaticamente.
+
+
+;Get more detailed instructions.
+Ver instruções detalhadas.
+
+
+;Using an older version of Sync?
+Está usado a versão antiga do Sync?
+
+
+# This string is displayed on Android devices
+;How to set up Sync in five easy steps:
+Aprenda a usar o Sync nestes cinco passos:
+
+
+# <strong> tags below used for font color formatting.
+# This string is displayed on Android devices
+;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+Clique no botão <strong>Menu</strong> (embaixo do navegador ou na parte superior direita).
+
+
+# This string is displayed on Android devices
+;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+Selecione a opção <strong>Configurações</strong> (talvez seja necessário clicar em <strong>Mais</strong> antes).
+
+
+# This string is displayed on Android devices
+;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+Clique em <strong>Sync</strong> e depois <strong>Sincronizar</strong>.
+
+
+# This string is displayed on Android devices
+;The <strong>Create a Firefox Account page</strong> will open in a new tab.
+A página <strong>para criar uma conta Firefox</strong> vai ser aberta em uma nova aba.
+
+
+# This string is displayed on Android devices
+;Fill out the form and click <strong>Next</strong>.
+Preencha as informações e clique em <strong>Próximo</strong>.
+
+
+# This string is displayed on Android devices
+;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+Após confirmar seu email e clicar no link de verificação, o Sync estará automaticamente funcionando! Não se esqueça de conectar todos os seus aparelhos para aproveitar o Sync por completo.
+
+
+;Sync a little. Sync a lot.
+Sincronize tudo... ou não.
+
+
+;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
+Você escolhe aonde e quais informações quer sincronizar no seu Firefox. Mantenha suas abas abertas durante o dia... acesse seus favoritos no trabalho... Faça o que quiser, quando quiser e como quiser.
+
+
+;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
+Quer visitar abas abertas do seu computador a partir de outro dispositivo? Acessar o histórico de navegação em movimento? Ter suas senhas com você? Agora você pode.
+
+
+;Here’s what you can sync:
+Aqui está o que você pode sincronizar:
+
+
+;Bookmarks
+Favoritos
+
+
+;Passwords
+Senhas
+
+
+;Open tabs
+Abas abertas
+
+
+;History
+Histórico
+
+
+;At home
+Em casa
+
+
+;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+Saia da mesa de trabalho para o sofá sem perder nada. Acesse as abas que deixou abertas no computador em seu smartphone ou navegue por seus favoritos diretamente no seu tablet.
+
+
+;At work
+No trabalho
+
+
+;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
+Fique conectado com todas as informações importantes. Sincronize senhas e favoritos que você pode precisar acessar a qualquer momento.
+
+
+;On the go
+Por aí
+
+
+;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+Consulte seus sites favoritos, ou termine de ler aquela notícia que começou em casa em qualquer lugar. Com o Sync tudo fica fácil.
+
+
+;Add Firefox to your smartphone or tablet
+Adicione o Firefox no seu smartphone ou tablet
+
+
+;To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
+Para ter uma experiência de sincronização completa, baixe o Firefox para iOS ou Android e conecte todos os seus dispositivos - em todos os lugares e em qualquer lugar que usar o Firefox.
+
+
+;Add Firefox
+Adicione o Firefox
+
+
+;Have an <b>Android smartphone</b> or <b>tablet</b>?
+Tem um <b>telefone</b> ou <b>tablet</b> com Android?
+
+
+;DOWNLOAD FIREFOX FOR ANDROID
+BAIXE O FIREFOX PARA ANDROID
+
+
+;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+Para aproveitar o Sync por completo, leve sua Web com você em qualquer lugar com Firefox. Conecte seu smartphone, tablet, computador ou notebook.
+
+

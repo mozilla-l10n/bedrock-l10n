@@ -1,0 +1,818 @@
+;Navigation
+Inavigeyishini
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+<span>se</span> I-Desktop
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+<span>for</span> I-Android
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+<span>ukulungiselela i-</span> iOS
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+OS {ok}
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+Yeyee-desktops &amp; ii-laptops
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+Yeyeefeowni &amp; ii-tablets
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+Ushwankathelo
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+Ethembekileyo
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+Elungele yonke imeko
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+Ekhawulezayo
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+Malunga
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+Izixhobo
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+Yeyamahlakane
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+Ii-Apps
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+Musa ukulanda umkhondo
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Iithayili
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Yenza i-Dashboard ibenomdla
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Umenzi wohlelo
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+Ukubhrawuza kwangasese
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+Ufuna uncedo?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+Iindaba
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+Yeyabaphuhlisi
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Fumana Isixhobo Sam
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+Abaphuhlisi
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+Khetha ibhrawuza ezimeleyo
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+I-Firefox ayenzi nzuzo, ayoyequmrhu, ayikrokrelisi. Ukukhetha i-Firefox ayikokukhetha ibhrawuza nje. Yivoti yenkululeko yakho buqu.
+
+
+;Donate
+Nikela
+
+
+;Support
+Inkxaso
+
+
+;Products
+Iimveliso
+
+
+;Add-ons
+Izongezelelo
+
+
+;About Us
+Malunga nathi
+
+
+;Labs
+Iilebhu
+
+
+;skip to Navigation
+tsibela kuNavigeyishini
+
+
+;switch language
+tshintsha ulwimi
+
+
+;Back to home page
+Buyela kwiphepha lasekhaya
+
+
+;About Mozilla
+Malunga ne-Mozilla
+
+
+;Get Involved
+Bandakanyeka
+
+
+;Careers
+Imisebenzi
+
+
+;Press Center
+Iziko leendaba
+
+
+;Contact Us
+Qhagamshelana nathi
+
+
+;Other languages:
+Ezinye iilwimi:
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+I-%Y-%m-%d
+
+
+;Legal
+Okusemthethweni
+
+
+# Used as link in the footer
+;Cookies
+Iikhukhi
+
+
+# Used as link in the footer
+;Firefox Affiliates
+Amahlakani ka-Firefox
+
+
+;Legal Notices
+Izaziso zasemthethweni
+
+
+;Privacy Policy
+Umgaqo-nkqubo Wabucala
+
+
+;Release Notes
+Amanqaku oshicilelo
+
+
+;Other Systems and Languages
+Ezinye iiSistim neeLwimi
+
+
+;Close
+Vala
+
+
+;(in English)
+(ngesiNgesi)
+
+
+;Return to top
+Buyela phezulu
+
+
+;Features
+Iinkalo
+
+
+;Customize
+Lungiselela
+
+
+;Download
+Khuphela
+
+
+;Previous
+Ngaphambili
+
+
+;Next
+Okulandelayo
+
+
+# MegaBytes abbreviation
+;MB
+I-MB
+
+
+;MegaBytes
+ii-Megabytes
+
+
+;FAQ
+I-FAQ
+
+
+;Videos
+Iividiyo
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+Ngaphandle kokuba kwenzeke ngendlela <a href="%s">noted</a>, isiqulatho sale sayithi silayiseniswe ngaphantsi ko- <br /><a href="%s">yokuba zibe iiNgcaphephe zisaBelana Ngelayisenisi Efanayo v3.0</a> okanye uhlelo lwamvanje.
+
+
+;Report Trademark Abuse
+Xela ukuXhatshazwa koPhawu loRhwebo
+
+
+;Free Upgrade
+Uhlaziyo lwasimahla
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+Silandele:
+
+
+;Customize with Add-ons
+Lungiselela ngeZongezelelo
+
+
+;Learn More
+Funda Ngokuthe vetshe
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+Funda okuninzi
+
+
+# Link used to play again an animation or a video
+;Replay
+Phinda udlale
+
+
+;Watch the video
+Bukela ividiyo
+
+
+;Replay the video
+Dlala ividiyo kwakhona
+
+
+;Share the video
+Yabelana ngevidiyo
+
+
+;WebM format
+Ifomati ye-WebM
+
+
+;Ogg Theora format
+Ifomati ye-Ogg Theora
+
+
+;MPEG-4 format
+Ifomati ye-MPEG-4
+
+
+;Mobile
+Imobhayile
+
+
+;Check out the new look and feel of Firefox.
+Jonga inkangeleko entsha nemvakalo ye-Firefox.
+
+
+;View Full Site
+Jonga Isayithi Epheleleyo
+
+
+;Download for <span>Android</span>
+Khuphelela i-<span>Android</span>
+
+
+;Desktop
+Idesktopu
+
+
+;Firefox Beta for mobile
+I-Firefox Beta yemobhayile
+
+
+;Firefox for mobile
+I-Firefox yemobhayile
+
+
+;Email
+I-imeyile
+
+
+;Super speed
+Isantya esixhomileyo
+
+
+;Stunning graphics
+Iigrafiki ezimangalisayo
+
+
+;The latest technologies
+Ubugcisa bamvanje
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+Ufuna ehlaziyiweyo! Hlala ukhuselekile ngaphantsi komzuzu. <br/> Qala ukusebenzisa iFirefox yakho entsha ukuze ubhrawuze yaye uqhelanise ngcono kwiWebhu. <br/>   Iyakhawuleza kwaye ikhuselekile!
+
+
+;Upgrade now
+Hlaziya ngoku
+
+
+;Update now
+Hlaziya ngoku
+
+
+;Supported Devices
+Izixhobo ezixhasiweyo
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+Yintoni Entsha
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+Okwabucala
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+Iinxalenye zesi siqulatho zi- ©1998–%(current_year)s ziyilwe ngabanikeli be-mozilla.org. Umba ofumanekayo phantsi <a href="%(url)s">kwelayisenisi ye-Creative Commons</a>.
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+Nikela kweli sayithi
+
+
+# Footer string
+;Contribute to this page
+Nikela kweli phepha
+
+
+# Top menu item
+;Mission
+Umsebenzi
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+Ukhenketho
+
+
+# Footer item
+;Partner with Us
+Zimanye nathi
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+Ngqamanisa
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+Izongezelelo zedesktophu
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+Izongezelelo ze-Android
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+Imixholo
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+Inkxaso Yedesktophu
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+Inkxaso ye-Android
+
+
+# Top menu item on firefox/update page
+;Performance
+Ukusebenza
+
+
+# Top menu item on firefox/update page
+;Technology
+Ubuchwepheshe
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+Ubungasese &amp; uKhuseleko
+
+
+# Top menu item on firefox/update page
+;Releases
+Okushicilelweyo
+
+
+# Top menu item on firefox/update page
+;Firefox
+I-Firefox
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+I-Firefox yeMibutho
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+Izongezelelo zemobhayile
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+Inkxaso yemobhayile
+
+
+# Top menu item on firefox/update page
+;Blog
+Ibhlogu
+
+
+# Top menu item on firefox/update page
+;About Firefox
+Malunga ne-Firefox
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+Joyina i-Mozilla
+
+
+# Top menu item on firefox/update page
+;Participate
+Thabatha inxaxheba
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
+;Volunteer
+Itsha-ntliziyo
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+Ikiti Yezixhobo ZeBhrendi
+
+
+# Top menu item on firefox/update page
+;Partnerships
+Amahlakani
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+Fumana izihlaziyo ze-Mozilla
+
+
+# share button for social networks
+;Share
+Yabelana
+
+
+# footer link
+;Mozilla on Twitter
+I-Mozilla ku-Twitter
+
+
+# footer link
+;Firefox on Twitter
+I-Firefox ku-Twitter
+
+
+# footer link
+;Mozilla on Facebook
+I-Mozilla ku-Facebook
+
+
+# footer link
+;Firefox on Facebook
+I-Firefox ku-Facebook
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+Amaqonga
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Ubunkokheli
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+Ulawulo
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+Imbali
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+Imveliso yethu
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+Isoftwe nokunye okuqanjiweyo okulungiselelwe ukuphuhlisa injongo yethu.
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+Yiba ngumsebenzi olivolontiya kwiindawo ezininzi ezahlukeneyo.
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+Imenyu
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+Izinikezele kuwe, kubungasese bakho kwaye ivula iwebhu
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+Khetha uZimele
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Gcina uthando lweIntanethi evulekileyo nemahala ekhanya ngokucacileyo! #ChooseIndependent. Khetha i-Firefox:
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+Nceda uvule i-JavaScript ukuze ibonise eli phepha ngokuchanekileyo.
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+Iinkalo ze-Firefox
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+Uncedo lwe-Firefox
+
+
+;January
+Janyuwari
+
+
+;February
+Febhruwari
+
+
+;March
+Matshi
+
+
+;April
+Epreli
+
+
+;May
+Meyi
+
+
+;June
+Juni
+
+
+;July
+Julayi
+
+
+;August
+Agasti
+
+
+;September
+Septemba
+
+
+;October
+Okthobha
+
+
+;November
+Novemba
+
+
+;December
+Disemba
+
+
+;<abbr>Jan</abbr>
+<abbr>uJan</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>uFebh</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>uMatsh</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>uEpr</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>uMey</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>uJun</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>uJul</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>uOga</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>uSep</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>uOkth</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>uNov</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>uDis</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+I-Firefox iyeza kwakamsinya ku-iOS! <a href="{url}">Sayina ukuze ufunde ngakumbi</a>.
+
+
+;Congrats. You’re up to date!
+Uvuyiswano. Usemgangathweni!
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+;Format
+Ufomatho
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;Text
+Umbhalo
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;HTML
+HTML
+
+
+# This is the error message displayed if you provide an invalid email address in a form
+;Whoops! Be sure to enter a valid email address.
+Hayibo! Qiniseka ukufaka idilesi ye-imeyili esebenzayo.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+Ndilungile kwiMozilla ukuba isingathe inkcazelo njengoko kuchaziwe <a href="%s">kule Mgaqo-nkqubo Wabucala</a>
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Fumana iindaba zeFirefox
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+I-IMEYILI YAKHO APHA
+
+
+# Subscription Button
+;Sign me up
+Ndibhaliseni
+
+
+;Select country
+Khetha ilizwe
+
+
+;Available Languages
+Iilwimi Ezifumanekayo
+
+
+;We will only send you Mozilla-related information.
+Siza kukuthumelela kuphela inkcazelo ehlobene neMozilla.
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Ngombulelo! Sicela uhlole ibhokisi yakho yee-imeyili ukuqinisekisa umrhumo wakho.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Uza kufumana i-imeyili esuka kwi-mozilla@e.mozilla.org eqinisekisa umrhumo wakho. Ukuba akuyiboni, hlola ifiltha yakho yemiyalezo eyimfitshimfitshi. Ufanele uqinisekise umrhumo wakho ukuze ufumane ileta yeendaba.
+
+
+;Read all about it in our <span>newsletter</span>
+Funda ngako konke <span>kwileta yethu yeendaba </span>
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Rhumela ezihlaziyiweyo nyanga zonke uze uhlale ungasemoyeni kwiindaba zeMozilla, kuquka amacebiso namacebo amvanje okufumana okona-kona kwibhrawuza yakho yeMozilla. Yeyona ndlela igqibeleleyo yokuhlala sinxibelelene!
+
+

@@ -1,0 +1,300 @@
+## active ##
+## fx10_independent ##
+## gear_store ##
+## meta_update_201503 ##
+## privacy_day ##
+## webmaker_promo_make ##
+## NOTE: demo server at https://www-dev.allizom.org/
+
+
+# Used as page title in HTML meta tag
+;We’re building a better Internet
+ပိုမိုကောင်းမွန်သော အင်တာနက်ကိုတည်ဆောင်နေသည်
+
+
+# Used as page description in HTML meta tag
+;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
+သင်သိလား? မိုဇီလာ - မီးမြေခွေးဖန်တီးသူ - သည် ကမ္ဘာလုံးဆိုင်ရာအများဆိုင် အင်တာနက်အား ပွင့်လင်းမြင်သာရန် နှင့် သုံးဆွဲနိုင်ရန် ကြိုးပမ်းပေးနေပါသည်။
+
+
+;Home of the Mozilla Project
+မိုဇီလာစီမံကိန်း ပင်မစာမျက်နှာ
+
+
+;Read more
+ဆက်လက်လေ့လာ
+
+
+;Community
+ကွန်မြူနတီ
+
+
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
+;Continue to mozilla.org
+mozilla.org သို့ ဆက်ပါ
+
+
+;Discover <br>what drives our mission
+<br>ကျွနု်ပ်တို့၏ ရည်မှန်းချက်အား လေ့လာပါ
+
+
+;See the principles <br>that guide everything <br>we do.
+ကျွနု်ပ်တို့ လုပ်ဆောင်ချက်မှန်သမျှအား <br>ထိန်းကြောင်းပေးသည့်<br> ကျင့်ဝတ်များကိုကြည့်ပါ
+
+
+;Read the <br>Mozilla Manifesto
+<br>Mozilla Manifesto ကိုဖတ်ပါ
+
+
+;Mozilla Developer Network
+Mozilla Developer Network {ok}
+
+
+;10 years of documenting your Web.
+10 years of documenting your Web.
+
+
+;Celebrate with us
+Celebrate with us
+
+
+# Do no translate "Firefox Friends" (https://friends.mozilla.org)
+;Introducing <br>Firefox Friends
+Introducing <br>Firefox Friends
+
+
+;Join. Share. <br>Get rewarded.
+Join. Share. <br>Get rewarded.
+
+
+;Join Firefox Friends
+Join Firefox Friends
+
+
+# Small tile. Link points to https://advocacy.mozilla.org
+;Learn about Mozilla Advocacy
+မိုဇီလာ၏ ပွင့်လင်းပေါ်လစီကို လေ့လာကြည့်ပါ
+
+
+;Understand your privacy online
+သင်၏ အွန်လိုင်းလုံခြုံရေး အကြောင်း သိထားပါ
+
+
+;Download Firefox
+မီးမြေခွေးအားဒေါင်းလုဒ်ရယူပါ
+
+
+;Introducing<br> the new Webmaker
+Introducing<br> the new Webmaker
+
+
+;Discover, create and share original content with the free Webmaker app.
+Discover, create and share original content with the free Webmaker app.
+
+
+;Learn more
+ဆက်လက်လေ့လာ
+
+
+# This string is used on the little blue tile, see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach<br> the Web
+Teach<br> the Web
+
+
+;Make the Web you want
+အင်တာနက်အား ပုံဖော်ကြည့်ပါ
+
+
+;Build a Web page or app in minutes<br> — no coding required.
+ဝတ်ဆိုဒ် သို့ အက်ပ်တစ်ခုအား မိနစ်ပိုင်းအတွင်း တည်ဆောင်ပါ<br> - ပရိုဂရမ်ရေးကုဒ် ရေးခြင်းမလို
+
+
+;Become a Webmaker
+ဝတ်​တည်​ဆောက်သူ​တစ်​ယောက် ဖြစ်လာ​ရန်
+
+
+# This string is used as title on the big pink tile for locales that have not translated the new version above (Make the Web you want), see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach the Web
+အင်တာနက်ဆိုင်ရာနည်းပညာများသင်ကြားပါ
+
+
+;Let’s build a Web that’s open <br>and made by everyone.
+<br>အများမှ တည်ဆောက်ထားပြီး ပွင့်လင်းမြင်သာတဲ့ အင်တာနက်ဖြစ်အောင် တည်ဆောက်ကြစို့
+
+
+;Build an app <br>in seconds
+<br>စက္ကန့်​အတွင်း အပ​လီ​ကေး​ရှင်း​တစ်​ခု​ကို တည်ဆောက်​ရန်
+
+
+;Volunteer <br>with Mozilla
+မီး​မြေခွေး​နှင့် စေ​တ​နာ့​ဝန်​ထမ်း<br>ဦး
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Try Firefox Developer Edition
+Try Firefox Developer Edition
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Introducing Firefox Developer Edition
+Developer များအတွက်မီးမြေခွေးအသစ်ကိုမိတ်ဆက်ပါတယ်
+
+
+;The only browser made only for developers.
+Developers များအတွက် သီးသန့်ပြုလုပ်ထားသော တစ်ခုတည်းသော ဘယောက်ဆာ
+
+
+;Get Firefox Developer Edition
+မီးမြေခွေးဖန်တီးသူဗားရှင်းအား ရယူပါ
+
+
+;Try the best Firefox yet
+မီးမြေခွေးရဲ့ အကောင်းဆုံးကို စမ်းကြည့်ပါ
+
+
+;Made with a mission to put you first.
+သင့်ကို ဦးစားပေးတဲ့ ရည်မှန်းချက်နဲ့ ပြုလုပ်ထားတယ်
+
+
+;Learn more about Firefox
+မီးမြေခွေးအကြောင်းဆက်လက်လေ့လာ
+
+
+;Put your Firefox on your Android
+မီးမြေခွေးအားသင့် အန်းဒရိုက်ဖုန်းတွင်သုံးပါ
+
+
+;The features <br>you love. <br>The privacy <br>you trust.
+သင်ကြိုက်နှစ်သက်သော <br>လုပ်ဆောင်ချက်များ။ <br>သင်စိတ်ချရမယ့် <br> လုံခြုံရေး
+
+
+;Learn about <br>Firefox for Android
+<br>Android အတွက်မီးမြေခွေး
+
+
+# Used in a small tile
+;Official Mozilla gear is here
+တရားဝင်မိုဇီလာလက်ဆောင်ပစ္စည်းများ
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
+ရည်မှန်းချက်တစ်ခု ရှိတဲ့ <br>ထုတ်ကုန်များ။ <br>​ ကောင်းတာလုပ်နေတဲ့ ပစ္စည်းတွေ
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Get your Mozilla gear
+သင့်မိုဇီလာလက်ဆောင်ကိုရယူလိုက်ပါ
+
+
+;Help Mozilla users
+မိုဇီလာသုံးဆွဲသူတွေကို ကူညီပါ
+
+
+;Help millions <br>get the most from their <br>favorite browser.
+သန်းပေါင်းများစွာကို <br>၎င်းတို့အကြိုက်ဘယောက်ဆာကို<br> သုံးဆွဲခြင်းဖြင့် ကူညီပါ
+
+
+;Join our support team
+ကျွနု်ပ်တို့၏ ထောက်ပံအသင်းသို့ ဝင်ပါ
+
+
+# Used in Twitter feed
+;Reply
+စာပြန်ပါ
+
+
+# Used in Twitter feed
+;Retweet
+ပြန်တွိစ်ပါ
+
+
+# <strong> tags below are for visual formatting only.
+;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
+<strong>သင့်လုံခြုံရေး</strong> နဲ့ <strong>လွတ်လပ်တဲ့ အင်တာနက်</strong> အတွက် အထူးအလေးပေးထားတယ်။
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;active Mozillians <br>worldwide
+တကမ္ဘာလုံးရှိ <br> တက်ကြွမိုဇီလာအဖွဲသားများ
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;upcoming events <br>around the globe
+တကမ္ဘာလုံးရှိ  <br> ပွဲများ
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;languages and counting, <br>on every continent
+တိုက်ကြီးတိုင်း ရှိ ဘာသာစကားများ <br> ထောက်ပံ့ပေးပြီး အသစ်ထပ်ထည့်ဖိုးအစဉ်ကြိုးစားလျက်
+
+
+;Get Involved with Mozilla today
+မိုဇီလာကို ဒီနေ့ပဲ ပါဝင်ကူညီလိုက်ပါ
+
+
+;Upcoming events
+လာမည့် ပွဲများ
+
+
+;Next event
+နောက်ထပ် ပွဲ
+
+
+;See all events
+ပွဲများအားလုံးကြည့်
+
+
+;Compare prices, check the weather, listen to music, send a tweet and more right from Firefox.
+မီးမြေခွေးထဲမှနေပြီး စျေးနှူန်းများအား​နှိုင်းယှဉ်၊ ရာသီဥတုအခြေအနေကြည့်၊ သီချင်းနားထောင်၊ တွိစ်တစ်ခုရေး
+
+
+;Careers
+အလုပ်အကိုင်အခွင့်အလမ်းများ
+
+
+;Learn about the benefits of working at Mozilla and view open positions around the world.
+မိုဇီလာတွင် အလုပ်လုပ်ခြင်းဖြင့် ရနိုင်သော အကျိုးကျေးဇူးများကို နှင့် ခေါ်ဆိုနေသော ရာထူးများကိုကြည့်မည်
+
+
+;Get answers to your questions about Firefox and all Mozilla products from our support team.
+မီးမြေခွေး နှင့် မိုဇီလာ ထုတ်ကုန်များအတွက် သင့်မေးခွန်းများအတွက် အဖြေများကို ထောက်ပံ့အသင်းဆီ မှ တောင်းခံပါ
+
+
+;Discover more
+နောက်ထပ်ဆက်ရှာဖွေပါ
+
+
+;Help us celebrate 10 years of Firefox.
+မီးမြေခွေး 10 နှင့်ပြည့် အထိမ်းအမှတ်ကို ကူညီဆင်နွဲပါ
+
+
+# Old promo tiles
+;Donate to Mozilla
+မိုဇီလာသို့ လှုတန်းမည်
+
+
+;Your gift helps us build the Internet the world needs.
+သင့်လက်ဆောင်ဟာ ပိုမိုကောင်းမွန်သောအင်တာနက် ပြုလုပ်ရာတွင် အထောက်အပံ့ဖြစ်မည်
+
+
+;Donate today
+ယခုပဲ လှူလိုက်ပါ
+
+
+;Meet<br> Firefox Hello
+<br>Firefox Hello အားသုံးကြည့်
+
+
+;The easiest way to connect for free over video.
+အခမဲ့ ရုပ်မြင်သံကြား ခေါ်ဆိုမှုပြုလုပ်ရန် အလွယ်ကူဆုံးနည်းလမ်း
+
+
+;Try Firefox Hello
+မီးမြေခွေးဟယ်လိုအား စမ်းကြည့်
+
+
+;Try the Thimble code editor
+Try the Thimble code editor
+
+

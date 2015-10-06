@@ -1,0 +1,818 @@
+;Navigation
+ਨੇਵੀਗੇਸ਼ਨ
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+ਡੈਸਕਟਾਪ <span>ਲਈ</span>
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+ਐਂਡਰਾਇਡ <span>ਲਈ</span>
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+<span>iOS</span> ਲਈ
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+OS {ok}
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+ਡੈਸਕਟਾਪ ਤੇ ਲੈਪਟਾਪਾਂ ਲਈ
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+ਫ਼ੋਨਾਂ ਤੇ ਟੇਬਲੇਟਾਂ ਲਈ
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+ਆਮ ਜਾਣਕਾਰੀ
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+ਭਰੋਸੇਯੋਗ
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+ਆਗਿਆਕਾਰੀ
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+ਤੇਜ਼
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+ਇਸ ਬਾਰੇ
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+ਡਿਵਾਇਸ
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+ਹਿੱਸੇਦਾਰਾਂ ਬਾਰੇ
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+ਐਪਸ
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+ਟਰੈਕ ਨਾ ਕਰੋ
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+ਟਾਈਲਾਂ
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+ਸ਼ੌਕ ਡੈਸ਼-ਬੋਰਡ
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+ਡਿਵੈਲਪਰ ਐਡੀਸ਼ਨ
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+ਮਦਦ ਚਾਹੀਦੀ ਹੈ?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+ਖ਼ਬਰਾਂ
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+ਡਿਵੈਲਪਰਾਂ ਲਈ
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+ਮੇਰਾ ਡਿਵਾਇਸ ਲੱਭੋ
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+ਡਿਵੈਲਪਰ
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+ਆਜ਼ਾਦ ਬਰਾਊਜ਼ਰ ਚੁਣੋ
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+ਫਾਇਰਫਾਕਸ ਗ਼ੈਰ-ਫਾਇਦਾ, ਗ਼ੈਰ-ਕਾਰਪੋਰੇਟ, ਬਿਨ-ਸਮਝੌਤੇ ਹੈ। ਫਾਇਰਫਾਕਸ ਚੁਣਨਾ ਕੇਵਲ ਬਰਾਊਜ਼ਰ ਦੀ ਚੋਣ ਨਹੀਂ ਹੈ। ਇਹ ਵੋਟ ਹੈ ਨਿੱਜੀ ਆਜ਼ਾਦੀ ਲਈ।
+
+
+;Donate
+ਦਾਨ ਦਿਓ
+
+
+;Support
+ਸਹਿਯੋਗ
+
+
+;Products
+ਪਰੋਡੱਕਟ
+
+
+;Add-ons
+ਐਡ-ਆਨ
+
+
+;About Us
+ਸਾਡੇ ਬਾਰੇ
+
+
+;Labs
+ਲੈਬ
+
+
+;skip to Navigation
+ਨੇਵੀਗੇਸ਼ਨ ਉੱਤੇ ਜਾਓ
+
+
+;switch language
+ਭਾਸ਼ਾ ਬਦਲੋ
+
+
+;Back to home page
+ਮੁੱਖ ਸਫ਼ੇ ਉੱਤੇ ਵਾਪਸ ਜਾਓ
+
+
+;About Mozilla
+ਮੋਜ਼ੀਲਾ ਬਾਰੇ
+
+
+;Get Involved
+ਸਾਥ ਦਿਓ
+
+
+;Careers
+ਕੈਰੀਅਰ
+
+
+;Press Center
+ਪਰੈੱਸ ਸੈਂਟਰ
+
+
+;Contact Us
+ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ
+
+
+;Other languages:
+ਹੋਰ ਭਾਸ਼ਾਵਾਂ:
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+%d-%m-%Y
+
+
+;Legal
+ਕਨੂੰਨੀ
+
+
+# Used as link in the footer
+;Cookies
+ਕੂਕੀਜ਼
+
+
+# Used as link in the footer
+;Firefox Affiliates
+ਫਾਇਰਫਾਕਸ ਸੰਬੰਧ
+
+
+;Legal Notices
+ਕਨੂੰਨੀ ਨੋਟਿਸ
+
+
+;Privacy Policy
+ਪਰਦੇਦਾਰੀ ਨੀਤੀ
+
+
+;Release Notes
+ਰੀਲਿਜ਼ ਨੋਟਿਸ
+
+
+;Other Systems and Languages
+ਹੋਰ ਸਿਸਟਮ ਤੇ ਬੋਲੀਆਂ
+
+
+;Close
+ਬੰਦ ਕਰੋ
+
+
+;(in English)
+(ਅੰਗਰੇਜ਼ੀ ਵਿੱਚ)
+
+
+;Return to top
+ਉੱਤੇ ਜਾਓ
+
+
+;Features
+ਫੀਚਰ
+
+
+;Customize
+ਕਸਟਮਾਈਜ਼
+
+
+;Download
+ਡਾਊਨਲੋਡ
+
+
+;Previous
+ਪਿੱਛੇ
+
+
+;Next
+ਅੱਗੇ
+
+
+# MegaBytes abbreviation
+;MB
+MB {ok}
+
+
+;MegaBytes
+ਮੈਗਾਬਾਈਟ
+
+
+;FAQ
+ਸਵਾਲ-ਜਵਾਬ
+
+
+;Videos
+ਵੀਡੀਓ
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+ਜਿੱਥੇ ਕਿਤੇ <a href="%s">ਦੱਸਿਆ ਗਿਆ ਹੋਵੇ</a> ਨੂੰ ਛੱਡ ਕੇ, ਇਹ ਸਾਈਟ ਦੀ ਸਮੱਗਰੀ ਨੂੰ<br /><a href="%s">ਕਰੀਏਟਿਵ ਕਾਮਨਜ਼ ਐਟਰੀਬਿਊਸ਼ਨ ਸ਼ੇਅਰ-ਅਲਾਇਕ ਲਸੰਸ ੩.੦</a> ਜਾਂ ਨਵੇਂ ਅਧੀਨ ਲਸੰਸ ਦਿੱਤਾ ਗਿਆ ਹੈ।
+
+
+;Report Trademark Abuse
+ਟਰੇਡਮਾਰਕ ਉਲੰਘਣ ਦੀ ਜਾਣਕਾਰੀ
+
+
+;Free Upgrade
+ਮੁਫ਼ਤ ਅੱਪਗਰੇਡ
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+ਸਾਨੂੰ ਫ਼ੋਲੋ ਕਰ:
+
+
+;Customize with Add-ons
+ਐਡ-ਆਨ ਨਾਲ ਪਸੰਦੀਦਾ ਬਣਾਓ
+
+
+;Learn More
+ਹੋਰ ਜਾਣੋ
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+ਹੋਰ ਜਾਣੋ
+
+
+# Link used to play again an animation or a video
+;Replay
+ਮੁੜ-ਚਲਾਓ
+
+
+;Watch the video
+ਵੀਡੀਓ ਵੇਖੋ
+
+
+;Replay the video
+ਵੀਡੀਓ ਮੁੜ-ਚਲਾਓ
+
+
+;Share the video
+ਵੀਡੀਓ ਸਾਂਝੀ ਕਰੋ
+
+
+;WebM format
+WebM ਫਾਰਮੈਟ
+
+
+;Ogg Theora format
+Ogg ਥੋਰਾ ਫਾਰਮੈਟ
+
+
+;MPEG-4 format
+MPEG-4 ਫਾਰਮੈਟ
+
+
+;Mobile
+ਮੋਬਾਇਲ
+
+
+;Check out the new look and feel of Firefox.
+ਫਾਇਰਫਾਕਸ ਦੀ ਨਵੀਂ ਦਿੱਖ ਤੇ ਰੂਪ ਨੂੰ ਅੱਜ ਵਰਤ ਕੇ ਵੇਖੋ।
+
+
+;View Full Site
+ਪੂਰੀ ਸਾਈਟ ਵੇਖੋ
+
+
+;Download for <span>Android</span>
+<span>ਐਂਡਰਾਇਡ</span> ਲਈ ਡਾਊਨਲੋਡ ਕਰੋ
+
+
+;Desktop
+ਡੈਸਕਟਾਪ
+
+
+;Firefox Beta for mobile
+ਮੋਬਾਇਲ ਲਈ ਫਾਇਰਫਾਕਸ ਬੀਟਾ
+
+
+;Firefox for mobile
+ਮੋਬਾਇਲ ਲਈ ਫਾਇਰਫਾਕਸ
+
+
+;Email
+ਈਮੇਲ
+
+
+;Super speed
+ਸੁਪਰ ਸਪੀਡ
+
+
+;Stunning graphics
+ਸ਼ਾਨਦਾਰ ਗਰਾਫਿਕਸ
+
+
+;The latest technologies
+ਸਭ ਤੋਂ ਨਵੀਆਂ ਤਕਨੀਕਾਂ
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+ਤੁਹਾਨੂੰ ਅੱਪਗਰੇਡ ਕਰਨ ਦੀ ਲੋੜ ਹੈ! ਇੱਕ ਮਿੰਟ ਤੋਂ ਵੀ ਘੱਟ ਸਮੇਂ ਵਿੱਚ ਸੁਰੱਖਿਅਤ ਬਣੋ। <br/> ਵੈੱਬ ਉੱਤੇ ਸਭ ਤੋਂ ਵਧੀਆ ਬਰਾਊਜ਼ ਕਰਨ ਅਤੇ ਪਸੰਦ ਮੁਤਾਬਕ ਢਾਲਣ ਲਈ ਆਪਣੇ ਨਵੇਂ ਫਾਇਰਫਾਕਸ ਨੂੰ ਵਰਤਣਾ ਸ਼ੁਰੂ ਕਰੋ <br/>   ਇਹ ਤੇਜ਼ ਅਤੇ ਮੁਫ਼ਤ ਹੈ!
+
+
+;Upgrade now
+ਹੁਣੇ ਅੱਪਗਰੇਡ ਕਰੋ
+
+
+;Update now
+ਹੁਣੇ ਅੱਪਡੇਟ ਕਰੋ
+
+
+;Supported Devices
+ਸਹਾਇਕ ਜੰਤਰ
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+ਨਵਾਂ ਕੀ ਹੈ
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+ਪਰਦੇਦਾਰੀ
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+ਇਹ ਸਮੱਗਰੀ ਦੇ ਹਿੱਸੇ ©1998–%(current_year)s ਵੱਖ-ਵੱਖ mozilla.org ਦਾ ਯੋਗਦਾਨ ਹਨ। ਸਮੱਗਰੀ <a href="%(url)s">ਕਰੀਏਟਿਵ ਕਾਮਨਜ਼ ਲਸੰਸ</a> ਅਧੀਨ ਹੈ।
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+ਇਹ ਸਾਈਟ ਲਈ ਯੋਗਦਾਨ ਦਿਓ
+
+
+# Footer string
+;Contribute to this page
+ਇਹ ਸਫ਼ੇ ਲਈ ਯੋਗਦਾਨ ਦਿਓ
+
+
+# Top menu item
+;Mission
+ਮਕਸਦ
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+ਦੌਰਾ ਕਰੋ
+
+
+# Footer item
+;Partner with Us
+ਸਾਡੇ ਨਾਲ ਹਿੱਸੇਦਾਰ ਬਣੋ
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+ਸਿੰਕ
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+ਡੈਸਕਟਾਪ ਐਡ-ਆਨ
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+ਐਂਡਰਾਇਡ ਐਡ-ਆਨ
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+ਥੀਮ
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+ਡੈਸਕਟਾਪ ਸਹਿਯੋਗ
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+ਐਂਡਰਾਇਡ ਸਹਾਇਤਾ
+
+
+# Top menu item on firefox/update page
+;Performance
+ਕਾਰਗੁਜ਼ਾਰੀ
+
+
+# Top menu item on firefox/update page
+;Technology
+ਤਕਨੀਕ
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+ਪਰਦੇਦਾਰੀ ਤੇ ਸੁਰੱਖਿਆ
+
+
+# Top menu item on firefox/update page
+;Releases
+ਰੀਲਿਜ਼
+
+
+# Top menu item on firefox/update page
+;Firefox
+ਫਾਇਰਫਾਕਸ
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+ਸੰਗਠਨਾਂ ਲਈ ਫਾਇਰਫਾਕਸ
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+ਮੋਬਾਇਲ ਐਡ-ਆਨ
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+ਮੋਬਾਇਲ ਸਹਿਯੋਗ
+
+
+# Top menu item on firefox/update page
+;Blog
+ਬਲੌਗ
+
+
+# Top menu item on firefox/update page
+;About Firefox
+ਫਾਇਰਫਾਕਸ ਬਾਰੇ
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+ਮੋਜ਼ੀਲਾ ਜੁਆਇੰਨ ਕਰੋ
+
+
+# Top menu item on firefox/update page
+;Participate
+ਭਾਗ ਲਵੋ
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
+;Volunteer
+Volunteer
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+ਮਾਰਕਾ ਟੂਲਕਿੱਟ
+
+
+# Top menu item on firefox/update page
+;Partnerships
+ਹਿੱਸੇਦਾਰੀ
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+ਮੋਜ਼ੀਲਾ ਅੱਪਡੇਟ ਲਵੋ
+
+
+# share button for social networks
+;Share
+ਸਾਂਝਾ ਕਰੋ
+
+
+# footer link
+;Mozilla on Twitter
+ਮੋਜ਼ੀਲਾ ਟਵਿੱਟਰ ਉੱਤੇ
+
+
+# footer link
+;Firefox on Twitter
+ਫਾਇਰਫਾਕਸ ਟਵਿੱਟਰ ਉੱਤੇ
+
+
+# footer link
+;Mozilla on Facebook
+ਮੋਜ਼ੀਲਾ ਫੇਸਬੁੱਕ ਉੱਤੇ
+
+
+# footer link
+;Firefox on Facebook
+ਫਾਇਰਫਾਕਸ ਫੇਸਬੁੱਕ ਉੱਤੇ
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+ਫੋਰਮ
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+ਅਗਵਾਈ
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+ਪਰਸ਼ਾਸ਼ਨ
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+ਅਤੀਤ
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+ਸਾਡੇ ਪ੍ਰੋਡੱਕਟ
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+ਸਾਫਟਵੇਅਰ ਅਤੇ ਹੋਰ ਖੋਜਾਂ ਸਾਡੇ ਮਕਸਦ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ ਡਿਜ਼ਾਇਨ ਕੀਤੀਆਂ ਹਨ।
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+ਵੱਖ-ਵੱਖ ਖੇਤਰਾਂ ਵਿੱਚ ਵਲੰਟੀਅਰ ਯੋਗਦਾਨੀ ਬਣੋ।
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+ਮੀਨੂ
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+ਤੁਹਾਨੂੰ, ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਅਤੇ ਸਰਬ ਸਾਂਝੇ ਵੈੱਬ ਨੂੰ ਸਮਰਪਤ
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+ਅਜ਼ਾਦੀ ਚੁਣੋ
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+ਮੁਫ਼ਤ ਤੇ ਅਜ਼ਾਦ ਇੰਟਰਨੈੱਟ ਲਈ ਜ਼ੋਸ਼ ਨੂੰ ਕਾਇਮ ਰੱਖੋ! ਅਜ਼ਾਦੀ ਚੁਣੋ। ਫਾਇਰਫਾਕਸ ਚੁਣੋ #ChooseIndependent:
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+ਇਹ ਸਫ਼ੇ ਨੂੰ ਠੀਕ ਤਰ੍ਹਾਂ ਵੇਖਣ ਲਈ JavaScript ਚਾਲੂ ਕਰੋ ਜੀ।
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+ਫਾਇਰਫਾਕਸ ਫੀਚਰ
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+ਫਾਇਰਫਾਕਸ ਮਦਦ
+
+
+;January
+ਜਨਵਰੀ
+
+
+;February
+ਫਰਵਰੀ
+
+
+;March
+ਮਾਰਚ
+
+
+;April
+ਅਪਰੈਲ
+
+
+;May
+ਮਈ
+
+
+;June
+ਜੂਨ
+
+
+;July
+ਜੁਲਾਈ
+
+
+;August
+ਅਗਸਤ
+
+
+;September
+ਸਤੰਬਰ
+
+
+;October
+ਅਕਤੂਬਰ
+
+
+;November
+ਨਵੰਬਰ
+
+
+;December
+ਦਸੰਬਰ
+
+
+;<abbr>Jan</abbr>
+<abbr>ਜਨ</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>ਫਰ</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>ਮਾਰ</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>ਅਪ</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>ਮਈ</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>ਜੂਨ</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>ਜੁਲਾ</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>ਅਗ</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>ਸਤੰ</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>ਅਕਤੂ</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>ਨਵੰ</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>ਦਸੰ</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+ਫਾਇਰਫਾਕਸ ਛੇਤੀ ਹੀ iOS ਉੱਤੇ ਆ ਰਿਹਾ ਹੈ! <a href="{url}">ਜਾਣ ਲਈ ਸਾਇਨ ਅਪ ਕਰੋ</a>।
+
+
+;Congrats. You’re up to date!
+ਵਧਾਈਆਂ। ਤੁਸੀਂ ਅੱਪ-ਟੂ-ਡੇਟ!
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+;Format
+ਫਾਰਮੈਟ
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;Text
+ਟੈਕਸਟ
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;HTML
+HTML
+
+
+# This is the error message displayed if you provide an invalid email address in a form
+;Whoops! Be sure to enter a valid email address.
+ਓਹ! ਜਾਂਚ ਕਰੋ ਕਿ ਠੀਕ ਈਮੇਲ ਐਡਰੈਸ ਦਿੱਤਾ ਗਿਆ ਹੈ।
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+ਫਾਇਰਫਾਕਸ ਖ਼ਬਰਾਂ ਲਵੋ
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+ਤੁਹਾਡਾ ਈਮੇਲ ਇੱਥੇ
+
+
+# Subscription Button
+;Sign me up
+ਮੈਨੂੰ ਸਾਈਨ ਕਰੋ
+
+
+;Select country
+ਦੇਸ਼ ਚੁਣੋ
+
+
+;Available Languages
+ਉਪਲੱਬਧ ਭਾਸ਼ਾਵਾਂ
+
+
+;We will only send you Mozilla-related information.
+ਅਸੀਂ ਤੁਹਾਨੂੰ ਕੇਵਲ ਮੋਜ਼ੀਲਾ ਨਾਲ ਸਬੰਧਿਤ ਜਾਣਕਾਰੀ ਹੀ ਭੇਜਾਂਗੇ।
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+ਧੰਨਵਾਦ! ਆਪਣੀ ਮੈਂਬਰੀ ਲਈ ਆਪਣੇ ਇਨ-ਬਾਕਸ ਨੂੰ ਵੇਖੋ ਜੀ।
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+
+
+;Read all about it in our <span>newsletter</span>
+ਇਸ ਬਾਰੇ ਸਭ ਕੁਝ ਸਾਡੇ <span>newsletter</span> ਵਿੱਚ ਪੜ੍ਹੋ
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+
+

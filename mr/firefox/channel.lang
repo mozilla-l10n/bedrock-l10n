@@ -1,0 +1,72 @@
+## active ##
+## channel_dev_edition ##
+## telemetry_notice ##
+## NOTE: url is https://www-dev.allizom.org/firefox/channel/
+## NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+
+
+# This is the string for the <title> tag on the page.
+;Download Firefox Developer Edition or Beta &amp; Help Determine the Next Firefox
+Firefox Developer Edition किंवा beta &amp; आवृत्ती डाउनलोड करून पुढचे Firefox निश्चित करण्यास मदत करा
+
+
+# This is the string for the <title> tag on the page.
+;Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox
+Firefox Aurora किंवा Beta डाउनलोड करा &amp; पुढचा Firefox ठरवण्यासाठी मदत करा
+
+
+;Download and test Firefox future releases. Experience the newest innovations with the Developer Edition or Beta builds.
+Firefoxचे भविष्यातील प्रकाशन डाऊनलोड करा व तपासा. डेव्हलपर आवृत्ती किंवा Beta बिल्डस् सह नाविन्याचा अनुभव घ्या.
+
+
+# This description applies to Firefox Beta
+;The latest features in a more stable environment
+अधिक स्थिर वातावरणात नवीनतम घटक
+
+
+;Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox Beta आपोआप Mozillaला प्रतिक्रिया पाठवतं. <a href="%(link)s">आणखी जाणा</a>.
+
+
+;<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+स्थिर वातावरणात अंतिम दुरुस्त्यांसाठी कामगिरी आणि कार्यपद्धतीवर <a href="%(feedback)s">आम्हाला प्रतिक्रिया द्या</a>.
+
+
+;Firefox Aurora and Firefox Developer Edition automatically send feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox Aurora व Firefox Developer Edition आपोआप आपल्या प्रतिक्रिया Mozilla ला पाठवितात . <a href="%(link)s">अधिक जाणून घ्या </a>.
+
+
+;Firefox Aurora automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox Aurora Mozillaला आपोआप प्रतिक्रिया पाठवतो. <a href="%(link)s">आणखी जाणा</a>.
+
+
+;Built for those who build the Web
+वेबची जडण-घडण करणाऱ्यांसाठी तयार केले आहे
+
+
+# This description applies to Firefox Aurora
+;The newest innovations in an experimental environment
+प्रायोगिक वातावरणात नवीनतम कल्पकता
+
+
+;Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
+प्रायोगिक वातावरणात कामगिरी तपासा, चुका कळवा आणि <a href="%(feedback)s">Beta पर्यंत पोहोचण्यास आम्हाला मदत करा</a>.
+
+
+# This description applies to Firefox on the Release channel
+;Tried, tested and used by millions around the world
+अनुभवसिद्ध आणि जगभरातून लाखो लोकांकडुन वापरला जाणारा
+
+
+;Learn more about Firefox Beta
+Firefox Betaबद्दल अधिक जाणा
+
+
+;Learn more about Firefox Aurora
+Firefox Auroraबद्दल अधिक जाणा
+
+
+;Learn more about Firefox
+Firefoxबद्दल अधिक जाणा
+
+

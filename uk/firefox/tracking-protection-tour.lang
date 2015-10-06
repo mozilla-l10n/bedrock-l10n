@@ -1,0 +1,111 @@
+## active ##
+## tp_tour_firefox_42 ##
+## NOTE: demo server available at https://www-demo2.allizom.org/firefox/42.0/tracking-protection/start/
+## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
+
+
+;How Tracking Protection works
+Як працює захист від стеження
+
+
+;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
+Коли ви бачите зображення щита, то це означає, що Firefox блокує деякі елементи сторінки, які можуть стежити за вами.
+
+
+# Obsolete string (used for fx42 beta): do not remove
+;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
+Якщо видно значок щита, то це означає, що Firefox активно блокує вміст сторінки, який може стежити за вами.
+
+
+;1 of 3
+1 із 3
+
+
+;Next
+Далі
+
+
+;Differences to expect
+Очікувані відмінності
+
+
+;Some page areas may be missing, because they could allow third parties to track you across different websites.
+Деякі ділянки сторінки можуть бути втрачені, тому що вони можуть дозволяти стороннім елементам стежити за вами на різних веб-сайтах.
+
+
+# Obsolete string (used for fx42 beta): do not remove
+;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
+Деякі ділянки сторінки можуть бути втрачені, бо можуть дозволяти третім сторонам відстежувати вашу активність.
+
+
+;2 of 3
+2 із 3
+
+
+;Want to make changes?
+Хочете змінити це?
+
+
+;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
+Захист від стеження легко вимкнути для веб-сайта, на якому ви перебуваєте, натисканням “Вимкнути захист для цього сеансу”.
+
+
+# Obsolete string (used for fx42 beta): do not remove
+;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
+Захист від стеження легко вимкнути для веб-сайта, на якому ви перебуваєте, натисканням “Вимкнути захист для цього сеансу”.
+
+
+;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
+Захист від стеження легко увімкнути для веб-сайта, на якому ви перебуваєте, натисканням “Увімкнути захист”.
+
+
+# Obsolete string (used for fx42 beta): do not remove
+;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
+Захист від стеження легко увімкнути для веб-сайта, на якому ви перебуваєте, натисканням “Увімкнути захист”.
+
+
+;3 of 3
+3 із 3
+
+
+;Got it!
+Зрозуміло!
+
+
+;Private Browsing with Tracking Protection
+Приватний перегляд з захистом від стеження
+
+
+# Obsolete string (used for fx42 beta): do not remove
+;Firefox Tracking Protection
+Захист від стеження Firefox
+
+
+# Link points to https://support.mozilla.org/kb/tracking-protection-pbm
+;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
+Хочете вимкнути цю функцію? <a href="%s">Відвідайте Налаштування приватності</a>
+
+
+;Thanks for learning about the new Private Browsing with Tracking Protection.
+Дякуємо за ознайомлення з новою функцією захисту від стеження в режимі приватного перегляду.
+
+
+# Obsolete string (used for fx42 beta): do not remove
+;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
+Дякуємо за ознайомлення з новою функцією захисту від стеження в режимі приватного перегляду.
+
+
+# Link points to https://support.mozilla.org/kb/tracking-protection-pbm
+;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
+Дізнайтеся більше про те, як це працює, відвідавши <a rel="external" href="%s">сторінку ЧаП</a>.
+
+
+;Restart tour
+Повторити знайомство
+
+
+# Obsolete string (used for fx42 beta): do not remove
+;Start the tour again
+Почати знайомство знову
+
+

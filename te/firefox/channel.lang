@@ -1,0 +1,71 @@
+## active ##
+## telemetry_notice ##
+## NOTE: url is https://www-dev.allizom.org/firefox/channel/
+## NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+
+
+# This is the string for the <title> tag on the page.
+;Download Firefox Developer Edition or Beta &amp; Help Determine the Next Firefox
+Download Firefox Developer Edition or Beta &amp; Help Determine the Next Firefox
+
+
+# This is the string for the <title> tag on the page.
+;Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox
+ఫైర్‌ఫాక్స్ అరోరా లేదా బీటా లను దించుకోండి &amp; తర్వాతి ఫైర్‌ఫాక్స్‌ను నిర్ణయించండి
+
+
+;Download and test Firefox future releases. Experience the newest innovations with the Developer Edition or Beta builds.
+Download and test Firefox future releases. Experience the newest innovations with the Developer Edition or Beta builds.
+
+
+# This description applies to Firefox Beta
+;The latest features in a more stable environment
+సరికొత్త విశేషాలు మరికాస్త స్థిరమైన వాతావరణంలో
+
+
+;Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+ఫైర్‌ఫాక్స్ బీటా ఆటోమెటిగ్గా మొజిల్లాకు ప్రతిస్పందనను పంపిస్తుంది. <a href="%(link)s">మరింత తెలుసుకోండి</a>.
+
+
+;<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+స్థిరమైన వాతావరణంలో పనితనం మరియు సౌలభ్యాలకు తుది మెరుగులు దిద్దేందుకు తోడ్పడటానికి <a href="%(feedback)s">మాకు మీ ప్రతిస్పందనను తెలియజేయండి</a>.
+
+
+;Firefox Aurora and Firefox Developer Edition automatically send feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+Firefox Aurora and Firefox Developer Edition automatically send feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+
+
+;Firefox Aurora automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
+ఫైర్‌ఫాక్స్ అరోరా ఆటోమెటిగ్గా ప్రతిస్పందనను మొజిల్లాకు పంపిస్తుంది. <a href="%(link)s">మరింత తెలుసుకోండి</a>.
+
+
+;Built for those who build the Web
+Built for those who build the Web
+
+
+# This description applies to Firefox Aurora
+;The newest innovations in an experimental environment
+ప్రయోగాత్మక వాతావరణంలో కొంగొత్త విన్నూత్నీకరణలు
+
+
+;Test performance in an experimental environment, file bugs and <a href="%(feedback)s">help us determine what makes it to Beta</a>.
+ప్రయోగాత్మక వాతావరణంలో పనితనాన్ని పరీక్షించండి, దోషాలను నివేదించండి మరియు <a href="%(feedback)s">బీటాకి ఏమి వెళ్ళాలో నిర్ణయించడంలో మాకు తోడ్పడండి</a>.
+
+
+# This description applies to Firefox on the Release channel
+;Tried, tested and used by millions around the world
+ప్రపంచవ్యాప్తంగా లక్షలాది మంది పరీక్షించి, వాడి చూసినది
+
+
+;Learn more about Firefox Beta
+ఫైర్‌ఫాక్స్ బీటా గురించి మరింత తెలుసుకోండి
+
+
+;Learn more about Firefox Aurora
+ఫైర్‌ఫాక్స్ అరోరా గురించి మరింత తెలుసుకోండి
+
+
+;Learn more about Firefox
+ఫైర్‌ఫాక్స్ గురించి మరింత తెలుసుకోండి
+
+

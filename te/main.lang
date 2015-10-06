@@ -1,0 +1,818 @@
+;Navigation
+మార్గదర్శకం
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+డెస్క్‌టాప్ <span>కొరకు</span>
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+ఆండ్రాయిడ్ <span>కొరకు</span>
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+<span>for</span> iOS
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+OS
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+డెస్క్‌టాపులు &amp; లాప్‌టాపుల కొరకు
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+ఫోన్లు &amp; టాబ్లెట్ల కొరకు
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+అవలోకనం
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+విశ్వసనీయం
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+సౌకర్యవంతం
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+వేగవంతం
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+గురించి
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+పరికరాలు
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+భాగస్వాముల కొరకు
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+Apps
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+ట్రాక్ చెయ్యవద్దు
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+టైల్స్
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+ఆసక్తి డాష్‌బోర్డు
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+డెవలపర్ ఎడిషన్
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+అంతరంగిక విహరణ
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+సహాయం కావాలా?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+వార్తలు
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+డెవలపర్ల కొరకు
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+నా పరికరాన్ని కనిపెట్టు
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+డెవలపర్లు
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+స్వతంత్ర విహారిణిని ఎంచుకోండి
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+ఫైర్‌ఫాక్స్ అనేది లాభాపేక్ష లేనిది, వ్యాపారం కానిది, రాజీ పడనిది. ఫైర్‌ఫాక్స్‌ని ఎంచుకోవడమంటే కేవలం విహారిణిని ఎంచుకోవడమే కాదు. అది వ్యక్తిగత స్వేచ్ఛకి ఎంపిక.
+
+
+;Donate
+విరాళమివ్వండి
+
+
+;Support
+తోడ్పాటు
+
+
+;Products
+ఉత్పత్తులు
+
+
+;Add-ons
+యాడ్-ఆన్స్‍
+
+
+;About Us
+మా గురించి
+
+
+;Labs
+ప్రయోగశాల
+
+
+;skip to Navigation
+మార్గదర్శకమునకు వెళ్ళుము
+
+
+;switch language
+భాషను మార్చుము
+
+
+;Back to home page
+తిరిగి మొదటి పుటకి
+
+
+;About Mozilla
+మొజిల్లా గురించి
+
+
+;Get Involved
+పాలుపంచుకోండి
+
+
+;Careers
+ఉద్యోగాలు
+
+
+;Press Center
+ప్రెస్ కేంద్రము
+
+
+;Contact Us
+మమ్ముల్ని సంప్రదించండి
+
+
+;Other languages:
+ఇతర భాషలు:
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+%d-%m-%Y
+
+
+;Legal
+చట్టబద్ధం
+
+
+# Used as link in the footer
+;Cookies
+కుకీలు
+
+
+# Used as link in the footer
+;Firefox Affiliates
+ఫైర్‌ఫాక్స్ అఫిలియేట్స్
+
+
+;Legal Notices
+చట్టపరమైన గమనికలు
+
+
+;Privacy Policy
+గోప్యతా విధానం
+
+
+;Release Notes
+విడుదల విశేషాలు
+
+
+;Other Systems and Languages
+ఇతర వ్యవస్థలు మరియు భాషలు
+
+
+;Close
+మూసివేయి
+
+
+;(in English)
+(ఇంగ్లీషులో)
+
+
+;Return to top
+తిరిగి పైకి
+
+
+;Features
+విశేషాలు
+
+
+;Customize
+మలచుకోండి
+
+
+;Download
+దించుకోండి
+
+
+;Previous
+మునుపటి
+
+
+;Next
+తర్వాతి
+
+
+# MegaBytes abbreviation
+;MB
+మెబై
+
+
+;MegaBytes
+మెగాబైట్లు
+
+
+;FAQ
+ప్రశ్నలు
+
+
+;Videos
+వీడియోలు
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+తత్భిన్నంగా <a href="%s">పేర్కొంటే</a> తప్ప, ఈసైటు లోని విషయసారమంతా <br /><a href="%s">క్రియేటివ్ కామన్స్ అట్రిబ్యూషన్ షేర్-అలైక్ లైసెన్సు v3.0</a> లేదా ఆ పై సంచిక క్రింద లభ్యం.
+
+
+;Report Trademark Abuse
+ట్రేడ్‌మార్క్ దుర్వినియోగాన్ని నివేదించండి
+
+
+;Free Upgrade
+ఉచిత నవీకరణ
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+మమ్మల్ని అనుసరించండి:
+
+
+;Customize with Add-ons
+యాడాన్లతో అభిమతీకరించుకోండి
+
+
+;Learn More
+మరింత తెలుసుకోండి
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+మరింత తెలుసుకోండి
+
+
+# Link used to play again an animation or a video
+;Replay
+రీప్లే
+
+
+;Watch the video
+వీడియోను చూడండి
+
+
+;Replay the video
+వీడియోను మళ్ళీ చూడండి
+
+
+;Share the video
+వీడియోను పంచుకోండి
+
+
+;WebM format
+WebM ఫార్మాటు
+
+
+;Ogg Theora format
+ఆగ్ థియోరా ఫార్మాటు
+
+
+;MPEG-4 format
+MPEG-4 ఫార్మాటు
+
+
+;Mobile
+మొబైల్
+
+
+;Check out the new look and feel of Firefox.
+ఫైర్‌ఫాక్స్ కొత్త రూపురేఖల్ని పరిశీలించి చూడండి.
+
+
+;View Full Site
+పూర్తి సైటుని చూడండి
+
+
+;Download for <span>Android</span>
+<span>ఆండ్రాయిడ్</span> కొరకు  దింపుకోలు
+
+
+;Desktop
+డెస్క‌టాప్
+
+
+;Firefox Beta for mobile
+మొబైల్ కొరకు ఫైర్‌ఫాక్స్ బీటా
+
+
+;Firefox for mobile
+మొబైల్ కొరకు ఫైర్‌ఫాక్స్
+
+
+;Email
+ఈమెయిల్
+
+
+;Super speed
+అత్యంత వేగవంతం
+
+
+;Stunning graphics
+కళ్లుచెదిరే రేఖాచిత్రాలు
+
+
+;The latest technologies
+అత్యాధునిక సాంకేతికతలు
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+మీకు నవీకరణ అవసరం! ఒక నిముషంలోనే సురక్షితంగా ఉండండి. <br/> విహారణలో గొప్ప అనుభవానికి మరియు అభిమతీకరణకు కొత్త ఫైర్‌ఫాక్స్‌ను వాడటం ప్రారంభించండి. <br/>   ఇది వేగవంతం మరియు ఉచితం!
+
+
+;Upgrade now
+ఇప్పుడే నవీకరించు
+
+
+;Update now
+ఇప్పుడే తాజాపరచు
+
+
+;Supported Devices
+తోడ్పాటున్న పరికరాలు
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+కొత్త విశేషాలు
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+గోప్యత
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+ఈ సమాచారంలో కొన్ని భాగాల కాపీహక్కులు ©1998–%(current_year)s వ్యక్తిగత mozilla.org తోడ్పాటుదార్లవి. ఈ సమాచారం <a href="%(url)s">క్రియేటివ్ కామన్స్ లైసెన్సు</a> క్రింద లభ్యం.
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+ఈ సైటుకి తోడ్పడండి
+
+
+# Footer string
+;Contribute to this page
+ఈ పేజీని మెరుగుపరచండి
+
+
+# Top menu item
+;Mission
+ఆశయం
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+ప్రదర్శన
+
+
+# Footer item
+;Partner with Us
+మాతో భాగస్వాములవ్వండి
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+సింక్
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+డెస్క్‌టాప్ యాడాన్లు
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+ఆండ్రాయిడ్ యాడాన్లు
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+అలంకారాలు
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+డెస్క్‌టాప్ తోడ్పాటు
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+ఆండ్రాయిడ్ తోడ్పాటు
+
+
+# Top menu item on firefox/update page
+;Performance
+పనితనం
+
+
+# Top menu item on firefox/update page
+;Technology
+సాంకేతికత
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+గోప్యత &amp; భద్రత
+
+
+# Top menu item on firefox/update page
+;Releases
+విడుదలలు
+
+
+# Top menu item on firefox/update page
+;Firefox
+ఫైర్‌ఫాక్స్
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+సంస్థల కొరకు ఫైర్‌ఫాక్స్
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+మొబైల్ యాడాన్లు
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+మొబైల్ తోడ్పాటు
+
+
+# Top menu item on firefox/update page
+;Blog
+బ్లాగు
+
+
+# Top menu item on firefox/update page
+;About Firefox
+ఫైర్‌ఫాక్స్ గురించి
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+మొజిల్లాలో చేరండి
+
+
+# Top menu item on firefox/update page
+;Participate
+పాల్గొనండి
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
+;Volunteer
+Volunteer
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+బ్రాండ్ టూల్‌కిట్
+
+
+# Top menu item on firefox/update page
+;Partnerships
+భాగస్వామ్యాలు
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+మొజిల్లా విశేషాలను తెలుసుకోండి
+
+
+# share button for social networks
+;Share
+పంచుకోండి
+
+
+# footer link
+;Mozilla on Twitter
+ట్విట్టర్‌లో మొజిల్లా
+
+
+# footer link
+;Firefox on Twitter
+ట్విట్టర్‌లో ఫైర్‌ఫాక్స్
+
+
+# footer link
+;Mozilla on Facebook
+ఫేస్‌బుక్‌లో మొజిల్లా
+
+
+# footer link
+;Firefox on Facebook
+ఫేస్‌బుక్‌లో ఫైర్‌ఫాక్స్
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+చర్చావేదికలు
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+నాయకత్వం
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+పరిపాలన
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+చరిత్ర
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+మా ఉత్పత్తులు
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+మా ఆశయ పురోగతికి ఉద్దేశించిన సాఫ్ట్‌వేర్ మరియు ఇతర విన్నూత్నీకరణలు.
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+వేర్వేరు కార్యకలాపాలలో స్వచ్ఛంద సేవకులు అవ్వండి.
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+మెనూ
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+మీకు, మీ అంతరంగికతకు మరియు బహిరంగ జాలానికి అంకితం
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+స్వతంత్రతని ఎంచుకోండి
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+స్వేచ్ఛాయుతమైన మరియు మర్మంలేని ఉజ్వలమైన అంతర్జాలం కొరకై మీ మోజు వీడకండి! #ChooseIndependent. Choose Firefox:
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+ఈ పేజీ సరిగా కనబడటానికి జావాస్క్రిప్టుని చేతనం చేయండి.
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+ఫైర్‌ఫాక్స్ సౌలభ్యాలు
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+ఫైర్‌ఫాక్స్ సహాయం
+
+
+;January
+జనవరి
+
+
+;February
+ఫిబ్రవరి
+
+
+;March
+మార్చి
+
+
+;April
+ఏప్రిల్
+
+
+;May
+మే
+
+
+;June
+జూన్
+
+
+;July
+జులై
+
+
+;August
+ఆగష్టు
+
+
+;September
+సెప్టెంబరు
+
+
+;October
+అక్ఠోబరు
+
+
+;November
+నవంబరు
+
+
+;December
+డిసెంబరు
+
+
+;<abbr>Jan</abbr>
+<abbr>జన</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>ఫిబ్ర</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>మార్చి</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>ఏప్రి</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>మే</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>జూన్</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>జులై</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>ఆగ</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>సెప్టెం</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>అక్టో</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>నవం</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>డిసెం</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+ఫైర్‌ఫాక్స్ iOSకి వస్తోంది! <a href="{url}">మరింత తెలుసుకోడానికి నమోదవ్వండి</a>.
+
+
+;Congrats. You’re up to date!
+Congrats. You’re up to date!
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+;Format
+ఫార్మాటు
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;Text
+పాఠ్యం
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;HTML
+HTML
+
+
+# This is the error message displayed if you provide an invalid email address in a form
+;Whoops! Be sure to enter a valid email address.
+అయ్యో! దయచేసి సరైన ఈమెయిలు చిరునామాని ఇవ్వండి.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+ఫైర్‌ఫాక్స్ వార్తలను పొందండి
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+ఇక్కడ మీ ఈమెయిలు
+
+
+# Subscription Button
+;Sign me up
+నన్ను చేర్చుకోండి
+
+
+;Select country
+దేశాన్ని ఎంచుకోండి
+
+
+;Available Languages
+అందుబాటులో ఉన్న భాషలు
+
+
+;We will only send you Mozilla-related information.
+మేము మీకు మొజిల్లా-సంబంధిత సమాచారాన్ని మాత్రమే పంపిస్తాము.
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+కృతజ్ఞతలు! మీ చందాను నిర్ధారించడానికి మీ ఇన్‌బాక్స్‌లో మెయిలును చూడండి.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+మీ చందాను నిర్ధారించేందుకు మీకు mozilla@e.mozilla.org నుండి ఈమెయిలు వస్తుంది. అది కనబడకపోతే, మీ స్పాము వడపోతలను సరిచూసుకోండి. మా వార్తాలేఖను అందుకోవాలంటే మీరు తప్పనిసరిగా మీ చందాను నిర్ధారించాలి.
+
+
+;Read all about it in our <span>newsletter</span>
+దీని గురించి అంతా మా <span>వార్తాలేఖ</span>లో చదవండి
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+నెలవారీ నవీకరణలకు సబ్‌స్క్రైబై తాజా మొజిల్లా వార్తలు పొందండి, సరికొత్త చిట్కాలు మరియు మెళుకువల గురించి తెలుసుకొనుట ద్వారా మీ ఫైర్‌ఫాక్స్ విహారిణి గురించి మరింత తెలుసుకొనండి. మాకు చేరువలో వుండుటకు యిది మంచి మార్గం!
+
+

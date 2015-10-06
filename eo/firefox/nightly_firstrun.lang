@@ -1,0 +1,84 @@
+## active ##
+## NOTE: url is https://www-dev.allizom.org/firefox/nightly/firstrun/
+
+
+;Firefox Nightly First Run Page
+Paĝo de unua starto de Firefox Nightly
+
+
+;Thank you for using Firefox Nightly
+Dankon pro la uzo de Firefox Nightly
+
+
+;Choose an area to get involved below and help make Firefox better for users everywhere
+Elektu fakon malsupre, kiun vi volas partopreni, por helpi igi Firefox pli bona por uzantoj ĉie
+
+
+;Test
+Testi
+
+
+;Find and file bugs and generally make sure things work as they should.
+Trovi kaj raporti fuŝaĵojn kaj certi ke ĉio funkcias kiel atendite.
+
+
+;Start testing
+Komenci testi
+
+
+# Link used for the "Start testing" button.
+# You can instead use your own link if your community have a similar onboarding page about how to test Mozilla products.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://
+;https://oneanddone.mozilla.org
+https://oneanddone.mozilla.org{ok}
+
+
+;Code
+Kodo
+
+
+;File bugs and work on the building blocks of the Firefox browser.
+Raporti fuŝaĵojn kaj labori en la konsistigaj parto de la retumilo Firefox.
+
+
+;Start coding
+Komenci kodi
+
+
+# Link used for the "Start coding" button.
+# You can instead use your own link if your community have a similar onboarding page about how to contribute to Firefox code.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://
+;https://developer.mozilla.org/docs/Introduction
+https://developer.mozilla.org/docs/Introduction{ok}
+
+
+;Localize
+Traduki
+
+
+;Make Firefox available (and better) in more languages around the world.
+Disponebligi Firefox (kaj plibonigi ĝin) en lingvoj de la tuta mondo.
+
+
+;Start localizing
+Komenci traduki
+
+
+# Link used for the "Start localizing" button.
+# You can instead use your own link if your community have a similar onboarding page about how to contribute to l10n.
+# If you don't have a community page, just add " {ok}" after the en-US link
+# Links must start with http:// or https://
+;https://wiki.mozilla.org/L10n:Contribute
+https://wiki.mozilla.org/L10n:Contribute{ok}
+
+
+;Show everyone that you’re helping to build the Web the world needs.
+Montri al ĉiuj ke vi helpas konstrui la Teksaĵon, kiun la mondo bezonas.
+
+
+;Get your Nightly User badge
+Ricevi vian insignon de uzanto de Firefox Nightly
+
+

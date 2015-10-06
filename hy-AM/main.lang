@@ -1,0 +1,818 @@
+;Navigation
+Ուղղորդում
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+<span>Դեսքթոփի</span> համար
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+<span>Անդրոիդի</span> համար
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+<span></span> iOS-ի համար
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+OS {ok}
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+Համակարգիչների և լափթոփների համար
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+Հեռաոսների և թաբլեթների համար
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+Համատեսքը
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+Վստահելի
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+Ճկուն
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+Արագ
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+Մեր Մասին
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+Սարքեր
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+Գործընկերների համար
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+Հավելվածներ
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+Չհետևել
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Սալիկներ
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Հետաքրքրությունների կառավահան
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Developer Edition {ok}
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+Գաղտնի դիտարկում
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+Օգնության կարիք ունե՞ք
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+Նորություններ
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+Ծրագրավորողների համար
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Գտնել իմ սարքը
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+Developers {ok}
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+Ընտրի՛ր անկախ դիտարկիչ
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox-ը ոչ առևտրային, անվտանգ ծրագիր է: Ընտրելով Firefox-ը՝ ոչ միայն ընտրում եք դիտարկիչ: Դա ձեր քվեն է անձնական ազատության համար:
+
+
+;Donate
+Նվիրատվություն
+
+
+;Support
+Աջակցություն
+
+
+;Products
+Ծրագրեր
+
+
+;Add-ons
+Հավելումներ
+
+
+;About Us
+Մեր մասին
+
+
+;Labs
+Լաբարատորիա
+
+
+;skip to Navigation
+անցնել Ուղղորդմանը
+
+
+;switch language
+փոխել լեզուն
+
+
+;Back to home page
+Հետ՝ գլխավոր էջ
+
+
+;About Mozilla
+Mozilla-ի մասին
+
+
+;Get Involved
+Միացեք
+
+
+;Careers
+Կարիերա
+
+
+;Press Center
+Մամուլի կենտրոն
+
+
+;Contact Us
+Կապը մեզ հետ
+
+
+;Other languages:
+Այլ լեզուներ.
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+%Y-%m-%d {ok}
+
+
+;Legal
+Օրինական
+
+
+# Used as link in the footer
+;Cookies
+Cookie-ներ
+
+
+# Used as link in the footer
+;Firefox Affiliates
+Firefox-ի գործընկեր
+
+
+;Legal Notices
+Մեկնաբանություններ
+
+
+;Privacy Policy
+Գաղտնիության քաղաքականությունը
+
+
+;Release Notes
+Թողարկման նշումները
+
+
+;Other Systems and Languages
+Այլ համակարգեր և լեզուներ
+
+
+;Close
+Փակել
+
+
+;(in English)
+(Անգլերեն)
+
+
+;Return to top
+Վերադառնալ վերև
+
+
+;Features
+Հնարավորությունները
+
+
+;Customize
+Կարգավորել
+
+
+;Download
+Բեռնել
+
+
+;Previous
+Նախորդը
+
+
+;Next
+Հաջորդը
+
+
+# MegaBytes abbreviation
+;MB
+ՄԲ
+
+
+;MegaBytes
+ՄեգաԲայթ
+
+
+;FAQ
+ՀՏՀ
+
+
+;Videos
+Տեսանյութեր
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+Բացառությամբ այն դեպքերի, երբ <a href="%s">նշված է</a>, այս կայքի բովանդակությունը արտոնված է <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> և ավելի բարձր տարբերակով։
+
+
+;Report Trademark Abuse
+Ապրանքանիշի չարաշահման զեկուցում
+
+
+;Free Upgrade
+Ազատ թարմացում
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+Հետևեք մեզ՝
+
+
+;Customize with Add-ons
+Կարգավորել հավելումները
+
+
+;Learn More
+Մանրամասն
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+Մանրամասն
+
+
+# Link used to play again an animation or a video
+;Replay
+Կրկնել
+
+
+;Watch the video
+Դիտեք տեսանյութ
+
+
+;Replay the video
+Կրկին խաղարկել տսանյութը
+
+
+;Share the video
+Տարածել տեսանյութը
+
+
+;WebM format
+WebM տեսակի
+
+
+;Ogg Theora format
+Ogg Theora տեսակի
+
+
+;MPEG-4 format
+MPEG-4 տեսակի
+
+
+;Mobile
+Բջջային
+
+
+;Check out the new look and feel of Firefox.
+Ստուգի՛ր Firefox-ի նոր տեսքը
+
+
+;View Full Site
+Դիտել ամբողջական կայքը
+
+
+;Download for <span>Android</span>
+Ներբեռնել <span>Android</span>-ի համար
+
+
+;Desktop
+Դեսքթոփ
+
+
+;Firefox Beta for mobile
+Firefox Beta-ն բջջայինի համար
+
+
+;Firefox for mobile
+Firefox-ը բջջայինի համար
+
+
+;Email
+Էլ. փոստ
+
+
+;Super speed
+Գերարագ
+
+
+;Stunning graphics
+Ցնցող գրաֆիկա
+
+
+;The latest technologies
+Նորագույն տեխնոլոգիաներ
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+Թարմացման կարիք կա: Պահեք անվտանգությունը ընդամենը մեկ րոպեում: <br/> Սկսեք օգտագործել ձեր նոր Firefox-ը: <br/>   Այն արագ է և անվճար:
+
+
+;Upgrade now
+Թարմացրեք հիմա
+
+
+;Update now
+Թարմացնել հիմա
+
+
+;Supported Devices
+Աջակցվող  սարքեր
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+Ինչն է նոր
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+Անվտանգությունը
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+Այս բովանդակության մի մասը ©1998–%(current_year)s mozilla.org անհատական կամավորների կողմից է։ Բովանդակությունը հասանելի է <a href="%(url)s">Creative Commons license</a>-ով։
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+Մասնակցեք կայքին
+
+
+# Footer string
+;Contribute to this page
+Մասնակցեք այս էջին
+
+
+# Top menu item
+;Mission
+Նպատակը
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+Շրջայց
+
+
+# Footer item
+;Partner with Us
+Համագործակցեք մեզ հետ
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+Սինք
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+Դեսքթոփի հավելումները
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+Android-ի հավելումներ
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+Ձևավորումներ
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+Դեսքթոփի աջակցությունը
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+Android-ի աջակցություն
+
+
+# Top menu item on firefox/update page
+;Performance
+Արագագործությունը
+
+
+# Top menu item on firefox/update page
+;Technology
+Տեխնոլոգիան
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+Անվտանգության &amp; քաղաքականությունը
+
+
+# Top menu item on firefox/update page
+;Releases
+Թողարկումներ
+
+
+# Top menu item on firefox/update page
+;Firefox
+Firefox {ok}
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+Firefox-ը կազմակերպությունների համար
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+Բջջայինի հավելումները
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+Բջջայինի աջակցությունը
+
+
+# Top menu item on firefox/update page
+;Blog
+Բլոգը
+
+
+# Top menu item on firefox/update page
+;About Firefox
+Firefox-ի մասին
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+Միացեք Mozilla-ին
+
+
+# Top menu item on firefox/update page
+;Participate
+Մասնակցեք
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
+;Volunteer
+Մասնակցել
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+Ապրանքանիշի գործիքները
+
+
+# Top menu item on firefox/update page
+;Partnerships
+Համագործակցություններ
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+Ստացեք Mozilla-ի թարմացումները
+
+
+# share button for social networks
+;Share
+Կիսվել
+
+
+# footer link
+;Mozilla on Twitter
+Mozilla-ն Twitter-ում
+
+
+# footer link
+;Firefox on Twitter
+Firefox-ը Twitter-ում
+
+
+# footer link
+;Mozilla on Facebook
+Mozilla-ն Facebook-ում
+
+
+# footer link
+;Firefox on Facebook
+Firefox-ը Facebook-ում
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+Ֆորումներ
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Ձեռնարկներ
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+Կառավարում
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+Պատմություն
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+Մեր ծրագրերը
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+Ծրագրեր և այլ նորարարություններ՝ մեր առաքելությունը իրականացնելու համար:
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+Միացեք կամավորների մեր համայնքին ամենատարբեր բնագավառներում:
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+Ցանկ
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+Ուղղված է Ձեզ, Ձեր անվտանգության և բաց վեբի համար է
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+Ընտրեք անկախություն
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Պահեք ազատ և բաց համացանցի գաղափարը: #ChooseIndependent. Ընտրեք Firefox-ը.
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+Այս էջը ճիշտ ցուցադրելու դիտելու համար խնդրում ենք միացնել JavaScript-ը:
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+Firefox-ի հնարավորությունները
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+Firefox-ի օգնությունը
+
+
+;January
+Հունվար
+
+
+;February
+Փետրվար
+
+
+;March
+Մարտ
+
+
+;April
+Ապրիլ
+
+
+;May
+Մայիս
+
+
+;June
+Հունիս
+
+
+;July
+Հուլիս
+
+
+;August
+Օգոստոս
+
+
+;September
+Սեպտեմբեր
+
+
+;October
+Հոկտեմբեր
+
+
+;November
+Նոյեմբեր
+
+
+;December
+Դեկտեմբեր
+
+
+;<abbr>Jan</abbr>
+<abbr>Հուն</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>Փետ</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>Մար</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>Ապր</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>Մայ</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>Հուն</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>Հուլ</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>Օգոս</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>Սեպ</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>Հոկ</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>Նոյ</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>Դեկ</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Շուտով Firefox-ը հասանելի կլինի նաև iOS-ի համար: <a href="{url}">Մուտք գործեք՝ մանրամասները կարդալու համար</a>:
+
+
+;Congrats. You’re up to date!
+Շնորհավորում ենք: Դուք օգտագործում եք նոր տարբերակը:
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+;Format
+Ձևաչափը
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;Text
+Տեքստը
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;HTML
+HTML {ok}
+
+
+# This is the error message displayed if you provide an invalid email address in a form
+;Whoops! Be sure to enter a valid email address.
+Զգուշացում։ Համոզվեք, որ էլ. փոստի հասցեն ճիշտ է:
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+Ես համաձայն եմ կիսվել այս տեղեկատվությամբ Mozilla-ի հետ՝ համաձայն <a href="%s">Գաղտնիության Քաղաքականության</a>
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Ստացեք Firefox-ի նորությունները
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+ՁԵՐ ԷԼ. ՀԱՍՑԵՆ
+
+
+# Subscription Button
+;Sign me up
+Բաժանորդագրվել
+
+
+;Select country
+Ընտրեք երկիրը
+
+
+;Available Languages
+Հասանելի լեզուները
+
+
+;We will only send you Mozilla-related information.
+Մենք ձեզ կուղարկենք միայն Mozilla-ին առնչվող տեղեկատվություն:
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Շնորհակալություն։ Ստուգեք Ձեր Մուտքայինները՝ հաստատելու համար բաժանորդագրությունը։
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Դուք կստանաք նամակ mozilla@e.mozilla.org-ից՝ հաստատելու համար։ Եթե չեք տեսնում այն, ստուգեք լցոնի կանոնները։ Դուք պետք է հաստատեք բաժանորդագրությունը։
+
+
+;Read all about it in our <span>newsletter</span>
+Կարդացեք ամեն ինչ այդ մասին մեր  <span>նորություններ</span>-ում
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Բաժանորդագրվեք ամսական թարմացումներին և հետ մի մնացեք Մոզիլլայի նորություններից, վերջին խորհուրդներից և փորձերից` Firefox դիտարկիչը լավագույնը դարձնելու համար: Սա գերազանց միջոց է, որպեսզի մենք կապի մեջ լինենք:
+
+

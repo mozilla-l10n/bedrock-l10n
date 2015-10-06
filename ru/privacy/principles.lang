@@ -1,0 +1,79 @@
+## active ##
+## NOTE: demo page at https://www-dev.allizom.org/privacy/principles/
+
+
+# Used as main title and HTML meta tag
+;Data Privacy Principles
+Принципы приватности данных
+
+
+# HTML meta tag (description)
+;Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our privacy practices.
+Mozilla является проектом с открытым исходным кодом, чей целью является улучшение вашего пребывания в Интернете. Это является движущей силой наших практик приватности.
+
+
+# Used in sub-pages to return to the main index https://www.mozilla.org/privacy
+;Back to Mozilla Privacy Policy
+Вернуться к Политике Конфиденциальности Mozilla
+
+
+;The following five principles stem from the <a href="%(link)s">Mozilla Manifesto</a> and inform how we:
+Следующие пять принципов вытекают из <a href="%(link)s">Манифеста Mozilla</a> и описывают, как мы:
+
+
+;develop our products and services
+разрабатываем наши продукты и услуги
+
+
+;manage user data we collect
+управляем собираемыми нами данными пользователей
+
+
+;select and interact with partners
+выбираем партнеров и взаимодействуем с ними
+
+
+;shape our public policy and advocacy work
+формируем нашу публичную политику и разъяснительную работу
+
+
+;No surprises
+Без сюрпризов
+
+
+;Use and share information in a way that is transparent and benefits the user.
+Использовать и обмениваться информацией так, чтобы это было прозрачно и помогало пользователю.
+
+
+;User control
+Контроль в руках пользователя
+
+
+;Develop products and advocate for best practices that put users in control of their data and online experiences.
+Разрабатывать продукты и продвигать лучшие практики, которые обеспечивают пользователям контроль за их данными и пребыванием в Интернете.
+
+
+;Limited data
+Ограниченные данные
+
+
+;Collect what we need, de-identify where we can and delete when no longer necessary.
+Собирать то, что нам нужно, обезличивать там, где можно, и удалять тогда, когда это больше не нужно.
+
+
+;Sensible settings
+Разумные настройки
+
+
+;Design for a thoughtful balance of safety and user experience.
+Обеспечить продуманный баланс между безопасностью и навыками пользователей.
+
+
+;Defense in depth
+Эшелонированная оборона
+
+
+;Maintain multi-layered security controls and practices, many of which are publicly verifiable.
+Обеспечить многоуровневый контроль и использовать практики безопасности, многие из которых прошли публичную проверку.
+
+

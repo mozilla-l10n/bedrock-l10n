@@ -1,0 +1,84 @@
+## NOTE: Strings used in our download buttons. Test area: https://www-dev.allizom.org/styleguide/websites/sandstone/buttons/
+
+
+;Download Firefox
+Download Firefox {ok}
+
+
+;Your system doesn't meet the <a href="%(url)s">requirements</a> to run Firefox.
+Jo systeem foldocht net oan de <a href="%(url)s">easken</a> foar it útfieren fan Firefox.
+
+
+;<span>Firefox Beta</span> for Android
+<span>Firefox Beta</span> foar Android
+
+
+;<span>Firefox Aurora</span> for Android
+<span>Firefox Aurora</span> foar Android
+
+
+;<span>Firefox</span> for Android
+<span>Firefox</span> foar Android
+
+
+;Get it free on Google Play
+Krij it fergees op Google Play
+
+
+;<span>Firefox</span> for iOS
+<span>Firefox</span> foar iOS
+
+
+;Get it free from the App Store
+Fergees fia de App Store
+
+
+;Firefox Beta
+Firefox Beta {ok}
+
+
+;Firefox Aurora
+Firefox Aurora {ok}
+
+
+;Free Download
+Fergese download
+
+
+# Displayed in the download button for users of old versions of Firefox (should be short)
+;Update your Firefox
+Fernij jo Firefox
+
+
+;Supported Devices
+Stipe apparaten
+
+
+;Get it on Google Play
+Download fia Google Play
+
+
+;Get Firefox for Android
+Download Firefox foar Android
+
+
+;Download on the App Store
+Download yn de App Store
+
+
+;Get Firefox for iOS
+Download Firefox foar iOS
+
+
+;What’s New
+Wat is nij
+
+
+;Privacy
+Privacy {ok}
+
+
+;Systems &amp; Languages
+Systemen &amp; talen
+
+

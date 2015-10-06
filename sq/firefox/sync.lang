@@ -1,0 +1,221 @@
+## active ##
+## firefox_sync_non_fx ##
+## fx38_sync_updates ##
+## ios_announce ##
+## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
+
+
+;Keep your Firefox in sync
+Mbajeni Firefox-in të njëkohësuar, përmes Sync-ut
+
+
+;Ready, Set, Sync
+Gati, Në Rregull, Njëkohësim
+
+
+;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
+Ju kemi regjistruar dhe jeni gati të përdorni Firefox-in <em>tuaj</em> kudo, kurdo.
+
+
+;Take your Web with you
+Merreni Web-in me vete
+
+
+;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
+Njëkohësojeni Firefox-in kudo që e përdorni, për të patur faqerojtësit, fjalëkalimet, skedat dhe gjëra të tjera në çfarëdo pajisje celulare, tablet ose kompjuter.
+
+
+;Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
+Njëkohësoni faqerojtësit, fjalëkalimet, skedat tuaja, etj, duke përdorur Llogarinë tuaj Firefox, dhe përdorini ato nga kudo qoftë, kur jeni i futur në Llogari.
+
+
+;It looks like you’re running an older version of Firefox.
+Duket se përdorni një version të vjetër të Firefox-it.
+
+
+;The new version of Sync only works with the latest version of Firefox
+Versioni i ri i Sync-ut funksionon vetëm me versionin më të ri të Firefox-it
+
+
+;Soon you’ll be able to use Sync on your iOS device
+Së shpejti do të jeni në gjendje ta përdorni Sync-un në pajisjen tuaj iOS
+
+
+;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
+Sync-u është vetëm një nga veçoritë e fuqishme që do ta keni vetëm me Firefox-in. Zbulojini të gjitha!
+
+
+# This string is displayed when you visit the page with a different browser (i.e. not Firefox)
+;Sync is just one of the great features you’ll only get with Firefox.
+Sync-u është vetëm një nga veçoritë e fuqishme që do ta keni vetëm me Firefox-in.
+
+
+;Download Firefox for Android
+Shkarkoni Firefox-in për Android
+
+
+;Get started with Sync
+Si t’ia filloni me Sync-un
+
+
+;Update your Firefox
+Përditësoni Firefox-in tuaj
+
+
+;Download Firefox
+Shkarkoni Firefox-in
+
+
+;Get started with Sync in four easy steps:
+Fillojani me Sync-un përmes katër hapash të kollajtë:
+
+
+# You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+# If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
+;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Hapni <a class="menurev ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menunë</a> në cepin e sipërm të Firefox-it dhe përzgjidhni “<strong>Hyni te Sync-u.</strong>”
+
+
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Get started</strong>” in the tab that opens.
+Te skeda që hapet, klikoni “<strong>Fillojani</strong>”.
+
+
+# (NEW STRING) <strong> tags used for font color formatting.
+;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Jepni adresën email dhe fjalëkalimin që të “<strong>Krijoni një Llogari Firefox.</strong>”
+
+
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Next</strong>” to get a verification sent to your email.
+Klikoni mbi “<strong>Pasuesin</strong>” që të merrni një kod verifikimi dërguar me email.
+
+
+;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+Pasi të kontrolloni email-in tuaj dhe të klikoni lidhjen e verifikimit, do të jeni gati! Nga tani e tutje Firefox-i do të njëkohësohet vetvetiu në prapaskenë.
+
+
+;Get more detailed instructions.
+Merrni udhëzime më të hollësishme.
+
+
+;Using an older version of Sync?
+Përdorni ende version të vjetër të Sync-ut?
+
+
+# This string is displayed on Android devices
+;How to set up Sync in five easy steps:
+Si të rregullohet Sync-u përmes pesë hapash të kollajtë:
+
+
+# <strong> tags below used for font color formatting.
+# This string is displayed on Android devices
+;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+Prekni butonin <strong>Menu</strong> (ose poshtë te ekrani, ose në cepin e sipërm të shfletuesit).
+
+
+# This string is displayed on Android devices
+;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+Përzgjidhni <strong>Rregullime</strong> (mundet që së pari t’ju duhet të prekni <strong>Më tepër</strong>).
+
+
+# This string is displayed on Android devices
+;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+Prekni <strong>Sync</strong> dhe mandej <strong>Fillojani</strong>.
+
+
+# This string is displayed on Android devices
+;The <strong>Create a Firefox Account page</strong> will open in a new tab.
+Në një skedë rë re do të hapet <strong>faqja Krijoni një llogari Firefox Account</strong>.
+
+
+# This string is displayed on Android devices
+;Fill out the form and click <strong>Next</strong>.
+Plotësoni formularin dhe klikoni <strong>Pasuesi</strong>.
+
+
+# This string is displayed on Android devices
+;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+Pasi të kontrolloni email-in tuaj dhe të klikoni lidhjen e verifikimit, do të jeni gati! Mos harroni të lidhni krejt pajisjet tuaja, që të përfitoni maksimumin prej Sync-ut.
+
+
+;Sync a little. Sync a lot.
+Njëkohësoni pakëz. Njëkohësoni shumë.
+
+
+;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
+Se cilat gjëra të Firefox-it tuaj doni të njëkohësoni dhe se kur doni të njëkohësohen, e zgjidhni ju. Merrini skedat tuaja të hapura me vete rrugës së përditshme. Përdorini në punë faqerojtësit tuaj. Çfarëdo, kurdo, kudo.
+
+
+;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
+Doni të vizitoni që nga një pajisje tjetër skedat e hapura te kompjuteri juaj? Të konsultoni historikun tuaj të shfletimeve kur jeni rrugës? T’i keni me ve fjalëkalimet tuaj? Nga sot e tutje mundeni.
+
+
+;Here’s what you can sync:
+Ja se ç’mund të njëkohësoni:
+
+
+;Bookmarks
+Faqerojtës
+
+
+;Passwords
+Fjalëkalime
+
+
+;Open tabs
+Skeda të hapura
+
+
+;History
+Historik
+
+
+;At home
+Në shtëpi
+
+
+;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+Kaloni nga tavolina e punës në divan pa humbur një grimë. Përdorini te pajisja juaj celulare skedat tuaja të hapura, ose vazhdoni shfletimin e faqerojtësve tuaj drejt e në tabletin tuaj.
+
+
+;At work
+Në punë
+
+
+;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
+Mbani lidhjen me krejt të dhënat tuaja të rëndësishme. Njëkohësoni fjalëkalimet dhe faqerojtësit që ju duhet t’i përdorni në çfarëdo kohe. Si te Firefox-i, është aq e sigurt sa është e mundur.
+
+
+;On the go
+Në lëvizje
+
+
+;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+Ndiqni sajtet tuaj të parapëlqyer, ose përfundoni tregimin që filluat në shtëpi — ngado që shkoni. Kurrë s’ka qenë më e lehtë se sa me Sync-un.
+
+
+;Add Firefox to your smartphone or tablet
+Shtojeni Firefox-in te telefoni juaj i mençur ose tableti juaj
+
+
+;To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
+Që të shijoni plotësisht Sync-un, merrni Firefox-in për iOS ose Android dhe lidhni krejt pajisjet tuaja — kudo dhe kurdo që përdorni Firefox-in.
+
+
+;Add Firefox
+Shtojeni Firefox-in
+
+
+;Have an <b>Android smartphone</b> or <b>tablet</b>?
+Keni një <b>telefon</b> ose <b>tablet me Android</b>?
+
+
+;DOWNLOAD FIREFOX FOR ANDROID
+SHKARKONI FIREFOX-IN PËR ANDROID
+
+
+;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+Që të shijoni plotësisht Sync-un, merreni Web-in tuaj me vete kudo që përdorni Firefox-in. Lidhni mes tyre telefonin, tabletin, kompjuterin dhe laptopin.
+
+

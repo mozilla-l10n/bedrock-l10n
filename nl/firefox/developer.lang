@@ -1,0 +1,334 @@
+## active ##
+## meta_update_201503 ##
+## new_doorhanger ##
+## share_cta ##
+## spring_release ##
+## NOTE: Demo page at https://www-dev.allizom.org/firefox/developer
+## NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated. It also won't be localizable inside the product, like "Beta" or "Nightly"
+
+
+# Used as page description (HTML meta tag)
+;Built for those who build the Web. Introducing the only browser made for developers.
+Gebouwd voor hen die het web bouwen. De enige browser die gemaakt is voor ontwikkelaars.
+
+
+# Used as page description from June 2nd (HTML meta tag)
+;Built for those who build the Web. The only browser made for developers like you.
+Gebouwd voor hen die het web bouwen. De enige browser die gemaakt is voor ontwikkelaars zoals u.
+
+
+;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox today!
+Download Mozilla Firefox, een gratis webbrowser. Firefox is gemaakt door een wereldwijde non-profitorganisatie die zich inzet om gebruikers online de controle te laten houden. Download Firefox vandaag nog!
+
+
+;Built for those who build the Web
+Gebouwd voor hen die het web bouwen
+
+
+;Introducing the only browser made for developers like you.
+De enige browser die gemaakt is voor ontwikkelaars zoals u.
+
+
+;The only browser made for developers like you.
+De enige browser die gemaakt is voor ontwikkelaars zoals u.
+
+
+# This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
+;Design, build and debug the Web without ever leaving your browser with the new Firefox Developer Edition!
+Ontwerp, bouw en debug het web zonder ooit uw browser te verlaten met de nieuwe Firefox Developer Edition!
+
+
+;Firefox Developer Edition automatically sends feedback to Mozilla.
+Firefox Developer Edition verzendt automatisch feedback naar Mozilla.
+
+
+;Designed for developers
+Ontworpen voor ontwikkelaars
+
+
+;The only browser made just for developers, Firefox Developer Edition was created with your workflow in mind. Build, test, scale and more all from one place, for the first time ever.
+Firefox Developer Edition is, als enige browser die voor ontwikkelaars is gebouwd, met uw werkstroom in gedachten gemaakt. Bouw, test, schaal en meer vanaf één plek, voor de allereerste keer ooit.
+
+
+;Debug any browser
+Elke browser debuggen
+
+
+;Inspect and debug your app across any browser or device with Valence — a powerful, pre-installed extension that you’ll only find in Firefox Developer Edition.
+Inspecteer en debug uw app in elke browser of apparaat met Valence – een krachtige, vooraf geïnstalleerde extensie die u alleen in Firefox Developer Edition zult vinden.
+
+
+;Pixel-perfect coding
+Pixel-perfect code schrijven
+
+
+;Target screen sizes with the Responsive Design View and tweak your CSS on the fly with the built-in Style Editor for pixel-perfect coding.
+Richt u op schermgroottes met de Responsive Design-weergave en tweak direct uw CSS met de ingebouwde Stijleditor voor pixel-perfect code schrijven.
+
+
+;All your favorite dev tools and more
+Al uw favoriete hulpmiddelen en meer
+
+
+;Firefox Developer Edition brings your core dev tools together with some powerful new ones that will extend your ability to work across multiple platforms from one place. It’s everything you’re used to, only better. And only from Firefox.
+Firefox Developer Edition brengt uw basishulpmiddelen samen met enkele krachtige nieuwe, waardoor uw kundigheid om vanaf één plek voor meerdere platformen te werken wordt uitgebreid. Alles wat u gewend bent, maar dan beter. En alleen van Firefox.
+
+
+;Screenshot
+Schermafbeelding
+
+
+;WebVR
+WebVR {ok}
+
+
+;Build immersive multi-platform, cross-device Web VR experiences using the technologies that you know &mdash; JavaScript, WebGL, Three.js and more.
+Bouw immersieve platform- en apparaatonafhankelijke WebVR-ervaringen via de technologieën die u kent &ndash; JavaScript, WebGL, Three.js en meer.
+
+
+;Learn more about WebVR
+Lees meer over WebVR
+
+
+;Performance Tools
+Prestatiehulpmiddelen
+
+
+;Examine your web content’s frame rate, memory consumption and JS profile in a consolidated timeline view to help easily identify and troubleshoot performance bottlenecks.
+Onderzoek de framerate, het geheugengebruik en het JS-profiel van uw webinhoud in een vastgezette tijdlijnweergave om knelpunten in prestaties makkelijk te helpen vinden en verhelpen.
+
+
+;Learn more about Performance Tools
+Lees meer over Prestatiehulpmiddelen
+
+
+;WebIDE
+WebIDE {ok}
+
+
+;Develop, deploy and debug Firefox OS apps directly in your browser, or on a Firefox OS device, with this tool that replaces App Manager.
+Ontwikkel, debug en zet Firefox OS-apps rechtstreeks in in uw browser, of op een Firefox OS-apparaat, met dit hulpmiddel dat de App-beheerder vervangt.
+
+
+;Learn more about WebIDE
+Lees meer over WebIDE
+
+
+;Responsive Design View
+Responsive Design-weergave
+
+
+;See how your Website or Web app will look on different screen sizes without changing the size of your browser window.
+Bekijk hoe uw website of webapp er bij verschillende schermgroottes uitziet zonder de grootte van uw browservenster te wijzigen.
+
+
+;Learn more about Responsive Design View
+Lees meer over de Responsive Design-weergave
+
+
+;Valence
+Valence {ok}
+
+
+;Develop and debug your apps across multiple browsers and devices with this powerful extension that comes pre-installed with Firefox Developer Edition.
+Ontwikkel en debug uw apps op meerdere browsers en apparaten met deze krachtige extensie die geïnstalleerd met Firefox Developer Edition wordt meegeleverd.
+
+
+;Learn more about Valence
+Lees meer over Valence
+
+
+;Web Audio Editor
+Webaudio-editor
+
+
+;Inspect and interact with Web Audio API in real time to ensure that all audio nodes are connected in the way you expect.
+Inspecteer en communiceer met de Web Audio-API in realtime, zodat u kunt verzekeren dat alle audionodes zijn verbonden zoals u verwacht.
+
+
+;Learn more about Web Audio Editor
+Lees meer over de Webaudio-editor
+
+
+;Page Inspector
+Pagina-inspector
+
+
+;Examine the HTML and CSS of any Web page and easily modify the structure and layout of a page.
+Bekijk de HTML en CSS van een willekeurige webpagina en pas eenvoudig de structuur en indeling ervan aan.
+
+
+;Learn more about Page Inspector
+Lees meer over de Pagina-inspector
+
+
+;Web Console
+Webconsole
+
+
+;See logged information associated with a Web page and use Web Console to interact with Web pages using JavaScript.
+Bekijk vastgelegde informatie die met een webpagina is gekoppeld en gebruik de Webconsole om via JavaScript met webpagina’s te communiceren.
+
+
+;Learn more about Web Console
+Lees meer over de Webconsole
+
+
+;JavaScript Debugger
+JavaScript-debugger
+
+
+;Step through JavaScript code and examine or modify its state to help track down bugs.
+Stap door JavaScript-code en bekijk of wijzig de status ervan om bugs op te sporen.
+
+
+;Learn more about JavaScript Debugger
+Lees meer over de JavaScript-debugger
+
+
+;Network Monitor
+Netwerkmonitor
+
+
+;See all the network requests your browser makes, how long each request takes and details of each request.
+Bekijk alle netwerkaanvragen die uw browser doet, hoe lang elke aanvraag duurt en details over elke aanvraag.
+
+
+;Learn more about Network Monitor
+Lees meer over de Netwerkmonitor
+
+
+;Style Editor
+Stijleditor
+
+
+;View and edit CSS styles associated with a Web page, create new ones and apply existing CSS stylesheets to any page.
+Bekijk en bewerk CSS-stijlen die met een webpagina zijn gekoppeld, maak nieuwe aan en pas bestaande CSS-stijlbladen toe op willekeurige pagina’s.
+
+
+;Learn more about Style Editor
+Lees meer over de Stijleditor
+
+
+;Choose Firefox
+Kies Firefox
+
+
+# The following strings are used for the tour displayed on /firstrun
+# https://www.mozilla.org/firefox/35.0a2/firstrun/
+;Welcome to Firefox Developer Edition
+Welkom bij Firefox Developer Edition
+
+
+# UI Tour: don't add HTML tags in this string
+;Developer Tools
+Ontwikkelaarshulpmiddelen
+
+
+# UI Tour: don't add HTML tags in this string
+;The most complete browser made just for developers, Firefox Developer Edition has every dev tool you’ll need built right in.
+Firefox Developer Edition, de meest volledige browser die gemaakt is voor ontwikkelaars, heeft elk hulpmiddel dat u nodig hebt al ingebouwd.
+
+
+# UI Tour: don't add HTML tags in this string
+;Next: WebIDE
+Volgende: WebIDE
+
+
+# UI Tour: don't add HTML tags in this string
+;Try WebIDE
+Probeer WebIDE
+
+
+# UI Tour: don't add HTML tags in this string
+;Develop, deploy and debug Firefox OS apps directly in your browser or on a Firefox OS device.
+Ontwikkel, debug en zet Firefox OS-apps rechtstreeks in in uw browser of op een Firefox OS-apparaat.
+
+
+# UI Tour: don't add HTML tags in this string
+;Next: Sync
+Volgende: Sync
+
+
+# UI Tour: don't add HTML tags in this string
+;Important
+Belangrijk
+
+
+# UI Tour: don't add HTML tags in this string
+;Sync your new Developer Edition profile to your Firefox Account to access bookmarks, browsing history, passwords and more from your existing Firefox profile.
+Synchroniseer uw nieuwe Developer Edition-profiel naar uw Firefox-account om bladwijzers, navigatiegeschiedenis, wachtwoorden en meer van uw bestaande Firefox-profiel te benaderen.
+
+
+# UI Tour: don't add HTML tags in this string
+;Sync now
+Nu synchroniseren
+
+
+# UI Tour: don't add HTML tags in this string
+;Keep your browser in Sync
+Houd uw browser synchroon
+
+
+# UI Tour: don't add HTML tags in this string
+;Sync your Firefox desktop and mobile browsers to get instant access to your bookmarks, open tabs, passwords and more.
+Synchroniseer uw mobiele en desktopversie van Firefox voor directe toegang tot uw bladwijzers, geopende tabbladen, wachtwoorden en meer.
+
+
+# UI Tour: don't add HTML tags in this string
+;Sync my Firefox
+Mijn Firefox synchroniseren
+
+
+# UI Tour: don't add HTML tags in this string
+;No thanks
+Nee bedankt
+
+
+# UI Tour: don't add HTML tags in this string
+;Before you go&hellip;
+Voordat u weggaat&hellip;
+
+
+# UI Tour: don't add HTML tags in this string
+;If you continue without syncing your new Developer Edition profile, you could lose access to important browsing data from your existing Firefox profile.
+Als u doorgaat zonder uw nieuwe Developer Edition-profiel te synchroniseren, kunt u toegang tot belangrijke navigatiegegevens van uw bestaande Firefox-profiel verliezen.
+
+
+# UI Tour: don't add HTML tags in this string
+;To sync now, choose the Sync option from this menu.
+Kies Nu synchroniseren in dit menu om nu te synchroniseren.
+
+
+;Welcome to <span>Firefox Developer Edition</span>
+Welkom bij <span>Firefox Developer Edition</span>
+
+
+;Get to know the features that make it the most complete browser for building the Web.
+Leer de functies kennen die het de meest volledige browser voor het bouwen van het web maken.
+
+
+;Important: Sync your new profile
+Belangrijk: synchroniseer uw nieuwe profiel
+
+
+;Developer Edition comes with a new profile so you can run it alongside other versions of Firefox.
+Developer Edition bevat een nieuw profiel, zodat u de browser naast andere versies van Firefox kunt gebruiken.
+
+
+;To access your bookmarks, browsing history and more, you need to sync the profile with your existing Firefox Account, or create a new one.
+Om uw bladwijzers, navigatiegeschiedenis en meer te benaderen dient u het profiel met uw bestaande Firefox-account te synchroniseren, of een nieuw profiel aan te maken.
+
+
+;Want the old look back?
+Wilt u het oude uiterlijk terug?
+
+
+;If you want the familiar look and feel of Firefox Aurora back, we’ve made it super easy for you.
+Als u de vertrouwde vormgeving van Firefox Aurora terug wilt, hebben we dit heel eenvoudig voor u gemaakt.
+
+
+;Features and tools
+Functies en hulpmiddelen
+
+

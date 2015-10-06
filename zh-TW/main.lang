@@ -1,0 +1,818 @@
+;Navigation
+導覽
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+桌面版
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+Android 版
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+<span>for</span> iOS {OK}
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+作業系統
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+桌機與筆電
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+手機與平板電腦
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+概觀
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+可信任
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+靈活
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+快速
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+關於
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+裝置
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+夥伴資訊
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+Apps {OK}
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+Do Not Track {OK}
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Tiles {OK}
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+興趣儀錶板
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Developer Edition {OK}
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+隱私瀏覽
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+需要幫忙嗎？
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+最新消息
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+開發者
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Find My Device {ok}
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+開發者
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+選擇獨立的瀏覽器
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox 非營利、非商業、永不妥協。選擇 Firefox 不只是選擇一套瀏覽器，而是對個人自由投下贊成票。
+
+
+;Donate
+捐款支持
+
+
+;Support
+支援
+
+
+;Products
+產品
+
+
+;Add-ons
+附加元件
+
+
+;About Us
+關於我們
+
+
+;Labs
+實驗室
+
+
+;skip to Navigation
+跳到導覽
+
+
+;switch language
+切換語言
+
+
+;Back to home page
+回首頁
+
+
+;About Mozilla
+關於 Mozilla
+
+
+;Get Involved
+參與我們
+
+
+;Careers
+徵才啟事
+
+
+;Press Center
+新聞中心
+
+
+;Contact Us
+聯絡我們
+
+
+;Other languages:
+其他語言：
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+%Y-%m-%d {ok}
+
+
+;Legal
+法律資訊
+
+
+# Used as link in the footer
+;Cookies
+Cookie
+
+
+# Used as link in the footer
+;Firefox Affiliates
+Firefox 夥伴計畫
+
+
+;Legal Notices
+法律聲明
+
+
+;Privacy Policy
+隱私權保護政策
+
+
+;Release Notes
+版本資訊
+
+
+;Other Systems and Languages
+其他系統與語言
+
+
+;Close
+關閉
+
+
+;(in English)
+(英文)
+
+
+;Return to top
+回到頂端
+
+
+;Features
+功能
+
+
+;Customize
+自訂
+
+
+;Download
+下載
+
+
+;Previous
+上一個
+
+
+;Next
+下一個
+
+
+# MegaBytes abbreviation
+;MB
+MB {ok}
+
+
+;MegaBytes
+百萬位元組 (MBytes)
+
+
+;FAQ
+FAQ {ok}
+
+
+;Videos
+影片
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+除另有<a href="%s">註明</a>外，本站內容皆採用<br /><a href="%s">創用 CC 姓名標示—相同方式分享條款 3.0 </a>或更新版本授權大眾使用。
+
+
+;Report Trademark Abuse
+回報商標濫用
+
+
+;Free Upgrade
+免費升級
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+追蹤我們：
+
+
+;Customize with Add-ons
+透過附加元件自訂您的瀏覽器
+
+
+;Learn More
+了解更多
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+了解更多
+
+
+# Link used to play again an animation or a video
+;Replay
+重播
+
+
+;Watch the video
+看看影片
+
+
+;Replay the video
+重播影片
+
+
+;Share the video
+分享影片
+
+
+;WebM format
+WebM 格式
+
+
+;Ogg Theora format
+Ogg Theora 格式
+
+
+;MPEG-4 format
+MPEG-4 格式
+
+
+;Mobile
+行動裝置
+
+
+;Check out the new look and feel of Firefox.
+看看 Firefox 的全新外觀與感受。
+
+
+;View Full Site
+檢視完整版網站
+
+
+;Download for <span>Android</span>
+下載 <span>Android</span> 版本
+
+
+;Desktop
+桌面
+
+
+;Firefox Beta for mobile
+Firefox 行動測試版
+
+
+;Firefox for mobile
+Firefox 行動版
+
+
+;Email
+電子郵件
+
+
+;Super speed
+速度超快
+
+
+;Stunning graphics
+令人驚豔的圖形表現
+
+
+;The latest technologies
+最先進的技術
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+您需要升級了！不用幾分鐘就能保持安全。<br/>使用您全新的 Firefox 更好地瀏覽並打造您的網路。<br/>很快，而且不用錢！
+
+
+;Upgrade now
+立刻升級
+
+
+;Update now
+立刻更新
+
+
+;Supported Devices
+支援裝置
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+新鮮事
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+隱私權
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+本頁的部分內容著作權為 ©1998–%(current_year)s 由個別 mozilla.org 貢獻者所有，使用 <a href="%(url)s">創用 CC 授權條款</a> 進行授權。
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+貢獻至此網站
+
+
+# Footer string
+;Contribute to this page
+貢獻此頁面
+
+
+# Top menu item
+;Mission
+使命
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+功能導覽
+
+
+# Footer item
+;Partner with Us
+成為我們的夥伴
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+Sync {OK}
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+桌面版附加元件
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+Android 附加元件
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+佈景主題
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+桌面版技術支援
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+Android 技術支援
+
+
+# Top menu item on firefox/update page
+;Performance
+效能
+
+
+# Top menu item on firefox/update page
+;Technology
+技術
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+隱私與安全
+
+
+# Top menu item on firefox/update page
+;Releases
+發行版本
+
+
+# Top menu item on firefox/update page
+;Firefox
+Firefox {OK}
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+供企業或組織使用的 Firefox
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+行動版附加元件
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+行動版技術支援
+
+
+# Top menu item on firefox/update page
+;Blog
+部落格
+
+
+# Top menu item on firefox/update page
+;About Firefox
+關於 Firefox
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+加入 Mozilla
+
+
+# Top menu item on firefox/update page
+;Participate
+參與我們
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
+;Volunteer
+成為志工
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+品牌工具箱
+
+
+# Top menu item on firefox/update page
+;Partnerships
+夥伴
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+訂閱 Mozilla 電子報
+
+
+# share button for social networks
+;Share
+分享
+
+
+# footer link
+;Mozilla on Twitter
+Twitter 上的 Mozilla
+
+
+# footer link
+;Firefox on Twitter
+Twitter 上的 Firefox
+
+
+# footer link
+;Mozilla on Facebook
+Facebook 上的 Mozilla
+
+
+# footer link
+;Firefox on Facebook
+Facebook 上的 Firefox
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+論壇
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+領導團隊
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+治理
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+歷史
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+我們的產品
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+用來達成我們的使命的軟體及其他創新設計。
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+成為不同領域中的志願貢獻者。
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+選單
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+承諾為您、您的隱私權與 Web 的開放而努力
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+自己的選擇
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox: {OK}
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+請開啟 JavaScript 以正確顯示此網頁。
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+Firefox 功能
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+Firefox 說明
+
+
+;January
+1 月
+
+
+;February
+2 月
+
+
+;March
+3 月
+
+
+;April
+4 月
+
+
+;May
+5 月
+
+
+;June
+6 月
+
+
+;July
+7 月
+
+
+;August
+8 月
+
+
+;September
+9 月
+
+
+;October
+10 月
+
+
+;November
+11 月
+
+
+;December
+12 月
+
+
+;<abbr>Jan</abbr>
+<abbr>1 月</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>2 月</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>3 月</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>4 月</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>5 月</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>6 月</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>7 月</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>8 月</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>9 月</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>10 月</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>11 月</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>12 月</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+iOS 版 Firefox 即將推出！<a href="{url}">登記取得更多資訊</a>。
+
+
+;Congrats. You’re up to date!
+恭喜您，您已更新完成！
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+;Format
+格式
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;Text
+純文字
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;HTML
+HTML
+
+
+# This is the error message displayed if you provide an invalid email address in a form
+;Whoops! Be sure to enter a valid email address.
+喔喔！請確定您輸入了有效的電子郵件地址。
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+我同意 Mozilla 依照 <a href="%s">隱私權保護政策</a> 上面所記載的方式使用我的資訊
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+訂閱 Firefox 電子報
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+在此輸入您的電子郵件地址
+
+
+# Subscription Button
+;Sign me up
+算我一個
+
+
+;Select country
+選擇國家
+
+
+;Available Languages
+可用語言
+
+
+;We will only send you Mozilla-related information.
+我們將只會寄送與 Mozilla 有關的資訊給您。
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+謝謝您！請收信並確認您的訂閱。
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+您將會收到一封來自 mozilla@e.mozilla.org 的訂閱確認信。若您沒收到的話，請檢查您的垃圾信件過濾器，您必須確認訂閱後才會開始收到我們的電子報。
+
+
+;Read all about it in our <span>newsletter</span>
+透過我們的電子報取得最新資訊
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+訂閱每月的更新消息，並取得 Mozilla 的最新消息，還有能讓您完全發揮 Firefox 瀏覽器功能的小撇步等等。這是您能保持與我們聯繫的最佳方式！
+
+

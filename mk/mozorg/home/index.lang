@@ -1,0 +1,297 @@
+## active ##
+## fx10_independent ##
+## gear_store ##
+## NOTE: demo server at https://www-dev.allizom.org/
+
+
+# Used as page title in HTML meta tag
+;We’re building a better Internet
+We’re building a better Internet
+
+
+# Used as page description in HTML meta tag
+;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
+Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
+
+
+;Home of the Mozilla Project
+Домот на проектот Mozilla
+
+
+;Read more
+Прочитајте повеќе
+
+
+;Community
+Заедница
+
+
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
+;Continue to mozilla.org
+Продолжете кон mozilla.org
+
+
+;Discover <br>what drives our mission
+Откријте <br>што ја придвижува нашата мисија
+
+
+;See the principles <br>that guide everything <br>we do.
+Прочитајте ги принципите <br>што нѐ водат <br>во сѐ што правиме.
+
+
+;Read the <br>Mozilla Manifesto
+Прочитајте го <br>Манифестот на Mozilla
+
+
+;Mozilla Developer Network
+Mozilla Developer Network
+
+
+;10 years of documenting your Web.
+10 years of documenting your Web.
+
+
+;Celebrate with us
+Celebrate with us
+
+
+# Do no translate "Firefox Friends" (https://friends.mozilla.org)
+;Introducing <br>Firefox Friends
+Introducing <br>Firefox Friends
+
+
+;Join. Share. <br>Get rewarded.
+Join. Share. <br>Get rewarded.
+
+
+;Join Firefox Friends
+Join Firefox Friends
+
+
+# Small tile. Link points to https://advocacy.mozilla.org
+;Learn about Mozilla Advocacy
+Learn about Mozilla Advocacy
+
+
+;Understand your privacy online
+Разберете ја Вашата приватност на Интернет
+
+
+;Download Firefox
+Преземете Firefox
+
+
+;Introducing<br> the new Webmaker
+Introducing<br> the new Webmaker
+
+
+;Discover, create and share original content with the free Webmaker app.
+Discover, create and share original content with the free Webmaker app.
+
+
+;Learn more
+Дознајте повеќе
+
+
+# This string is used on the little blue tile, see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach<br> the Web
+Teach<br> the Web
+
+
+;Make the Web you want
+Make the Web you want
+
+
+;Build a Web page or app in minutes<br> — no coding required.
+Build a Web page or app in minutes<br> — no coding required.
+
+
+;Become a Webmaker
+Станете „Webmaker“
+
+
+# This string is used as title on the big pink tile for locales that have not translated the new version above (Make the Web you want), see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach the Web
+Научете ја Мрежата
+
+
+;Let’s build a Web that’s open <br>and made by everyone.
+Да изградиме Интернет што е отворен <br>и направен за сите.
+
+
+;Build an app <br>in seconds
+Направете апликација <br>за неколку секунди
+
+
+;Volunteer <br>with Mozilla
+Волонтирајте <br>во Mozilla
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Try Firefox Developer Edition
+Try Firefox Developer Edition
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Introducing Firefox Developer Edition
+Вовед во „Firefox Developer Edition“
+
+
+;The only browser made only for developers.
+Единствениот прелистувач изработен само за програмери.
+
+
+;Get Firefox Developer Edition
+Земете „Firefox Developer Edition“
+
+
+;Try the best Firefox yet
+Пробајте го најдобриот Firefox до сега
+
+
+;Made with a mission to put you first.
+Изработен со цел да Ве стави на прво место.
+
+
+;Learn more about Firefox
+Дознајте повеќе за Firefox
+
+
+;Put your Firefox on your Android
+Инсталирајте Firefox на Вашиот Android
+
+
+;The features <br>you love. <br>The privacy <br>you trust.
+Можностите што <br>ги сакате. <br>Приватноста на која <br>ѝ верувате.
+
+
+;Learn about <br>Firefox for Android
+Дознајте повеќе за <br>Firefox за Android
+
+
+# Used in a small tile
+;Official Mozilla gear is here
+Пристигна официјалната опрема на Mozilla
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
+Роба со мисија. <br>Производи со цел. <br>Добра што прават добро.
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Get your Mozilla gear
+Земете си ја опремата на Mozilla
+
+
+;Help Mozilla users
+Помогнете им на корисниците на Mozilla
+
+
+;Help millions <br>get the most from their <br>favorite browser.
+Помогнете им на милиони <br>да го извлечат максимумот <br>од нивниот омилен прелистувач.
+
+
+;Join our support team
+Приклучете се во нашиот тим за поддршка
+
+
+# Used in Twitter feed
+;Reply
+Одговорете
+
+
+# Used in Twitter feed
+;Retweet
+Ретвитајте
+
+
+# <strong> tags below are for visual formatting only.
+;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
+Посветени <strong>Вам, на Вашата приватност</strong> и на <strong>отворениот Интернет</strong>
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;active Mozillians <br>worldwide
+активни Мозилијанци <br>ширум светот
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;upcoming events <br>around the globe
+претстојни настани <br>ширум светот
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;languages and counting, <br>on every continent
+јазици до сега, <br>на секој континент
+
+
+;Get Involved with Mozilla today
+Вклучете се во Mozilla денес
+
+
+;Upcoming events
+Претстојни настани
+
+
+;Next event
+Следен настан
+
+
+;See all events
+Видете ги сите настани
+
+
+;Compare prices, check the weather, listen to music, send a tweet and more right from Firefox.
+Споредувајте цени, проверувајте временска прогноза, слушате музика, твитајте и др. од Firefox.
+
+
+;Careers
+Кариера
+
+
+;Learn about the benefits of working at Mozilla and view open positions around the world.
+Дознајте за придобивките од работењето во Mozilla и видете ги отворените позиции ширум светот.
+
+
+;Get answers to your questions about Firefox and all Mozilla products from our support team.
+Добијте одговори за Firefox и сите производи на Mozilla од нашиот тим за поддршка.
+
+
+;Discover more
+Откријте повеќе
+
+
+;Help us celebrate 10 years of Firefox.
+Помогнете ни да прославиме 10 години со Firefox.
+
+
+# Old promo tiles
+;Donate to Mozilla
+Донирајте во Mozilla
+
+
+;Your gift helps us build the Internet the world needs.
+Вашиот подарок ни помага да изградиме Интернет каков што му треба на светот.
+
+
+;Donate today
+Донирајте денес
+
+
+;Meet<br> Firefox Hello
+Meet<br> Firefox Hello
+
+
+;The easiest way to connect for free over video.
+The easiest way to connect for free over video.
+
+
+;Try Firefox Hello
+Try Firefox Hello
+
+
+;Try the Thimble code editor
+Try the Thimble code editor
+
+

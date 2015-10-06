@@ -1,0 +1,303 @@
+## active ##
+## firefox_friends ##
+## fx10_independent ##
+## gear_store ##
+## mdn_10_years ##
+## meta_update_201503 ##
+## privacy_day ##
+## webmaker_promo_introducing ##
+## webmaker_promo_make ##
+## NOTE: demo server at https://www-dev.allizom.org/
+
+
+# Used as page title in HTML meta tag
+;We’re building a better Internet
+보다 더 나은 인터넷을 만듭니다
+
+
+# Used as page description in HTML meta tag
+;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
+Mozilla에 대해서 들어보셨나요? — Firefox의 제조사이자 — 인터넷이 모든 사람들에게 개방되고 접근 가능하도록 노력합니다.
+
+
+;Home of the Mozilla Project
+Mozilla 프로젝트 홈페이지
+
+
+;Read more
+자세히 보기
+
+
+;Community
+커뮤니티
+
+
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
+;Continue to mozilla.org
+mozilla.org 사이트 이동
+
+
+;Discover <br>what drives our mission
+우리의 사명을 <br>지켜나갑니다
+
+
+;See the principles <br>that guide everything <br>we do.
+우리의 활동을 안내해주는 <br>원칙에 대해서 살펴보세요.
+
+
+;Read the <br>Mozilla Manifesto
+Mozilla 선언문 <br>살펴보기
+
+
+;Mozilla Developer Network
+Mozilla 개발자 네트워크
+
+
+;10 years of documenting your Web.
+여러분의 10년의 웹 이야기를 들려주세요.
+
+
+;Celebrate with us
+함께 축하하기
+
+
+# Do no translate "Firefox Friends" (https://friends.mozilla.org)
+;Introducing <br>Firefox Friends
+Firefox Friends <br>소개
+
+
+;Join. Share. <br>Get rewarded.
+참여. 공유. <br>보답을 받으세요.
+
+
+;Join Firefox Friends
+Firefox Friends 참여
+
+
+# Small tile. Link points to https://advocacy.mozilla.org
+;Learn about Mozilla Advocacy
+Mozilla Advocacy 알아보기
+
+
+;Understand your privacy online
+온라인 개인정보 보호 살펴보기
+
+
+;Download Firefox
+Firefox 다운로드
+
+
+;Introducing<br> the new Webmaker
+새로운 Webmaker<br> 소개
+
+
+;Discover, create and share original content with the free Webmaker app.
+무료 Webmaker 앱을 이용해 새로운 컨텐츠를 찾고, 만들고 공유하세요.
+
+
+;Learn more
+자세히 보기
+
+
+# This string is used on the little blue tile, see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach<br> the Web
+웹<br> 가르치기
+
+
+;Make the Web you want
+우리가 원하는 웹 세상
+
+
+;Build a Web page or app in minutes<br> — no coding required.
+웹 페이지나 앱을 금방 만들 수 있습니다<br> - 프로그램이 필요치 않습니다.
+
+
+;Become a Webmaker
+Webmaker 참여하기
+
+
+# This string is used as title on the big pink tile for locales that have not translated the new version above (Make the Web you want), see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach the Web
+웹 기술 교육
+
+
+;Let’s build a Web that’s open <br>and made by everyone.
+모두가 함께 만드는 개방된 <br>웹을 만듭시다.
+
+
+;Build an app <br>in seconds
+손쉬운<br>웹앱만들기
+
+
+;Volunteer <br>with Mozilla
+Mozilla <br>자원 봉사자
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Try Firefox Developer Edition
+Firefox Developer Edition 설치
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Introducing Firefox Developer Edition
+Firefox 개발자 버전을 소개합니다.
+
+
+;The only browser made only for developers.
+개발자만을 위해서 만들어진 유일한 브라우저
+
+
+;Get Firefox Developer Edition
+Firefox 개발자 버전
+
+
+;Try the best Firefox yet
+최고의 브라우저 Firefox 사용하기
+
+
+;Made with a mission to put you first.
+사용자를 최우선시 하는 사명과 함께 만들어졌습니다.
+
+
+;Learn more about Firefox
+Firefox에 대해 자세히 살펴보기
+
+
+;Put your Firefox on your Android
+Android에 Firefox 설치하기
+
+
+;The features <br>you love. <br>The privacy <br>you trust.
+사용자가 좋아하는 기능<br>사용자를 최우선시 하는 <br>개인정보 정책
+
+
+;Learn about <br>Firefox for Android
+Android 용 Firefox <br>살펴보기
+
+
+# Used in a small tile
+;Official Mozilla gear is here
+Mozilla 공식 상품 구매처
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
+훌륭하고 유용한 <br>제품들과 함께 <br>사명도 느껴보세요.
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Get your Mozilla gear
+Mozilla 상품 구매
+
+
+;Help Mozilla users
+Mozilla 고객 지원
+
+
+;Help millions <br>get the most from their <br>favorite browser.
+수많은 사람들이 <br>좋아하는 브라우저의 기능을 <br>십분 활용할 수 있게 도와주세요.
+
+
+;Join our support team
+고객 지원 함께 하기
+
+
+# Used in Twitter feed
+;Reply
+답변
+
+
+# Used in Twitter feed
+;Retweet
+리트윗
+
+
+# <strong> tags below are for visual formatting only.
+;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
+<strong>개방 웹</strong>과 <strong>개인정보 보호</strong>를 위해 만들어졌습니다.
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;active Mozillians <br>worldwide
+전세계에서 활동하는 <br>Mozillian
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;upcoming events <br>around the globe
+이벤트 <br>개최 예정 목록
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;languages and counting, <br>on every continent
+다양한 국가 및 <br>언어 지원
+
+
+;Get Involved with Mozilla today
+Mozilla와 함께 하세요
+
+
+;Upcoming events
+다가오는 행사
+
+
+;Next event
+다음 행사
+
+
+;See all events
+모든 행사 보기
+
+
+;Compare prices, check the weather, listen to music, send a tweet and more right from Firefox.
+가격비교, 날씨 확인, 음악 듣기 트윗 보내기 등을 Firefox에서 바로 할 수 있습니다.
+
+
+;Careers
+채용 정보
+
+
+;Learn about the benefits of working at Mozilla and view open positions around the world.
+Mozilla에서 근무하는 장점을 살펴보고 전세계에 열려있는 구인정보를 확인하세요.
+
+
+;Get answers to your questions about Firefox and all Mozilla products from our support team.
+고객  지원 봉사자로 부터 Firefox와 Mozilla에 대한 질문에 대한 답을 받을 수 있습니다.
+
+
+;Discover more
+자세히
+
+
+;Help us celebrate 10 years of Firefox.
+Firefox 10주년을 축하해 주세요.
+
+
+# Old promo tiles
+;Donate to Mozilla
+Mozilla 기부하기
+
+
+;Your gift helps us build the Internet the world needs.
+여러분의 도움과 함께 세계를 위한 인터넷을 만들기 위해 노력하겠습니다.
+
+
+;Donate today
+바로 기부하기
+
+
+;Meet<br> Firefox Hello
+Firefox Hello<br> 사용하기
+
+
+;The easiest way to connect for free over video.
+무료 화상 통화를 위한 가장 쉬운 웹 표준 방식입니다.
+
+
+;Try Firefox Hello
+Firefox Hello 체험
+
+
+;Try the Thimble code editor
+Try the Thimble code editor
+
+

@@ -1,0 +1,818 @@
+;Navigation
+Navigation {ok}
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+<span>pour</span> ordinateurs
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+<span>pour</span> Android
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+<span>pour</span> iOS
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+OS {ok}
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+Pour les ordinateurs
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+Pour les téléphones et les tablettes
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+Vue d’ensemble
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+Fiable
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+Flexible {ok}
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+Rapide
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+À propos
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+Appareils
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+Partenariats
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+Applications
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+Ne pas me pister
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Vignettes
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Tableau de bord des centres d’intérêt
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Developer Edition {ok}
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+Navigation privée
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+Besoin d’aide&nbsp;?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+Actualités
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+Pour les développeurs
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Localiser mon appareil
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+Développeurs
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+Choisissez le navigateur indépendant
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox est gratuit, à but non lucratif et sans compromis. Choisir Firefox ce n’est pas seulement choisir un navigateur, c’est voter pour la liberté individuelle.
+
+
+;Donate
+Faire un don
+
+
+;Support
+Assistance
+
+
+;Products
+Logiciels
+
+
+;Add-ons
+Modules
+
+
+;About Us
+À propos de nous
+
+
+;Labs
+Laboratoires
+
+
+;skip to Navigation
+Aller à la navigation
+
+
+;switch language
+Changer de langue
+
+
+;Back to home page
+Retour à la page d’accueil
+
+
+;About Mozilla
+À propos de Mozilla
+
+
+;Get Involved
+Participer
+
+
+;Careers
+Emplois
+
+
+;Press Center
+Centre de presse
+
+
+;Contact Us
+Contactez-nous
+
+
+;Other languages:
+Autres langues&nbsp;:
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+%d-%m-%Y
+
+
+;Legal
+Mentions légales
+
+
+# Used as link in the footer
+;Cookies
+Cookies {ok}
+
+
+# Used as link in the footer
+;Firefox Affiliates
+Affiliés Firefox
+
+
+;Legal Notices
+Avertissement légal
+
+
+;Privacy Policy
+Respect de la vie privée
+
+
+;Release Notes
+Notes de version
+
+
+;Other Systems and Languages
+Autres langues et systèmes
+
+
+;Close
+Fermer
+
+
+;(in English)
+(en anglais)
+
+
+;Return to top
+Haut de la page
+
+
+;Features
+Fonctionnalités
+
+
+;Customize
+Personnaliser
+
+
+;Download
+Téléchargement
+
+
+;Previous
+Précédent
+
+
+;Next
+Suivant
+
+
+# MegaBytes abbreviation
+;MB
+Mo
+
+
+;MegaBytes
+Mégaoctets
+
+
+;FAQ
+FAQ {ok}
+
+
+;Videos
+Vidéos
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+Sauf <a href="%s">mention</a> contraire, le contenu de ce site est placé sous la licence <br /><a href="%s">Creative Commons Attribution Share-Alike v3.0</a> ou ultérieure.
+
+
+;Report Trademark Abuse
+Signaler un abus de marque déposée
+
+
+;Free Upgrade
+Mise à niveau gratuite
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+Suivez-nous sur&nbsp;:
+
+
+;Customize with Add-ons
+Personnaliser avec des modules complémentaires
+
+
+;Learn More
+En savoir plus
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+En savoir plus
+
+
+# Link used to play again an animation or a video
+;Replay
+Rejouer l’animation
+
+
+;Watch the video
+Regarder la vidéo
+
+
+;Replay the video
+Lire à nouveau la vidéo
+
+
+;Share the video
+Partager la vidéo
+
+
+;WebM format
+Format WebM
+
+
+;Ogg Theora format
+Format Ogg Theora
+
+
+;MPEG-4 format
+Format MPEG-4
+
+
+;Mobile
+Mobile {ok}
+
+
+;Check out the new look and feel of Firefox.
+Venez voir la nouvelle interface de Firefox.
+
+
+;View Full Site
+Afficher tout le site
+
+
+;Download for <span>Android</span>
+Téléchargement pour <span>Android</span>
+
+
+;Desktop
+Ordinateur
+
+
+;Firefox Beta for mobile
+Firefox Beta pour mobile
+
+
+;Firefox for mobile
+Firefox pour mobile
+
+
+;Email
+Adresse électronique
+
+
+;Super speed
+Une vitesse accrue
+
+
+;Stunning graphics
+Des graphismes impressionnants
+
+
+;The latest technologies
+Les toutes dernières technologies
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+Vous avez besoin d’une mise à niveau&nbsp;! Restez en sécurité en moins d’une minute. <br/> Commencez à utiliser votre nouveau Firefox pour le meilleur de la navigation et de la personnalisation sur le Web. <br/> C’est rapide et gratuit&nbsp;!
+
+
+;Upgrade now
+Mettez-vous à niveau maintenant
+
+
+;Update now
+Mettez-vous à jour maintenant
+
+
+;Supported Devices
+Appareils pris en charge
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+Nouveautés
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+Vie privée
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+Certaines parties de ce contenu sont ©1998–%(current_year)s par les contributeurs individuels de mozilla.org. Le contenu est disponible sous <a  href="%(url)s">licence Creative Commons</a>.
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+Contribuer à ce site
+
+
+# Footer string
+;Contribute to this page
+Contribuer à cette page
+
+
+# Top menu item
+;Mission
+Mission {ok}
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+Visite guidée
+
+
+# Footer item
+;Partner with Us
+Partenariats
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+Sync {ok}
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+Modules complémentaires (ordinateurs)
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+Modules Android
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+Thèmes
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+Ordinateurs
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+Assistance Android
+
+
+# Top menu item on firefox/update page
+;Performance
+Performances
+
+
+# Top menu item on firefox/update page
+;Technology
+Technologie
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+Vie privée et sécurité
+
+
+# Top menu item on firefox/update page
+;Releases
+Versions
+
+
+# Top menu item on firefox/update page
+;Firefox
+Firefox {ok}
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+Firefox pour les entreprises
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+Modules complémentaires (appareils mobiles)
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+Appareils mobiles
+
+
+# Top menu item on firefox/update page
+;Blog
+Blog {ok}
+
+
+# Top menu item on firefox/update page
+;About Firefox
+À propos de Firefox
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+Rejoindre Mozilla
+
+
+# Top menu item on firefox/update page
+;Participate
+Participer
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
+;Volunteer
+Participer
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+Guide de style
+
+
+# Top menu item on firefox/update page
+;Partnerships
+Partenariats
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+Les nouvelles de Mozilla
+
+
+# share button for social networks
+;Share
+Partager
+
+
+# footer link
+;Mozilla on Twitter
+Mozilla sur Twitter
+
+
+# footer link
+;Firefox on Twitter
+Firefox sur Twitter
+
+
+# footer link
+;Mozilla on Facebook
+Mozilla sur Facebook
+
+
+# footer link
+;Firefox on Facebook
+Firefox sur Facebook
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+Forums {ok}
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Direction
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+Gouvernance
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+Histoire
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+Nos logiciels
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+Logiciels et autres innovations conçus pour soutenir notre mission.
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+Devenez bénévole dans de nombreux domaines.
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+Menu {ok}
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+Engagé pour vous, votre vie privée et le Web ouvert
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+Faites le choix de la liberté
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Battons-nous ensemble pour qu’Internet reste libre et ouvert ! #ChooseIndependent. Choisissez Firefox :
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+Veuillez activer JavaScript pour afficher correctement cette page.
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+Fonctionnalités de Firefox
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+Assistance pour Firefox
+
+
+;January
+janvier
+
+
+;February
+février
+
+
+;March
+mars
+
+
+;April
+avril
+
+
+;May
+mai
+
+
+;June
+juin
+
+
+;July
+juillet
+
+
+;August
+août
+
+
+;September
+septembre
+
+
+;October
+octobre
+
+
+;November
+novembre
+
+
+;December
+décembre
+
+
+;<abbr>Jan</abbr>
+<abbr>jan</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>fév</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>mar</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>avr</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>mai</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>jun</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>jul</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>aoû</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>sep</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>oct</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>nov</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>déc</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox sera bientôt disponible sur iOS&nbsp;! <a href="{url}">Abonnez-vous à la lettre d’information pour ne rien rater</a>.
+
+
+;Congrats. You’re up to date!
+Félicitations, votre version est à jour.
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+;Format
+Format {ok}
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;Text
+Texte
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;HTML
+HTML {ok}
+
+
+# This is the error message displayed if you provide an invalid email address in a form
+;Whoops! Be sure to enter a valid email address.
+Oups&nbsp;! L’adresse que vous avez saisie est invalide.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+J’accepte que Mozilla utilise mes informations conformément à <a href="%s">cette politique de confidentialité</a>
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Recevoir des informations sur Firefox
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+ADRESSE ÉLECTRONIQUE
+
+
+# Subscription Button
+;Sign me up
+Je m’inscris
+
+
+;Select country
+Sélectionnez votre pays
+
+
+;Available Languages
+Langues disponibles
+
+
+;We will only send you Mozilla-related information.
+Nous ne vous enverrons que des informations concernant Mozilla.
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Merci&nbsp;! Veuillez relever votre boîte aux lettres pour confirmer votre abonnement.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Vous allez recevoir un message de mozilla@e.mozilla.org pour confirmer votre abonnement. Si vous ne le voyez pas dans votre boîte aux lettres, vérifiez qu’il n’a pas échoué dans les courriers indésirables. Vous devrez confirmer votre abonnement pour recevoir notre lettre d’information.
+
+
+;Read all about it in our <span>newsletter</span>
+Découvrez notre <span>lettre d’information</span>
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Abonnez-vous pour être informé chaque mois de toutes les mises à jour et des nouveautés Mozilla, y compris nos dernières astuces pour optimiser votre navigateur Firefox. La meilleure manière de rester en contact&nbsp;!
+
+

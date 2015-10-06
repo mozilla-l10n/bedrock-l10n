@@ -1,0 +1,294 @@
+## NOTE: demo server at https://www-dev.allizom.org/
+
+
+# Used as page title in HTML meta tag
+;We’re building a better Internet
+ما در حال ساختن یک اینترنت بهتر هستیم
+
+
+# Used as page description in HTML meta tag
+;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
+آیا میدانستید؟ Mozilla — سازنده فایرفاکس — میجنگد تا اینترنت را به عنوان یک منبع عمومی جهانی باز و دسترس همه نگه دارد.
+
+
+;Home of the Mozilla Project
+خانه پروژه Mozilla
+
+
+;Read more
+بیشتر بخوانید
+
+
+;Community
+جامعه کاربران
+
+
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
+;Continue to mozilla.org
+ادامه به mozilla.org
+
+
+;Discover <br>what drives our mission
+Discover <br>what drives our mission
+
+
+;See the principles <br>that guide everything <br>we do.
+See the principles <br>that guide everything <br>we do.
+
+
+;Read the <br>Mozilla Manifesto
+Read the <br>Mozilla Manifesto
+
+
+;Mozilla Developer Network
+Mozilla Developer Network
+
+
+;10 years of documenting your Web.
+10 years of documenting your Web.
+
+
+;Celebrate with us
+Celebrate with us
+
+
+# Do no translate "Firefox Friends" (https://friends.mozilla.org)
+;Introducing <br>Firefox Friends
+Introducing <br>Firefox Friends
+
+
+;Join. Share. <br>Get rewarded.
+Join. Share. <br>Get rewarded.
+
+
+;Join Firefox Friends
+Join Firefox Friends
+
+
+# Small tile. Link points to https://advocacy.mozilla.org
+;Learn about Mozilla Advocacy
+Learn about Mozilla Advocacy
+
+
+;Understand your privacy online
+Understand your privacy online
+
+
+;Download Firefox
+بارگیری فایرفاکس
+
+
+;Introducing<br> the new Webmaker
+Introducing<br> the new Webmaker
+
+
+;Discover, create and share original content with the free Webmaker app.
+Discover, create and share original content with the free Webmaker app.
+
+
+;Learn more
+اطلاعات بیشتر
+
+
+# This string is used on the little blue tile, see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach<br> the Web
+Teach<br> the Web
+
+
+;Make the Web you want
+وبی را که می‌خواهید بسازید
+
+
+;Build a Web page or app in minutes<br> — no coding required.
+Build a Web page or app in minutes<br> — no coding required.
+
+
+;Become a Webmaker
+یک سازنده وب شوید
+
+
+# This string is used as title on the big pink tile for locales that have not translated the new version above (Make the Web you want), see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach the Web
+وب را آموزش دهید
+
+
+;Let’s build a Web that’s open <br>and made by everyone.
+Let’s build a Web that’s open <br>and made by everyone.
+
+
+;Build an app <br>in seconds
+Build an app <br>in seconds
+
+
+;Volunteer <br>with Mozilla
+Volunteer <br>with Mozilla
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Try Firefox Developer Edition
+Try Firefox Developer Edition
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Introducing Firefox Developer Edition
+Introducing Firefox Developer Edition
+
+
+;The only browser made only for developers.
+The only browser made only for developers.
+
+
+;Get Firefox Developer Edition
+Get Firefox Developer Edition
+
+
+;Try the best Firefox yet
+Try the best Firefox yet
+
+
+;Made with a mission to put you first.
+Made with a mission to put you first.
+
+
+;Learn more about Firefox
+Learn more about Firefox
+
+
+;Put your Firefox on your Android
+فایرفاکس را روی آندرویدتان قرار دهید
+
+
+;The features <br>you love. <br>The privacy <br>you trust.
+ویژگی‌هایی که <br>شما دوست دارید. <br>اعتماد به <br>حفظ حریم خصوصیتان.
+
+
+;Learn about <br>Firefox for Android
+درباره‌ی فایرفاکس برای آندروید <br>یاد بگیرید
+
+
+# Used in a small tile
+;Official Mozilla gear is here
+لباس رسمی موزیلا اینجا است
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
+Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Get your Mozilla gear
+لباس موزیلای خود را دریافت کنید
+
+
+;Help Mozilla users
+Help Mozilla users
+
+
+;Help millions <br>get the most from their <br>favorite browser.
+Help millions <br>get the most from their <br>favorite browser.
+
+
+;Join our support team
+Join our support team
+
+
+# Used in Twitter feed
+;Reply
+Reply
+
+
+# Used in Twitter feed
+;Retweet
+بازتوییت
+
+
+# <strong> tags below are for visual formatting only.
+;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
+Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;active Mozillians <br>worldwide
+موزیلایی‌های فعال<br>سراسر جهان
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;upcoming events <br>around the globe
+رویدادهای پیش رو <br>در سطح جهان
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;languages and counting, <br>on every continent
+languages and counting, <br>on every continent
+
+
+;Get Involved with Mozilla today
+Get Involved with Mozilla today
+
+
+;Upcoming events
+Upcoming events
+
+
+;Next event
+رویداد بعدی
+
+
+;See all events
+دیدن همه رویدادها
+
+
+;Compare prices, check the weather, listen to music, send a tweet and more right from Firefox.
+مقایسه قیمت‌ها، بررسی وضعیت آب و هوا، گوش دادن به موسیقی، ارسال یک توییت و چیزهای بیشتر بطور مستقیم از فایرفاکس.
+
+
+;Careers
+شغل‌ها
+
+
+;Learn about the benefits of working at Mozilla and view open positions around the world.
+Learn about the benefits of working at Mozilla and view open positions around the world.
+
+
+;Get answers to your questions about Firefox and all Mozilla products from our support team.
+Get answers to your questions about Firefox and all Mozilla products from our support team.
+
+
+;Discover more
+Discover more
+
+
+;Help us celebrate 10 years of Firefox.
+به ما برای هماهنگ کردن 10 سال فایرفاکس کمک کنید.
+
+
+# Old promo tiles
+;Donate to Mozilla
+کمک مالی به موزیلا
+
+
+;Your gift helps us build the Internet the world needs.
+هدیه‌ی شما به ما کمک می‌کند اینترنتی را که جهان نیاز دارد بسازیم.
+
+
+;Donate today
+امروز کمک کنید
+
+
+;Meet<br> Firefox Hello
+با Firefox Hello<br> آشنا شوید
+
+
+;The easiest way to connect for free over video.
+آسان‌ترین راه برای ارتباط ویدئویی رایگان.
+
+
+;Try Firefox Hello
+Firefox Hello را امتحان کنید
+
+
+;Try the Thimble code editor
+Try the Thimble code editor
+
+

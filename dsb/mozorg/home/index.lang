@@ -1,0 +1,304 @@
+## active ##
+## firefox_friends ##
+## fx10_independent ##
+## gear_store ##
+## mdn_10_years ##
+## meta_update_201503 ##
+## privacy_day ##
+## webmaker_promo_introducing ##
+## webmaker_promo_make ##
+## webmaker_promo_thimble ##
+## NOTE: demo server at https://www-dev.allizom.org/
+
+
+# Used as page title in HTML meta tag
+;We’re building a better Internet
+Napórajomy nowy internet
+
+
+# Used as page description in HTML meta tag
+;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
+Sćo južo wěźeł? Mozilla - zgótowaŕ Firefox - wójujo, aby internet ako globalnu zjawnu resursu wobchował, kótaraž jo wótwórjona a pśistupna za wše.
+
+
+;Home of the Mozilla Project
+Startowy bok projekta Mozilla
+
+
+;Read more
+Wěcej cytaś
+
+
+;Community
+Zgromaźeństwo
+
+
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
+;Continue to mozilla.org
+Dalej k mozilla.org
+
+
+;Discover <br>what drives our mission
+Wuslěźćo, <br>což góni našu misiju
+
+
+;See the principles <br>that guide everything <br>we do.
+Woglědajśo se zasady, <br>kótarež wjedu wšykno, <br>což cynimy.
+
+
+;Read the <br>Mozilla Manifesto
+Pśecytajśo <br>manifest Mozilla
+
+
+;Mozilla Developer Network
+Seś wuwijarjow Mozilla
+
+
+;10 years of documenting your Web.
+10 lět dokumentěrowanja wašogo weba.
+
+
+;Celebrate with us
+Swěśćo z nami
+
+
+# Do no translate "Firefox Friends" (https://friends.mozilla.org)
+;Introducing <br>Firefox Friends
+Zapokazanje do <br>Firefox Friends
+
+
+;Join. Share. <br>Get rewarded.
+Cyńśo sobu. Źělśo. <br>Dostańśo myto.
+
+
+;Join Firefox Friends
+Pśizamkniśo se Firefox Friends
+
+
+# Small tile. Link points to https://advocacy.mozilla.org
+;Learn about Mozilla Advocacy
+Zgóńśo wěcej wó Mozilla Advocacy
+
+
+;Understand your privacy online
+Zrozmějśo swóju priwatnosć online
+
+
+;Download Firefox
+Firefox ześěgnuś
+
+
+;Introducing<br> the new Webmaker
+Zapokazanje<br> do nowego Webmaker
+
+
+;Discover, create and share original content with the free Webmaker app.
+Wuslěźćo, napórajśo a źělśo originalne wopśimjeśe z dermotnym nałoženim Webmaker.
+
+
+;Learn more
+Dalšne informacije
+
+
+# This string is used on the little blue tile, see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach<br> the Web
+Wucćo<br> web
+
+
+;Make the Web you want
+Cyńśo se web, kótaryž coš
+
+
+;Build a Web page or app in minutes<br> — no coding required.
+Napórajśo webbok abo nałoženje za minuty<br> - programěrowanje njejo trěbne.
+
+
+;Become a Webmaker
+Bužćo webwugótowaŕ
+
+
+# This string is used as title on the big pink tile for locales that have not translated the new version above (Make the Web you want), see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach the Web
+Wucćo web
+
+
+;Let’s build a Web that’s open <br>and made by everyone.
+Twarmy web, kótaryž jo wótwórjony <br>a wót kuždego cynjony.
+
+
+;Build an app <br>in seconds
+Napórajśo nałoženje <br>w běgu sekundow
+
+
+;Volunteer <br>with Mozilla
+Buźćo dobrowólnik <br>pla Mozilla
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Try Firefox Developer Edition
+Wopytajśo wuwijarsku ediciju Firefox
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Introducing Firefox Developer Edition
+Zawjeźenje wuwijarskeje edicije Firefox
+
+
+;The only browser made only for developers.
+Jadnučki wobglědowak, kótaryž jo se jano za wuwijarjow napórał.
+
+
+;Get Firefox Developer Edition
+Wobstarajśo se wuwijarsku ediciju Firefox
+
+
+;Try the best Firefox yet
+Wopytajśo dotychměst nejlěpšy Firefox
+
+
+;Made with a mission to put you first.
+Z misiju cynjony, kótaraž staja was na prědne městno.
+
+
+;Learn more about Firefox
+Zgóńśo wěcej wó Firefox
+
+
+;Put your Firefox on your Android
+Spórajśo swój Firefox na swój Android
+
+
+;The features <br>you love. <br>The privacy <br>you trust.
+Funkcije, <br>kótarež lubujośo. <br>Priwatnosć, <br>kótarejž dowěriśo.
+
+
+;Learn about <br>Firefox for Android
+Zgóńśo wěcej wó <br>Firefox za Android
+
+
+# Used in a small tile
+;Official Mozilla gear is here
+Oficielne wabjeńske artikle Mozilla su how
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
+Wóra z misiju. <br>Produkty ze zaměrom. <br>Wóry, kótarež cynje dobre.
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Get your Mozilla gear
+Wobstarajśo se wabjeńske artikle Mozilla
+
+
+;Help Mozilla users
+Pomagajśo wužywarjam Mozilla
+
+
+;Help millions <br>get the most from their <br>favorite browser.
+Pomagajśo milionam, <br>nejlěpše z jich <br>nejlubšego wobglědowaka wuwónoźeś.
+
+
+;Join our support team
+Pśizamkniśo se našomu pomocnemu teamoju
+
+
+# Used in Twitter feed
+;Reply
+Wótegroniś
+
+
+# Used in Twitter feed
+;Retweet
+Tweet znowego pósłaś
+
+
+# <strong> tags below are for visual formatting only.
+;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
+<strong>Wam, wašej priwatnosći</strong> a <strong>wótwórjonemu weboju</strong> zawězany
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;active Mozillians <br>worldwide
+aktiwnych Mozillanarjow <br>swětodaloko
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;upcoming events <br>around the globe
+pśed nami stojecych tšojenjow <br>wokoło zemskeje kule
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;languages and counting, <br>on every continent
+rěcow na kuždem kontinenśe, <br>z pśiběrajuceju tendencu
+
+
+;Get Involved with Mozilla today
+Cyńśo źinsa pla Mozilla sobu
+
+
+;Upcoming events
+Pśed nami stojece tšojenja
+
+
+;Next event
+Pśiduce tšojenje
+
+
+;See all events
+Wšykne tšojenja pokazaś
+
+
+;Compare prices, check the weather, listen to music, send a tweet and more right from Firefox.
+Pśirownajśo płaśizny, informěrujśo se wó wjedrje, słuchajśo na muziku, pósćelśo tweet a cyńśo wěcej direktnje z Firefox.
+
+
+;Careers
+Pówołanja
+
+
+;Learn about the benefits of working at Mozilla and view open positions around the world.
+Zgóńśo wěcej wó lěpšynach źěła pla Mozilla a pytajśo za wótwórjonymi źěłowymi městnami w cełem swěśe
+
+
+;Get answers to your questions about Firefox and all Mozilla products from our support team.
+Dostańśo wótegrona na swóje pšašanja wó Firefox a wšych produktach Mozilla wót našogo teama pomocy.
+
+
+;Discover more
+Wuslěźćo wěcej
+
+
+;Help us celebrate 10 years of Firefox.
+Pomagajśo nam, 10 lět Firefox swěśiś.
+
+
+# Old promo tiles
+;Donate to Mozilla
+Mozilla pósćiś
+
+
+;Your gift helps us build the Internet the world needs.
+Waš dar nam pomaga, internet tak wuwijaś, kak swět jen trjeba.
+
+
+;Donate today
+Pósććo źinsa
+
+
+;Meet<br> Firefox Hello
+Póznajśo<br> Firefox Hello
+
+
+;The easiest way to connect for free over video.
+Nejlažčejšy nałog se dermo pśez wideo zwězaś.
+
+
+;Try Firefox Hello
+Wopytajśo Firefox Hello
+
+
+;Try the Thimble code editor
+Wopytajśo kodowy editor Thimble
+
+

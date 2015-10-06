@@ -1,0 +1,22 @@
+Guten Tag,
+
+vielen Dank für die Unterstützung Mozillas.
+
+Die Organisation des Marketings bei Mozilla lässt sich größtenteils in zwei Gruppen einteilen:
+
+- Organisation des Marketings durch Vollzeitkräfte: https://wiki.mozilla.org/Marketing
+
+- Die Community wird über https://reps.mozilla.org/ in das Marketing einbezogen, wobei für Teilnahme an Veranstaltungen, wo z. B. Firefox OS vorgestellt wird oder sich die Ansprechpartner für Mozilla treffen, die Kosten übernommen werden.
+
+Wir hoffen, dies erleichtert Ihnen den Einstieg.
+
+Viele deutschsprachige Mitwirkende treffen sich jeden zweiten Donnerstag (in ungeraden Wochen) um 21 Uhr zu einem Online-Meeting. Jeder Neuzugang ist herzlich eingeladen. Informationen und Teilnahmemöglichkeiten: https://wiki.mozilla.org/De/Meetings
+
+Zu anderen Zeiten findet die Kommunikation in #firefox.de statt, wo auch Nutzern geholfen wird. Link: http://www.mibbit.com/?server=irc.mozilla.org&channel=%23firefox.de
+
+Für Rückfragen stehen wir selbstverständlich zur Verfügung.
+
+P.S. Wir Duzen uns untereinander, überlassen es aber anderen Personen, auf deren Wunsch damit zu beginnen. 
+
+Mit freundlichen Grüßen,
+Team Mozilla

@@ -1,0 +1,82 @@
+## active ##
+## NOTE: Thunderbird start page,  url is https://www-dev.allizom.org/thunderbird/release/start/
+
+
+;Welcome to <span>Thunderbird</span>
+Willkommen bei <span>Thunderbird</span>
+
+
+;Happy 10th Birthday Thunderbird!
+Alles Gute zum 10. Geburtstag, Thunderbird!
+
+
+;Mozilla announced Thunderbird version 1.0 ten years ago. Can you imagine the last ten years without e-mail? Can you imagine e-mail without Thunderbird? We can’t!
+Mozilla hat vor zehn Jahren Thunderbird 1.0 angekündigt. Können Sie sich die letzten zehn Jahre ohne E-Mails vorstellen? Können Sie sich E-Mails ohne Thunderbird vorstellen? Wir nicht!
+
+
+;Contribute to Thunderbird
+An Thunderbird mitarbeiten
+
+
+;To ensure that Thunderbird continues to improve, as it has for the last ten years, active contributors <a href="%s">recently organized</a> to focus on the future.
+Um sicherzustellen, dass Thunderbird – wie in den letzten zehn Jahren – immer besser wird, haben sich die aktiven Mitarbeiter <a href="%s">kürzlich organisiert</a>, um sich auf die Zukunft zu konzentrieren.
+
+
+;Now is a great time for you to <a href="%s" class="iconic">get involved</a>.
+Jetzt ist der ideale Zeitpunkt für Sie, um <a href="%s" class="iconic">mitzumachen</a>.
+
+
+;Please help us assist users of Thunderbird, and improve the Thunderbird product and eco-system.
+Bitte helfen Sie uns, den Thunderbird-Anwendern zu helfen und das Thunderbird-Produkt und -Ökosystem zu verbessern.
+
+
+;We look forward to <a href="%s">hearing from you</a>.
+Wir freuen uns, <a href="%s">von Ihnen zu hören</a>.
+
+
+;Learn more
+Erfahren Sie mehr
+
+
+;Need Support?
+Benötigen Sie Hilfe?
+
+
+;Most Thunderbird support questions are answered on the <a href="%s">Knowledge Base</a>.
+Die meisten Fragen zu Thunderbird werden in der <a href="%s">Wissensdatenbank</a> behandelt.
+
+
+;If you can’t find an answer, <a href="%s">ask your question on our support forum</a>.
+Wenn Sie keine Antwort finden, <a href="%s">stellen Sie Ihre Frage in unserem Hilfeforum</a>.
+
+
+# If your locale has a dedicated Thunderbird support forum, you can localize the URL
+# used in the previous string to point there. Otherwise simply mark the string as {ok}
+;https://support.mozilla.org/questions/new/thunderbird
+https://www.thunderbird-mail.de/index.php/BoardList/
+
+
+;Features
+Funktionen
+
+
+;Visit our blog
+Besuchen Sie unser Blog
+
+
+;Contribute
+Mitmachen
+
+
+;Tips
+Tipps
+
+
+;Add-ons
+Add-ons {ok}
+
+
+;Get help
+Unterstützung erhalten
+
+

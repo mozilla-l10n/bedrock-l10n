@@ -1,0 +1,818 @@
+;Navigation
+Banngagol
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+<span>for</span> Ordinateer
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+<span>for</span> Android {ok}
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+<span>for</span> iOS
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+OS {ok}
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+Mo ordinateer &amp; beelne
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+Mo cinnde &amp; taable
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+Jiimtorde
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+Koolniɗum
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+Weeɓtuɗum
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+Jaawɗum
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+Baɗte
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+Kaɓirɗi
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+Toɗɗii ko gollodiiɓe
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+Apps
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+Hoto Rewindo-mi
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Keeɗe
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Jiimtorde Katojine
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Developer Edition {ok}
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+Banngagol Suturo
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+Aɗa sokli ballal?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+Kabaruuji
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+Toɗɗii ko Topayɓe
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Yiytu Kaɓirgol Am
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+Topayɓe
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+Suɓo wanngorde jeytaare
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox ko fedde ɗe ɗaɓɓaani ngalu, wonaa njulaŋkeere, nde wonaa ndewna. Suɓaade Fireox wonaa suɓaade wanngorde. Ko hiisaade ndimaagu mum.
+
+
+;Donate
+Addu dokkal
+
+
+;Support
+Wallitorde
+
+
+;Products
+Topirɗe
+
+
+;Add-ons
+Ɓeyditte
+
+
+;About Us
+Baɗte amen
+
+
+;Labs
+Mbayla
+
+
+;skip to Navigation
+diw to Peeragol
+
+
+;switch language
+waylu ɗemngal
+
+
+;Back to home page
+Rutto to jaɓɓorgo
+
+
+;About Mozilla
+Baɗte Mozilla
+
+
+;Get Involved
+Yantu e amen
+
+
+;Careers
+Golluuje
+
+
+;Press Center
+Nokku Jaaynde
+
+
+;Contact Us
+Jokkondir e amen
+
+
+;Other languages:
+Ɗemɗe goɗɗe:
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+%d-%m-%Y
+
+
+;Legal
+Laawol
+
+
+# Used as link in the footer
+;Cookies
+Kukiije
+
+
+# Used as link in the footer
+;Firefox Affiliates
+Gollodiiɓe Firefox
+
+
+;Legal Notices
+Tintine laawol
+
+
+;Privacy Policy
+Dawirgol Suturo
+
+
+;Release Notes
+Konngol bayyinol
+
+
+;Other Systems and Languages
+Juɓɓe e ɗemɗe goɗɗe
+
+
+;Close
+Uddu
+
+
+;(in English)
+(e ɗemngal Pulaar-Fulfulde)
+
+
+;Return to top
+Rutto dow
+
+
+;Features
+Fannuuji
+
+
+;Customize
+Heertin
+
+
+;Download
+Aawto
+
+
+;Previous
+Ɓennuɗo
+
+
+;Next
+Yeeso
+
+
+# MegaBytes abbreviation
+;MB
+MB {ok}
+
+
+;MegaBytes
+Megaabite
+
+
+;FAQ
+Gerngal Naamne Duumiiɗe (GND)
+
+
+;Videos
+Widewooji
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+So wonaa ɗo <a href="%s">sifaa</a> nokku goɗɗo, loowdi ndee lowre ko keeroraandi tugnaade e jamirol <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> walla kala yamre sakkitiinde ɗum.
+
+
+;Report Trademark Abuse
+Jaŋto Nguyka Marke
+
+
+;Free Upgrade
+Kesɗitainal ngal yoɓetaake
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+Rewindo-min e:
+
+
+;Customize with Add-ons
+Huutoro ɓeyditte ngam heertinde
+
+
+;Learn More
+Ɓeydu humpito
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+Ɓeydu humpito
+
+
+# Link used to play again an animation or a video
+;Replay
+Tarto
+
+
+;Watch the video
+Yeeɓ widewoo oo
+
+
+;Replay the video
+Tarto widewoo oo
+
+
+;Share the video
+Lollin widewoo oo
+
+
+;WebM format
+Mbayka WebM
+
+
+;Ogg Theora format
+Mbayka Ogg Theora
+
+
+;MPEG-4 format
+Mbayka MPEG-4
+
+
+;Mobile
+Cinndel
+
+
+;Check out the new look and feel of Firefox.
+Ar humpito mbaydi e dakamme kese Firefox.
+
+
+;View Full Site
+Hollu lowre ndee fof
+
+
+;Download for <span>Android</span>
+Aaawto mo <span>Android</span>
+
+
+;Desktop
+Ordinateer
+
+
+;Firefox Beta for mobile
+Firefox Beta mo cinndel
+
+
+;Firefox for mobile
+Firefox mo cinndel
+
+
+;Email
+Iimeel
+
+
+;Super speed
+Njaaweeki moolanaaki
+
+
+;Stunning graphics
+Jaytine kulɓiniiɗe
+
+
+;The latest technologies
+Karallaagal cakkitiingal
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+Aɗa soki kesɗitinal! Ɓeydu kisal e ko jaasi hojom. <br/> Fuɗɗo huuroraade Firefox maa keso ngam heɓde wanngorde ɓurnde yuɓɓude e heertinaade. <br/>   Ena yaawi tee yoɓetaake!
+
+
+;Upgrade now
+Hesɗitin jooni
+
+
+;Update now
+Hesɗitin jooni
+
+
+;Supported Devices
+Kaɓirɗi Tambitaaɗi
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+Ko Hesɗi e Firefox
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+Suturo
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+Bannge e ndii loowdi ko ©1998–%(current_year)s wallitooɓe Mozilla.org heeriiɓe. Loowdi ngoodndi e jamirol <a href="%(url)s">Creative Commons license</a>.
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+Wallit e ndee lowre
+
+
+# Footer string
+;Contribute to this page
+Wallit e ngoo hello
+
+
+# Top menu item
+;Mission
+Darnde
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+Yillo
+
+
+# Footer item
+;Partner with Us
+Huutondir e Amen
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+Sanngoɗin
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+Ɓeyditte Biro
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+Ɓeyditte Android
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+Wutteeji
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+Wallitorde Biro
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+Wallitorde Android
+
+
+# Top menu item on firefox/update page
+;Performance
+Jaawgol golle
+
+
+# Top menu item on firefox/update page
+;Technology
+Karallaagal
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+Suturo &amp; Kisal
+
+
+# Top menu item on firefox/update page
+;Releases
+Bayyine
+
+
+# Top menu item on firefox/update page
+;Firefox
+Firefox {ok}
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+Firefox mo Pelle
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+Ɓeydiite Cinnde
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+Wallitorde Cinndel
+
+
+# Top menu item on firefox/update page
+;Blog
+Blog {ok}
+
+
+# Top menu item on firefox/update page
+;About Firefox
+Baɗte Firefox
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+Yantu e Mozilla
+
+
+# Top menu item on firefox/update page
+;Participate
+Naat e golle ɗee
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
+;Volunteer
+Yarlito
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+Kuutorɗe Marke
+
+
+# Top menu item on firefox/update page
+;Partnerships
+Kuutondiral
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+Yeɓ kesɗitine Mozilla
+
+
+# share button for social networks
+;Share
+Lollin
+
+
+# footer link
+;Mozilla on Twitter
+Mozilla e Twitter
+
+
+# footer link
+;Firefox on Twitter
+Firefox e Twitter
+
+
+# footer link
+;Mozilla on Facebook
+Mozilla e Facebook
+
+
+# footer link
+;Firefox on Facebook
+Firefox e Facebook
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+Jakkaaji
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Ngardiigu
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+Ɗowamteeru
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+Daartol
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+Topirɗe amen
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+Topateeri e kesameeje goɗɗe ŋeñtaaɗe ngam siynuje eɓɓoore amen.
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+Yantu e yarlitiiɓe wallitooɓe e fannuuji keewɗi ceertuɗi.
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+Dosol
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+Ena tiiɗaa suturo maa e Geese udditiiɗe
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+Suɓo Jaytaare
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Duumo e hatojinde e Enternet mo bellitiiɗo, udditiiɗo! #ChooseIndependent. Suɓo Firefox:
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+Tiiɗno hurmin JavaScript ngam jaytinde ngoo hello.
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+Fannuuji Firefox
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+Ballal Firefox
+
+
+;January
+Siilo
+
+
+;February
+Colte
+
+
+;March
+Mbooy
+
+
+;April
+Seeɗto
+
+
+;May
+Duujal
+
+
+;June
+Korse
+
+
+;July
+Morso
+
+
+;August
+Juko
+
+
+;September
+Siilto
+
+
+;October
+Yarkomaa
+
+
+;November
+Jolal
+
+
+;December
+Bowte
+
+
+;<abbr>Jan</abbr>
+<abbr>Sii</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>Col</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>Mbo</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>See</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>Duu</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>Kor</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>Mor</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>Juk</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>Sto</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>Yar</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>Jol</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>Bow</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox nana ara to iOS! <a href="{url}">Winndito ngam ɓeydude humpito</a>.
+
+
+;Congrats. You’re up to date!
+Congrats. You’re up to date!
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+;Format
+Mbayka
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;Text
+Binndol
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;HTML
+HTML
+
+
+# This is the error message displayed if you provide an invalid email address in a form
+;Whoops! Be sure to enter a valid email address.
+Ndo! Ƴeew so a naatnii ñiiɓirde iimeel moƴƴere.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+Alanaa kam caɗeele e Mozilla huutoraade ngoo humpito hono no paamir-mi e <a href="%s">Dawirgol Suturo</a>
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Heɓ kabaruuji Firefox
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+WINNDU ƊOO IIMEEL MAA
+
+
+# Subscription Button
+;Sign me up
+Winndit am
+
+
+;Select country
+Labo leydi
+
+
+;Available Languages
+Ɗemɗe goodɗe
+
+
+;We will only send you Mozilla-related information.
+Min neldat-maa tan ko kabaruuji toɗɗiiɗi Mozilla.
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+A jaaraama! Tiiɗno ƴeewto wakannde ɓatakeeji maa ngam teeŋtinde binnditagol maa.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Maa heɓ iimeel ummoraade e mozilla@e.mozilla.org ngam teeŋtinde binnditagol maa. So a heɓaani-mo, ƴeewto seɗorde spamuuji maa. Alaa e sago teeŋtinaa binnditagol maa ngam heɓde ɓataake amen habrirde.
+
+
+;Read all about it in our <span>newsletter</span>
+Ɓeydu humpito baɗte mum e <span>newsletter</span> amen
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Lulno e kesɗitine lewriije ngam humpitaade ko joli e Mozilla, kadi ɓeydaa humpito e peeje e ƴoƴe cakkitiiɗe ballooje-ma ittinde kuutorgol wanngorde maa Firefox. Ko ɗum ɓeydata jokkondiral maa e maen yuɓɓude!
+
+

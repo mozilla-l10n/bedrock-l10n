@@ -1,0 +1,84 @@
+## NOTE: Strings used in our download buttons. Test area: https://www-dev.allizom.org/styleguide/websites/sandstone/buttons/
+
+
+;Download Firefox
+ফায়ারফক্স ডাউনলোড করুন
+
+
+;Your system doesn't meet the <a href="%(url)s">requirements</a> to run Firefox.
+ফায়ারফক্স চালানোর জন্য আপনার সিস্টেম <a href="%(url)s">প্রয়োজনীয়তা</a> পূরণ করছে না।
+
+
+;<span>Firefox Beta</span> for Android
+<span>ফায়ারফক্স বেটা</span> অ্যান্ড্রয়েডের জন্য
+
+
+;<span>Firefox Aurora</span> for Android
+<span>ফায়ারফক্স অরোরা</span> অ্যান্ড্রয়েডের জন্য
+
+
+;<span>Firefox</span> for Android
+<span>ফায়ারফক্স</span> অ্যান্ড্রয়েডের জন্য
+
+
+;Get it free on Google Play
+গুগল প্লে থেকে বিনামূল্যে নিন
+
+
+;<span>Firefox</span> for iOS
+<span>Firefox</span> for iOS {ok}
+
+
+;Get it free from the App Store
+এটিকে অ্যাপ স্টোর থেকে বিনামূল্যে পান
+
+
+;Firefox Beta
+ফায়ারফক্স বেটা
+
+
+;Firefox Aurora
+ফায়ারফক্স অরোরা
+
+
+;Free Download
+বিনামূল্যে ডাউনলোড
+
+
+# Displayed in the download button for users of old versions of Firefox (should be short)
+;Update your Firefox
+আপনার ফায়ারফক্স হালনাগাদ করুন
+
+
+;Supported Devices
+সমর্থিত ডিভাইস
+
+
+;Get it on Google Play
+এটিকে Google Play তে পান
+
+
+;Get Firefox for Android
+অ্যান্ড্রয়েড এর জন্য ফায়ারফক্স পান
+
+
+;Download on the App Store
+অ্যাপ স্টোর থেকে এটিকে ডাউনলোড করুন
+
+
+;Get Firefox for iOS
+Firefox for iOS পান
+
+
+;What’s New
+নতুন কি আছে
+
+
+;Privacy
+গোপনীয়তা
+
+
+;Systems &amp; Languages
+সিস্টেমের &amp; ভাষা
+
+

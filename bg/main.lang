@@ -1,0 +1,818 @@
+;Navigation
+Навигация
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+<span>за</span> настолен компютър
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+<span>за</span> Android
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+<span>за</span> iOS
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+Операционна система
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+За компютри и лаптопи
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+За телефони и таблети
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+Преглед
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+Доверен
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+Гъвкав
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+Бърз
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+Относно
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+Устройства
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+За партньори
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+Приложения
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+Без проследяване
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Витрини
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Табло на интересите
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Развойна версия
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+Поверително сърфиране
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+Имате нужда от помощ?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+Новини
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+За разработчици
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Изгубено устройство
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+Разработчици
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+Изберете независимият браузър
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox остана не-комерсиален, не-корпоративен, не-компрометиран. Избирайки Firefox не избирате само браузър. Това е Вашият глас за лична свобода.
+
+
+;Donate
+Дарения
+
+
+;Support
+Поддръжка
+
+
+;Products
+Продукти
+
+
+;Add-ons
+Добавки
+
+
+;About Us
+За нас
+
+
+;Labs
+Лаборатории
+
+
+;skip to Navigation
+прескачане до навигацията
+
+
+;switch language
+смяна на език
+
+
+;Back to home page
+Връщане към началната страница
+
+
+;About Mozilla
+За Mozilla
+
+
+;Get Involved
+Участвайте
+
+
+;Careers
+Работа
+
+
+;Press Center
+Пресцентър
+
+
+;Contact Us
+Връзка с нас
+
+
+;Other languages:
+Други езици:
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+%d.%m.%Y
+
+
+;Legal
+Правни въпроси
+
+
+# Used as link in the footer
+;Cookies
+Бисквитки
+
+
+# Used as link in the footer
+;Firefox Affiliates
+Firefox Съдружници
+
+
+;Legal Notices
+Правни бележки
+
+
+;Privacy Policy
+Политика за личните данни
+
+
+;Release Notes
+Бележки към изданието
+
+
+;Other Systems and Languages
+Други системи и езици
+
+
+;Close
+Затваряне
+
+
+;(in English)
+(на английски)
+
+
+;Return to top
+Връщане в началото
+
+
+;Features
+Възможности
+
+
+;Customize
+Персонализиране
+
+
+;Download
+Изтегляне
+
+
+;Previous
+Предишен
+
+
+;Next
+Следващ
+
+
+# MegaBytes abbreviation
+;MB
+MБ
+
+
+;MegaBytes
+Мегабайта
+
+
+;FAQ
+Въпроси и отговори
+
+
+;Videos
+Видео
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+Освен ако не е <a href="%s">изрично упоменато</a>, съдържанието на този сайт е лицензирано според<br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> или по-нова версия.
+
+
+;Report Trademark Abuse
+Доклад за злоупотреба с търговска марка
+
+
+;Free Upgrade
+Безплатно обновяване
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+Следвайте ни:
+
+
+;Customize with Add-ons
+Персонализирайте чрез добавки
+
+
+;Learn More
+Научете повече
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+Научете повече
+
+
+# Link used to play again an animation or a video
+;Replay
+Повторение
+
+
+;Watch the video
+Гледайте видеото
+
+
+;Replay the video
+Гледайте отново
+
+
+;Share the video
+Споделете видеото
+
+
+;WebM format
+Формат WebM
+
+
+;Ogg Theora format
+Формат Ogg Theora
+
+
+;MPEG-4 format
+Формат MPEG-4
+
+
+;Mobile
+За мобилен телефон
+
+
+;Check out the new look and feel of Firefox.
+Изпробвайте новите изглед и функционалност на Firefox.
+
+
+;View Full Site
+Вижте цялата страница
+
+
+;Download for <span>Android</span>
+Изтегляне за <span>Android</span>
+
+
+;Desktop
+Desktop {ok}
+
+
+;Firefox Beta for mobile
+Firefox Beta за мобилни телефони
+
+
+;Firefox for mobile
+Firefox за мобилни телефони
+
+
+;Email
+Електронна поща
+
+
+;Super speed
+Супер скорост
+
+
+;Stunning graphics
+Невероятна графика
+
+
+;The latest technologies
+Последните технологии
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+Имате нужда от обновяване на версията! Погрижете се за своята сигурност за по-малко от минута.<br/>Започнете да използвате новия Firefox за най-доброто решение за сърфиране и персонализация в Интернет пространството.<br/>Той е бърз и свободен!
+
+
+;Upgrade now
+Обнови сега
+
+
+;Update now
+Обнови сега
+
+
+;Supported Devices
+Поддържани устройства
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+Какво ново
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+Лични данни
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+Части от това съдържание са ©1998–%(current_year)s на индивидуални mozilla.org сътрудници. Съдържанието е достъпно под <a href="%(url)s">Creative Commons license</a>.
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+Принос към тази страница
+
+
+# Footer string
+;Contribute to this page
+Принос към тази страница
+
+
+# Top menu item
+;Mission
+Мисия
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+Разходка
+
+
+# Footer item
+;Partner with Us
+Бъдете партньор
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+Sync {ok}
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+Десктоп добавки
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+Android добавки
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+Теми
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+Десктоп поддръжка
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+Android поддръжка
+
+
+# Top menu item on firefox/update page
+;Performance
+Бързодействие
+
+
+# Top menu item on firefox/update page
+;Technology
+Технология
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+Сигурност &amp; Неприкосновеност
+
+
+# Top menu item on firefox/update page
+;Releases
+Издания
+
+
+# Top menu item on firefox/update page
+;Firefox
+Firefox {ok}
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+Firefox за организации
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+Мобилни добавки
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+Поддръжка за мобилната версия
+
+
+# Top menu item on firefox/update page
+;Blog
+Блог
+
+
+# Top menu item on firefox/update page
+;About Firefox
+За Firefox
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+Станете част от Mozilla
+
+
+# Top menu item on firefox/update page
+;Participate
+Участвайте
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
+;Volunteer
+Volunteer
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+Идентичност на марката
+
+
+# Top menu item on firefox/update page
+;Partnerships
+Партньорства
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+Получаване на новини от Mozilla
+
+
+# share button for social networks
+;Share
+Споделете
+
+
+# footer link
+;Mozilla on Twitter
+Mozilla в Twitter
+
+
+# footer link
+;Firefox on Twitter
+Firefox в Twitter
+
+
+# footer link
+;Mozilla on Facebook
+Mozilla във Facebook
+
+
+# footer link
+;Firefox on Facebook
+Firefox във Facebook
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+Форуми
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Ръководство
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+Управление
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+История
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+Нашите продукти
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+Софтуер и други иновации, предназначени да придвижат напред нашата мисия.
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+Станете доброволец в някое от многото направления.
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+Меню
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+С ангажимент към Вас, Вашата сигурност и отворения Уеб.
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+Изберете Независимост
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Запазете страстта към разрастването на свободния и отворен Интернет! #ChooseIndependent. Изберете Firefox:
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+Моля включете JavaScript във Вашия браузър, за да ползвате пълните възможности на страницата.
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+Firefox възможности
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+Firefox помощ
+
+
+;January
+Януари
+
+
+;February
+Февруари
+
+
+;March
+Март
+
+
+;April
+Април
+
+
+;May
+Май
+
+
+;June
+Юни
+
+
+;July
+Юли
+
+
+;August
+Август
+
+
+;September
+Септември
+
+
+;October
+Октомври
+
+
+;November
+Ноември
+
+
+;December
+Декември
+
+
+;<abbr>Jan</abbr>
+<abbr>Яну</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>Фев</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>Мар</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>Апр</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>Май</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>Юни</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>Юли</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>Авг</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>Сеп</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>Окт</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>Ное</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>Дек</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox излиза скоро за iOS! <a href="{url}">Запишете се, за да научете повече</a>.
+
+
+;Congrats. You’re up to date!
+Поздравления. Работите с най-новата версия!
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+;Format
+Формат
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;Text
+Текст
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;HTML
+HTML
+
+
+# This is the error message displayed if you provide an invalid email address in a form
+;Whoops! Be sure to enter a valid email address.
+Ехххей! Моля, уверете се, че е въведен валиден имейл адрес.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+Съгласен съм Mozilla да разполага с моята информация, както е обяснено в <a href="%s">тази Политика за поверителност</a>
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Получавайте Firefox новини
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+ВЪВЕДЕТЕ ВАШИЯ ИМЕЙЛ ТУК
+
+
+# Subscription Button
+;Sign me up
+Запишете ме
+
+
+;Select country
+Изберете държава
+
+
+;Available Languages
+Изберете език
+
+
+;We will only send you Mozilla-related information.
+Ще ви изпращаме само информация, свързана с Мozilla.
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Благодарим! Моля проверете входящата си поща, за да потвърдите абонамента си.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Ще получите имейл от mozilla@e.mozilla.org, за да потвърдите абонамента си. Ако не го видите, проверете спам филтъра си. Трябва да потвърдите абонамента си, за да получавате бюлетина ни.
+
+
+;Read all about it in our <span>newsletter</span>
+Прочетете повече за всичко това в нашия <span>бюлетин</span>
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Запишете се за месечните ни новини и бъдете в крак с новите неща около Mozilla, включително и последните сътвети как да направите вашия Firefox по-добър. Това е идеален начин да следите какво става с нас!
+
+

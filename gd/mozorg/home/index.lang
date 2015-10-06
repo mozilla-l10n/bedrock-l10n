@@ -1,0 +1,300 @@
+## active ##
+## fx10_independent ##
+## gear_store ##
+## meta_update_201503 ##
+## privacy_day ##
+## webmaker_promo_make ##
+## NOTE: demo server at https://www-dev.allizom.org/
+
+
+# Used as page title in HTML meta tag
+;We’re building a better Internet
+Tha sinn a' cruthachadh eadar-lìon nas fhearr
+
+
+# Used as page description in HTML meta tag
+;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
+An robh fhios agad? Tha Mozilla — na daoine a nì Firefox — a' strì airson an t-eadar-lìon a ghlèidheadh mar ghoireas eadar-nàiseanta a bhios ri làmhan a h-uile duine.
+
+
+;Home of the Mozilla Project
+An dachaigh aig pròiseact Mozilla
+
+
+;Read more
+Barrachd fiosrachaidh
+
+
+;Community
+A' choimhearsnachd
+
+
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
+;Continue to mozilla.org
+Lean air adhart gu mozilla.org
+
+
+;Discover <br>what drives our mission
+Fidir na tha a' cur <br>spionnadh annainn
+
+
+;See the principles <br>that guide everything <br>we do.
+Faic na prionnsabalan a tha <br>'gar stiùireadh ann an <br>rud sam bith a nì sinn.
+
+
+;Read the <br>Mozilla Manifesto
+Leugh <br>manifesto Mozilla
+
+
+;Mozilla Developer Network
+Lìonra luchd-leasachaidh Mozilla
+
+
+;10 years of documenting your Web.
+10 years of documenting your Web.
+
+
+;Celebrate with us
+Celebrate with us
+
+
+# Do no translate "Firefox Friends" (https://friends.mozilla.org)
+;Introducing <br>Firefox Friends
+Introducing <br>Firefox Friends
+
+
+;Join. Share. <br>Get rewarded.
+Join. Share. <br>Get rewarded.
+
+
+;Join Firefox Friends
+Join Firefox Friends
+
+
+# Small tile. Link points to https://advocacy.mozilla.org
+;Learn about Mozilla Advocacy
+Fiosrachadh mu Mozilla Advocacy
+
+
+;Understand your privacy online
+Bi eòlach air cuspairean prìobhaideachd air loidhne
+
+
+;Download Firefox
+Luchdaich a-nuas Firefox
+
+
+;Introducing<br> the new Webmaker
+Introducing<br> the new Webmaker
+
+
+;Discover, create and share original content with the free Webmaker app.
+Discover, create and share original content with the free Webmaker app.
+
+
+;Learn more
+Barrachd fiosrachaidh
+
+
+# This string is used on the little blue tile, see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach<br> the Web
+Teach<br> the Web
+
+
+;Make the Web you want
+Cruthaich an lìon a tha thusa ag iarraidh
+
+
+;Build a Web page or app in minutes<br> — no coding required.
+Cruthaich duilleag-lìn no aplacaid ann am beagan mhionaidean<br> — chan eil feum air còdachadh.
+
+
+;Become a Webmaker
+Bidh 'nad chruthaichear-lìn
+
+
+# This string is used as title on the big pink tile for locales that have not translated the new version above (Make the Web you want), see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach the Web
+Ag ionnsachadh dhan lìon
+
+
+;Let’s build a Web that’s open <br>and made by everyone.
+Tiugainn is togamaid lìon a bhios fosgailte <br>'s air a dhealbhadh leinn uile.
+
+
+;Build an app <br>in seconds
+Cruthaich aplacaid <br>ann am priobadh na sùla
+
+
+;Volunteer <br>with Mozilla
+Dèan obair shaor-thoileach <br>dha Mozilla
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Try Firefox Developer Edition
+Try Firefox Developer Edition
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Introducing Firefox Developer Edition
+A' cur fàilte air tionndadh luchd-leasachaidh de Firefox
+
+
+;The only browser made only for developers.
+An aon bhrabhsair a chaidh a dhealbhadh do luchd-leasachaidh a-mhàin.
+
+
+;Get Firefox Developer Edition
+Faigh tionndadh luchd-leasachaidh de Firefox
+
+
+;Try the best Firefox yet
+Feuch am Firefox as fhearr gu ruige seo
+
+
+;Made with a mission to put you first.
+Thusa ann an teis-mheadhan ar misein.
+
+
+;Learn more about Firefox
+Barrachd fiosrachaidh air Firefox
+
+
+;Put your Firefox on your Android
+Cuir am Firefox agad air Android
+
+
+;The features <br>you love. <br>The privacy <br>you trust.
+Na gleusan as <br>toigh leat. <br>Prìobhaideachd a bhios <br>earbsa agad ann.
+
+
+;Learn about <br>Firefox for Android
+Fàs eòlach air <br>Firefox airson Android
+
+
+# Used in a small tile
+;Official Mozilla gear is here
+Tha acainnean Mozilla oifigeach ri fhaighinn
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
+Bathar aig a bheil misean. <br>Bathar aig a bheil los. <br>Bathar a nì math.
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Get your Mozilla gear
+Faigh acainn Mozilla dhut
+
+
+;Help Mozilla users
+Cuidich luchd-cleachdaidh Mozilla
+
+
+;Help millions <br>get the most from their <br>favorite browser.
+Cuidich na mìltean a dhaoine <br>a' cur am brabhsair aca <br>gu làn-fheum.
+
+
+;Join our support team
+Gabh pàirt san sgioba taic againn
+
+
+# Used in Twitter feed
+;Reply
+Freagair
+
+
+# Used in Twitter feed
+;Retweet
+Dèan retweet
+
+
+# <strong> tags below are for visual formatting only.
+;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
+An dealas <strong>riut-sa, ri do phrìobhaideachd</strong> agus <strong>lìon fosgailte</strong>
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;active Mozillians <br>worldwide
+Mozillians gnìomhach <br>air feadh an t-saoghail
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;upcoming events <br>around the globe
+tachartasan san àm ri teachd <br>air feadh an t-saoghail
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;languages and counting, <br>on every continent
+cànan 's iad a' sìor-dhol am meud, <br>air gach tìr-mòr
+
+
+;Get Involved with Mozilla today
+Gabh pàirt ann am Mozilla an-diugh fhèin
+
+
+;Upcoming events
+Tachartasan san àm ri teachd
+
+
+;Next event
+An ath-thachartas
+
+
+;See all events
+Faic na tachartasan air fad
+
+
+;Compare prices, check the weather, listen to music, send a tweet and more right from Firefox.
+Dèan coimeas eadar prìsean, faigh aithris na sìde, èist ri ceòl, cuir tweet is mòran a bharrachd o bhroinn Firefox fhèin.
+
+
+;Careers
+Obair
+
+
+;Learn about the benefits of working at Mozilla and view open positions around the world.
+Fàs eòlach air na buannachdan a gheibhear ri linn dreuchd aig Mozilla agus faic na h-obraichean a tha bàn air feadh an t-saoghail.
+
+
+;Get answers to your questions about Firefox and all Mozilla products from our support team.
+Faigh freagairtean air do cheistean mu Firefox is bathar Mozilla air fad on sgioba taice againn.
+
+
+;Discover more
+Fidir barrachd
+
+
+;Help us celebrate 10 years of Firefox.
+Comharraich 10 bliadhna de Firefox còmhla rinn.
+
+
+# Old promo tiles
+;Donate to Mozilla
+Thoir tabhartas dha Mozilla
+
+
+;Your gift helps us build the Internet the world needs.
+Cruthaichidh sinn an t-eadar-lìon a tha a dhìth air an t-saoghal le do chuid tabhartais.
+
+
+;Donate today
+Thoir tabhartas an-diugh
+
+
+;Meet<br> Firefox Hello
+Can halò ri<br>Firefox Hello
+
+
+;The easiest way to connect for free over video.
+An dòigh as fhasa airson còmhradh video an-asgaidh a dhèanamh.
+
+
+;Try Firefox Hello
+Feuch Firefox Hello
+
+
+;Try the Thimble code editor
+Try the Thimble code editor
+
+

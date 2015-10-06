@@ -1,0 +1,818 @@
+;Navigation
+Merdeiñ
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+<span>evit</span> an urzhiataer
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+<span>evit</span> Android
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+<span>evit</span> iOS
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+Reizhiad Korvoiñ
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+Evit urzhiataerioù burev &amp; urzhiataerioù hezoug
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+Evit pellgomzerioù &amp; tabletennoù
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+Alberzh
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+Fizius
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+Azasaus
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+Herrek
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+A-zivout
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+Trobarzhelloù
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+Evit keneskemmerien
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+Arloadoù
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+N'am heuilhit ket
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Teoloù
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Taolenn dedenn
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Embannadur Diorroer
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+Merdeiñ prevez
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+Ezhomm skoazell ?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+Nevezadennoù
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+Evit diorroerien
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Kavout va trevnad
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+Diorroerien
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+Dibabit ar merdeer distag
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox a zo un aozadur hep pal kenwerzhel. Dibab Firefox a zo ouzhpenn dibab ur merdeer. Ur vouezh eo evit ar frankiz hiniennel.
+
+
+;Donate
+Reiñ
+
+
+;Support
+Skorañ
+
+
+;Products
+Kenderc'hadoù
+
+
+;Add-ons
+Askouezhioù
+
+
+;About Us
+Diwar hor penn
+
+
+;Labs
+Arnodva
+
+
+;skip to Navigation
+mont da Verdeiñ
+
+
+;switch language
+kemmañ ar yezh
+
+
+;Back to home page
+Distreiñ d'ar bennbajennad
+
+
+;About Mozilla
+A-zivout Mozilla
+
+
+;Get Involved
+Kemerit perzh enni
+
+
+;Careers
+Remzadoù
+
+
+;Press Center
+Kreizenn ar Gwask
+
+
+;Contact Us
+Kit e darempred ganeomp
+
+
+;Other languages:
+Yezhoù all :
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+%d-%m-%Y
+
+
+;Legal
+Lezennel
+
+
+# Used as link in the footer
+;Cookies
+Toupinoù
+
+
+# Used as link in the footer
+;Firefox Affiliates
+Kenizili Firefox
+
+
+;Legal Notices
+Evezhiadennoù lezenn
+
+
+;Privacy Policy
+Reolennoù a-fet buhez prevez
+
+
+;Release Notes
+Notenn a-zivout an handelv
+
+
+;Other Systems and Languages
+Reizhiadoù ha yezhoù all
+
+
+;Close
+Serriñ
+
+
+;(in English)
+(e Saozneg)
+
+
+;Return to top
+Distreiñ d'al lein
+
+
+;Features
+Keweriusterioù
+
+
+;Customize
+Personelaat
+
+
+;Download
+Pellgargañ
+
+
+;Previous
+Kent
+
+
+;Next
+War-lerc'h
+
+
+# MegaBytes abbreviation
+;MB
+Me
+
+
+;MegaBytes
+Megaeizhbitoù
+
+
+;FAQ
+FAG
+
+
+;Videos
+Videoioù
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+Anez ma vefe <a href="%s">meneget</a> emañ endalc'had al lec'hienn-mañ dindan termenoù<br /><a href="%s">Kembeli Creative Commons evit al Lañvazioù dre Rannañ Heñvel  h3.0</a> pe nevesoc'h.
+
+
+;Report Trademark Abuse
+Kas un danevell a-zivout dreistarver ur merk marilhet
+
+
+;Free Upgrade
+Hizivaat digoust
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+Chomit war hol lec'h war :
+
+
+;Customize with Add-ons
+Personelaat gant Askouezhioù
+
+
+;Learn More
+Gouzout muioc'h
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+Gouzout muioc'h
+
+
+# Link used to play again an animation or a video
+;Replay
+Adlenn
+
+
+;Watch the video
+Gwelout ar video
+
+
+;Replay the video
+Adlenn ar video
+
+
+;Share the video
+Rannañ ar video
+
+
+;WebM format
+Mentrezh WebM
+
+
+;Ogg Theora format
+Mentrezh Ogg Theora
+
+
+;MPEG-4 format
+Mentrezh MPEG-4
+
+
+;Mobile
+Pellgomzer hezoug
+
+
+;Check out the new look and feel of Firefox.
+Deuit da welout neuz nevez Firefox.
+
+
+;View Full Site
+Gwelout al lec'hienn a-bezh
+
+
+;Download for <span>Android</span>
+Pellgargañ evit <span>Android</span>
+
+
+;Desktop
+Urzhiataer burev
+
+
+;Firefox Beta for mobile
+Firefox Beta evit hezougell
+
+
+;Firefox for mobile
+Firefox evit hezougell
+
+
+;Email
+Postel
+
+
+;Super speed
+Un tizh dispar
+
+
+;Stunning graphics
+Kevregadoù souezhus
+
+
+;The latest technologies
+Ar c'halvezouriezhoù diwezhañ
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+Ezhomm oc'h eus hizivaat ! Chomit diogel e nebeutoc'h eget ur vunutenn. <br/>Krogit arverañ ho Firefox nevez a-benn kaout ar pep gwellañ eus ar merdeiñ hag ar personelaat war ar genrouedad. <br/>Buan ha digoust eo !
+
+
+;Upgrade now
+Hizivaat diouzhtu
+
+
+;Update now
+Hizivaat diouzhtu
+
+
+;Supported Devices
+Trevnadoù skoret
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+Petra zo nevez
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+Buhez prevez
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+Lodennoù an endalc'had-mañ zo ©1998–%(current_year)s gant perzhidi hiniennel eus mozilla.org. Endalc'had hegerz dindan termenoù al <a href="%(url)s">lañvaz Creative Commons</a>.
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+Kemer perzh e-barzh ar bajenn-mañ
+
+
+# Footer string
+;Contribute to this page
+Kemer perzh e-barzh ar bajenn-mañ
+
+
+# Top menu item
+;Mission
+Kefridi
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+Gweladenniñ
+
+
+# Footer item
+;Partner with Us
+Deuit da vezañ keveler
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+Sync {ok}
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+Askouezhioù evit urzhiataerioù burev
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+Askouezhioù Android
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+Dodennoù
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+Urzhiataerioù burev
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+Skor Android
+
+
+# Top menu item on firefox/update page
+;Performance
+Digonusted
+
+
+# Top menu item on firefox/update page
+;Technology
+Kalvezouriezh
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+Buhez prevez ha diogelroez
+
+
+# Top menu item on firefox/update page
+;Releases
+Ermaeziadennoù
+
+
+# Top menu item on firefox/update page
+;Firefox
+Firefox {ok}
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+Firefox evit aozadurioù
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+Askouezhioù evit hezougelloù
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+Hezougelloù
+
+
+# Top menu item on firefox/update page
+;Blog
+Blog {ok}
+
+
+# Top menu item on firefox/update page
+;About Firefox
+A-zivout Firefox
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+Mont davet Mozilla
+
+
+# Top menu item on firefox/update page
+;Participate
+Kemer perzh
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
+;Volunteer
+Kemer perzh
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+Sturlevr ar merk
+
+
+# Top menu item on firefox/update page
+;Partnerships
+Kevelerezhioù
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+Kaout hizivadurioù Mozilla
+
+
+# share button for social networks
+;Share
+Rannañ
+
+
+# footer link
+;Mozilla on Twitter
+Mozilla war dTwitter
+
+
+# footer link
+;Firefox on Twitter
+Firefox war dTwitter
+
+
+# footer link
+;Mozilla on Facebook
+Mozilla war Facebook
+
+
+# footer link
+;Firefox on Facebook
+Firefox war Facebook
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+Foromoù
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Renerezh
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+Gouarnerezh
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+Istor
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+Hor c'henderc'hadoù
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+Meziantoù ha nevezintioù all ergrafet evit skoazellañ hor c'hefridi.
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+Deuit da vezañ perzhiad war tachennoù a bep seurt.
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+Lañser
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+Gouestlet deoc'h, d'ho puhez prevez ha d'ar Web digor
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+Dibabit dizalc'h
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Dalc'hit ar youl evit un internet frank ha digor ! #DibabitDizalc'h. Dibabit Firefox :
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+Gweredekait JavaScript evit skrammañ ar pajenn-mañ en un doare reizh.
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+Keweriusterioù Firefox
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+Skoazell Firefox
+
+
+;January
+Genver
+
+
+;February
+C'hwevrer
+
+
+;March
+Meurzh
+
+
+;April
+Ebrel
+
+
+;May
+Mae
+
+
+;June
+Mezheven
+
+
+;July
+Gouere
+
+
+;August
+Eost
+
+
+;September
+Gwengolo
+
+
+;October
+Here
+
+
+;November
+Du
+
+
+;December
+Kerzu
+
+
+;<abbr>Jan</abbr>
+<abbr>Gen</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>C'hwe</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>Meu</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>Ebr</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>Mae</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>Mez</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>Gou</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>Eos</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>Gwe</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>Her</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>Du</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>Kzu</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+O tont war iOS emañ Firefox a-benn nebeut ! <a href="{url}">Emezelit evit gouzout hiroc'h</a>.
+
+
+;Congrats. You’re up to date!
+Gourc'hemennoù. Hizivaet oc'h !
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+;Format
+Mentrezh
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;Text
+Testenn
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;HTML
+HTML
+
+
+# This is the error message displayed if you provide an invalid email address in a form
+;Whoops! Be sure to enter a valid email address.
+Hopala ! Ho chomlec'h postel n'eo ket talvoudek.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+An doare ma vez keweriet ma zitouroù gant Mozilla zo mat din evel ma 'z eo bet displeget er <a href="%s">reolenn-mañ a fet buhez prevez</a>
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Kaout keleier a-zivout Firefox
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+HO POSTEL AMAÑ
+
+
+# Subscription Button
+;Sign me up
+Koumanantiñ a ran
+
+
+;Select country
+Diuzañ ur vro
+
+
+;Available Languages
+Yezhoù hegerz
+
+
+;We will only send you Mozilla-related information.
+Kaset e vo titouroù deoc'h diwar-benn Mozilla nemetken.
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Trugarez ! Mar plij, gwirit ho poest degemer evit kadarnaat ho koumanantiñ.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Ur postel a berzh mozilla@e.mozilla.org a zegemerot evit kadarnaat ho koumanantiñ. Ma ne welit ket anezhañ, gwirit ho siloù spam. Ret eo deoc'h kadarnaat ho koumanantiñ evit degemer hol lizhiri kelaouiñ.
+
+
+;Read all about it in our <span>newsletter</span>
+Dizoloit hol <span>lizher kelaouiñ</span>
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Koumanantit d'hol lizher miziek ha degemerit keleier Mozilla, enno an tunioù ha ar c'horvigelloù diwezhañ evit kaout ar pep gwellañ eus Firefox. An doare gwellañ da chom e darempred.
+
+

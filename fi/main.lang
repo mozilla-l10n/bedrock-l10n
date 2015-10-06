@@ -1,0 +1,818 @@
+;Navigation
+Sisältö
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+työpöydälle
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+Androidille
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+iOS:lle
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+Käyttöjärjestelmä
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+Työpöydälle ja kannettaville tietokoneille
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+Puhelimille ja taulutietokoneille
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+Yhteenveto
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+Luotettu
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+Joustava
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+Nopea
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+Tietoja
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+Laitteet
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+Yhteistyökumppaneille
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+Sovellukset
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+Älä seuraa
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Ruudut
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Kiinnostuksen kohteiden kojelauta
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Kehittäjäversio
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+Yksityisselaus
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+Tarvitsetko apua?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+Uutiset
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+Kehittäjille
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Etsi laitteeni
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+Kehittäjät
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+Valitse se riippumaton selain
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox on voittoa tavoittelematon, vapaaehtoisvoimin tehty ja turvallinen. Firefoxin valitseminen on samalla äänen antaminen henkilökohtaisen vapauden puolesta.
+
+
+;Donate
+Tee lahjoitus
+
+
+;Support
+Tuki
+
+
+;Products
+Tuotteet
+
+
+;Add-ons
+Lisäosat
+
+
+;About Us
+Tietoja meistä
+
+
+;Labs
+Labs {ok}
+
+
+;skip to Navigation
+Siirry sisällysluetteloon
+
+
+;switch language
+Vaihda kieli
+
+
+;Back to home page
+Takaisin etusivulle
+
+
+;About Mozilla
+Tietoja Mozillasta
+
+
+;Get Involved
+Osallistu
+
+
+;Careers
+Urat
+
+
+;Press Center
+Lehdistökeskus
+
+
+;Contact Us
+Ota yhteyttä
+
+
+;Other languages:
+Muut kielet:
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+%d.%m.%Y
+
+
+;Legal
+Lakiteksti
+
+
+# Used as link in the footer
+;Cookies
+Evästeet
+
+
+# Used as link in the footer
+;Firefox Affiliates
+Firefoxin tukijat
+
+
+;Legal Notices
+Käyttöehdot
+
+
+;Privacy Policy
+Tietosuojakäytännöt
+
+
+;Release Notes
+Julkaisutiedot
+
+
+;Other Systems and Languages
+Muut järjestelmät ja kielet
+
+
+;Close
+Sulje
+
+
+;(in English)
+(englanniksi)
+
+
+;Return to top
+Ylös
+
+
+;Features
+Ominaisuudet
+
+
+;Customize
+Muokkaa
+
+
+;Download
+Lataa
+
+
+;Previous
+Edellinen
+
+
+;Next
+Seuraava
+
+
+# MegaBytes abbreviation
+;MB
+Mt
+
+
+;MegaBytes
+megatavua
+
+
+;FAQ
+FAQ {ok}
+
+
+;Videos
+Videot
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+Paitsi mistä toisin <a href="%s">mainitaan</a>, tämän sivuston sisältö on <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> -käyttöehtojen tai uudempien alaista.
+
+
+;Report Trademark Abuse
+Ilmoita tuotemerkin väärinkäytöksistä
+
+
+;Free Upgrade
+Ilmainen päivitys
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+Seuraa meitä:
+
+
+;Customize with Add-ons
+Muokkaa lisäosilla
+
+
+;Learn More
+Lue lisää
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+Lue lisää
+
+
+# Link used to play again an animation or a video
+;Replay
+Toista uudelleen
+
+
+;Watch the video
+Katso video
+
+
+;Replay the video
+Toista video uudelleen
+
+
+;Share the video
+Jaa tämä video
+
+
+;WebM format
+WebM-muoto
+
+
+;Ogg Theora format
+Ogg Theora -muoto
+
+
+;MPEG-4 format
+MPEG-4-muoto
+
+
+;Mobile
+Mobiili
+
+
+;Check out the new look and feel of Firefox.
+Tutustu uudistuneeseen Firefoxiin.
+
+
+;View Full Site
+Näytä koko sivusto
+
+
+;Download for <span>Android</span>
+Lataa <span>Androidille</span>
+
+
+;Desktop
+Tietokone
+
+
+;Firefox Beta for mobile
+Firefox Beta mobiililaitteille
+
+
+;Firefox for mobile
+Firefox mobiililaitteille
+
+
+;Email
+Sähköposti
+
+
+;Super speed
+Huippunopea
+
+
+;Stunning graphics
+Mahtavaa grafiikkaa
+
+
+;The latest technologies
+Uusinta tekniikkaa
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+Tarvitset päivityksen! Kohenna turvallisuutta hetkessä. <br/> Uusi Firefoxia on selaamisen ja muokkauksen ykkönen. <br/>   Se on nopea ja ilmainen!
+
+
+;Upgrade now
+Päivitä heti
+
+
+;Update now
+Päivitä heti
+
+
+;Supported Devices
+Tuetut laitteet
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+Mitä uutta
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+Tietosuoja
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+Tämän sisällön tietyt osat ovat ©1998–%(current_year)s yksittäisten mozilla.org:n tukijoiden omaisuutta. Sisältö on saatavilla <a href="%(url)s">Creative Commons -lisenssillä</a>.
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+Auta sivuston kanssa
+
+
+# Footer string
+;Contribute to this page
+Kehitä tätä sivua
+
+
+# Top menu item
+;Mission
+Missio
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+Esittely
+
+
+# Footer item
+;Partner with Us
+Ryhdy yhteistyöhön
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+Sync-palvelu
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+Pöytäkoneversion lisäosat
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+Android-version lisäosat
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+Teemat
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+Pöytäkoneversion tuki
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+Android-tuki
+
+
+# Top menu item on firefox/update page
+;Performance
+Suorituskyky
+
+
+# Top menu item on firefox/update page
+;Technology
+Tekniikka
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+Tietosuoja ja turvallisuus
+
+
+# Top menu item on firefox/update page
+;Releases
+Julkaisut
+
+
+# Top menu item on firefox/update page
+;Firefox
+Firefox {ok}
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+Firefox organisaatioille
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+Mobiiliversion lisäosat
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+Mobiiliversion tuki
+
+
+# Top menu item on firefox/update page
+;Blog
+Blogi
+
+
+# Top menu item on firefox/update page
+;About Firefox
+Tietoja Firefoxista
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+Liity Mozillaan
+
+
+# Top menu item on firefox/update page
+;Participate
+Osallistu
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
+;Volunteer
+Vapaaehtoinen
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+Brändipaketti
+
+
+# Top menu item on firefox/update page
+;Partnerships
+Yhteistyömahdollisuudet
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+Tilaa Mozilla-tiedotteet
+
+
+# share button for social networks
+;Share
+Jaa
+
+
+# footer link
+;Mozilla on Twitter
+Mozilla Twitterissä
+
+
+# footer link
+;Firefox on Twitter
+Firefox Twitterissä
+
+
+# footer link
+;Mozilla on Facebook
+Mozilla Facebookissa
+
+
+# footer link
+;Firefox on Facebook
+Firefox Facebookissa
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+Foorumit
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Johtajuus
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+Hallinto
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+Historia
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+Tuotteemme
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+Ohjelmia ja muita tehtävämme edistämiseen suunniteltuja innovaatioita.
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+Voit ryhtyä vapaaehtoistukijaksi useilla eri alueilla.
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+Valikko
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+Sitoutunut sinuun, tietosuojaasi ja avoimeen verkkoon
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+Valitse itsenäinen
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Intohimoisesti ilmaisen ja vapaan Internetin puolesta!  #ChooseIndependent. Valitse Firefox:
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+Aseta JavaScript päälle nähdäksesi sivu oikein.
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+Firefoxin ominaisuudet
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+Firefoxin ohje
+
+
+;January
+tammikuu
+
+
+;February
+helmikuu
+
+
+;March
+maaliskuu
+
+
+;April
+huhtikuu
+
+
+;May
+toukokuu
+
+
+;June
+kesäkuu
+
+
+;July
+heinäkuu
+
+
+;August
+elokuu
+
+
+;September
+syyskuu
+
+
+;October
+lokakuu
+
+
+;November
+marraskuu
+
+
+;December
+joulukuu
+
+
+;<abbr>Jan</abbr>
+<abbr>tammi</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>helmi</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>maalis</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>huhti</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>touko</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>kesä</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>heinä</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>elo</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>syys</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>loka</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>marras</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>joulu</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox on pian tulossa iOS:lle! <a href="{url}">Rekisteröidy lukeaksesi lisää</a>.
+
+
+;Congrats. You’re up to date!
+Onneksi olkoon, olet ajan tasalla!
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+;Format
+Formaatti
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;Text
+Teksti
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;HTML
+HTML
+
+
+# This is the error message displayed if you provide an invalid email address in a form
+;Whoops! Be sure to enter a valid email address.
+Hupsista! Tarkista, että kirjoitit sähköpostiosoitteesi oikein.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+Minulle käy, että Mozilla käsittelee tietojani <a href="%s">tietosuojakäytännössä</a> kuvatulla tavalla.
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Hae Firefox-uutiset
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+KIRJOITA SÄHKÖPOSTIOSOITTEESI TÄHÄN
+
+
+# Subscription Button
+;Sign me up
+Tilaa
+
+
+;Select country
+Valitse maa
+
+
+;Available Languages
+Valitse kieli
+
+
+;We will only send you Mozilla-related information.
+Lähetämme vain Mozillaan liittyviä tietoja.
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Kiitos! Ole hyvä ja tarkista saapuneet viestisi vahvistaaksesi tilauksesi.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Sinulle lähetetään viesti osoitteesta mozilla@e.mozilla.org tilauksen vahvistamista varten. Jos et näe sitä, tarkista roskapostisuodattimesi. Sinun täytyy vahvistaa tilauksesi saadaksesi uutiskirjeemme.
+
+
+;Read all about it in our <span>newsletter</span>
+Lue kaikki tästä aiheesta <span>uutiskirjeestämme</span>
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Tilaa kuukausittaiset päivitykset, niin saat viimeisimmät Mozilla-uutiset, mukaanlukien viimeisimmät vinkit siitä, miten saat Firefox-selaimestasi eniten irti. Se on hyvä tapa saada Mozillaa koskevaa tietoa.
+
+

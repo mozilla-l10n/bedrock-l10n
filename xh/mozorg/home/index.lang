@@ -1,0 +1,297 @@
+## active ##
+## fx10_independent ##
+## gear_store ##
+## NOTE: demo server at https://www-dev.allizom.org/
+
+
+# Used as page title in HTML meta tag
+;We’re building a better Internet
+Sakha i-Intanethi engcono
+
+
+# Used as page description in HTML meta tag
+;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
+Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
+
+
+;Home of the Mozilla Project
+IKhaya leProjekthi yeMozilla
+
+
+;Read more
+Funda okuninzi
+
+
+;Community
+Abahlali
+
+
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
+;Continue to mozilla.org
+Nkqubela phambili uye kwi-mozzila.org
+
+
+;Discover <br>what drives our mission
+Fumana <br>into eqhuba umsebenzi wethu
+
+
+;See the principles <br>that guide everything <br>we do.
+Bona umthetho-siseko <br>ekhokhela yonke into <br>esiyenzayo.
+
+
+;Read the <br>Mozilla Manifesto
+Funda <br>iManifesto ye-Mozilla
+
+
+;Mozilla Developer Network
+INethiweki yokuPhuhlisa iMozilla
+
+
+;10 years of documenting your Web.
+10 years of documenting your Web.
+
+
+;Celebrate with us
+Celebrate with us
+
+
+# Do no translate "Firefox Friends" (https://friends.mozilla.org)
+;Introducing <br>Firefox Friends
+Introducing <br>Firefox Friends
+
+
+;Join. Share. <br>Get rewarded.
+Join. Share. <br>Get rewarded.
+
+
+;Join Firefox Friends
+Join Firefox Friends
+
+
+# Small tile. Link points to https://advocacy.mozilla.org
+;Learn about Mozilla Advocacy
+Learn about Mozilla Advocacy
+
+
+;Understand your privacy online
+Qonda ubucala bakho kwi-intanethi
+
+
+;Download Firefox
+Khuphela iFirefox
+
+
+;Introducing<br> the new Webmaker
+Introducing<br> the new Webmaker
+
+
+;Discover, create and share original content with the free Webmaker app.
+Discover, create and share original content with the free Webmaker app.
+
+
+;Learn more
+Funda okungakumbi
+
+
+# This string is used on the little blue tile, see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach<br> the Web
+Teach<br> the Web
+
+
+;Make the Web you want
+Make the Web you want
+
+
+;Build a Web page or app in minutes<br> — no coding required.
+Build a Web page or app in minutes<br> — no coding required.
+
+
+;Become a Webmaker
+Yiba ngumenzi weWebhu
+
+
+# This string is used as title on the big pink tile for locales that have not translated the new version above (Make the Web you want), see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach the Web
+Fundisa iwebhu
+
+
+;Let’s build a Web that’s open <br>and made by everyone.
+Masokhe iWebhu evulekileyo <br>kwaye yenziwa ngumntu wonke.
+
+
+;Build an app <br>in seconds
+Yakha i-app <br>ngemizuzwana
+
+
+;Volunteer <br>with Mozilla
+Volontiya <br>no Mozilla
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Try Firefox Developer Edition
+Try Firefox Developer Edition
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Introducing Firefox Developer Edition
+Ukwazisa Uhlelo loMphuhlisi we-FireFox
+
+
+;The only browser made only for developers.
+Ibhrawuza kuphela eyenzelwe abaphuhlisi.
+
+
+;Get Firefox Developer Edition
+Fumana Uhlelo loPhuhliso lwe-FireFox
+
+
+;Try the best Firefox yet
+Linga eyona ingcono iFirefox
+
+
+;Made with a mission to put you first.
+Yenziwe ngenjongo yokubeka wena phambili.
+
+
+;Learn more about Firefox
+Funda okungakumbi ngeFirefox
+
+
+;Put your Firefox on your Android
+Beka i-FireFox kwi-Android yakho
+
+
+;The features <br>you love. <br>The privacy <br>you trust.
+IiFitsha <br>ozithandayo. <br>Ubucala <br>uyithembileyo wena.
+
+
+;Learn about <br>Firefox for Android
+Funa malunga <br>i-Firefox ye-Android
+
+
+# Used in a small tile
+;Official Mozilla gear is here
+Igiya ye-Mozilla esemthethweni ilapha
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
+I-Merch enomsebenzi. <br>Iimveliso ezinenjongo. <br>Iimpahla ezenza okulungileyo.
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Get your Mozilla gear
+Fumana igiye yakho yeMozilla
+
+
+;Help Mozilla users
+Nceda abaseebenzi be-Mozilla
+
+
+;Help millions <br>get the most from their <br>favorite browser.
+Nceda izigidi <br>bafumane okungakumbi kusukela kwi <br>bhrawuza ethandawyo.
+
+
+;Join our support team
+Ngenela iqela lethu lenkxaso
+
+
+# Used in Twitter feed
+;Reply
+Phendula
+
+
+# Used in Twitter feed
+;Retweet
+Twitha ngokutsha
+
+
+# <strong> tags below are for visual formatting only.
+;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
+Sizinikele <strong>kuwe, kwimfihlelo yakho</strong> futhi nakwi<strong>Webhu yoluntu</strong>
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;active Mozillians <br>worldwide
+abantu abasebenzisa<br>uMozilla kwihlabathi lonke
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;upcoming events <br>around the globe
+imicimbi ezayo<br>kwihlabathi lonke
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;languages and counting, <br>on every continent
+ulwimi nokubala, <br>kwilizwekazi ngalinye
+
+
+;Get Involved with Mozilla today
+Sebenzisana no Mozilla namhlanje
+
+
+;Upcoming events
+Imicimbi ezayo
+
+
+;Next event
+Umcimbi olandelayo
+
+
+;See all events
+Bona yonke imicimbi
+
+
+;Compare prices, check the weather, listen to music, send a tweet and more right from Firefox.
+Thelekisa amaxabiso, khangela imozulu, mamela umculo, thumela itwithi okuninzi kusukela kwi-FireFox.
+
+
+;Careers
+Imisebenzi
+
+
+;Learn about the benefits of working at Mozilla and view open positions around the world.
+Funda ngamancedo okusebenza kwi-Mozilla kwaye uze uhlele iindawo ezivulekile kwilizwe lonke.
+
+
+;Get answers to your questions about Firefox and all Mozilla products from our support team.
+Fumana iimpendulo zakho malunga i-FireFox futhi nazo zonke iimveliso zika-Mozilla kusukela kwiqhela elixasayo.
+
+
+;Discover more
+Fumana okuninzi
+
+
+;Help us celebrate 10 years of Firefox.
+Sincedise okubhiyozela iminyaka emi-10 yeka-FireFox.
+
+
+# Old promo tiles
+;Donate to Mozilla
+Ukuliza i-Mozilla
+
+
+;Your gift helps us build the Internet the world needs.
+Izipho zakho izasinceda ukwakha i-Intanethi ilizwe lidingayo.
+
+
+;Donate today
+Nika namhlanje
+
+
+;Meet<br> Firefox Hello
+Meet<br> Firefox Hello
+
+
+;The easiest way to connect for free over video.
+The easiest way to connect for free over video.
+
+
+;Try Firefox Hello
+Try Firefox Hello
+
+
+;Try the Thimble code editor
+Try the Thimble code editor
+
+

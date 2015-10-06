@@ -1,0 +1,401 @@
+## NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
+
+
+;Your email address:
+Tia adressa dad e-mail:
+
+
+;Available Languages
+Linguas disponiblas
+
+
+;Language:
+Lingua:
+
+
+;Select country
+Tscherna in pajais
+
+
+;Country:
+Pajais:
+
+
+# Form submit button on the Student Ambassador newsletter subscription form
+;Sign me up!
+Abunar!
+
+
+;We will only send you Mozilla-related information.
+Nus tramettain be infurmaziuns en connex cun Mozilla.
+
+
+;Thanks for Subscribing!
+Grazia che ti has abunà il newsletter!
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Abunescha il newsletter mensil per t'infurmar davart las novitads da Mozilla cun tips e trics per l'utilisaziun da Firefox. Quai è la via perfetga per restar al current!
+
+
+;Read all about it in our <span>newsletter</span>
+Legia tut davart noss <span>newsletter</span>
+
+
+;Your newsletter subscription has been confirmed.
+Tes abunament dal newsletter è vegnì confermà.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox & You
+Firefox & ti
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox & You)
+;A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
+A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox OS News
+Novas da Firefox OS
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox OS News)
+;A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
+A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Mozilla Communities
+Communitads da Mozilla
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla Communities)
+;Bringing you the best new opportunities to help support the open Web.
+Bringing you the best new opportunities to help support the open Web.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox Student Ambassadors
+Firefox Student Ambassadors
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+;A monthly newsletter on how to get involved with Mozilla on your campus.
+In newsletter mensil davart vias per ta participar tar Mozilla sin tes campus.
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+;A monthly newsletter to keep you up to date with the Firefox Affiliates program.
+In newsletter mensil per t'infurmar davart novitads dal program Firefox Affiliates.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox Apps & Hacks
+Firefox Apps & Hacks
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
+;News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
+Novitads per svulupaders davart Firefox OS, Firefox Marketplace ed l'ecosistem dad Open Web apps.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Mozillians
+Mozillians {ok}
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox for desktop
+Firefox per desktops
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+;Don’t miss the latest announcements about our desktop browser.
+Don’t miss the latest announcements about our desktop browser.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox for Android
+Firefox per Android
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox for Android)
+;Keep up with releases and news about Firefox for Android.
+Keep up with releases and news about Firefox for Android.
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+;Special announcements and messages from the team dedicated to keeping the Web free and open.
+Special announcements and messages from the team dedicated to keeping the Web free and open.
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Marketplace)
+;Know when the coolest apps hit the Marketplace for your platform:
+Know when the coolest apps hit the Marketplace for your platform:
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox OS smartphone owner?
+Firefox OS smartphone owner?
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+;Don’t miss important news and updates about your Firefox OS device.
+Don’t miss important news and updates about your Firefox OS device.
+
+
+;Beta News
+Novitads da beta
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+Administrar tes <span>abunaments da newsletters</span>
+
+
+;Manage your Email Preferences
+Manage your Email Preferences
+
+
+;We love sharing updates about all the awesome things happening at Mozilla.
+We love sharing updates about all the awesome things happening at Mozilla.
+
+
+;Set your preferences below to make sure you always receive the news you want.
+Set your preferences below to make sure you always receive the news you want.
+
+
+;Newsletters
+Newsletters
+
+
+;Getting too much email from us?
+Getting too much email from us?
+
+
+;Not interested in our newsletters, but like those special announcements? No problem.
+Not interested in our newsletters, but like those special announcements? No problem.
+
+
+;We can keep in touch with occasional messages that matter most to you.
+We can keep in touch with occasional messages that matter most to you.
+
+
+;Check all categories that apply to you, and we promise to keep the mail to a minimum.
+Check all categories that apply to you, and we promise to keep the mail to a minimum.
+
+
+;I’m interested in:
+I’m interested in:
+
+
+;Subscribe
+Abunar
+
+
+;Unsubscribe
+Annullar l'abunament
+
+
+;Remove me from all Mozilla emails
+M'allontanar da tut ils newsletters da Mozilla
+
+
+;Save Preferences
+Memorisar las preferenzas
+
+
+;Thanks for updating your email preferences.
+Grazia per actualisar tias preferenzas dad e-mail.
+
+
+;You send too many emails.
+Vus tramettais memia blers e-mails.
+
+
+;Your content wasn't relevant to me.
+Voss cuntegn n'è betg stà relevent per mai.
+
+
+;Your email design was too hard to read.
+Vos design dals e-mails era memia cumplitgà per leger.
+
+
+;I didn't sign up for this.
+Jau n'hai mai abunà questas infurmaziuns.
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+Jau sun empè en contact cun Mozilla sin Twitter u Facebook.
+
+
+;Submit
+Trametter
+
+
+;Thanks for telling us why you’re leaving.
+Grazia che ti ans has raquintà pertge che ti es partì.
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Grazia! Dà in tgit en la posta entrada per confermar tes abunament.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Ti retschaivas in e-mail da mozilla@e.mozilla.org per confermar tes abunament. Sche ti n'al retschaivas betg, dà in sguard en l'ordinatur dad e-mails nungiavischads. Ti stos confermar che ti hajas abunà noss newsletter.
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Cun agiuntar l'adressa mozilla@e.mozilla.org a tes cudeschet d'adressas garanteschas ti che l'e-mail arriva era propi tar tai.
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Retschaiver novitads da Firefox
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+ENDATAR TIA ADRESSA D'E-MAIL
+
+
+# Button
+;Sign me up
+Abunar
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+Jau sun d'accord che Mozilla tracta mias infurmaziuns sco explitgà en <a href="%s">questas directivas davart la protecziun da datas</a>
+
+
+;The supplied link has expired. You will receive a new one in the next newsletter.
+Questa colliaziun è scrudada. Ti retschaivas ina nova en il proxim newsletter.
+
+
+;Something is amiss with our system, sorry! Please try again later.
+Insatge na constat betg en noss sistem, perstgisa! Emprova anc ina giada pli tard.
+
+
+;English&nbsp;only
+Be&nbsp;Englais
+
+
+;Newsletter Subscriptions
+Abunaments da newsletters
+
+
+;Newsletter confirm
+Confermar il newsletter
+
+
+;Format:
+Format: {ok}
+
+
+;You’ve been unsubscribed.
+Ti has annullà l'abunament.
+
+
+;We’re sorry to see you go.
+Donn che ti na vuls betg pli retschaiver infurmaziuns.
+
+
+;Would you mind telling us why you’re leaving?
+Ans vuls ti dir pertge che ti annulleschas l'abunement?
+
+
+;Other…
+Auter…
+
+
+;While here, why not check out some more Firefox awesomeness.
+Sche ti es gia qua, pos ti era gist contemplar la genialitad da Firefox.
+
+
+;Get up and go
+Sin via
+
+
+;It’s your Web anywhere you go.
+Igl è tes web, dapertut nua che ti vas.
+
+
+;Get Firefox for mobile!
+Telechargia ussa Firefox per apparats mobils!
+
+
+;Added extras
+Dapli extras
+
+
+;Make Firefox do more with add-ons.
+Firefox po far anc bler dapli cun supplements.
+
+
+;Find out how!
+Legia co!
+
+
+;About us
+Davart nus
+
+
+;What’s Mozilla all about?
+Tge fa Mozilla?
+
+
+;We’re glad you asked!
+Grazia che ti has dumandà!
+
+
+# Description for the newsletter in Newsletter subscription page
+;A monthly newsletter packed with tips to improve your Firefox experience.
+In newsletter mensil cun tips per meglierar tia lavur cun Firefox.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Firefox OS news, tips, launch information and where to buy.
+Novitads da Firefox OS, tips, infurmaziun davart publicaziuns e nua che ti pos cumprar apparats.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Be the first to know when Firefox is available for iOS devices.
+Sajas l'emprim che sa cura che Firefox stat a disposiziun per apparats iOS.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Discover the latest, coolest HTML5 apps on Firefox OS.
+Scuvrir las pli novas e pli coolas apps da HTML5 sin Firefox OS.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Get a weekly tip on how to super-charge your Firefox experience.
+Retschaiver mintga emna novitads per far anc meglier tia experientscha cun Firefox.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Legia tut davart las novas funcziuns per Firefox desktop e Firefox mobil avant che las versiuns finalas vegnan publitgadas.
+
+
+# Description for the newsletter in Newsletter subscription page
+;News from the Mozilla Project.
+Novitads dal project Mozilla.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Periodic email updates about our annual international film competition.
+Novitads periodicas davart nossa concurrenza internaziunala da film annuala.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Email updates for vouched Mozillians on mozillians.org.
+Novitads per e-mail per Mozillians autorisads sin mozillians.org.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
+L'anteriur program d'universitads dal 2008-2011, ussa revocà e remplazzà entras il program Firefox Ambassadors.
+
+

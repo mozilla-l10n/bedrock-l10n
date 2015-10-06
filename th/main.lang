@@ -1,0 +1,818 @@
+;Navigation
+การนำทาง
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+<span>for</span> Desktop
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+<span>for</span> Android
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+<span>for</span> iOS
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+OS
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+For desktops &amp; laptops
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+For phones &amp; tablets
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+ภาพรวม
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+Trusted
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+Flexible
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+Fast
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+เกี่ยวกับ
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+Devices
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+For partners
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+Apps
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+Do Not Track
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Tiles
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Interest Dashboard
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Developer Edition
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+Private Browsing
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+ต้องการความช่วยเหลือ?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+News
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+For developers
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Find My Device
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+Developers
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+Choose the independent browser
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+
+
+;Donate
+บริจาค
+
+
+;Support
+สนับสนุน
+
+
+;Products
+ผลิตภัณฑ์
+
+
+;Add-ons
+ส่วนเสริม
+
+
+;About Us
+เกี่ยวกับเรา
+
+
+;Labs
+ห้องทดลอง
+
+
+;skip to Navigation
+ข้ามไปยังการนำทาง
+
+
+;switch language
+เปลี่ยนภาษา
+
+
+;Back to home page
+กลับไปยังหน้าหลัก
+
+
+;About Mozilla
+เกี่ยวกับ Mozilla
+
+
+;Get Involved
+มีส่วนร่วม
+
+
+;Careers
+ตำแหน่งงาน
+
+
+;Press Center
+ศูนย์ข่าว
+
+
+;Contact Us
+ติดต่อเรา
+
+
+;Other languages:
+ภาษาอื่น ๆ :
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+%d-%m-%Y
+
+
+;Legal
+ข้อกฎหมาย
+
+
+# Used as link in the footer
+;Cookies
+คุกกี้
+
+
+# Used as link in the footer
+;Firefox Affiliates
+Firefox Affiliates
+
+
+;Legal Notices
+ข้อกฎหมาย
+
+
+;Privacy Policy
+นโยบายความเป็นส่วนตัว
+
+
+;Release Notes
+บันทึกประจำรุ่น
+
+
+;Other Systems and Languages
+ระบบและภาษาอื่น ๆ
+
+
+;Close
+ปิด
+
+
+;(in English)
+(in English) {ok}
+
+
+;Return to top
+ย้อนกลับข้างบน
+
+
+;Features
+ความสามารถ
+
+
+;Customize
+การปรับแต่ง
+
+
+;Download
+ดาวน์โหลดDownload
+
+
+;Previous
+Previous
+
+
+;Next
+ถัดไป
+
+
+# MegaBytes abbreviation
+;MB
+MB {ok}
+
+
+;MegaBytes
+เมกกะไบต์
+
+
+;FAQ
+คำถามที่พบบ่อย
+
+
+;Videos
+วิดีโอ
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+ยกเว้นจะ<a href="%s">ถูกระบุ</a>เป็นอย่างอื่น เนื้อหาในเว็บนี้อยู่ภายใต้ <br /><a href="%s">สัญญาอนุญาตครีเอทีฟคอมมอนส์ แสดงที่มา อนุญาตแบบเดียวกัน 3.0</a> หรือรุ่นใหม่กว่า
+
+
+;Report Trademark Abuse
+รายการการใช้เครื่องหมายการค้าที่ผิดวัตถุประสงค์
+
+
+;Free Upgrade
+ปรับรุ่นฟรี
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+ติดตามเราที่:
+
+
+;Customize with Add-ons
+ปรับแต่งด้วยส่วนขยาย
+
+
+;Learn More
+เรียนรู้เพิ่ม
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+เรียนรู้เพิ่ม
+
+
+# Link used to play again an animation or a video
+;Replay
+Replay
+
+
+;Watch the video
+ดูวิดีโอ
+
+
+;Replay the video
+Replay the video
+
+
+;Share the video
+Share the video
+
+
+;WebM format
+รูปแบบ WebM
+
+
+;Ogg Theora format
+รูปแบบ Ogg Theora
+
+
+;MPEG-4 format
+รูปแปบบ MPEG-4
+
+
+;Mobile
+อุปกรณ์พกพา
+
+
+;Check out the new look and feel of Firefox.
+ลอง Firefox โฉมใหม่
+
+
+;View Full Site
+ดูเต็มรูปแบบ
+
+
+;Download for <span>Android</span>
+ดาวน์โหลดสำหรับ <span>Android</span>
+
+
+;Desktop
+คอมพิวเตอร์ตั้งโต๊ะ
+
+
+;Firefox Beta for mobile
+Firefox Beta สำหรับอุปกรณ์เคลื่อนที่
+
+
+;Firefox for mobile
+Firefox สำหรับอุปกรณ์เคลื่อนที่
+
+
+;Email
+อีเมล
+
+
+;Super speed
+เร็วสุดยอด
+
+
+;Stunning graphics
+กราฟฟิคสุดประทับใจ
+
+
+;The latest technologies
+เทคโนโลยีล่าสุด
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+คุณต้องปรับรุ่น! คงความปลอดภัยไว้ด้วยเวลาไม่กี่นาที <br/> เริ่มใช้ Firefox รุ่นใหม่เพื่อการท่องและปรับแต่งเว็บที่ดีที่สุด <br/>   เร็วและฟรี!
+
+
+;Upgrade now
+ปรับรุ่นทันที
+
+
+;Update now
+ปรับรุ่นทันที
+
+
+;Supported Devices
+อุปกรณ์ที่รองรับ
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+มีอะไรใหม่
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+ความเป็นส่วนตัว
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+ส่วนหนึ่งของเนื้อหานี้นั้นสงวนลิขสิทธิ์ 1998–%(current_year)s โดยผู้มีส่วมร่วมของ mozilla.org แต่ละคน เนื้อหาอยู่ภายใต้ <a href="%(url)s">สัญญาอนุญาตครีเอทีฟคอมมอนส์</a>
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+Contribute to this site
+
+
+# Footer string
+;Contribute to this page
+มีส่วนร่วมกับหน้านี้
+
+
+# Top menu item
+;Mission
+เป้าหมาย
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+ท่องดู
+
+
+# Footer item
+;Partner with Us
+เป็นพันธมิตรกับเรา
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+Sync
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+ส่วนเสริมสำหรับเดสก์ท็อป
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+Android Add-ons
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+ชุดตกแต่ง
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+การสนับสนุนเดสก์ท็อป
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+Android Support
+
+
+# Top menu item on firefox/update page
+;Performance
+ประสิทธิภาพ
+
+
+# Top menu item on firefox/update page
+;Technology
+เทคโนโลยี
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+ความเป็นส่วนตัวและความปลอดภัย
+
+
+# Top menu item on firefox/update page
+;Releases
+รุ่นที่ออก
+
+
+# Top menu item on firefox/update page
+;Firefox
+Firefox {ok}
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+Firefox สำหรับองค์กร
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+ส่วนเสริมสำหรับอุปกรณ์พกพา
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+การสนับสนุนอุปกรณ์พกพา
+
+
+# Top menu item on firefox/update page
+;Blog
+บล็อก
+
+
+# Top menu item on firefox/update page
+;About Firefox
+เกี่ยวกับ Firefox
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+เข้าร่วม Mozilla
+
+
+# Top menu item on firefox/update page
+;Participate
+มีส่วนร่วม
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
+;Volunteer
+Volunteer
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+เครื่องมือสำหรับแบรนด์
+
+
+# Top menu item on firefox/update page
+;Partnerships
+พันธมิตร
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+ตามข้อมูลใหม่ของ Mozilla
+
+
+# share button for social networks
+;Share
+แบ่งปัน
+
+
+# footer link
+;Mozilla on Twitter
+Mozilla on Twitter
+
+
+# footer link
+;Firefox on Twitter
+Firefox on Twitter
+
+
+# footer link
+;Mozilla on Facebook
+Mozilla on Facebook
+
+
+# footer link
+;Firefox on Facebook
+Firefox on Facebook
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+Forums
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Leadership
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+Governance
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+History
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+Our Products
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+Software and other innovations designed to advance our mission.
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+Become a volunteer contributor in a number of different areas.
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+Menu
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+Committed to you, your privacy and an open Web
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+Choose Independent
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+Please turn on JavaScript to display this page correctly.
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+ความสามารถของ Firefox
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+การให้ความช่วยเหลือของ Firefox
+
+
+;January
+มกราคม
+
+
+;February
+กุมภาพันธ์
+
+
+;March
+มีนาคม
+
+
+;April
+เมษายน
+
+
+;May
+พฤษภาคม
+
+
+;June
+มิถุนายน
+
+
+;July
+กรกฎาคม
+
+
+;August
+สิงหาคม
+
+
+;September
+กันยายน
+
+
+;October
+ตุลาคม
+
+
+;November
+พฤศจิกายน
+
+
+;December
+ธันวาคม
+
+
+;<abbr>Jan</abbr>
+<abbr>ม.ค.</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>ก.พ.</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>มี.ค.</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>เม.ย.</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>พ.ค.</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>มิ.ย.</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>ก.ค.</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>ส.ค.</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>ก.ย.</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>ต.ค.</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>พ.ย.</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>ธ.ค.</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+
+
+;Congrats. You’re up to date!
+Congrats. You’re up to date!
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+;Format
+รูปแบบ
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;Text
+ข้อความ
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;HTML
+HTML
+
+
+# This is the error message displayed if you provide an invalid email address in a form
+;Whoops! Be sure to enter a valid email address.
+โอ๊ะ! ตรวจสอบให้แน่ใจว่าคุณกรอกอีเมลถูกต้อง
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+รับข่าว Firefox
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+กรอกอีเมลของคุณที่นี่
+
+
+# Subscription Button
+;Sign me up
+บอกรับข่าว
+
+
+;Select country
+เลือกประเทศ
+
+
+;Available Languages
+ภาษาที่มี
+
+
+;We will only send you Mozilla-related information.
+เราจะส่งเฉพาะข้อมูลที่เกี่ยวข้องกับ Mozilla เท่านั้น
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+ขอบคุณ! โปรดตรวจสอบกล่องจดหมายของคุณเพื่อยืนยันการบอกรับจดหมายข่าว
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+คุณจะได้รับอีเมลจาก mozilla@e.mozilla.org เพื่อยืนยันการบอกรับจดหมายข่าว ถ้าคุณไม่พบจดหมายฉบับนั้นลองตรวจสอบกล่องจดหมายขยะดู คุณจะต้องยืนยันการบอกรับจดหมายข่าวเพื่อให้การบอกรับจดหมายข่าวนั้นสมบูรณ์
+
+
+;Read all about it in our <span>newsletter</span>
+อ่านต่อใน <span>จดหมายข่าว</span> ของเรา
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+บอกรับข่าวรายเดือนเพื่อเกาะติดข่าวที่เกี่ยวข้องกับ Mozilla เช่น กลเม็ดเคล็ดลับล่าสุดในการใช้งาน Firefox ให้มีประสิทธิภาพสูงสุด นี่เป็นหนทางที่ดีที่เราจะใกล้ชิดกัน!
+
+

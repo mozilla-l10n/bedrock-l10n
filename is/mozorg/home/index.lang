@@ -1,0 +1,304 @@
+## active ##
+## firefox_friends ##
+## fx10_independent ##
+## gear_store ##
+## mdn_10_years ##
+## meta_update_201503 ##
+## privacy_day ##
+## webmaker_promo_introducing ##
+## webmaker_promo_make ##
+## webmaker_promo_thimble ##
+## NOTE: demo server at https://www-dev.allizom.org/
+
+
+# Used as page title in HTML meta tag
+;We’re building a better Internet
+Við erum að byggja betra Internet
+
+
+# Used as page description in HTML meta tag
+;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
+Vissirðu þetta? Mozilla — sá sem býr til Firefox — berst fyrir því að viðhalda Internetinu sem opnu neti og aðgengilegt fyrir alla.
+
+
+;Home of the Mozilla Project
+Heimasvæði Mozilla
+
+
+;Read more
+Lesa meira
+
+
+;Community
+Samfélag
+
+
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
+;Continue to mozilla.org
+Halda áfram til mozilla.org
+
+
+;Discover <br>what drives our mission
+Sjáðu <br>hvað drífur okkur áfram
+
+
+;See the principles <br>that guide everything <br>we do.
+Sjáðu hvaða grunnreglur <br>fylgja okkur í öllu sem <br>við gerum.
+
+
+;Read the <br>Mozilla Manifesto
+Lesa <br>Mozilla Manifesto
+
+
+;Mozilla Developer Network
+Mozilla Developer Network {ok}
+
+
+;10 years of documenting your Web.
+10 ár af skjölun fyrir vefinn.
+
+
+;Celebrate with us
+Fagnaðu með okkur
+
+
+# Do no translate "Firefox Friends" (https://friends.mozilla.org)
+;Introducing <br>Firefox Friends
+Við kynnum <br>Firefox Friends
+
+
+;Join. Share. <br>Get rewarded.
+Taktu þátt. Deildu. <br>Fáðu ávinning.
+
+
+;Join Firefox Friends
+Taktu þátt í Firefox Friends
+
+
+# Small tile. Link points to https://advocacy.mozilla.org
+;Learn about Mozilla Advocacy
+Fræðast um Mozilla Advocacy
+
+
+;Understand your privacy online
+Lesa um meðhöndlun persónu&shy;upplýsinga
+
+
+;Download Firefox
+Hala niður Firefox
+
+
+;Introducing<br> the new Webmaker
+Við kynnum<br> nýjasta Webmaker
+
+
+;Discover, create and share original content with the free Webmaker app.
+Uppgötvaðu, búðu til og deildu frumsömdu efni frá þér með ókeypis Webmaker forriti.
+
+
+;Learn more
+Fræðast meira
+
+
+# This string is used on the little blue tile, see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach<br> the Web
+Kenna<br> á vefinn
+
+
+;Make the Web you want
+Búðu til vefinn eins og þú vilt hafa hann
+
+
+;Build a Web page or app in minutes<br> — no coding required.
+Búðu til vefsíðu á nokkrum mínútum<br> — Engrar forritunar krafist.
+
+
+;Become a Webmaker
+Gerast Webmaker
+
+
+# This string is used as title on the big pink tile for locales that have not translated the new version above (Make the Web you want), see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach the Web
+Kenna á vefinn
+
+
+;Let’s build a Web that’s open <br>and made by everyone.
+Byggjum saman vef sem er frjáls <br>og fyrir alla.
+
+
+;Build an app <br>in seconds
+Búa til forrit <br>á nokkrum sekúndum
+
+
+;Volunteer <br>with Mozilla
+Gerast sjálfboðaliði <br>hjá Mozilla
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Try Firefox Developer Edition
+Prófaðu Firefox Developer Edition
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Introducing Firefox Developer Edition
+Við kynnum Firefox Developer Edition
+
+
+;The only browser made only for developers.
+Eini vafrinn sem er sérstaklega hannaður fyrir forritara.
+
+
+;Get Firefox Developer Edition
+Ná í Firefox Developer Edition
+
+
+;Try the best Firefox yet
+Prófaðu besta Firefox í heimi
+
+
+;Made with a mission to put you first.
+Búinn til með þig í huga.
+
+
+;Learn more about Firefox
+Fræðast meira um Firefox
+
+
+;Put your Firefox on your Android
+Setja Firefox á þinn Android
+
+
+;The features <br>you love. <br>The privacy <br>you trust.
+Eiginleikarnir <br>sem þú dýrkar. <br>Friðhelgi <br>sem þú getur treyst.
+
+
+;Learn about <br>Firefox for Android
+Fræðast um <br>Firefox fyrir Android
+
+
+# Used in a small tile
+;Official Mozilla gear is here
+Alvöru Mozilla dótið er hér
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
+Vörur með takmark. <br>Vörur með tilgang. <br>Vörur sem gera góða hluti.
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Get your Mozilla gear
+Nálgast Mozilla dót
+
+
+;Help Mozilla users
+Hjálpa Mozilla notendum
+
+
+;Help millions <br>get the most from their <br>favorite browser.
+Hjálpaðu milljón manns <br>að nota <br>uppáhalds vafrann.
+
+
+;Join our support team
+Vertu þátttakandi í hjálparteyminu
+
+
+# Used in Twitter feed
+;Reply
+Svara
+
+
+# Used in Twitter feed
+;Retweet
+Endursenda
+
+
+# <strong> tags below are for visual formatting only.
+;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
+Fyrir <strong>þig, þína friðhelgi</strong> og <strong>frjálsan vef</strong>
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;active Mozillians <br>worldwide
+virkir Mozilla meðlimir <br>í öllum heiminum
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;upcoming events <br>around the globe
+atburðir á næstunni <br>út um allan heim
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;languages and counting, <br>on every continent
+tungumál og meira til, <br>í hverri einustu heimsálfu
+
+
+;Get Involved with Mozilla today
+Taktu þátt með Mozilla í dag
+
+
+;Upcoming events
+Atburðir á næstunni
+
+
+;Next event
+Næsti atburður
+
+
+;See all events
+Skoða alla atburði
+
+
+;Compare prices, check the weather, listen to music, send a tweet and more right from Firefox.
+Bera saman verð, athuga veðrið, hlusta á tónlist, senda tíst og meira beint frá Firefox.
+
+
+;Careers
+Starfsframi
+
+
+;Learn about the benefits of working at Mozilla and view open positions around the world.
+Fræðast um ávinning þess að vinna hjá Mozilla og skoða hvaða störf eru laus um allan heim.
+
+
+;Get answers to your questions about Firefox and all Mozilla products from our support team.
+Fáðu svör við öllum þínum spurningum um Firefox og önnur Mozilla forrit frá hjálparteyminu okkar.
+
+
+;Discover more
+Fræðast meira
+
+
+;Help us celebrate 10 years of Firefox.
+Hjálpaðu okkur að fagna 10 ára afmæli Firefox.
+
+
+# Old promo tiles
+;Donate to Mozilla
+Gefa peninga til Mozilla
+
+
+;Your gift helps us build the Internet the world needs.
+Gjöfin þín hjálpar okkur að byggja það Internet sem heimurinn þar.
+
+
+;Donate today
+Gefa peninga í dag
+
+
+;Meet<br> Firefox Hello
+Kíktu á<br> Firefox Hello
+
+
+;The easiest way to connect for free over video.
+Auðveldasta leiðin til að nota myndsímtal.
+
+
+;Try Firefox Hello
+Prófaðu Firefox Hello
+
+
+;Try the Thimble code editor
+Prófaðu Thimble code editor
+
+

@@ -1,0 +1,401 @@
+## NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
+
+
+;Your email address:
+మీ ఈమెయిలు చిరునామా:
+
+
+;Available Languages
+అందుబాటులో ఉన్న భాషలు
+
+
+;Language:
+భాష:
+
+
+;Select country
+దేశాన్ని ఎంచుకోండి
+
+
+;Country:
+దేశం:
+
+
+# Form submit button on the Student Ambassador newsletter subscription form
+;Sign me up!
+నన్ను చేర్చుకోండి!
+
+
+;We will only send you Mozilla-related information.
+మేము మీకు మొజిల్లా-సంబంధిత సమాచారాన్ని మాత్రమే పంపిస్తాము.
+
+
+;Thanks for Subscribing!
+చందాచేరినందుకు కృతజ్ఞతలు!
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+నెలవారీ నవీకరణలకు సబ్‌స్క్రైబై తాజా మొజిల్లా వార్తలు పొందండి, సరికొత్త చిట్కాలు మరియు మెళుకువల గురించి తెలుసుకొనుట ద్వారా మీ ఫైర్‌ఫాక్స్ విహారిణి గురించి మరింత తెలుసుకొనండి. మాకు చేరువలో వుండుటకు యిది మంచి మార్గం!
+
+
+;Read all about it in our <span>newsletter</span>
+దీని గురించి అంతా మా <span>వార్తాలేఖ</span>లో చదవండి
+
+
+;Your newsletter subscription has been confirmed.
+మీ వార్తాలేఖ చందా నిర్ధారించబడింది.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox & You
+ఫైర్‌ఫాక్స్ & మీరు
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox & You)
+;A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
+A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox OS News
+Firefox OS News
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox OS News)
+;A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
+A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Mozilla Communities
+Mozilla Communities
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla Communities)
+;Bringing you the best new opportunities to help support the open Web.
+Bringing you the best new opportunities to help support the open Web.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox Student Ambassadors
+Firefox Student Ambassadors
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+;A monthly newsletter on how to get involved with Mozilla on your campus.
+A monthly newsletter on how to get involved with Mozilla on your campus.
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+;A monthly newsletter to keep you up to date with the Firefox Affiliates program.
+A monthly newsletter to keep you up to date with the Firefox Affiliates program.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox Apps & Hacks
+Firefox Apps & Hacks
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
+;News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
+News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Mozillians
+Mozillians
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox for desktop
+డెస్క్‌టాప్ ఫైర్‌ఫాక్స్
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+;Don’t miss the latest announcements about our desktop browser.
+Don’t miss the latest announcements about our desktop browser.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox for Android
+Firefox for Android
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox for Android)
+;Keep up with releases and news about Firefox for Android.
+Keep up with releases and news about Firefox for Android.
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+;Special announcements and messages from the team dedicated to keeping the Web free and open.
+Special announcements and messages from the team dedicated to keeping the Web free and open.
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Marketplace)
+;Know when the coolest apps hit the Marketplace for your platform:
+Know when the coolest apps hit the Marketplace for your platform:
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox OS smartphone owner?
+Firefox OS smartphone owner?
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+;Don’t miss important news and updates about your Firefox OS device.
+Don’t miss important news and updates about your Firefox OS device.
+
+
+;Beta News
+బీటా వార్తలు
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+మీ <span>వార్తాలేఖ చందాల</span> నిర్వహణ
+
+
+;Manage your Email Preferences
+Manage your Email Preferences
+
+
+;We love sharing updates about all the awesome things happening at Mozilla.
+We love sharing updates about all the awesome things happening at Mozilla.
+
+
+;Set your preferences below to make sure you always receive the news you want.
+Set your preferences below to make sure you always receive the news you want.
+
+
+;Newsletters
+Newsletters
+
+
+;Getting too much email from us?
+Getting too much email from us?
+
+
+;Not interested in our newsletters, but like those special announcements? No problem.
+Not interested in our newsletters, but like those special announcements? No problem.
+
+
+;We can keep in touch with occasional messages that matter most to you.
+We can keep in touch with occasional messages that matter most to you.
+
+
+;Check all categories that apply to you, and we promise to keep the mail to a minimum.
+Check all categories that apply to you, and we promise to keep the mail to a minimum.
+
+
+;I’m interested in:
+I’m interested in:
+
+
+;Subscribe
+చందాచేరు
+
+
+;Unsubscribe
+చందావిరమించు
+
+
+;Remove me from all Mozilla emails
+నన్ను అన్ని మొజిల్లా ఈమెయిళ్ళ నుండి తీసివేయి
+
+
+;Save Preferences
+అభీష్టాలను భద్రపరచు
+
+
+;Thanks for updating your email preferences.
+మీ ఈమెయిల్ అభీష్టాలను నవీకరించినందుకు ధన్యవాదములు.
+
+
+;You send too many emails.
+మీరు చాలా ఈమెయిల్స్ పంపారు.
+
+
+;Your content wasn't relevant to me.
+మీ విషయం(కాంటెంట్) నాకు సంబంధించినదిగా లేదు.
+
+
+;Your email design was too hard to read.
+మీ ఈమెయిల్ రూపు చదువుటకు చాలా కష్టంగా ఉంది.
+
+
+;I didn't sign up for this.
+దీని కొరకు నేను సైనప్ కాలేదు.
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+బదులుగా నేను ఫేస్‌బుక్ మరియు ట్విట్టర్ లలో మొజిల్లాతో చేరువలో ఉంటాను.
+
+
+;Submit
+దాఖలుచెయ్యి
+
+
+;Thanks for telling us why you’re leaving.
+మీరు ఎందుకు విడిచి వెళుతున్నారో మాకు చెప్పినందుకు కృతజ్ఞతలు.
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+కృతజ్ఞతలు! మీ చందాను నిర్ధారించడానికి మీ ఇన్‌బాక్స్‌లో మెయిలును చూడండి.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+మీ చందాను నిర్ధారించేందుకు మీకు mozilla@e.mozilla.org నుండి ఈమెయిలు వస్తుంది. అది కనబడకపోతే, మీ స్పాము వడపోతలను సరిచూసుకోండి. మా వార్తాలేఖను అందుకోవాలంటే మీరు తప్పనిసరిగా మీ చందాను నిర్ధారించాలి.
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+మా సందేశాలు ఎప్పుడూ మీ ఇన్‌బాక్స్‌కే చేరేలా మేం పంపే చిరునామా mozilla@e.mozilla.org ను మీ అడ్రస్ బుక్‌లో చేర్చుకోండి.
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+ఫైర్‌ఫాక్స్ వార్తలను పొందండి
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+ఇక్కడ మీ ఈమెయిలు
+
+
+# Button
+;Sign me up
+నన్ను చేర్చుకోండి
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+
+
+;The supplied link has expired. You will receive a new one in the next newsletter.
+The supplied link has expired. You will receive a new one in the next newsletter.
+
+
+;Something is amiss with our system, sorry! Please try again later.
+Something is amiss with our system, sorry! Please try again later.
+
+
+;English&nbsp;only
+ఆంగ్లం&nbsp;మాత్రమే
+
+
+;Newsletter Subscriptions
+వార్తాలేఖల చందాలు
+
+
+;Newsletter confirm
+వార్తాలేఖ నిర్ధారణ
+
+
+;Format:
+ఫార్మాటు:
+
+
+;You’ve been unsubscribed.
+మీరు చందా విరమించారు.
+
+
+;We’re sorry to see you go.
+మీరు వెళ్తున్నందుకు విచారిస్తున్నాం.
+
+
+;Would you mind telling us why you’re leaving?
+మీరు ఎందుకు వెళ్ళిపోతున్నారో మాతో చెప్పగలరా?
+
+
+;Other…
+ఇతర…
+
+
+;While here, why not check out some more Firefox awesomeness.
+While here, why not check out some more Firefox awesomeness.
+
+
+;Get up and go
+Get up and go
+
+
+;It’s your Web anywhere you go.
+It’s your Web anywhere you go.
+
+
+;Get Firefox for mobile!
+మొబైల్‌కి ఫైర్‌ఫాక్స్‌ని పొందండి!
+
+
+;Added extras
+Added extras
+
+
+;Make Firefox do more with add-ons.
+Make Firefox do more with add-ons.
+
+
+;Find out how!
+ఎలానో తెలుసుకోండి!
+
+
+;About us
+మా గురించి
+
+
+;What’s Mozilla all about?
+అసలు ఈ మొజిల్లా దేని గురించి?
+
+
+;We’re glad you asked!
+మీరు అడిగినందుకు సంతోషం!
+
+
+# Description for the newsletter in Newsletter subscription page
+;A monthly newsletter packed with tips to improve your Firefox experience.
+మీ ఫైర్‌ఫాక్స్ అనుభూతిని మెరుగుపరుచుకోడానికి చిట్కాలను రంగరించిన నెలవారీ వార్తాలేఖ.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Firefox OS news, tips, launch information and where to buy.
+Firefox OS news, tips, launch information and where to buy.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Be the first to know when Firefox is available for iOS devices.
+Be the first to know when Firefox is available for iOS devices.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Discover the latest, coolest HTML5 apps on Firefox OS.
+Discover the latest, coolest HTML5 apps on Firefox OS.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Get a weekly tip on how to super-charge your Firefox experience.
+Get a weekly tip on how to super-charge your Firefox experience.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Read about the latest features for Firefox desktop and mobile before the final release.
+అంతిమ విడుదలకు ముందుగా ఫైర్‌ఫాక్స్ డెస్కుటాప్ మరియు మొబైల్ గురించిన సరికొత్త విశేషాలను చదవండి.
+
+
+# Description for the newsletter in Newsletter subscription page
+;News from the Mozilla Project.
+మొజిల్లా ప్రాజెక్టు నుండి వార్తలు.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Periodic email updates about our annual international film competition.
+Periodic email updates about our annual international film competition.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Email updates for vouched Mozillians on mozillians.org.
+Email updates for vouched Mozillians on mozillians.org.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
+Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
+
+

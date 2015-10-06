@@ -1,0 +1,221 @@
+## active ##
+## firefox_sync_non_fx ##
+## fx38_sync_updates ##
+## ios_announce ##
+## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
+
+
+;Keep your Firefox in sync
+Sincronisescha tes Firefox
+
+
+;Ready, Set, Sync
+Attenziun, pront, Sync
+
+
+;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
+Ti es t'annunzià e pront dad acceder <em>tes</em> Firefox dapertut ed adina.
+
+
+;Take your Web with you
+Prenda il web cun tai
+
+
+;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
+Sincronisescha Firefox dapertut nua che ti dovras access a tes segnapaginas, tes pleds-clav, tes tabs e dapli - da mintga telefonin, tablet u computer.
+
+
+;Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
+Sincronisescha tes segnapaginas, tes pleds-clav, tes tabs e dapli cun agid da tes conto da Firefox ed hajas dapertut nua che ti s'annunzias access sin tias datas.
+
+
+;It looks like you’re running an older version of Firefox.
+I para che ti utiliseschas ina versiun veglia da Firefox.
+
+
+;The new version of Sync only works with the latest version of Firefox
+La nova versiun da Sync funcziunescha be cun la pli nova versiun da Firefox
+
+
+;Soon you’ll be able to use Sync on your iOS device
+Bainbaud vegni ad esser pussaivel dad utilisar Sync sin tes apparat dad iOS
+
+
+;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
+Sync è mo ina da las funcziuns magnificas che ti survegns be cun Firefox. Scuvra tuttas!
+
+
+# This string is displayed when you visit the page with a different browser (i.e. not Firefox)
+;Sync is just one of the great features you’ll only get with Firefox.
+Sync è mo ina da las funcziuns magnificas che ti survegns be cun Firefox.
+
+
+;Download Firefox for Android
+Telechargiar Firefox per Android
+
+
+;Get started with Sync
+Cumenza ad utilisar Sync
+
+
+;Update your Firefox
+Actualisescha Firefox
+
+
+;Download Firefox
+Telechargiar Firefox
+
+
+;Get started with Sync in four easy steps:
+Cumenza ad utilisar Sync cun quatter simpels pass:
+
+
+# You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+# If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
+;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Avra il <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> sura a dretga da Firefox e tscherna “<strong>S'annunziar tar Sync</strong>”.
+
+
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Get started</strong>” in the tab that opens.
+Clicca sin “<strong>Cumenzar</strong>” en il tab che s'avra.
+
+
+# (NEW STRING) <strong> tags used for font color formatting.
+;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Endatescha ina adressa dad e-mail ed in pled-clav per “<strong>Crear in conto da Firefox</strong>”.
+
+
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Next</strong>” to get a verification sent to your email.
+Clicca sin “<strong>Enavant</strong>” per retschaiver in e-mail da verificaziun.
+
+
+;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+Suenter che ti has legì l'e-mail e cliccà sin la colliaziun da verificaziun è tut pront! Firefox vegn lura a sincronisar automaticamain.
+
+
+;Get more detailed instructions.
+Leger instrucziuns pli detagliadas.
+
+
+;Using an older version of Sync?
+Utiliseschas ti ina versiun pli veglia da Sync?
+
+
+# This string is displayed on Android devices
+;How to set up Sync in five easy steps:
+Configurar Sync en tschintg simpels pass:
+
+
+# <strong> tags below used for font color formatting.
+# This string is displayed on Android devices
+;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+Smatgar sin il buttun da <strong>menu</strong> (u sut il visur u en il chantun sura a dretga en il navigatur).
+
+
+# This string is displayed on Android devices
+;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+Tscherna <strong>Preferenzas</strong> (ti stos forsa smatgar l'emprim sin <strong>Dapli</strong>).
+
+
+# This string is displayed on Android devices
+;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+Smatgar sin <strong>Sync</strong> e lura sin <strong>Cumenzar</strong>.
+
+
+# This string is displayed on Android devices
+;The <strong>Create a Firefox Account page</strong> will open in a new tab.
+La pagina per <strong>Crear in nov conto da Firefox</strong> s'avra en in nov tab.
+
+
+# This string is displayed on Android devices
+;Fill out the form and click <strong>Next</strong>.
+Emplenescha il formular e clicca sin <strong>Enavant</strong>.
+
+
+# This string is displayed on Android devices
+;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+Suenter che ti has legì tes e-mails e cliccà sin la colliaziun da verificaziun è tut pront! N'emblida betg da colliar tut ils auters apparats per far diever da tut ils avantatgs da Sync.
+
+
+;Sync a little. Sync a lot.
+Sincronisar pauc. <br>Sincronisar bler.
+
+
+;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
+Ti tschernas tge parts da Firefox che ti vuls sincronisar e cun tge che ti las vuls sincronisar. Prenda tes tabs averts sin tia via a la lavur. Acceda tes segnapaginas durant la lavur. Tge ch'i saja, cura ch'i saja, nua ch'i saja.
+
+
+;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
+Vuls visitar ils tabs averts da tes computer davent dad in auter apparat? Acceder la cronologia da navigar durant il viadi? Prender cun tai tes pleds-clav? Ussa pos ti.
+
+
+;Here’s what you can sync:
+Quai pos ti sincronisar:
+
+
+;Bookmarks
+Segnapaginas
+
+
+;Passwords
+Pleds-clav
+
+
+;Open tabs
+Tabs averts
+
+
+;History
+Cronologia
+
+
+;At home
+A chasa
+
+
+;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+Mida da tes pult sin il canapé senza interrupziuns. Acceda tes tabs averts sin tes telefonin u navighescha tras tes segnapaginas gest sin tes tablet.
+
+
+;At work
+A la lavur
+
+
+;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
+Resta connectà a tut tias infurmaziuns impurtantas. Sincroniseschas pleds-clav e segnapaginas che ti pudessas duvrar per adina avair l'access. Uschia sco Firefox è - uschè segir sco pussaivel.
+
+
+;On the go
+En viadi
+
+
+;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+Legia tias paginas preferidas u l'istorgia che ti has cumenzà a chasa - tuttina nua che ti vas. I n'è mai stà pli simpel che cun Sync.
+
+
+;Add Firefox to your smartphone or tablet
+Installar Firefox sin tes telefonin u tablet
+
+
+;To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
+Per profitar da tut ils servetschs pos ti installar Firefox per iOS u Android e colliar tut tes apparats — dapertut nua che ti utiliseschas Firefox.
+
+
+;Add Firefox
+Agiuntar Firefox
+
+
+;Have an <b>Android smartphone</b> or <b>tablet</b>?
+Has in <b>telefonin</b> u <b>tablet dad Android</b>?
+
+
+;DOWNLOAD FIREFOX FOR ANDROID
+TELECHARGIAR FIREFOX PER ANDROID
+
+
+;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+Per avair l'entira experientscha da Sync pos ti prender il web cun tai - dapertut là nua che ti utiliseschas Firefox. Collia tes telefonin, tablet, computer e laptop.
+
+

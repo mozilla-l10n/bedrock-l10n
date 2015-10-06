@@ -1,0 +1,83 @@
+## active ##
+## firefox_ios ##
+## NOTE: demo page available at https://www-dev.allizom.org/firefox/products/
+
+
+# Title of the page (HTML meta tag)
+;Firefox — Desktop browser, Android, OS, Hello, Sync, Marketplace
+Firefox — デスクトップ版、Android 版、Firefox OS、Hello、Sync、そして Marketplace
+
+
+# Description of the page (HTML meta tag)
+;Learn more about our complete lineup of products for desktop and mobile browsing (and more) that help keep you in control online. Free yourself with Firefox.
+Firefox とそれに関連する製品のご紹介。デスクトップからモバイルまで。オンライン活動を自分でコントロールするなら Firefox。
+
+
+;You’re using an older version of Firefox for desktop.
+古いバージョンの Firefox をお使いのようです。
+
+
+;Update today to stay fast and safe.
+更新して、Web ブラウジングの安全性とパフォーマンスを保ちましょう。
+
+
+;Choose Independent.
+わたしが選んだ理由
+
+
+;Choose Firefox.
+Firefox を広めよう
+
+
+# %s will be replaced by an image (Firefox wordmark)
+;Free yourself with %s
+自由に使える %s
+
+
+# <span> tag below adds visual style to "for" text
+;Firefox <span>for</span> desktop
+デスクトップ版 Firefox
+
+
+;Trusted. Flexible. Fast.
+高速なパフォーマンス、自由なカスタマイズ。信頼されるブラウザ。
+
+
+# <span> tag below adds visual style to "for" text
+;Firefox <span>for</span> Android
+Android 版 Firefox
+
+
+;Make it uniquely yours.
+自分色に染められるブラウザ。
+
+
+;Get it on Google Play
+Google Play よりダウンロード
+
+
+# <span> tag below adds visual style to "for" text
+;Firefox <span>for</span> iOS
+iOS 版 Firefox
+
+
+;Get it on iPhones and iPads
+Firefox を iPhone や iPad でも
+
+
+;Get just what you need.
+必要なものを、必要な時に。
+
+
+;Free, easy video conversations.
+どこでも誰とでも。ブラウザだけで簡単に使えるビデオ通話。
+
+
+;Discover and download Web apps.
+Web アプリとの出会いの場。
+
+
+;Connect Firefox wherever you use it.
+自分の Web をどこへでも持ち歩こう。
+
+

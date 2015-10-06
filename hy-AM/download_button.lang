@@ -1,0 +1,84 @@
+## NOTE: Strings used in our download buttons. Test area: https://www-dev.allizom.org/styleguide/websites/sandstone/buttons/
+
+
+;Download Firefox
+Ներբեռնել Firefox-ը
+
+
+;Your system doesn't meet the <a href="%(url)s">requirements</a> to run Firefox.
+Ձեր համակարգը չի համապատասխանում Firefox-ի <a href="%(url)s">պահանջներին</a>։
+
+
+;<span>Firefox Beta</span> for Android
+<span>Firefox Beta-ն</span> Android-ի համար
+
+
+;<span>Firefox Aurora</span> for Android
+<span>Firefox Aurora-ն</span> Android-ի համար
+
+
+;<span>Firefox</span> for Android
+<span>Firefox-ը</span> Android-ի համար
+
+
+;Get it free on Google Play
+Ազատորեն բեռնեք Google Play-ից
+
+
+;<span>Firefox</span> for iOS
+<span>Firefox-ը</span> iOS-ի համար
+
+
+;Get it free from the App Store
+Ներբեռնել անվճար App Store-ից
+
+
+;Firefox Beta
+Firefox Beta {ok}
+
+
+;Firefox Aurora
+Firefox Aurora {ok}
+
+
+;Free Download
+Ազատ բեռնումներ
+
+
+# Displayed in the download button for users of old versions of Firefox (should be short)
+;Update your Firefox
+Թարմացրել Firefox-ը
+
+
+;Supported Devices
+Աջակցող սարքերը
+
+
+;Get it on Google Play
+Ձեռք բեր Google Play-ից
+
+
+;Get Firefox for Android
+Ձեռք բեր Firefox Android-ի համար
+
+
+;Download on the App Store
+Ներբեռնել App Store-ից
+
+
+;Get Firefox for iOS
+Ձեռք բեր Firefox-ը iOS-ի համար
+
+
+;What’s New
+Ինչն է նոր
+
+
+;Privacy
+Գաղտնիությունը
+
+
+;Systems &amp; Languages
+Համակարգեր և լեզուներ
+
+

@@ -1,0 +1,818 @@
+;Navigation
+ការ​រុករក
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+<span>for</span> Desktop
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+<span>for</span> Android
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+<span>for</span> iOS
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+ប្រព័ន្ធ​ប្រតិបត្តិការ
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+សម្រាប់​កុំព្យូទ័រ​លើ​តុ &amp; កុំព្យូទ័រ​យួរដៃ
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+For phones &amp; tablets
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+ទិដ្ឋភាព​ទូទៅ
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+ដែល​ទុកចិត្ត
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+ភាព​បត់បែន
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+លឿន
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+អំពី
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+ឧបករណ៍​
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+For partners
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+Apps
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+កុំ​តាមដាន
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+ក្បឿង
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Interest Dashboard
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Developer Edition
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+ការ​រកមើល​ឯកជន
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+ត្រូវការ​ជំនួយ?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+News
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+For developers
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Find My Device
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+អ្នក​អភិវឌ្ឍ
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+Choose the independent browser
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox មិន​រក​ប្រាក់​ចំណេញ មិន​មែន​ជា​អាជីវកម្ម មិន​ធ្វើ​ឲ្យ​រំខាន។ ជ្រើសរើស Firefox មិន​មែន​គ្រាន់តែ​ជ្រើសរើស​កម្មវិធី​អ៊ីនធឺណិត​ប៉ុណ្ណោះ​ទេ។ វា​ជា​ការ​ផ្ដល់​សំឡេង​គាំទ្រ​សេរីភាព​ផ្ទាល់ខ្លួន។
+
+
+;Donate
+បរិច្ចាគ
+
+
+;Support
+គាំទ្រ
+
+
+;Products
+ផលិតផល
+
+
+;Add-ons
+កម្មវិធី​បន្ថែម
+
+
+;About Us
+អំពី​យើង
+
+
+;Labs
+មន្ទីរ​ពិសោធន៍
+
+
+;skip to Navigation
+រំលងទៅ​​ការ​រុករក
+
+
+;switch language
+ប្ដូរ​ភាសា
+
+
+;Back to home page
+ត្រឡប់​ទៅ​​ទំព័រ​ដើម
+
+
+;About Mozilla
+អំពី Mozilla
+
+
+;Get Involved
+ចូលរួម​
+
+
+;Careers
+មុខ​របរ
+
+
+;Press Center
+មជ្ឈមណ្ឌល​ព័ត៌មាន
+
+
+;Contact Us
+ទាក់ទង​​យើង
+
+
+;Other languages:
+ភាសា​ផ្សេង​ទៀត ៖
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+%Y-%m-%d {ok}
+
+
+;Legal
+ស្របច្បាប់
+
+
+# Used as link in the footer
+;Cookies
+ខូគី
+
+
+# Used as link in the footer
+;Firefox Affiliates
+Firefox Affiliates {ok}
+
+
+;Legal Notices
+លិខិត​ស្របច្បាប់
+
+
+;Privacy Policy
+គោល​នយោបាយ​ឯកជន
+
+
+;Release Notes
+ឯកសារ​​ចេញ​ផ្សាយ
+
+
+;Other Systems and Languages
+ប្រព័ន្ធ និង​ភាសា​ផ្សេង​ទៀត
+
+
+;Close
+បិទ
+
+
+;(in English)
+(ជា​ភាសា​អង់គ្លេស)
+
+
+;Return to top
+ត្រឡប់​ទៅ​កំពូល
+
+
+;Features
+លក្ខណៈ​ពិសេស
+
+
+;Customize
+ប្ដូរ​តាម​តម្រូវ​ការ
+
+
+;Download
+ទាញយក
+
+
+;Previous
+មុន
+
+
+;Next
+បន្ទាប់
+
+
+# MegaBytes abbreviation
+;MB
+មេកាបៃ
+
+
+;MegaBytes
+មេកាបៃ
+
+
+;FAQ
+សំណួរ​ដែល​សួររឿយៗ
+
+
+;Videos
+វីដេអូ
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+លើកលែង​តែ​កន្លែង​ផ្សេងទៀត <a href="%s">ដែល​បាន​សម្គាល់</a> មាតិកា​នៅលើ​តំបន់បណ្ដាញ​នេះ​ត្រូវ​បាន​ផ្ដល់​អាជ្ញាបណ្ណ​ដោយ​កំណែ <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> ឬ​កំណែក្រោយ ។
+
+
+;Report Trademark Abuse
+រាយការណ៍​អំពី​ការ​រំលោភ​លើ​និក្ខិតសញ្ញា
+
+
+;Free Upgrade
+ធ្វើ​ឲ្យ​ប្រសើរ​ដោយ​ឥត​គិត​ថ្លៃ
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+តាម​ដាន​យើង​នៅ ៖
+
+
+;Customize with Add-ons
+ប្ដូរ​តាម​បំណង​ជាមួយ​កម្មវិធី​បន្ថែម
+
+
+;Learn More
+ស្វែងយល់​​បន្ថែម
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+ស្វែងយល់​​បន្ថែម
+
+
+# Link used to play again an animation or a video
+;Replay
+ម្ដងទៀត
+
+
+;Watch the video
+មើល​វីដេអូ
+
+
+;Replay the video
+ចាក់​វីដេអូ​ឡើង​វិញ
+
+
+;Share the video
+ចែករំលែក​វីដេអូ
+
+
+;WebM format
+ទ្រង់ទ្រាយ WebM
+
+
+;Ogg Theora format
+ទ្រង់ទ្រាយ Ogg Theora
+
+
+;MPEG-4 format
+ទ្រង់ទ្រាយ MPEG-4
+
+
+;Mobile
+ទូរស័ព្ទ​ចល័ត
+
+
+;Check out the new look and feel of Firefox.
+ពិនិត្យមើល​រូបរាង និង​មុខងារ​ថ្មី​របស់ Firefox ។
+
+
+;View Full Site
+មើល​តំបន់បណ្ដាញ​ទាំងមូល
+
+
+;Download for <span>Android</span>
+ទាញយក​សម្រាប់ <span>Android</span>
+
+
+;Desktop
+ផ្ទៃតុ
+
+
+;Firefox Beta for mobile
+បែតា Firefox សម្រាប់​ទូរស័ព្ទចល័ត
+
+
+;Firefox for mobile
+Firefox សម្រាប់​ទូរស័ព្ទចល័ត
+
+
+;Email
+អ៊ីមែល
+
+
+;Super speed
+ល្បឿន​លឿន
+
+
+;Stunning graphics
+ក្រាហ្វិក​ដ៏​អស្ចារ្យ
+
+
+;The latest technologies
+បច្ចេក​វិទ្យា​ចុង​ក្រោយ​បំផុត
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+អ្នក​ចាំបាច់​ត្រូវ​ធ្វើឲ្យ​ប្រសើរ ! នៅតែ​មាន​សុវត្ថិភាព​ក្នុង​រយៈពេល​តិច​ជាង​មួយ​នាទី ។ <br/> ចាប់ផ្ដើម​ប្រើ Firefox ថ្មី​ ដើម្បី​ធ្វើឲ្យ​ការ​រុករក និង​ការ​ប្ដូរ​តាម​បំណង​នៅ​លើ​តំបន់បណ្ដាញ​កាន់​តែ​មាន​ភាព​ប្រសើរ​បំផុត ។ <br/>   វា​លឿន និង​ឥត​គិតថ្លៃ!
+
+
+;Upgrade now
+ធ្វើ​ឲ្យ​ប្រសើរ​ឥឡូវ​នេះ
+
+
+;Update now
+ធ្វើ​បច្ចុប្បន្ន​ភាព​ឥឡូវ​នេះ
+
+
+;Supported Devices
+ឧបករណ៍​ដែល​គាំទ្រ
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+អ្វី​ដែល​ថ្មី
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+ភាព​ឯកជន
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+ផ្នែក​នៃ​មាតិកា​នេះ​​​នៅ​អំឡុង ©1998–%(current_year)s បង្កើត​ដោយ​​អ្នក​ចូលរួម​ចំណែក mozilla.org ។ មាតិកា​អាច​​ប្រើ​បាន​ក្រោម <a href="%(url)s">អាជ្ញាប័ណ្ណ Creative Commons</a>។
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+ចូលរួម​ចំណែក​ជាមួយ​តំបន់បណ្ដាញ​នេះ
+
+
+# Footer string
+;Contribute to this page
+ចូលរួម​ចំណែក​នៅ​ទំព័រ​នេះ
+
+
+# Top menu item
+;Mission
+បេសកកម្ម
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+ទស្សនា
+
+
+# Footer item
+;Partner with Us
+ធ្វើ​ដៃគូ​ជាមួយ​យើង
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+ធ្វើ​សមកាលកម្ម
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+កម្មវិធី​បន្ថែម​សម្រាប់​ផ្ទៃតុ
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+កម្មវិធី​បន្ថែម​សម្រាប់ Android
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+រូបរាង
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+ការ​គាំទ្រ​ផ្ទៃតុ
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+ការ​គាំទ្រ Android
+
+
+# Top menu item on firefox/update page
+;Performance
+ដំណើរការ
+
+
+# Top menu item on firefox/update page
+;Technology
+បច្ចេកវិទ្យា
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+ភាព​ឯកជន &amp; សុវត្ថិភាព
+
+
+# Top menu item on firefox/update page
+;Releases
+ការ​ចេញ​ផ្សាយ
+
+
+# Top menu item on firefox/update page
+;Firefox
+Firefox {ok}
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+Firefox សម្រាប់​អង្គការ
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+កម្មវិធី​បន្ថែម​សម្រាប់​ទូរស័ព្ទ
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+ការ​គាំទ្រ​ឧបករណ៍​ចល័ត
+
+
+# Top menu item on firefox/update page
+;Blog
+ប្លុក
+
+
+# Top menu item on firefox/update page
+;About Firefox
+អំពី Firefox
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+ចូលរួម​ជាមួយ Mozilla
+
+
+# Top menu item on firefox/update page
+;Participate
+ចូលរួម
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
+;Volunteer
+អ្នក​ស្ម័គ្រចិត្ត
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+Brand Toolkit {ok}
+
+
+# Top menu item on firefox/update page
+;Partnerships
+ភាព​ជា​ដៃគូ
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+ទទួល​បច្ចុប្បន្នភាព​ពី Mozilla
+
+
+# share button for social networks
+;Share
+ចែក​រំលែក
+
+
+# footer link
+;Mozilla on Twitter
+Mozilla នៅ​លើ Twitter
+
+
+# footer link
+;Firefox on Twitter
+Firefox នៅ​លើ Twitter
+
+
+# footer link
+;Mozilla on Facebook
+Mozilla នៅ​លើ Facebook
+
+
+# footer link
+;Firefox on Facebook
+Firefox នៅ​លើ Facebook
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+វេទិកា
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Leadership
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+ការ​គ្រប់គ្រង
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+ប្រវត្តិ
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+ផលិតផល​របស់​ពួក​យើង
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+កម្មវិធី​ផ្នែក​ទន់ និង​ការ​ច្នៃ​ប្រឌិត​ថ្មីៗ​ដែល​បាន​រចនា​​ឡើង​ដើម្បី​ពន្លឿន​បេសកកម្ម​របស់​យើង។
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+ក្លាយ​ជា​អ្នក​ចូលរួម​ស្ម័គ្រចិត្ត​នៅ​ក្នុង​តំបន់​ផ្សេងៗ​គ្នា។
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+​ម៉ឺនុយ
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+បាន​ប្ដេជ្ញា​ចំពោះ​អ្នក រក្សា​ភាព​ឯកជន និង​ជា​បណ្ដាញ​បើក​ចំហ
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+ជ្រើស​ឯករាជ្យ
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+សូម​បើក JavaScript ដើម្បី​បង្ហាញ​ទំព័រ​នេះ​ដោយ​ត្រឹមត្រូវ។
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+លក្ខណ​ពិសេស​របស់ Firefox
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+ជំនួយ​របស់ Firefox
+
+
+;January
+មករា
+
+
+;February
+កុម្ភៈ​
+
+
+;March
+មីនា​
+
+
+;April
+មេសា​
+
+
+;May
+ឧសភា​
+
+
+;June
+មិថុនា​
+
+
+;July
+កក្កដា​
+
+
+;August
+សីហា​
+
+
+;September
+កញ្ញា​
+
+
+;October
+តុលា​
+
+
+;November
+វិច្ឆិកា​
+
+
+;December
+ធ្នូ​
+
+
+;<abbr>Jan</abbr>
+<abbr>មករា</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>កុម្ភៈ</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>មីនា</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>មេសា</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>ឧសភា​</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>មករា</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>កក្កដា</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>សីហា</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>កុម្ភៈ</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>តុលា</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>វិច្ឆិកា</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>ធ្នូ</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+
+
+;Congrats. You’re up to date!
+អបអរសាទរ។ អ្នក​ទាន់សម័យ​ហើយ!
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+;Format
+របស់​អ្នក
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;Text
+អត្ថបទ
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;HTML
+HTML
+
+
+# This is the error message displayed if you provide an invalid email address in a form
+;Whoops! Be sure to enter a valid email address.
+អ៊ុប! ត្រូវ​ប្រាកដ​ថា​ ត្រូវ​​​បញ្ចូល​អាសយដ្ឋាន​អ៊ីមែល​ត្រឹមត្រូវ ។
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+ខ្ញុំ​យល់ព្រម​ជាមួយ​ការ​គ្រប់គ្រង Mozilla ​ព័ត៌មាន​របស់​ខ្ញុំ​ដូច​ដែល​បាន​ពន្យល់​នៅ​ក្នុង <a href="%s">គោលនយោបាយ​ឯកជន​នេះ</a>
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+ទទួល​បាន​ព័ត៌មាន Firefox
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+អ៊ីមែល​របស់​អ្នក​នៅទីនេះ
+
+
+# Subscription Button
+;Sign me up
+ចុះ​ឈ្មោះ​ខ្ញុំ
+
+
+;Select country
+ជ្រើស​ប្រទេស
+
+
+;Available Languages
+ភាសា​ដែល​មាន
+
+
+;We will only send you Mozilla-related information.
+យើង​នឹង​ផ្ញើ​ឲ្យ​អ្នក​តែ​ព័ត៌មាន​ដែល​ទាក់ទង​ទៅ​និង Mozilla ប៉ុណ្ណោះ ។
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+អរគុណ! សូម​ពិនិត្យ​មើល​ប្រអប់​សំបុត្រ​របស់​អ្នក​ដើម្បី​​បញ្ជាក់​ការ​ជាវ​របស់​អ្នក។
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+អ្នក​នឹង​ទទួល​បាន​អ៊ីមែល​ពី mozilla@e.mozilla.org ដើម្បី​បញ្ជាក់​ការ​ជាវ​របស់​អ្នក។ បើ​អ្នក​មិន​ឃើញ​វា​ទេ សូម​ពិនិត្យ​មើល​​ក្នុង​តម្រង​​សារ​ឥត​បាន​ការ​របស់​អ្នក។ អ្នក​ត្រូវតែ​បញ្ជាក់​ការ​ជាវ​របស់​អ្នក​ដើម្បី​ទទួល​បាន​​ព្រឹត្តិបត្រ​របស់​យើង។
+
+
+;Read all about it in our <span>newsletter</span>
+អាន​វា​ទាំងអស់​នៅ​ក្នុង​ទ្រង់ទ្រាយ <span>ព្រឹត្តិបត្តិ​ព័ត៌មាន</span>
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+ជាវ​ប្រចាំ​បច្ចុប្បន្ន​ភាព​ប្រចាំ​ខែ និងទទួល​បាន​ព័ត៌មាន​ថ្មីៗ​ពី Mozilla រួម​បញ្ចូល​ទាំង​ដំណោះ​ស្រាយ​ខ្លីៗ​ក្នុង​ការ​ប្រើប្រាស់​កម្មវិធី​រុករក Firefox យ៉ាង​មាន​ប្រសិទ្ធិភាព ។ វា​ជា​វិធី​មួយ​យ៉ាង​ប្រសើរ​បំផុត​ក្នុង​ការ​រក្សា​ទំនាក់ទំនង​ជាមួយ​គ្នា!
+
+

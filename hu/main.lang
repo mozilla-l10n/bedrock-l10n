@@ -1,0 +1,818 @@
+;Navigation
+Navigáció
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+<span>asztali számítógépre</span>
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+<span>Androidra</span>
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+<span>iOS-re</span>
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+OS {ok}
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+Asztali gépekre és laptopokra
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+Telefonokra és tabletekre
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+Áttekintés
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+Megbízható
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+Rugalmas
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+Gyors
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+Bemutatkozás
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+Készülékek
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+Partnereknek
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+Appok
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+Ne kövessenek
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Csempék
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Érdeklődés vezérlőpult
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Developer Edition {ok}
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+Privát böngészés
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+Segítségre van szüksége?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+Hírek
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+Fejlesztőknek
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Eszközkereső
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+Fejlesztők
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+Válassza a független böngészőt
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+A Firefox non-profit, nem vállalati, nem kompromittálódott. A Firefox választása nem csupán egy böngésző választása: Szavazat a személyes szabadság mellett.
+
+
+;Donate
+Hozzájárulás
+
+
+;Support
+Támogatás
+
+
+;Products
+Termékek
+
+
+;Add-ons
+Kiegészítők
+
+
+;About Us
+Rólunk
+
+
+;Labs
+Labs {ok}
+
+
+;skip to Navigation
+ugrás a Navigációra
+
+
+;switch language
+nyelvválasztás
+
+
+;Back to home page
+Vissza a kezdőlapra
+
+
+;About Mozilla
+A Mozilláról
+
+
+;Get Involved
+Csatlakozás
+
+
+;Careers
+Álláslehetőségek
+
+
+;Press Center
+Sajtóoldal
+
+
+;Contact Us
+Kapcsolat
+
+
+;Other languages:
+Más nyelvek:
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+%Y. %m. %d.
+
+
+;Legal
+Jogi információk
+
+
+# Used as link in the footer
+;Cookies
+Sütik
+
+
+# Used as link in the footer
+;Firefox Affiliates
+Firefox barátai
+
+
+;Legal Notices
+Jogi nyilatkozatok
+
+
+;Privacy Policy
+Adatvédelmi irányelvek
+
+
+;Release Notes
+Kiadási megjegyzések
+
+
+;Other Systems and Languages
+Más nyelvek és operációs rendszerek
+
+
+;Close
+Bezárás
+
+
+;(in English)
+(angolul)
+
+
+;Return to top
+Vissza a tetejére
+
+
+;Features
+Funkciók
+
+
+;Customize
+Testreszabás
+
+
+;Download
+Letöltés
+
+
+;Previous
+Előző
+
+
+;Next
+Következő
+
+
+# MegaBytes abbreviation
+;MB
+MB {ok}
+
+
+;MegaBytes
+megabájt
+
+
+;FAQ
+GYIK
+
+
+;Videos
+Videók
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+Ezen oldal tartalma, kivéve, ahol az <a href="%s">jelezve</a> van, a <a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> vagy ennél frissebb verzió alá tartozik.
+
+
+;Report Trademark Abuse
+Védjeggyel való visszaélés jelentése
+
+
+;Free Upgrade
+Ingyenes frissítés
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+Kövessen minket:
+
+
+;Customize with Add-ons
+Testreszabás a kiegészítőkkel
+
+
+;Learn More
+Tudjon meg többet
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+Tudjon meg többet
+
+
+# Link used to play again an animation or a video
+;Replay
+Újra
+
+
+;Watch the video
+Videó megtekintése
+
+
+;Replay the video
+A videó újrajátszása
+
+
+;Share the video
+Videó megosztása
+
+
+;WebM format
+WebM formátum
+
+
+;Ogg Theora format
+Ogg Theora formátum
+
+
+;MPEG-4 format
+MPEG-4 formátum
+
+
+;Mobile
+Mobil
+
+
+;Check out the new look and feel of Firefox.
+Tekintse meg az új megjelenésű Firefox böngészőt.
+
+
+;View Full Site
+Teljes oldal megtekintése
+
+
+;Download for <span>Android</span>
+Letöltés <span>Androidra</span>
+
+
+;Desktop
+Számítógép
+
+
+;Firefox Beta for mobile
+Firefox Beta for mobile {ok}
+
+
+;Firefox for mobile
+Firefox for mobile {ok}
+
+
+;Email
+E-mail
+
+
+;Super speed
+Szupergyors
+
+
+;Stunning graphics
+Lenyűgöző grafika
+
+
+;The latest technologies
+A legújabb technológiák
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+Frissítésre van szüksége! Maradjon biztonságban. <br/> Használja az új Firefoxot, amely a legjobb a böngészésben és az internet testreszabásában. <br/>   Gyors és ingyenes!
+
+
+;Upgrade now
+Frissítsen most
+
+
+;Update now
+Frissítsen most
+
+
+;Supported Devices
+Támogatott eszközök
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+Újdonságok
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+Adatvédelem
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+A tartalom egy részét ©1998–%(current_year)s mozilla.org közreműködők készítették. A tartalom <a href="%(url)s">Creative Commons licenc</a> alatt érhető el.
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+Legyen közreműködő
+
+
+# Footer string
+;Contribute to this page
+Legyen közreműködő
+
+
+# Top menu item
+;Mission
+Küldetés
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+Bemutató
+
+
+# Footer item
+;Partner with Us
+Partnereink
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+Sync {ok}
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+Kiegészítők
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+Android kiegészítők
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+Témák
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+Támogatás
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+Android támogatás
+
+
+# Top menu item on firefox/update page
+;Performance
+Teljesítmény
+
+
+# Top menu item on firefox/update page
+;Technology
+Technológia
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+Adatvédelem és biztonság
+
+
+# Top menu item on firefox/update page
+;Releases
+Kiadások
+
+
+# Top menu item on firefox/update page
+;Firefox
+Firefox {ok}
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+Firefox szervezeteknek
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+Mobil kiegészítők
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+Mobil támogatás
+
+
+# Top menu item on firefox/update page
+;Blog
+Blog {ok}
+
+
+# Top menu item on firefox/update page
+;About Firefox
+Firefox névjegye
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+Csatlakozás
+
+
+# Top menu item on firefox/update page
+;Participate
+Közreműködés
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
+;Volunteer
+Vegyen részt!
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+Arculati eszköztár
+
+
+# Top menu item on firefox/update page
+;Partnerships
+Partnerkapcsolatok
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+Friss hírek a Mozilláról
+
+
+# share button for social networks
+;Share
+Megosztás
+
+
+# footer link
+;Mozilla on Twitter
+Mozilla a Twitteren
+
+
+# footer link
+;Firefox on Twitter
+Firefox a Twitteren
+
+
+# footer link
+;Mozilla on Facebook
+Mozilla a Facebookon
+
+
+# footer link
+;Firefox on Facebook
+Firefox a Facebookon
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+Fórumok
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Vezetés
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+Irányítás
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+Történelem
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+Termékeink
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+Küldetésünk teljesítésére tervezett szoftverek és más találmányok.
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+Legyen önkéntes hozzájáruló számos különböző területen.
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+Menü
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+Nekünk a felhasználók, az adatvédelem és a nyílt internet a fontos
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+Válassza a függetlenséget
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Lángoljon tovább a szabad és nyílt internet iránti szenvedély! #ChooseIndependent. Válaszd a Firefoxot:
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+Kapcsolja be a JavaScriptet az oldal helyes megjelenítéséhez.
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+Firefox-funkciók
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+Firefox Súgó
+
+
+;January
+Január
+
+
+;February
+Február
+
+
+;March
+Március
+
+
+;April
+Április
+
+
+;May
+Május
+
+
+;June
+Június
+
+
+;July
+Július
+
+
+;August
+Augusztus
+
+
+;September
+Szeptember
+
+
+;October
+Október
+
+
+;November
+November {ok}
+
+
+;December
+December {ok}
+
+
+;<abbr>Jan</abbr>
+<abbr>Jan.</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>Febr.</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>Márc.</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>Ápr.</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>Máj.</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>Jún.</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>Júl.</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>Aug.</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>Szept.</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>Okt.</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>Nov.</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>Dec.</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+A Firefox hamarosan megérkezik iOS-re! <a href="{url}">Iratkozzon fel további hírekért</a>.
+
+
+;Congrats. You’re up to date!
+Gratulálunk, a legfrissebb verziót használja!
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+;Format
+Formátum
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;Text
+Szöveg
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;HTML
+HTML {ok}
+
+
+# This is the error message displayed if you provide an invalid email address in a form
+;Whoops! Be sure to enter a valid email address.
+Hoppá! Győződjön meg róla, hogy jó e-mail címet adott-e meg.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+Elfogadom, hogy a Mozilla az <a href="%s">adatvédelmi irányelveknek</a> megfelelően kezelje az adataimat
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Firefox hírek
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+SAJÁT E-MAIL CÍM
+
+
+# Subscription Button
+;Sign me up
+Feliratkozom
+
+
+;Select country
+Válasszon országot
+
+
+;Available Languages
+Elérhető nyelvek
+
+
+;We will only send you Mozilla-related information.
+Csak a Mozillával kapcsolatos információt fogunk küldeni.
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Köszönjük! Keresse meg postafiókjában a jóváhagyó levelet.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+A jóváhagyó levél a mozilla@e.mozilla.org e-mail címről fog érkezik. Amennyiben nem találja, nézzen szét a levélszemét között. Ahhoz, hogy hírlevelet kapjon, jóvá kell hagynia a feliratkozást.
+
+
+;Read all about it in our <span>newsletter</span>
+Olvassa <span>hírlevelünket</span>
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Iratkozzon fel a havonta megjelenő hírlevélre, amely a Mozilla-híreken túl a Firefox használatával kapcsolatos tippeket és trükköket is tartalmaz. Ez a legjobb módja annak, hogy kapcsolatban legyünk!
+
+

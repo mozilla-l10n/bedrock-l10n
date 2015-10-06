@@ -1,0 +1,818 @@
+;Navigation
+ნავიგაცია
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+<span>for</span> Desktop
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+<span>for</span> Android
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+<span>for</span> iOS
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+OS
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+For desktops &amp; laptops
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+For phones &amp; tablets
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+მიმოხილვა
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+Trusted
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+Flexible
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+Fast
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+ჩვენს შესახებ
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+Devices
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+For partners
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+Apps
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+Do Not Track
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Tiles
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Interest Dashboard
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Developer Edition
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+Private Browsing
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+გესაჭიროებათ დახმარება?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+News
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+For developers
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Find My Device
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+Developers
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+Choose the independent browser
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+
+
+;Donate
+შემოწირულობა
+
+
+;Support
+მხარდაჭერა
+
+
+;Products
+პროდუქტები
+
+
+;Add-ons
+პაკეტები
+
+
+;About Us
+ჩვენს შესახებ
+
+
+;Labs
+ლაბორატორია
+
+
+;skip to Navigation
+გადასვლა ნავიგაციაზე
+
+
+;switch language
+ენის შეცვლა
+
+
+;Back to home page
+დაბრუნება თავფურცელზე
+
+
+;About Mozilla
+Mozilla-ს შესახებ
+
+
+;Get Involved
+შემოგვიერთდით
+
+
+;Careers
+კარიერა
+
+
+;Press Center
+პრესცენტრი
+
+
+;Contact Us
+დაგვიკავშირდით
+
+
+;Other languages:
+სხვა ენები:
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+%d.%m.%Y
+
+
+;Legal
+Legal
+
+
+# Used as link in the footer
+;Cookies
+ნაჭდევები
+
+
+# Used as link in the footer
+;Firefox Affiliates
+Firefox Affiliates
+
+
+;Legal Notices
+იურიდიული შენიშვნები
+
+
+;Privacy Policy
+კონფიდენციალობა
+
+
+;Release Notes
+ვერსიის მონაცემები
+
+
+;Other Systems and Languages
+სხვა საოპერაციო სისტემები და ენები
+
+
+;Close
+დახურვა
+
+
+;(in English)
+(ინგლისურად)
+
+
+;Return to top
+დაბრუნება თავში
+
+
+;Features
+კომპონენტები
+
+
+;Customize
+მორგება
+
+
+;Download
+ჩამოტვირთვა
+
+
+;Previous
+Previous
+
+
+;Next
+შემდეგ
+
+
+# MegaBytes abbreviation
+;MB
+მბ
+
+
+;MegaBytes
+მეგაბაიტი
+
+
+;FAQ
+ფ.ა.კ.
+
+
+;Videos
+ვიდეოები
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+გარდა იმ შემთხვევებისა, სადაც <a href="%s">მითითებულია</a>, ამ საიტის მასალა ვრცელდება <br /><a href="%s">Creative Commons Attribution Share-Alike ვერსია v3.0</a> ან უფრო გვიანდელი ლიცენზიით.
+
+
+;Report Trademark Abuse
+სავაჭრო ნიშნის დარღვევის პატაკი
+
+
+;Free Upgrade
+უფასო განახლება
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+მოგვყევით:
+
+
+;Customize with Add-ons
+მორგება დამატებითი მოდულებით
+
+
+;Learn More
+ვრცლად
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+ვრცლად
+
+
+# Link used to play again an animation or a video
+;Replay
+Replay
+
+
+;Watch the video
+ნახეთ ვიდეო
+
+
+;Replay the video
+Replay the video
+
+
+;Share the video
+Share the video
+
+
+;WebM format
+WebM ფორმატი
+
+
+;Ogg Theora format
+Ogg Theora ფორმატი
+
+
+;MPEG-4 format
+MPEG-4 ფორმატი
+
+
+;Mobile
+მობილური
+
+
+;Check out the new look and feel of Firefox.
+შეაფასეთ Firefox-ის ახალი იერსახე.
+
+
+;View Full Site
+საიტის სრული ვერსია
+
+
+;Download for <span>Android</span>
+ჩამოტვირთეთ <span>Android</span>-ისთვის
+
+
+;Desktop
+კომპიუტერი
+
+
+;Firefox Beta for mobile
+Firefox ბეტა მობილურისთვის
+
+
+;Firefox for mobile
+Firefox მობილურისთვის
+
+
+;Email
+ელფოსტა
+
+
+;Super speed
+სუპერსწრაფი
+
+
+;Stunning graphics
+გასაოცარი გრაფიკა
+
+
+;The latest technologies
+უახლესი ტექნოლოგიები
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+გესაჭიროებათ განახლება! უზრუნველყავით თქვენი უსაფრთხოება წამებში. <br/> იგრძენით თავი კომფორტულად და უსაფრთხოდ თქვენი ახალი Firefox ბრაუზერით. <br/>   ეს განახლება მყისიერი და უფასოა!
+
+
+;Upgrade now
+განახლდით ახლავე
+
+
+;Update now
+განახლდით ახლავე
+
+
+;Supported Devices
+მისაღები მოწყობილობები
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+სიახლეები
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+კონფიდენციალობა
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+ამ მასალის ნაწილი შექმნილია mozilla.org პროექტის მონაწილეების მიერ ©1998–%(current_year)s. მასალა ვრცელდება <a href="%(url)s">Creative Commons ლიცენზიით</a>.
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+Contribute to this site
+
+
+# Footer string
+;Contribute to this page
+მიიღეთ მონაწილეობა
+
+
+# Top menu item
+;Mission
+მისია
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+ტური
+
+
+# Footer item
+;Partner with Us
+ითანამშრომლეთ ჩვენთან
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+Sync
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+მოდულები კომპიუტერისთვის
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+Android Add-ons
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+თემები
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+კომპიუტერის მხარდაჭერა
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+Android Support
+
+
+# Top menu item on firefox/update page
+;Performance
+წარმადობა
+
+
+# Top menu item on firefox/update page
+;Technology
+ტექნოლოგია
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+კონფიდენციალობა და უსაფრთხოება
+
+
+# Top menu item on firefox/update page
+;Releases
+ვერსიები
+
+
+# Top menu item on firefox/update page
+;Firefox
+Firefox-ი
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+Firefox ორგანიზაციებისთვის
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+მოდულები მობილურისთვის
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+მობილურის მხარდაჭერა
+
+
+# Top menu item on firefox/update page
+;Blog
+ბლოგი
+
+
+# Top menu item on firefox/update page
+;About Firefox
+Firefox-ის შესახებ
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+შემოუერთდით Mozilla-ს
+
+
+# Top menu item on firefox/update page
+;Participate
+მონაწილეობა
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
+;Volunteer
+Volunteer
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+ხელსაწყოთა სკივრი
+
+
+# Top menu item on firefox/update page
+;Partnerships
+თანამშრომლობა
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+გაეცანით Mozilla-ს სიახლეებს
+
+
+# share button for social networks
+;Share
+Share
+
+
+# footer link
+;Mozilla on Twitter
+Mozilla on Twitter
+
+
+# footer link
+;Firefox on Twitter
+Firefox on Twitter
+
+
+# footer link
+;Mozilla on Facebook
+Mozilla on Facebook
+
+
+# footer link
+;Firefox on Facebook
+Firefox on Facebook
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+Forums
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Leadership
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+Governance
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+History
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+Our Products
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+Software and other innovations designed to advance our mission.
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+Become a volunteer contributor in a number of different areas.
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+Menu
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+Committed to you, your privacy and an open Web
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+Choose Independent
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+Please turn on JavaScript to display this page correctly.
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+Firefox Features
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+Firefox დახმარება
+
+
+;January
+იანვარი
+
+
+;February
+თებერვალი
+
+
+;March
+მარტი
+
+
+;April
+აპრილი
+
+
+;May
+მაისი
+
+
+;June
+ივნისი
+
+
+;July
+ივლისი
+
+
+;August
+აგვისტო
+
+
+;September
+სექტემბერი
+
+
+;October
+ოქტომბერი
+
+
+;November
+ნოემბერი
+
+
+;December
+დეკემბერი
+
+
+;<abbr>Jan</abbr>
+<abbr>იან</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>თებ</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>მარ</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>აპრ</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>მაი</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>ივნ</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>ივლ</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>აგვ</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>სექ</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>ოქტ</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>ნოე</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>დეკ</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+
+
+;Congrats. You’re up to date!
+Congrats. You’re up to date!
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+;Format
+ფორმატი
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;Text
+ტექსტი
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;HTML
+HTML
+
+
+# This is the error message displayed if you provide an invalid email address in a form
+;Whoops! Be sure to enter a valid email address.
+უკაცრავად! გთხოვთ გადაამოწმოთ ელფოსტა.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Firefox სიახლეთა გამოწერა
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+თქვენი ელფოსტა
+
+
+# Subscription Button
+;Sign me up
+გამოწერა
+
+
+;Select country
+შეარჩიეთ ქვეყანა
+
+
+;Available Languages
+შესაძლო ენები
+
+
+;We will only send you Mozilla-related information.
+გამოგეგზავნებათ მხოლოდ Mozilla-სთან დაკავშირებული ინფორმაცია.
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+გმადლობთ! გთხოვთ გადაამოწმოთ თქვენი ელფოსტა ხელმოწერის დასადასტურებლად.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+თქვენ მიიღეთ ელფოსტა მისამართიდან mozilla@e.mozilla.org თქვენი ხელმოწერის დასადასტურებლად. თუ ვერ ხედავთ, გადაამოწმეთ სპამის დასტაში. სიახლეთა მისაღებათ მათი გამოწერა უნდა დაადასტუროთ.
+
+
+;Read all about it in our <span>newsletter</span>
+გაეცანით სიახლეებს <span>ჩვენი დაიჯესტიდან</span>
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+გამოიწერეთ ჩვენი ყოველთვიური სიახლეები და მუდმივად იქნებით საქმის კურსში თუ რა ხდება Mozilla-ში. აქვე გაეცნობით რჩევებსა და ხერხებს თუ როგორ მიიღოთ მაქსიმალური სარგებელი Firefox ბრაუზერისგან. ეს საუკეთესო გზაა ჩვენთან კავშირისა!
+
+

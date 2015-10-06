@@ -1,0 +1,818 @@
+;Navigation
+Περιήγηση
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+<span>για</span> υπολογιστές
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+<span>για</span> Android
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+<span>για</span> iOS
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+OS {ok}
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+Για υπολογιστές &amp; laptops
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+Για κινητά &amp; tablets
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+Επισκόπηση
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+Έμπιστος
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+Ευέλικτος
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+Γρήγορος
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+Σχετικά
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+Συσκευές
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+Για συνεργάτες
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+Εφαρμογές
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+Do Not Track {ok}
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Πλακίδια
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Interest Dashboard {ok}
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Developer Edition {ok}
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+Ιδιωτική Περιήγηση
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+Χρειάζεστε βοήθεια;
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+Νέα
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+Για δημιουργούς
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Εύρεση Συσκευής
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+Για δημιουργούς
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+Επιλέξτε τον ανεξάρτητο περιηγητή
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Ο Firefox είναι μη κερδοσκοπικός, μη εταιρικός και μη συμβιβάσιμος. Επιλέγοντας τον Firefox δεν επιλέγετε απλά έναν περιηγητή. Επιλέγετε την προσωπική ελευθερία.
+
+
+;Donate
+Δωρεές
+
+
+;Support
+Υποστήριξη
+
+
+;Products
+Προϊόντα
+
+
+;Add-ons
+Πρόσθετα
+
+
+;About Us
+Περί
+
+
+;Labs
+Εργαστήρια
+
+
+;skip to Navigation
+Μετάβαση στην περιήγηση
+
+
+;switch language
+Αλλαγή γλώσσας
+
+
+;Back to home page
+Πίσω στην αρχική Σελίδα
+
+
+;About Mozilla
+Περί Mozilla
+
+
+;Get Involved
+Συμμετέχετε
+
+
+;Careers
+Καριέρες
+
+
+;Press Center
+Γραφείο Τύπου
+
+
+;Contact Us
+Επικοινωνήστε μαζί μας
+
+
+;Other languages:
+Άλλες γλώσσες:
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+%d-%m-%Y
+
+
+;Legal
+Νομικά
+
+
+# Used as link in the footer
+;Cookies
+Cookies {ok}
+
+
+# Used as link in the footer
+;Firefox Affiliates
+Firefox Affiliates {ok}
+
+
+;Legal Notices
+Νομικές σημειώσεις
+
+
+;Privacy Policy
+Πολιτική απορρήτου
+
+
+;Release Notes
+Σημειώσεις έκδοσης
+
+
+;Other Systems and Languages
+Άλλα συστήματα και γλώσσες
+
+
+;Close
+Κλείσιμο
+
+
+;(in English)
+(Αγγλικά)
+
+
+;Return to top
+Επιστροφή στην κορυφή
+
+
+;Features
+Χαρακτηριστικά
+
+
+;Customize
+Προσαρμογή
+
+
+;Download
+Κάντε λήψη
+
+
+;Previous
+Προηγούμενο
+
+
+;Next
+Επόμενο
+
+
+# MegaBytes abbreviation
+;MB
+MB {ok}
+
+
+;MegaBytes
+MegaBytes {ok}
+
+
+;FAQ
+Συχνές ερωτήσεις
+
+
+;Videos
+Βίντεο
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+Εκτός απ' όπου <a href="%s">διευκρινίζεται</a> διαφορετικά, το περιεχόμενο διατίθεται σύμφωνα με την άδεια <br /><a href="%s">Creative Commons Αναφορά προέλευσης-Παρόμοια διανομή 3.0</a> ή οποιαδήποτε νεότερη της.
+
+
+;Report Trademark Abuse
+Αναφορά παραβίασης εμπορικών σημάτων
+
+
+;Free Upgrade
+Δωρεάν αναβάθμιση
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+Ακολουθήστε μας στο:
+
+
+;Customize with Add-ons
+Προσαρμογή με πρόσθετα
+
+
+;Learn More
+Μάθετε περισσότερα
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+Μάθετε περισσότερα
+
+
+# Link used to play again an animation or a video
+;Replay
+Επανάληψη
+
+
+;Watch the video
+Δείτε το βίντεο
+
+
+;Replay the video
+Επανάληψη του βίντεο
+
+
+;Share the video
+Μοιραστείτε το βίντεο
+
+
+;WebM format
+Μορφή αρχείου WebM
+
+
+;Ogg Theora format
+Μορφή αρχείου Ogg Theora
+
+
+;MPEG-4 format
+Μορφή αρχείου MPEG-4
+
+
+;Mobile
+Κινητά
+
+
+;Check out the new look and feel of Firefox.
+Δείτε τη νέα εμφάνιση και τη νέα αίσθηση που προσφέρει ο Firefox.
+
+
+;View Full Site
+Αρχική σελίδα
+
+
+;Download for <span>Android</span>
+Λήψη για <span>Android</span>
+
+
+;Desktop
+Για υπολογιστές
+
+
+;Firefox Beta for mobile
+Firefox Beta για κινητά
+
+
+;Firefox for mobile
+Firefox για κινητά
+
+
+;Email
+Ηλεκτρονικό ταχυδρομείο
+
+
+;Super speed
+Απίστευτη ταχύτητα
+
+
+;Stunning graphics
+Καταπληκτικά γραφικά
+
+
+;The latest technologies
+Όλες οι νέες τεχνολογίες
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+Χρειάζεστε αναβάθμιση! Σε λιγότερο από ένα λεπτό, μπορείτε να αυξήσετε την ασφάλεια σας. <br/> Χρησιμοποιήστε τον νέο σας Firefox για  να έχετε τις μεγαλύτερες δυνατότητες περιήγησης και προσαρμογής στον ιστό. <br/>  Γρήγορα και δωρεάν!
+
+
+;Upgrade now
+Αναβαθμίστε τώρα
+
+
+;Update now
+Ενημερώστε τώρα
+
+
+;Supported Devices
+Υποστηριζόμενες συσκευές
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+Νέα
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+Απόρρητο
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+Τμήματα του περιεχομένου ανήκουν σε μεμονωμένους συμμετέχοντες στην κοινότητα του mozilla.org ©1998–%(current_year)s. Το περιεχόμενο διατίθεται σύμφωνα με την <a href="%(url)s">άδεια Creative Commons</a>.
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+Συνεισφέρετε σ' αυτή την ιστοσελίδα
+
+
+# Footer string
+;Contribute to this page
+Συνεισφέρετε σ' αυτή τη σελίδα
+
+
+# Top menu item
+;Mission
+Η αποστολή μας
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+Ξενάγηση
+
+
+# Footer item
+;Partner with Us
+Συνεργαστείτε μαζί μας
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+Sync {ok}
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+Πρόσθετα για υπολογιστές
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+Πρόσθετα για Android
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+Θέματα
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+Υποστήριξη για υπολογιστές
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+Υποστήριξη για Android
+
+
+# Top menu item on firefox/update page
+;Performance
+Επιδόσεις
+
+
+# Top menu item on firefox/update page
+;Technology
+Τεχνολογία
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+Ιδιωτικό απόρρητο &amp; ασφάλεια
+
+
+# Top menu item on firefox/update page
+;Releases
+Εκδόσεις
+
+
+# Top menu item on firefox/update page
+;Firefox
+Firefox {ok}
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+Ο Firefox για οργανισμούς
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+Πρόσθετα για κινητά
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+Υποστήριξη για κινητά
+
+
+# Top menu item on firefox/update page
+;Blog
+Ιστολόγιο
+
+
+# Top menu item on firefox/update page
+;About Firefox
+Περί Firefox
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+συμμετέχετε στο έργο Mozilla
+
+
+# Top menu item on firefox/update page
+;Participate
+Πάρτε μέρος
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
+;Volunteer
+Συνεισφέρετε
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+Εργαλειοθήκη Οργανισμού
+
+
+# Top menu item on firefox/update page
+;Partnerships
+Συνεργασίες
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+Λάβετε ενημερώσεις από το έργο Mozilla
+
+
+# share button for social networks
+;Share
+Μοιραστείτε το
+
+
+# footer link
+;Mozilla on Twitter
+Mozilla στο Twitter
+
+
+# footer link
+;Firefox on Twitter
+Firefox στο Twitter
+
+
+# footer link
+;Mozilla on Facebook
+Mozilla στο Facebook
+
+
+# footer link
+;Firefox on Facebook
+Firefox στο Facebook
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+Φόρουμ
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Ηγεσία
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+Διακυβέρνηση
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+Η ιστορία μας
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+Τα προϊόντα μας
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+Λογισμικό και άλλες καινοτομίες σχεδιασμένες για τη προώθηση της αποστολής μας.
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+Γίνετε εθελοντής και συμβάλλετε σε διάφορους τομείς.
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+Μενού
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+Αφοσιωμένος σε εσάς, στην ιδιωτικότητά σας και στον ανοιχτό ιστό
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+Επιλέξτε την ανεξαρτησία
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Διατηρείστε το πάθος για ένα ελεύθερο και ανοιχτό διαδίκτυο ζωντανό! #ChooseIndependent. Επιλέξτε Firefox:
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+Παρακαλούμε ενεργοποιήστε την JavaScript για να προβάλετε αυτή τη σελίδα.
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+Χαρακτηριστικά Firefox
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+Βοήθεια Firefox
+
+
+;January
+Ιανουαρίου
+
+
+;February
+Φεβρουαρίου
+
+
+;March
+Μαρτίου
+
+
+;April
+Απριλίου
+
+
+;May
+Μαΐου
+
+
+;June
+Ιουνίου
+
+
+;July
+Ιουλίου
+
+
+;August
+Αυγούστου
+
+
+;September
+Σεπτεμβρίου
+
+
+;October
+Οκτωβρίου
+
+
+;November
+Νοεμβρίου
+
+
+;December
+Δεκεμβρίου
+
+
+;<abbr>Jan</abbr>
+<abbr>Ιαν</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>Φεβ</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>Μαρ</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>Απρ</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>Μαι</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>Ιον</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>Ιολ</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>Αυγ</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>Σεπ</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>Οκτ</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>Νοε</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>Δεκ</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Ο Firefox έρχεται σύντομα στο iOS! <a href="{url}">Εγγραφείτε για να μάθετε περισσότερα</a>.
+
+
+;Congrats. You’re up to date!
+Συγχαρητήρια. Έχετε την τελευταία έκδοση!
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+;Format
+Μορφή
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;Text
+Απλό κείμενο
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;HTML
+HTML {ok}
+
+
+# This is the error message displayed if you provide an invalid email address in a form
+;Whoops! Be sure to enter a valid email address.
+Βεβαιωθείτε ότι εισάγατε μια έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+Δέχομαι ότι το ίδρυμα Mozilla μπορεί να διαχειριστεί τις πληροφορίες μου όπως εξηγεί σ' αυτή την <a href="%s">πολιτική απορρήτου</a>
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Λάβετε τα νέα μας
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+ΤΟ EMAIL ΣΑΣ ΕΔΩ
+
+
+# Subscription Button
+;Sign me up
+Εγγραφή
+
+
+;Select country
+Επιλογή χώρας
+
+
+;Available Languages
+Διαθέσιμες γλώσσες
+
+
+;We will only send you Mozilla-related information.
+Θα σας στείλουμε μόνο νέα σχετιζόμενα με το έργο Mozilla.
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Σας ευχαριστούμε! Παρακαλούμε ελέγξτε την αλληλογραφία σας για να επιβεβαιώσετε τη συνδρομή σας.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Θα λάβετε ένα μήνυμα από τη διεύθυνση «mozilla@e.mozilla.org» για να επιβεβαιώσετε τη συνδρομή σας. Αν δεν το βρείτε, ελέγξτε τα φίλτρα ανεπιθύμητης αλληλογραφίας. Θα πρέπει να επιβεβαιώσετε τη συνδρομή σας για να σας στέλνουμε τα δελτία νέων μας.
+
+
+;Read all about it in our <span>newsletter</span>
+Διαβάστε περισσότερα στο <span>δελτίο νέων</span> μας.
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Γραφτείτε συνδρομητές στο μηνιαίο ενημερωτικό μας δελτίο και θα είστε πάντα ενημερωμένοι για τα νέα του Mozilla, όπως και τα για τα πιο σύγχρονα κόλπα και συμβουλές για να εκμεταλλεύεστε στο έπακρο τις δυνατότητες του Firefox. Είναι ο καλύτερος τρόπος για να είμαστε σε επικοινωνία!
+
+

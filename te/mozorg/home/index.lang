@@ -1,0 +1,297 @@
+## active ##
+## fx10_independent ##
+## gear_store ##
+## NOTE: demo server at https://www-dev.allizom.org/
+
+
+# Used as page title in HTML meta tag
+;We’re building a better Internet
+We’re building a better Internet
+
+
+# Used as page description in HTML meta tag
+;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
+Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
+
+
+;Home of the Mozilla Project
+మొజిల్లా ప్రాజెక్టు ముంగిలి
+
+
+;Read more
+మరింత చదవండి
+
+
+;Community
+సమాజం
+
+
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
+;Continue to mozilla.org
+mozilla.org కొనసాగించు
+
+
+;Discover <br>what drives our mission
+మా ఆశయాన్ని నడిపేదీ ఏదో <br>తెలుసుకోండి
+
+
+;See the principles <br>that guide everything <br>we do.
+మేం చేసే <br>ప్రతీ పనినీ నిర్దేశించే <br>నియమాలను చూడండి
+
+
+;Read the <br>Mozilla Manifesto
+మొజిల్లా మేనిఫెస్టోని <br>చదవండి
+
+
+;Mozilla Developer Network
+Mozilla Developer Network
+
+
+;10 years of documenting your Web.
+10 years of documenting your Web.
+
+
+;Celebrate with us
+Celebrate with us
+
+
+# Do no translate "Firefox Friends" (https://friends.mozilla.org)
+;Introducing <br>Firefox Friends
+Introducing <br>Firefox Friends
+
+
+;Join. Share. <br>Get rewarded.
+Join. Share. <br>Get rewarded.
+
+
+;Join Firefox Friends
+Join Firefox Friends
+
+
+# Small tile. Link points to https://advocacy.mozilla.org
+;Learn about Mozilla Advocacy
+Learn about Mozilla Advocacy
+
+
+;Understand your privacy online
+ఆన్‌లైనులో మీ అంతరంగికతను అర్థం చేసుకోండి
+
+
+;Download Firefox
+ఫైర్‌ఫాక్స్‌ను దించుకోండి
+
+
+;Introducing<br> the new Webmaker
+Introducing<br> the new Webmaker
+
+
+;Discover, create and share original content with the free Webmaker app.
+Discover, create and share original content with the free Webmaker app.
+
+
+;Learn more
+మరింత తెలుసుకోండి
+
+
+# This string is used on the little blue tile, see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach<br> the Web
+Teach<br> the Web
+
+
+;Make the Web you want
+Make the Web you want
+
+
+;Build a Web page or app in minutes<br> — no coding required.
+Build a Web page or app in minutes<br> — no coding required.
+
+
+;Become a Webmaker
+వెబ్‌మేకర్ అవ్వండి
+
+
+# This string is used as title on the big pink tile for locales that have not translated the new version above (Make the Web you want), see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach the Web
+జాలాన్ని నేర్పించండి
+
+
+;Let’s build a Web that’s open <br>and made by everyone.
+అందరూ తలో చెయ్యేసి తయారుచేసే <br>బహిరంగ జాలాన్ని నిర్మిద్దాం రండి.
+
+
+;Build an app <br>in seconds
+ఆప్స్‌ని క్షణాల్లో <br>తయారుచెయ్యండి
+
+
+;Volunteer <br>with Mozilla
+మొజిల్లా <br>ఔత్సాహికులవ్వండి
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Try Firefox Developer Edition
+Try Firefox Developer Edition
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Introducing Firefox Developer Edition
+ఫైర్‌ఫాక్స్ డెవలప్పర్ ఎడిషన్ ను పరిచయంచేస్తోంది
+
+
+;The only browser made only for developers.
+అభవృద్దికారుల కొరకు మాత్రమే చేసిన విహారణి.
+
+
+;Get Firefox Developer Edition
+ఫైర్‌ఫాక్స్ డెవలప్పర్ ఎడిషన్ పొందండి
+
+
+;Try the best Firefox yet
+అత్యుత్తమ ఫైర్‌ఫాక్స్‌ను ప్రయత్నించి చూడండి
+
+
+;Made with a mission to put you first.
+మిమ్మల్ని ముందుంచే ఆశయంతో తయారుచేయబడింది
+
+
+;Learn more about Firefox
+ఫైర్‌ఫాక్స్ గురించి మరింత తెలుసుకోండి
+
+
+;Put your Firefox on your Android
+మీ ఫైర్‌ఫాక్స్‌ను ఆండ్రాయిడ్‌లో వేసుకోండి
+
+
+;The features <br>you love. <br>The privacy <br>you trust.
+మీరు మెచ్చే <br>సౌలభ్యాలు. <br>మీరు నమ్మే <br>అంతరంగికత.
+
+
+;Learn about <br>Firefox for Android
+ఆండ్రాయిడ్ ఫైర్‌ఫాక్స్ <br>గురించి తెలుసుకోండి
+
+
+# Used in a small tile
+;Official Mozilla gear is here
+ఇవిగోండి అధికారిక మొజిల్లా వస్తువులు
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
+ఆశయం నిండిన వస్తువులు. <br>లక్ష్యం ఉన్న ఉత్పత్తులు. <br>మంచి చేసే సరుకులు.
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Get your Mozilla gear
+మొజిల్లా వస్తువులను పొందండి
+
+
+;Help Mozilla users
+మొజిల్లా వాడుకరులకు తోడ్పడండి
+
+
+;Help millions <br>get the most from their <br>favorite browser.
+లక్షలాది మంది <br>వారి అభిమాన విహారిణి నుండి <br> సాధ్యమైనంత పొందేలా తోడ్పడండి.
+
+
+;Join our support team
+మా తోడ్పాటు జట్టులో చేరండి
+
+
+# Used in Twitter feed
+;Reply
+స్పందించండి
+
+
+# Used in Twitter feed
+;Retweet
+రీట్వీటండి
+
+
+# <strong> tags below are for visual formatting only.
+;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
+<strong>మీకు, మీ అంతరంగితకు, బహిరంగ జాలానికి</strong> అంకితం
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;active Mozillians <br>worldwide
+క్రియాశీల మొజిల్లియన్లు <br>ప్రపంచవ్యాప్తంగా
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;upcoming events <br>around the globe
+రాబోయే కార్యక్రమాలు <br>భూగోళం చుట్టూతా
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;languages and counting, <br>on every continent
+భాషలు, ఇంకా పెరుగుతున్నాయి, <br>ప్రతీ ఖండం లోనూ
+
+
+;Get Involved with Mozilla today
+నేడే మొజిల్లాతో పాల్గొనండి
+
+
+;Upcoming events
+రాబోయే కార్యక్రమాలు
+
+
+;Next event
+తదుపరి కార్యక్రమం
+
+
+;See all events
+అన్ని కార్యక్రమాలనూ చూడండి
+
+
+;Compare prices, check the weather, listen to music, send a tweet and more right from Firefox.
+నేరుగా మీ ఫైర్‌ఫాక్స్ నుండే ధరలను పోల్చిచూసుకోండి, వాతావరణం తెలుసుకోండి, సంగీతం వినండి, ట్వీటండి.
+
+
+;Careers
+ఉద్యోగాలు
+
+
+;Learn about the benefits of working at Mozilla and view open positions around the world.
+మొజిల్లాలో పనిచేయడంలో ప్రయోజనాల గురించి తెలుసుకోండి మరియు ప్రపంచ వ్యాప్తంగా ఉన్న ఖాళీ స్థానాలను చూడండి.
+
+
+;Get answers to your questions about Firefox and all Mozilla products from our support team.
+ఫైర్‌ఫాక్స్ గురించీ ఇతర మొజిల్లా ఉత్పత్తుల గురించీ మీ సందేహాలకు సమాధానాలను మా తోడ్పాటు జట్టు నుండి పొందండి.
+
+
+;Discover more
+మరింత తెలుసుకోండి
+
+
+;Help us celebrate 10 years of Firefox.
+10 సంవత్సరాల ఫైర్‌ఫాక్స్ సంబరంలో మాకు సహాయపడండి.
+
+
+# Old promo tiles
+;Donate to Mozilla
+Donate to Mozilla
+
+
+;Your gift helps us build the Internet the world needs.
+Your gift helps us build the Internet the world needs.
+
+
+;Donate today
+Donate today
+
+
+;Meet<br> Firefox Hello
+Meet<br> Firefox Hello
+
+
+;The easiest way to connect for free over video.
+The easiest way to connect for free over video.
+
+
+;Try Firefox Hello
+Try Firefox Hello
+
+
+;Try the Thimble code editor
+Try the Thimble code editor
+
+

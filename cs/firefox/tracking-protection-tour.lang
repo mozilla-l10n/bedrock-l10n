@@ -1,0 +1,110 @@
+## active ##
+## NOTE: demo server available at https://www-demo2.allizom.org/firefox/42.0/tracking-protection/start/
+## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
+
+
+;How Tracking Protection works
+Jak Ochrana proti sledování funguje
+
+
+;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
+When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
+
+
+# Obsolete string (used for fx42 beta): do not remove
+;When the shield is visible, it means Firefox is actively blocking page elements that may track you.
+Je-li zobrazen štít, znamená to, že Firefox aktivně blokuje některé části stránky, které vás mohou sledovat.
+
+
+;1 of 3
+1 ze 3
+
+
+;Next
+Další
+
+
+;Differences to expect
+Jaké rozdíly očekávat
+
+
+;Some page areas may be missing, because they could allow third parties to track you across different websites.
+Some page areas may be missing, because they could allow third parties to track you across different websites.
+
+
+# Obsolete string (used for fx42 beta): do not remove
+;Some page areas may be missing because they can allow third-parties to track your browsing behavior.
+Některé součásti stránek mohou chybět, protože umožňují třetím stranám sledovat vaše chování při prohlížení.
+
+
+;2 of 3
+2 ze 3
+
+
+;Want to make changes?
+Chcete změnu?
+
+
+;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
+It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
+
+
+# Obsolete string (used for fx42 beta): do not remove
+;It’s easy to disable Tracking Protection for the website you’re on by clicking “Disable protection for this session”.
+Ochranu proti sledování můžete na stránce, kde právě jste, velmi snadno vypnout klepnutím na “Zakázat ochranu pro tuto relaci”.
+
+
+;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
+It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
+
+
+# Obsolete string (used for fx42 beta): do not remove
+;It’s easy to enable Tracking Protection for the website you’re on by clicking “Enable protection”.
+Ochranu proti sledování můžete na stránce, kde právě jste, velmi snadno zapnout klepnutím na “Povolit ochranu”.
+
+
+;3 of 3
+3 ze 3
+
+
+;Got it!
+Rozumím!
+
+
+;Private Browsing with Tracking Protection
+Private Browsing with Tracking Protection
+
+
+# Obsolete string (used for fx42 beta): do not remove
+;Firefox Tracking Protection
+Ochrana proti sledování ve Firefoxu
+
+
+# Link points to https://support.mozilla.org/kb/tracking-protection-pbm
+;Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a>
+Chcete tuto funkci vypnout? <a href="%s">Navštivte předvolby Soukromí</a>
+
+
+;Thanks for learning about the new Private Browsing with Tracking Protection.
+Thanks for learning about the new Private Browsing with Tracking Protection.
+
+
+# Obsolete string (used for fx42 beta): do not remove
+;Thanks for learning about the new Tracking Protection feature in Private Browsing Mode.
+Děkujeme, že jste si prohlédli informace o nové Ochraně proti sledování v režimu Anonymního prohlížení.
+
+
+# Link points to https://support.mozilla.org/kb/tracking-protection-pbm
+;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
+Zjistěte více, jak to funguje, na stránce s <a rel="external" href="%s">častými dotazy</a>.
+
+
+;Restart tour
+Restart tour
+
+
+# Obsolete string (used for fx42 beta): do not remove
+;Start the tour again
+Znovu spustit průvodce
+
+

@@ -1,0 +1,818 @@
+;Navigation
+주요 메뉴
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+데스크톱용
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+Android용
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+iOS용
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+운영체제
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+데스크톱과 랩톱용
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+전화기와 태블릿용
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+소개
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+신뢰
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+유연함
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+빠름
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+소개
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+기기
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+파트너
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+앱
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+추척 반대
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+타일
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+관심사 대시보드
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+개발자 버전
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+사생활 보호 브라우징
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+도움이 필요한가요?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+뉴스
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+개발자
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+내 기기 찾기
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+개발자
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+독립적인 브라우저 선택하기
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox는 영리를 추구하지 않고 회사도 아니며 타협하지도 않습니다. Firefox를 선택하는 일은 단순히 브라우저를 선택하는 일이 아닙니다. 개인의 자유에 대한 지지입니다.
+
+
+;Donate
+기부하기
+
+
+;Support
+도움말
+
+
+;Products
+제품
+
+
+;Add-ons
+부가 기능
+
+
+;About Us
+소개
+
+
+;Labs
+실험 프로젝트
+
+
+;skip to Navigation
+메뉴로 가기
+
+
+;switch language
+언어 변경
+
+
+;Back to home page
+홈페이지
+
+
+;About Mozilla
+Mozilla 소개
+
+
+;Get Involved
+참여하기
+
+
+;Careers
+Careers (영문)
+
+
+;Press Center
+보도자료
+
+
+;Contact Us
+연락처
+
+
+;Other languages:
+다른 언어:
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+%Y-%m-%d {ok}
+
+
+;Legal
+법률
+
+
+# Used as link in the footer
+;Cookies
+쿠키
+
+
+# Used as link in the footer
+;Firefox Affiliates
+Firefox 제휴
+
+
+;Legal Notices
+법적 고지 (영문)
+
+
+;Privacy Policy
+개인 정보 보호 정책 (영문)
+
+
+;Release Notes
+제품 소개서
+
+
+;Other Systems and Languages
+다른 운영체제 및 언어
+
+
+;Close
+닫기
+
+
+;(in English)
+(영문)
+
+
+;Return to top
+상위로
+
+
+;Features
+주요 기능
+
+
+;Customize
+부가 기능
+
+
+;Download
+다운로드
+
+
+;Previous
+이전
+
+
+;Next
+다음
+
+
+# MegaBytes abbreviation
+;MB
+MB {ok}
+
+
+;MegaBytes
+메가바이트
+
+
+;FAQ
+FAQ {ok}
+
+
+;Videos
+동영상
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+별도의 <a href="%s">고지</a>가 없는 한 본 웹 사이트 콘텐츠는<br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a>이상 버전에 따라 사용 가능합니다.
+
+
+;Report Trademark Abuse
+상표권 침해 신고 (영문)
+
+
+;Free Upgrade
+무료 업그레이드
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+팔로우
+
+
+;Customize with Add-ons
+부가기능으로 맞춤 서비스
+
+
+;Learn More
+더 자세히 보기
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+더 자세히 보기
+
+
+# Link used to play again an animation or a video
+;Replay
+다시 실행
+
+
+;Watch the video
+동영상 보기
+
+
+;Replay the video
+동영상 다시 재생
+
+
+;Share the video
+동영상 공유
+
+
+;WebM format
+WebM 형식
+
+
+;Ogg Theora format
+Ogg Theora 형식
+
+
+;MPEG-4 format
+MPEG-4 형식
+
+
+;Mobile
+모바일
+
+
+;Check out the new look and feel of Firefox.
+Firefox의 멋진 변화를 즐겨 보세요.
+
+
+;View Full Site
+전체 사이트 보기
+
+
+;Download for <span>Android</span>
+<span>Android</span>용 다운로드
+
+
+;Desktop
+데스크탑
+
+
+;Firefox Beta for mobile
+Firefox 모바일 베타
+
+
+;Firefox for mobile
+Firefox 모바일
+
+
+;Email
+이메일 주소
+
+
+;Super speed
+빠른 속도
+
+
+;Stunning graphics
+보다 멋진 그래픽 기술
+
+
+;The latest technologies
+최신 웹 기술
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+여러분은 업그레이드가 필요합니다. 금방 안전하게 업데이트 할 수 있습니다.<br/> 새로운 Firefox로 나 만의 맞춤형 웹 서핑을 즐겨 보세요.<br/> 더 빠르고 무료 입니다.
+
+
+;Upgrade now
+지금 업그레이드하기
+
+
+;Update now
+지금 업그레이드하기
+
+
+;Supported Devices
+지원 기기
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+새로운 기능
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+개인 정보 정책
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+©1998–%(current_year)s. 콘텐츠의 일부는 개별 mozilla.org 공헌자에게 저작권이 있습니다. 콘텐츠는 <a href="%(url)s">Creative Commons license</a>에 의해 사용할 수 있습니다.
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+사이트에 기여하기
+
+
+# Footer string
+;Contribute to this page
+이 페이지에 기여하기
+
+
+# Top menu item
+;Mission
+사명
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+기능 소개
+
+
+# Footer item
+;Partner with Us
+제휴하기
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+동기화
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+데스크탑 부가기능
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+Android 부가기능
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+테마
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+데스크탑 고객지원
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+Android 고객지원
+
+
+# Top menu item on firefox/update page
+;Performance
+성능
+
+
+# Top menu item on firefox/update page
+;Technology
+기술
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+개인정보 &amp; 보안
+
+
+# Top menu item on firefox/update page
+;Releases
+출시 현황
+
+
+# Top menu item on firefox/update page
+;Firefox
+Firefox {ok}
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+Firefox 기업용
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+모바일 부가기능
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+모바일 고객지원
+
+
+# Top menu item on firefox/update page
+;Blog
+블로그
+
+
+# Top menu item on firefox/update page
+;About Firefox
+Firefox 소개
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+Mozilla 참여
+
+
+# Top menu item on firefox/update page
+;Participate
+참여하기
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
+;Volunteer
+Volunteer
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+브랜드 툴킷
+
+
+# Top menu item on firefox/update page
+;Partnerships
+협력사
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+Mozilla 뉴스
+
+
+# share button for social networks
+;Share
+공유
+
+
+# footer link
+;Mozilla on Twitter
+Mozilla 트위터
+
+
+# footer link
+;Firefox on Twitter
+Firefox 트위터
+
+
+# footer link
+;Mozilla on Facebook
+Mozilla 페이스북
+
+
+# footer link
+;Firefox on Facebook
+Firefox 페이스북
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+포럼
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+리더쉽
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+구조
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+역사
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+제품
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+미션을 달성하기 위한 소프트웨어와 다른 혁신 제품
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+다양한 분야에 자원봉사로 참여하기
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+메뉴
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+개인정보 보호와 열린 웹을 위해서 만들어졌습니다
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+온라인 자유에 대한 선언
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+인터넷에서의 자유와 개방에 대한 열정이 불타오르게 해 주세요! #ChooseIndependent. Firefox를 사용하세요:
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+페이지가 올바르게 표시되려면 JavaScript 기능을 사용해야 합니다.
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+Firefox 주요 기능
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+Firefox 도움말
+
+
+;January
+1월
+
+
+;February
+2월
+
+
+;March
+3월
+
+
+;April
+4월
+
+
+;May
+5월
+
+
+;June
+6월
+
+
+;July
+7월
+
+
+;August
+8월
+
+
+;September
+9월
+
+
+;October
+10월
+
+
+;November
+11월
+
+
+;December
+12월
+
+
+;<abbr>Jan</abbr>
+<abbr>1월</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>2월</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>3월</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>4월</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>5월</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>6월</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>7월</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>8월</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>9월</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>10월</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>11월</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>12월</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox iOS가 준비중입니다! <a href="{url}">자세히 보기</a>
+
+
+;Congrats. You’re up to date!
+축하합니다. 최신 버전 입니다!
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+;Format
+형식
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;Text
+내용
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;HTML
+HTML
+
+
+# This is the error message displayed if you provide an invalid email address in a form
+;Whoops! Be sure to enter a valid email address.
+우왓! 메일 주소가 유효하지 않습니다.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+Mozilla가 <a href="%s">Privacy Policy</a>에 설명된 대로 나의 정보를 다루는 것에 동의합니다.
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Firefox 뉴스레터
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+이메일 주소 입력
+
+
+# Subscription Button
+;Sign me up
+등록하기
+
+
+;Select country
+국가 선택
+
+
+;Available Languages
+언어별
+
+
+;We will only send you Mozilla-related information.
+Mozilla 관련 정보를 보내 드립니다.
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+감사합니다. 메일함에 구독 확인 메일을 살펴봐 주세요.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+mozilla@e.mozilla.org로 부터 구독 확인 메일이 도착했을 것입니다. 스팸 필터에 들어가 있는지 확인해 보시기 바랍니다.
+
+
+;Read all about it in our <span>newsletter</span>
+<span>뉴스레터</span>에서 모두 읽기
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Mozilla에 관한 소식을 매월 보내 드립니다. Firefox 웹 브라우저 이용 팁이나 활용 방법 등도 포함되므로 도움이 되실 것입니다.
+
+

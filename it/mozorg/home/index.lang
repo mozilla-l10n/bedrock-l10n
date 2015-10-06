@@ -1,0 +1,304 @@
+## active ##
+## firefox_friends ##
+## fx10_independent ##
+## gear_store ##
+## mdn_10_years ##
+## meta_update_201503 ##
+## privacy_day ##
+## webmaker_promo_introducing ##
+## webmaker_promo_make ##
+## webmaker_promo_thimble ##
+## NOTE: demo server at https://www-dev.allizom.org/
+
+
+# Used as page title in HTML meta tag
+;We’re building a better Internet
+Stiamo creando un Internet migliore
+
+
+# Used as page description in HTML meta tag
+;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
+Lo sapevi? Mozilla — la società che sviluppa Firefox — si batte per mantenere Internet una risorsa pubblica aperta e accessibile a tutti.
+
+
+;Home of the Mozilla Project
+Pagina principale del progetto Mozilla
+
+
+;Read more
+Ulteriori informazioni
+
+
+;Community
+La comunità
+
+
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
+;Continue to mozilla.org
+Vai a mozilla.org
+
+
+;Discover <br>what drives our mission
+Scopri che cosa guida la nostra missione
+
+
+;See the principles <br>that guide everything <br>we do.
+Scopri gli ideali alla base di tutto ciò che facciamo.
+
+
+;Read the <br>Mozilla Manifesto
+Leggi il <br>manifesto Mozilla
+
+
+;Mozilla Developer Network
+Mozilla Developer Network {ok}
+
+
+;10 years of documenting your Web.
+Da 10 anni documentiamo il tuo Web.
+
+
+;Celebrate with us
+Festeggia con noi
+
+
+# Do no translate "Firefox Friends" (https://friends.mozilla.org)
+;Introducing <br>Firefox Friends
+Ti presentiamo <br>Firefox Friends
+
+
+;Join. Share. <br>Get rewarded.
+Unisciti. Condividi. <br>Guadagna punti.
+
+
+;Join Firefox Friends
+Unisciti a Firefox Friends
+
+
+# Small tile. Link points to https://advocacy.mozilla.org
+;Learn about Mozilla Advocacy
+Mozilla a favore dell’open Web
+
+
+;Understand your privacy online
+Comprendi il significato di privacy online
+
+
+;Download Firefox
+Scarica Firefox
+
+
+;Introducing<br> the new Webmaker
+Ti presentiamo<br> il nuovo Webmaker
+
+
+;Discover, create and share original content with the free Webmaker app.
+Scopri, crea e condividi contenuti originali grazie all’app gratuita Webmaker.
+
+
+;Learn more
+Ulteriori informazioni
+
+
+# This string is used on the little blue tile, see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach<br> the Web
+Insegna<br> il Web
+
+
+;Make the Web you want
+Crea il Web che desideri
+
+
+;Build a Web page or app in minutes<br> — no coding required.
+Realizza una pagina web o un’app in pochi istanti – senza scrivere codice.
+
+
+;Become a Webmaker
+Diventa un architetto del Web
+
+
+# This string is used as title on the big pink tile for locales that have not translated the new version above (Make the Web you want), see https://bug1182720.bmoattachments.org/attachment.cgi?id=8641181
+;Teach the Web
+Insegna il Web
+
+
+;Let’s build a Web that’s open <br>and made by everyone.
+Creiamo assieme un Web aperto e partecipativo.
+
+
+;Build an app <br>in seconds
+Crea un’app in pochi secondi
+
+
+;Volunteer <br>with Mozilla
+Collabora come volontario in Mozilla
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Try Firefox Developer Edition
+Prova Firefox Developer Edition
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Introducing Firefox Developer Edition
+Ti presentiamo Firefox Developer Edition
+
+
+;The only browser made only for developers.
+L’unico browser realizzato per gli sviluppatori.
+
+
+;Get Firefox Developer Edition
+Scarica Firefox Developer Edition
+
+
+;Try the best Firefox yet
+Prova il miglior Firefox di sempre
+
+
+;Made with a mission to put you first.
+La nostra missione: le persone al primo posto.
+
+
+;Learn more about Firefox
+Ulteriori informazioni su Firefox
+
+
+;Put your Firefox on your Android
+Installa Firefox sul tuo dispositivo Android
+
+
+;The features <br>you love. <br>The privacy <br>you trust.
+Le caratteristiche che ami. <br>La privacy <br>di cui ti fidi.
+
+
+;Learn about <br>Firefox for Android
+Ulteriori informazioni su Firefox per Android
+
+
+# Used in a small tile
+;Official Mozilla gear is here
+Il negozio ufficiale di Mozilla
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
+Articoli con una missione. <br>Prodotti con un obiettivo. <br>Beni che fanno bene.
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Get your Mozilla gear
+Acquista gli articoli firmati Mozilla
+
+
+;Help Mozilla users
+Aiuta gli utenti Mozilla
+
+
+;Help millions <br>get the most from their <br>favorite browser.
+Aiuta milioni di utenti a ottenere il massimo dal browser che amano.
+
+
+;Join our support team
+Entra a far parte del nostro team di supporto
+
+
+# Used in Twitter feed
+;Reply
+Rispondi
+
+
+# Used in Twitter feed
+;Retweet
+Retweet {ok}
+
+
+# <strong> tags below are for visual formatting only.
+;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
+Impegnato a favore <strong>delle persone</strong>, <strong>della privacy</strong> e dell’<strong>open Web</strong>
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;active Mozillians <br>worldwide
+Mozilliani attivi <br>nel mondo
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;upcoming events <br>around the globe
+Eventi internazionali <br>in programma
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;languages and counting, <br>on every continent
+Lingue in continuo aumento, <br>in ogni continente
+
+
+;Get Involved with Mozilla today
+Inizia a collaborare con Mozilla oggi stesso
+
+
+;Upcoming events
+Eventi in programma
+
+
+;Next event
+Il prossimo evento
+
+
+;See all events
+Scopri tutti gli eventi
+
+
+;Compare prices, check the weather, listen to music, send a tweet and more right from Firefox.
+Confronta prezzi, controlla il meteo, ascolta musica, twitta e molto altro direttamente da Firefox.
+
+
+;Careers
+Opportunità di lavoro
+
+
+;Learn about the benefits of working at Mozilla and view open positions around the world.
+Scopri i vantaggi di lavorare per Mozilla e dai un’occhiata alle posizioni aperte nel mondo.
+
+
+;Get answers to your questions about Firefox and all Mozilla products from our support team.
+Ricevi risposta alle tue domande su Firefox e sugli altri prodotti Mozilla dal nostro team di supporto.
+
+
+;Discover more
+Ulteriori informazioni
+
+
+;Help us celebrate 10 years of Firefox.
+Festeggia insieme a noi 10 anni di Firefox.
+
+
+# Old promo tiles
+;Donate to Mozilla
+Fai una donazione<br>a Mozilla
+
+
+;Your gift helps us build the Internet the world needs.
+Aiutaci a costruire l’Internet<br>di cui il mondo ha bisogno.
+
+
+;Donate today
+Dona oggi stesso
+
+
+;Meet<br> Firefox Hello
+Scopri<br> Firefox Hello
+
+
+;The easiest way to connect for free over video.
+Il sistema più semplice per connettersi in chat video gratuitamente.
+
+
+;Try Firefox Hello
+Prova Firefox Hello
+
+
+;Try the Thimble code editor
+Prova l’editor di testo Thimble
+
+

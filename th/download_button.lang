@@ -1,0 +1,84 @@
+## NOTE: Strings used in our download buttons. Test area: https://www-dev.allizom.org/styleguide/websites/sandstone/buttons/
+
+
+;Download Firefox
+ดาวน์โหลด Firefox
+
+
+;Your system doesn't meet the <a href="%(url)s">requirements</a> to run Firefox.
+ระบบของคุณไม่ตรงกับ<a href="%(url)s">ความต้องการ</a>ที่ให้ Firefox ใช้งานได้
+
+
+;<span>Firefox Beta</span> for Android
+<span>Firefox Beta</span> สำหรับ Android
+
+
+;<span>Firefox Aurora</span> for Android
+<span>Firefox Aurora</span> สำหรับ Android
+
+
+;<span>Firefox</span> for Android
+<span>Firefox</span> สำหรับ Android
+
+
+;Get it free on Google Play
+รับได้ฟรีบน Google Play
+
+
+;<span>Firefox</span> for iOS
+<span>Firefox</span> for iOS
+
+
+;Get it free from the App Store
+Get it free from the App Store
+
+
+;Firefox Beta
+Firefox Beta {ok}
+
+
+;Firefox Aurora
+Firefox Aurora {ok}
+
+
+;Free Download
+ดาวน์โหลดฟรี
+
+
+# Displayed in the download button for users of old versions of Firefox (should be short)
+;Update your Firefox
+Update your Firefox
+
+
+;Supported Devices
+อุปกรณ์ที่รองรับ
+
+
+;Get it on Google Play
+Get it on Google Play
+
+
+;Get Firefox for Android
+ติดตั้ง Firefox สำหรับ Android
+
+
+;Download on the App Store
+Download on the App Store
+
+
+;Get Firefox for iOS
+Get Firefox for iOS
+
+
+;What’s New
+มีอะไรใหม่
+
+
+;Privacy
+ความเป็นส่วนตัว
+
+
+;Systems &amp; Languages
+ระบบและภาษา
+
+

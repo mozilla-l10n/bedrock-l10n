@@ -1,0 +1,818 @@
+;Navigation
+Okik'amaya'l
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+<span>richin</span>Ajch'atal
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+<span>richin</span> Android
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+<span>richin</span> iOS
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+OS {ok}
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+For desktops &amp; laptops
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+For phones &amp; tablets
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+Chijun ri etamab'äl
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+Richin kuqub'äl k'u'x
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+Jalel
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+Aninäq
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+Chi rij ri
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+Taq okisaxel
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+Kichin achib'ilal
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+Taq chokoy
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+Do Not Track
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Tiles
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Interest Dashboard
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Developer Edition
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+Ichinan okem pa k'amaya'l
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+¿La nawajo' ato'ik?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+Taq rutzijol
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+Kichin ri b'anonela'
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Tikanöx ri wokisaxel
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+B'anonela'
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+Tacha' ri mama' okik'amaya'l
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+
+
+;Donate
+Tisipäx
+
+
+;Support
+To'ojri'ïl
+
+
+;Products
+Taq k'ayij
+
+
+;Add-ons
+Taq tz'aqat
+
+
+;About Us
+Chi qij röj
+
+
+;Labs
+tojtob'äl
+
+
+;skip to Navigation
+Tib'an b'enam pan okem pa k'amaya'l
+
+
+;switch language
+Tijalwachïx ch'ab'äl
+
+
+;Back to home page
+Titzolin pa ri ruxaq tikirib'äl
+
+
+;About Mozilla
+Achike ri Mozilla
+
+
+;Get Involved
+Kak'uluman
+
+
+;Careers
+Taq samaj
+
+
+;Press Center
+Ruk'ojlib'al laq'apub'äl
+
+
+;Contact Us
+Rub'i' achib'il
+
+
+;Other languages:
+Ch'aqa' chik ch'ab'äl:
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+%Y-%m-%d {ok}
+
+
+;Legal
+Taqanel rutzijol
+
+
+# Used as link in the footer
+;Cookies
+Taq kuki
+
+
+# Used as link in the footer
+;Firefox Affiliates
+Firefox Affiliates {ok}
+
+
+;Legal Notices
+Taqanel rutzijol
+
+
+;Privacy Policy
+Ichinan na'oj
+
+
+;Release Notes
+Ruch'utitzijol re ruwäch re'
+
+
+;Other Systems and Languages
+Ch'aqa' chik taq ch'ab'äl chuqa' taq q'inoj
+
+
+;Close
+Titz'apïx
+
+
+;(in English)
+(pa Q'anchi')
+
+
+;Return to top
+Tib'an b'enam pa rutikirib'al
+
+
+;Features
+Taq b'anikil
+
+
+;Customize
+Tichinäx
+
+
+;Download
+Tiqasäx
+
+
+;Previous
+Chuwäch
+
+
+;Next
+Jun chik
+
+
+# MegaBytes abbreviation
+;MB
+MB {ok}
+
+
+;MegaBytes
+Megabytes
+
+
+;FAQ
+FAQ {ok}
+
+
+;Videos
+Taq silowachib'äl
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+Xa xe we niya' retal <a href="%s">jun chik wi</a>, ri k'o chupam re ruxaq ajk'amaya'l re' ya'on ruq'ij achi'el<br /><a href="%s">Creative Commons Rub'anikil-ya'öl q'ij junam v3.0</a> o jotöl chuwäch.
+
+
+;Report Trademark Abuse
+Taya' rutzijol tz'ilanem taq kokisaxik ri retal taq b'i'aj
+
+
+;Free Upgrade
+Sipan k'exoj ruwäch
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+Kojawojqaj pa:
+
+
+;Customize with Add-ons
+Tawichinaj rik'in taq tz'aqat
+
+
+;Learn More
+Tawetamaj ch'aqa' chik
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+Tawetamaj ch'aqa' chik
+
+
+# Link used to play again an animation or a video
+;Replay
+Titzij
+
+
+;Watch the video
+Titz'et ri silowachib'äl
+
+
+;Replay the video
+Takamuluj ri silowachib'äl
+
+
+;Share the video
+Takomonij ri silowachib'äl
+
+
+;WebM format
+WebM rub'anikil
+
+
+;Ogg Theora format
+Ogg Theora rub'anikil
+
+
+;MPEG-4 format
+MPEG-4 rub'anikil
+
+
+;Mobile
+Oyonib'äl
+
+
+;Check out the new look and feel of Firefox.
+Tanik'oj ri k'ak'a' niwachin Firefox.
+
+
+;View Full Site
+Titz'et chi tz'aqät ruxaq k'amaya'l
+
+
+;Download for <span>Android</span>
+Taqasaj richin<span>Android</span>
+
+
+;Desktop
+Ajch'atal
+
+
+;Firefox Beta for mobile
+Firefox Beta kichin taq oyonib'äl
+
+
+;Firefox for mobile
+Firefox kichin taq oyonib'äl
+
+
+;Email
+Taqoya'l
+
+
+;Super speed
+Nimaläj ranin
+
+
+;Stunning graphics
+Mayel taq wachib'äl
+
+
+;The latest technologies
+Ri ruk'isib'al taq na'ojb'anem
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+¡Nawajo' nak'ëx ruwäch! Tajikib'a' awi' pa jun ch'utiramaj. <br/> Tachapa' rokisaxik ri k'ak'a' Afirefox richin jun utziläj okem pa k'amaya'l chuqa' richinaxik ri ajk'amaya'l. <br/>   ¡Aninäq chuqa' sipan!
+
+
+;Upgrade now
+Tak'exa' ruwäch wakami
+
+
+;Update now
+Tak'exa' ruwäch wakami
+
+
+;Supported Devices
+K'amonel taq okisaxel
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+Achike natzijoj
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+Ichinanem
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+Jujun taq rupam e ©1998–%(current_year)s  kuma ri taq ruto'onela' mozilla.org. Wachel rupam rik'in ri ya'öl q'ij <a href="%(url)s">Creative Commons</a>.
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+Kato'on pa re ruxaq re'
+
+
+# Footer string
+;Contribute to this page
+Kato'on pa re ruxaq re'
+
+
+# Top menu item
+;Mission
+Taqel taqonem
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+K'astanem
+
+
+# Footer item
+;Partner with Us
+Katok qachib'il
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+Ximïl
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+Taq rutz'aqat ajch'atal
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+Taq rutz'aqat Android
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+Taq wachinel
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+Rutemeb'al Ajch'atal
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+Rutemeb'al Android
+
+
+# Top menu item on firefox/update page
+;Performance
+Rub'eyal nisamäj
+
+
+# Top menu item on firefox/update page
+;Technology
+na'ojb'anem
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+Ichinanem chuqa' ch'ajinem
+
+
+# Top menu item on firefox/update page
+;Releases
+Taq eltzijol
+
+
+# Top menu item on firefox/update page
+;Firefox
+Firefox {ok}
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+Firerox kichin taq moloj
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+Taq kitz'aqat oyonib'äl
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+Rutemeb'al Mozilla
+
+
+# Top menu item on firefox/update page
+;Blog
+Ichinya'l
+
+
+# Top menu item on firefox/update page
+;About Firefox
+Chi rij Firefox
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+Tatunu' awi' rik'in Mozilla
+
+
+# Top menu item on firefox/update page
+;Participate
+Kato'on
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
+;Volunteer
+Katok ajk'u'x
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+Retamawuj retal b'i'aj
+
+
+# Top menu item on firefox/update page
+;Partnerships
+Taq ichinmoloj
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+Ke'ak'ulu' k'exoj ruwäch richin Mozilla
+
+
+# share button for social networks
+;Share
+Tikomonïx
+
+
+# footer link
+;Mozilla on Twitter
+Mozilla pa Twitter
+
+
+# footer link
+;Firefox on Twitter
+Firefox pa Twitter
+
+
+# footer link
+;Mozilla on Facebook
+Mozilla pa Facebook
+
+
+# footer link
+;Firefox on Facebook
+Firefox pa Facebook
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+Taq Molna'oj
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Leadership
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+Chanpomanem
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+Mujal
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+Ri taq qak'ayij
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+Kema' chuqa' ch'aqa' chik wachib'en taq jalatajinem richin niqaq'i' apo ri qataqel taqanem.
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+Katok jun ajk'u'x to'onel pa jalajöj rupam.
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+K'utüy samaj
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+Qaya'on qatzij chawe, rik'in ri awichinaxik chuqa' rik'in jun jaqäl k'amab'ey
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+Tacha' chi at alajk'aslem
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+¡Tik'oje' chak'u'x ri ajowab'äl ruma jun alaj chuqa' jaqäl, k'aqatiläj chuqa' ch'ich'anel k'amaya'l! #ChooseIndependent. Tacha' Firefox:
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+Tatz'ija' JavaScript  chi ütz natz'ët re ruxaq re'.
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+Taq rub'anikil Firefox
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+Ruto'ik Firefox
+
+
+;January
+Nab'ey ik'
+
+
+;February
+Ruka'n ik'
+
+
+;March
+Rox ik'
+
+
+;April
+Rukaj ik'
+
+
+;May
+Ro' ik'
+
+
+;June
+Ruwaq ik'
+
+
+;July
+Ruwuq ik'
+
+
+;August
+Ruwaqxaq ik'
+
+
+;September
+Rub'elej ik'
+
+
+;October
+Rulaj ik'
+
+
+;November
+Rujulaj ik'
+
+
+;December
+Rukab'laj ik'
+
+
+;<abbr>Jan</abbr>
+<abbr>Nab'ik'</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>Ka'ik'</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>Oxik'</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>Kajik'</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>O'ik'</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>Waqik'</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>Wuqik'</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>Waqxaqik'</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>B'elejik'</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>Lajik'</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>Julajik'</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>kab'lajik'</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+¡Nuqa yan Firefox richin iOS! <a href="{url}">Tatz'ib'aj ab'i' richin nawetamaj ch'aqa' chik</a>.
+
+
+;Congrats. You’re up to date!
+Kakikot. ¡Ütz atb'enäq q'ij q'ij!
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+;Format
+B'anikil
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;Text
+Rucholajem tzij
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;HTML
+HTML
+
+
+# This is the error message displayed if you provide an invalid email address in a form
+;Whoops! Be sure to enter a valid email address.
+¡Uy! Tatz'eta' chi natz'ib'aj jun ütz chi taqoya'l.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+Ütz niwachin chi nuwäch chi ri Mozilla nuk'wab'ej ri nutzijol achi'el niq'alajisäx pa<a href="%s">re ichinan na'oj re'</a>
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Ke'ak'ulu' taq rutzijol pa ruwi' Firefox
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+ATAQOYA'L WAWE'
+
+
+# Subscription Button
+;Sign me up
+¡Titz'ib'äx nub'i'!
+
+
+;Select country
+Tacha' jun amaq'
+
+
+;Available Languages
+Wachel taq ch'ab'äl
+
+
+;We will only send you Mozilla-related information.
+Xa xe xtiqatäq el chawe taq etamab'äl chi rij Mozilla.
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+¡Niqak'awomaj! Tab'ana' utzil, tanik'oj ri ruyaktaqoj ataqoya'l richin najikib'a' ri rutz'ib'axik ab'i'.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Xtak'ül jun rutaqoya'l Mozilla@e.mozilla.org richin rujikib'axik ri rutz'ib'axik ab'i'. We man natz'ët ta, tanik'oj ri ruchayub'al seq'tzijol. Rajowaxik najikib'a' ri rutz'ib'axik ab'i' richin nak'ül ri qa ko'öl wuj
+
+
+;Read all about it in our <span>newsletter</span>
+Xqatäq jun jikel rutzijol chawe pa taqoya'l. Tapitz'a' pa ri ruximonel jikib'anem richin naya' q'ij chi re ri rutz'ib'axik ab'i' pa re rucholb'al taqoya'l re'.
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Tatz'ib'aj ab'i' richin ye'ak'ül ajik' taq k'exoj chuqa' nawetamaj q'ij q'ij chi rij ri k'ak'a' k'o chupam ri Firefox, nitz'aqatisäx pe ri ruk'isib'al taq q'oloj chuqa' taq pixa' richin ütz rub'eyal nawokisaj ri Firefox. ¡Ja re' jun jeb'ël rub'eyal richin yojk'oje' junam jantape' awik'in!
+
+

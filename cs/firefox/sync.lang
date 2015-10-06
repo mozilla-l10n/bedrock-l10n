@@ -1,0 +1,221 @@
+## active ##
+## firefox_sync_non_fx ##
+## fx38_sync_updates ##
+## ios_announce ##
+## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
+
+
+;Keep your Firefox in sync
+Synchronizujte svůj Firefox
+
+
+;Ready, Set, Sync
+Připravte se, pozor, synchronizujeme
+
+
+;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
+Jste přihlášení a máte možnosti si vzít <em>svůj</em> Firefox kamkoliv a kdykoliv.
+
+
+;Take your Web with you
+Vezměte si svůj web s sebou
+
+
+;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
+Synchronizujte si Firefox a mějte tak kdekoliv přístup ke svým záložkám, heslům či panelům z telefonu, tabletu či počítače.
+
+
+;Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
+Synchronizujte své záložky, hesla, panely a další s použítím účtu Firefox a mějte k nim přístup kdekoliv budete přihlášeni.
+
+
+;It looks like you’re running an older version of Firefox.
+Zdá se, že používáte starší verzi Firefoxu.
+
+
+;The new version of Sync only works with the latest version of Firefox
+Nová verze služby Sync funguje pouze s poslední verzí Firefoxu.
+
+
+;Soon you’ll be able to use Sync on your iOS device
+Brzy budete moci Sync využívat na svém zařízení s iOS
+
+
+;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
+Synchronizace je jen jednou z významných funkcí, které získáte jen s Firefoxem. Objevte je všechny!
+
+
+# This string is displayed when you visit the page with a different browser (i.e. not Firefox)
+;Sync is just one of the great features you’ll only get with Firefox.
+Sync je pouze jedna ze skvělých funkcí, které s Firefoxem získáte.
+
+
+;Download Firefox for Android
+Stáhnout Firefox pro Android
+
+
+;Get started with Sync
+Začít se Sync
+
+
+;Update your Firefox
+Aktualizovat Firefox
+
+
+;Download Firefox
+Stáhnout Firefox
+
+
+;Get started with Sync in four easy steps:
+Začněte používat Sync za pomocí 4 jednoduchých kroků:
+
+
+# You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
+# If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
+;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Otevřete <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_zjednoduaaenae-hlavnag-rozhranag">nabídku</a> v pravém horním rohu Firefoxu a zvolte “<strong>Přihlášení k Sync.</strong>”
+
+
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Get started</strong>” in the tab that opens.
+V panelu, který se otevře, klepněte na “<strong>Začít</strong>”.
+
+
+# (NEW STRING) <strong> tags used for font color formatting.
+;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Vložte e-mailovou adresu a heslo do formuláře “<strong>Vytvořit Účet Firefox.</strong>”
+
+
+# (NEW STRING) <strong> tags used for font color formatting.
+;Click “<strong>Next</strong>” to get a verification sent to your email.
+Pro ověření svého e-mailu klepněte na “<strong>Další</strong>”.
+
+
+;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+Poté zkontrolujte svůj e-mail a klepněte na odkaz pro ověření. Nyní je vše hotovo! Firefox se začne na pozadí automaticky synchronizovat.
+
+
+;Get more detailed instructions.
+Získat podrobnější návod.
+
+
+;Using an older version of Sync?
+Používáte starou verzi Sync?
+
+
+# This string is displayed on Android devices
+;How to set up Sync in five easy steps:
+Jak nastavit Sync v 5 jednoduchých krocích:
+
+
+# <strong> tags below used for font color formatting.
+# This string is displayed on Android devices
+;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+Klepněte na tlačítko <strong>Nabídka</strong> (buď pod displayem nebo v pravém horním rohu prohlížeče).
+
+
+# This string is displayed on Android devices
+;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+Zvolte <strong>Nastavení</strong> (budete muset nejprve klepnout na <strong>Více</strong>).
+
+
+# This string is displayed on Android devices
+;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+Klepněte na <strong>Sync</strong>, a poté na <strong>Začít</strong>.
+
+
+# This string is displayed on Android devices
+;The <strong>Create a Firefox Account page</strong> will open in a new tab.
+Stránka <strong>Vytvořit nový Účet Firefox</strong> se otevře v novém panelu.
+
+
+# This string is displayed on Android devices
+;Fill out the form and click <strong>Next</strong>.
+Vyplňte formuláře a klepněte na <strong>Další</strong>.
+
+
+# This string is displayed on Android devices
+;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+Poté, co si zkontrolujte svůj e-mail a klepnete na odkaz pro ověření, budete připraveni začít! Nezapomeňte připojit všechny své další zařízení, abyste ze služby Sync získali maximum.
+
+
+;Sync a little. Sync a lot.
+Synchronizujte málo. Synchronizujte hodně.
+
+
+;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
+Vy si zvolíte, které části svého Firefoxu chcete synchronizovat a kde je chcete synchronizovat. Vezměte si své otevřené panely tam, kde se každý den nacházíte. Přistupujte ke svým záložkám v práci. Cokoliv, kdekoliv, všude.
+
+
+;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
+Chcete navštívit své otevřené panely v jiném zařízení? Přistupovat k historii prohlížení na cestách? Mít svá hesla vždy s sebou? Nyní můžete.
+
+
+;Here’s what you can sync:
+Zde je vše co můžete synchronizovat:
+
+
+;Bookmarks
+Záložky
+
+
+;Passwords
+Hesla
+
+
+;Open tabs
+Otevřené panely
+
+
+;History
+Historie
+
+
+;At home
+Doma
+
+
+;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+Přesuňte se od svého pracovního stolu na gauč bez nutnosti začínat znovu. Přistupujte ke svým otevřeným panelům na telefonu nebo mějte své záložky dostupné přímo na tabletu.
+
+
+;At work
+V práci
+
+
+;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
+Zůstaňte připojeni ke všem svým důležitým informacím. Synchronizujte hesla a záložky, ke kterým budete potřebovat přistupovat kdekoliv. A přesně jako u Firefoxu, je to bezpečné jak jen může být.
+
+
+;On the go
+Na cestách
+
+
+;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+Držte krok se svými oblíbenými stránkami nebo ukončete příběh, který jste začali doma — bez ohledu na to, kde jste. Se službou Sync to nikdy nebylo jednodušší.
+
+
+;Add Firefox to your smartphone or tablet
+Přidejte Firefox na váš smartphone nebo tablet
+
+
+;To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
+Chcete-li využít plný potenciál synchronizace, získejte Firefox pro iOS nebo Android a připojte všechná svá zařízení — všude a kdekoliv můžete používat Firefox.
+
+
+;Add Firefox
+Přidat Firefox
+
+
+;Have an <b>Android smartphone</b> or <b>tablet</b>?
+Máte <b>telefon s Androidem</b> nebo <b>tablet</b>?
+
+
+;DOWNLOAD FIREFOX FOR ANDROID
+STÁHNOUT FIREFOX PRO ANDROID
+
+
+;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+Pro získání plnohodnotného zážitku se službou Sync si vezměte svůj web s sebou kdekoliv používáte Firefox. Připojte svůj telefon, tablet, počítač či notebook.
+
+

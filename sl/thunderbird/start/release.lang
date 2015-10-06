@@ -1,0 +1,82 @@
+## active ##
+## NOTE: Thunderbird start page,  url is https://www-dev.allizom.org/thunderbird/release/start/
+
+
+;Welcome to <span>Thunderbird</span>
+Dobrodošli v <span>Thunderbirdu</span>
+
+
+;Happy 10th Birthday Thunderbird!
+Thunderbird praznuje 10. obletnico. Vse najboljše!
+
+
+;Mozilla announced Thunderbird version 1.0 ten years ago. Can you imagine the last ten years without e-mail? Can you imagine e-mail without Thunderbird? We can’t!
+Mozilla je najavila Thunderbirdovo različico 1.0 pred desetimi leti. Ali si lahko predstavljate zadnjih deset let brez e-pošte? Kaj pa e-pošto brez Thunderbirda? Mi si tega ne moremo predstavljati!
+
+
+;Contribute to Thunderbird
+Prispevajte k Thunderbirdu
+
+
+;To ensure that Thunderbird continues to improve, as it has for the last ten years, active contributors <a href="%s">recently organized</a> to focus on the future.
+Da zagotovijo Thunderbirdove nadaljnje izboljšave kot v zadnjih desetih letih, so se aktivni sodelavci <a href="%s">nedavno zbrali</a>, da se osredotočijo na prihodnost.
+
+
+;Now is a great time for you to <a href="%s" class="iconic">get involved</a>.
+Zdaj je pravi čas, da <a href="%s" class="iconic">se pridružite</a>.
+
+
+;Please help us assist users of Thunderbird, and improve the Thunderbird product and eco-system.
+Prispevajte pri pomoči Thunderbirdovim uporabnikom, in izboljšajte Thunderbird in ekosistem.
+
+
+;We look forward to <a href="%s">hearing from you</a>.
+Veselimo se <a href="%s">vaše pomoči</a>.
+
+
+;Learn more
+Več o tem
+
+
+;Need Support?
+Potrebujete pomoč?
+
+
+;Most Thunderbird support questions are answered on the <a href="%s">Knowledge Base</a>.
+Večino pomoči za Thunderbird najdete v <a href="%s">Bazi znanja</a>.
+
+
+;If you can’t find an answer, <a href="%s">ask your question on our support forum</a>.
+Če ne najdete odgovora, <a href="%s">vprašajte na forumu za podporo</a>.
+
+
+# If your locale has a dedicated Thunderbird support forum, you can localize the URL
+# used in the previous string to point there. Otherwise simply mark the string as {ok}
+;https://support.mozilla.org/questions/new/thunderbird
+https://support.mozilla.org/questions/new/thunderbird {ok}
+
+
+;Features
+Možnosti
+
+
+;Visit our blog
+Obiščite naš blog
+
+
+;Contribute
+Prispevajte
+
+
+;Tips
+Namigi
+
+
+;Add-ons
+Dodatki
+
+
+;Get help
+Pomoč
+
+

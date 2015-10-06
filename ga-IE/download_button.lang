@@ -1,0 +1,84 @@
+## NOTE: Strings used in our download buttons. Test area: https://www-dev.allizom.org/styleguide/websites/sandstone/buttons/
+
+
+;Download Firefox
+Íosluchtaigh Firefox
+
+
+;Your system doesn't meet the <a href="%(url)s">requirements</a> to run Firefox.
+Ní chomhlíonann do chóras <a href="%(url)s">na riachtanais</a> chun Firefox a úsáid.
+
+
+;<span>Firefox Beta</span> for Android
+<span>Firefox Béite</span> ar Android
+
+
+;<span>Firefox Aurora</span> for Android
+<span>Firefox Aurora</span> ar Android
+
+
+;<span>Firefox</span> for Android
+<span>Firefox</span> ar Android
+
+
+;Get it free on Google Play
+Saor in aisce ó Google Play
+
+
+;<span>Firefox</span> for iOS
+<span>Firefox</span> ar iOS
+
+
+;Get it free from the App Store
+Saor in aisce ón App Store
+
+
+;Firefox Beta
+Firefox Béite
+
+
+;Firefox Aurora
+Firefox Aurora {ok}
+
+
+;Free Download
+Íosluchtú Saor in Aisce
+
+
+# Displayed in the download button for users of old versions of Firefox (should be short)
+;Update your Firefox
+Nuashonraigh Firefox
+
+
+;Supported Devices
+Gléasanna
+
+
+;Get it on Google Play
+Faigh ó Google Play é
+
+
+;Get Firefox for Android
+Faigh Firefox ar Android
+
+
+;Download on the App Store
+Íosluchtaigh ón App Store
+
+
+;Get Firefox for iOS
+Faigh Firefox ar iOS
+
+
+;What’s New
+Gnéithe Nua
+
+
+;Privacy
+Príobháideachas
+
+
+;Systems &amp; Languages
+Córais &amp; Teangacha
+
+

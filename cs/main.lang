@@ -1,0 +1,818 @@
+;Navigation
+Navigace
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+<span>pro</span> Desktop
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+<span>pro</span> Android
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+<span>pro</span> iOS
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+OS {ok}
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+Pro desktop a notebooky
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+Pro telefony a tablety
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+Přehled
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+Spolehlivý
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+Flexibilní
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+Rychlý
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+O nás
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+Zařízení
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+Pro partnery
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+Aplikace
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+Do Not Track {ok}
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Dlaždice
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Nástěnka zájmů
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Edice pro vývojáře
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+Anonymní prohlížení
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+Potřebujete pomoci?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+Novinky
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+Pro vývojáře
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Nalézt mé zařízení
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+Vývojáři
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+Zvolte si nezávislý prohlížeč
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox je neziskový, komunitní a nezávislý. Volba Firefoxu není pouze volbou webového prohlížeč. Je to hlas osobní svobody.
+
+
+;Donate
+Přispějte
+
+
+;Support
+Podpora
+
+
+;Products
+Produkty
+
+
+;Add-ons
+Doplňky
+
+
+;About Us
+O nás
+
+
+;Labs
+Labs {ok}
+
+
+;skip to Navigation
+Skočit na navigaci
+
+
+;switch language
+Přepnout jazyk
+
+
+;Back to home page
+Titulní stránka
+
+
+;About Mozilla
+O Mozille
+
+
+;Get Involved
+Zapojte se
+
+
+;Careers
+Kariéra
+
+
+;Press Center
+Tiskové centrum
+
+
+;Contact Us
+Kontaktujte nás
+
+
+;Other languages:
+Další jazyky:
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+%d.%m.%Y
+
+
+;Legal
+Právní informace
+
+
+# Used as link in the footer
+;Cookies
+Cookies {ok}
+
+
+# Used as link in the footer
+;Firefox Affiliates
+Firefox Affiliates {ok}
+
+
+;Legal Notices
+Právní informace
+
+
+;Privacy Policy
+Zásady ochrany soukromí
+
+
+;Release Notes
+Poznámky k vydání
+
+
+;Other Systems and Languages
+Ostatní systémy a jazyky
+
+
+;Close
+Zavřít
+
+
+;(in English)
+(v angličtině)
+
+
+;Return to top
+Zpět nahoru
+
+
+;Features
+Vlastnosti
+
+
+;Customize
+Přizpůsobení
+
+
+;Download
+Stáhnout
+
+
+;Previous
+Předchozí
+
+
+;Next
+Další
+
+
+# MegaBytes abbreviation
+;MB
+MB {ok}
+
+
+;MegaBytes
+Megabajtů
+
+
+;FAQ
+FAQ {ok}
+
+
+;Videos
+Videa
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+Pokud není <a href="%s">řečeno</a> jinak, je obsah na tomto serveru licencován pod <br /><a href="%s">Creative Commons Attribution Share-Alike License v. 3.0</a> či jakoukoliv novější verzí.
+
+
+;Report Trademark Abuse
+Nahlásit zneužití ochranné známky
+
+
+;Free Upgrade
+Aktualizace zdarma
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+Sledujte nás na:
+
+
+;Customize with Add-ons
+Přizpůsobení doplňky
+
+
+;Learn More
+Dozvědět se více
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+Dozvědět se více
+
+
+# Link used to play again an animation or a video
+;Replay
+Přehrát znovu
+
+
+;Watch the video
+Zhlédnout video
+
+
+;Replay the video
+Přehrát video
+
+
+;Share the video
+Sdílet video
+
+
+;WebM format
+Formát WebM
+
+
+;Ogg Theora format
+Formát Ogg Theora
+
+
+;MPEG-4 format
+Formát MPEG-4
+
+
+;Mobile
+Mobily
+
+
+;Check out the new look and feel of Firefox.
+Podívejte se na nový svěží vzhled Firefoxu.
+
+
+;View Full Site
+Zobrazit celou stránku
+
+
+;Download for <span>Android</span>
+Stáhnout pro <span>Android</span>
+
+
+;Desktop
+Desktop {ok}
+
+
+;Firefox Beta for mobile
+Firefox Beta pro mobily
+
+
+;Firefox for mobile
+Firefox pro mobily
+
+
+;Email
+E-mail
+
+
+;Super speed
+Super rychlost
+
+
+;Stunning graphics
+Úžasná grafika
+
+
+;The latest technologies
+Nejnovější technologie
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+Potřebujete aktualizovat! Bezpečí získáte za méně než minutu. <br/>  Začněte používat nejnovější Firefox pro nejlepší prohlížení a přizpůsobení webu. <br/> Je rychlý a je zdarma!
+
+
+;Upgrade now
+Aktualizujte
+
+
+;Update now
+Aktualizujte
+
+
+;Supported Devices
+Podporovaná zařízení
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+Co je nového
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+Soukromí
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+Části tohoto obsahu jsou ©1998–%(current_year)s jednotlivými přispěvateli mozilla.org. Obsah je dostupný pod <a href="%(url)s">licencí Creative Commons</a>.
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+Přispět k této stránce
+
+
+# Footer string
+;Contribute to this page
+Přispět k této stránce
+
+
+# Top menu item
+;Mission
+Mise
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+Průvodce
+
+
+# Footer item
+;Partner with Us
+Partnerství s námi
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+Sync {ok}
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+Doplňky pro desktop
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+Doplňky pro Android
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+Motivy
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+Podpora pro desktop
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+Podpora pro Android
+
+
+# Top menu item on firefox/update page
+;Performance
+Výkon
+
+
+# Top menu item on firefox/update page
+;Technology
+Technologie
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+Soukromí a zabezpečení
+
+
+# Top menu item on firefox/update page
+;Releases
+Vydání
+
+
+# Top menu item on firefox/update page
+;Firefox
+Firefox {ok}
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+Firefox pro organizace
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+Doplňky pro mobily
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+Podpora pro mobily
+
+
+# Top menu item on firefox/update page
+;Blog
+Blog {ok}
+
+
+# Top menu item on firefox/update page
+;About Firefox
+O Firefoxu
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+Připojení k Mozille
+
+
+# Top menu item on firefox/update page
+;Participate
+Zapojte se
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
+;Volunteer
+Zapojte se
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+Brand Toolkit {ok}
+
+
+# Top menu item on firefox/update page
+;Partnerships
+Partnerství
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+Informovat o aktualizacích
+
+
+# share button for social networks
+;Share
+Sdílet
+
+
+# footer link
+;Mozilla on Twitter
+Mozilla na Twitteru
+
+
+# footer link
+;Firefox on Twitter
+Firefox na Twitteru
+
+
+# footer link
+;Mozilla on Facebook
+Mozilla na Facebooku
+
+
+# footer link
+;Firefox on Facebook
+Firefox na Facebooku
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+Fóra
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Vedení
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+Vláda
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+Historie
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+Naše produkty
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+Software a další inovace jsou navrženy tak, aby byly v souladu s naší misí.
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+Zapojte se do našeho projektu. Existuje řada oblastí, kde můžete pomoci.
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+Nabídka
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+Připraven pro vás, vaše soukromí a otevřený web
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+Zvolte nezávislost
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Zvolte Firefox:
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+Zapněte si prosím JavaScript pro správné zobrazení této stránky.
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+Vlastnosti Firefoxu
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+Nápověda k Firefoxu
+
+
+;January
+Leden
+
+
+;February
+Únor
+
+
+;March
+Březen
+
+
+;April
+Duben
+
+
+;May
+Květen
+
+
+;June
+Červen
+
+
+;July
+Červenec
+
+
+;August
+Srpen
+
+
+;September
+Září
+
+
+;October
+Říjen
+
+
+;November
+Listopad
+
+
+;December
+Prosinec
+
+
+;<abbr>Jan</abbr>
+<abbr>Led</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>Úno</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>Bře</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>Dub</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>Kvě</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>Čvn</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>Čnc</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>Srp</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>Zář</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>Říj</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>Lis</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>Pro</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Již brzy tu bude Firefox pro iOS! <a href="{url}">Přihlaste se pro více informací</a>.
+
+
+;Congrats. You’re up to date!
+Gratulujeme. Jste aktuální!
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+;Format
+Formát
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;Text
+Text {ok}
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;HTML
+HTML {ok}
+
+
+# This is the error message displayed if you provide an invalid email address in a form
+;Whoops! Be sure to enter a valid email address.
+Opss! Ujistěte se, že jste zadali platnou e-mailovou adresu.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+Souhlasím s tím, aby Mozilla zpracovávala mé informace tak, jak je popsáno v <a href="%s">Zásadách ochrany soukromí</a>
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Získávat novinky o Firefoxu
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+VÁŠ EMAIL ZDE
+
+
+# Subscription Button
+;Sign me up
+Přihlásit
+
+
+;Select country
+Vyberte zemi
+
+
+;Available Languages
+Dostupné jazyky
+
+
+;We will only send you Mozilla-related information.
+Budeme vám posílat pouze informace související s Mozillou.
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Děkujeme! Podívejte se do své pošty a potvrďte přihlášení.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+E-mail s potvrzením odběru obdržíte z adresy mozilla@e.mozilla.org. Pokud nic neobdržíte, zkontrolujte si svou složku s nevyžádanou poštou (spamem). Pro odběr zpravodajů musíte odběr potvrdit.
+
+
+;Read all about it in our <span>newsletter</span>
+Přečtěte si o všem v našem <span>zpravodaji</span>
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Přihlaste si měsíční přehled a získejte aktuální novinky od Mozilly. Získejte pomocí tipů a triků více z vašeho Firefoxu. Jedná se o skvělý způsob, jak zůstat v obraze!
+
+

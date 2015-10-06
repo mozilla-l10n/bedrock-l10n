@@ -1,0 +1,818 @@
+;Navigation
+Flakka
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+<span>fyrir</span> borðtölvu
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+<span>fyrir</span> Android
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+<span>fyrir</span> iOS
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+Stýrikerfi
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+Fyrir borðtölvur &amp; fartölvur
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+Fyrir farsíma &amp; spjaldtölvur
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+Yfirlit
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+Traustur
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+Sveigjanlegur
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+Hraður
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+Um
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+Tæki
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+Fyrir samstarfsaðila
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+Öpp
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+Do Not Track {ok}
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Kassar
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Interest Dashboard {ok}
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Þróunarútgáfa
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+Huliðsgluggi
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+Vantar þig hjálp?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+Fréttir
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+Fyrir forritara
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Finndu tækið mitt
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+Þróunaraðilar
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+Veldu frjálsa vafrann
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox er ekki rekið í hagnaðarskyni, er ekki fyrirtækjasamsteypa, slakar ekki á í kröfum. Að velja Firefox er ekki bara að velja vafra. Það er yfirlýsing um eigið frelsi.
+
+
+;Donate
+Gefa peninga
+
+
+;Support
+Aðstoð
+
+
+;Products
+Vörur
+
+
+;Add-ons
+Viðbætur
+
+
+;About Us
+Um okkur
+
+
+;Labs
+Vinnustofur
+
+
+;skip to Navigation
+til baka á að flakka
+
+
+;switch language
+skipta um tungumál
+
+
+;Back to home page
+Til baka á heimasíðu
+
+
+;About Mozilla
+Um Mozilla
+
+
+;Get Involved
+Taka þátt
+
+
+;Careers
+Starfsframi
+
+
+;Press Center
+Fréttir
+
+
+;Contact Us
+Hafa samband
+
+
+;Other languages:
+Önnur tungumál:
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+%d.%m.%Y
+
+
+;Legal
+Lögmæti
+
+
+# Used as link in the footer
+;Cookies
+Smákökur
+
+
+# Used as link in the footer
+;Firefox Affiliates
+Firefox tengdir aðilar
+
+
+;Legal Notices
+Lögfræðitilkynningar
+
+
+;Privacy Policy
+Meðferð persónuupplýsinga
+
+
+;Release Notes
+Útgáfuupplýsingar
+
+
+;Other Systems and Languages
+Önnur kerfi og tungumál
+
+
+;Close
+Loka
+
+
+;(in English)
+(á ensku)
+
+
+;Return to top
+Fara efst á síðu
+
+
+;Features
+Eiginleikar
+
+
+;Customize
+Sérsníða
+
+
+;Download
+Niðurhal
+
+
+;Previous
+Fyrra
+
+
+;Next
+Næsta
+
+
+# MegaBytes abbreviation
+;MB
+MB {ok}
+
+
+;MegaBytes
+Megabæti
+
+
+;FAQ
+Spurningar og svör
+
+
+;Videos
+Myndbönd
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+Á meðan annað er ekki tekið <a href="%s">fram</a>, er efni á þessu vefsvæði gefið út undir leyfi <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> eða nýrri útgáfu.
+
+
+;Report Trademark Abuse
+Tilkynna misnotkun á vörumerki
+
+
+;Free Upgrade
+Ókeypis uppfærsla
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+Kíktu á okkur á:
+
+
+;Customize with Add-ons
+Sérsníða með viðbótum
+
+
+;Learn More
+Fræðast Meira
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+Fræðast meira
+
+
+# Link used to play again an animation or a video
+;Replay
+Spila aftur
+
+
+;Watch the video
+Horfa á myndbandið
+
+
+;Replay the video
+Spila myndbandið aftur
+
+
+;Share the video
+Deila myndbandinu
+
+
+;WebM format
+WebM skráarsnið
+
+
+;Ogg Theora format
+Ogg Theora skráarsnið
+
+
+;MPEG-4 format
+MPEG-4 skráarsnið
+
+
+;Mobile
+Farsími
+
+
+;Check out the new look and feel of Firefox.
+Kíktu á nýja útlitið á Firefox.
+
+
+;View Full Site
+Skoða allt vefsvæðið
+
+
+;Download for <span>Android</span>
+Niðurhala fyrir <span>Android</span>
+
+
+;Desktop
+Tölva
+
+
+;Firefox Beta for mobile
+Firefox Beta fyrir farsíma
+
+
+;Firefox for mobile
+Firefox fyrir farsíma
+
+
+;Email
+Tölvupóstur
+
+
+;Super speed
+Ofurhraði
+
+
+;Stunning graphics
+Ótrúleg grafík
+
+
+;The latest technologies
+Nýjasta tækni
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+Þú þarft að uppfæra! Vertu öruggur á innan við mínútu. <br/> Byrjaðu að nota nýjustu útgáfu af Firefox til að vafra betur og fá bestu stillimöguleika á vefnum. <br/>   Hann er hraðvirkur og ókeypis!
+
+
+;Upgrade now
+Uppfæra núna
+
+
+;Update now
+Uppfæra núna
+
+
+;Supported Devices
+Tæki sem eru með stuðning
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+Hvað er nýtt
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+Friðhelgi
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+Hlutar innhhalds eru ©1998–%(current_year)s af einstökum mozilla.org þátttakendum. Efnið er aðgengilegt undir <a href="%(url)s">Creative Commons leyfi</a>.
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+Bæta við efni á þetta vefsvæði
+
+
+# Footer string
+;Contribute to this page
+Bæta við efni á þessa síðu
+
+
+# Top menu item
+;Mission
+Takmark
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+Skoðunarferð
+
+
+# Footer item
+;Partner with Us
+Taktu þátt með okkur
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+Sync {ok}
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+Borðtölvu viðbætur
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+Android viðbætur
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+Þema
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+Hjálp fyrir tölvu
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+Android stuðningur
+
+
+# Top menu item on firefox/update page
+;Performance
+Afkastageta
+
+
+# Top menu item on firefox/update page
+;Technology
+Tækni
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+Friðhelgi og öryggi
+
+
+# Top menu item on firefox/update page
+;Releases
+Útgáfur
+
+
+# Top menu item on firefox/update page
+;Firefox
+Firefox {ok}
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+Firefox fyrir fyrirtæki
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+Farsíma viðbætur
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+Hjálp fyrir farsíma
+
+
+# Top menu item on firefox/update page
+;Blog
+Blogg
+
+
+# Top menu item on firefox/update page
+;About Firefox
+Um Firefox
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+Taka þátt með Mozilla
+
+
+# Top menu item on firefox/update page
+;Participate
+Taka þátt
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
+;Volunteer
+Taka þátt
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+Brand Toolkit {ok}
+
+
+# Top menu item on firefox/update page
+;Partnerships
+Þátttakendur
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+Ná í Mozilla uppfærslur
+
+
+# share button for social networks
+;Share
+Deila
+
+
+# footer link
+;Mozilla on Twitter
+Mozilla á Twitter
+
+
+# footer link
+;Firefox on Twitter
+Firefox á Twitter
+
+
+# footer link
+;Mozilla on Facebook
+Mozilla á Facebook
+
+
+# footer link
+;Firefox on Facebook
+Firefox á Facebook
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+Spjallsvæði
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Forysta
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+Stjórnskipulag
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+Saga
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+Okkar vörur
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+Hugbúnaður og aðrar nýjungar sem leiða okkur áfram.
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+Þú getur gerst þátttakandi á marga vegu.
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+Valmynd
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+Fyrir þig, þína friðhelgi og netfrelsi
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+Veldu frelsi
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Láttu ljósið skína fyrir frjálst og opið Internet! #ChooseIndependent. Veldu Firefox:
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+Kveiktu á JavaScript svo hægt sé að birta þessa síðu rétt.
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+Firefox eiginleikar
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+Firefox Hjálp
+
+
+;January
+Janúar
+
+
+;February
+Febrúar
+
+
+;March
+Mars
+
+
+;April
+Apríl
+
+
+;May
+Maí
+
+
+;June
+Júní
+
+
+;July
+Júlí
+
+
+;August
+Ágúst
+
+
+;September
+September {ok}
+
+
+;October
+Október
+
+
+;November
+Nóvember
+
+
+;December
+Desember
+
+
+;<abbr>Jan</abbr>
+<abbr>Jan</abbr> {ok}
+
+
+;<abbr>Feb</abbr>
+<abbr>Feb</abbr> {ok}
+
+
+;<abbr>Mar</abbr>
+<abbr>Mar</abbr> {ok}
+
+
+;<abbr>Apr</abbr>
+<abbr>Apr</abbr> {ok}
+
+
+;<abbr>May</abbr>
+<abbr>Maí</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>Jún</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>Júl</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>Ágú</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>Sep</abbr> {ok}
+
+
+;<abbr>Oct</abbr>
+<abbr>Okt</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>Nóv</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>Des</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox kemur bráðlega fyrir iOS! <a href="{url}">Skráðu þig til að vita meira</a>.
+
+
+;Congrats. You’re up to date!
+Til hamingju. Þú ert með nýjustu útgáfu!
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+;Format
+Sniðmát
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;Text
+Texti
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;HTML
+HTML {ok}
+
+
+# This is the error message displayed if you provide an invalid email address in a form
+;Whoops! Be sure to enter a valid email address.
+Úps! Vertu viss um að þú hafir slegið inn rétt póstfang.
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+Ég er sáttur við hvernig Mozilla meðhöndlar mín gögn eins og útskýrt er <a href="%s">hérna í meðferð persónuupplýsinga</a>
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Gerast áskrifandi að Firefox fréttum
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+ÞITT TÖLVUPÓSTFANG
+
+
+# Subscription Button
+;Sign me up
+Skráðu mig
+
+
+;Select country
+Veldu land
+
+
+;Available Languages
+Tiltæk tungumál
+
+
+;We will only send you Mozilla-related information.
+Við sendum aðeins upplýsingar sem tengjast Mozilla.
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Takk! Athugaðu póst í innhólfi til að staðfesta áskriftina.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Þú færð póst frá mozilla@e.mozilla.org til að staðfesta áskriftina. Ef þú sérð ekki póstinn, athugaðu þá ruslpóst möppuna. Þú verður að staðfesta áskriftina til að fá fréttabréfið.
+
+
+;Read all about it in our <span>newsletter</span>
+Lestu allt um þetta í <span>fréttablaðinu</span> okkar
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Gerstu áskrifandi að mánaðarlegum uppfærslum og lestu nýjustu fréttir frá Mozilla, t.d nýjar ábendingar sem hjálpa þér að fá það besta út úr Firefox vafranum. Þetta er besta leiðin til að fylgjast með!
+
+

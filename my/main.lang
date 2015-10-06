@@ -1,0 +1,818 @@
+;Navigation
+လမ်းညွှန်
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+ဒတ်စတောခ့် <span>အတွက်</span>
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+Android <span>အတွက်</span>
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+iOS <span>အတွက်</span>
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+OS {ok}
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+ဒတ်စတောခ့် &amp; လပ်တော့ပ်များ အတွက်
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+ဖုန်းများ &amp; တပ်ဗလပ်များ အတွက်
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+ခြုံငုံသုံးသပ်ချက်
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+ယုံကြည်ထားသော
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+ပြောင်းလွှဲနိုင်သော
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+လျင်မြန်သော
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+အကြောင်းအရာ
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+ကိရိယာများ
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+မိတ်ဆွေများအတွက်
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+အက်ပ်များ
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+နောက်ယောင်မခံပါနှင့်
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+အခင်းအကျင်းများ
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+စိတ်ဝင်စားမှုပြ ဘုတ်
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Developer သုံးဗားရှင်း
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+သီးသန့် လှော်လှန်ခြင်း
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+အကူအညီ လိုလား။
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+သတင်း
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+Developer များအတွက်
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+ကျွနု်ပ်၏ကိရိယာအားရှာပါ
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+Developers {ok}
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+တည်ခိုမှုမဲ့ဘယောက်ဆာအားရွေးပါ
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+မီးမြေခွေးသည် စီးပွားရေးဆိုင်ရာ​ အကျိုးအမြတ်ရယူခြင်းကင်းပါသည်။ မီးမြေခွေးအားရွေးချယ် ခြင်းသည်ဘယောက်ဆာ တစ်ခုအားရွေးချယ်ခြင်းသာမက တစ်ကိုယ်ရေ လွတ်လပ်မှု ကိုပါရယူခြင်းဖြစ်သည်။
+
+
+;Donate
+လှူတန်းပါ
+
+
+;Support
+အထောက်အပံ့
+
+
+;Products
+ထုတ်ကုန်များ
+
+
+;Add-ons
+အတ်အွန်များ
+
+
+;About Us
+ကျွနု်ပ်တို့အကြောင်း
+
+
+;Labs
+စမ်းသပ်ခန်းများ
+
+
+;skip to Navigation
+လမ်းညွှန်သို့တန်းသွား
+
+
+;switch language
+ဘာသာစကား ပြောင်း
+
+
+;Back to home page
+မူလစာမျက်နှာသို့ပြန်သွား
+
+
+;About Mozilla
+မိုဇီလာအကြောင်း
+
+
+;Get Involved
+ပါဝင်ဆောက်ရွက်မည်
+
+
+;Careers
+အလုပ်အကိုင်အခွင့်အလမ်းများ
+
+
+;Press Center
+စာနယ်ဇင်းစင်တာ
+
+
+;Contact Us
+ဆက်သွယ်ပါ
+
+
+;Other languages:
+အခြား ဘာသာများ
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+%Y-%m-%d {ok}
+
+
+;Legal
+တရားဝင်
+
+
+# Used as link in the footer
+;Cookies
+ကွတ်ကီးများ
+
+
+# Used as link in the footer
+;Firefox Affiliates
+မီးမြေခွေး ကိုယ်စားလှယ်များ
+
+
+;Legal Notices
+Legal Notices {ok}
+
+
+;Privacy Policy
+Privacy Policy {ok}
+
+
+;Release Notes
+ထုတ်လုပ်မှူမှတ်စုများ
+
+
+;Other Systems and Languages
+အခြားသော စစ္စတမ် များနှင့် ဘာသာစကားများ
+
+
+;Close
+ပိတ်
+
+
+;(in English)
+(အင်္ဂလိပ်လို)
+
+
+;Return to top
+အထက်သို့ပြန်သွား
+
+
+;Features
+အင်္ဂါရပ်များ
+
+
+;Customize
+ပြုပြင်မည်
+
+
+;Download
+ဒေါင်းလုဒ်ယူ
+
+
+;Previous
+ရှေ့သို့
+
+
+;Next
+ရှေ့
+
+
+# MegaBytes abbreviation
+;MB
+MB {ok}
+
+
+;MegaBytes
+MegaBytes {ok}
+
+
+;FAQ
+FAQ {ok}
+
+
+;Videos
+ဗီဒီယိုများ
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version. {ok}
+
+
+;Report Trademark Abuse
+Report Trademark Abuse {ok}
+
+
+;Free Upgrade
+အခမဲ့အဆင့်မြှင့်တင်မှူ
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+Follow us on: {ok}
+
+
+;Customize with Add-ons
+အတ်အွန်များဖြင့်ပြင်ဆင်နိုင်သည်။
+
+
+;Learn More
+ဆက်လက်လေ့လာ
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+ဆက်လက်လေ့လာ
+
+
+# Link used to play again an animation or a video
+;Replay
+ပြန်ပြ
+
+
+;Watch the video
+ဗီဒီယိုအားကြည့်ပါ
+
+
+;Replay the video
+ဗီဒီယိုအား ပြန်ပြပါ
+
+
+;Share the video
+ဗီဒီယိုအားမျှဝေပါ
+
+
+;WebM format
+WebM format {ok}
+
+
+;Ogg Theora format
+Ogg Theora format {ok}
+
+
+;MPEG-4 format
+MPEG-4 format {ok}
+
+
+;Mobile
+မိုဘိုင်း
+
+
+;Check out the new look and feel of Firefox.
+အသစ်ထွက် ဒီဇိုင်းနဲ့အပြင်အဆင်ကို ကြည့်လိုက်ပါ
+
+
+;View Full Site
+ဝတ်ဆိုဒ်ကိုကြည့်
+
+
+;Download for <span>Android</span>
+<span>Android</span>အတွက်ဒေါင်းလုဒ်ယူပါ
+
+
+;Desktop
+Desktop {ok}
+
+
+;Firefox Beta for mobile
+မိုဘိုင်းအတွက် မီးမြေခွေးဘီတာ
+
+
+;Firefox for mobile
+မိုဘိုင်းအတွက်မီးမြေခွေး
+
+
+;Email
+အီးမေလ်း
+
+
+;Super speed
+အလျှင်မြန်ဆုံး
+
+
+;Stunning graphics
+မှင်သက်လောက်စေတဲ့ပုံရိပ်
+
+
+;The latest technologies
+နောက်ဆုံးပေါ်နည်းပညာများ
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+အဆင့်မြှင့်ဖို့လိုနေပြီ! မိနစ်ပိုင်းအတွက် လုံခြုံသွားအောင်လုပ်လိုက်ပါ။<br/>ဝတ်ပေါ်တွင် ပြင်ဆင်မှူနဲ့ရှာဖွေမှူအကောင်းဆုံး လုပ်နိုင်ရန် မီးမြေခွေးအသစ်ကိုသုံးလိုက်ပါ။<br/>     လျှင်မြန်ပြီး အခမဲ့ ဆော့ဝဲပါ !
+
+
+;Upgrade now
+အဆင့်မြှင့်မည်
+
+
+;Update now
+အဆင့်မြှင့်မည်
+
+
+;Supported Devices
+အထောက်အပံ့ပေးပစ္စည်းများ
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+အသစ်ထွက် ?
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+Privacy {ok}
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>. {ok}
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+ဤစာမျက်နှာအတွက်ကူညီမည်
+
+
+# Footer string
+;Contribute to this page
+ဤစာမျက်နှာအတွက်ကူညီမည်
+
+
+# Top menu item
+;Mission
+ရည်မှန်းချက်
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+လေ့လာမည်
+
+
+# Footer item
+;Partner with Us
+ကျွန်ုပ် တို့နှင့် လက်တွဲပါ
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+ထပ်တူချိတ်
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+ဒတ်စတော့ခ် ထပ်ပေါင်းဆော့ဝဲများ
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+အန်းဒရွိက် အားဖြည့်ပရိုဂရမ်များ
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+အခင်းအကျင်းများ
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+ဒတ်စတော့ခ် အထောက်အပံ့
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+အန်းဒရွိက် အထောက်အပံ့
+
+
+# Top menu item on firefox/update page
+;Performance
+လုပ်ဆောင်မှူ
+
+
+# Top menu item on firefox/update page
+;Technology
+နည်းပညာ
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+လုံခြုံရေး &amp; ထိမ်းသိမ်းရေး
+
+
+# Top menu item on firefox/update page
+;Releases
+ထုတ်လွှင့်မှူများ
+
+
+# Top menu item on firefox/update page
+;Firefox
+မီးမြေခွေး
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+အဖွဲ့အစည်းများအတွက် မီးမြေခွေး
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+မိုဘိုင်း ထပ်ပေါင်းဆော့ဝဲများ
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+မိုဘိုင်း အထောက်အပံ့
+
+
+# Top menu item on firefox/update page
+;Blog
+ဘလော်ခ့်
+
+
+# Top menu item on firefox/update page
+;About Firefox
+မီးမြေခွေး အကြောင်း
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+မိုဇီလာတွင်ပါဝင်ပါ
+
+
+# Top menu item on firefox/update page
+;Participate
+ပါဝင်လုပ်ဆောင်ပါ
+
+
+# Will be used for the navigation. Translate as a verb (call to action), not a noun.
+;Volunteer
+လုပ်အားပေး
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+Brand Toolkit {ok}
+
+
+# Top menu item on firefox/update page
+;Partnerships
+လက်တွဲလုပ်ဆောင်မှူ
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+မိုဇီလာ အဆင့်မြှင့်တင်မှူများအားရယူပါ
+
+
+# share button for social networks
+;Share
+မျှဝေ
+
+
+# footer link
+;Mozilla on Twitter
+တွစ်တာပေါ်ရှိ မော်ဇီလာ
+
+
+# footer link
+;Firefox on Twitter
+တွစ်တာပေါ်ရှိ မီးမြေခွေး
+
+
+# footer link
+;Mozilla on Facebook
+Facebook ပေါ်ရှိ မိုဇီလာ
+
+
+# footer link
+;Firefox on Facebook
+Facebook ပေါ်ရှိ မီးမြေခွေး
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+ဖိုရမ်များ
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+ဦးဆောင်မှု
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+ခန့်ခွဲမှု
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+မှတ်တမ်း
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+ကျွနု်ပ်တို့၏ ထုတ်ကုန်များ
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+ကျွနု်ပ်တို့၏ ရည်မှန်းချက်ကို တက်လှမ်းရန် ဆော့ဖ်ဝဲနှင့် အခြား ဆန်းသစ်ပြောင်းလဲမှုများကို ပုံဖော်ဖန်တီးထားသည်။
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+မတူညီသောနယ်ပယ်များတွင် စေတနာ့ဝန်ထမ်းအဖြစ် ပါဝင်ဆောင်ရွက်ပါ။
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+စာရင်း
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+သင်၊ သင့်​လုံခြုံ​မှူ နှင့် လွတ်လပ်​သော ဝက်ဘ်​အတွက်
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+သင်​အသုံးပြု​လို​တာ​ကို ရွေးချယ်​ပေးပါ
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+အခမဲ့ လွတ်လပ်အင်တာနက်အတွက် စိတ်အားထက်သန်မှုကို ထိန်းသိမ်းပါ #ChooseIndependent. မီးမြေခွေးကို ရွေးချယ်ပါ
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+ဒီစာမျက်နှာကို ကောင်းမွန်စွာ ဖော်ပြနိုင်ရန် ကျေးဇူးပြု၍ JavaScript ကို ဆောင်ရွက်ခွင့်ပြုပေးပါ။
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+မီးမြေခွေးစွမ်းဆောက်ချက်များ
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+မီးမြေခွေး အတွက် အကူအညီ
+
+
+;January
+ဇန်နဝါရီ
+
+
+;February
+ဖေဖော်ဝါရီ
+
+
+;March
+မတ်
+
+
+;April
+ဧပြီ
+
+
+;May
+မေ
+
+
+;June
+ဇွန်
+
+
+;July
+ဇူလိုင်
+
+
+;August
+သြဂုတ်
+
+
+;September
+စက်တင်ဘာ
+
+
+;October
+အောက်တိုဘာ
+
+
+;November
+နိုဝင်ဘာ
+
+
+;December
+ဒီဇင်ဘာ
+
+
+;<abbr>Jan</abbr>
+<abbr>ဇန်</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>ဖေ</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>မတ်</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>ဧ</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>မေ</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>ဇွန်</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>ဇူ</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>ဩ</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>စက်</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>အောက်</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>နို</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>ဒီ</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+မီးမြေခွေးသည် iOS အတွက် မကြာမီ လာပါတော့မည်။ <a href="{url}">ပိုမိုသိရှိနိုင်ရန်အတွက် စာရင်းပေးပါ</a>။
+
+
+;Congrats. You’re up to date!
+နောက်ဆုံး​ထွက် ဗား​ရှင်း​ကို အသုံးပြု​နေ​သည့်​အတွက် ဂုဏ်​ယူ​ပါ​တယ်...
+
+
+# Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
+;Format
+ဖွဲ့စည်းပုံ
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;Text
+စာ
+
+
+# Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
+;HTML
+HTML
+
+
+# This is the error message displayed if you provide an invalid email address in a form
+;Whoops! Be sure to enter a valid email address.
+ဝိုး ! ဖြည့်လိုက်တဲ့ အီမေလ်းလိပ်စာမှန်လားစစ်ကြည့်ဦး
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+<a href="%s">ဒီကိုယ်ရေးလုံခြုံမှုမူဝါဒ</a>တွင် ဖော်ပြထားသည့်အတိုင်း ကျွန်တော်/မသည် မော်ဇီလာမှ အချက်အလက်များကို ကိုင်တွယ်ခြင်းနှင့် ပတ်သက်ပြီး သဘောတူလက်ခံပါသည်။
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+မီးမြေခွေးသတင်းများယူ
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+ဒီမှာ သင့် အီးမေလ်း
+
+
+# Subscription Button
+;Sign me up
+စာရင်းသွင်း
+
+
+;Select country
+နိုင်ငံရွေးပါ
+
+
+;Available Languages
+အသုံးပြုနိုင်သော ဘာသာစကားများ
+
+
+;We will only send you Mozilla-related information.
+သင့်အား မိုဇီလာနှင့် သက်ဆိုင်သော သတင်းများပဲ ပို့ပေးမှာပါ
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+ကျေးဇူးပြုပြီးသင့်ရဲ့မေလ်းဘောက်စ် ထဲကို အတည်ပြုရန်စစ်ဆေးပေးပါ
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+သင်သည် mozill​a@e.mozilla.org  မှနေပြီးမေလ်းတစ်စောင်ရလိမ့်မည်။ ထိုမေလ်းရောက်မလာပါက သင်၏ Spam ဘောက်စ်ထဲသို့ စစ်ပေးပါ။ သင်သတင်းတွေရဖို့ အတည်တော့ပြုပေးဖို့လိုသည်။
+
+
+;Read all about it in our <span>newsletter</span>
+ကျွနု်ပ်တို့၏ <span>သတင်းစဉ်</span>အကြောင်း
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+အီးမေလ်းအား စာရင်းသွင်းထားပြီး မိုဇီလာသတင်းများ အချို့သော မီးမြေခွေးသုံးဆွဲပုံ နှင့် ၎င်းနှင့်သက်ဆိုင်သော အချက် အလက်များအား ရယူပါ။ အဆက်အသွယ်မပြတ်အောင်တော့ အီးမေလ်းပေးထားခဲ့တာအကောင်းဆုံးပါ!
+
+
