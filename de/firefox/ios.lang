@@ -1,4 +1,5 @@
 ## active ##
+## tracking_protection ##
 ## NOTE: Demo page available at https://www-demo1.allizom.org/firefox/ios/
 
 
@@ -59,6 +60,14 @@ Passwörter
 Offene Tabs
 
 
+;Bookmarks
+Lesezeichen
+
+
+;Reading List
+Leseliste
+
+
 ;Get started with Sync
 Erste Schritte mit Sync
 
@@ -98,5 +107,45 @@ Nicht jetzt
 
 ;Learn more in the App Store
 Erfahren Sie mehr im App Store
+
+
+;Keep your private info private
+Halten Sie Ihre privaten Daten unter Verschluss
+
+
+;We believe your personal information belongs to you.
+Wir glauben, dass Ihre persönlichen Daten Ihnen gehören.
+
+
+;Firefox for iOS is filled with features to help keep it that way.
+Firefox für iOS besitzt jede Menge Funktionen, damit das so bleibt.
+
+
+;Private Browsing
+Privater Modus
+
+
+;When activated, Firefox for iOS won’t accept cookies, remember passwords or record any sites that you’ve visited.
+Wenn er aktiviert ist, akzeptiert Firefox für iOS keine Cookies, speichert keine Passwörter und zeichnet keine besuchten Websites auf.
+
+
+;Learn more about Private Browsing
+Erfahren Sie mehr über privates Surfen
+
+
+;Clear history
+Chronik löschen
+
+
+;Delete your browsing history, passwords and more in a single tap.
+Löschen Sie mit einer Berührung Ihre Surf-Chronik, Passwörter und mehr.
+
+
+;Choose the private data you want to remove whenever you need to do so.
+Wählen Sie aus, welche privaten Daten Sie löschen möchten, wenn es soweit ist.
+
+
+;Learn how to clear your history
+Erfahren Sie, wie Sie Ihre Chronik löschen
 
 

@@ -1,14 +1,16 @@
 ## active ##
 ## firefox_friends ##
+## firefox_private_browsing ##
 ## fx10_independent ##
 ## gear_store ##
+## ios_promo ##
 ## mdn_10_years ##
 ## meta_update_201503 ##
 ## privacy_day ##
 ## webmaker_promo_introducing ##
 ## webmaker_promo_make ##
 ## webmaker_promo_thimble ##
-## NOTE: demo server at https://www-dev.allizom.org/
+## NOTE: demo server at https://www-demo1.allizom.org/
 
 
 # Used as page title in HTML meta tag
@@ -300,5 +302,29 @@ Wuprobujće Firefox Hello
 
 ;Try the Thimble code editor
 Wupruwujće kodowy editor Thimble
+
+
+;Firefox is<br> now available<br> for iOS
+Firefox nětko za iOS <br>k dispoziciji steji<br>
+
+
+;Add it to your iPhone, iPad &amp; iPod touch.
+Přidajće jón swojemu iPhone, iPad a iPod touch.
+
+
+;Get Firefox for iOS
+Wobstarajće sej Firefox za iOS
+
+
+;Introducing the new <br>Private Browsing
+Zawjedźenje do <br>priwatneho modusa
+
+
+;More protection. <br>The most privacy.
+Wjace škita.<br>Najwjace priwatnosće.
+
+
+;Try Private Browsing
+Wupruwujće priwatny modus
 
 

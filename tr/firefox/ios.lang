@@ -1,4 +1,5 @@
 ## active ##
+## tracking_protection ##
 ## NOTE: Demo page available at https://www-demo1.allizom.org/firefox/ios/
 
 
@@ -59,6 +60,14 @@ Parolalar
 Açık sekmeler
 
 
+;Bookmarks
+Yer imleri
+
+
+;Reading List
+Okuma Listesi
+
+
 ;Get started with Sync
 Sync’i kullanmaya başlayın
 
@@ -98,5 +107,45 @@ Başka zaman
 
 ;Learn more in the App Store
 App Store’dan daha fazla bilgi alın
+
+
+;Keep your private info private
+Özel bilgileriniz özel kalsın
+
+
+;We believe your personal information belongs to you.
+Biz, kişisel bilgilerinizin sadece size ait olduğuna inanıyoruz.
+
+
+;Firefox for iOS is filled with features to help keep it that way.
+iOS için Firefox, bunu korumanızı sağlayacak özelliklerle dolu.
+
+
+;Private Browsing
+Gizli tarama
+
+
+;When activated, Firefox for iOS won’t accept cookies, remember passwords or record any sites that you’ve visited.
+Bu özellik açıldığında iOS için Firefox çerezleri kabul etmez, parolaları hatırlamaz ve ziyaret ettiğiniz siteleri kaydetmez.
+
+
+;Learn more about Private Browsing
+Gizli gezinti hakkında daha fazla bilgi alın
+
+
+;Clear history
+Geçmişi temizle
+
+
+;Delete your browsing history, passwords and more in a single tap.
+Tek bir dokunuşla tarama geçmişinizi, parolaları ve daha fazlasını temizleyebilirsiniz.
+
+
+;Choose the private data you want to remove whenever you need to do so.
+Gerektiği zaman hangi özel verilerinizin silineceğini siz seçin.
+
+
+;Learn how to clear your history
+Geçmişinizi temizlemeyi öğrenin
 
 

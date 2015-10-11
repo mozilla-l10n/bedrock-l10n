@@ -1,9 +1,10 @@
 ## active ##
+## firefox_ios ##
 ## firefox_new_refresh_button ##
 ## fx10_independent ##
 ## ios_announce ##
 ## mobile_links ##
-## NOTE: Used for the new http://www.mozilla.org/firefox/new
+## NOTE: Used for the new http://www-demo1.mozilla.org/firefox/new
 
 
 ;Firefox for desktop
@@ -135,6 +136,10 @@ Mozilla Firefox 网络浏览器
 
 ;Get Firefox on your Android device
 在您的 Android 设备上安装 Firefox
+
+
+;Add Firefox to your iPhone, iPad and iPod touch
+添加 Firefox 到您的 iPhone、iPad 和 iPod touch
 
 
 ;Learn about Firefox OS

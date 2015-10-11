@@ -1,4 +1,5 @@
 ## active ##
+## tracking_protection ##
 ## NOTE: Demo page available at https://www-demo1.allizom.org/firefox/ios/
 
 
@@ -8,7 +9,7 @@ Web-nabigatzaile mugikorra zure iPhone, iPad eta iPod touch-erako
 
 
 ;Firefox for iOS
-iOSerako Firefox
+iOS-erako Firefox
 
 
 ;Add Firefox to your iPhone, iPad and iPod touch.
@@ -30,12 +31,12 @@ Eman izena azpian azken berriak jasotzeko, eta argitaratzen denean jakinaraz die
 
 # Newsletter section
 ;* You’ll only receive updates and announcements about the iOS version of Firefox.
-* Firefoxen iOSerako bertsioari buruzko berriak eta jakinarazpenak soilik jasoko dituzu.
+* Firefoxen iOS-erako bertsioari buruzko berriak eta jakinarazpenak soilik jasoko dituzu.
 
 
 # Newsletter section
 ;Thanks for your interest in Firefox for iOS.
-Milesker iOSerako Firefoxen jarritako interesagatik.
+Milesker iOS-erako Firefoxen jarritako interesagatik.
 
 
 # Newsletter section
@@ -57,6 +58,14 @@ Pasahitzak
 
 ;Open tabs
 Irekitako fitxak
+
+
+;Bookmarks
+Laster-markak
+
+
+;Reading List
+Irakurketa-zerrenda
 
 
 ;Get started with Sync
@@ -84,7 +93,7 @@ Bidali Firefox zure iOS gailura
 
 
 ;Sync your Firefox browsing history on iOS
-Sinkronizatu Firefoxeko nabigatze-historia iOSen
+Sinkronizatu Firefoxeko nabigatze-historia iOS-en
 
 
 # The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
@@ -98,5 +107,45 @@ Orain ez
 
 ;Learn more in the App Store
 Ikasi gehiago App Store-en
+
+
+;Keep your private info private
+Mantendu zure datu pribatuak pribatuan
+
+
+;We believe your personal information belongs to you.
+Zure informazio pertsonalaren jabea zeu zarela sinesten dugu.
+
+
+;Firefox for iOS is filled with features to help keep it that way.
+iOS-erako Firefox hau horrela izan dadin laguntzeko eginbidez beterik dator.
+
+
+;Private Browsing
+Nabigatze pribatua
+
+
+;When activated, Firefox for iOS won’t accept cookies, remember passwords or record any sites that you’ve visited.
+Aktibatuz gero, iOS-erako Firefoxek ez du cookierik onartuko, pasahitzik gogoratuko edo bisitatzen duzun gunerik gordeko.
+
+
+;Learn more about Private Browsing
+Ikasi gehiago nabigatze pribatuari buruz
+
+
+;Clear history
+Garbitu historia
+
+
+;Delete your browsing history, passwords and more in a single tap.
+Garbitu nabigatze-historia, pasahitzak eta gehiago ukitu bakarrarekin.
+
+
+;Choose the private data you want to remove whenever you need to do so.
+Aukeratu zein datu pribatu ezabatu nahi dituzun, nahi duzun aldiro.
+
+
+;Learn how to clear your history
+Ikasi historia garbitzen
 
 

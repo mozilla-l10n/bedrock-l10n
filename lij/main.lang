@@ -761,21 +761,21 @@ Testo
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
-Belin! Veddi ben de avei misso in indirisso email giusto.
+Belin! Veddi ben de avei misso 'n'indirisso email bon.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Son d'acordio che Mozilla se piggia e mæ informaçioin comme spiegou inte <a href="%s">sta Politica da Privacy</a>
+Son d'acordio ch'o Mozilla o se pigge e mæ informaçioin comme spiegou inta <a href="%s">Politica da Privacy</a>
 
 
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
-Piggia e notiçie de Firefox
+Riçeivi e notiçie in sce Firefox
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
@@ -805,7 +805,7 @@ Graçie! Pe favô vanni inta teu email pe confermâ l'iscriçion.
 
 
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Ti ti riçeviæ 'na email da mozilla@e.mozilla.org pe confermâ a teu iscriçion. Se no ti-a veddi, contròlla o teu filtro anti spam. Ti devi confermâ a teu iscriçion pe riçeive a nòstra newsletter
+Ti ti riçeviæ 'na email da mozilla@e.mozilla.org pe confermâ a teu iscriçion. Se no ti a veddi, contròlla o teu filtro anti spam. Ti devi confermâ a teu iscriçion pe riçeive a nòstra newsletter
 
 
 ;Read all about it in our <span>newsletter</span>
@@ -813,6 +813,6 @@ Lezi tutto quello che t'eu savei in sciâ nòstra <span>newsletter</span>
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-Abon-ite a i agiornamenti do meize e stanni de longo a-o corente co-e notiçie de Mozilla, ti poriæ leze i urtimi conseggi e mastrussi pe pigiâ o megio dò-u teu navegatô Firefox. L'é o mòddo perfetto pe tegnise in contatto!
+Abon-ite a-i agiornamenti do meize e stanni de longo informou in sce Mozilla, ti poriæ leze i urtimi conseggi e mastrussi pe avei o megio dò-u teu navegatô Firefox. O l'é o megio mòddo pe tegnise in contatto!
 
 

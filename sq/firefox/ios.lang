@@ -1,4 +1,5 @@
 ## active ##
+## tracking_protection ##
 ## NOTE: Demo page available at https://www-demo1.allizom.org/firefox/ios/
 
 
@@ -59,6 +60,14 @@ Fjalëkalime
 Skeda të hapura
 
 
+;Bookmarks
+Faqerojtës
+
+
+;Reading List
+Listë Leximesh
+
+
 ;Get started with Sync
 Si t’ia filloni me Sync-un
 
@@ -98,5 +107,45 @@ Jo tani
 
 ;Learn more in the App Store
 Mësoni më tepër, te App Store
+
+
+;Keep your private info private
+Mbajini private të dhënat tuaja private
+
+
+;We believe your personal information belongs to you.
+Ne besojmë se të dhënat tuaja personale ju përkasin juve.
+
+
+;Firefox for iOS is filled with features to help keep it that way.
+Firefox-i për iOS është plot me veçori për t’ju ndihmuar t’i mbani të tilla.
+
+
+;Private Browsing
+Shfletim Privat
+
+
+;When activated, Firefox for iOS won’t accept cookies, remember passwords or record any sites that you’ve visited.
+Kur aktivizohet, Firefox-i për iOS s’do të pranojë cookies, s’do të mbajë mend fjalëkalime apo regjistroj ndonjë nga sajtet që keni vizituar.
+
+
+;Learn more about Private Browsing
+Mësoni më tepër rreth Shfletimit Privat
+
+
+;Clear history
+Pastroni historikun
+
+
+;Delete your browsing history, passwords and more in a single tap.
+Fshini me një prekje të vetme historikun e shhfletimeve tuaja, fjalëkalimet dhe të tjera gjëra.
+
+
+;Choose the private data you want to remove whenever you need to do so.
+Zgjidhni të dhënat private që dëshironi të hiqni, kurdo që keni nevojë ta bëni.
+
+
+;Learn how to clear your history
+Mësoni se si ta pastroni historikun tuaj
 
 

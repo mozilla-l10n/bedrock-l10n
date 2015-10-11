@@ -1,9 +1,14 @@
 ## active ##
-## firefox_ios ##
-## NOTE: demo page available at https://www-dev.allizom.org/firefox/products/
+## tracking_protection ##
+## NOTE: demo page available at https://www-demo1.allizom.org/firefox/products/
 
 
 # Title of the page (HTML meta tag)
+;Firefox – Desktop browser, Android, iOS, OS, Hello, Sync, Private Browsing
+Firefox – desktopowy wobglědowak, Android, iOS, OS, Hello, Sync, priwatny modus
+
+
+# Obsolete title of the page (do not remove)
 ;Firefox — Desktop browser, Android, OS, Hello, Sync, Marketplace
 Firefox - desktopowy wobglědowak, Android, OS, Hello, Sync, Wikowanišćo
 
@@ -63,6 +68,10 @@ Firefox <span>za</span> iOS
 
 ;Get it on iPhones and iPads
 Wobstarajśo se jen na iPhone a iPads
+
+
+;Now with Tracking Protection.
+Něnto ze slědowańskim šćitom
 
 
 ;Get just what you need.

@@ -1,9 +1,14 @@
 ## active ##
-## firefox_ios ##
-## NOTE: demo page available at https://www-dev.allizom.org/firefox/products/
+## tracking_protection ##
+## NOTE: demo page available at https://www-demo1.allizom.org/firefox/products/
 
 
 # Title of the page (HTML meta tag)
+;Firefox – Desktop browser, Android, iOS, OS, Hello, Sync, Private Browsing
+Firefox – 桌面浏览器, Android, iOS, 操作系统, Hello, 同步, 隐私浏览
+
+
+# Obsolete title of the page (do not remove)
 ;Firefox — Desktop browser, Android, OS, Hello, Sync, Marketplace
 Firefox — 桌面浏览器, Android, 操作系统, Hello, 同步, 应用市场
 
@@ -63,6 +68,10 @@ Firefox <span>for</span> iOS {ok}
 
 ;Get it on iPhones and iPads
 在 iPhones 和 iPads 上获取
+
+
+;Now with Tracking Protection.
+即刻使用跟踪保护。
 
 
 ;Get just what you need.

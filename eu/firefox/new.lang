@@ -1,9 +1,10 @@
 ## active ##
+## firefox_ios ##
 ## firefox_new_refresh_button ##
 ## fx10_independent ##
 ## ios_announce ##
 ## mobile_links ##
-## NOTE: Used for the new http://www.mozilla.org/firefox/new
+## NOTE: Used for the new http://www-demo1.mozilla.org/firefox/new
 
 
 ;Firefox for desktop
@@ -135,6 +136,10 @@ Ikasi gehiago Firefox OSri buruz
 
 ;Get Firefox on your Android device
 Eskuratu Firefox zure Android gailuan
+
+
+;Add Firefox to your iPhone, iPad and iPod touch
+Gehitu Firefox zure iPhone, iPad eta iPod touch-era
 
 
 ;Learn about Firefox OS
