@@ -3,47 +3,47 @@
 
 # Title of the page (HTML meta)
 ;Mobile Web browser for your iPhone, iPad and iPod touch
-Mobile Web browser for your iPhone, iPad and iPod touch
+Сіздің iPhone, iPad және iPod touch үшін арналған мобильді веб браузері
 
 
 ;Firefox for iOS
-Firefox for iOS
+iOS үшін Firefox
 
 
 ;Add Firefox to your iPhone, iPad and iPod touch.
-Add Firefox to your iPhone, iPad and iPod touch.
+Firefox-ты өз iPhone, iPad және iPod touch-қа қосыңыз.
 
 
 ;Preview release
-Preview release
+Алдын-ала қарау шығарылымы
 
 
 ;Get it now
-Get it now
+Оны қазір алу
 
 
 # Newsletter section
 ;Sign up below for updates and to be notified when it launches.
-Sign up below for updates and to be notified when it launches.
+Жаңартуларды алу және ол шыққанда хабарды алу үшін төменде жазылыңыз.
 
 
 # Newsletter section
 ;* You’ll only receive updates and announcements about the iOS version of Firefox.
-* You’ll only receive updates and announcements about the iOS version of Firefox.
+* Сіз тек Firefox-тың iOS нұсқасы жөнінде жаңартулар және хабарларды аласыз.
 
 
 # Newsletter section
 ;Thanks for your interest in Firefox for iOS.
-Thanks for your interest in Firefox for iOS.
+iOS үшін Firefox-қа білдірген қызығыңыз үшін рахмет.
 
 
 # Newsletter section
 ;Don’t forget to check your inbox to confirm your request to get updates.
-Don’t forget to check your inbox to confirm your request to get updates.
+Жаңартуларды алу сұранымын растау үшін поштаның кіріс жәшігін тексеруді ұмытпаңыз.
 
 
 ;Sign in to your Firefox Account to access your browsing info on all your mobile devices.
-Sign in to your Firefox Account to access your browsing info on all your mobile devices.
+Firefox тіркелгіңізге кіріп, шолу ақпаратыңызға барлық мобильді құрылғыларыңыздан қол жеткізіңіз.
 
 
 ;History
@@ -51,19 +51,19 @@ Sign in to your Firefox Account to access your browsing info on all your mobile 
 
 
 ;Passwords
-Passwords
+Парольдер
 
 
 ;Open tabs
-Open tabs
+Ашық беттер
 
 
 ;Bookmarks
-Bookmarks
+Бетбелгілер
 
 
 ;Reading List
-Reading List
+Оқу тізімі
 
 
 ;Get started with Sync
@@ -71,15 +71,15 @@ Sync-пен жұмысты бастау
 
 
 ;Already have an account?
-Already have an account?
+Тіркелгіңіз бар ма?
 
 
 ;Sign in
-Sign in
+Кіру
 
 
 ;You’re already signed in!
-You’re already signed in!
+Сіз кіріп қойғансыз!
 
 
 ;Learn more about Sync
@@ -87,11 +87,11 @@ Sync туралы көбірек біліңіз
 
 
 ;Send Firefox to your iOS device
-Send Firefox to your iOS device
+Firefox-ты өз iOS құрылғыңызға жіберу
 
 
 ;Sync your Firefox browsing history on iOS
-Sync your Firefox browsing history on iOS
+Firefox шолу тарихын iOS-та синхрондау
 
 
 # The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
@@ -104,7 +104,7 @@ First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start using 
 
 
 ;Learn more in the App Store
-Learn more in the App Store
+App Store ішінен көбірек білу
 
 
 ;Keep your private info private
