@@ -4,26 +4,26 @@
 
 # HTML Title
 ;Get smart on the Web
-Diventa un esperto in materia di Web
+Diventa un esperto del Web
 
 
 # <b> element below is for visual formatting, to distinguish the Smart On name from the rest of the text
 ;Get <b>Smart On</b> the Web
-Diventa un <b>esperto</b> in materia di Web
+Diventa un <b>esperto</b> del Web
 
 
 ;The SmartOn Series is like your Internet owner’s manual: the place to learn the most useful intel and tips from Mozilla policy peeps and programmers.
-La serie di guide “Diventa un esperto in materia di…" rappresenta una sorta di libretto di istruzioni per Internet. Qui potrai approfondire le tue conoscenze e ricevere suggerimenti direttamente dai programmatori e dagli esperti Mozilla.
+La serie di guide “Diventa un esperto" rappresenta una sorta di libretto di istruzioni per Internet. Qui potrai approfondire le tue conoscenze e ricevere suggerimenti direttamente dai programmatori e dagli esperti Mozilla.
 
 
 ;See all SmartOns
-Scropri tutte le guide
+Scopri tutte le guide
 
 
 # Used to navigate back to the landing page when inside one of the subpages.
 # Displayed on the top left corner, scroll down (hiding the main header) to display it.
 ;SmartOn
-Diventa un esperto in materia di…
+Diventa un esperto di…
 
 
 ;Tracking
@@ -51,7 +51,7 @@ Guardati le spalle, rimani aggiornato e assicurati che le password siano sempre 
 
 
 ;Government surveillance
-Soverglianza dei governi
+Sorveglianza dei governi
 
 
 ;Take a stand
@@ -59,7 +59,7 @@ Prendi posizione
 
 
 ;Decide where you think the line should be – and keep others from crossing it.
-Stabilisci dove si trova la linea, e assicurati che nessuno la oltrepassi.
+Stabilisci la linea di confine e assicurati che nessuno la oltrepassi.
 
 
 ;Smarter by the step
@@ -75,7 +75,7 @@ Impara
 
 
 ;Do
-Fai
+Agisci
 
 
 ;Chat
@@ -98,7 +98,7 @@ Chiediti che cosa ne pensi, scopri che cosa non conosci, prendi il controllo del
 
 # <b> is for visual formatting. Used inside in the header when entering one of the pages
 ;<b>3.</b> Do
-<b>3.</b> Fai
+<b>3.</b> Agisci
 
 
 # <b> is for visual formatting. Used inside in the header when entering one of the pages
@@ -113,7 +113,7 @@ Condividi su Twitter
 
 # Link points to https://teach.mozilla.org/clubs/
 ;Connect with your community to explore topics related to privacy and tracking by joining or starting a <a href="{url}">Mozilla Club</a>.
-Vuoi discutere di privacy e tracciamento con la comunità? Unisciti a un <a href="{url}">Mozilla Club</a>, oppure aprire uno nuovo.
+Vuoi discutere di privacy e tracciamento con la comunità? Unisciti a un <a href="{url}">Mozilla Club</a>, oppure aprine uno nuovo.
 
 
 # Displayed in the footer when visiting the page with another browser
