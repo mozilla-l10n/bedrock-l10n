@@ -4,349 +4,349 @@
 
 # HTML Title
 ;Get smart on cybersecurity
-Merrjani dorën sigurisë kibernetike
+Get smart on cyber security
 
 
 # HTML Meta (description). First part of the string is also available in the landing page file (smarton(index.lang)
 ;Look both ways, stay updated, and make sure your passwords are as buff as you are. Get smart on cybersecurity.
-Hapni sytë, jini i përditësuar, dhe sigurohuni që fjalëkalimet i keni po aq në formë, sa dhe ju. Bëhuni i mençur lidhur me sigurinë kibernetike.
+Look both ways, stay updated, and make sure your passwords are as buff as you are. Get smart on cyber security.
 
 
 ;Cybersecurity
-Siguri kibernetike
+Cyber security
 
 
 ;Ask yourself
-Pyetni veten
+Ask yourself {ok}
 
 
 ;Do you check for a secure connection when browsing the Web? Do you know how to recognize one?
-A kontrolloni për lidhje të sigurt kur shfletoni në Internet? Dini se si ta dalloni një të tillë?
+Do you check for a secure connection when browsing the Web? Do you know how to recognise one?
 
 
 ;Are you doing as much to secure your online information as you do your personal property?
-Për t’i patur të sigurta të dhënat tuaja, a bëni aq sa bëni për pronën tuaj personale?
+Are you doing as much to secure your online information as you do your personal property? {ok}
 
 
 ;How many passwords do you use, and how long have you had them?
-Sa fjalëkalime përdorni, dhe prej sa kohësh i keni?
+How many passwords do you use, and how long have you had them? {ok}
 
 
 ;Cybersecurity explained
-Shpjegim i sigurisë kibernetike
+Cyber security explained
 
 
 ;As intimidating as it may sound, cybersecurity is actually really simple: it just means protecting yourself and your information online.
-Edhe pse të step kur e dëgjon, siguria kibernetike, në fakt, është vërtet e thjeshtë: thjesht do të thotë të mbroni veten dhe të dhënat tuaja në internet.
+As intimidating as it may sound, cyber security is actually really simple: it just means protecting yourself and your information online.
 
 
 ;You can’t prevent every threat out there – online or off.
-S’i parandaloni dot të gjitha kërcënimet ndaj saj – në linjë ose jashtë linje.
+You can’t prevent every threat out there – online or off. {ok}
 
 
 ;But you can definitely minimize your risk with some awareness and common sense.
-Por doemos që mund të minimizoni rrezikun, me pak kujdes dhe gjykim të shëndoshë.
+But you can definitely minimise your risk with some awareness and common sense.
 
 
 ;Watch this video
-Shiheni këtë video
+Watch this video {ok}
 
 
 ;This PBS’ Nova Labs video offers great background on cybersecurity.
-Kjo video nga Nova Labs, PBS, ofron një kuadër të shkëlqyer rreth sigurisë kibernetike.
+This PBS’ Nova Labs video offers great background on cyber security.
 
 
 ;The Three Watch-Outs
-Tre Gjërat Që Duhen Parë
+The Three Watch-Outs {ok}
 
 
 # Link points to https://shapeoftheweb.mozilla.org/trust/security
 ;Visit our cybersecurity glossary on <a href="{url}">Shape of the Web</a> to nerd out on security terms and techniques.
-Vizitoni fjalorin tonë të sigurisë kibernetike te <a href="{url}">Shape of the Web</a> që të mësoheni me terma dhe teknika sigurie.
+Visit our cyber security glossary on <a href="{url}">Shape of the Web</a> to nerd out on security terms and techniques.
 
 
 # This fragment follows the number '77%'. If this doesn't work for your locale, you can start the sentence with "Percentage of Internet users who…"
 ;of Internet users are concerned about someone hacking into their online accounts and stealing personal information like photos and private messages.
-e përdoruesve të Internetit janë të shqetësuar nga ideja se dikush mund të jetë duke futur hundët te llogaritë e tyre në internet dhe duke vjedhur të dhëna personale, të tilla si foto dhe mesazhe private.
+of Internet users are concerned about someone hacking into their online accounts and stealing personal information like photos and private messages. {ok}
 
 
 # "CIGI IPSOS" is an acronym and should not be translated. Link to https://www.cigionline.org/sites/default/files/survey/slides.pdf
 ;(CIGI IPSOS, November 2014)
-(CIGI IPSOS, Nëntor 2014)
+(CIGI IPSOS, November 2014) {ok}
 
 
 ;Protecting yourself starts with knowing what to look out for. Here’s a quick rundown of the three most common cybersecurity threats:
-Mbrojtja e vetes fillon me njohjen e asaj për të cilën duhen hapur sytë. Ja një përmbledhje e shpejtë e tre kërcënimeve më të zakonshme të sigurisë kibernetike:
+Protecting yourself starts with knowing what to look out for. Here’s a quick rundown of the three most common cyber security threats:
 
 
 ;Manipulation
-Manipulimi
+Manipulation {ok}
 
 
 ;Malicious hackers use all kinds of tricks to access and exploit your personal information.
-Hakerët dashakeqë përdorin të gjitha llojet e hileve për të hyrë dhe shfrytëzuar të dhënat tuaja personale.
+Malicious hackers use all kinds of tricks to access and exploit your personal information. {ok}
 
 
 ;Like phishing (e.g. a fake bank email asking for your personal information), spamming, hacked accounts and the classic “Nigerian Prince” email (also called a “419 scam”).
-Fjala vjen, karremëzimi (p.sh. një email banke i rremë, ku ju kërkohen të dhëna personale), dërgim mesazhesh të padëshiruar, llogari të komprometuara dhe email klasik i llojit “Princi Nigerian” (i njohur edhe si “sajesa 419”).
+Like phishing (e.g. a fake bank email asking for your personal information), spamming, hacked accounts and the classic “Nigerian Prince” email (also called a “419 scam”). {ok}
 
 
 ;Healthy skepticism is your best friend on this front.
-Skepticizmi i shëndetshëm është miku juaj më i mirë në këtë front.
+Healthy scepticism is your best friend on this front.
 
 
 # Link to http://cbsphishingquiz.mcafee.com/
 ;Test your phishing knowledge
-Testoni dijet tuaja mbi karremëzimet
+Test your phishing knowledge {ok}
 
 
 ;Malware
-Malware{ok}
+Malware {ok}
 
 
 ;Viruses, worms, Trojan horses… These nasty little programs are designed to infect your machine to cause damage, steal personal information, spy or force ads on you.
-Viruse, krimba, kuaj Troje… Këto programe të vockla të shpifura janë konceptuar ta infektojnë makinën tuaj për të bërë dëm në të, për të vjedhur të dhëna personale, për të spiunuar ose për t’ua mbushur me reklama me zor.
+Viruses, worms, Trojan horses… These nasty little programs are designed to infect your machine to cause damage, steal personal information, spy or force ads on you. {ok}
 
 
 ;Avoiding malware means being smart about where you click.
-Shmangia e malware-it nënkupton të dini se ç’bëni kur klikoni.
+Avoiding malware means being smart about where you click. {ok}
 
 
 ;Network and Computer Attacks
-Sulme Rrjeti dhe Kompjuteri
+Network and Computer Attacks {ok}
 
 
 ;Websites and networks are vulnerable to attacks from the simple to the very sophisticated.
-Sajtet dhe rrjetet janë të cenueshëm kundrejt sulmeve, nga më i thjeshti, deri te më i sofistikuari.
+Web sites and networks are vulnerable to attacks from the simple to the very sophisticated.
 
 
 ;This threat is the hardest to prevent. But you can put a few more barriers between yourself and the attackers.
-Ky kërcënim është më i zorshmi për t’u parandaluar. Por mund të vendosni ca pengesa shtesë mes jush dhe sulmuesve.
+This threat is the hardest to prevent. But you can put a few more barriers between yourself and the attackers. {ok}
 
 
 ;Build your safety net
-Ngrini rrjetin tuaj të sigurisë
+Build your safety net {ok}
 
 
 ;Improve your security online with these safety measures recommended by Mozilla policy pros.
-Përmirësoni sigurinë tuaj në linjë me këto masa sigurie të këshilluara nga profesionistë rregullash te Mozilla.
+Improve your security online with these safety measures recommended by Mozilla policy pros. {ok}
 
 
 ;Look both ways
-Hapni sytë
+Look both ways {ok}
 
 
 ;The first and most important thing is just to pay close attention to where and when you click.
-E para, dhe më e rëndësishmja, është të bëni kujdes ku dhe kur klikoni.
+The first and most important thing is just to pay close attention to where and when you click. {ok}
 
 
 ;Trust your gut
-Besojini intuitës
+Trust your gut {ok}
 
 
 ;If a link or download doesn’t feel quite right, it probably isn’t.
-Nëse një lidhje apo një shkarkim s’duket edhe aq për të qenë, gjasat janë që vërtet të jetë ashtu.
+If a link or download doesn’t feel quite right, it probably isn’t. {ok}
 
 
 ;Make sure you install programs only from verified trusted sources, and don’t click on anything that looks even remotely suspicious – even when you think you know the source.
-Sigurohuni që instaloni programe vetëm nga burime të besuar dhe të verifikuar, dhe mos klikoni mbi asgjë që duket  sadopak e dyshimtë – edhe kur mendoni se e njihni burimin.
+Make sure you install programs only from verified trusted sources, and don’t click on anything that looks even remotely suspicious – even when you think you know the source. {ok}
 
 
 ;Watch yourself in public
-Bëni kujdes në publik
+Watch yourself in public {ok}
 
 
 ;When you navigate the Web on a public Wi-Fi network, anyone who chooses to snoop can see some or all of your activity.
-Kur përdorni Internetin nga një rrjet Wi-Fi publik, cilido që vendos të fusë hundët, mund të shohë një pjesë ose krejt veprimtarinë tuaj.
+When you navigate the Web on a public Wi-Fi network, anyone who chooses to snoop can see some or all of your activity. {ok}
 
 
 ;So avoid sensitive activities when surfing in public.
-Ndaj shmangini veprimtaritë me spec kur shfletoni në publik.
+So avoid sensitive activities when surfing in public. {ok}
 
 
 ;And before you share any kind of info anywhere online, think about how it might make you vulnerable.
-Dhe, para se të ndani me të tjerët çfarëdo të dhëne, kudo në internet, mendoni se si kjo mund t’ju bënte të cenueshëm.
+And before you share any kind of info anywhere online, think about how it might make you vulnerable. {ok}
 
 
 ;Lock your doors
-Mbyllini dyert me kyç
+Lock your doors {ok}
 
 
 ;Strong password practices are your single best protection against almost every kind of threat on the Web.
-Praktikimi i fjalëkalimeve të fuqishëm janë mbrojtja juaj e vetme më e mirë kundër thuajse çdo lloji kërcënimesh në Web.
+Strong password practices are your single best protection against almost every kind of threat on the Web. {ok}
 
 
 ;Choose strong PINs and passwords
-Zgjidhni PIN-e dhe fjalëkalime të fuqishëm
+Choose strong PINs and passwords {ok}
 
 
 # Link points to https://support.mozilla.org/kb/create-secure-passwords-keep-your-identity-safe
 ;Here are some Mozilla <a href="{url}">tips for creating a strong password for every device and account</a>.
-Ja disa <a href="{url}">këshilla nga Mozilla për krijimin e një fjalëkalimi të fuqishëm për çdo pajisje dhe llogari</a>.
+Here are some Mozilla <a href="{url}">tips for creating a strong password for every device and account</a>. {ok}
 
 
 ;And get in the habit of changing your passwords once a year.
-Dhe bëjeni zakon të ndryshoni fjalëkalimet tuaj një herë në vit.
+And get in the habit of changing your passwords once a year. {ok}
 
 
 # Link points to https://support.mozilla.org/kb/password-manager-remember-delete-change-passwords
 ;Don’t use a single password everywhere
-Mos përdorni të njëjtin fjalëkalim gjithandej
+Don’t use a single password everywhere {ok}
 
 
 ;Would you use the same key for your front door, your car, and your safety deposit box? Probably not.
-A do të përdornit të njëjtin çelës për portën e shtëpisë, makinën, dhe kasafortën? Ka shumë të ngjarë që jo.
+Would you use the same key for your front door, your car, and your safety deposit box? Probably not. {ok}
 
 
 ;<a href="{url}">Keep track with a password manager</a> instead.
-Më mirë <a href="{url}">përdorni një përgjegjës fjalëkalimesh</a>.
+<a href="{url}">Keep track with a password manager</a> instead. {ok}
 
 
 ;Do the two-step
-Zgjidhni dyhapëshin
+Do the two-step {ok}
 
 
 ;For the best protection, take advantage of 2-step authentication wherever it’s offered.
-Për mbrojtjen më të mirë, përfitoni nga mirëfilltësimi dyhapësh, kurdo që ky ofrohet.
+For the best protection, take advantage of 2-step authentication wherever it’s offered. {ok}
 
 
 # Link points to http://stopthinkconnect.org/2stepsahead/resources
 ;Find out more.
-Mësoni më tepër.
+Find out more. {ok}
 
 
 ;In case of emergency
-Në rast urgjence
+In case of emergency {ok}
 
 
 # Link points to https://www.staysafeonline.org/stay-safe-online/keep-a-clean-machine/hacked-accounts
 ;Here’s what to do <a href="{url}">if you think your account has been compromised</a>.
-Ja se ç’të bëni <a href="{url}">nëse mendoni se llogaria juaj është komprometuar</a>.
+Here’s what to do <a href="{url}">if you think your account has been compromised</a>. {ok}
 
 
 ;Fix it before it breaks
-Ndreqeni para se të prishet
+Fix it before it breaks {ok}
 
 
 ;Software updates are like oil changes ­– they can be a hassle in the moment, but a lifesaver in hindsight.
-Përditësimet e software-it janë si ndërrimi i vajit në automjete ­– bezdi për çastin, por shpëtimtare, parë në perspektivë.
+Software updates are like oil changes ­– they can be a hassle in the moment, but a lifesaver in hindsight. {ok}
 
 
 ;Update apps and devices regularly to take advantage of developers’ latest and greatest security enhancements.
-Përditësojini aplikacionet dhe pajisjet rregullisht, që të përfitoni nga thellimet më të reja dhe të më mira që programuesit bëjnë për sigurinë.
+Update apps and devices regularly to take advantage of developers’ latest and greatest security enhancements. {ok}
 
 
 ;Browsers
-Shfletues
+Browsers {ok}
 
 
 ;Firefox update
-Përditësim Firefox-i
+Firefox update {ok}
 
 
 ;Firefox plugin check
-Kontroll shtojcash Firefox-i
+Firefox plugin check {ok}
 
 
 ;Chrome update
-Përditësim Chrome-i
+Chrome update {ok}
 
 
 ;Chrome plugin check
-Kontroll shtojcash Chrome-i
+Chrome plugin check {ok}
 
 
 ;Internet Explorer update
-Përditësim Internet Explorer-i
+Internet Explorer update {ok}
 
 
 ;Internet Explorer plugin check
-Kontroll shtojcash Internet Explorer-i
+Internet Explorer plugin check {ok}
 
 
 ;Safari update
-Përditësim Safari
+Safari update {ok}
 
 
 ;Safari plugin check
-Kontroll shtojcash Safari
+Safari plugin check {ok}
 
 
 ;Operating systems
-Sisteme operativë
+Operating systems {ok}
 
 
 ;Install a security system
-Instaloni një sistem sigurie
+Install a security system {ok}
 
 
 ;Now that you’ve handled the basics, set the alarm.
-Tani që i morët vesh bazat, përvishjuni punës.
+Now that you’ve handled the basics, set the alarm. {ok}
 
 
 ;These programs prevent and protect against cyber surprises.
-Këto programe parandalojnë të papriturat kibernetike dhe ju mbrojnë prej tyre.
+These programs prevent and protect against cyber surprises. {ok}
 
 
 ;Anti-virus software
-Software anti-virus
+Anti-virus software {ok}
 
 
 ;It won’t protect against everything, but it’s a good start.
-S’ka për t’ju mbrojtur nga gjithçka, por është një fillim i mirë.
+It won’t protect against everything, but it’s a good start. {ok}
 
 
 ;Here are two free options:
-Ja dy mundësi falas:
+Here are two free options: {ok}
 
 
 ;Firefox Add-ons
-Shtesa Firefox-i
+Firefox Add-ons {ok}
 
 
 ;These add-ons will help you identify what you’re clicking before you click:
-Këto shtesa do t’ju ndihmojnë të identifikoni çfarë klikoni, përpara se të klikoni:
+These add-ons will help you identify what you’re clicking before you click: {ok}
 
 
 # Link points to https://addons.mozilla.org/firefox/addon/long-url-please/
 ;<a href="{url}">Long URL please</a> — replaces most shortened URLs with the originals so you know the destination
-<a href="{url}">Long URL please</a> — zëvendëson shumicën e URL-ve të shkurtuara me origjinalin, që kështu të shihni se ku shpien
+<a href="{url}">Long URL please</a> — replaces most shortened URLs with the originals so you know the destination {ok}
 
 
 # Link points to https://addons.mozilla.org/firefox/addon/url-tooltip/
 ;<a href="{url}">URL Tooltip</a> — displays the destination of a link when hovering over it
-<a href="{url}">URL Tooltip</a> — shfaq se ku shpie një lidhje, kur vendoset kursori mbi të
+<a href="{url}">URL Tooltip</a> — displays the destination of a link when hovering over it {ok}
 
 
 ;Blast your cybersecurity smarts
-Lërini me gojëhapur shokët tuaj
+Blast your cyber security smarts
 
 
 ;The more we talk, share tips and stay alert about cybersecurity, the safer we all are.
-Sa më shumë që bisedoni, ndani me të tjerët ndihmëzat dhe jini syhapur për sigurinë kibernetike, aq më të parrezikuar jemi.
+The more we talk, share tips and stay alert about cyber security, the safer we all are.
 
 
 ;Keep the conversation going with your community on social media, at home — maybe even on that public Wi-Fi at the airport.
-Vazhdojeni bisedën me bashkësinë tuaj në media shoqërore, në shtëpi — ndoshta madje edhe te një pikë publike Wi-Fi në aeroport.
+Keep the conversation going with your community on social media, at home — maybe even on that public Wi-Fi at the airport. {ok}
 
 
 # Link points to https://teach.mozilla.org/activities/
 ;Are you a teacher? Give your students a <a href="{url}">simple lesson in cybersecurity</a>.
-Jeni mësues? Jepuni nxënësve tuaj një <a href="{url}">mësim të thjeshtë sigurie kibernetike</a>.
+Are you a teacher? Give your students a <a href="{url}">simple lesson in cyber security</a>.
 
 
 # Will be used as a tweet. Keep it as short as possible.
 ;How many online passwords do you have?
-Sa fjalëkalime përdorni në Internet?
+How many online passwords do you have? {ok}
 
 
 # Will be used as a tweet. Keep it as short as possible.
 ;What kind of security tips and tricks do you use online?
-Ç’lloj praktikash sigurie përdorni në internet?
+What kind of security tips and tricks do you use online? {ok}
 
 
 # Will be used as a tweet. Keep it as short as possible.
 ;On a scale from 1 to 10, how safe do you feel online? Is it always clear to you whether or not your activities are secure?
-Nga 1 në 10, sa i parrezikuar ndiheni në Internet? A e keni përherë të qartë nëse janë të sigurta apo jo veprimtaritë tuaja?
+On a scale from 1 to 10, how safe do you feel online? Is it always clear to you whether or not your activities are secure? {ok}
 
 
