@@ -32,23 +32,33 @@ Subskrypcja została potwierdzona.
 
 
 # Name for the newsletter in Newsletter subscription page
-;Firefox & You
+;Firefox + You
 Firefox i Ty
 
 
-# Description for the newsletter in Newsletter subscription page (Firefox & You)
+# Description for the newsletter in Newsletter subscription page (Firefox + You)
 ;A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
 Comiesięczny newsletter i porady o tym, w jaki sposób w pełni wykorzystywać potencjał Firefoksa oraz Firefoksa na Androida.
 
 
 # Name for the newsletter in Newsletter subscription page
-;Firefox OS News
-Wiadomości nt. Firefox OS
+;Firefox OS + You
+Firefox OS i Ty
 
 
-# Description for the newsletter in Newsletter subscription page (Firefox OS News)
+# Description for the newsletter in Newsletter subscription page (Firefox OS + You)
 ;A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
 Comiesięczny newsletter i porady o tym, w jaki sposób w pełni wykorzystywać potencjał urządzenia z Firefox OS a także informacje o nowych funkcjach i najciekawszych aplikacjach z Firefox Marketplace.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox Accounts Tips
+Cotygodniowe porady - konto Firefoksa
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
+;Get the most out of your Firefox Account.
+W pełni wykorzystuj potencjał konta Firefoksa.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -375,6 +385,10 @@ Dziękujemy za wyjaśnienie, dlaczego nas opuszczasz.
 Podaj adres e-mail, abyśmy mogli przesłać odnośnik do panelu ustawień subskrypcji.
 
 
+;Send me a link
+Wyślij odnośnik
+
+
 ;Added extras
 Dodatki
 
@@ -453,7 +467,7 @@ Zarządzanie <span>subskrybowanymi newsletterami</span>
 
 
 ;Sign up below for updates and to be notified when it launches.
-Zapisz się poniżej, aby otrzymywać aktualizacje i powiadomienia o wydaniu.
+Zapisz się poniżej, aby otrzymywać aktualizacje i powiadomienia o wydaniu.
 
 
 ;Newsletter email recovery
@@ -470,14 +484,6 @@ Firefox Marketplace na Firefox OS
 
 ;Discover the latest, coolest HTML5 apps on Firefox OS.
 Odkryj najnowsze i najlepsze aplikacje HTML5 dla Firefox OS.
-
-
-;Firefox Accounts Tips
-Cotygodniowe porady - konto Firefoksa
-
-
-;Get the most out of your Firefox Account.
-W pełni wykorzystuj potencjał konta Firefoksa.
 
 
 ;Firefox Weekly Tips
@@ -501,7 +507,7 @@ Mozilla Learning Network {ok}
 
 
 ;Updates from our global community, helping people learn the most important skills of our age: the ability to read, write and participate in the digital world.
-Wiadomości od naszej globalnej społeczności, pomagające szkolić najważniejsze umiejętności naszych czasów: czytanie, piasanie i uczestniczenie w cyfrowym świecie.
+Wiadomości od naszej globalnej społeczności, pomagające szkolić najważniejsze umiejętności naszych czasów: czytanie, piasanie i uczestniczenie w cyfrowym świecie.
 
 
 ;Download Firefox for iOS
@@ -573,7 +579,7 @@ Webmaker {ok}
 
 
 ;Special announcements helping you get the most out of Webmaker.
-Informacje pomagające w pełni korzystać z programu Webmaker.
+Informacje pomagające w pełni korzystać z programu Webmaker.
 
 
 ;Addon Development

@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
 
 
@@ -31,23 +32,33 @@ Sua inscrição em nossa newsletter está ativada.
 
 
 # Name for the newsletter in Newsletter subscription page
-;Firefox & You
-Firefox e Você
+;Firefox + You
+Firefox + Você
 
 
-# Description for the newsletter in Newsletter subscription page (Firefox & You)
+# Description for the newsletter in Newsletter subscription page (Firefox + You)
 ;A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
 Uma newsletter mensal com dicas e novidades que te ajudarão a tirar o melhor proveito do seu Firefox no computador ou no seu aparelho Android.
 
 
 # Name for the newsletter in Newsletter subscription page
-;Firefox OS News
-Novidades do Firefox OS
+;Firefox OS + You
+Firefox OS + Você
 
 
-# Description for the newsletter in Newsletter subscription page (Firefox OS News)
+# Description for the newsletter in Newsletter subscription page (Firefox OS + You)
 ;A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
 Uma newsletter mensal com dicas e novidades sobre como aproveitar seu aparelho com Firefox OS, incluindo as últimas novidades do Firefox Marketplace.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox Accounts Tips
+Dicas para Contas do Firefox
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
+;Get the most out of your Firefox Account.
+Obtenha o mÃ¡ximo da sua Conta do Firefox.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -72,7 +83,7 @@ Atualizações mensais sobre como participar da Mozilla na sua região.
 
 # Name for the newsletter in Newsletter subscription page
 ;Firefox Affiliates
-Firefox Affiliates
+Firefox Affiliates {ok}
 
 
 # Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
@@ -122,7 +133,7 @@ Saiba de todas as novidades do Firefox para Android.
 
 # Name for the newsletter in Newsletter subscription page
 ;Mozilla
-Mozilla
+Mozilla {ok}
 
 
 # Description for the newsletter in Newsletter subscription page (Mozilla)
@@ -132,7 +143,7 @@ Mensagens e comunidades especiais, feitos pelo time dedicado a manter a Web aber
 
 # Name for the newsletter in Newsletter subscription page
 ;Firefox Marketplace
-Firefox Marketplace
+Firefox Marketplace {ok}
 
 
 # Description for the newsletter in Newsletter subscription page (Firefox Marketplace)
@@ -152,7 +163,7 @@ Saiba tudo sobre notícias e atualizações importantes para o seu aparelho com 
 
 # Name for the newsletter in Newsletter subscription page
 ;Firefox iOS
-Firefox iOS
+Firefox iOS {ok}
 
 
 # Description for the newsletter in Newsletter subscription page (Firefox iOS)
@@ -162,7 +173,7 @@ Seja o primeiro a saber quando o Firefox estiver disponível para aparelhos com 
 
 # Name for the newsletter in Newsletter subscription page
 ;Firefox Flicks
-Firefox Flicks
+Firefox Flicks {ok}
 
 
 ;Periodic email updates about our annual international film competition.
@@ -176,30 +187,30 @@ Novidades do Beta
 
 # Name for the newsletter in Newsletter subscription page
 ;Mozilla Foundation
-Mozilla Foundation
+Fundação Mozilla
 
 
 # Description for the newsletter in Newsletter subscription page (Mozilla Foundation)
 ;News and special updates about our work to promote openness, innovation and participation on the Internet, including ways for you to get involved.
-News and special updates about our work to promote openness, innovation and participation on the Internet, including ways for you to get involved.
+Notícias e atualizações especiais sobre o nosso trabalho promovendo a abertura, inovação e participação na Internet, incluindo maneiras de se envolver.
 
 
 # Name for the newsletter in Newsletter subscription page
 ;Shape of the Web
-Shape of the Web
+Forma da Web
 
 
 # Description for the newsletter in Newsletter subscription page (Shape of the Web)
 ;News and information related to the health of the web.
-News and information related to the health of the web.
+Notícias e informações relacionadas com a saúde da web.
 
 
 ;About Addons
-About Addons
+Sobre complementos
 
 
 ;Firefox OS
-Firefox OS
+Firefox OS {ok}
 
 
 ;Firefox OS news, tips, launch information and where to buy.
@@ -283,11 +294,11 @@ Não tinha interesse nos conteúdos enviados.
 
 
 ;Don’t forget to check your inbox to confirm your request to get Firefox for iOS updates. If you don’t see an email from mozilla@e.mozilla.org, check your spam filter. You must confirm your request in order to receive the updates.
-Don’t forget to check your inbox to confirm your request to get Firefox for iOS updates. If you don’t see an email from mozilla@e.mozilla.org, check your spam filter. You must confirm your request in order to receive the updates.
+Não se esqueça de verificar sua caixa de entrada para confirmar seu pedido para receber novidades do Firefox para iOS. Se não tiver um e-mail da mozilla@e.mozilla.org, verifique seu filtro de spam. Você deve confirmar seu pedido a fim de receber as novidades.
 
 
 ;Firefox
-Firefox
+Firefox {ok}
 
 
 ;We’re sorry to see you go.
@@ -295,11 +306,11 @@ Ficamos triste em te ver partir.
 
 
 ;title
-title
+título
 
 
 ;Firefox is coming soon to iOS!
-Firefox is coming soon to iOS!
+O Firefox para iOS está chegando!
 
 
 ;It’s your Web anywhere you go.
@@ -311,7 +322,7 @@ Suas mensagens eram difíceis de entender.
 
 
 ;Please enter a valid email address
-Please enter a valid email address
+Digite um endereço de email válido
 
 
 ;Newsletter Subscriptions
@@ -323,7 +334,7 @@ Descadastrar
 
 
 ;Mozilla Newsletter
-Mozilla Newsletter
+Mozilla Newsletter {ok}
 
 
 ;Thanks for updating your email preferences.
@@ -335,7 +346,7 @@ Que bom que você perguntou!
 
 
 ;Firefox on iOS — Sign up for email updates — Mozilla
-Firefox on iOS — Sign up for email updates — Mozilla
+Firefox para iOS - receba atualizações por email - Mozilla
 
 
 ;Something is amiss with our system, sorry! Please try again later.
@@ -347,11 +358,11 @@ Marque todas as categorias que deseja, e prometemos enviar o mínimo possível d
 
 
 ;description
-description
+descrição
 
 
 ;Sign up today to receive email updates about the iOS version of Firefox.
-Sign up today to receive email updates about the iOS version of Firefox.
+Inscreva-se hoje mesmo para receber atualizações sobre o Firefox para iOs no seu email.
 
 
 ;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
@@ -359,7 +370,7 @@ Vou acompanhar a Mozilla no Facebook e no Twitter somente.
 
 
 ;Success! An email has been sent to you with your preference center link. Thanks!
-Success! An email has been sent to you with your preference center link. Thanks!
+Sucesso! Um e-mail foi enviado para você com o seu link do centro de preferência. Obrigado!
 
 
 ;Remove me from all Mozilla emails
@@ -371,7 +382,11 @@ Obrigado por nos dizer porque você se descadastrou.
 
 
 ;Enter your email address and we’ll send you a link to your email preference center.
-Enter your email address and we’ll send you a link to your email preference center.
+Digite seu endereço de e-mail e enviaremos um link para o seu centro de preferências de e-mail.
+
+
+;Send me a link
+Envie o link
 
 
 ;Added extras
@@ -379,7 +394,7 @@ Complementos
 
 
 ;%s is not a valid newsletter
-%s is not a valid newsletter
+%s não é uma newsletter valida
 
 
 ;English&nbsp;only
@@ -387,11 +402,11 @@ Somente em Inglês
 
 
 ;This is not a valid email address. Please check the spelling.
-This is not a valid email address. Please check the spelling.
+Isto não é um endereço de email válido. Por favor, verifique a ortografia.
 
 
 ;Thanks for your interest in the upcoming iOS version of Firefox. We’re pretty excited about it too!
-Thanks for your interest in the upcoming iOS version of Firefox. We’re pretty excited about it too!
+Obrigado pelo seu interesse na versão do Firefox para iOS. Estamos muito animados também!
 
 
 ;You’ve been unsubscribed.
@@ -403,7 +418,7 @@ Adicione recursos ao Firefox com complementos.
 
 
 ;You must agree to the privacy policy
-You must agree to the privacy policy
+Você deve concordar com a política de privacidade
 
 
 ;Other…
@@ -428,15 +443,15 @@ Nós amamos compartilhar as novidades sobre tudo que está acontecendo na Mozill
 
 
 ;This email address is not in our system. Please double check your address or <a href="%s">subscribe to our newsletters.</a>
-This email address is not in our system. Please double check your address or <a href="%s">subscribe to our newsletters.</a>
+Este endereço de e-mail não está no nosso sistema. Por favor, verifique seu endereço ou <a href="%s">assine nossas newsletters.</a>
 
 
 ;We are sorry, but there was a problem with our system. Please try again later!
-We are sorry, but there was a problem with our system. Please try again later!
+Desculpe-nos, mas houve um problema em nosso sistema. Por favor, tente novamente mais tarde!
 
 
 ;The supplied link has expired or is not valid. You will receive a new one in the next newsletter, or below you can request an email with the link.
-The supplied link has expired or is not valid. You will receive a new one in the next newsletter, or below you can request an email with the link.
+O link fornecido expirou ou não é válido. Você receberá um novo na próxima newsletter ou você pode solicitar abaixo um e-mail com o link.
 
 
 ;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
@@ -452,35 +467,27 @@ Gerencie seus <span>cadastros em nossas newsletters.</span>
 
 
 ;Sign up below for updates and to be notified when it launches.
-Sign up below for updates and to be notified when it launches.
+Inscreva-se abaixo para ser avisado quando ele for lançado.
 
 
 ;Newsletter email recovery
-Newsletter email recovery
+E-mail de recuperação do boletim informativo
 
 
 ;*You’ll only receive updates and announcements about the iOS version of Firefox.
-*You’ll only receive updates and announcements about the iOS version of Firefox.
+*Você só receberá atualizações e publicações sobre a versão do Firefox para iOS.
 
 
 ;Firefox Marketplace for Firefox OS
-Firefox Marketplace for Firefox OS
+Firefox Marketplace para Firefox OS
 
 
 ;Discover the latest, coolest HTML5 apps on Firefox OS.
 Conheça os melhores aplicativos em HTML5 no Firefox OS.
 
 
-;Firefox Accounts Tips
-Firefox Accounts Tips
-
-
-;Get the most out of your Firefox Account.
-Get the most out of your Firefox Account.
-
-
 ;Firefox Weekly Tips
-Firefox Weekly Tips
+Dicas semanais do Firefox
 
 
 ;Get a weekly tip on how to super-charge your Firefox experience.
@@ -488,7 +495,7 @@ Receba dicas mensais sobre como turbinar seu Firefox.
 
 
 ;Student Reps
-Student Reps
+Reps estudantes
 
 
 ;Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
@@ -496,71 +503,71 @@ Programa universitário de 2008 a 2011, agora relançado como Firefox Student Am
 
 
 ;Mozilla Learning Network
-Mozilla Learning Network
+Rede de aprendizagem da Mozilla
 
 
 ;Updates from our global community, helping people learn the most important skills of our age: the ability to read, write and participate in the digital world.
-Updates from our global community, helping people learn the most important skills of our age: the ability to read, write and participate in the digital world.
+Novidades de nossa comunidade global, ajudando as pessoas a aprenderem as mais importantes habilidades da nossa época: a habilidade de ler, escrever e participar do mundo digital.
 
 
 ;Download Firefox for iOS
-Download Firefox for iOS
+Baixe o Firefox para iOS
 
 
 ;Download Firefox for Android
-Download Firefox for Android
+Baixe o Firefox para Android
 
 
 ;Get Firefox for Android
-Get Firefox for Android
+Baixe o Firefox para Android
 
 
 ;Drumbeat Newsgroup
-Drumbeat Newsgroup
+Grupo de discussão do Drumbeat
 
 
 ;Mozilla Festival
-Mozilla Festival
+Festival Mozilla
 
 
 ;Special announcements about Mozilla's annual, hands-on festival dedicated to forging the future of the open Web.
-Special announcements about Mozilla's annual, hands-on festival dedicated to forging the future of the open Web.
+Comunicados importantes sobre o anuário da Mozilla, festival dedicado a forjar o futuro da web aberta.
 
 
 ;Firefox Marketplace for Android
-Firefox Marketplace for Android
+Firefox Marketplace para Android
 
 
 ;About Standards
-About Standards
+Sobre padrões
 
 
 ;Get Involved
-Get Involved
+Envolva-se
 
 
 ;Download Firefox for Mobile
-Download Firefox for Mobile
+Baixar o Firefox para celular
 
 
 ;Maker Party
-Maker Party
+Maker Party {ok}
 
 
 ;Mozilla's largest celebration of making and learning on the web.
-Mozilla's largest celebration of making and learning on the web.
+A maior celebração da Mozilla voltada para criação e aprendizado na web.
 
 
 ;Aurora
-Aurora
+Aurora {ok}
 
 
 ;Join Mozilla
-Join Mozilla
+Junte-se a Mozilla
 
 
 ;About Labs
-About Labs
+Sobre os laboratórios
 
 
 ;Read about the latest features for Firefox desktop and mobile before the final release.
@@ -568,18 +575,18 @@ Receba atualizações sobre os últimos recursos das versões do Firefox que est
 
 
 ;Webmaker
-Webmaker
+Webmaker {ok}
 
 
 ;Special announcements helping you get the most out of Webmaker.
-Special announcements helping you get the most out of Webmaker.
+Anúncios especiais, ajudando você a obter o máximo do Webmaker.
 
 
 ;Addon Development
-Addon Development
+Desenvolvimento de complementos
 
 
 ;Firefox Marketplace for Desktop
-Firefox Marketplace for Desktop
+Firefox Marketplace para desktop
 
 
