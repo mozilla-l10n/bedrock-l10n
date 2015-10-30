@@ -1,128 +1,127 @@
-## active ##
 ## NOTE: demo server available at https://www-demo1.allizom.org/teach/smarton/
 
 
 # HTML Title
 ;Get smart on the Web
-Sé un experto en la Web
+Get smart on the Web
 
 
 # <b> element below is for visual formatting, to distinguish the Smart On name from the rest of the text
 ;Get <b>Smart On</b> the Web
-Sé <b>un experto en</b> la Web
+Get <b>Smart On</b> the Web
 
 
 ;The SmartOn Series is like your Internet owner’s manual: the place to learn the most useful intel and tips from Mozilla policy peeps and programmers.
-Esta serie de manuales es tu guía de Internet personal: el lugar para aprender los consejos y claves más útiles del equipo legal e informático de Mozilla.
+The SmartOn Series is like your Internet owner’s manual: the place to learn the most useful intel and tips from Mozilla policy peeps and programmers.
 
 
 ;See all SmartOns
-Consulta la guía
+See all SmartOns
 
 
 # Used to navigate back to the landing page when inside one of the subpages.
 # Displayed on the top left corner, scroll down (hiding the main header) to display it.
 ;SmartOn
-Guía
+SmartOn
 
 
 ;Tracking
-Rastreo
+Tracking
 
 
 ;Follow me
-Sígueme
+Follow me
 
 
 ;What you do online is your business, and you can keep it that way.
-Lo que haces en Internet es asunto tuyo y de ti depende que continúe siendo así.
+What you do online is your business, and you can keep it that way.
 
 
 ;Cyber security
-Ciberseguridad
+Cyber security
 
 
 ;Lock it down
-Bloquéala
+Lock it down
 
 
 ;Look both ways, stay updated, and make sure your passwords are as buff as you are.
-Mira a ambos lados, mantente informado y asegúrate de que tus contraseñas sean completamente seguras.
+Look both ways, stay updated, and make sure your passwords are as buff as you are.
 
 
 ;Government surveillance
-Vigilancia gubernamental
+Government surveillance
 
 
 ;Take a stand
-Posiciónate
+Take a stand
 
 
 ;Decide where you think the line should be – and keep others from crossing it.
-Decide dónde quieres poner tu límite y haz que lo demás no lo atraviesen.
+Decide where you think the line should be – and keep others from crossing it.
 
 
 ;Smarter by the step
-El manual del experto, paso a paso
+Smarter by the step
 
 
 ;Ask
-Pregunta
+Ask
 
 
 ;Know
-Conoce
+Know
 
 
 ;Do
-Actúa
+Do
 
 
 ;Chat
-Comenta
+Chat
 
 
 ;Ask yourself what you think, find out what you don’t know, take control of your experience. Then talk it out with your friends.
-Pregúntate lo que piensas, descubre lo que no sabes, toma el control de tu experiencia. Después, coméntalo con tus amigos.
+Ask yourself what you think, find out what you don’t know, take control of your experience. Then talk it out with your friends.
 
 
 # <b> is for visual formatting. Used inside in the header when entering one of the pages
 ;<b>1.</b> Ask
-<b>1.</b> Pregunta
+<b>1.</b> Ask
 
 
 # <b> is for visual formatting. Used inside in the header when entering one of the pages
 ;<b>2.</b> Know
-<b>2.</b> Conoce
+<b>2.</b> Know
 
 
 # <b> is for visual formatting. Used inside in the header when entering one of the pages
 ;<b>3.</b> Do
-<b>3.</b> Actúa
+<b>3.</b> Do
 
 
 # <b> is for visual formatting. Used inside in the header when entering one of the pages
 ;<b>4.</b> Chat
-<b>4.</b> Comenta
+<b>4.</b> Chat
 
 
 # Shared string across pages. Used as a label for button to tweet a statement
 ;Tweet this
-Tuitéalo
+Tweet this
 
 
 # Link points to https://teach.mozilla.org/clubs/
 ;Connect with your community to explore topics related to privacy and tracking by joining or starting a <a href="{url}">Mozilla Club</a>.
-Únete o inicia un <a href="{url}">Club Mozilla</a>, y conecta con nuestra comunidad y explora temas relacionados con la privacidad y el rastreo.
+Connect with your community to explore topics related to privacy and tracking by joining or starting a <a href="{url}">Mozilla Club</a>.
 
 
 # Displayed in the footer when visiting the page with another browser
 ;Take back control
-Recupera el control
+Take back control
 
 
 # Displayed in the footer when visiting the page with another browser
 ;The non-profit browser by Mozilla
-El navegador sin fines de lucro de Mozilla
+The non-profit browser by Mozilla
 
 

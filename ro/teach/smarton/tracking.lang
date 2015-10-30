@@ -1,389 +1,388 @@
-## active ##
 ## NOTE: demo server available at https://www-demo1.allizom.org/teach/smarton/tracking/
 
 
 # HTML Title
 ;Get smart on tracking
-Sé un experto en rastreo
+Get smart on tracking
 
 
 # HTML Meta (description). First part of the string is also available in the landing page file (smarton(index.lang)
 ;What you do online is your business, and you can keep it that way. Get smart on tracking.
-Lo que haces en Internet es asunto tuyo y de ti depende que continúe siendo así. Sé un experto en rastreo.
+What you do online is your business, and you can keep it that way. Get smart on tracking.
 
 
 ;Ask yourself
-Hazte estas preguntas
+Ask yourself
 
 
 ;Do you feel in control of your personal information online?
-¿Consideras que tienes el control de tu información personal en línea?
+Do you feel in control of your personal information online?
 
 
 ;Do you know what a cookie is (no, not the delicious kind)?
-¿Sabes lo que es una cookie (no, no es una galleta)?
+Do you know what a cookie is (no, not the delicious kind)?
 
 
 ;Have you ever wondered why some content, like ads, seems to follow you around?
-¿Te has preguntado alguna vez por qué algunos contenidos, como anuncios, parecen que te persiguen por todas partes?
+Have you ever wondered why some content, like ads, seems to follow you around?
 
 
 ;What is tracking?
-¿Qué es el rastreo?
+What is tracking?
 
 
 ;Every time we go online, we leave behind traces of our activity. They’re often called our “digital footprints” and for good reason, because tracking is sort of like re-tracing our steps.
-Cada vez que nos conectamos a internet, dejamos atrás rastros de nuestra actividad. No en vano suelen denominarse "rastros digitales" porque rastrear es como seguir el rastro de nuestros pasos.
+Every time we go online, we leave behind traces of our activity. They’re often called our “digital footprints” and for good reason, because tracking is sort of like re-tracing our steps.
 
 
 ;But our digital footprints reveal more about us than where we’ve been — everything from our preferences to our identities.
-Pero nuestros rastros digitales revelan más información sobre nosotros que simplemente dónde hemos estado: lo revelan todo, desde nuestras preferencias hasta nuestras identidades.
+But our digital footprints reveal more about us than where we’ve been — everything from our preferences to our identities.
 
 
 ;Watch the documentary at donottrack-doc.com.
-Mira el documental en donottrack-doc.com.
+Watch the documentary at donottrack-doc.com.
 
 
 # Link points to https://donottrack-doc.com/
 ;To get a good look at how tracking works, be sure to check out the first episode of Brett Gaylor’s documentary series, <a href="{url}"><cite>Do Not Track</cite></a>.
-Para comprender mejor cómo funciona el rastreo, no te pierdas el primer episodio de la serie documental de Brett Gaylor <a href="{url}"><cite>Do Not Track</cite></a>.
+To get a good look at how tracking works, be sure to check out the first episode of Brett Gaylor’s documentary series, <a href="{url}"><cite>Do Not Track</cite></a>.
 
 
 ;Tracking in action
-El rastreo en acción
+Tracking in action
 
 
 ;Let’s imagine a typical day online: you start by checking emails, maybe share a fun article you just read.
-Vamos a imaginarnos un día normal en Internet: comienzas leyendo emails, tal vez compartes un artículo divertido que acabas de leer.
+Let’s imagine a typical day online: you start by checking emails, maybe share a fun article you just read.
 
 
 ;At lunch, you check showtimes for a movie a friend recommended on Facebook and look up prices for some new camping gear you’ve had your eye on.
-En el almuerzo, revisas las horas de proyección de una película que un amigo te recomendó en Facebook y consultas los precios de un par de artículos de acampada que te interesa comprar.
+At lunch, you check showtimes for a movie a friend recommended on Facebook and look up prices for some new camping gear you’ve had your eye on.
 
 
 ;That’s only a few sites, but what’s happening behind the scenes is that many more “third-parties” — companies that are separate from the sites you’re visiting — are seeing and recording your activity.
-Eso son solo un par de sitios, pero lo que en realidad está ocurriendo es que multitud de terceros —compañías que están al margen de los sitios que visitas— están viendo y registrando tu actividad.
+That’s only a few sites, but what’s happening behind the scenes is that many more “third-parties” — companies that are separate from the sites you’re visiting — are seeing and recording your activity.
 
 
 ;So when you begin seeing recommended articles about that movie, or ads for that camping gear, later in the day, it’s no coincidence.
-Así que no es una casualidad que más tarde comiences a ver artículos recomendados sobre esa película o anuncios de productos para ir de acampada.
+So when you begin seeing recommended articles about that movie, or ads for that camping gear, later in the day, it’s no coincidence.
 
 
 ;Tracking for personalization
-Rastreo para personalización
+Tracking for personalization
 
 
 ;What are cookies?
-¿Qué son las cookies?
+What are cookies?
 
 
 ;Cookies are small data files that websites and third parties place on your computer to remember your preferences or to track your activity, sometimes across multiple sites.
-Las cookies son pequeños archivos de datos que los sitios web o terceros colocan en tu equipo con el fin de recordar tus preferencias o rastrear tu actividad, a veces en múltiples sitios.
+Cookies are small data files that websites and third parties place on your computer to remember your preferences or to track your activity, sometimes across multiple sites.
 
 
 # This fragment follows the number '76%'. If this doesn't work for your locale, you can start the sentence with "Percentage of adults who…"
 ;of adults say they are “not too confident” or “not at all confident” that records of their activity maintained by the online advertisers who place ads on the websites they visit will remain private and secure.
-de adultos afirman tener "poca confianza" o "ninguna confianza" en que las compañías publicitarias en Internet garanticen la privacidad y seguridad de los registros de su actividad al visitar estos sitios.
+of adults say they are “not too confident” or “not at all confident” that records of their activity maintained by the online advertisers who place ads on the websites they visit will remain private and secure.
 
 
 # "Pew Research Center" is a proper name and shouldn't be translated. Link to https://www.pewinternet.org/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/
 ;(Pew Research Center, May 2015)
-(Pew Research Center, mayo 2015)
+(Pew Research Center, May 2015)
 
 
 ;The websites we visit will often collect data about us to better personalize our experiences with them.
-Los sitios web que visitamos a menudo recopilan datos sobre nosotros para personalizar mejor nuestras experiencias con ellos.
+The websites we visit will often collect data about us to better personalize our experiences with them.
 
 
 ;The information they gather through analytics can be used to make navigating their site easier for us or to present us more relevant offers.
-La información que recopilan a través de analíticas puede utilizarse para facilitarnos la navegación en su sitio o presentarnos ofertas más relevantes.
+The information they gather through analytics can be used to make navigating their site easier for us or to present us more relevant offers.
 
 
 ;They also use cookies — small data files placed in our browsers — to remember language preferences or the contents in a shopping cart.
-Además usan cookies —pequeños archivos de datos que se colocan en nuestros navegadores— para recordar las preferencias de idioma o los artículos de un carro de compra.
+They also use cookies — small data files placed in our browsers — to remember language preferences or the contents in a shopping cart.
 
 
 ;By the way…
-Por cierto...
+By the way…
 
 
 ;Mozilla sites are no exception. Like most other Web sites, we also use third party tools to improve user experience.
-Los sitios de Mozilla no son una excepción. Como la mayoría de sitios web, también usamos herramientas de terceros para mejorar la experiencia del usuario.
+Mozilla sites are no exception. Like most other Web sites, we also use third party tools to improve user experience.
 
 
 # Link points to https://www.mozilla.org/privacy/websites/
 ;For more info see our <a href="{url}">Website Privacy Notice</a>.
-Para más información consulta nuestro <a href="{url}">Aviso sobre privacidad en sitios web</a>.
+For more info see our <a href="{url}">Website Privacy Notice</a>.
 
 
 ;Tracking without permission
-Rastreo sin permiso
+Tracking without permission
 
 
 ;Many websites we visit contain hidden third parties — such as data brokers, affiliate networks and advertising networks — who use cookies, and other data tracking methods, to collect information about our browsing habits without our consent.
-Muchos sitios web que visitamos contienen terceros ocultos —como corredores de datos, redes afiliadas y redes publicitarias— que usan cookies, y otros métodos de rastreo de datos, para recopilar información sobre nuestros hábitos de navegación sin nuestro consentimiento.
+Many websites we visit contain hidden third parties — such as data brokers, affiliate networks and advertising networks — who use cookies, and other data tracking methods, to collect information about our browsing habits without our consent.
 
 
 ;While tracking can be helpful, there can’t be a healthy trade-off between the value it provides and the data it collects without transparency.
-Si bien el rastreo puede ser de utilidad, sin transparencia no puede haber un intercambio sano entre el valor que proporciona y los datos que recopila.
+While tracking can be helpful, there can’t be a healthy trade-off between the value it provides and the data it collects without transparency.
 
 
 ;Going beyond the Web
-Más allá de la Web
+Going beyond the Web
 
 
 ;Online tracking is just one part of a larger ecosystem of data collection.
-El rastreo en línea es solo una parte de un ecosistema mayor de recopilación de datos.
+Online tracking is just one part of a larger ecosystem of data collection.
 
 
 ;Within this ecosystem, anonymized online data can be merged with personally identifiable information about you (information that you may have volunteered on a form, in an app or that was collected offline) to build a surprisingly detailed profile of you.
-Con este ecosistema, los datos anónimos en línea pueden fusionarse con información que te identifica de manera personal (información que puedes haber incluido voluntariamente en un formulario, en una app o que ha sido recopilada en línea) para crear un perfil sorprendentemente detallado de ti.
+Within this ecosystem, anonymized online data can be merged with personally identifiable information about you (information that you may have volunteered on a form, in an app or that was collected offline) to build a surprisingly detailed profile of you.
 
 
 ;These profiles have the potential to interfere with your life offline, and can contribute to unfair practices by being improperly used for price discrimination, decreased creditworthiness, more expensive insurance coverage or unfavorable employment or health reports.
-Estos perfiles poseen el potencial de interferir con tu vida digital y pueden incurrir en prácticas injustas, utilizándose indebidamente para establecer discriminación de precios, reducir la solvencia crediticia, aplicar una cobertura de seguro más cara, o aportar informes laborales o médicos desfavorables.
+These profiles have the potential to interfere with your life offline, and can contribute to unfair practices by being improperly used for price discrimination, decreased creditworthiness, more expensive insurance coverage or unfavorable employment or health reports.
 
 
 ;While these instances are not widespread yet, they do illustrate the potential depths of what is happening behind the scenes and outside of our control.
-Aunque estos casos puntuales no son excesivamente frecuentes todavía, sí que ilustran la magnitud potencial de lo que está ocurriendo a nuestras espaldas y fuera de nuestro control.
+While these instances are not widespread yet, they do illustrate the potential depths of what is happening behind the scenes and outside of our control.
 
 
 ;Be the boss of your personal info
-Sé el jefe de tu info personal
+Be the boss of your personal info
 
 
 ;There are many ways you can take back and maintain control of your online activity.
-Existen muchas formas de recuperar y mantener el control de tu actividad en línea.
+There are many ways you can take back and maintain control of your online activity.
 
 
 ;Here are some important tips, hand-picked by Mozilla experts.
-Aquí te ofrecemos algunas claves importantes, seleccionadas por expertos de Mozilla.
+Here are some important tips, hand-picked by Mozilla experts.
 
 
 ;Think deeper
-Reflexiona
+Think deeper
 
 
 ;A lot goes on behind the scenes of the Internet. The more you know, the better you can decide what your information is worth to you.
-Ocurren muchas cosas en Internet que no percibimos. Cuanto más sepamos, mejor podemos decidir qué valor tiene para nosotros nuestra información.
+A lot goes on behind the scenes of the Internet. The more you know, the better you can decide what your information is worth to you.
 
 
 ;Understand the hidden cost of free
-Comprende el coste oculto de lo gratis
+Understand the hidden cost of free
 
 
 ;We all like the appeal of “free” apps and online services but if you’re not paying for them, someone is, and what they’re buying may be the data you leave behind.
-A todos nos atraen las apps y los servicios en línea "gratuitos". Sin embargo, aunque no pagamos nada por ellos, otros sí lo hacen, y lo que compran pueden ser los datos que dejamos atrás.
+We all like the appeal of “free” apps and online services but if you’re not paying for them, someone is, and what they’re buying may be the data you leave behind.
 
 
 ;Decide whether the information you share is worth the service you are receiving.
-Decide si la información que compartes vale el servicio que recibes a cambio.
+Decide whether the information you share is worth the service you are receiving.
 
 
 ;Shine a light on trackers
-Arroja luz sobre quien te rastrea
+Shine a light on trackers
 
 
 # Link points to https://www.mozilla.org/lightbeam/
 ;If you’re a Firefox user, be sure to check out <a href="{url}">Lightbeam</a>, a simple and insightful add-on that visually graphs the depth of your browsing activity, including parts that are not usually visible to you.
-Si eres usuario de Firefox, echa un vistazo a <a href="{url}">Lightbeam</a>, un complemento sencillo, aunque muy esclarecedor, que representa de una manera gráfica el alcance de tu actividad de navegación, incluso partes que normalmente no ves.
+If you’re a Firefox user, be sure to check out <a href="{url}">Lightbeam</a>, a simple and insightful add-on that visually graphs the depth of your browsing activity, including parts that are not usually visible to you.
 
 
 ;Think before you click
-Piensa antes de hacer clic
+Think before you click
 
 
 ;When you see an element on a page, such as a “like” or social media login button, that’s an indication that some information has already been collected about you — clicking on it will share even more.
-Si ves un elemento en una página, como un "Me gusta" o un botón de inicio de sesión de un medio social, es una indicación de que ya se ha recopilado algo de información sobre ti. Al hacer clic en él, compartes aún más datos.
+When you see an element on a page, such as a “like” or social media login button, that’s an indication that some information has already been collected about you — clicking on it will share even more.
 
 
 ;Choose choice
-Elige poder elegir
+Choose choice
 
 
 ;It’s easy to overlook the access to personal data that we might offer through online accounts and apps, but most offer settings that give you choice and control.
-Es fácil que nos pasemos por alto el acceso a datos personales que ofrecemos en cuentas y apps en línea, pero la mayoría de ellas ofrecen ajustes que nos permiten elegir y controlar.
+It’s easy to overlook the access to personal data that we might offer through online accounts and apps, but most offer settings that give you choice and control.
 
 
 ;Delete your unused accounts
-Elimina las cuentas que no usas
+Delete your unused accounts
 
 
 ;Your data might get sold when a service or app shuts down.
-Tus datos podrían venderse cuando se cierra un servicio o una app.
+Your data might get sold when a service or app shuts down.
 
 
 ;If you don’t use it, close it.
-Si no lo usas, ciérralo.
+If you don’t use it, close it.
 
 
 ;Protect your profiles
-Protege tus perfiles
+Protect your profiles
 
 
 ;Some services you interact directly with let you control the information they have about you.
-Algunos servicios con los que interactúas te permiten controlar la información que tienen sobre ti.
+Some services you interact directly with let you control the information they have about you.
 
 
 ;Look at any opportunity to change or control your profile, if offered.
-Si se te ofrece la posibilidad, cambia o controla tu perfil.
+Look at any opportunity to change or control your profile, if offered.
 
 
 ;For example, you can manage your profile and preferences for <a href="%(google)s">Google</a>, <a href="%(yahoo)s">Yahoo!</a> and <a href="%(facebook)s">Facebook ads</a>, and even <a href="%(acxiom)s">edit data that’s been collected about you by Acxiom</a>, one of the world’s largest marketing data brokers.
-Por ejemplo, puedes gestionar tu perfil y tus preferencias para <a href="%(google)s">Google</a>, <a href="%(yahoo)s">Yahoo!</a> y <a href="%(facebook)s">anuncios de Facebook</a>, así como <a href="%(acxiom)s">editar datos que ha recopilado sobre ti Acxiom </a>, uno de los mayores corredores de datos de marketing del mundo.
+For example, you can manage your profile and preferences for <a href="%(google)s">Google</a>, <a href="%(yahoo)s">Yahoo!</a> and <a href="%(facebook)s">Facebook ads</a>, and even <a href="%(acxiom)s">edit data that’s been collected about you by Acxiom</a>, one of the world’s largest marketing data brokers.
 
 
 ;Don’t forget about apps
-No te olvides de las apps
+Don’t forget about apps
 
 
 ;Some mobile apps you install can access a lot of information about you, including details not necessarily related to the service they provide.
-Algunas apps móviles que instalas pueden acceder a bastante información sobre ti, incluso a detalles que no están relacionados necesariamente con el servicio que proporcionan.
+Some mobile apps you install can access a lot of information about you, including details not necessarily related to the service they provide.
 
 
 ;Control your privacy and location settings on <a href="{ios}">iOS</a> and <a href="{android}">Android</a>.
-Controla los ajustes de privacidad y ubicación en <a href="{ios}">iOS</a> y <a href="{android}">Android</a>.
+Control your privacy and location settings on <a href="{ios}">iOS</a> and <a href="{android}">Android</a>.
 
 
 ;Look to your browser
-Busca en tu navegador
+Look to your browser
 
 
 ;Most Web browsers offer a set of privacy features designed to give you control.
-La mayoría de navegadores ofrecen una serie de características de privacidad diseñadas para darte el control.
+Most Web browsers offer a set of privacy features designed to give you control.
 
 
 ;Here are a few key ones that you can make use of.
-Aquí tienes algunas de las más importantes que puedes usar.
+Here are a few key ones that you can make use of.
 
 
 ;Did you know?
-¿Lo sabías?
+Did you know?
 
 
 ;Firefox is filled with features designed to give you even more control over your personal information.
-Firefox está lleno de características diseñadas para darte aún más control sobre tu información personal.
+Firefox is filled with features designed to give you even more control over your personal information.
 
 
 ;Private Browsing with Tracking Protection
-Navegación privada con protección contra rastreo
+Private Browsing with Tracking Protection
 
 
 ;This feature minimizes the ability of hidden third parties to track your browsing activity across many sites.
-Esta característica minimiza la posibilidad de que terceros ocultos rastreen tu actividad de navegación en diferentes sitios.
+This feature minimizes the ability of hidden third parties to track your browsing activity across many sites.
 
 
 ;Give it a try!
-¡Pruébala!
+Give it a try!
 
 
 ;Forget Button
-Botón Olvidar
+Forget Button
 
 
 # Link points to https://support.mozilla.org/kb/forget-button-quickly-delete-your-browsing-history
 ;This toolbar option <a href="{url}">removes browsing information from your computer after the fact</a>. Use it when you’ve visited a site that you don’t want in your history.
-Esta opción de la barra de herramientas <a href="{url}">elimina la información de navegación del equipo inmediatamente después finalizar tu sesión</a>. Úsala cuando visites un sitio que no quieres que se registre en tu historial.
+This toolbar option <a href="{url}">removes browsing information from your computer after the fact</a>. Use it when you’ve visited a site that you don’t want in your history.
 
 
 # Link points to https://addons.mozilla.org/firefox/collections/mozilla/privacy/
 ;Privacy Add-ons
-Complementos sobre privacidad
+Privacy Add-ons
 
 
 ;The Mozilla privacy team has put together <a href="{url}">a collection of Firefox add-ons</a> to help you manage your privacy online.
-El equipo de privacidad de Mozilla ha recopilado <a href="{url}">una colección de complementos de Firefox</a> para ayudarte a gestionar tu privacidad en Internet.
+The Mozilla privacy team has put together <a href="{url}">a collection of Firefox add-ons</a> to help you manage your privacy online.
 
 
 ;Do Not Track
-No ser rastreado
+Do Not Track
 
 
 ;With this feature enabled, your browser will tell social sharing services, publishers, analytics providers, advertisers and third party networks that you want to opt-out of tracking.
-Con esta característica activada, tu navegador le indicará a los servicios de compartición en redes sociales, editores, proveedores de analíticas, publicistas y redes de terceros que explícitamente no deseas que te rastreen.
+With this feature enabled, your browser will tell social sharing services, publishers, analytics providers, advertisers and third party networks that you want to opt-out of tracking.
 
 
 ;Mozilla was the first company to include a Do Not Track feature when it was added to Firefox in 2011.
-Mozilla fue la primera compañía en incluir la característica No ser rastreado cuando en 2011 la añadió a Firefox.
+Mozilla was the first company to include a Do Not Track feature when it was added to Firefox in 2011.
 
 
 ;Since then, it has been adopted by most major browsers, though many companies on the receiving end of the requests are still not honoring them.
-Desde entonces, los principales navegadores la han adoptado, sin bien muchas compañías se muestran reacias a reconocer su importancia.
+Since then, it has been adopted by most major browsers, though many companies on the receiving end of the requests are still not honoring them.
 
 
 ;Efforts are being made by Web advocacy groups to have this changed.
-Los grupos de activismo digital están llevando a cabo una serie de esfuerzos para cambiar esta situación.
+Efforts are being made by Web advocacy groups to have this changed.
 
 
 ;Learn how to enable Do Not Track in <a href="%(firefox)s">Firefox</a>, <a href="%(chrome)s">Chrome</a>, <a href="%(ie)s">Internet Explorer</a>/<a href="%(edge)s">Edge</a> and <a href="%(safari)s">Safari</a>.
-Aprende a activar No ser rastreado en <a href="%(firefox)s">Firefox</a>, <a href="%(chrome)s">Chrome</a>, <a href="%(ie)s">Internet Explorer</a>/<a href="%(edge)s">Edge</a> y <a href="%(safari)s">Safari</a>.
+Learn how to enable Do Not Track in <a href="%(firefox)s">Firefox</a>, <a href="%(chrome)s">Chrome</a>, <a href="%(ie)s">Internet Explorer</a>/<a href="%(edge)s">Edge</a> and <a href="%(safari)s">Safari</a>.
 
 
 ;Private Browsing
-Navegación privada
+Private Browsing
 
 
 ;Use Private Browsing to keep from having certain items about your browsing activity locally saved.
-Usa la Navegación privada para guardar localmente determinados elementos de tu actividad de navegación.
+Use Private Browsing to keep from having certain items about your browsing activity locally saved.
 
 
 ;These include your history, searches and cookies.
-Estos incluyen tu historial, tus búsquedas y cookies.
+These include your history, searches and cookies.
 
 
 ;Here is how to use private browsing:
-He aquí como usar la Navegación privada:
+Here is how to use private browsing:
 
 
 ;Desktop
-Escritorio
+Desktop
 
 
 ;Smartphone
-<i>Smartphone</i>
+Smartphone
 
 
 ;Firefox for Android
-Firefox para Android
+Firefox for Android
 
 
 ;Additional privacy settings
-Más ajustes sobre privacidad
+Additional privacy settings
 
 
 ;Many browsers offer a range of privacy settings that will help you stay in control. Explore them here:
-Muchos navegadores ofrecen multitud de ajustes de privacidad que te ayudarán a tener el control. Explóralos aquí:
+Many browsers offer a range of privacy settings that will help you stay in control. Explore them here:
 
 
 ;Share your tracking smarts
-Comparte tus claves antirrastreo
+Share your tracking smarts
 
 
 ;Now that you have some tools and the knowledge to protect yourself, spread the word to friends.
-Ahora que dispones de algunas herramientas y del conocimiento para protegerte, díselo a tus amigos.
+Now that you have some tools and the knowledge to protect yourself, spread the word to friends.
 
 
 ;The more everybody knows about tracking and how to protect their online data, the better off we’ll all be. Feel free to use the questions below to keep the conversation going!
-Cuanto más sepamos sobre rastreo y protección de nuestros datos en línea, tanto mejor para todos. No dudes en utilizar estas preguntas para continuar hablando sobre este tema.
+The more everybody knows about tracking and how to protect their online data, the better off we’ll all be. Feel free to use the questions below to keep the conversation going!
 
 
 # Link points to https://teach.mozilla.org/activities/
 ;Are you a teacher? Give your students <a href="{url}">a simple lesson on tracking</a>.
-¿Eres profesor? Imparte a tus estudiantes <a href="{url}">una clase fácil sobre rastreo</a>.
+Are you a teacher? Give your students <a href="{url}">a simple lesson on tracking</a>.
 
 
 # Will be used as a tweet. Keep it as short as possible.
 ;What privacy settings do you use in your browser?
-¿Qué ajustes de privacidad usas en tu navegador?
+What privacy settings do you use in your browser?
 
 
 # Will be used as a tweet. Keep it as short as possible.
 ;How much are you willing to share about yourself in exchange for personalized content?
-¿Cuánto estás dispuesto a compartir sobre ti mismo a cambio de contenido personalizado?
+How much are you willing to share about yourself in exchange for personalized content?
 
 
 # Will be used as a tweet. Keep it as short as possible.
 ;Have you ever used private browsing?
-¿Has usado alguna vez la navegación privada?
+Have you ever used private browsing?
 
 
