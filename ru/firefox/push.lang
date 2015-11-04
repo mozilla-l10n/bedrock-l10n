@@ -1,4 +1,5 @@
 ## active ##
+## firefox_push_updates ##
 ## NOTE: Starting with Firefox 42, this page is linked from Firefox UI.
 ## NOTE: Demo available at https://www-dev.allizom.org/firefox/push/
 
@@ -19,7 +20,7 @@ Push {ok}
 
 
 ;Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
-Websites you use with Firefox can send you notifications in the background that can appear on screen or update the web page. You can control how these notifications appear and work.
+Веб-сайты, используемые вами в Firefox, могут отправлять вам в фоновом режиме уведомления, которые смогут появляться на экране или обновлять веб-страницу. Вы можете контролировать появление и работу этих уведомлений.
 
 
 ;What is Push?
