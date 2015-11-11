@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo server available at https://www-demo1.allizom.org/teach/smarton/security/
 
 
@@ -20,15 +21,15 @@
 
 
 ;Do you check for a secure connection when browsing the Web? Do you know how to recognize one?
-Do you check for a secure connection when browsing the Web? Do you know how to recognize one?
+你在浏览网页时有检查它是否为“安全连接”吗？你知道如何辨别吗？
 
 
 ;Are you doing as much to secure your online information as you do your personal property?
-Are you doing as much to secure your online information as you do your personal property?
+你有尽可能保护自己的网上信息，就如同保护自己的个人信息一样吗？
 
 
 ;How many passwords do you use, and how long have you had them?
-How many passwords do you use, and how long have you had them?
+你用过多少个密码，并且用了多长时间了？
 
 
 ;Cybersecurity explained
@@ -36,7 +37,7 @@ How many passwords do you use, and how long have you had them?
 
 
 ;As intimidating as it may sound, cybersecurity is actually really simple: it just means protecting yourself and your information online.
-As intimidating as it may sound, cybersecurity is actually really simple: it just means protecting yourself and your information online.
+听起来也许是吓人，但网络安全其实很简单：它只是意味着保护你和你在网上的信息。
 
 
 ;You can’t prevent every threat out there – online or off.
@@ -52,30 +53,30 @@ As intimidating as it may sound, cybersecurity is actually really simple: it jus
 
 
 ;This PBS’ Nova Labs video offers great background on cybersecurity.
-This PBS’ Nova Labs video offers great background on cybersecurity.
+PBS 的 Nova 实验室提供了这个绝佳的网络安全大背景视频（英语）。
 
 
 ;The Three Watch-Outs
-三大步骤
+三大威胁
 
 
 # Link points to https://shapeoftheweb.mozilla.org/trust/security
 ;Visit our cybersecurity glossary on <a href="{url}">Shape of the Web</a> to nerd out on security terms and techniques.
-Visit our cybersecurity glossary on <a href="{url}">Shape of the Web</a> to nerd out on security terms and techniques.
+访问我们在 <a href="{url}">Shape of the Web</a> 的网络安全术语表，深入了解网络安全的术语和技术。
 
 
 # This fragment follows the number '77%'. If this doesn't work for your locale, you can start the sentence with "Percentage of Internet users who…"
 ;of Internet users are concerned about someone hacking into their online accounts and stealing personal information like photos and private messages.
-of Internet users are concerned about someone hacking into their online accounts and stealing personal information like photos and private messages.
+的互联网用户担心有人入侵他们的网上账户，窃取像是照片和短信等个人信息。
 
 
 # "CIGI IPSOS" is an acronym and should not be translated. Link to https://www.cigionline.org/sites/default/files/survey/slides.pdf
 ;(CIGI IPSOS, November 2014)
-(CIGI IPSOS, November 2014)
+(CIGI IPSOS，2014年11月)
 
 
 ;Protecting yourself starts with knowing what to look out for. Here’s a quick rundown of the three most common cybersecurity threats:
-Protecting yourself starts with knowing what to look out for. Here’s a quick rundown of the three most common cybersecurity threats:
+保护自己从了解机理开始。下面是三种最常见的网络安全威胁的简要介绍：
 
 
 ;Manipulation
@@ -83,15 +84,15 @@ Protecting yourself starts with knowing what to look out for. Here’s a quick r
 
 
 ;Malicious hackers use all kinds of tricks to access and exploit your personal information.
-Malicious hackers use all kinds of tricks to access and exploit your personal information.
+恶意的黑客会使用各种花招来访问和利用您的个人信息。
 
 
 ;Like phishing (e.g. a fake bank email asking for your personal information), spamming, hacked accounts and the classic “Nigerian Prince” email (also called a “419 scam”).
-Like phishing (e.g. a fake bank email asking for your personal information), spamming, hacked accounts and the classic “Nigerian Prince” email (also called a “419 scam”).
+比如钓鱼（例如伪造成银行的电子邮件来询问您的个人信息）、垃圾邮件、入侵账户和经典的“尼日利亚王子”电子邮件（也称“419骗局”）。
 
 
 ;Healthy skepticism is your best friend on this front.
-Healthy skepticism is your best friend on this front.
+合理的怀疑在这点上是你最好的朋友。
 
 
 # Link to http://cbsphishingquiz.mcafee.com/
@@ -104,11 +105,11 @@ Healthy skepticism is your best friend on this front.
 
 
 ;Viruses, worms, Trojan horses… These nasty little programs are designed to infect your machine to cause damage, steal personal information, spy or force ads on you.
-Viruses, worms, Trojan horses… These nasty little programs are designed to infect your machine to cause damage, steal personal information, spy or force ads on you.
+病毒、蠕虫、木马…这些讨厌的小程序的目的都是感染您的计算机并造成损坏、窃取你的个人信息、进行间谍行为或者广告投放。
 
 
 ;Avoiding malware means being smart about where you click.
-Avoiding malware means being smart about where you click.
+避免恶意软件的其中一点是，在点击前思考一下。
 
 
 ;Network and Computer Attacks
@@ -116,11 +117,11 @@ Avoiding malware means being smart about where you click.
 
 
 ;Websites and networks are vulnerable to attacks from the simple to the very sophisticated.
-Websites and networks are vulnerable to attacks from the simple to the very sophisticated.
+网站和网络很容易受到攻击，从简单到极为复杂的攻击。
 
 
 ;This threat is the hardest to prevent. But you can put a few more barriers between yourself and the attackers.
-This threat is the hardest to prevent. But you can put a few more barriers between yourself and the attackers.
+这种威胁最难防范。你你可以在你与攻击者之间筑起几道坚实的障碍。
 
 
 ;Build your safety net
@@ -128,7 +129,7 @@ This threat is the hardest to prevent. But you can put a few more barriers betwe
 
 
 ;Improve your security online with these safety measures recommended by Mozilla policy pros.
-Improve your security online with these safety measures recommended by Mozilla policy pros.
+Mozilla 的政策制定者提出的几点建议，这些错误改善你的网络安全系数。
 
 
 ;Look both ways
@@ -136,7 +137,7 @@ Improve your security online with these safety measures recommended by Mozilla p
 
 
 ;The first and most important thing is just to pay close attention to where and when you click.
-The first and most important thing is just to pay close attention to where and when you click.
+第一点也是最重要的一点，你要注意你点击时的地方和点击后的事情。
 
 
 ;Trust your gut
@@ -144,11 +145,11 @@ The first and most important thing is just to pay close attention to where and w
 
 
 ;If a link or download doesn’t feel quite right, it probably isn’t.
-If a link or download doesn’t feel quite right, it probably isn’t.
+如果一个链接或者下载感觉不对劲，它很可能确实有问题。
 
 
 ;Make sure you install programs only from verified trusted sources, and don’t click on anything that looks even remotely suspicious – even when you think you know the source.
-Make sure you install programs only from verified trusted sources, and don’t click on anything that looks even remotely suspicious – even when you think you know the source.
+确保你只安装已验证的可信来源发行的程序，并且不要点击看上去可疑的远程事物——即使你知道这个来源。
 
 
 ;Watch yourself in public
@@ -156,7 +157,7 @@ Make sure you install programs only from verified trusted sources, and don’t c
 
 
 ;When you navigate the Web on a public Wi-Fi network, anyone who chooses to snoop can see some or all of your activity.
-When you navigate the Web on a public Wi-Fi network, anyone who chooses to snoop can see some or all of your activity.
+当你用一个公共 Wi-Fi 浏览网络时，任何人都可以选择窥探你的部分或者全部活动。
 
 
 ;So avoid sensitive activities when surfing in public.
@@ -164,7 +165,7 @@ When you navigate the Web on a public Wi-Fi network, anyone who chooses to snoop
 
 
 ;And before you share any kind of info anywhere online, think about how it might make you vulnerable.
-And before you share any kind of info anywhere online, think about how it might make you vulnerable.
+并且在你随心所欲的分享任何信息之前，想想这可能使自己受到的危害。
 
 
 ;Lock your doors
@@ -172,7 +173,7 @@ And before you share any kind of info anywhere online, think about how it might 
 
 
 ;Strong password practices are your single best protection against almost every kind of threat on the Web.
-Strong password practices are your single best protection against almost every kind of threat on the Web.
+强效的密码是对几乎所有网络上的自己的最好保护方式。
 
 
 ;Choose strong PINs and passwords
@@ -181,7 +182,7 @@ Strong password practices are your single best protection against almost every k
 
 # Link points to https://support.mozilla.org/kb/create-secure-passwords-keep-your-identity-safe
 ;Here are some Mozilla <a href="{url}">tips for creating a strong password for every device and account</a>.
-Here are some Mozilla <a href="{url}">tips for creating a strong password for every device and account</a>.
+这里有一些 Mozilla <a href="{url}">为每个设备和账户创建强效密码的提示</a>。
 
 
 ;And get in the habit of changing your passwords once a year.
@@ -194,7 +195,7 @@ Here are some Mozilla <a href="{url}">tips for creating a strong password for ev
 
 
 ;Would you use the same key for your front door, your car, and your safety deposit box? Probably not.
-Would you use the same key for your front door, your car, and your safety deposit box? Probably not.
+你会使用同一把钥匙来锁你的家门、车辆和保险箱吗？很可能不会。
 
 
 ;<a href="{url}">Keep track with a password manager</a> instead.
@@ -202,7 +203,7 @@ Would you use the same key for your front door, your car, and your safety deposi
 
 
 ;Do the two-step
-采取两步
+采用两步验证
 
 
 ;For the best protection, take advantage of 2-step authentication wherever it’s offered.
@@ -211,7 +212,7 @@ Would you use the same key for your front door, your car, and your safety deposi
 
 # Link points to http://stopthinkconnect.org/2stepsahead/resources
 ;Find out more.
-找出更多。
+都有哪些。
 
 
 ;In case of emergency
@@ -326,12 +327,12 @@ Firefox 附加组件
 
 
 ;Keep the conversation going with your community on social media, at home — maybe even on that public Wi-Fi at the airport.
-Keep the conversation going with your community on social media, at home — maybe even on that public Wi-Fi at the airport.
+在你的社交媒体上保持与社区的对话——甚至也可以在机场的公共 Wi-Fi。
 
 
 # Link points to https://teach.mozilla.org/activities/
 ;Are you a teacher? Give your students a <a href="{url}">simple lesson in cybersecurity</a>.
-Are you a teacher? Give your students a <a href="{url}">simple lesson in cybersecurity</a>.
+你是一名教师吗？给你的学生<a href="{url}">简单讲讲有关网络安全</a>吧。
 
 
 # Will be used as a tweet. Keep it as short as possible.
