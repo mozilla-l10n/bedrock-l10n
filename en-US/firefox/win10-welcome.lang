@@ -4,6 +4,7 @@
 ## NOTE: design of the page https://docs.google.com/presentation/d/1huZYwWDp2R4YOUwxY9rlLSu7vFPibamIHkKx_Pdraqg
 ## URL: https://www-dev.allizom.org/%LOCALE%/firefox/windows-10/welcome
 
+## win10_button_update ##
 
 # Main title
 ;Firefox + Windows 10. Perfect together.
@@ -19,9 +20,10 @@ We’ve designed Firefox to work seamlessly with your Windows 10 update, giving 
 Make Firefox your default in 3 easy steps:
 
 
+## TAG: win10_button_update
 # The following strings are displayed when Firefox is not set as default browser.
-;Click the button below
-Click the button below
+;Click the button above
+Click the button above
 
 
 ;Scroll down to “Web browser”
