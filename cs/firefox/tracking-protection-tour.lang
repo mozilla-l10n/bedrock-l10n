@@ -1,4 +1,5 @@
 ## active ##
+## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
@@ -73,7 +74,7 @@ Rozumím!
 
 
 ;Tracking Protection
-Tracking Protection
+Ochrana proti sledování
 
 
 ;Private Browsing with Tracking Protection
@@ -91,7 +92,7 @@ Chcete tuto funkci vypnout? <a href="%s">Navštivte předvolby Soukromí</a>
 
 
 ;Thanks for learning about Tracking Protection.
-Thanks for learning about Tracking Protection.
+Děkujeme, že jste si prohlédli informace o Ochraně proti sledování.
 
 
 ;Thanks for learning about the new Private Browsing with Tracking Protection.

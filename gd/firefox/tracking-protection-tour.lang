@@ -1,4 +1,5 @@
 ## active ##
+## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
@@ -73,7 +74,7 @@ Tha mi agaibh!
 
 
 ;Tracking Protection
-Tracking Protection
+Dìon o thracadh
 
 
 ;Private Browsing with Tracking Protection
@@ -91,7 +92,7 @@ A bheil thu airson an gleus seo a chur dheth? <a href="%s">Tadhail air roghainne
 
 
 ;Thanks for learning about Tracking Protection.
-Thanks for learning about Tracking Protection.
+Mòran taing airson ionnsachadh mun dìon o thracadh.
 
 
 ;Thanks for learning about the new Private Browsing with Tracking Protection.
