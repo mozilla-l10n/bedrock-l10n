@@ -1,4 +1,5 @@
 ## active ##
+## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_42 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
@@ -73,7 +74,7 @@ Got it! {ok}
 
 
 ;Tracking Protection
-Tracking Protection
+Tracking Protection {ok}
 
 
 ;Private Browsing with Tracking Protection
@@ -91,7 +92,7 @@ Want to turn off this feature? <a href="%s">Visit Privacy Preferences</a> {ok}
 
 
 ;Thanks for learning about Tracking Protection.
-Thanks for learning about Tracking Protection.
+Thanks for learning about Tracking Protection. {ok}
 
 
 ;Thanks for learning about the new Private Browsing with Tracking Protection.
