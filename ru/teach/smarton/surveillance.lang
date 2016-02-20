@@ -3,266 +3,266 @@
 
 # HTML Title
 ;Get smart on government surveillance
-Станьте розумними в питаннях урядового нагляду
+Get smart on government surveillance
 
 
 # HTML Meta (description). First part of the string is also available in the landing page file (smarton(index.lang)
 ;Decide where you think the line should be – and keep others from crossing it. Get smart on government surveillance.
-Вирішіть, де на вашу думку повинна проходити межа і не дозволяйте іншим перетинати її. Станьте розумними в питаннях урядового нагляду.
+Decide where you think the line should be – and keep others from crossing it. Get smart on government surveillance.
 
 
 ;Ask yourself
-Запитайте себе
+Ask yourself
 
 
 # This is the first part of a question that is completed in three different ways.
 ;If you’re not under investigation, should the government be able to:
-Якщо на вас не ведеться розслідування, чи повинен уряд мати змогу:
+If you’re not under investigation, should the government be able to:
 
 
 # These three fragments each complete the question, "If I'm not under investigation, should the government be able to ___?"
 ;monitor your phone calls?
-перехоплювати ваші телефонні дзінки?
+monitor your phone calls?
 
 
 ;read your emails and view the photos I send?
-читати ваші електронні листи і переглядати надіслані мною фотографії?
+read your emails and view the photos I send?
 
 
 ;see what you search for on the Web?
-бачити, що ви шукаєте в Інтернеті?
+see what you search for on the Web?
 
 
 ;Government surveillance explained
-Урядовий нагляд пояснює
+Government surveillance explained
 
 
 ;Stakeouts have always been an essential tool for law enforcement and national security.
-Стеження завжди було невід'ємною частиною інструментів для правоохоронних органів та національної безпеки.
+Stakeouts have always been an essential tool for law enforcement and national security.
 
 
 ;The difference now is that they’ve moved beyond binoculars, bugs and bad guys: surveillance has gone digital.
-Відмінність зараз в тому, що вони відійшли від біноклів, жучків та поганих хлопців: нагляд став цифровим.
+The difference now is that they’ve moved beyond binoculars, bugs and bad guys: surveillance has gone digital.
 
 
 ;All that data we generate through our daily activities online allows governments to keep an eye on lots of people at once, in hopes of catching the ones who are up to no good.
-Всі дані, які ми генеруємо прогягом нашої щоденної діяльності в мережі, дозволяють уряду спостерігати за багатьма людьми одночасно, сподіваючись зловити того, хто виглядає підозріло.
+All that data we generate through our daily activities online allows governments to keep an eye on lots of people at once, in hopes of catching the ones who are up to no good.
 
 
 ;It’s like grabbing a giant haystack just in case there might be a needle inside.
-Це все одно, що захоплення гігантської скирти сіна лише тому, що там всередині може бути голка.
+It’s like grabbing a giant haystack just in case there might be a needle inside.
 
 
 ;Stored info is vulnerable info
-Інформація, яка зберігається - це вразлива інформація
+Stored info is vulnerable info
 
 
 ;In order to tailor personal experiences for you, virtually every technology company you interact with collects and stores some amount of your personal information.
-З метою покращення вашої роботи, у вітруальному світі кожна технологічна компанія з якою ви взаємодієте, збирає та зберігає певну вашу особисту інформацію.
+In order to tailor personal experiences for you, virtually every technology company you interact with collects and stores some amount of your personal information.
 
 
 # Link points to https://shapeoftheweb.mozilla.org/trust/governmentSurveillance
 ;Under certain circumstances, those companies can be forced to <a href="{url}">turn over your information to governments</a>.
-За певних обставин, такі компанії можуть бути зобов'язані <a href="{url}">надати доступ до вашої інформації уряду</a>.
+Under certain circumstances, those companies can be forced to <a href="{url}">turn over your information to governments</a>.
 
 
 ;So what should companies do?
-Отже, що компанії повинні робити?
+So what should companies do?
 
 
 ;They can be proactive about protecting users’ information by limiting data collection to what’s needed, making data anonymous where possible, and deleting data when it’s no longer necessary.
-Вони можуть бути проактивними в питаннях захисту інформації користувачів шляхом обмеження збору даних, окрім необхідних для роботи, роблячи дані анонімними там, де це можливо, а також видаляючи дані, якщо вони більше не потрібні.
+They can be proactive about protecting users’ information by limiting data collection to what’s needed, making data anonymous where possible, and deleting data when it’s no longer necessary.
 
 
 # Link to https://www.mozilla.org/privacy/principles/
 ;This is what we practice at Mozilla.
-Це те, що ми практикуємо в Mozilla.
+This is what we practice at Mozilla.
 
 
 ;The solution: Safeguards
-Рішення: Гарантії
+The solution: Safeguards
 
 
 ;When surveillance is too broad or lacks key safeguards – like getting a warrant from a judge – it can be abused, either accidentally or on purpose. And our personal privacy is what’s at stake.
-Коли нагляд занадто обширний або він не дає ключових гарантій - таких як отримання судового ордеру - ним можна зловживати, чи то випадково, чи з певною метою. І під ударом наша особиста приватність.
+When surveillance is too broad or lacks key safeguards – like getting a warrant from a judge – it can be abused, either accidentally or on purpose. And our personal privacy is what’s at stake.
 
 
 ;In order to protect our personal liberties and maintain our trust in the Internet, Mozilla’s policy team proposes that government surveillance must follow three fundamental principles:
-З метою захисту наших особистих свобод та підтримки нашої довіри в Інтернеті, команда політики Mozilla пропонує три фундаментальні принципи, яким повинен відповідати урядовий нагляд:
+In order to protect our personal liberties and maintain our trust in the Internet, Mozilla’s policy team proposes that government surveillance must follow three fundamental principles:
 
 
 ;Minimal impact
-Мінімальний вплив
+Minimal impact
 
 
 ;Efforts should be made to collect only the information that’s needed, without compromising Internet infrastructure, technology companies’ data systems, or users’ trust.
-Зусилля повинні бути спрямовані лише на збір необхідної інформації, без компрометації інфраструктури Інтернету, систем даних технологічних компаній або довіри користувачів.
+Efforts should be made to collect only the information that’s needed, without compromising Internet infrastructure, technology companies’ data systems, or users’ trust.
 
 
 ;Accountability
-Відповідальність
+Accountability
 
 
 ;Governments should be held accountable.
-Уряд повинен нести відповідальність.
+Governments should be held accountable.
 
 
 ;This means being transparent and specific about information collection, and answering to independent oversight and to the public.
-Це значить бути прозорим і конкретним щодо збору інформації, а також відповідати на запити незалежних наглядачів та суспільства.
+This means being transparent and specific about information collection, and answering to independent oversight and to the public.
 
 
 ;User security
-Безпека користувачів
+User security
 
 
 ;Strong encryption and security keep us safe from many kinds of criminals.
-Надійне шифрування та безпека оберігають нас від багатьох видів злочинів.
+Strong encryption and security keep us safe from many kinds of criminals.
 
 
 ;Governments shouldn’t weaken the security of all in the name of spying on a few.
-Уряд не повинен послаблювати безпеку всіх заради відстеження кількох.
+Governments shouldn’t weaken the security of all in the name of spying on a few.
 
 
 # Quote in the sidebar
 ;“Some amount of surveillance for law enforcement and intelligence, properly designed, is valuable to keep us safe. But when it’s too broad, it violates the privacy rights of millions of innocent people, and can even undermine our security.”
-„Певна кількість стеження для правоохоронних органів та інтелекту, створених належним чином, важливі для збереження нашої безпеки. Але коли вони занадто всеосяжні, то порушують права на приватність мільйонів невинних людей, і можуть навіть загрожувати нашій безпеці.“
+“Some amount of surveillance for law enforcement and intelligence, properly designed, is valuable to keep us safe. But when it’s too broad, it violates the privacy rights of millions of innocent people, and can even undermine our security.”
 
 
 ;— Chris Riley, Head of Public Policy, Mozilla
-— Chris Riley, Керівник з державної політики, Mozilla
+— Chris Riley, Head of Public Policy, Mozilla
 
 
 # This fragment follows the number '61%'. If this doesn't work for your locale, you can start the sentence with "Percentage of Internet users who…"
 ;of Internet users are concerned with the police or other government agencies from their country secretly monitoring their online activities
-користувачів Інтернету стурбовані тим, що поліція чи інші урядові організації їхньої країни потайки стежать за їхньою діяльністю в мережі
+of Internet users are concerned with the police or other government agencies from their country secretly monitoring their online activities
 
 
 # "CIGI IPSOS" is an acronym and should not be translated. Link to https://www.cigionline.org/sites/default/files/survey/slides.pdf
 ;(CIGI IPSOS, November 2014)
-(CIGI IPSOS, Листопад 2014)
+(CIGI IPSOS, November 2014)
 
 
 ;Act before you react
-Дійте перед тим, як реагувати
+Act before you react
 
 
 ;We all have the right to live a full online life without fear of surveillance. Rather than give up your freedom, take back your control.
-Ми всі маємо право на діяльність в Інтернеті без остраху стеження. Перш, ніж віддати свою свободу, поверніть собі контроль.
+We all have the right to live a full online life without fear of surveillance. Rather than give up your freedom, take back your control.
 
 
 ;Take a stand
-Чиніть спротив
+Take a stand
 
 
 ;The first thing we can all do is keep our eyes and ears out – and make our voices heard.
-Перше, що ми всі можемо зробити, це наглядати й старатися бути почутими.
+The first thing we can all do is keep our eyes and ears out – and make our voices heard.
 
 
 ;Get informed
-Будьте інформовані
+Get informed
 
 
 ;Start with a simple online search to learn about your government’s stance on surveillance, so you can make informed decisions about your privacy.
-Почніть з простого пошуку в Інтернеті, щоб дізнатися про позицію свого уряду в питаннях стеження, таким чином ви зможете приймати правильні рішення щодо своєї приватності.
+Start with a simple online search to learn about your government’s stance on surveillance, so you can make informed decisions about your privacy.
 
 
 ;Stay updated
-Встановлюйте оновлення
+Stay updated
 
 
 # Link points to https://www.mozilla.org/newsletter/
 ;Sign up for the <a href="{url}">Mozilla newsletter</a> (English only).
-Підпишіться на <a href="{url}">інформаційний бюлетень Mozilla</a> (лише англійською).
+Sign up for the <a href="{url}">Mozilla newsletter</a> (English only).
 
 
 ;We actively track issues of mass surveillance and other threats to the Web, so we’ll let you know about opportunities to speak out.
-Ми активно стежимо за масовим наглядом та іншими видами загроз Інтернету, тож ми дамо вам знати про можливості висловитися.
+We actively track issues of mass surveillance and other threats to the Web, so we’ll let you know about opportunities to speak out.
 
 
 ;Close your blinds
-Закрийте свої жалюзі
+Close your blinds
 
 
 ;These quick steps can help protect you from overreaching surveillance practices.
-Ци швидкі кроки можуть допомогти вам захиститися від всюдисущої практики нагляду.
+These quick steps can help protect you from overreaching surveillance practices.
 
 
 ;Browse carefully
-Переглядайте з обережністю
+Browse carefully
 
 
 ;Always look for the padlock in your browser’s address bar.
-Завжди перевіряйте чи закритий замок у панелі адреси вашого браузера.
+Always look for the padlock in your browser’s address bar.
 
 
 ;Cap your camera
-Прикривайте свою камеру
+Cap your camera
 
 
 ;Put a sticker in front of your webcam when you’re not using it.
-Прикрийте свою камеру, коли вона не використовується.
+Put a sticker in front of your webcam when you’re not using it.
 
 
 ;Watch the Wi-Fi
-Остерігайтеся Wi-Fi
+Watch the Wi-Fi
 
 
 ;Be careful when using a public Wi-Fi network.
-Будьте обережні при використанні публічних мереж Wi-Fi.
+Be careful when using a public Wi-Fi network.
 
 
 # Link to SUMO articles
 ;Find out more.
-Дізнайтеся більше.
+Find out more.
 
 
 ;Change your locks
-Змініть свої замки
+Change your locks
 
 
 ;Passwords are an essential tool for shielding information from prying eyes.
-Паролі є необхідним інструментом для захисту інформації від надокучливих очей.
+Passwords are an essential tool for shielding information from prying eyes.
 
 
 ;Choose strong PINs and passwords.
-Обирайте надійні PIN-коди й паролі.
+Choose strong PINs and passwords.
 
 
 # Link points to https://support.mozilla.org/kb/create-secure-passwords-keep-your-identity-safe
 ;Here are some Mozilla <a href="{url}">tips for creating a strong password for every device and account</a>.
-Ось декілька <a href="{url}">порад від Mozilla для створення надійного паролю для кожного пристрою і облікового запису</a>.
+Here are some Mozilla <a href="{url}">tips for creating a strong password for every device and account</a>.
 
 
 ;And get in the habit of changing your passwords once a year.
-І візьміть собі звичку змінювати свої паролі раз на рік.
+And get in the habit of changing your passwords once a year.
 
 
 ;Don’t use a single password everywhere.
-Не використовуйте один пароль всюди.
+Don’t use a single password everywhere.
 
 
 ;Would you use the same key for your front door, your car, and your safety deposit box? Probably not.
-Чи використовували б ви один і той самий ключ для своїх вхідних дверей, автомобіля і депозидної скриньки? Напевне ні.
+Would you use the same key for your front door, your car, and your safety deposit box? Probably not.
 
 
 ;Keep track with a password manager instead.
-Використовуйте натомість менеджер паролів.
+Keep track with a password manager instead.
 
 
 ;See instructions for <a href="{firefox}">Firefox</a>, <a href="{chrome}">Chrome</a>, <a href="{ie}">Internet Explorer</a>, <a href="{safari}">Safari</a> and <a href="{opera}">Opera</a>.
-Перегляньте інструкції для <a href="{firefox}">Firefox</a>, <a href="{chrome}">Chrome</a>, <a href="{ie}">Internet Explorer</a>, <a href="{safari}">Safari</a> та <a href="{opera}">Opera</a>.
+See instructions for <a href="{firefox}">Firefox</a>, <a href="{chrome}">Chrome</a>, <a href="{ie}">Internet Explorer</a>, <a href="{safari}">Safari</a> and <a href="{opera}">Opera</a>.
 
 
 ;Do the two-step
-Використовуйте двоетапну авторизацію
+Do the two-step
 
 
 ;For the best protection, take advantage of 2-step authentication wherever it’s offered.
-Для найкращого захисту, користуйтеся перевагами двоетапної авторизації там, де вона пропонується.
+For the best protection, take advantage of 2-step authentication wherever it’s offered.
 
 
 ;Try encryption
-Спробуйте шифрування
+Try encryption
 
 
 ;Encryption is a bit like scrambling a frequency: it turns information into codes that can only be read if you have the right keys.
