@@ -1,5 +1,6 @@
 ## active ##
 ## tp_tour_firefox_201601 ##
+## tp_tour_firefox_201602 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -37,12 +38,12 @@ Kelaj partoj de la paĝo povus manki, ĉar ili povus permesi al aliaj spuri vin 
 
 
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this site.”
-It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this site.”
+Estas facile malŝalti la protekton kontraŭ spurado por la retejo, kie vie estas. Sufiĉas alklako sur “Malaktivigi protekton por tiu ĉi retejo.”
 
 
 # Obsolete string (do not remove)
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
-Estas facile malŝalti la protekton kontraŭ spurado por la retejo, kie vie estas. Sufiĉas alklako sur ”Malaktivigi protekton por tiu ĉi seanco”.
+Estas facile malŝalti la protekton kontraŭ spurado por la retejo, kie vie estas. Sufiĉas alklako sur ”Malaktivigi protekton por tiu ĉi seanco.”
 
 
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
