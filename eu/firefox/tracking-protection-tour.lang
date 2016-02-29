@@ -1,4 +1,6 @@
 ## active ##
+## tp_tour_firefox_201601 ##
+## tp_tour_firefox_201602 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -36,7 +38,7 @@ Aldaketak egin nahi?
 
 
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this site.”
-It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this site.”
+Erraza da uneko webgunerako jarraipenaren babesa itzaltzea "Desgaitu babesa gune honetarako" sakatuz.
 
 
 # Obsolete string (do not remove)
@@ -57,7 +59,7 @@ Ulertuta!
 
 
 ;Tracking Protection
-Tracking Protection
+Jarraipenaren babesa
 
 
 ;Private Browsing with Tracking Protection
@@ -70,7 +72,7 @@ Eginbide hau desaktibatu nahi? <a href="%s">Bisitatu pribatutasun-hobespenak</a>
 
 
 ;Thanks for learning about Tracking Protection.
-Thanks for learning about Tracking Protection.
+Milesker jarraipenaren babesari buruz ikastearren.
 
 
 ;Thanks for learning about the new Private Browsing with Tracking Protection.
