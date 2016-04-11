@@ -25,7 +25,7 @@ Käyttöjärjestelmä
 
 # Used for the navigation menu only in Firefox OS pages
 ;TV
-TV
+TV {ok}
 
 
 # Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
@@ -630,7 +630,7 @@ Sitoutunut sinuun, tietosuojaasi ja avoimeen verkkoon
 
 # Common title used in Fx 10 pages
 ;Choose Independent
-Valitse itsenäinen
+Valitse riippumaton
 
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
@@ -789,12 +789,12 @@ Minulle käy, että Mozilla käsittelee tietojani <a href="%s">tietosuojakäytä
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+Pysy ajan tasalla<br> Firefox-jutuista.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
-Hae Firefox-uutiset
+Saa Firefox-uutisia
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
@@ -804,7 +804,7 @@ KIRJOITA SÄHKÖPOSTIOSOITTEESI TÄHÄN
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+Tilaa nyt
 
 
 # Old newsletter subscription Button
