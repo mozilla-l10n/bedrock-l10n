@@ -162,8 +162,8 @@ Sign the pledge and stand up for strong encryption.
 Encryption is how we keep our personal information safe and private. Please join us in the fight to protect it.
 
 
-;Learn more about encryption, why it’s essential and why we need to protect it.
-Learn more about encryption, why it’s essential and why we need to protect it.
+;<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
+<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
 
 
 ;Take the pledge
@@ -251,10 +251,6 @@ Install Mozilla Stumbler for Android
 
 ;Map the wireless networks in your neighborhood.
 Map the wireless networks in your neighborhood.
-
-
-;Mozilla Stumbler is an open-source wireless network scanner which collects GPS, cellular and wireless network metadata for our crowd-sourced location database.
-Mozilla Stumbler is an open-source wireless network scanner which collects GPS, cellular and wireless network metadata for our crowd-sourced location database.
 
 
 ;Install Mozilla Stumbler
