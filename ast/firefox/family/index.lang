@@ -3,12 +3,12 @@
 
 # Title of the page (HTML meta tag)
 ;Firefox – Desktop browser, Android, iOS, OS, Hello, Sync, Private Browsing
-Firefox – Desktop browser, Android, iOS, OS, Hello, Sync, Private Browsing
+Firefox – El restolador d'escritoriu, Android, iOS, Firefox OS, Hello, Sync, Restolar en privao
 
 
 # Obsolete title of the page (do not remove)
 ;Firefox — Desktop browser, Android, OS, Hello, Sync, Marketplace
-Firefox — Desktop browser, Android, OS, Hello, Sync, Marketplace
+Firefox – El restolador d'escritoriu, Android, iOS, Firefox OS, Hello, Sync, Marketplace
 
 
 # Description of the page (HTML meta tag)
@@ -34,7 +34,7 @@ Elixi Firefox.
 
 # %s will be replaced by an image (Firefox wordmark)
 ;Free yourself with %s
-Llibérate tu mesmu con %s
+<span><b>Llibérate</b></span> con %s
 
 
 # <span> tag below adds visual style to "for" text
@@ -52,7 +52,7 @@ Firefox <span>for</span> Android
 
 
 ;Make it uniquely yours.
-Make it uniquely yours.
+Failu únicamente de to.
 
 
 ;Get it on Google Play

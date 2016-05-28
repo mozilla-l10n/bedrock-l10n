@@ -6,17 +6,17 @@
 
 # <title> tag
 ;Firefox — Designed to protect your privacy — The most trusted browser on the Web
-Firefox — Diseñáu pa protexer la to privacidá — El restoladore web nel que más confía la xente
+Firefox — Diseñáu pa protexer la to privacidá — El restolador web nel que más s'enfota la xente
 
 
 # main title
 ;Trust isn’t made. It’s earned.
-La confianza nun se da. Gánase.
+L'enfotu nun se fai. Gánase.
 
 
 # L10n: Line break below is for wide screen formatting only.
 ;We build Firefox with a mission to put you first, above all else.<br class="wide-br">
-Desendolcamos Firefox con una misión: tu yes lo primero, enantes que tolo demás.<br class="wide-br">
+Construyimos Firefox cola misión de ponete no primero, penriba de too.<br class="wide-br">
 
 
 ;We do it to keep you in control.
@@ -33,7 +33,7 @@ Y facémoslo porque naide más nun lo va facer.
 
 # The span tags are for presentational purpose
 ;<span id="trust-line1">Most trusted</span> <span id="trust-line2">internet company</span> <span id="trust-line3">for privacy</span>
-<span id="trust-line1">La compañía d'Internet</span> <span id="trust-line2">na que más se confía</span> <span id="trust-line3">pa la privacidá</span>
+<span id="trust-line1">La compañía d'Internet</span> <span id="trust-line2">na que más s'enfota</span> <span id="trust-line3">pa la privacidá</span>
 
 
 ;Designed to protect your privacy
