@@ -10,7 +10,7 @@ Restolar
 
 # Firefox family navigation menu. Main level item.
 ;<span>for</span> Android
-<span>p'Android</span>
+<span>p'</span>Android
 
 
 # Firefox family navigation menu. Main level item.
@@ -181,7 +181,7 @@ Tocante a Mozilla
 
 
 ;Get Involved
-Andecha con nós
+Andecha
 
 
 ;Careers
@@ -256,7 +256,7 @@ Personalizar
 
 
 ;Download
-Descargar
+Baxar
 
 
 ;Previous
@@ -356,7 +356,7 @@ Ver el sitiu completu
 
 
 ;Download for <span>Android</span>
-Descarga p'<span>Android</span>
+Baxar p'<span>Android</span>
 
 
 ;Desktop
@@ -388,7 +388,7 @@ Les caberes teunoloxíes
 
 
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-¡Necesites anovar! Obtén seguridá en menos d'un minutu. <br/> Entama a usar el to nuevu Firefox pa una meyor navegación y personalización de la web. <br/>   ¡Ye rápidu y de baldre!
+¡Necesites anovar! Obtén seguranza en menos d'un minutu. <br/> Entama a usar el to nuevu Firefox pa una meyor navegación y personalización de la web. <br/>   ¡Ye rápidu y de baldre!
 
 
 ;Upgrade now
@@ -405,7 +405,7 @@ Preseos sofitaos
 
 # This is the equivalent of 'Release Notes' but shorter, used next to download buttons
 ;What’s New
-Qu'hai nuevo
+Qué hai nuevo
 
 
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
@@ -485,7 +485,7 @@ Teunoloxía
 
 # Top menu item on firefox/update page
 ;Privacy &amp; Security
-Privacidá y Seguridá
+Privacidá y Seguranza
 
 
 # Top menu item on firefox/update page
