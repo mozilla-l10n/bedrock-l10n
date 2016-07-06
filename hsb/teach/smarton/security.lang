@@ -66,7 +66,7 @@ Wobhladajće sej naš glosar wo internetnej wěstoće na <a href="{url}">Shape o
 
 # This fragment follows the number '77%'. If this doesn't work for your locale, you can start the sentence with "Percentage of Internet users who…"
 ;of Internet users are concerned about someone hacking into their online accounts and stealing personal information like photos and private messages.
-of Internet users are concerned about someone hacking into their online accounts and stealing personal information like photos and private messages.
+internetnych wužiwarjow činja sej starosće wo tym, zo so něchtó do jich kontow online zadobywa a wosobinske daty kaž fota a priwatne powěsće kradnje.
 
 
 # "CIGI IPSOS" is an acronym and should not be translated. Link to https://www.cigionline.org/sites/default/files/survey/slides.pdf
@@ -75,7 +75,7 @@ of Internet users are concerned about someone hacking into their online accounts
 
 
 ;Protecting yourself starts with knowing what to look out for. Here’s a quick rundown of the three most common cybersecurity threats:
-Protecting yourself starts with knowing what to look out for. Here’s a quick rundown of the three most common cybersecurity threats:
+Waša wěstota so z tym započina, zo wěsće, na čož dyrbiće dźiwać. Tole su tři najhusćiše wohroženja internetneje wěstoty:
 
 
 ;Manipulation
@@ -83,20 +83,20 @@ Manipulacija
 
 
 ;Malicious hackers use all kinds of tricks to access and exploit your personal information.
-Malicious hackers use all kinds of tricks to access and exploit your personal information.
+Złowólni zadobywarjo wužiwaja wšelakore triki, zo bychu přistup na waše wosobinske daty dóstali a je zwužitkowali,
 
 
 ;Like phishing (e.g. a fake bank email asking for your personal information), spamming, hacked accounts and the classic “Nigerian Prince” email (also called a “419 scam”).
-Like phishing (e.g. a fake bank email asking for your personal information), spamming, hacked accounts and the classic “Nigerian Prince” email (also called a “419 scam”).
+kaž na př. kradnjenje sensibelnych datow („phishing“: na př. přez sfalšowanu bankowu e-mejlku, kotraž so za wašimi wosibinskimi datami praša), spamowanje, haknjene konta a klasiska e-mejlka „Nigeriski princ“ (tež „419 scam“ mjenowany).
 
 
 ;Healthy skepticism is your best friend on this front.
-Healthy skepticism is your best friend on this front.
+Strowa njedowěra je tu waš najlěpši přećel.
 
 
 # Link to http://cbsphishingquiz.mcafee.com/
 ;Test your phishing knowledge
-Test your phishing knowledge
+Testujće swoju wědu wo kradnjenju datow
 
 
 ;Malware
@@ -104,11 +104,11 @@ Złowólna softwara
 
 
 ;Viruses, worms, Trojan horses… These nasty little programs are designed to infect your machine to cause damage, steal personal information, spy or force ads on you.
-Viruses, worms, Trojan horses… These nasty little programs are designed to infect your machine to cause damage, steal personal information, spy or force ads on you.
+Wirusy, waki, trojanske konje… Tute złowólne małe programy su za to myslene, waš ličak inficěrować, zo bychu škodu zawinowali, wosobinske daty kradnyli, spioněrowali abo wabjenje nanuzowali.
 
 
 ;Avoiding malware means being smart about where you click.
-Avoiding malware means being smart about where you click.
+Zo byšće złowólne programy wobešoł, kedźbujće, hdźež kliknjeće.
 
 
 ;Network and Computer Attacks
@@ -116,11 +116,11 @@ Syćowe a kompjuterowe nadpady
 
 
 ;Websites and networks are vulnerable to attacks from the simple to the very sophisticated.
-Websites and networks are vulnerable to attacks from the simple to the very sophisticated.
+Websydła a syće su napadojty za jednore a rafinowane nadpady.
 
 
 ;This threat is the hardest to prevent. But you can put a few more barriers between yourself and the attackers.
-This threat is the hardest to prevent. But you can put a few more barriers between yourself and the attackers.
+Tute wohroženje da so najćešo wobeńć. Ale móžeće wjace barjerow mjezy sobu a nadpadnikami nastajić.
 
 
 ;Build your safety net
@@ -128,27 +128,27 @@ Twarće swoju wěstotny syć
 
 
 ;Improve your security online with these safety measures recommended by Mozilla policy pros.
-Improve your security online with these safety measures recommended by Mozilla policy pros.
+Polěpšće swoju wěstotu online z tutymi wěstotnymi naprawami doporučenymi wot profijow Mozilla.
 
 
 ;Look both ways
-Look both ways
+Hladajće k woběmaj směromaj
 
 
 ;The first and most important thing is just to pay close attention to where and when you click.
-The first and most important thing is just to pay close attention to where and when you click.
+Prěnja a najwažniša wěc je, prosće wjace kedźbnosć tomu wěnować, hdźe a hdy kliknjeće.
 
 
 ;Trust your gut
-Trust your gut
+Dowěrće swojej intuiciji
 
 
 ;If a link or download doesn’t feel quite right, it probably isn’t.
-If a link or download doesn’t feel quite right, it probably isn’t.
+Jeli so wam wotkaz abo sćehnjenje dźiwne zda, tomu nasjkerje tak je.
 
 
 ;Make sure you install programs only from verified trusted sources, and don’t click on anything that looks even remotely suspicious – even when you think you know the source.
-Make sure you install programs only from verified trusted sources, and don’t click on anything that looks even remotely suspicious – even when you think you know the source.
+Instalujće programy jenož z přepruwowanych dowěry hódnych žórłow a njeklikńće na něšto, zo jenož znazdala podhladnje wupada – samo hdyž wěriće, zo žórło znajeće.
 
 
 ;Watch yourself in public
@@ -168,7 +168,7 @@ And before you share any kind of info anywhere online, think about how it might 
 
 
 ;Lock your doors
-Lock your doors
+Zašlahajće swoje durje
 
 
 ;Strong password practices are your single best protection against almost every kind of threat on the Web.
@@ -331,7 +331,7 @@ Keep the conversation going with your community on social media, at home — may
 
 # Link points to https://teach.mozilla.org/activities/
 ;Are you a teacher? Give your students a <a href="{url}">simple lesson in cybersecurity</a>.
-Are you a teacher? Give your students a <a href="{url}">simple lesson in cybersecurity</a>.
+Sće wučer? Podajće swojim studentam  <a href="{url}">jednoru lekciju w internetnej wěstoće</a>.
 
 
 # Will be used as a tweet. Keep it as short as possible.
