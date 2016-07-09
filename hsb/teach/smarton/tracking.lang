@@ -45,7 +45,7 @@ Wobhladajće sej dokumentaciju na donottrack-doc.com.
 
 # Link points to https://donottrack-doc.com/
 ;To get a good look at how tracking works, be sure to check out the first episode of Brett Gaylor’s documentary series, <a href="{url}"><cite>Do Not Track</cite></a>.
-To get a good look at how tracking works, be sure to check out the first episode of Brett Gaylor’s documentary series, <a href="{url}"><cite>Do Not Track</cite></a>.
+Zo byšće rozumił, kak slědowanje funguje, wobhladajće sej prěnju epizodu dokumentarneje serije <a href="{url}"><cite>Do Not Track</cite></a>.
 
 
 ;Tracking in action
@@ -53,19 +53,19 @@ Slědowanje w akciji
 
 
 ;Let’s imagine a typical day online: you start by checking emails, maybe share a fun article you just read.
-Let’s imagine a typical day online: you start by checking emails, maybe share a fun article you just read.
+Předstajmy sej typiski dźeń online: čitaće swoje e-mejlki a dźěliće žortny nastawk, kotryž sće runje čitał.
 
 
 ;At lunch, you check showtimes for a movie a friend recommended on Facebook and look up prices for some new camping gear you’ve had your eye on.
-At lunch, you check showtimes for a movie a friend recommended on Facebook and look up prices for some new camping gear you’ve had your eye on.
+Na snědań hladaće, hdy film běži, kotryž přećel je doporučił na Facebooku a pytaće płaćizny za campingowe wuhotowanje, kotrež sće widźał.
 
 
 ;That’s only a few sites, but what’s happening behind the scenes is that many more “third-parties” — companies that are separate from the sites you’re visiting — are seeing and recording your activity.
-That’s only a few sites, but what’s happening behind the scenes is that many more “third-parties” — companies that are separate from the sites you’re visiting — are seeing and recording your activity.
+To běchu jenož někotre sydła, ale za kulisami wjele dalšich „třeće“ — předewzaća, kotrež su dźělene wot sydłow, kotrež wopytujeće — wašu aktiwitu widźi a składuje.
 
 
 ;So when you begin seeing recommended articles about that movie, or ads for that camping gear, later in the day, it’s no coincidence.
-So when you begin seeing recommended articles about that movie, or ads for that camping gear, later in the day, it’s no coincidence.
+Je tuž žadyn připad, hdyž pozdźišo doporučene nastawki wo tym filmje abo wabjenje za te campingowe wuhotowanje widźiće.
 
 
 ;Tracking for personalization
@@ -77,12 +77,12 @@ Slědowanje za personalizaciju
 
 
 ;Cookies are small data files that websites and third parties place on your computer to remember your preferences or to track your activity, sometimes across multiple sites.
-Cookies are small data files that websites and third parties place on your computer to remember your preferences or to track your activity, sometimes across multiple sites.
+Placki su małe dataje, kotrež websydła a třeće na wašim ličaku wotkładuja, zo bychu waše nastajenja składowali abo wašu aktiwitu slědowali, druhdy přez wjacore sydła prěki.
 
 
 # This fragment follows the number '76%'. If this doesn't work for your locale, you can start the sentence with "Percentage of adults who…"
 ;of adults say they are “not too confident” or “not at all confident” that records of their activity maintained by the online advertisers who place ads on the websites they visit will remain private and secure.
-of adults say they are “not too confident” or “not at all confident” that records of their activity maintained by the online advertisers who place ads on the websites they visit will remain private and secure.
+dorosćenych praji, zo „sej jara wěsći“ abo „sej na žane wašnje wěsći“ njejsu, zo natočenja jich aktiwity wot poskićowarjow wabjenja online, kotřiž wabjenje na websydłach zaměstneja, priwatne a wěste wostawaja.
 
 
 # "Pew Research Center" is a proper name and shouldn't be translated. Link to https://www.pewinternet.org/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/
@@ -91,15 +91,15 @@ of adults say they are “not too confident” or “not at all confident” tha
 
 
 ;The websites we visit will often collect data about us to better personalize our experiences with them.
-The websites we visit will often collect data about us to better personalize our experiences with them.
+Wopytane websydła husto daty wo nas hromadźa, zo bychu naše dožiwjenja z nimi personalizowali.
 
 
 ;The information they gather through analytics can be used to make navigating their site easier for us or to present us more relevant offers.
-The information they gather through analytics can be used to make navigating their site easier for us or to present us more relevant offers.
+Daty, kotrež so přez analyzy hromadźa, dadźa so wužiwać, zo by so nawigowanje na sydle za nas wosnadniło, zo bychu nam dalše přihódne poskitki prezentowali.
 
 
 ;They also use cookies — small data files placed in our browsers — to remember language preferences or the contents in a shopping cart.
-They also use cookies — small data files placed in our browsers — to remember language preferences or the contents in a shopping cart.
+Wužiwaja tež placki — małe dataje w našich wobhladowakach —, zo bychu rěčne nastajenja abo wobsah w nakupowanskim wozyku składowali.
 
 
 ;By the way…
@@ -107,7 +107,7 @@ Připódla prajene…
 
 
 ;Mozilla sites are no exception. Like most other Web sites, we also use third party tools to improve user experience.
-Mozilla sites are no exception. Like most other Web sites, we also use third party tools to improve user experience.
+Websydła Mozilla wuwzaće njejsu. Kaž najwjace druhich websydłow wužiwamy tež nastroje třećich, zo bychmy wužiwarske dožiwjenje polěpšili.
 
 
 # Link points to https://www.mozilla.org/privacy/websites/
@@ -120,31 +120,31 @@ Slědowanje bjez prawa
 
 
 ;Many websites we visit contain hidden third parties — such as data brokers, affiliate networks and advertising networks — who use cookies, and other data tracking methods, to collect information about our browsing habits without our consent.
-Many websites we visit contain hidden third parties — such as data brokers, affiliate networks and advertising networks — who use cookies, and other data tracking methods, to collect information about our browsing habits without our consent.
+Wjele wopytanych websydłow wobsahuje schowanych třećich poskićowarjow — na přikład datowych wikowarjow, partnerske a wabjenske syće —, kotřiž placki a druhe metody za slědowanje datow wužiwaja, zo bychu informacije wo wašich přehladowanskich zwučenosćach bjez wašeje dowolnosće hromadźili.
 
 
 ;While tracking can be helpful, there can’t be a healthy trade-off between the value it provides and the data it collects without transparency.
-While tracking can be helpful, there can’t be a healthy trade-off between the value it provides and the data it collects without transparency.
+Hačrunjež slědowanje móže wužitne być, njeje bjez transparency žadyn strowy kompromis mjez jeho hódnotu a nahromadźenymi datami bjez móžno.
 
 
 ;Going beyond the Web
-Going beyond the Web
+Dale sahacy hač internet
 
 
 ;Online tracking is just one part of a larger ecosystem of data collection.
-Online tracking is just one part of a larger ecosystem of data collection.
+Slědowanje online je jenož jedyn dźěl wjetšeho ekosystema datoweje zběrki.
 
 
 ;Within this ecosystem, anonymized online data can be merged with personally identifiable information about you (information that you may have volunteered on a form, in an app or that was collected offline) to build a surprisingly detailed profile of you.
-Within this ecosystem, anonymized online data can be merged with personally identifiable information about you (information that you may have volunteered on a form, in an app or that was collected offline) to build a surprisingly detailed profile of you.
+Znutřka ekosystema dadźa so anonymizowane daty online z wosobinskimi datami wo was měšeć (daty, kotrež sće we formularje, w nałoženju podał abo kotrež su so online hromadźili), zo by so zboha nadrobny profil załožił.
 
 
 ;These profiles have the potential to interfere with your life offline, and can contribute to unfair practices by being improperly used for price discrimination, decreased creditworthiness, more expensive insurance coverage or unfavorable employment or health reports.
-These profiles have the potential to interfere with your life offline, and can contribute to unfair practices by being improperly used for price discrimination, decreased creditworthiness, more expensive insurance coverage or unfavorable employment or health reports.
+Tute profile maja potencial, waše žiwjenje offline wobwliwować a móža k tomu přinošować, zo z wami njefairnje wobchadźeja. Dadźa so na přikład k tomu wužiwać, zo dyrbiće wyše płaćizny płaćić, sće mjenje kredita hódny, dyrbiće dróše zawěsćenja wotzamknyć abo špatne přistajenja přiwzać abo dóstawaja špatniše strowotne prognozy.
 
 
 ;While these instances are not widespread yet, they do illustrate the potential depths of what is happening behind the scenes and outside of our control.
-While these instances are not widespread yet, they do illustrate the potential depths of what is happening behind the scenes and outside of our control.
+Hačrunjež tute pady hišće jara daloko rozšěrjene njejsu. ilustruja pocential toho, štož so za kulisami a bjez wašeje kontrole stawa.
 
 
 ;Be the boss of your personal info
@@ -152,11 +152,11 @@ Budźće z knjezom nad swojimi wosobinskimi datami
 
 
 ;There are many ways you can take back and maintain control of your online activity.
-There are many ways you can take back and maintain control of your online activity.
+Je wjele móžnosćow, kak móžeće kontrolu nad swojej aktiwitu online wróćo dóstać a wobchować.
 
 
 ;Here are some important tips, hand-picked by Mozilla experts.
-Here are some important tips, hand-picked by Mozilla experts.
+Tu su někotre wažne pokiwy, zwuběrane wot ekspertow Mozilla.
 
 
 ;Think deeper
@@ -164,7 +164,7 @@ Přemyslujće hłubšo
 
 
 ;A lot goes on behind the scenes of the Internet. The more you know, the better you can decide what your information is worth to you.
-A lot goes on behind the scenes of the Internet. The more you know, the better you can decide what your information is worth to you.
+Wjele so za kulisami interneta stawa. Čim wjace wěsće, ćim lěpje móžeće rozsudźić, što waše daty wam hódne su.
 
 
 ;Understand the hidden cost of free
@@ -176,7 +176,7 @@ We all like the appeal of “free” apps and online services but if you’re no
 
 
 ;Decide whether the information you share is worth the service you are receiving.
-Decide whether the information you share is worth the service you are receiving.
+Rozsudźće, hač daty, kotrež dale dawaće, słužbu, kotruž dóstanjeće, su hódne.
 
 
 ;Shine a light on trackers
@@ -221,7 +221,7 @@ Jeli jo njewužiwaće, začińće jo.
 
 
 ;Some services you interact directly with let you control the information they have about you.
-Some services you interact directly with let you control the information they have about you.
+Někotre słužby, kotrež direktnje wužiwaće, wam zmóžnjeja, daty, kotrež wo was maja, wot was kontrolować.
 
 
 ;Look at any opportunity to change or control your profile, if offered.

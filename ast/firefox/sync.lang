@@ -1,4 +1,5 @@
 ## active ##
+## firefox_sync_mobile_buttons_update ##
 ## firefox_sync_non_fx ##
 ## ios_announce ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
@@ -9,7 +10,7 @@ Caltén Firefox sincronizáu
 
 
 ;Ready, Set, Sync
-Preparáu, llistu, <b>Sync</b>roniza
+Na marca, preparáu... <b>Sync</b>roniza
 
 
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
@@ -37,20 +38,20 @@ La versión nueva de Sync namái furrula cola cabera versión de Firefox
 
 
 ;Soon you’ll be able to use Sync on your iOS device
-Bien aína vas poder usar Sync nel to preséu iOS
+Ceo sedrás a usar Sync nel to preséu iOS
 
 
 ;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
-Sync ye una más de les munches carauterístiques xeniales que namái pues consiguir con Firefox. ¡Descúbriles toes!
+Sync ye namái una de les grandes carauterístiques que namás consiguirás con Firefox. ¡Descúbriles toes!
 
 
 ;Now sync Firefox with your iOS and Android devices.
-Now sync Firefox with your iOS and Android devices.
+Agora sincroniza Firefox colos tos preseos iOS y Android.
 
 
 # This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 ;Sync is just one of the great features you’ll only get with Firefox.
-Sync ye una carauterística única de les munches que namái pues obtener con Firefox. ¡Descúbriles toes!
+Sync ye una de les grandes carauterístiques que namái consiguirás con firefox.
 
 
 ;Download Firefox for Android
