@@ -14,7 +14,7 @@ Download Mozilla Firefox, a free Web browser. Firefox is created by a global non
 
 
 ;Thanks for choosing Firefox. Your download should begin automatically. If not, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-Thanks for choosing Firefox. Your download should begin automatically. If not, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
+Благодарим ви, че избрахте Firefox. Изтеглянето трябва да започне автоматично. Ако не започне, <a id="%(id)s" href="%(fallback_url)s">щракнете тук</a>.
 
 
 ;Browse Freely
@@ -50,7 +50,7 @@ Want a fresh copy?
 
 
 ;Get Firefox for Android and iOS.
-Get Firefox for Android and iOS.
+Вземете Firefox за Android и iOS.
 
 
 ;Learn more about Firefox for Mobile
