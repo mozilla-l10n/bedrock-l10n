@@ -1,3 +1,7 @@
+## active ##
+## android_reader_links ##
+## android_spring_updates ##
+## tracking_protection ##
 ## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
 
 
@@ -54,7 +58,7 @@ Google Play တွင် ဆွဲယူပါ
 
 
 ;The most adaptive way to share anything, Quick Share remembers your most recently used apps to help you get the word out just the way you want.
-The most adaptive way to share anything, Quick Share remembers your most recently used apps to help you get the word out just the way you want.
+အရာအားလုံးကို မျှဝေရန် အကောင်းဆုံးနည်းလမ်းဖြစ်သည့် Quick Share က အဆင်ပြေလွယ်ကူစေရန် မကြာခဏသုံးလေ့ရှိသည့် အက်ပ်များကို မှတ်ထားပေးပါသည်။
 
 
 ;See how it works
@@ -66,15 +70,15 @@ The most adaptive way to share anything, Quick Share remembers your most recentl
 
 
 ;Customize your Home panels with any Web content you want and access your favorite feeds &mdash; like Instagram and Pocket Hits &mdash; instantly.
-Customize your Home panels with any Web content you want and access your favorite feeds &mdash; like Instagram and Pocket Hits &mdash; instantly.
+နှစ်သက်သည့် ဝဘ်အစိတ်အပိုင်းကို အသုံးပြုပြီး အဖွင့်စာမျက်နှာပန်နယ်များကို စိတ်ကြိုက်ပြုပြင်ပါ။ မိမိနှစ်သက်ရာ သတင်းတိုများ &mdash; ဥပမာ Instagram၊ Pocket Hits စသည်တို့ထံမှ &mdash; ကိုလည်း ချက်ချင်း ရယူဖတ်ရှုပါ။
 
 
 ;A touch more personal
-A touch more personal
+ကိုယ်ရေးကိုယ်တာသီးသန့်ဆန်ဆန်တို့ထိအသုံးပြုနိုင်မှု
 
 
 ;Display your Home panels in any order you like or add, hide and delete them as you see fit to keep your favorites one touch away.
-Display your Home panels in any order you like or add, hide and delete them as you see fit to keep your favorites one touch away.
+နှစ်သက်ရာအစဉ်အတိုင်း အဖွင့်ပန်နယ်များကို ပြသနိုင်သည်။ သို့မဟုတ် မိမိနှင့် အဆင်ပြေသည့်ပုံစံအတိုင်း နှစ်သက်ရာပန်နယ်များကို အသစ်ထည့်သွင်း၊ ဖျောက်ထား၊ ပယ်ဖျက်နိုင်သည်။
 
 
 ;Learn more
@@ -90,7 +94,7 @@ Display your Home panels in any order you like or add, hide and delete them as y
 
 
 ;Or change it any time to the one that best matches your search and privacy needs.
-Or change it any time to the one that best matches your search and privacy needs.
+သို့မဟုတ် မိမိ၏ရှာဖွေမှုနှင့် ကိုယ်ရေးကိုယ်တာလိုအပ်ချက်များနှင့် ကိုက်ညီသော အပြင်အဆင်ကို မည်သည့်အချိန်တွင်မဆို ပြောင်းလဲသတ်မှတ်နိုင်သည်။
 
 
 ;Change your language
@@ -102,11 +106,11 @@ Or change it any time to the one that best matches your search and privacy needs
 
 
 ;Enjoy a more pleasant reading experience with Reader View and Reading List.
-Enjoy a more pleasant reading experience with Reader View and Reading List.
+စာဖတ်အမြင်နှင့် စာဖတ်စာရင်းကို အသုံးပြုပြီး အဆင်ပြေကောင်းမွန်စွာ ဖတ်ရှုနိုင်သည်။
 
 
 ;Access your saved articles even when you’re not online.
-Access your saved articles even when you’re not online.
+အွန်လိုင်းမဟုတ်သည့်အချိန်များတွင် သိမ်းဆည်းထားသည့်ဆောင်းပါများကို ရယူအသုံးပြုပါ။
 
 
 # Link points to https://support.mozilla.org/kb/save-web-pages-your-reading-list-firefox-android
@@ -120,7 +124,7 @@ Access your saved articles even when you’re not online.
 
 
 ;Change your browser language quickly and easily, without having to change the settings for your entire device or even restart your browser.
-Change your browser language quickly and easily, without having to change the settings for your entire device or even restart your browser.
+မိမိအသုံးပြုသည့် ဘာသာစကားများကို ကိရိယာအပြင်ဆင်တွင် သွားရောက်ပြောင်းလဲစရာမလိုပဲ သို့မဟုတ် ဘရောင်ဇာကို ပြန်ဖွင့်စရာမလိုပဲ လွယ်ကူအဆင်ပြေစွာ ပြောင်းလဲအသုံးပြုနိုင်သည်။
 
 
 ;Take it to the big screen
@@ -128,7 +132,7 @@ Change your browser language quickly and easily, without having to change the se
 
 
 ;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
-Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+သင့်စမတ်ဖုန်း သို့မဟုတ် တက်ဘလက်ကနေ စထရင်းမင်းစွမ်းရည်ပါရှိသည့် မည်သည့် တီဗွီသို့မဆို ဗီဒီယိုနှင့် ဝဘ်အကြောင်းအရာများကို ပေးပို့နိုင်သည်။
 
 
 ;Keep your private info private
@@ -136,11 +140,11 @@ Send video and Web content from your smartphone or tablet to any TV equipped wit
 
 
 ;We believe your personal information belongs to you.
-We believe your personal information belongs to you.
+သင့်ကိုယ်ရေးကိုယ်တာအချက်အလက်များသည် သင်နှင့်သာဆိုင်ပါသည်ဟု ယုံကြည်ပါသည်။
 
 
 ;Firefox for Android is filled with features to help keep it that way.
-Firefox for Android is filled with features to help keep it that way.
+Android အတွက် Firefox ကို လက်ရှိပုံစံအတိုင်း ဆောင်ရွက်မှုရှိနေစေရန် စွမ်းဆောင်ရည်များ ဖြည့်ထားသည်။
 
 
 ;Private Browsing with<br> Tracking Protection
@@ -160,15 +164,15 @@ Firefox for Android is filled with features to help keep it that way.
 
 
 ;Delete your browsing history, passwords and more in a single tap.
-Delete your browsing history, passwords and more in a single tap.
+ရှာဖွေမှုမှတ်တမ်း၊ စကားဝှက်များနှင့် အခြား စသည်တို့ကို တစ်ခါတို့ထိရုံဖြင့် ဖျက်နိုင်သည်။
 
 
 ;Choose the private data you want to remove whenever you need to do so.
-Choose the private data you want to remove whenever you need to do so.
+ဘယ်အချိန်ပဲဖြစ်ဖြစ် ကိုယ်ရေးကိုယ်တာဆိုင်ရာ အချက်အလက်ကို ဖျက်လိုလျှင် ဖျက်လိုသည့် အချက်အလက်ကို ရွေးချယ်ပါ။
 
 
 ;Learn how to clear your history
-Learn how to clear your history
+သင့်မှတ်တမ်းရှင်းလင်းနည်း လေ့လာပါ
 
 
 ;Guest browsing
@@ -176,7 +180,7 @@ Learn how to clear your history
 
 
 ;Share your browser with friends and family without worrying that you’ll see each other’s online activity.
-Share your browser with friends and family without worrying that you’ll see each other’s online activity.
+မိသားစုဝင်များ၊ မိတ်ဆွေများနှင့် အချင်းချင်း တွေ့ဆုံနိုင်မှာဖြစ်သည့်အတွက် စိုးရိမ်ပူပန်စရာမလိုပဲ သင့်ဘရောင်ဇာကို မိတ်ဆွေများ၊ မိသားစုဝင်များနှင့် မျှဝေအသုံးပြုပါ။
 
 
 ;Learn how to share your browser
@@ -184,27 +188,27 @@ Share your browser with friends and family without worrying that you’ll see ea
 
 
 ;See how Guest Browsing works
-See how Guest Browsing works
+ဧည့်သည်အနေနှင့် အသုံးပြုခြင်း အလုပ်လုပ်ပုံကို ကြည့်ရှုပါ
 
 
 ;Don’t leave home without being in Sync
-Don’t leave home without being in Sync
+Sync လုပ်ထားခြင်းမရှိပဲနှင့် အိမ်ကနေ မထွက်ခွာပါနှင့်
 
 
 ;Bring your passwords, bookmarks, open tabs and more everywhere you go.
-Bring your passwords, bookmarks, open tabs and more everywhere you go.
+စကားဝှက်များ၊ စာမှတ်များ၊ ဖွင့်ထားသည့် တပ်ဗ်များနှင့်  အခြား စသည်တို့ကို ဘယ်သွားသွား ယူဆောင်သွားပါ။
 
 
 ;Use Sync on your smartphone or tablet to access whatever you need from your desktop &mdash; and vice versa &mdash; without having to remember URLs.
-Use Sync on your smartphone or tablet to access whatever you need from your desktop &mdash; and vice versa &mdash; without having to remember URLs.
+ဒက်စတော့ကနေ ဘာပဲဖြစ်ဖြစ် ရယူအသုံးပြုနိုင်ရန် &mdash; နှင့် အပြန်အလှန်အားဖြင့် &mdash;  URLs ကို မှတ်မိစရာမလိုပဲ အသုံးပြုနိုင်ရန် Sync ကို သင့် စမတ်ဖုန်း သို့မဟုတ် တက်ဘလက်တွင် အသုံးပြုပါ။
 
 
 ;Learn more about Sync
-Learn more about Sync
+Sync အကြောင်း ပိုမိုလေ့လာပါ
 
 
 ;Choose Firefox
-Choose Firefox
+မီးမြေခွေးကို ရွေးချယ်လိုက်ပါ။
 
 
 ;Supported devices
@@ -212,17 +216,17 @@ Choose Firefox
 
 
 ;Release notes
-Release notes
+ထုတ်ဝေမှု မှတ်စုများ
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;Do not track
-Do not track
+ခြေရာမခံပါနှင့်
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+အွန်လိုင်းတွင် ရှာဖွေမှုမှတ်တမ်း ကောက်ယူထားခြင်းနှင့် ၎င်းမှတ်တမ်းကို အသုံးပြုထားခြင်း စသည်တို့ကို အသုံးပြုသူများ ထိန်းချုပ်နိုင်စေရန် Firefox ဆန်းသစ်ပြောင်းလဲမှုကို ဆောင်ရွက်နိုင်စေပါ။
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
@@ -237,7 +241,7 @@ Enable this Firefox innovation to help you stay in control of how your browsing 
 
 # Obsolete string, do not remove
 ;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+လုပ်ဆောင်ချက် စတင်ပြီးပါက Android အတွက် Firefox သည် မည်သည့် ကွတ်ကီးများ၊ စကားဝှက်များ သို့မဟုတ် လည်ပတ်ထားခဲ့သောမှတ်တမ်း စသည်တို့ကို မှတ်ထားမည် မဟုတ်ပါ။
 
 
 # Obsolete string, do not remove
@@ -247,6 +251,6 @@ When activated, Firefox for Android won’t accept cookies, remember passwords o
 
 # Obsolete string, do not remove
 ;See how Private Browsing works
-See how Private Browsing works
+သီးသန့်ကြည့်ရှုခြင်း အလုပ်လုပ်ပုံကို ကြည့်ရှုပါ
 
 
