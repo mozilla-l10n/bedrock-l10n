@@ -11,12 +11,12 @@ Có những nguyên tắc cho sứ mệnh của chúng tôi trong việc thúc �
 
 
 ;Share this
-Share this
+Chia sẻ điều này
 
 
 # <strong> and </strong> tags are used for presentation purposes, do not translate them
 ;<strong>Our 10</strong> Principles
-<strong>Our 10</strong> Principles
+<strong>10</strong> nguyên tắc của chúng tôi
 
 
 ;Previous principle
@@ -36,7 +36,7 @@ Tìm hiểu thêm
 
 
 ;01
-01
+01 {ok}
 
 
 ;The Internet is an integral part of modern life—a key component in education, communication, collaboration, business, entertainment and society as a whole.
@@ -64,7 +64,7 @@ Open Badges
 
 
 ;02
-02
+02 {ok}
 
 
 ;The Internet is a global public resource that must remain open and accessible.
@@ -93,7 +93,7 @@ You don’t have to make a case for open. You have to make a case for not open.
 
 
 ;03
-03
+03 {ok}
 
 
 ;The Internet must enrich the lives of individual human beings.
@@ -113,7 +113,7 @@ Medic Mobile
 
 
 ;04
-04
+04 {ok}
 
 
 ;Individuals’ security and privacy on the Internet are fundamental and must not be treated as optional.
@@ -137,7 +137,7 @@ The Web We Want: An Open Letter
 
 
 ;05
-05
+05 {ok}
 
 
 ;Individuals must have the ability to shape the Internet and their own experiences on it.
@@ -161,7 +161,7 @@ Meet the Webmakers
 
 
 ;06
-06
+06 {ok}
 
 
 ;The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
@@ -185,7 +185,7 @@ Who is Mozilla?
 
 
 ;07
-07
+07 {ok}
 
 
 ;Free and open source software promotes the development of the Internet as a public resource.
@@ -209,7 +209,7 @@ Contributing to Open Source Software
 
 
 ;08
-08
+08 {ok}
 
 
 ;Transparent community-based processes promote participation, accountability and trust.
@@ -234,15 +234,15 @@ Join us as a <a href="%(volunteer)s">volunteer</a> or <a href="%(ambassador)s">s
 
 
 ;Learn how to collaborate online
-Learn how to collaborate online
+Tìm hiểu cách tương tác trực tuyến
 
 
 ;I am a Mozillian
-I am a Mozillian
+Tôi là một Mozillian
 
 
 ;09
-09
+09 {ok}
 
 
 ;Commercial involvement in the development of the Internet brings many benefits; a balance between commercial profit and public benefit is critical.
@@ -258,15 +258,15 @@ See how Firefox phones seek to balance the mobile ecosystem
 
 
 ;Learn about creating Web resources with others
-Learn about creating Web resources with others
+Tìm hiểu cách tạo các tài nguyên trên Web
 
 
 ;Lightbeam for Firefox
-Lightbeam for Firefox
+Lightbeam cho Firefox
 
 
 ;10
-10
+10 {ok}
 
 
 ;Magnifying the public benefit aspects of the Internet is an important goal, worthy of time, attention and commitment.
@@ -274,28 +274,28 @@ Mở rộng khía cạnh lợi ích công cộng của Internet là một mục 
 
 
 ;Host or join a Maker Party
-Host or join a Maker Party
+Tổ chức hoặc tham gia một Maker Party
 
 
 ;Learn how to build online collaboration skills
-Learn how to build online collaboration skills
+Tìm hiểu cách xây dựng kỹ năng làm việc trực tuyến
 
 
 ;What is MozFest?
-What is MozFest?
+MozFest là gì?
 
 
 ;Read the entire manifesto
-Read the entire manifesto
+Đọc toàn bộ tuyên ngôn
 
 
 ;Tell your friends
-Tell your friends
+Nói với các bạn của bạn
 
 
 # This string will be included in a tweet
 ;I support Mozilla because… #mozmanifesto
-I support Mozilla because… #mozmanifesto
+Tôi ủng hộ Mozilla vì… #mozmanifesto
 
 
 ;Tweet this
