@@ -1,15 +1,20 @@
 ## active ##
+## no_plugins ##
+## plugin_outdated ##
+## plugin_updated_content ##
+## plugincheck_newsletter ##
+## plugincheck_nosupport ##
 ## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 
 
 # Used as page title in HTML meta tag
 ;Keep your Firefox healthy with a quick checkup
-Keep your Firefox healthy with a quick checkup
+ทำ Firefox ของคุณให้สมบูณ์ด้วยการตรวจสอบอย่างเร็ว
 
 
 # Used as page description in HTML meta tag
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
-Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
+ใช้ Flash? QuickTime? Java? ถ้าคุณใช้โปรแกรมเสริมเหล่านี้ในการทำให้ประสบการณ์การใช้ Firefox เจ๋งขึ้น จงตรวจสอบโปรแกรมเสริมของคุณ! โปรแกรมเหล่านี้อาจจะต้องมีการปรับรุ่น
 
 
 # Old page <title> tag
@@ -54,7 +59,7 @@ current version plugin {ok}
 
 # This is the string used to indicate that the plugin is outdated
 ;outdated
-outdated
+ล้าสมัย
 
 
 # Main title
@@ -68,21 +73,21 @@ outdated
 
 # This is a title, with limited space; text inside the span tag is displayed bold
 ;<span>Firefox</span> + You
-<span>Firefox</span> + You
+<span>Firefox</span> + คุณ
 
 
 # This is the subtitle for the newsletter subscription box
 ;Get Firefox tips, tricks, news and more
-Get Firefox tips, tricks, news and more
+รับกลเม็ด เคล็ดลับ ข่าว และอีกมากมายเกี่ยวกับ Firefox
 
 
 ;Currently the plugin check service is only available to Firefox users.
-Currently the plugin check service is only available to Firefox users.
+ณ ตอนนี้ บริการตรวจสอบโปรแกรมเสริมสามารถใช้กับกับผู้ใช้ Firefox เท่านั้น
 
 
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 ;Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
-Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
+โปรแกรมเสริมมักจะไม่ปรับรุ่นอัตโนมัติ ตรวจสอบทันทีเพื่อความปลอดภัยและท่องเว็บแบบไม่สะดุด!
 
 
 ;Looks like you’re using an older version of Firefox.
@@ -94,7 +99,7 @@ Plugins don’t always update automatically. Check yours now to stay safe and br
 
 
 ;No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
-No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
+ไม่พบโปรแกรมเสริม ถ้าคุณเชื่อว่านี้คือข้อผิดพลาด <a href="%(bugzilla_url)s">โปรดรายงานบั๊ก</a> และให้เรารู้
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
@@ -220,7 +225,7 @@ Firefox จะช่วยฉันได้อย่างไร?
 
 # If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 ;Open the <span class="menu">menu</span>.
-Open the <span class="menu">menu</span>.
+เปิด <span class="menu">เมนู</span>
 
 
 ;Choose Add-ons.
@@ -232,7 +237,7 @@ Open the <span class="menu">menu</span>.
 
 
 ;Click on the drop down next to the plugin you wish to disable.
-Click on the drop down next to the plugin you wish to disable.
+คลิกบนรายการแบบหล่นลงที่อยู่ถัดจากโปรแกรมเสริมเพื่อปิดการใช้งาน
 
 
 ;Click on a plugin in the list.
@@ -240,7 +245,7 @@ Click on the drop down next to the plugin you wish to disable.
 
 
 ;Select "Never Activate" from the available choices.
-Select "Never Activate" from the available choices.
+เลือก "ไม่เปิดใช้งาน" จากตัวเลือกที่มีอยู่
 
 
 ;Click the Disable button.
@@ -252,7 +257,7 @@ Select "Never Activate" from the available choices.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
-Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
+คำเตือน: ปิดการใช้งานโปรแกรมเสริมหมายถึงว่าคุณจะไม่ใช้งานบางสิ่งบางอย่าง ยกตัวอย่างเช่น ถ้าปิดการใช้งาน Flash คุณจะไม่สามารถดูวิดีโอจากเว็บสตรีมมิ่งบางเว็บได้
 
 
 ;Mozilla Support

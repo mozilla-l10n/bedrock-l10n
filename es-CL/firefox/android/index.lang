@@ -1,3 +1,7 @@
+## active ##
+## android_reader_links ##
+## android_spring_updates ##
+## tracking_protection ##
 ## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
 
 
@@ -17,11 +21,11 @@ Firefox para Android
 
 
 ;We make it Firefox.
-We make it Firefox.
+Lo hacemos Firefox.
 
 
 ;You make it your own.
-You make it your own.
+Tú lo haces tuyo.
 
 
 ;The features you love.
@@ -41,7 +45,7 @@ Bajar en Google Play
 
 
 ;Uniquely yours
-Uniquely yours
+Solo tuyo
 
 
 # Line break below is for visual formatting only. Remove if it's not useful for your locale
@@ -54,7 +58,7 @@ Una forma más inteligente de compartir
 
 
 ;The most adaptive way to share anything, Quick Share remembers your most recently used apps to help you get the word out just the way you want.
-The most adaptive way to share anything, Quick Share remembers your most recently used apps to help you get the word out just the way you want.
+La forma más adaptable de compartir lo que sea. "Compartir rápido" recuerda la app más reciente que usaste para ayudarte a decirle al mundo lo que quieres.
 
 
 ;See how it works
@@ -66,7 +70,7 @@ Todos tus favoritos, al frente y centrados
 
 
 ;Customize your Home panels with any Web content you want and access your favorite feeds &mdash; like Instagram and Pocket Hits &mdash; instantly.
-Customize your Home panels with any Web content you want and access your favorite feeds &mdash; like Instagram and Pocket Hits &mdash; instantly.
+Personaliza tus paneles de Inicio con cualquier contenido Web que quieras y accede a lo último en tus feeds &mdash; como Instagram y Pocket Hits &mdash; al instante.
 
 
 ;A touch more personal
@@ -74,7 +78,7 @@ Un toque más personal
 
 
 ;Display your Home panels in any order you like or add, hide and delete them as you see fit to keep your favorites one touch away.
-Display your Home panels in any order you like or add, hide and delete them as you see fit to keep your favorites one touch away.
+Muestra tus paneles de Inicio en el orden que quieras, o añade, oculta y quítalos, para mantener a tus favoritos más cerca.
 
 
 ;Learn more
@@ -102,7 +106,7 @@ Lee y guarda artículos fácilmente
 
 
 ;Enjoy a more pleasant reading experience with Reader View and Reading List.
-Enjoy a more pleasant reading experience with Reader View and Reading List.
+Disfruta una experiencia de lectura más placentera con la vista del lector y la lista de lectura.
 
 
 ;Access your saved articles even when you’re not online.
@@ -172,11 +176,11 @@ Aprende cómo limpiar tu historial
 
 
 ;Guest browsing
-Guest browsing
+Navegación de invitado
 
 
 ;Share your browser with friends and family without worrying that you’ll see each other’s online activity.
-Share your browser with friends and family without worrying that you’ll see each other’s online activity.
+Comparte tu navegador con amigos y familia sin preocuparte de que sabrán lo que cada uno hace en Internet.
 
 
 ;Learn how to share your browser
@@ -184,11 +188,11 @@ Aprende cómo compartir tu navegador
 
 
 ;See how Guest Browsing works
-See how Guest Browsing works
+Mira cómo funciona la navegación de invitado
 
 
 ;Don’t leave home without being in Sync
-Don’t leave home without being in Sync
+No dejes tu casa sin haber sincronizado
 
 
 ;Bring your passwords, bookmarks, open tabs and more everywhere you go.
@@ -196,7 +200,7 @@ Lleva tus contraseñas, marcadores, pestañas abiertas y más a todas partes.
 
 
 ;Use Sync on your smartphone or tablet to access whatever you need from your desktop &mdash; and vice versa &mdash; without having to remember URLs.
-Use Sync on your smartphone or tablet to access whatever you need from your desktop &mdash; and vice versa &mdash; without having to remember URLs.
+Usa Sync en tu smartphone o tablet para acceder a lo que necesites de tu escritorio &mdash; y viceversa &mdash; sin tener que recordar URLs.
 
 
 ;Learn more about Sync
@@ -222,7 +226,7 @@ No rastrear
 
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+Activa esta innovación de Firefox para que puedas mantenerte al control de cómo es recolectada y usada tu información de navegación.
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign

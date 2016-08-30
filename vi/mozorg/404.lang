@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: page is at https://www-dev.allizom.org/404/
 
 
@@ -10,11 +11,11 @@ Whoops! {ok}
 
 
 ;Did you make a left at that last URL instead of a right? No problem. Here are some tips to get you back on your way:
-Did you make a left at that last URL instead of a right? No problem. Here are some tips to get you back on your way:
+Có phải bạn đã nhầm URL? Không sao. Đây là một số gợi ý giúp bạn:
 
 
 ;If you typed in the address, check your spelling. Could just be a typo.
-If you typed in the address, check your spelling. Could just be a typo.
+Địa chỉ bạn điền có thể bị sai. Vui lòng kiểm tra lại.
 
 
 ;If you’ve found an issue with one of our websites, we’d appreciate it if you could report the problem in Bugzilla, our <a href="%(bugzilla)s">bug tracker</a>. One of our developers will take a look at it as soon as possible.
@@ -22,7 +23,7 @@ Nếu bạn tìm thấy một vấn đề nào đó với một trong những tr
 
 
 ;If you followed a link, it’s probably broken.
-If you followed a link, it’s probably broken.
+Liên kết bạn theo đã bị hỏng.
 
 
 ;If you’re not sure what you’re looking for, start at <a href="%(url)s">mozilla.org</a>.

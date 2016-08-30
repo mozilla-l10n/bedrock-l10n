@@ -12,19 +12,19 @@
 
 
 ;Ask yourself
-Ask yourself
+問問看自己
 
 
 ;Do you feel in control of your personal information online?
-Do you feel in control of your personal information online?
+您覺得自己控制網路上的個人資料嗎？
 
 
 ;Do you know what a cookie is (no, not the delicious kind)?
-Do you know what a cookie is (no, not the delicious kind)?
+您知道什麼是 cookie 嗎（並不是美味的那種）？
 
 
 ;Have you ever wondered why some content, like ads, seems to follow you around?
-Have you ever wondered why some content, like ads, seems to follow you around?
+是否曾經好奇為什麼有些東西像是廣告，好像一直跟著您？
 
 
 ;What is tracking?
@@ -32,28 +32,28 @@ Have you ever wondered why some content, like ads, seems to follow you around?
 
 
 ;Every time we go online, we leave behind traces of our activity. They’re often called our “digital footprints” and for good reason, because tracking is sort of like re-tracing our steps.
-Every time we go online, we leave behind traces of our activity. They’re often called our “digital footprints” and for good reason, because tracking is sort of like re-tracing our steps.
+每當我們上網時每個舉動都留下足跡，他們通常被稱為「數位足跡」，因為追蹤就如同走過你走的步伐。
 
 
 ;But our digital footprints reveal more about us than where we’ve been — everything from our preferences to our identities.
-But our digital footprints reveal more about us than where we’ve been — everything from our preferences to our identities.
+但數位足跡呈現不僅是我們造訪過哪裡，還有我們的喜好跟身份。
 
 
 ;Watch the documentary at donottrack-doc.com.
-Watch the documentary at donottrack-doc.com.
+觀看 donottrack-doc.com 的紀錄片。
 
 
 # Link points to https://donottrack-doc.com/
 ;To get a good look at how tracking works, be sure to check out the first episode of Brett Gaylor’s documentary series, <a href="{url}"><cite>Do Not Track</cite></a>.
-To get a good look at how tracking works, be sure to check out the first episode of Brett Gaylor’s documentary series, <a href="{url}"><cite>Do Not Track</cite></a>.
+了解追蹤如何運作？先來看看 Brett Gaylor 紀錄片第一集 ， <a href="{url}"><cite>不要追蹤我</cite></a>。
 
 
 ;Tracking in action
-Tracking in action
+你正在被監控
 
 
 ;Let’s imagine a typical day online: you start by checking emails, maybe share a fun article you just read.
-讓我們想像一天線上生活的，首先查看一下電子郵件，或者分享自己覺得有趣的文章。
+一如既往，開始你的一天連上網路後，先看一下電子郵件，也許分享覺得有趣的文章。
 
 
 ;At lunch, you check showtimes for a movie a friend recommended on Facebook and look up prices for some new camping gear you’ve had your eye on.
@@ -69,7 +69,7 @@ Tracking in action
 
 
 ;Tracking for personalization
-追蹤個人資訊
+監控個人資訊
 
 
 ;What are cookies?
@@ -82,7 +82,7 @@ Cookies 是個網站和第三方公司用來記錄你的偏好或者是追蹤你
 
 # This fragment follows the number '76%'. If this doesn't work for your locale, you can start the sentence with "Percentage of adults who…"
 ;of adults say they are “not too confident” or “not at all confident” that records of their activity maintained by the online advertisers who place ads on the websites they visit will remain private and secure.
-of adults say they are “not too confident” or “not at all confident” that records of their activity maintained by the online advertisers who place ads on the websites they visit will remain private and secure.
+的人，對於被詢問自己足跡被線上廣告商紀錄是隱密且安全的，選擇「不是很有信心」或「完全沒信心」。
 
 
 # "Pew Research Center" is a proper name and shouldn't be translated. Link to https://www.pewinternet.org/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/
@@ -91,36 +91,36 @@ of adults say they are “not too confident” or “not at all confident” tha
 
 
 ;The websites we visit will often collect data about us to better personalize our experiences with them.
-The websites we visit will often collect data about us to better personalize our experiences with them.
+蒐集紀錄網站通常聲稱他們是為了提供更好的使用者經驗，
 
 
 ;The information they gather through analytics can be used to make navigating their site easier for us or to present us more relevant offers.
-The information they gather through analytics can be used to make navigating their site easier for us or to present us more relevant offers.
+那些他們收集的資訊經過分析可以讓使用者在瀏覽網站時能夠找到更符合他們需求的資訊。
 
 
 ;They also use cookies — small data files placed in our browsers — to remember language preferences or the contents in a shopping cart.
-They also use cookies — small data files placed in our browsers — to remember language preferences or the contents in a shopping cart.
+他們也使用 cookie，被放置在瀏覽器內的資料檔，用來記得我們語言偏好或購物車內的清單。
 
 
 ;By the way…
-By the way…
+順道一提…
 
 
 ;Mozilla sites are no exception. Like most other Web sites, we also use third party tools to improve user experience.
-Mozilla sites are no exception. Like most other Web sites, we also use third party tools to improve user experience.
+Mozilla 網站也不例外，如同其他網站，我們也使用第三方網站改善我們的使用者經驗。
 
 
 # Link points to https://www.mozilla.org/privacy/websites/
 ;For more info see our <a href="{url}">Website Privacy Notice</a>.
-For more info see our <a href="{url}">Website Privacy Notice</a>.
+了解更多 <a href="{url}">網頁隱私通知</a>。
 
 
 ;Tracking without permission
-Tracking without permission
+未經允許的追蹤
 
 
 ;Many websites we visit contain hidden third parties — such as data brokers, affiliate networks and advertising networks — who use cookies, and other data tracking methods, to collect information about our browsing habits without our consent.
-Many websites we visit contain hidden third parties — such as data brokers, affiliate networks and advertising networks — who use cookies, and other data tracking methods, to collect information about our browsing habits without our consent.
+許多我們拜訪的網站都隱藏著第三方程式，例如資料交易商、廣告行銷平台，透過使用 cookie 跟其他資料追蹤的方法蒐集我們瀏覽習慣。
 
 
 ;While tracking can be helpful, there can’t be a healthy trade-off between the value it provides and the data it collects without transparency.
