@@ -11,85 +11,85 @@ Firefox Hello — လွယ်ကူပြီး အခမဲ့ ရုပ်သ
 
 # “Firefox Hello” is the product name and should not be localized
 ;Learn all about Firefox Hello and see for yourself how easy it is to have a free video conversation with anyone, anywhere, right from your browser
-Learn all about Firefox Hello and see for yourself how easy it is to have a free video conversation with anyone, anywhere, right from your browser
+Firefox Hello ကို အသုံးပြုပုံအား လေ့လာပြီး အခမဲ့ ရုပ်သံ စကားပြောခြင်း အားလွယ်လွယ်ကူကူ သင့်ဘယောက်ဆာမှ နေပြီး ပြုလုပ်နိုင်ပါပြီ
 
 
 # In this case 'hello' is simply a greeting, not the product name. The message is that Firefox Hello is easy to use, as easy as greeting someone.
 # An alternative headline could be "The easiest way to connect".
 ;As easy as saying hello
-As easy as saying hello
+ဟယ်လို လို့ပြောရသလိုလွယ်ကူပါတယ်
 
 
 # “Firefox Hello” is the product name and should not be localized
 ;Meet Firefox Hello, the easiest way to connect for free over video with anyone, anywhere.
-Meet Firefox Hello, the easiest way to connect for free over video with anyone, anywhere.
+Firefox Hello အား သုံးကြည့်ပါ လွယ်ကူပြီး အခမဲ့ ဖြစ်တဲ့ ရုပ်သံစကားပြောခြင်းကို ဘယ်နေရာမှာမဆိုပြုလုပ်နိုင်ပြီ
 
 
 # “Firefox Hello” is the product name and should not be localized
 ;Try Firefox Hello
-Try Firefox Hello
+Firefox Hello အားစမ်းသပ်ပါ
 
 
 # This string is displayed to users of Firefox 38 ESR, where Hello is not available
 ;You need a different version of Firefox to use Hello.
-You need a different version of Firefox to use Hello.
+သင် Hello အားသုံးဆွဲရန် တခြား Firefox ဗားရှင်း လိုအပ်နေသှ်
 
 
 # This string is used as a button label, displayed to users of Firefox 38 ESR to download an updated version of Firefox
 ;Try it now
-Try it now
+ယခုစမ်းသုံးကြည့်ပါ
 
 
 ;All you need is Firefox
-All you need is Firefox
+Firefox ရှိဖို့ပဲလိုတယ်
 
 
 # “Hello” is the product name and should not be localized
 ;If you have the latest version of Firefox, you already have Hello.
-If you have the latest version of Firefox, you already have Hello.
+သင့်တွင် နောက်ဆုံး Firefox သွင်းထားပြီးပါက Hello ပါပြီးဖြစ်သှ်
 
 
 ;There’s no account or sign-in required and nothing extra to download.
-There’s no account or sign-in required and nothing extra to download.
+ဝင်ရောက်ပြီး သုံးဖို့ အကောင့်ရှိဖို့ မလိုပါ
 
 
 ;Just send a conversation link to a friend and ask them to click it.
-Just send a conversation link to a friend and ask them to click it.
+စကားပြောဆိုခန်း ချိတ်ဆက်လင်ခ့်သာ သူငယ်ချင်းတစ်ယောက်ကိုပေးပြီး နှိပ်ခိုင်းလိုက်ပါ
 
 
 # This string will be an active link to SUMO: https://support.mozilla.org/kb/which-browsers-will-work-firefox-hello-video-chat
 ;See which browsers are compatible with Firefox Hello
-See which browsers are compatible with Firefox Hello
+Firefox Hello သုံးနိုင်သော ဘယောက်ဆာများအားကြည့်ပါ
 
 
 ;Just start a conversation, send your friend a link and ask them to click it.
-Just start a conversation, send your friend a link and ask them to click it.
+စကားပြောခန်းတစ်ခုစတင်ပြီး သင့်သူငယ်ချင်းကို ချိတ်ဆက်လင်ခ့်ပေးပြီး နှိပ်ခိုင်းလိုက်ပါ
 
 
 ;Simple.
-Simple.
+ရိုးရှင်းတယ်
 
 
 # This is an English idiomatic expression: http://www.phrases.org.uk/meanings/316750.html
 # Feel free to adapt it to your locale.
 ;Share and share alike
-Share and share alike
+အကြိုက်ခြင်းတူပါက မျှဝေလိုက်ပါ
 
 
 ;Want to show off some new baby pictures?
-Want to show off some new baby pictures?
+ချစ်စရာကောင်းတဲ့ မွေးကင်းစလေးရဲ့ ပုံလေးတွေကို ပြချင်ပါသလား?
 
 
 ;Share travel options over the Web?
-Share travel options over the Web?
+အင်တာနက်ပေါ်မှာ ခရီးသွားဖို့ရွေးချယ်စရာတွေမျှဝေခြင်ပါသလား?
 
 
 ;Check in on a project from half a world away?
-Check in on a project from half a world away?
+ပရောဂျက်တစ်ခုကို အခြားကမ္ဘာတစ်ဖက်ကနေ လှမ်းလုပ်မလား?
 
 
 ;Screen sharing on Firefox Hello makes it all possible.
-Screen sharing on Firefox Hello makes it all possible.
+Firefox တွင် Screen မျှဝေခြင်း လုပ်နိုင်ပါသှ်
 
 
 ;Try it out in your next conversation and share the things that matter most.

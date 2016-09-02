@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo page available at https://www-dev.allizom.org/firefox/ios/
 
 
@@ -43,107 +44,107 @@ Firefox ສຳລັບ iOS
 
 
 ;Sign in to your Firefox Account to access your browsing info on all your mobile devices.
-Sign in to your Firefox Account to access your browsing info on all your mobile devices.
+ເຂົ້າສູ່ບັນຊີ Firefox ຂອງທ່ານເພື່ອເຂົ້າໄປເບິງຂໍ້ມູນການທ່ອງເວັບຂອງທ່ານໃນອຸປະກອນໂທລະສັບທຸກຫນ່ວຍຂອງທ່ານ.
 
 
 ;History
-History
+ປະຫວັດການໃຊ້ງານ
 
 
 ;Passwords
-Passwords
+ລະຫັດຜ່ານ
 
 
 ;Open tabs
-Open tabs
+ເປີດແທັບ
 
 
 ;Bookmarks
-Bookmarks
+ບຸກມາກ
 
 
 ;Reading List
-Reading List
+ລາຍການອ່ານ
 
 
 ;Get started with Sync
-Get started with Sync
+ເລີ່ມການທຳງານກັບ Sync
 
 
 ;Already have an account?
-Already have an account?
+ມີບັນຊີຢູ່ແລ້ວບໍ່?
 
 
 ;Sign in
-Sign in
+ເຂົ້າສູ່ລະບົບ
 
 
 ;You’re already signed in!
-You’re already signed in!
+ທ່ານໄດ້ເຂົ້າສູ່ລະບົບແລ້ວ!
 
 
 ;Learn more about Sync
-Learn more about Sync
+ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ Sync
 
 
 ;Send Firefox to your iOS device
-Send Firefox to your iOS device
+ສົ່ງ Firefox ໄປຫາອຸປະກອນ iOS ຂອງທ່ານ
 
 
 ;Sync your Firefox browsing history on iOS
-Sync your Firefox browsing history on iOS
+Sync ປະຫວັດການທ່ອງເວັບ Firefox ຂອງທ່ານໃນ iOS
 
 
 # The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
 ;First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start using Sync.
-First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start using Sync.
+ທຳອິດແຕະໃສ່ປຸ່ມ <b>ແຕະ</b>. ຫລັງຈາກນັ້ນແຕະໃສ່ໄອຄອນ %(gear_icon)s ເພື່ອເລີ່ມການ Sync.
 
 
 ;Not now
-Not now
+ບໍ່ແມ່ນຕອນນີ້
 
 
 ;Learn more in the App Store
-Learn more in the App Store
+ຮຽນຮູ້ເພີ່ມເຕີມໃນ App Store
 
 
 ;Keep your private info private
-Keep your private info private
+ຮັກສາຂໍ້ມູນສ່ວນຕົວຂອງທ່ານ
 
 
 ;We believe your personal information belongs to you.
-We believe your personal information belongs to you.
+ພວກເຮົາຫມັ້ນໃຈວ່າຂໍ້ມູນສ່ວນຕົວຂອງທ່ານຈະເປັນຂອງທ່ານໂດຍແທ້ຈິງ.
 
 
 ;Firefox for iOS is filled with features to help keep it that way.
-Firefox for iOS is filled with features to help keep it that way.
+Firefox ສຳລັບ iOS ແມ່ນໄດ້ເຕີມເຕັມໄປດ້ວຍຈຸດເດັ່ນຕ່າງໆທີ່ຈະຊ່ວຍຮັກສາມັນໃຫ້ເປັນໄປຕາມນັ້ນ.
 
 
 ;Private Browsing
-Private Browsing
+ການທ່ອງເວັບແບບສ່ວນຕົວ
 
 
 ;When activated, Firefox for iOS won’t accept cookies, remember passwords or record any sites that you’ve visited.
-When activated, Firefox for iOS won’t accept cookies, remember passwords or record any sites that you’ve visited.
+ເມື່ອເປີດໃຊ້ງານແລ້ວ, Firefox ສຳລັບ iOS ຈະບໍ່ຍອມຮັບຄຸກກີ້, ຈືລະຫັດຜ່ານ ຫລື ບັນທຶກເວັບໄຊຕ໌ທີ່ທ່ານໄດ້ເຂົ້າໄປເບິງໄວ້.
 
 
 ;Learn more about Private Browsing
-Learn more about Private Browsing
+ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບການທ່ອງເວັບແບບສ່ວນຕົວ
 
 
 ;Clear history
-Clear history
+ລົບລ້າງປະຫວັດການໃຊ້ງານ
 
 
 ;Delete your browsing history, passwords and more in a single tap.
-Delete your browsing history, passwords and more in a single tap.
+ລືບປະຫວັດການທ່ອງເວັບຂອງທ່ານ, ລະຫັດຜ່ານ ແລະ ອື່ນໆໂດຍການແຕະບາດດຽວ.
 
 
 ;Choose the private data you want to remove whenever you need to do so.
-Choose the private data you want to remove whenever you need to do so.
+ເລືອກຂໍ້ມູນສ່ວນຕົວທີ່ທ່ານຕ້ອງການລືບເມື່ອທ່ານຕ້ອງການທີ່ຈະລືບມັນອອກໄປ.
 
 
 ;Learn how to clear your history
-Learn how to clear your history
+ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບການລົບລ້າງປະຫວັດການໃຊ້ງານຂອງທ່ານ
 
 
