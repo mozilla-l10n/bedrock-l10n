@@ -3,12 +3,12 @@
 
 # Page title (HTML attribute)
 ;Keep your Firefox healthy with a quick checkup
-Keep your Firefox healthy with a quick checkup
+ઝડપી તપાસ સાથે તમારા ફાયરફોક્સ તંદુરસ્તને રાખો
 
 
 # Page description (HTML attribute)
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
-Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
+ફ્લેશનો ઉપયોગ? QuickTime ? જાવા? જો તમે તમારા ફાયરફોક્સ અનુભવ વધુ બહેતર બનાવવા માટે આ વાપરો તો, તમારા પ્લગઇન્સ તપાસો! તેઓ તેને સુધારા કરવાની જરૂર પડી શકે છે.
 
 
 # Main title
@@ -17,43 +17,43 @@ Use Flash? QuickTime? Java? If you use these to make your Firefox experience mor
 
 
 ;Plugins power the videos, animations and games in your Firefox. Keep an eye on their status and keep them up to date.
-Plugins power the videos, animations and games in your Firefox. Keep an eye on their status and keep them up to date.
+પ્લગઇન્સ તમારા ફાયરફોક્સમાં વિડિઓઝ, એનિમેશન અને રમતો કરવા દેશે. તેમની સ્થિતિ પર નજર રાખો અને તેમને અદ્યતીત રાખે છે.
 
 
 ;Be sure to restart your Firefox after making all recommended updates.
-Be sure to restart your Firefox after making all recommended updates.
+બધા આગ્રહણીય સુધારાઓ કર્યા પછી તમારા ફાયરફોક્સ પુનઃશરૂ કરવા માટે ખાતરી કરો.
 
 
 ;You are using an older version of Firefox.
-You are using an older version of Firefox.
+તમે ફાયરફોક્સ ની જૂની આવૃત્તિ વાપરી રહ્યા છો.
 
 
 ;Update now to keep your plugins running smoothly and securely.
-Update now to keep your plugins running smoothly and securely.
+હવે અપડેટ કરો જેથી તમારા પ્લગઇન્સ સરળ અને સુરક્ષિત ચાલે.
 
 
 ;Currently the plugin check service is only available to Firefox users on desktop and Android.
-Currently the plugin check service is only available to Firefox users on desktop and Android.
+હાલમાં પ્લગઇન તપાસ સેવા માત્ર ડેસ્કટોપ અને, Android પર ફાયરફોક્સ વપરાશકર્તાઓ માટે ઉપલબ્ધ છે.
 
 
 ;No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
-No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
+કોઈ પ્લગઇન્સ મળી આવ્યા ન હતા. જો તમે માનતા હો કે આ એક ભૂલ છે, તો <a href="%(bugzilla_url)s">બગ દાખલ કરો </a> અને અમને જણાવો.
 
 
 ;Common plugins you should check often.
-Common plugins you should check often.
+સામાન્ય પ્લગિન્સની તમારે ઘણી વખત ચકાસણી કરવી જોઈએ.
 
 
 ;All plugins
-All plugins
+બધા પ્લગઇન્સ
 
 
 ;These plugins are out of date. Please update.
-These plugins are out of date. Please update.
+આ પ્લગઇન્સ જૂનું છે. અદ્યતન કરો.
 
 
 ;Plugin
-Plugin
+પ્લગઇન
 
 
 ;Status
@@ -65,27 +65,27 @@ Plugin
 
 
 ;These plugins are up to date. No action required.
-These plugins are up to date. No action required.
+આ પ્લગઇન્સ અદ્યતીત છે. કોઈ ક્રિયા જરૂરી નથી.
 
 
 ;These plugins have an unknown status. Follow the links to learn more.
-These plugins have an unknown status. Follow the links to learn more.
+આ પ્લગઇન્સ અજ્ઞાત સ્થિતિ છે. વધુ જાણવા માટે કડીઓ અનુસરો.
 
 
 ;<span>Firefox</span> + You
-<span>Firefox</span> + You
+<span>ફાયરફોક્સ</span> + તમે
 
 
 ;Get Firefox tips, tricks, news and more
-Get Firefox tips, tricks, news and more
+ફાયરફોક્સ ટીપ્સ, યુક્તિઓ, સમાચાર અને વધુ મેળવો
 
 
 ;Common Plugin Questions
-Common Plugin Questions
+સામાન્ય પ્લગઇન પ્રશ્નો
 
 
 ;Need help? Visit Mozilla Support.
-Need help? Visit Mozilla Support.
+મદદ જોઈએ છે? મોઝિલા આધાર મુલાકાત લો.
 
 
 ;What is a plugin?
@@ -93,7 +93,7 @@ Need help? Visit Mozilla Support.
 
 
 ;Plugins are bits of software that power videos, animation and games in your browser.
-Plugins are bits of software that power videos, animation and games in your browser.
+પ્લગઇન્સ સોફ્ટવેર બિટ્સ છે કે વિડિઓઝ, એનિમેશન અને તમારા બ્રાઉઝરમાં રમતો કરવા દેશે.
 
 
 ;They’re built outside of Firefox by companies like Adobe Systems and Apple.
@@ -137,7 +137,7 @@ We automatically detected your plugins above. To view all the plugins you have i
 
 
 ;Open the <span class="menu">menu</span>.
-Open the <span class="menu">menu</span>.
+ખોલો <span class="menu">મેનુ</span>.
 
 
 ;Choose Add-ons.
@@ -153,7 +153,7 @@ Open the <span class="menu">menu</span>.
 
 
 ;In Firefox for desktop:
-In Firefox for desktop:
+ડૅસ્કટોપ માટેનું Firefox:
 
 
 ;Click on the drop down next to the plugin you wish to disable.
@@ -169,32 +169,32 @@ Caution: Disabling a plugin means that you will no longer be able to do certain 
 
 
 ;Back to Top
-Back to Top
+ટોચ પર પાછા
 
 
 # This is a button telling the user to update their plugin
 ;Update Now
-હવે સુધારો
+હવે અદ્યતન કરો
 
 
 # This is alt text used on plugin icon images
 ;Plugin icon
-Plugin icon
+પ્લગઇન ચિહ્ન
 
 
 # This is the string used to indicate that the plugin is up to date
 ;up to date
-up to date
+અદ્યતન
 
 
 # This is the string used to indicate that the plugin is unknown
 ;unknown
-unknown
+અજ્ઞાત
 
 
 # This is the string used to indicate that the plugin is outdated
 ;outdated
-outdated
+જૂના
 
 
 # This is the string used to indicate that the plugin is vulnerable
