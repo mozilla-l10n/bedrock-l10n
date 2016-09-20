@@ -6,12 +6,12 @@
 
 # This is the string for the <title> tag on the page.
 ;Download Firefox Developer Edition or Beta &amp; Help Determine the Next Firefox
-Muat turun Firefox Aurora atau Beta &amp; Bantu kami untuk mengenalpasti Firefox yang seterusnya
+Muat turun Firefox Aurora atau Beta &amp; Bantu kami untuk menentukan Firefox Seterusnya
 
 
 # This is the string for the <title> tag on the page.
 ;Download Firefox Aurora or Beta &amp; Help Determine the Next Firefox
-Muat turun Firefox Aurora atau Beta &amp; Bantu kami untuk mengenalpasti Firefox yang seterusnya
+Muat turun Firefox Aurora atau Beta &amp; Bantu kami untuk menentukan Firefox Seterusnya
 
 
 ;Download and test Firefox future releases. Experience the newest innovations with the Developer Edition or Beta builds.
@@ -20,7 +20,7 @@ Download and test Firefox future releases. Experience the newest innovations wit
 
 # This description applies to Firefox Beta
 ;The latest features in a more stable environment
-Ciri yang terkini dalam pembangunan yang lebih stabil
+Ciri terkini dalam persekitaran yang lebih stabil
 
 
 ;Firefox Beta automatically sends feedback to Mozilla. <a href="%(link)s">Learn more</a>.
