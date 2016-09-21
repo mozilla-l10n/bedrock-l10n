@@ -59,11 +59,11 @@ Bergerak ke hadapan kami akan terus memberi tumpuan kepada pembangunan produk, p
 
 
 ;Just like we did on the desktop, Mozilla is setting out to ensure that the mobile Web is full of freedom, choice & opportunity.
-Seperti mana kami lakukan pada desktop, Mozilla menetapkan untuk memastikan bahawa Web mudah alih penuh dengan kebebasan, pilihan & peluang.
+Seperti mana kami hasilkan untuk desktop, Mozilla menetapkan untuk memastikan bahawa Web mudah alih penuh dengan kebebasan, pilihan & peluang.
 
 
 ;Just like we did on the desktop, Mozilla is setting out to ensure that the mobile Web is full of freedom, choice and opportunity and that it has the ability for users to create anything they want. With <a href="%(fxos_url)s" rel="external">Firefox OS</a>, we can break open the world of native operating systems and closed platforms once again.
-Seperti mana kami lakukan pada desktop, Mozilla menetapkan untuk memastikan bahawa Web mudah alih penuh dengan kebebasan, pilihan & peluang dan ia mempunyai kebolehan bagi pengguna untuk mencipta apa sahaja yang mereka mahu. Dengan <a href="%(fxos_url)s" rel="external">Firefox OS</a>, kita boleh membuka mata dunia daripada sistem operasi natif dan platform tertutup sekali lagi.
+Seperti mana kami hasilkan untuk desktop, Mozilla menetapkan untuk memastikan bahawa Web mudah alih penuh dengan kebebasan, pilihan & peluang dan juga ada kebolehan bagi pengguna untuk mencipta apa sahaja yang mereka mahu. Dengan <a href="%(fxos_url)s" rel="external">Firefox OS</a>, kita boleh membuka mata dunia terhadap sistem operasi dan platform yang natif dan tertutup untuk berfikir sekali lagi.
 
 
 ;Firefox OS is the first truly open mobile platform. Developers are already embracing HTML5, but so far HTML5 applications on mobile have been held back because they can’t access the device’s underlying capabilities the way that native apps can. Firefox OS overcomes these limitations and provides the necessary <abbr title="Application Program Interfaces">APIs</abbr> to show how it is possible to run an entire device using open standards.
@@ -104,7 +104,7 @@ Firefox akan sentiasa menjadi sebahagian daripada misi Mozilla yang orang boleh 
 
 
 ;Recently, we have been experimenting with ways to integrate social functionality into Firefox. Firefox will support a new Social API that lets developers integrate social services directly into the browser. The Social API will support multiple providers and has endless potential for integrating social networks, e-mail, finance, news and other applications into your Firefox experience. Our first experimental provider is Facebook.
-Baru-baru ini, kami telah membuat eksperimen bagaimana caranya untuk mengintegrasikan fungsian sosial kepada Firefox. Firefox akan menyokong API Sosial yang baru yang akan membolehkan pembangun mengintegrasikan servis sosial secara terus ke dalam pelayar. API Sosial akan menyokong beberap penyedia dan mempunyai potensi tak berpenghujung untuk mengintegrasikan kepada rangkaian sosial, email, pembiayaan, berita dan applikasi lain ke dalam pengalaman Firefox. Penyedia percubaan pertama kami adalah Facebook.
+Baru-baru ini, kami telah membuat eksperimen untuk mengetahui cara mengintegrasi fungsi sosial ke Firefox. Firefox akan menyokong API Sosial baru yang membolehkan pembangun mengintegrasi servis sosial secara terus ke dalam pelayar. API Sosial akan menyokong beberapa penyedia dan ada potensi tak terhad untuk mengintegrasi rangkaian sosial, e-mel, pembiayaan, berita dan applikasi lain ke dalam pengalaman Firefox. Penyedia percubaan pertama kami ialah Facebook.
 
 
 ;Webmaker: Teaching the world the Web
@@ -164,7 +164,7 @@ Pengalaman Internet kami melibatkan lebih banyak data peribadi kami, yang memben
 
 
 ;In an effort to give users more control over their Web experiences, we developed the <a href="%(dnt_url)s" rel="external">Do Not Track</a> feature in Firefox. We also became the first browser manufacturer to offer it on multiple platforms, including Windows, Mac, Linux and Android. <a href="%(dntfxos_url)s" rel="external">Do Not Track is even available for Firefox OS</a> so that user privacy settings can be controlled on a system-wide level to ensure that every third-party application on a user's device respects their choice.
-Dalam usaha untuk memberikan pengguna lebih kawalan ke atas pengalaman Web mereka, kami membangunkan<a href="%(dnt_url)s" rel="external">Jangan Jejaki</a> ciri dalam Firefox. Kami juga menjadi pengeluar pelayar pertama yang menawarkan kepada pelbagai platform, termasuk Windows, Mac, Linux dan Android. <a href="%(dntfxos_url)s" rel="external">Jangan Jejaki adalah juga tersedia untukFirefox OS </a> supaya tetapan privasi pengguna boleh dikawal pada sistem-peringkat meluas untuk memastikan bahawa setiap permohonan pihak ketiga pada peranti pengguna menghormati pilihan mereka.
+Dalam usaha untuk memberikan pengguna lebih kawalan ke atas pengalaman Web mereka, kami membangunkan ciri <a href="%(dnt_url)s" rel="external">Jangan Jejaki</a> dalam Firefox. Kami juga menjadi pengeluar pelayar pertama yang menawarkannya untuk pelbagai platform, termasuk Windows, Mac, Linux dan Android. <a href="%(dntfxos_url)s" rel="external">Jangan Jejaki juga tersedia untuk Firefox OS </a> supaya tetapan privasi pengguna boleh dikawal pada sistem-peringkat meluas untuk memastikan bahawa setiap aplikasi pihak ketiga pada peranti pengguna menghormati pilihan mereka.
 
 
 ;Do Not Track is important because it gives users a voice online to express their preference for privacy and personalization. It captures the user’s intent and allows them to put their hand up and ask for privacy online.

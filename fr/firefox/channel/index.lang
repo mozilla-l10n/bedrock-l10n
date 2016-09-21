@@ -1,14 +1,15 @@
+## active ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
 # HTML Description
 ;Download and test future releases of Firefox for desktop, Android and iOS.
-Téléchargez et essayez les prochaines versions de Firefox pour ordinateur, Android et iOS.
+Téléchargez et testez les prochaines versions de Firefox pour ordinateur, Android et iOS.
 
 
 # Main page heading. In case the text is too hard to translate, here's an alternative text: "Take the future for a test run."
 ;Take a browse on the wild side.
-Take a browse on the wild side.
+Naviguez vers de nouveaux horizons.
 
 
 ;Be among the first to explore future releases of Firefox for desktop, Android and iOS.
@@ -20,35 +21,35 @@ Vous avez découvert un dysfonctionnement ? Signalez-le-nous.
 
 
 ;File a bug now
-File a bug now
+Signaler un bug
 
 
 ;Tips for filing a bug
-Tips for filing a bug
+Conseils pour la rédaction d’un bug
 
 
 ;Take our latest experimental features for a spin and shape the future of Firefox.
-Take our latest experimental features for a spin and shape the future of Firefox.
+Essayez nos dernières fonctionnalités expérimentales et prenez part au futur de Firefox.
 
 
 ;Learn more about Test Pilot
-Learn more about Test Pilot
+En apprendre davantage sur Test Pilot
 
 
 ;Download and test the latest Firefox for Android features with Aurora, Beta and Nightly builds.
-Téléchargez et essayez les dernières fonctionnalités de Firefox avec les versions Aurora, Beta et Nightly.
+Téléchargez et testez les dernières fonctionnalités de Firefox avec les versions Aurora, Beta et Nightly.
 
 
 ;Try the latest Android features, before they get released to the rest of the world.
-Try the latest Android features, before they get released to the rest of the world.
+Essayez les dernières fonctionnalités sur Android avant qu’elles ne soient disponibles pour tout le monde.
 
 
 ;All Languages and Builds
-Toutes les langues et toutes les versions
+Toutes les langues et versions
 
 
 ;Help determine what features will go into the next Firefox for Android.
-Help determine what features will go into the next Firefox for Android.
+Aidez-nous à décider quelles fonctionnalités seront ajoutées à la prochaine version de Firefox pour Android.
 
 
 ;Firefox Aurora automatically sends feedback to Mozilla.
@@ -60,11 +61,11 @@ Firefox Beta envoie automatiquement des informations à Mozilla.
 
 
 ;<a rel="external" href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
-<a rel="external" href="%(feedback)s">Faites-nous part de votre expérience</a> pour nous aider à mettre la touche finale aux améliorations de performances et aux fonctionnalités dans un environnement stable.
+<a rel="external" href="%(feedback)s">Faites-nous part de votre expérience</a> pour nous aider à apporter la touche finale aux améliorations de performances et aux fonctionnalités dans un environnement stable.
 
 
 ;Download and test the latest Firefox for desktop features with Developer Edition, Beta and Nightly builds.
-Téléchargez et essayez les dernières fonctionnalités de Firefox pour ordinateur avec les versions Developer Edition, Beta et Nightly.
+Téléchargez et testez les dernières fonctionnalités de Firefox pour ordinateur avec les versions Developer Edition, Beta et Nightly.
 
 
 ;Test about-to-be-released features in the most stable pre-release build.
@@ -72,11 +73,11 @@ Testez les fonctionnalités sur le point d’être publiées en utilisant la pr�
 
 
 ;All Languages and Builds (incl. Win 64)
-Toutes les langues et toutes les versions (y compris Win 64)
+Toutes les langues et versions (y compris Win 64)
 
 
 ;Build, test, scale and more with the only browser built just for developers.
-Build, test, scale and more with the only browser built just for developers.
+Créez, testez et itérez grâce au seul navigateur spécialement conçu pour les développeurs.
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.

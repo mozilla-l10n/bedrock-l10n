@@ -1,4 +1,5 @@
 ## active ##
+## plugin_outdated ##
 ## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 
 
@@ -54,7 +55,7 @@ current version plugin {ok}
 
 # This is the string used to indicate that the plugin is outdated
 ;outdated
-outdated
+לא מעודכן
 
 
 # Main title

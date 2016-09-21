@@ -19,7 +19,7 @@ Mozillian Stories
 
 # These <b>s are for formatting.
 ;Hi, I’m <b class="name">Rubén</b>, a Mozillian in <b class="country">Spain</b>
-Hi, I’m <b class="name">Rubén</b>, a Mozillian in <b class="country">Spain</b>
+שלום, אני <b class="name">Rubén</b>, מוזילאי מ<b class="country">ספרד</b>
 
 
 ;I’ve been collaborating with the Mozilla community since 2004, helping with website localization, QA, user support and community marketing. I’ve also helped organize events in Spain and performed IT tasks within the Mozilla Hispano community.
@@ -27,11 +27,11 @@ I’ve been collaborating with the Mozilla community since 2004, helping with we
 
 
 ;I’m currently helping with:
-I’m currently helping with:
+אני עוזר כרגע בתחומים הבאים:
 
 
 ;Mozilla.org localization
-Mozilla.org localization
+תרגום Mozilla.org
 
 
 ;Mozilla Hispano mentorship program
@@ -39,7 +39,7 @@ Mozilla Hispano mentorship program
 
 
 ;Community events
-Community events
+אירועים קהילתיים
 
 
 # These <b>s are for formatting so we can style the name and country.
@@ -56,7 +56,7 @@ Webmaker
 
 
 ;WoMoz
-WoMoz
+WoMoz {ok}
 
 
 ;Firefox Student Ambassadors
@@ -85,7 +85,7 @@ I’m a Webmaker Super Mentor who’s passionate about building a more open Web.
 
 
 ;KidZilla
-KidZilla
+KidZilla {ok}
 
 
 ;MozCafes
