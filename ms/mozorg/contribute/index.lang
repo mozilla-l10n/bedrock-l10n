@@ -3,7 +3,7 @@
 
 # Used for HTML title attribute
 ;Volunteer Opportunities at Mozilla
-Volunteer Opportunities at Mozilla
+Peluang Sukarelawan di Mozilla
 
 
 # this string is used for accessibility reasons, it's not visible in the page
@@ -13,17 +13,17 @@ Menu {ok}
 
 # this br is for formatting, omit or reposition as needed
 ;Why<br> volunteer
-Why<br> volunteer
+Mengapa<br> jadi sukarelawan
 
 
 # this br is for formatting, omit or reposition as needed
 ;Find<br> an event
-Find<br> an event
+Cari<br> acara
 
 
 # this br is for formatting, omit or reposition as needed
 ;Meet<br> Mozillians
-Meet<br> Mozillians
+Temui <br> anggota Mozillia
 
 
 ;Get involved
@@ -31,21 +31,21 @@ Sertainya
 
 
 ;Your country
-Your country
+Negara anda
 
 
 # This is a hint used as a placeholder in a country selection dropdown menu. It should be short.
 ;I live in&hellip;
-I live in&hellip;
+Saya tinggal di &hellip;
 
 
 ;Volunteer with Mozilla!
-Volunteer with Mozilla!
+Jadilah sukarelawan Mozilla!
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians worldwide
-active Mozillians worldwide
+Anggota Mozillia yang aktif di seluruh dunia
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.

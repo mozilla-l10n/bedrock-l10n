@@ -1,3 +1,8 @@
+## active ##
+## firefox_sync_mobile_buttons_update ##
+## firefox_sync_non_fx ##
+## fx38_sync_updates ##
+## ios_announce ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
 
@@ -92,7 +97,7 @@ Klik “<strong>Seterusnya</strong>” untuk mendapatkan pengesahan yang dihanta
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+Selepas anda semak e-mel anda dan klik link pengesahan, anda akan bersedia! Firefox akan sync secara automatik di latar belakang selepas daripada itu.
 
 
 ;Get more detailed instructions.
@@ -100,18 +105,18 @@ Dapatkan arahan yang lebih terperinci.
 
 
 ;Using an older version of Sync?
-Menggunakan Sync versi yang sebelumnya?
+Anda guna Sync versi lama?
 
 
 # This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
-Cara menyelesaikan Sync dalam lima langkah mudah:
+Cara menatacara Sync dengan lima langkah mudah:
 
 
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+Tap butang <strong>Menu</strong> (sama ada pada bahagian bawah skrin atau pada sudut kanan atas pelayar).
 
 
 # This string is displayed on Android devices
@@ -121,17 +126,17 @@ Pilih <strong>Tetapan</strong> (anda mungkin perlu tap <strong>Selanjutnya</stro
 
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
-Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+Tap <strong>Sync</strong> dan kemudian <strong>Mulakan</strong>.
 
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-The <strong>Create a Firefox Account page</strong> will open in a new tab.
+Halaman <strong>Cipta Akaun Firefox</strong> akan terbuka dalam tab baru.
 
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-Fill out the form and click <strong>Next</strong>.
+Isi borang dan klik <strong>Seterusnya</strong>.
 
 
 # This string is displayed on Android devices
@@ -144,27 +149,27 @@ Sync sedikit. Sync banyak.
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-Anda memlih apa bahagian daripada Firefox anda untuk anda sync dan berada dimana yang anda mahukan. Pilih tab yang dibuka kepada pelayaran seharian. Akses kepada penanda buku sewaktu bekerja. Dimana sahaja anda berada.
+Anda boleh pilih bahagian Firefox yang anda mahu sync dan di mana untuk anda sync. Bawa tab anda yang dibuka dalam kehidupan seharian. Akses tanda buku anda sewaktu bekerja. Apa-apa sahaja, pada bila-bila masa, di mana-mana sahaja.
 
 
 ;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
-Sentiasa untuk melayari komputer anda dengan tab terbuka daripada peranti yang lain? Akses sejarah pelayaran anda sentiasa? Simpan kata laluan dengan anda? Sekarang anda boleh.
+Anda mahu melayari tab terbuka komputer anda dari peranti yang lain? Mengakses sejarah pelayaran anda di mana-mana? Bawa kata laluan bersama anda? Sekarang anda boleh.
 
 
 ;Here’s what you can sync:
-Here’s what you can sync:
+Inilah yang boleh anda sync:
 
 
 ;Bookmarks
-Tandabuku
+Tanda buku
 
 
 ;Passwords
-Passwords
+Kata laluan
 
 
 ;Open tabs
-Open tabs
+Tab terbuka
 
 
 ;History
@@ -176,31 +181,31 @@ Di rumah
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+Bergerak dari meja ke sofa tanpa kehilangan rentak kerja anda. Akses tab terbuka anda pada telefon pintar anda atau teruskan pelayaran tanda buku anda pada tablet anda.
 
 
 ;At work
-At work
+Di tempat kerja
 
 
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
-Sentiasa berhubung kepada semua daripada maklumat penting anda. Sync kata laluan dan penanda buku yang anda perlu sewaktu akses pada bila-bila masa. Hanya seperti Firefox, ia adalah selamat sebaik mungkin.
+Sentiasa berhubungan dengan semua maklumat penting anda. Sync kata laluan dan tanda buku yang anda perlu akses pada bila-bila masa. Sama seperti Firefox, sync juga selamat.
 
 
 ;On the go
-On the go {ok}
+Di mana-mana sahaja
 
 
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+Sentiasa berhubungan dengan laman kegemaran anda, atau menyiapkan cerpen yang ada mulakan di rumah — ke mana sahaja anda pergi. Dengan Sync, semuanya semakin mudah.
 
 
 ;Add Firefox to your smartphone or tablet
-Tambah Firefox kepada telefon pintar atau tablet
+Tambah Firefox ke telefon pintar atau tablet
 
 
 ;To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
-To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
+Untuk mendapatkan pengalaman penuh Sync, dapatkan Firefox untuk iOS atau Android dan hubungkan dengan semua peranti anda — ke mana sahaja dan di mana-mana sahaja anda menggunakan Firefox.
 
 
 ;Add Firefox
@@ -208,14 +213,14 @@ Tambah Firefox
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-Sudahkan anda mempunyai <b>telefon pintar Android</b> atau <b>tablet</b>?
+Anda ada <b>telefon pintar Android</b> atau <b>tablet</b>?
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
-DOWNLOAD FIREFOX FOR ANDROID
+DOWNLOAD FIREFOX FOR ANDROID {ok}
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+Untuk mendapatkan pengalaman penuh Sync, bawa Web anda di mana-mana sahaja anda gunakan Firefox. Hubungkan telefon pintar, tablet, komputer dan komputer riba anda.
 
 

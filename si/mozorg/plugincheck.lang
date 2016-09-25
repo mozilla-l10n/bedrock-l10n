@@ -3,7 +3,7 @@
 
 # Used as page title in HTML meta tag
 ;Keep your Firefox healthy with a quick checkup
-Keep your Firefox healthy with a quick checkup
+ක්ෂණික පිරික්සීමක් මගින් ඔබේ Firefox සෞඛ්‍යමත්ව තබාගන්න
 
 
 # Used as page description in HTML meta tag
@@ -13,7 +13,7 @@ Use Flash? QuickTime? Java? If you use these to make your Firefox experience mor
 
 # Old page <title> tag
 ;Plugin Check &amp; Updates
-Plugin Check &amp; Updates
+ප්ලගින පිරික්සීම &amp; යාවත්
 
 
 # This is a button telling the user to update their plugin
@@ -28,7 +28,7 @@ Plugin Check &amp; Updates
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
 ;current version plugin
-current version plugin
+දැනට පවතින වෙළුම ප්ලගිනය
 
 
 # This is a button informing the user that their plugin is up to date
@@ -38,12 +38,12 @@ current version plugin
 
 # L10n: This is alt text used on plugin icon images
 ;Plugin icon
-Plugin icon
+ප්ලගින අයිකනය
 
 
 # This is the string used to indicate that the plugin is unknown
 ;unknown
-unknown
+නොදන්නා
 
 
 # This is the string used to indicate that the plugin is vulnerable
@@ -53,7 +53,7 @@ unknown
 
 # This is the string used to indicate that the plugin is outdated
 ;outdated
-outdated
+යල්පැනගිය
 
 
 # Main title
@@ -66,7 +66,7 @@ Keeping your plugins up to date helps Firefox run safely and smoothly.
 
 
 ;Currently the plugin check service is only available to Firefox users.
-Currently the plugin check service is only available to Firefox users.
+දැනට ප්ලගින පරීක්ෂා කිරීමේ සේවාව ලබාගත හැක්කේ Firefox භාවිතා කරන්නන්ට පමණි.
 
 
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
@@ -75,15 +75,15 @@ Plugins don’t always update automatically. Check yours now to stay safe and br
 
 
 ;Looks like you’re using an older version of Firefox.
-Looks like you’re using an older version of Firefox.
+ඔබ Firefox පැරණි වෙළුමක් භාවිත කරන බවක් පෙනීයයි.
 
 
 ;Plugin Status
-Plugin Status
+ප්ලගින තත්වය
 
 
 ;No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
-No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)s">please file a bug</a> and let us know.
+ප්ලගින කිසිවක් හමු නොවුණි. මෙය දෝෂයක් යැයි ඔබ විශ්වාස කරන්නේ නම්, <a href="%(bugzilla_url)s">කරුණාකර දෝෂයක් වාර්තා කර</a> අපට දන්වන්න.
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
@@ -103,7 +103,7 @@ No plugins were found. If you believe this is an error, <a href="%(bugzilla_url)
 
 
 ;Plugin
-Plugin
+ප්ලගින
 
 
 ;Status
@@ -115,19 +115,19 @@ Plugin
 
 
 ;Outdated Plugins
-Outdated Plugins
+කල් ඉකුත්වූ ප්ලගින
 
 
 ;Unknown Plugins
-Unknown Plugins
+නොදන්නා ප්ලගිනය
 
 
 ;These plugins are up to date
-These plugins are up to date
+මෙම ප්ලගින යාවත් කාලීනව ඇත
 
 
 ;Back to Top
-Back to Top
+ආපසු ඉහළටම
 
 
 ;Frequently Asked Questions
@@ -168,7 +168,7 @@ Adobe                  Systems සහ Apple වැනි                  සම
 
 # alt image
 ;Screenshot of Add-Ons manager
-Screenshot of Add-Ons manager
+ඇඩෝන පරිපාලනයේ තිර රූපයක්
 
 
 ;How can Firefox help me?
@@ -209,7 +209,7 @@ Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</
 
 # If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
 ;Open the <span class="menu">menu</span>.
-Open the <span class="menu">menu</span>.
+<span class="menu">මෙනුව</span> විවෘත කරන්න.
 
 
 ;Choose Add-ons.
@@ -221,7 +221,7 @@ Open the <span class="menu">menu</span>.
 
 
 ;Click on the drop down next to the plugin you wish to disable.
-Click on the drop down next to the plugin you wish to disable.
+ඔබ අක්‍රීය කිරීමට බලාපොරොත්තු වන ප්ලගිනයට ලඟ පහළට හෙළීම මත ක්ලික් කරන්න.
 
 
 ;Click on a plugin in the list.
@@ -229,7 +229,7 @@ Click on the drop down next to the plugin you wish to disable.
 
 
 ;Select "Never Activate" from the available choices.
-Select "Never Activate" from the available choices.
+පවතින තේරීම් වලින් "කිසිවිට සක්‍රීය නොකරන්න" තෝරන්න.
 
 
 ;Click the Disable button.
@@ -245,7 +245,7 @@ Caution: disabling a plugin means that you will no longer be able to do certain 
 
 
 ;Mozilla Support
-Mozilla Support
+Mozilla  සහාය
 
 
 ;Have more questions?
@@ -253,6 +253,6 @@ Mozilla Support
 
 
 ;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
-Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
+වැඩිදුර සහාය සඳහා  <a href="%(sumo_url)s">support.mozilla.org</a> වෙත පිවිසෙන්න!
 
 
