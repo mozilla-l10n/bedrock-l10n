@@ -387,7 +387,7 @@ Bdu attekki
 
 
 ;Sign me up for community updates
-Sign me up for community updates
+Bɣiɣ ad d-awiɣ isallen imaynuten n tmezdagnut
 
 
 ;(English)
@@ -395,27 +395,27 @@ Sign me up for community updates
 
 
 ;What particular area?
-What particular area?
+Anta taɣult?
 
 
 ;What would you like to code?
-What would you like to code?
+Acu tebɣiḍ ad testengleḍ/ad taruḍ tangalt?
 
 
 ;What would you like to test?
-What would you like to test?
+Acu tebɣiḍ ad tessekydeḍ/ad tɛeṛḍeḍ?
 
 
 ;What would you like to translate?
-What would you like to translate?
+Acu tebɣid ad tessuqleḍ?
 
 
 ;What would you like to write?
-What would you like to write?
+Acu tebɣiḍ ad taruḍ?
 
 
 ;What would you like to teach?
-What would you like to teach?
+Acu tebɣiḍ ad teslemdeḍ?
 
 
 ;Firefox
@@ -435,63 +435,63 @@ Isnasen HTML5
 
 
 ;Diagnosing Web compatibility issues
-Diagnosing Web compatibility issues
+Af-d uguren n umṣada Web
 
 
 ;Online services
-Online services
+Imeẓla s srid
 
 
 ;Web compatibility
-Web compatibility
+Amṣada Web
 
 
 ;Product localization
-Product localization
+Tasuqilt n iseɣẓanen
 
 
 ;Website localization
-Website localization
+Tasuqilt n yesmal Web
 
 
 ;I’d like to work on localization tools
-I’d like to work on localization tools
+Bɣiɣ ad ttekkiɣ deg ifeck n tsuqlit
 
 
 ;Social media
-Social media
+Iẓeḍwan n tmetti
 
 
 ;Journalism
-Journalism
+Taɣamsa
 
 
 ;Technical docs for users
-Technical docs for users
+Tasemlit tatiknikant i yiseqdacen
 
 
 ;Technical docs for developers
-Technical docs for developers
+Tasemlit tatiknikant i yineflayen
 
 
 ;Technical docs for Firefox add-ons
-Technical docs for Firefox add-ons
+Tasemlit tatiknikant n izegrar Firefox
 
 
 ;Technical docs for HTML5 apps
-Technical docs for HTML5 apps
+Tasemlit tatiknikant n yesnasen HTML5
 
 
 ;Teach the Web (Webmaker)
-Teach the Web (Webmaker)
+Selmed Web (Webmaker)
 
 
 ;Open News fellowships
-Open News fellowships
+Taggazt Open News
 
 
 ;Hive - Community networks of educators/mentors
-Hive - Community networks of educators/mentors
+Hive — Izeḍwan n tmezdanutin n imsilɣen akked /mentors
 
 
 ;Open Web science research
@@ -499,19 +499,19 @@ Open Web science research
 
 
 ;Community Events
-Community Events
+Tidyanin n tmezdagnut
 
 
 ;Find events
-Find events
+Af-d tidyanin
 
 
 ;By city, country, or event:
-By city, country, or event:
+S uɣrem, tamurt, neɣ tadyant:
 
 
 ;By date:
-By date:
+S wazemz:
 
 
 ;month
@@ -596,7 +596,7 @@ Isem-ik
 
 
 ;In the meantime&hellip;
-In the meantime&hellip;
+Imir-en &hellip;
 
 
 # Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
@@ -698,7 +698,7 @@ Send us a note and we can get you started right away.
 
 
 ;I need help with a Firefox issue
-I need help with a Firefox issue
+Sriɣ tallalt, ɣur-i ugur akked Firefox
 
 
 ;Please enter a valid email address.

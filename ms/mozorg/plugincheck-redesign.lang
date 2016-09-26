@@ -41,7 +41,7 @@ Tiada plugin yang dijumpai. Jika anda percaya ini ialah ralat, <a href="%(bugzil
 
 
 ;Common plugins you should check often.
-Common plugins you should check often.
+Common plugin anda perlu sentiasa disemak.
 
 
 ;All plugins
@@ -49,7 +49,7 @@ Semua plugin
 
 
 ;These plugins are out of date. Please update.
-These plugins are out of date. Please update.
+Plugin ini sudah usang. Sila kemas kini.
 
 
 ;Plugin
@@ -65,19 +65,19 @@ Tindakan
 
 
 ;These plugins are up to date. No action required.
-These plugins are up to date. No action required.
+Plugin sudah terkini. Tidak perlu buat apa-apa.
 
 
 ;These plugins have an unknown status. Follow the links to learn more.
-These plugins have an unknown status. Follow the links to learn more.
+Status pugin ini tidak diketahui. Buka pautan untuk ketahui selanjutnya.
 
 
 ;Common Plugin Questions
-Common Plugin Questions
+Soalan Common Plugin
 
 
 ;Need help? Visit Mozilla Support.
-Need help? Visit Mozilla Support.
+Perlukan bantuan? Kunjungi Mozilla Support.
 
 
 ;What is a plugin?
@@ -125,11 +125,11 @@ How can I see which plugins I have installed in my Firefox?
 
 
 ;We automatically detected your plugins above. To view all the plugins you have installed in Firefox, follow these steps in your desktop browser:
-We automatically detected your plugins above. To view all the plugins you have installed in Firefox, follow these steps in your desktop browser:
+Kami mengesan plugin di atas secara automatik. Untuk paparkan semua plugin yang dipasang dalam Firefox, ikuti langkah tersebut dalam pelayar desktop anda:
 
 
 ;Open the <span class="menu">menu</span>.
-Open the <span class="menu">menu</span>.
+Buka <span class="menu">menu</span>.
 
 
 ;Choose Add-ons.
@@ -145,7 +145,7 @@ Bagaimana saya boleh melumpuhkan plugin?
 
 
 ;In Firefox for desktop:
-In Firefox for desktop:
+Dalam Firefox untuk desktop:
 
 
 ;Click on the drop down next to the plugin you wish to disable.

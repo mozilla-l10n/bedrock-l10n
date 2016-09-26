@@ -1,3 +1,7 @@
+## active ##
+## fx49_remove_hello ##
+## ios_product_tagline ##
+## tracking_protection ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/products/
 
 
@@ -48,16 +52,16 @@ Firefox <span>untuk</span> desktop
 
 
 ;Trusted. Flexible. Fast.
-Trusted. Flexible. Fast.
+Dipercayai. Fleksibel. Pantas.
 
 
 # <span> tag below adds visual style to "for" text
 ;Firefox <span>for</span> Android
-Firefox <span>for</span> Android
+Firefox <span>untuk</span> Android
 
 
 ;Make it uniquely yours.
-Make it uniquely yours.
+Jadikannya unik milik anda.
 
 
 ;Get it on Google Play
@@ -66,23 +70,23 @@ Dapatkan ia di Google Play
 
 # <span> tag below adds visual style to "for" text
 ;Firefox <span>for</span> iOS
-Firefox <span>for</span> iOS
+Firefox <span>untuk</span> iOS
 
 
 ;Fast. Smart. Yours.
-Fast. Smart. Yours.
+Pantas. Pintar. Milik anda.
 
 
 # Obsolete title, do not remove
 ;Get it on iPhones and iPads
-Get it on iPhones and iPads
+Dapatkannya untuk iPhone dan iPads
 
 
 ;Now with Tracking Protection.
-Now with Tracking Protection.
+Kini dengan Pelindungan Penjejakan.
 
 
 ;Connect Firefox wherever you use it.
-Connect Firefox wherever you use it.
+Sambung Firefox di mana-mana sahaja anda menggunakannya.
 
 

@@ -50,30 +50,30 @@ Anggota Mozillia yang aktif di seluruh dunia
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;upcoming events around the globe
-upcoming events around the globe
+acara akan datang di serata dunia
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
 ;languages and counting, on every continent
-languages and counting, on every continent
+bahasa sedia ada dan tambahan bahasa, di setiap benua
 
 
 ;Join a global community of game-changers.
-Join a global community of game-changers.
+Sertai komuniti global penukar-permainan.
 
 
 # this br is for formatting, omit or reposition as needed
 ;Volunteer as much as you like. Or as little.<br> It’s totally up to you.
-Volunteer as much as you like. Or as little.<br> It’s totally up to you.
+Jadilah sukarelawan sepenuh masa. Atau setakat yang anda mampu.<br> Semuanya bergantung kepada anda.
 
 
 # this br is for formatting, omit or reposition as needed
 ;Share your skills and pick up<br> a few new ones along the way.
-Share your skills and pick up<br> a few new ones along the way.
+Kongsi kemahiran anda dan dapatkan<br> beberapa kemahiran yang baru dalam proses tersebut.
 
 
 ;Volunteering with Mozilla&hellip;
-Volunteering with Mozilla&hellip;
+Menjadi sukarelawan Mozilla&hellip;
 
 
 # This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
@@ -134,7 +134,7 @@ Create your Mozillians account and share your contributions with the world
 
 
 ;Get started
-Get started
+Mari mulakan
 
 
 ;Not ready to dive in just yet?
@@ -150,7 +150,7 @@ Donate to Mozilla
 
 
 ;Read our Manifesto
-Read our Manifesto
+Baca Manifesto kami
 
 
 ;Like us on Facebook
@@ -158,7 +158,7 @@ Like us on Facebook
 
 
 ;Follow us on Twitter
-Follow us on Twitter
+Ikut kami di Twitter
 
 
 ;Upcoming event
@@ -174,7 +174,7 @@ Communicate
 
 
 ;Mozilla communities
-Mozilla communities
+Komuniti Mozilla
 
 
 ;Mailing lists
@@ -190,7 +190,7 @@ More links
 
 
 ;Submit Firefox feedback
-Submit Firefox feedback
+Hantar maklum balas Firefox
 
 
 ;Explore Mozilla careers
