@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo server available at https://www-dev.allizom.org/contribute
 
 
@@ -18,7 +19,7 @@ Mengapa<br> jadi sukarelawan
 
 # this br is for formatting, omit or reposition as needed
 ;Find<br> an event
-Cari<br> acara
+Cari<br> aktiviti
 
 
 # this br is for formatting, omit or reposition as needed
@@ -50,7 +51,7 @@ Anggota Mozillia yang aktif di seluruh dunia
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;upcoming events around the globe
-acara akan datang di serata dunia
+aktiviti akan datang di serata dunia
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms. The phrase "and counting" means there are always more being added; not sure how that idiom might translate so do your best :)
@@ -162,11 +163,11 @@ Ikut kami di Twitter
 
 
 ;Upcoming event
-Acara akan datang
+Aktiviti akan datang
 
 
 ;See all events
-Papar semua acara
+Tinjau semua aktiviti
 
 
 ;Communicate
@@ -202,7 +203,7 @@ Dapatkan bantuan daripada Firefox
 
 
 ;Subscribe to community events
-Ikuti berita acara komuniti
+Ikuti berita aktiviti komuniti
 
 
 ;Get community updates
@@ -299,7 +300,7 @@ Lanjutan perihal mengajar
 
 
 ;Share your skills with a community that’s eager to learn. Take advantage of our free tools, teaching resources and events.
-Kongsi kemahiran anda dengan komuniti yang bersemangat mahu belajar. Gunakan sepenuhnya alatan, sumber mengajar dan acara percuma kami.
+Kongsi kemahiran anda dengan komuniti yang bersemangat mahu belajar. Gunakan sepenuhnya alatan, sumber mengajar dan aktiviti percuma kami.
 
 
 ;Helping
@@ -503,7 +504,7 @@ Acara Komuniti
 
 
 ;Find events
-Cari acara
+Cari aktiviti
 
 
 ;By city, country, or event:
@@ -527,7 +528,7 @@ Tarikh
 
 
 ;Event
-Acara
+Aktiviti
 
 
 ;Location
@@ -539,7 +540,7 @@ Bandar
 
 
 ;Events
-Acara
+Aktiviti
 
 
 # Used as title of the thank you page displayed after users send the form
@@ -638,7 +639,7 @@ Tidak terima kasih, saya hanya tunggu dapat e-mel
 # The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
 # Strings have been copied from the old template (mozorg/contribute.lang)
 ;Area of interest?
-Bidang yang diminati?
+Bidang yang anda minat?
 
 
 ;Helping Users
