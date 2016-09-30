@@ -1,3 +1,5 @@
+## active ##
+## newsletter_confirm_2016 ##
 ## NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
 
 
@@ -18,23 +20,23 @@
 
 
 ;You’re awesome!
-You’re awesome!
+Вие сте страхотни!
 
 
 ;And we’re not just saying that because you trusted us with your email address.
-And we’re not just saying that because you trusted us with your email address.
+Не го казваме просто така, а защото ни се доверихте, чрез своята електронна поща.
 
 
 ;Please be sure to add mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
-Please be sure to add mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Моля, не забравяйте да добавите mozilla@e.mozilla.org към вашата адресна книга, за да сте сигурни, че винаги ще получавате писмата от нас.
 
 
 ;Mozilla touches on a variety of important issues.
-Mozilla touches on a variety of important issues.
+Mozilla засяга широк кръг от важни теми.
 
 
 ;Open your inbox (and your heart) even more — take a look at other topics we cover.
-Open your inbox (and your heart) even more — take a look at other topics we cover.
+Отворете папката с входяща поща (и сърцето) още повече и вижте другите теми, които засягаме.
 
 
 # Form submit button on the Student Ambassador newsletter subscription form
@@ -43,7 +45,7 @@ Open your inbox (and your heart) even more — take a look at other topics we co
 
 
 ;Thanks for Subscribing!
-Благодарим за абонамента!
+Благодарим ви, че се абонирахте!
 
 
 ;Your newsletter subscription has been confirmed.
@@ -52,42 +54,42 @@ Open your inbox (and your heart) even more — take a look at other topics we co
 
 # Name for the newsletter in Newsletter subscription page
 ;Firefox + You
-Firefox + You
+Firefox + вас
 
 
 # Description for the newsletter in Newsletter subscription page (Firefox + You)
 ;A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
-Месечен бюлетин и известия за това, как да извлечете максималното от Вашия настолен Firefox или Firefox за Android устройство.
+Месечен бюлетин и известия за това, как да извлечете максималното от вашия настолен Firefox или Firefox за Android.
 
 
 # Name for the newsletter in Newsletter subscription page
 ;Firefox OS + You
-Firefox OS + You
+Firefox OS + вас
 
 
 # Description for the newsletter in Newsletter subscription page (Firefox OS + You)
 ;A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
-Месечен бюлетин и известия за това, как да извлечете максималното от Вашето Firefox OS устройство, включително и последните възможности и най-яките приложения от Firefox Marketplace.
+Месечен бюлетин и известия за това, как да извлечете максималното от вашето устройство с Firefox OS, включително и последните възможности и най-яките приложения от Firefox Marketplace.
 
 
 # Name for the newsletter in Newsletter subscription page
 ;Firefox Accounts Tips
-Firefox Accounts Tips
+Съвети за Firefox Account
 
 
 # Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
 ;Get the most out of your Firefox Account.
-Get the most out of your Firefox Account.
+Получете най-доброто от своя Firefox Account.
 
 
 # Name for the newsletter in Newsletter subscription page
 ;Mozilla Communities
-Mozilla общности
+Общности на Mozilla
 
 
 # Description for the newsletter in Newsletter subscription page (Mozilla Communities)
 ;Bringing you the best new opportunities to help support the open Web.
-Получете най-добрите възможности да подпомогнете откритата Мрежа.
+Получете най-добрите възможности да подпомогнете отворената Мрежа.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -102,22 +104,22 @@ Mozilla общности
 
 # Name for the newsletter in Newsletter subscription page
 ;Firefox Affiliates
-Firefox Съдружници
+Съдружници на Firefox
 
 
 # Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
 ;A monthly newsletter to keep you up to date with the Firefox Affiliates program.
-Месечен бюлетин с актуална инфромация относно програмата Firefox Съдружници.
+Месечен бюлетин с актуална информация относно програмата Съдружници на Firefox.
 
 
 # Name for the newsletter in Newsletter subscription page
 ;Firefox Apps & Hacks
-Firefox приложения & Хакове
+Приложения и хакове за Firefox
 
 
 # Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
 ;News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
-Новини за разработчици относно Firefox OS, Firefox Marketplace и други Open Web приложения.
+Новини за разработчиците относно Firefox OS, Firefox Marketplace и други Open Web приложения.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -127,7 +129,7 @@ Firefox приложения & Хакове
 
 # Description for the newsletter in Newsletter subscription page
 ;Email updates for vouched Mozillians on mozillians.org.
-Актуална информация за популярни Мозилианци от mozillians.org.
+Актуална информация за препоръчани мозилианци от mozillians.org.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -137,7 +139,7 @@ Firefox приложения & Хакове
 
 # Description for the newsletter in Newsletter subscription page (Firefox for desktop)
 ;Don’t miss the latest announcements about our desktop browser.
-Не пропускайте последните известия относно настолната версия на нашия браузър.
+Не пропускайте последните известия относно настолната версия на нашия четец.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -147,7 +149,7 @@ Firefox за Android
 
 # Description for the newsletter in Newsletter subscription page (Firefox for Android)
 ;Keep up with releases and news about Firefox for Android.
-Новини и известия за версии на Firefox за Android.
+Новини и известия за версиите на Firefox за Android.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -167,12 +169,12 @@ Mozilla {ok}
 
 # Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
 ;Don’t miss important news and updates about your Firefox OS device.
-Не пропускайте важни новини и информация за актуализации на Вашето Firefox OS устройство.
+Не пропускайте важни новини и информация за актуализации на вашето устройство с Firefox OS.
 
 
 # Name for the newsletter in Newsletter subscription page
 ;Firefox iOS
-Firefox iOS
+Firefox iOS {ok}
 
 
 # Description for the newsletter in Newsletter subscription page (Firefox iOS)
@@ -182,11 +184,11 @@ Firefox iOS
 
 # Name for the newsletter in Newsletter subscription page
 ;Firefox Flicks
-Firefox Flicks
+Firefox Flicks {ok}
 
 
 ;Periodic email updates about our annual international film competition.
-Периодични email известия за нашите годишни международни филмови конкурси.
+Периодични известия за нашите годишни международни филмови конкурси.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -196,30 +198,30 @@ Beta Новини
 
 # Name for the newsletter in Newsletter subscription page
 ;Mozilla Foundation
-Mozilla Foundation
+Фондация Mozilla
 
 
 # Description for the newsletter in Newsletter subscription page (Mozilla Foundation)
 ;News and special updates about our work to promote openness, innovation and participation on the Internet, including ways for you to get involved.
-News and special updates about our work to promote openness, innovation and participation on the Internet, including ways for you to get involved.
+Новини и специални актуализации за работата ни за насърчаване на отвореността, нововъведенията и участие в Интернет, включително и начини как да се включите и вие.
 
 
 # Name for the newsletter in Newsletter subscription page
 ;Shape of the Web
-Shape of the Web
+Състояние на Мрежата
 
 
 # Description for the newsletter in Newsletter subscription page (Shape of the Web)
 ;News and information related to the health of the web.
-News and information related to the health of the web.
+Новини и информация свързани със здравето на Мрежата.
 
 
 ;About Addons
-About Addons
+Относно Добавки
 
 
 ;Firefox OS
-Firefox OS
+Firefox OS {ok}
 
 
 ;Firefox OS news, tips, launch information and where to buy.
@@ -227,11 +229,11 @@ Firefox OS - новини, съвети, информация за влизан�
 
 
 ;We can keep in touch with occasional messages that matter most to you.
-Можем да ви държим в течение с разредени във времето, но важни за Вас съобщения.
+Можем да ви държим в течение с разредени във времето, но важни за вас съобщения.
 
 
 ;Submit
-Изпрати
+Изпращане
 
 
 ;Find out how!
@@ -247,11 +249,11 @@ Firefox OS - новини, съвети, информация за влизан�
 
 
 ;I didn't sign up for this.
-Не съм се записвал за това.
+Аз не съм се абонирал за такова нещо.
 
 
 ;Save Preferences
-Запази настройките
+Запазване
 
 
 ;The supplied link has expired. You will receive a new one in the next newsletter.
@@ -263,19 +265,19 @@ Firefox OS - новини, съвети, информация за влизан�
 
 
 ;Subscribe
-Абонирай
+Абониране
 
 
 ;Set your preferences below to make sure you always receive the news you want.
-Изберете Вашите настройки по-долу, за да получвата винаги новините, които искате.
+Изберете своите настройки по-долу, за да получавате винаги новините, които вие искате.
 
 
 ;You send too many emails.
-Изпращате прекалено много имейли.
+Изпращате прекалено много съобщения.
 
 
 ;Getting too much email from us?
-Получавате твърде много имейли от нас?
+Получавате ли твърде много съобщения от нас?
 
 
 ;Would you mind telling us why you’re leaving?
@@ -299,11 +301,11 @@ Firefox OS - новини, съвети, информация за влизан�
 
 
 ;Your content wasn't relevant to me.
-Вашето съдържание не е от значение за мен.
+Съдържанието не представлява интерес за мен.
 
 
 ;Don’t forget to check your inbox to confirm your request to get Firefox for iOS updates. If you don’t see an email from mozilla@e.mozilla.org, check your spam filter. You must confirm your request in order to receive the updates.
-Don’t forget to check your inbox to confirm your request to get Firefox for iOS updates. If you don’t see an email from mozilla@e.mozilla.org, check your spam filter. You must confirm your request in order to receive the updates.
+Не забравяйте да проверите папката с входяща поща, за да потвърдите своя абонамент за новости относно Firefox за iOS. Ако не виждате съобщение от mozilla@e.mozilla.org, проверете своя филтър за нежелана поща. За да получавате актуализации трябва да потвърдите своя абонамент.
 
 
 ;Firefox
@@ -315,23 +317,23 @@ Firefox {ok}
 
 
 ;title
-title
+заглавие
 
 
 ;Firefox is coming soon to iOS!
-Firefox is coming soon to iOS!
+Firefox скоро идва при iOS!
 
 
 ;It’s your Web anywhere you go.
-Това е Вашата Мрежа, където и да отидете.
+Това е вашата Мрежа, където и да отидете.
 
 
 ;Your email design was too hard to read.
-Вашият имейл дизайн се чете твърде трудно.
+Дизайнът на съобщенията ги прави трудно четими.
 
 
 ;Please enter a valid email address
-Please enter a valid email address
+Моля, въведете валиден имейл адрес
 
 
 ;Newsletter Subscriptions
@@ -339,15 +341,15 @@ Please enter a valid email address
 
 
 ;Unsubscribe
-Отпиши
+Отписване
 
 
 ;Mozilla Newsletter
-Mozilla Newsletter
+Бюлетин на Mozilla
 
 
 ;Thanks for updating your email preferences.
-Благодарим, че актуализирахте имейл настройките си.
+Благодарим ви, че актуализирахте своите настройки.
 
 
 ;We’re glad you asked!
@@ -355,23 +357,23 @@ Mozilla Newsletter
 
 
 ;Firefox on iOS — Sign up for email updates — Mozilla
-Firefox on iOS — Sign up for email updates — Mozilla
+Firefox on iOS — Абонамент за актуализации по имейла — Mozilla
 
 
 ;Something is amiss with our system, sorry! Please try again later.
-Нещо не е наред при нас! Моля, опитайте отново.
+Нещо не е наред при нас! Моля, опитайте по-късно.
 
 
 ;Check all categories that apply to you, and we promise to keep the mail to a minimum.
-Изберете всички категории, от които се интересувате, а ние обещаваме да получите минималното възможно количество имейли.
+Изберете категориите, от които се интересувате, а ние обещаваме да получавате възможно най-малко съобщения.
 
 
 ;description
-description
+описание
 
 
 ;Sign up today to receive email updates about the iOS version of Firefox.
-Sign up today to receive email updates about the iOS version of Firefox.
+Запишете се сега, за да получаване новости относно Firefox за iOS.
 
 
 ;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
@@ -379,11 +381,11 @@ Sign up today to receive email updates about the iOS version of Firefox.
 
 
 ;Success! An email has been sent to you with your preference center link. Thanks!
-Success! An email has been sent to you with your preference center link. Thanks!
+Готово! Изпратихме ви писмо, съдържащо препратка към страницата с вашите настройки. Благодарим ви!
 
 
 ;Remove me from all Mozilla emails
-Премахни ме от всички имейли от Mozilla
+Отписване от всички бюлетини на Mozilla
 
 
 ;Thanks for telling us why you’re leaving.
@@ -391,11 +393,11 @@ Success! An email has been sent to you with your preference center link. Thanks!
 
 
 ;Enter your email address and we’ll send you a link to your email preference center.
-Enter your email address and we’ll send you a link to your email preference center.
+Въведете своя електронен адрес и ще ви изпратим препратка към страницата с вашите настройки.
 
 
 ;Send me a link
-Send me a link
+Изпращане
 
 
 ;Added extras
@@ -403,7 +405,7 @@ Send me a link
 
 
 ;%s is not a valid newsletter
-%s is not a valid newsletter
+%s не е валиден бюлетин
 
 
 ;English&nbsp;only
@@ -411,15 +413,15 @@ Send me a link
 
 
 ;This is not a valid email address. Please check the spelling.
-This is not a valid email address. Please check the spelling.
+Това не е валиден електранен адрес. Проверете правописа.
 
 
 ;Thanks for your interest in the upcoming iOS version of Firefox. We’re pretty excited about it too!
-Thanks for your interest in the upcoming iOS version of Firefox. We’re pretty excited about it too!
+Благодарим ви за проявения интерес към предстоящото пускане на Firefox за iOS. Ние също доста се вълнуваме!
 
 
 ;You’ve been unsubscribed.
-Прекратихте абонамента си.
+Прекратихте своя абонамента.
 
 
 ;Make Firefox do more with add-ons.
@@ -427,11 +429,11 @@ Thanks for your interest in the upcoming iOS version of Firefox. We’re pretty 
 
 
 ;You must agree to the privacy notice
-You must agree to the privacy notice
+Трябва да се съгласите с политиката за личните данни
 
 
 ;You must agree to the privacy policy
-You must agree to the privacy policy
+Трябва да се съгласите с политиката за личните данни
 
 
 ;Other…
@@ -440,43 +442,43 @@ You must agree to the privacy policy
 
 # <title> tag for the subscription confirmation page
 ;Newsletter confirm
-Потвърждение на абонамента
+Потвърждение на абонамент
 
 
 ;Not interested in our newsletters, but like those special announcements? No problem.
-Не се интересувате от нашите бюлетини, но искате тези специални известия? Няма проблем.
+Не се интересувате от нашите бюлетини, но искате от тези специални известия? Няма проблем.
 
 
 ;Manage your Email Preferences
-Управлявайте Вашите имейл настройки
+Настройки на абонамента
 
 
 ;This page is in maintenance mode and is temporarily unavailable.
-This page is in maintenance mode and is temporarily unavailable.
+Тази страница е спряна за профилактика и е временно недостъпна.
 
 
 ;To update your email preferences, please check back in a little while. Thanks!
-To update your email preferences, please check back in a little while. Thanks!
+За да направите промени в абонамента си опитайте по-късно. Благодарим ви!
 
 
 ;We love sharing updates about all the awesome things happening at Mozilla.
-Ние обичаме да споделяме актуалното относно страхотните неща, които се случват в Mozilla.
+Обичаме да споделяме новостите около всички страхотните неща, които се случват в Mozilla.
 
 
 ;This email address is not in our system. Please double check your address or <a href="%s">subscribe to our newsletters.</a>
-This email address is not in our system. Please double check your address or <a href="%s">subscribe to our newsletters.</a>
+Този електронен адрес го няма в нашата система. Моля, отново го проверете или се <a href="%s">абонирайте за нашите бюлетини.</a>
 
 
 ;We are sorry, but there was a problem with our system. Please try again later!
-We are sorry, but there was a problem with our system. Please try again later!
+Извиняваме се, но има проблем със системата ни. Моля, опитайте отново!
 
 
 ;The supplied link has expired or is not valid. You will receive a new one in the next newsletter, or below you can request an email with the link.
-The supplied link has expired or is not valid. You will receive a new one in the next newsletter, or below you can request an email with the link.
+Тази препратка е с изтекъл срок или е сгрешена. Ще получите нова в следващия бюлетин или по-долу може да поискате да ви бъде изпратена нова.
 
 
 ;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
-Моля, не забравяйте да добавите нашия имейл адрес: mozilla@e.mozilla.org в адресната си книга, за да бъдете сигурни, че винаги ще достигнем до вашата пощенска кутия.
+Моля, не забравяйте да добавите mozilla@e.mozilla.org към вашата адресна книга, за да сте сигурни, че винаги ще получавате писмата от нас.
 
 
 ;While here, why not check out some more Firefox awesomeness.
@@ -484,23 +486,23 @@ The supplied link has expired or is not valid. You will receive a new one in the
 
 
 ;Manage your <span>Newsletter Subscriptions</span>
-Управлявайте своите <span>абонаменти за бюлетини</span>
+Управлявайте своите <span>абонаменти</span>
 
 
 ;Sign up below for updates and to be notified when it launches.
-Sign up below for updates and to be notified when it launches.
+Абонирайте се по-долу и научете когато пристигне.
 
 
 ;Newsletter email recovery
-Newsletter email recovery
+Възстановяване на електронен адрес на абонамент
 
 
 ;*You’ll only receive updates and announcements about the iOS version of Firefox.
-*You’ll only receive updates and announcements about the iOS version of Firefox.
+*Ще получавате обновявания и съобщения само за версията на Firefox за iOS.
 
 
 ;Firefox Marketplace for Firefox OS
-Firefox Marketplace for Firefox OS
+Firefox Marketplace за Firefox OS
 
 
 ;Discover the latest, coolest HTML5 apps on Firefox OS.
@@ -508,35 +510,35 @@ Firefox Marketplace for Firefox OS
 
 
 ;Firefox Weekly Tips
-Firefox Weekly Tips
+Седмични съвети за Firefox
 
 
 ;Get a weekly tip on how to super-charge your Firefox experience.
-Получете седмични съвети как да увеличите максимално Вашето Firefox преживяване.
+Получавайте седмични съвети как да увеличите максимално своето Firefox преживяване.
 
 
 ;Student Reps
-Student Reps
+Студентски представители
 
 
 ;Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
-Бивша университетска програма за периода 2008-2011, сега неактивна и рестартирана като програма Студентски посланици на Firefox.
+Бившата университетска програма за периода 2008-2011, сега неактивна и рестартирана като програма Студентски посланици на Firefox.
 
 
 ;Mozilla Learning Network
-Mozilla Learning Network
+Mozilla Learning Network {ok}
 
 
 ;Updates from our global community, helping people learn the most important skills of our age: the ability to read, write and participate in the digital world.
-Updates from our global community, helping people learn the most important skills of our age: the ability to read, write and participate in the digital world.
+Новини от нашата глобална общност, която помага на хората да придобиват най-важните умения на нашето време: способността да се чете, пише и участва в цифровия свят.
 
 
 ;Download Firefox for iOS
-Download Firefox for iOS
+Изтегляне на Firefox за iOS
 
 
 ;Download Firefox for Android
-Download Firefox for Android
+Изтегляне на Firefox за Android
 
 
 ;Get Firefox for Android
@@ -544,23 +546,23 @@ Download Firefox for Android
 
 
 ;Drumbeat Newsgroup
-Drumbeat Newsgroup
+Новинарска емисия на Drumbeat
 
 
 ;Mozilla Festival
-Mozilla Festival
+Фестивалът на Mozilla
 
 
 ;Special announcements about Mozilla's annual, hands-on festival dedicated to forging the future of the open Web.
-Special announcements about Mozilla's annual, hands-on festival dedicated to forging the future of the open Web.
+Специални известия за годишния практически фестивал на Mozilla, посветен на формирането на бъдещето на Мрежата.
 
 
 ;Firefox Marketplace for Android
-Firefox Marketplace for Android
+Firefox Marketplace за Android
 
 
 ;About Standards
-About Standards
+Относно стандартите
 
 
 ;Get Involved
@@ -568,19 +570,19 @@ About Standards
 
 
 ;Download Firefox for Mobile
-Download Firefox for Mobile
+Изтегляне на Firefox за мобилен телефон
 
 
 ;Maker Party
-Maker Party
+Maker Party {ok}
 
 
 ;Mozilla's largest celebration of making and learning on the web.
-Mozilla's largest celebration of making and learning on the web.
+Най-голямото празненство на Mozilla за създаване и обучение за Мрежата.
 
 
 ;Aurora
-Aurora
+Aurora {ok}
 
 
 ;Join Mozilla
@@ -588,35 +590,35 @@ Aurora
 
 
 ;About Labs
-About Labs
+Относно Лабораторията
 
 
 ;Read about the latest features for Firefox desktop and mobile before the final release.
-Прочетете за най-новите функции на настолната и мобилната версия на Firefox, преди да излезе финалната версия.
+Прочетете за най-новите функции на настолната и мобилната версии на Firefox, преди да бъдат официално издадени.
 
 
 ;Webmaker
-Webmaker
+Webmaker {ok}
 
 
 ;Special announcements helping you get the most out of Webmaker.
-Special announcements helping you get the most out of Webmaker.
+Специални обявления, които ви помагат да получите максималното от Webmaker.
 
 
 ;Addon Development
-Addon Development
+Разработка на добавки
 
 
 ;Firefox Marketplace for Desktop
-Firefox Marketplace for Desktop
+Firefox Marketplace за настолен компютър
 
 
 # It appears here: https://www-dev.allizom.org/newsletter/firefox/
 ;Put more fox in your inbox.
-Put more fox in your inbox.
+Получавайте още новости от лиса
 
 
 ;See where the Web can take you with monthly Firefox tips, tricks and Internet intel.
-See where the Web can take you with monthly Firefox tips, tricks and Internet intel.
+Разберете на къде може да ви заведе Мрежата с месечни съвети, трикове и новини от Firefox.
 
 

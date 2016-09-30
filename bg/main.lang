@@ -790,11 +790,11 @@ HTML {ok}
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-Съгласен съм Mozilla да разполага с моята информация, както е обяснено в <a href="%s">тази Политика за личните данни</a>
+Съгласен съм Mozilla да разполага с данните ми, както е обяснено в <a href="%s">тази Политика за личните данни</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Съгласен съм Mozilla да разполага с моята информация, както е обяснено в <a href="%s">тази Политика за личните данни</a>
+Съгласен съм Mozilla да разполага с данните ми, както е обяснено в <a href="%s">тази Политика за личните данни</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -839,7 +839,7 @@ HTML {ok}
 
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-Ако преди сте не сте потвърждавали абонамент за бюлетин на Mozilla сега ще трябва да го направите. Моля, проверете входящата или папката с нежелана поща за писмо от нас.
+Ако преди не сте потвърждавали абонамент за бюлетин на Mozilla ще трябва да го направите сега. Моля, проверете входящата или папката с нежелана поща за писмо от нас.
 
 
 # Obsolete string. Do not remove.
