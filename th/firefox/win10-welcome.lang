@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/windows-10/welcome
 ## NOTE: You need to add the demo server to your prefs http://bedrock.readthedocs.org/en/latest/uitour.html#local-development
 ## NOTE: design of the page https://docs.google.com/presentation/d/1huZYwWDp2R4YOUwxY9rlLSu7vFPibamIHkKx_Pdraqg
@@ -5,16 +6,16 @@
 
 # Main title
 ;Firefox + Windows 10. Perfect together.
-Firefox + Windows 10. Perfect together.
+Firefox และ Windows10 ทำงานร่วมกันอย่างสมบูรณ์แบบ
 
 
 ;We’ve designed Firefox to work seamlessly with your Windows 10 update, giving you the same great browsing experience you’ve come to love, with the privacy, speed and choice you’ve come to expect.
-We’ve designed Firefox to work seamlessly with your Windows 10 update, giving you the same great browsing experience you’ve come to love, with the privacy, speed and choice you’ve come to expect.
+เราได้ออกแบบ Firefox ให้ทำงานกับการปรับปรุง Windows 10 ของคุณได้อย่างราบรื่น ให้ประสบการณ์การท่องเว็บอย่างเดียวกันแบบที่คุณรัก พร้อมกับความเป็นส่วนตัว ความรวดเร็ว และตัวเลือกที่คุณได้คาดหวังไว้
 
 
 # Displayed when Firefox is not the default browser.
 ;Make Firefox your default in 3 easy steps:
-Make Firefox your default in 3 easy steps:
+ทำให้ Firefox เป็นเว็บเบราว์เซอร์ตั้งต้นใน 3 ขั้นตอนง่าย ๆ:
 
 
 # The following strings are displayed when Firefox is not set as default browser.
@@ -28,7 +29,7 @@ Make Firefox your default in 3 easy steps:
 
 
 ;Scroll down to “Web browser”
-Scroll down to “Web browser”
+เลื่อนลงไปที่ “เว็บเบราว์เซอร์”
 
 
 ;Choose Firefox
@@ -36,7 +37,7 @@ Scroll down to “Web browser”
 
 
 ;Let’s do it
-Let’s do it
+เริ่มกันเลย
 
 
 # The following strings are displayed when Firefox set as default browser.
@@ -45,10 +46,10 @@ Let’s do it
 
 
 ;Speed
-Speed
+ความเร็ว
 
 
 ;Choice
-Choice
+ตัวเลือก
 
 
