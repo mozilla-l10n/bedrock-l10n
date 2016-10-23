@@ -6,7 +6,7 @@
 
 
 ;Available Languages
-選択できる言語
+利用可能な言語
 
 
 ;Language:
@@ -53,7 +53,7 @@ Firefox & You {ok}
 
 # Description for the newsletter in Newsletter subscription page (Firefox & You)
 ;A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
-デスクトップや Android 端末で Firefox のユーザ体験を向上させるためのヒントをお伝えする、月刊のニュースレターと特別なお知らせ。
+デスクトップや Android 端末で Firefox のユーザー体験を向上させるためのヒントをお伝えする、月刊のニュースレターと特別なお知らせ。
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -73,7 +73,7 @@ Mozilla コミュニティ
 
 # Description for the newsletter in Newsletter subscription page (Mozilla Communities)
 ;Bringing you the best new opportunities to help support the open Web.
-オープンな Web を支えるための新たな最高の機会をお届けします。
+オープンなウェブを支えるための新たな最高の機会をお届けします。
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -113,7 +113,7 @@ Mozillians {ok}
 
 # Description for the newsletter in Newsletter subscription page (Firefox for desktop)
 ;Don’t miss the latest announcements about our desktop browser.
-デスクトップブラウザに関する最新のお知らせをお見逃しなく。
+デスクトップブラウザーに関する最新のお知らせをお見逃しなく。
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -128,7 +128,7 @@ Android 版 Firefox に関する最新ニュースをお届けします。
 
 # Description for the newsletter in Newsletter subscription page (Mozilla)
 ;Special announcements and messages from the team dedicated to keeping the Web free and open.
-Web を自由で開かれた世界として守ることに専念しているチームからの特別なお知らせやメッセージ。
+ウェブを自由で開かれた世界として守ることに専念しているチームからの特別なお知らせやメッセージ。
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -178,7 +178,7 @@ Mozilla で起こっている様々なエキサイティングなことをお知
 
 
 ;Check all categories that apply to you, and we promise to keep the mail to a minimum.
-興味のあるカテゴリにすべてチェックを入れてください。メールは最小限にすることを約束します。
+興味のあるカテゴリーにすべてチェックを入れてください。メールは最小限にすることを約束します。
 
 
 ;I’m interested in:
@@ -226,7 +226,7 @@ I'm keeping in touch with Mozilla on Facebook and Twitter instead. {ok}
 
 
 ;Submit
-Submit {ok}
+送信
 
 
 ;Thanks for telling us why you’re leaving.
@@ -254,7 +254,7 @@ Something is amiss with our system, sorry! Please try again later. {ok}
 
 
 ;English&nbsp;only
-English&nbsp;only {ok}
+英語のみ
 
 
 ;Newsletter Subscriptions
@@ -266,7 +266,7 @@ Newsletter confirm {ok}
 
 
 ;Format:
-Format: {ok}
+形式:
 
 
 ;You’ve been unsubscribed.
@@ -282,7 +282,7 @@ Would you mind telling us why you’re leaving? {ok}
 
 
 ;Other…
-Other… {ok}
+その他...
 
 
 ;While here, why not check out some more Firefox awesomeness.
