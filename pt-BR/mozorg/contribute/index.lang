@@ -47,7 +47,7 @@ Seja voluntário na Mozilla!
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
 ;active Mozillians worldwide
-Mozillians trabalhando no mundo inteiro
+Mozillians ativos por todo o mundo
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
@@ -630,7 +630,7 @@ Sim, quero criar uma conta no Mozillians
 
 
 ;You will be asked to sign in before proceeding
-Será necessário que você faça login antes de continuar
+Será necessário que você entre antes de continuar
 
 
 ;No thanks, I’ll just wait for the email

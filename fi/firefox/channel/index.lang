@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
@@ -43,7 +44,7 @@ Vinkkejä viasta ilmoittamiseen
 
 
 ;Take our latest experimental features for a spin and shape the future of Firefox.
-Take our latest experimental features for a spin and shape the future of Firefox.
+Kokeile uusimpia kokeellisia ominaisuuksia ja vaikuta Firefoxin tulevaisuuteen.
 
 
 ;Learn more about Test Pilot
@@ -51,11 +52,11 @@ Lue lisää Test Pilotista
 
 
 ;Download and test the latest Firefox for Android features with Aurora, Beta and Nightly builds.
-Download and test the latest Firefox for Android features with Aurora, Beta and Nightly builds.
+Lataa ja testaa Firefoxin Android-version uusimpia ominaisuuksia Aurora-, Beta- ja Nightly-versioilla.
 
 
 ;Try the latest Android features, before they get released to the rest of the world.
-Try the latest Android features, before they get released to the rest of the world.
+Kokeile uusimpia Android-ominaisuuksia ennen kuin ne julkaistaan koko maailmalle.
 
 
 ;All Languages and Builds
@@ -63,27 +64,27 @@ Kaikki kielet ja versiot
 
 
 ;Help determine what features will go into the next Firefox for Android.
-Help determine what features will go into the next Firefox for Android.
+Auta päättämään, mitkä ominaisuudet tulevat seuraavaan Firefoxin Android-versioon.
 
 
 ;Firefox Aurora automatically sends feedback to Mozilla.
-Firefox Aurora automatically sends feedback to Mozilla.
+Firefox Aurora lähettää palautetta Mozillalle automaattisesti.
 
 
 ;Firefox Beta automatically sends feedback to Mozilla.
-Firefox Beta automatically sends feedback to Mozilla.
+Firefox Beta lähettää palautetta Mozillalle automaattisesti.
 
 
 ;<a rel="external" href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
-<a rel="external" href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+<a rel="external" href="%(feedback)s">Antamalla palautetta</a> autat meitä hiomaan vakaan version suorituskyvyn ja ominaisuudet.
 
 
 ;Download and test the latest Firefox for desktop features with Developer Edition, Beta and Nightly builds.
-Download and test the latest Firefox for desktop features with Developer Edition, Beta and Nightly builds.
+Lataa ja testaa Firefoxin tietokoneversion uusimpia ominaisuuksia Developer Edition-, Beta- ja Nightly-versioilla.
 
 
 ;Test about-to-be-released features in the most stable pre-release build.
-Test about-to-be-released features in the most stable pre-release build.
+Testaa kohta julkaistavia ominaisuuksia vakaimmalla ennakkoversiolla.
 
 
 ;All Languages and Builds (incl. Win 64)
@@ -91,19 +92,19 @@ Kaikki kielet ja versiot (myös Win 64)
 
 
 ;Build, test, scale and more with the only browser built just for developers.
-Build, test, scale and more with the only browser built just for developers.
+Rakenna, testaa ja skaalaa ainoalla juuri kehittäjille tehdyllä selaimella.
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
-Firefox Developer Edition automatically sends feedback to Mozilla.
+Firefox Developer Edition lähettää palautetta Mozillalle automaattisesti.
 
 
 ;Test brand new features daily (or… nightly). Enjoy at your own risk.
-Test brand new features daily (or… nightly). Enjoy at your own risk.
+Testaa upouusia ominaisuuksia päivittäin (tai… öittäin). Nauti omalla vastuulla.
 
 
 ;Firefox Nightly automatically sends feedback to Mozilla.
-Firefox Nightly automatically sends feedback to Mozilla.
+Firefox Nightly lähettää palautetta Mozillalle automaattisesti.
 
 
 ;Nightly Blog
@@ -112,15 +113,15 @@ Nightly-blogi
 
 # Don't translate TestFlight
 ;Test beta versions of Firefox for iOS via Apple’s TestFlight program and help make our mobile browser for iPhone, iPad and iPod touch even better.
-Test beta versions of Firefox for iOS via Apple’s TestFlight program and help make our mobile browser for iPhone, iPad and iPod touch even better.
+Testaa Firefoxin iOS-versioita Applen TestFlight-ohjelmalla ja auta tekemään iPhone-, iPad- ja iPod touch -selaimestamme entistä parempi.
 
 
 # Don't translate TestFlight
 ;Test beta versions of Firefox for iOS via Apple’s TestFlight program.
-Test beta versions of Firefox for iOS via Apple’s TestFlight program.
+Testaa Firefoxin iOS-versioita Applen TestFlight-ohjelmalla.
 
 
 ;Sign up now
-Sign up now
+Rekisteröidy nyt
 
 
