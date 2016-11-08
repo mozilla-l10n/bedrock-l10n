@@ -41,7 +41,7 @@ Abra sua caixa de entrada (e seu coração) ainda mais — dê uma olhada em out
 
 # Form submit button on the Student Ambassador newsletter subscription form
 ;Sign me up!
-Me cadastre!
+Assinar!
 
 
 ;Thanks for Subscribing!
@@ -49,27 +49,27 @@ Obrigado por se cadastrar!
 
 
 ;Your newsletter subscription has been confirmed.
-Sua inscrição em nossa newsletter está ativada.
+A sua assinatura do boletim informativo foi confirmada.
 
 
 # Name for the newsletter in Newsletter subscription page
 ;Firefox + You
-Firefox + Você
+Firefox + você
 
 
 # Description for the newsletter in Newsletter subscription page (Firefox + You)
 ;A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
-Uma newsletter mensal com dicas e novidades que te ajudarão a tirar o melhor proveito do seu Firefox no computador ou no seu aparelho Android.
+Um boletim informativo mensal com dicas e novidades que te ajudarão a tirar o melhor proveito do seu Firefox no computador ou no seu aparelho Android.
 
 
 # Name for the newsletter in Newsletter subscription page
 ;Firefox OS + You
-Firefox OS + Você
+Firefox OS + você
 
 
 # Description for the newsletter in Newsletter subscription page (Firefox OS + You)
 ;A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
-Uma newsletter mensal com dicas e novidades sobre como aproveitar seu aparelho com Firefox OS, incluindo as últimas novidades do Firefox Marketplace.
+Um boletim informativo mensal com dicas e novidades sobre como aproveitar seu aparelho com Firefox OS, incluindo as últimas novidades do Firefox Marketplace.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -79,7 +79,7 @@ Dicas para Contas do Firefox
 
 # Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
 ;Get the most out of your Firefox Account.
-Obtenha o mÃ¡ximo da sua Conta do Firefox.
+Obtenha o máximo da sua conta Firefox.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -109,7 +109,7 @@ Firefox Affiliates {ok}
 
 # Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
 ;A monthly newsletter to keep you up to date with the Firefox Affiliates program.
-Novidades mensais sobre o programa Afiliados do Firefox.
+Um boletim informativo mensal para mante-lo atualizado com o programa afiliados do Firefox.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -405,7 +405,7 @@ Complementos
 
 
 ;%s is not a valid newsletter
-%s não é uma newsletter valida
+%s não é um boletim informativo valido
 
 
 ;English&nbsp;only
@@ -446,7 +446,7 @@ Confirmação da newsletter
 
 
 ;Not interested in our newsletters, but like those special announcements? No problem.
-Não está interessado em nossas newsletters, mas quer ficar por dentro dos nossos comunicados espciais? Sem problemas.
+Não está interessado em nossos boletins informativos, mas quer ficar por dentro dos nossos comunicados especiais? Sem problemas.
 
 
 ;Manage your Email Preferences
@@ -486,7 +486,7 @@ Enquanto está por aqui, que tal conferir outras maravilhas do Firefox?
 
 
 ;Manage your <span>Newsletter Subscriptions</span>
-Gerencie seus <span>cadastros em nossas newsletters.</span>
+Gerencie suas <span>assinaturas dos boletins informativos</span>
 
 
 ;Sign up below for updates and to be notified when it launches.
@@ -570,7 +570,7 @@ Envolva-se
 
 
 ;Download Firefox for Mobile
-Baixar o Firefox para celular
+Baixe o Firefox para celular
 
 
 ;Maker Party
@@ -628,6 +628,6 @@ Inscreva-se. Leia.<br> Faça a diferença.
 
 
 ;Get the Mozilla newsletter to stay informed about issues challenging the health of the Internet and to discover how you can get involved.
-Receba as notícias da Mozilla e fique informado sobre problemas que afetam a saúde da Internet e descubra como você pode colaborar.
+Receba o boletim informativo da Mozilla e mantenha-se informado sobre problemas que afetam a saúde da Internet e descubra como você pode se envolver.
 
 
