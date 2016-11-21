@@ -51,7 +51,7 @@ Agzul
 
 # Firefox family navigation menu. Second-level item shared across different menus.
 ;Trusted
-Yettwaman
+Yettwaflas
 
 
 # Firefox family navigation menu. Second-level item shared across different menus.
@@ -86,7 +86,7 @@ Isnasen
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Ur yisfuɣul ara
+Ur yi-sfuɣul ara
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -142,11 +142,11 @@ Fren iminig ilelli
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox baṭel, ur yettnadi ara idrimen akked tiǧǧin n izerfan. Afran n Firefox mačči kan imi d iminig, Afra ines d tilelli d udmawant.
+Firefox baṭel, ur yettnadi ara idrimen akked tiǧǧin n izerfan. Afran n Firefox mačči kan imi d iminig, Afran-ines d tilelli tudmawant.
 
 
 ;Donate
-Mudd tawsa
+Awes
 
 
 ;Support
@@ -162,7 +162,7 @@ Izegrar
 
 
 ;About Us
-Fell-aɣ
+Fella-neɣ
 
 
 ;Labs
@@ -202,7 +202,7 @@ Nermes-aɣ-d
 
 
 ;Other languages:
-Tutlayin nniḍen:
+Tutlayin-nniḍen:
 
 
 # Will replace "Other languages" for the footer's language switcher
@@ -242,7 +242,7 @@ Iwenniten n lqem
 
 
 ;Other Systems and Languages
-Tutlayin akked inagrawen nniḍen
+Tutlayin akked inagrawen-nniḍen
 
 
 ;Close
@@ -270,7 +270,7 @@ Sider
 
 
 ;Previous
-Ɣeṛ deffir
+Ɣer deffir
 
 
 ;Next
@@ -295,7 +295,7 @@ Tividyutin
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
-Arama <a href="%s"> Iban-d</a> d akken ala, agbur n usmel agi yers daw n turagt <br /><a href="%s">Creative Commons Attribution Share-Alike v3.0</a> neɣ ugar.
+Arama <a href="%s">Iban-d</a>dakken ala, agbur n usmel-a yers ddaw n turagt <br /><a href="%s">Creative Commons Attribution Share-Alike v3.0</a> neɣ ugar.
 
 
 ;Report Trademark Abuse
@@ -308,11 +308,11 @@ Aleqqem baṭel
 
 # social networks such as Facebook and Twitter
 ;Follow us on:
-Ḍfert-aɣ-d di:
+Ḍfert-aɣ-d deg:
 
 
 ;Customize with Add-ons
-Sagen si izegrar
+Sagen s yizegrar
 
 
 ;Learn More
@@ -326,7 +326,7 @@ Issin ugar
 
 # Link used to play again an animation or a video
 ;Replay
-Wali tikelt nniḍen amray
+Wali tikelt-nniḍen amray
 
 
 ;Watch the video
@@ -334,7 +334,7 @@ Wali tavidyut
 
 
 ;Replay the video
-Wali tikelt nniḍen tavidyut
+Wali tikelt-nniḍen tavidyut
 
 
 ;Share the video
@@ -350,7 +350,7 @@ Amasal Ogg Theora
 
 
 ;MPEG-4 format
-Amsal MPEG-4
+Amasal MPEG-4
 
 
 ;Mobile
@@ -398,7 +398,7 @@ Titiknulujiyin tineggura
 
 
 ;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
-Tesriḍ lqem! Qqim d aɣlsan di kra n wakud kan.<br/> Bdu s useqdec n Firefox amaynut i tunigin ifazen akked waggan di Web.<br/> S zreb u baṭel!
+Tesriḍ lqem! Qqim d aɣlsan deg kra n wakud kan.<br/> Bdu s useqdec n Firefox amaynut i tunigin ifazen akked waggan di Web.<br/> S zreb u baṭel!
 
 
 ;Upgrade now
@@ -425,17 +425,17 @@ Tudert tabaḍnit
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Kra n yeḥricen n ugbur agi d ©1998–%(current_year)s sɣur imttekkiyen n mozilla.org. Agbur yella daw n <a  href="%(url)s"> turagt Creative Commons</a>.
+Kra n yeḥricen n ugbur-a d ©1998–%(current_year)s sɣur imttekkiyen n mozilla.org. Agbur yella ddaw n <a  href="%(url)s"> turagt Creative Commons</a>.
 
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Ttekki deg usmel agi
+Ttekki deg usmel-a
 
 
 # Footer string
 ;Contribute to this page
-Ttekki deg usebter agi
+Ttekki deg usebter-a
 
 
 # Top menu item
@@ -560,7 +560,7 @@ Imɛawanen
 
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
-Amaynut si Mozilla
+Amaynut seg Mozilla
 
 
 # share button for social networks
@@ -570,22 +570,22 @@ Bḍu
 
 # footer link
 ;Mozilla on Twitter
-Mozilla diTwitter
+Mozilla deg Twitter
 
 
 # footer link
 ;Firefox on Twitter
-Firefox di Twitter
+Firefox deg Twitter
 
 
 # footer link
 ;Mozilla on Facebook
-Mozilla di Facebook
+Mozilla deg Facebook
 
 
 # footer link
 ;Firefox on Facebook
-Firefox di Facebook
+Firefox deg Facebook
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -620,12 +620,12 @@ Iseɣẓanen-nneɣ
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Software and other innovations designed to advance our mission.
-Iseɣẓanen akked d usnulfu nniḍen yettwafeslen i tuɣdaṭ nneɣ.
+Iseɣẓanen akked d usnulfu-nniḍen yettwafeslen i usiẓi ɣer sdat n tuɣdaṭ-nneɣ.
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Become a volunteer contributor in a number of different areas.
-Uɣal d iwizi di deqs n tɣula.
+Uɣal d iwizi deg ddeqs n tɣula.
 
 
 # This is a non-visible string for blind people to indicate where the menu is
@@ -635,7 +635,7 @@ Umuɣ
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-Yettazzal fell-ak, tudert inek akked ɣef Web yeldin.
+Yettazzal fell-ak, tudert-inek akked ɣef Web yeldin
 
 
 # Common title used in Fx 10 pages
@@ -646,7 +646,7 @@ Fren ad tiliḍ d ilelli
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 # The '#ChooseIndependent' hashtag should not be translated.
 ;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Amennuɣ nneq lwaḥid akke Internet ad yeqqim d ilelli u yeldi ! #ChooseIndependent. Fren Firefox:
+Amennuɣ-nneɣ lwaḥid akken Internet ad yeqqim d ilelli u yeldi ! #ChooseIndependent. Fren Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -669,7 +669,7 @@ Yennayer
 
 
 ;February
-Fuṛaṛ
+Furar
 
 
 ;March
@@ -681,7 +681,7 @@ Yebrir
 
 
 ;May
-Maggu
+Mayu
 
 
 ;June
@@ -697,11 +697,11 @@ Yulyu
 
 
 ;September
-Cṭambeṛ
+Cṭamber
 
 
 ;October
-Tubeṛ
+Tuber
 
 
 ;November
@@ -709,7 +709,7 @@ Number
 
 
 ;December
-Dujambeṛ
+Dujamber
 
 
 ;<abbr>Jan</abbr>
@@ -717,7 +717,7 @@ Dujambeṛ
 
 
 ;<abbr>Feb</abbr>
-<abbr>Fuṛ</abbr>
+<abbr>Fur</abbr>
 
 
 ;<abbr>Mar</abbr>
@@ -729,7 +729,7 @@ Dujambeṛ
 
 
 ;<abbr>May</abbr>
-<abbr>Mag</abbr>
+<abbr>May</abbr> {ok}
 
 
 ;<abbr>Jun</abbr>
@@ -762,11 +762,11 @@ Dujambeṛ
 
 # Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
 ;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
-Firefox ad yili ihegga akka kra n wussan ɣef  iOS&nbsp;! <a href="{url}"> Jerred ɣer tebraṭṭ n telɣut akken ur tzeggileḍ kra</a>.
+Firefox ad yili ihegga akka kra n wussan ɣef iOS! <a href="{url}">Jerred ɣer tebratt n telɣut akken ur tzeggleḍ kra</a>.
 
 
 ;Congrats. You’re up to date!
-Ayuz, aqlak tettwaleqmeḍ !
+Ayuz. Aql-ak tettwaleqmeḍ!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
@@ -790,11 +790,11 @@ Ay ay ay! Wali ma yella tessekcmeḍ tansa imayl tameɣtut.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-Qebleɣ akken Mozilla ad tseqdec talɣut inu akken tella <a href="%s">tsertit agi n tbaḍnit</a>
+Qebleɣ akken Mozilla ad tesseqdec talɣut-inu akken tella <a href="%s">tsertit-a n tbaḍnit</a>
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
-Qebleɣ akken Mozilla ad tseqdec talɣut inu tabaḍnit akken tella di <a href="%s"> tsertit agi tabaḍnit</a>
+Qebleɣ akken Mozilla ad tesseqdec talɣut-inu tabaḍnit akken tella deg <a href="%s">tsertit-a tabaḍnit</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -809,7 +809,7 @@ Awi-d isallen n Firefox
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-IMAYL INEK DAGI
+IMAYL-INEK DA
 
 
 # Newsletter subscription Button
@@ -831,7 +831,7 @@ Tutlayin yellan
 
 
 ;We will only send you Mozilla-related information.
-Ak-d nazen kan talɣut icudden ɣer Mozilla.
+Ad ak-d-nazen kan talɣut yerzan Mozilla.
 
 
 ;Thanks!
@@ -839,25 +839,25 @@ Tanemmirt!
 
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-Ma yella ur tsentmeḍ ara yakan ajerred ɣer izen n telɣut icudden ɣer Mozilla, ahat yessefk tura. Ma ulac aɣilif, senqed tirawt inek neɣ imzizdig inek n ispamen akken ad twaliḍ imayl id k-d-nuzen.
+Ma yella ur tsentmeḍ ara yakan ajerred ɣer yizen n telɣutyerzan Mozilla, ahat yessefk tura. Ma ulac aɣilif, senqed tirawt-inek neɣ imzizdig-inek n yispamen akken ad twaliḍ imayl i ak-d-nuzen.
 
 
 # Obsolete string. Do not remove.
 ;Thanks! Please check your inbox to confirm your subscription.
-Tanemmirt! Ma ulac aɣilif senqed tirawt inek akken ad tsentmeḍ ajerred inek.
+Tanemmirt! Ma ulac aɣilif senqed tirawt-inek akken ad tsentmeḍ ajerred-inek.
 
 
 # Obsolete string. Do not remove.
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-Ad tremseḍ imayl si mozilla@e.mozilla.org akken ad tsentmeḍ ajerred. Ma yella ur twalaḍ ara, senqed imzizdig inek n ispamen. Yessefk ad tsentmeḍ ajerred inek akked ad tremseḍ izen nneɣ n telɣut.
+Ad tremseḍ imayl seg mozilla@e.mozilla.org akken ad tsentmeḍ ajerred. Ma yella ur twalaḍ ara, senqed imzizdig-inek n yispamen. Yessefk ad tsentmeḍ ajerred-inek akked ad tremseḍ izen-nneɣ n telɣut.
 
 
 ;Read all about it in our <span>newsletter</span>
-Ɣeṛ akk fell-as ɣef <span>yizen n telɣut</span> nneɣ
+Ɣer akk fella-s ɣef <span>yizen-nneɣ n telɣut</span>
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-Jerred ɣer ileqman n yal aggur u qqim akked isallen n Mozilla, ula d tixbula tineggura akken ad ttfaṛseḍ tagnitt si Firefox. D tagi id tarrayt ifazen akken ad teqqimeḍ yid-neɣ.
+Jerred ɣer ileqman n yal aggur u qqim akked isallen n Mozilla, ula d tixbula tineggura akken ad tfarseḍ tagnitt seg Firefox. D ta i d tarrayt ifazen akken ad teqqimeḍ yid-neɣ!
 
 
 ;<span>Firefox</span> + You
