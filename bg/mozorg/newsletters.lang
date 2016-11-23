@@ -59,7 +59,7 @@ Firefox + вас
 
 # Description for the newsletter in Newsletter subscription page (Firefox + You)
 ;A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
-Месечен бюлетин и известия за това, как да извлечете максималното от вашия настолен Firefox или Firefox за Android.
+Месечен бюлетин и известия за това как да извлечете максималното от вашия настолен Firefox или Firefox за Android.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -69,7 +69,7 @@ Firefox OS + вас
 
 # Description for the newsletter in Newsletter subscription page (Firefox OS + You)
 ;A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
-Месечен бюлетин и известия за това, как да извлечете максималното от вашето устройство с Firefox OS, включително и последните възможности и най-яките приложения от Firefox Marketplace.
+Месечен бюлетин и известия за това как да извлечете максималното от вашето устройство с Firefox OS, включително и последните възможности и най-яките приложения от Firefox Marketplace.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -114,12 +114,12 @@ Firefox OS + вас
 
 # Name for the newsletter in Newsletter subscription page
 ;Mozilla Developer Newsletter
-Mozilla Developer Newsletter
+Бюлетин на разработчиците на Мозила
 
 
 # Description for the newsletter in Newsletter subscription page (Mozilla Developer Newsletter)
 ;A developer's guide to highlights of Web platform innovations, best practices, new documentation and more.
-A developer's guide to highlights of Web platform innovations, best practices, new documentation and more.
+Ръководство за разработчици с акцент върху нововъведенията в мрежата, добри практики, нова документация и други.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -203,7 +203,7 @@ Beta Новини
 
 # Description for the newsletter in Newsletter subscription page (Mozilla Foundation)
 ;News and special updates about our work to promote openness, innovation and participation on the Internet, including ways for you to get involved.
-Новини и специални актуализации за работата ни за насърчаване на отвореността, нововъведенията и участие в Интернет, включително и начини как да се включите и вие.
+Новини и специални актуализации за работата ни за насърчаване на откритостта, нововъведенията и вземане на участие в Мрежата, както и начини как да се включите и вие.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -269,7 +269,7 @@ Firefox OS - новини, съвети, информация за влизан�
 
 
 ;Set your preferences below to make sure you always receive the news you want.
-Изберете своите настройки по-долу, за да получавате винаги новините, които вие искате.
+За да получавате винаги новините, които искате направете своите настройки по-долу.
 
 
 ;You send too many emails.
