@@ -1,4 +1,5 @@
 ## active ##
+## eoy_fundraising_takeover ##
 ## NOTE: demo server at https://bedrock-demo-agibson.us-west.moz.works/
 
 
@@ -91,5 +92,44 @@ Ju duhet ndihmë?
 
 ;Get answers to your questions about Firefox and all Mozilla products from our support team.
 Merrni prej ekipit tonë të asistencës përgjigje për pyetjet tuaja rreth Firefox-it dhe krejt produkteve të Mozilla-s.
+
+
+# This will be used on a home page takeover starting from Dec 1st.
+# Screenshots for reference while the page is implemented:
+# https://drive.google.com/file/d/0B8po55rC8WGXeFVuSWo5SDZlOG8/view?usp=sharing
+# https://drive.google.com/file/d/0B8po55rC8WGXY0JWakp0Z1dlYXc/view?usp=sharing
+;Proudly non-profit. <br>Donate before Dec 31.
+Krenarë që jemi jofitimprurës. <br>Dhuroni përpara 31 Dhjetorit.
+
+
+# This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'
+# You can also localize the currency (e.g. to use € instead of $), but only if your currency is available on https://donate.mozilla.org (check the currency dropdown)
+;$%(sum)s
+$%(sum)s{ok}
+
+
+# Take over form
+;Enter your own amount
+Jepni sasinë tuaj
+
+
+# Take over form: radio button for monthly contributions
+;Monthly
+Çdo muaj
+
+
+# Take over form: radio button for one-time contributions
+;One-time
+Një herë
+
+
+# Take over form: button to submit the donation form
+;Donate Now
+Dhuroni Tani
+
+
+# This is used as a link to dismiss the fundraising take over and continue to mozilla.org website
+;Continue to mozilla.org
+Vazhdoni te mozilla.org
 
 
