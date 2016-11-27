@@ -283,7 +283,7 @@ Features
 
 
 ;MegaBytes
-मेगाबाइट
+MegaBytes {ok}
 
 
 ;FAQ
@@ -316,12 +316,12 @@ Customize with Add-ons
 
 
 ;Learn More
-अझै जान्नुहोस्
+अझ जान्नुहोस्
 
 
 # Same as previous above but with no capitalization on More
 ;Learn more
-अझै जान्नुहोस्
+अझ जान्नुहोस्
 
 
 # Link used to play again an animation or a video
