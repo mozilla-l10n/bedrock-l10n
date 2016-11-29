@@ -176,7 +176,7 @@ Firefox สำหรับ Android ประกอบไปด้วยคุณ
 
 
 ;Share your browser with friends and family without worrying that you’ll see each other’s online activity.
-Share your browser with friends and family without worrying that you’ll see each other’s online activity.
+แบ่งปันเบราว์เซอร์กับเพื่อนและครอบครัวโดยไม่ต้องกังวลว่าคุณจะเห็นกิจกรรมบนโลกออนไลน์ของกันและกัน
 
 
 ;Learn how to share your browser
@@ -188,15 +188,15 @@ Share your browser with friends and family without worrying that you’ll see ea
 
 
 ;Don’t leave home without being in Sync
-Don’t leave home without being in Sync
+อย่าออกจากบ้านโดยไม่ได้ Sync
 
 
 ;Bring your passwords, bookmarks, open tabs and more everywhere you go.
-Bring your passwords, bookmarks, open tabs and more everywhere you go.
+นำรหัสผ่านที่คั่นหน้าแท็บที่เปิดไว้และอื่น ๆ ไปทุกหนทุกแห่งกับคุณ
 
 
 ;Use Sync on your smartphone or tablet to access whatever you need from your desktop &mdash; and vice versa &mdash; without having to remember URLs.
-Use Sync on your smartphone or tablet to access whatever you need from your desktop &mdash; and vice versa &mdash; without having to remember URLs.
+ใช้ Sync บนสมาร์ทโฟนหรือแท็บเล็ตของคุณเพื่อเข้าถึงสิ่งที่คุณต้องการในเดสก์ท็อปของคุณ &mdash; และในทางกลับกัน &mdash; โดยไม่ต้องจำ URL
 
 
 ;Learn more about Sync
@@ -222,7 +222,7 @@ Use Sync on your smartphone or tablet to access whatever you need from your desk
 
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+เปิดใช้งานนวัตกรรมนี้ของ Firefox เพื่อช่วยคุณควบคุมว่าจะให้ข้อมูลในการท่องเว็บถูกรวบรวมและใช้ออนไลน์เท่าไร
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
@@ -237,7 +237,7 @@ Enable this Firefox innovation to help you stay in control of how your browsing 
 
 # Obsolete string, do not remove
 ;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+เมื่อเปิดใช้งาน Firefox สำหรับ Android จะไม่ยอมรับคุกกี้จำรหัสผ่านหรือบันทึกเว็บไซต์ใด ๆ ที่คุณได้เข้าชม
 
 
 # Obsolete string, do not remove
