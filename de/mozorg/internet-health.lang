@@ -1,4 +1,6 @@
 ## active ##
+## Note: Demo server is available at https://www-dev.allizom.org/internet-health ##
+## internet-health-meta-update ##
 # Used as HTML title of the page
 ;Internet Health
 Zustand des Internets
@@ -12,7 +14,7 @@ Das Internet gesund erhalten
 
 # Used as HTML description of the page
 ;The healthier the Internet is, the more it benefits everyone. We can all be a part of keeping the Internet open, safe and accessible.
-The healthier the Internet is, the more it benefits everyone. We can all be a part of keeping the Internet open, safe and accessible.
+Je gesünder das Internet ist, desto mehr nutzt es allen. Wir alle können dafür sorgen, dass das Internet offen, sicher und zugänglich bleibt.
 
 
 # This string is obsolete, don't remove
