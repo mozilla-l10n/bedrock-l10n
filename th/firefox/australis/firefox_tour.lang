@@ -51,15 +51,15 @@
 
 
 ;You don’t have to start over. Access your history, bookmarks and more.
-You don’t have to start over. Access your history, bookmarks and more.
+คุณไม่จำเป็นต้องเริ่มใหม่เข้าถึงประวัติ ที่คั่นหน้าและอื่น ๆ ของคุณ
 
 
 ;There’s Never Been a Better Time for Firefox
-There’s Never Been a Better Time for Firefox
+ไม่มีช่วงเวลาที่ดีกว่านี้อีกแล้วสำหรับ Firefox
 
 
 ;There’s never been a better time for a browser that answers only to you.
-There’s never been a better time for a browser that answers only to you.
+ไม่มีช่วงเวลาที่ดีกว่านี้อีกแล้วสำหรับเบราว์เซอร์ที่ทำมาเฉพาะเพื่อคุณ
 
 
 ;Opens new window
@@ -68,12 +68,12 @@ There’s never been a better time for a browser that answers only to you.
 
 # This is the text for a door-hanger menu that shows in the browser chrome
 ;It’s the fastest, most flexible Firefox ever.
-It’s the fastest, most flexible Firefox ever.
+นี้เป็น Firefox ที่เร็วที่สุดและยืดหยุ่นที่สุดเท่าที่เคยมีมา
 
 
 # This is the label for a button that opens the tour modal dialog
 ;Open tour
-Open tour
+เปิดการเที่ยวชม
 
 
 ;Using an older version of Sync?
@@ -85,21 +85,21 @@ Open tour
 
 
 ;There’s never been a better time for Firefox
-There’s never been a better time for Firefox
+ไม่มีเวลาที่ดีกว่านี้อีกแล้วสำหรับ Firefox
 
 
 # This is the label for a button that closes the tour modal dialog
 ;Close tour
-Close tour
+ปิดการเที่ยวชม
 
 
 # <br> tag below used for formatting only.
 ;Thousands of ways to<br> make Firefox do more
-Thousands of ways to<br> make Firefox do more
+พัน ๆ ทางที่ทำให้ Firefox ทำได้มากกว่า
 
 
 ;Now easier to find, use and manage
-Now easier to find, use and manage
+ปัจจุบันง่ายขึ้นที่จะค้นหา ใช้ และจัดการ
 
 
 # This is the title for a door-hanger menu that shows in the browser chrome
@@ -112,11 +112,11 @@ Now easier to find, use and manage
 
 
 ;Enjoy seamless browsing between devices with Sync
-Enjoy seamless browsing between devices with Sync
+เพลิดเพลินกับการท่องเว็บที่ไร้รอยต่อระหว่างอุปกรณ์ด้วย Sync
 
 
 ;Move or remove any button to match
-Move or remove any button to match
+ย้ายหรือเอาออกปุมใด ๆ เพื่อให้ เหมาะสม
 
 
 ;How you use Firefox is unique
@@ -129,7 +129,7 @@ Add and view bookmarks from a new location
 
 # This is the text for a call to action that appears in the web page
 ;Take the tour to see what’s new
-Take the tour to see what’s new
+เที่ยวชมเพื่อดูว่ามีอะไรใหม่
 
 
 ;It looks like you’re already using Sync
