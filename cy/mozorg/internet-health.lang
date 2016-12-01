@@ -1,6 +1,8 @@
 ## active ##
-## Note: Demo server is available at https://www-dev.allizom.org/internet-health ##
 ## internet-health-meta-update ##
+## NOTE: Demo server is available at https://www-dev.allizom.org/internet-health
+
+
 # Used as HTML title of the page
 ;Internet Health
 Iechyd y Rhyngrwyd
@@ -109,7 +111,7 @@ Derbyn newyddlen Mozilla ac ymgyfarwyddo â'r materion sy'n effeithio arnoch chi
 
 
 ;Take a closer look at the issues
-Golwg manwl ar y materion dan sylw
+Golwg ar y materion dan sylw
 
 
 ;Read the latest from Mozilla’s Internet Citizen blog.
