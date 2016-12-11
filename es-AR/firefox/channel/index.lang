@@ -1,3 +1,5 @@
+## active ##
+## android_nightly_copy ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
@@ -55,63 +57,63 @@ Descargá y probá las funcionalidades más recientes de Firefox para Android co
 
 
 ;Try the latest Android features, before they get released to the rest of the world.
-Try the latest Android features, before they get released to the rest of the world.
+Probá las últimas características en Android antes que estén disponibles al resto del mundo.
 
 
 ;All Languages and Builds
-All Languages and Builds
+Todos los idiomas y versiones
 
 
 ;Help determine what features will go into the next Firefox for Android.
-Help determine what features will go into the next Firefox for Android.
+Ayudá a determinar que características aparecerán en el próximo Firefox para Android.
 
 
 ;Firefox Aurora automatically sends feedback to Mozilla.
-Firefox Aurora automatically sends feedback to Mozilla.
+Firefox Aurora envía alguna información automáticamente a Mozilla.
 
 
 ;Firefox Beta automatically sends feedback to Mozilla.
-Firefox Beta automatically sends feedback to Mozilla.
+Firefox Beta envía alguna información a Mozilla directamente.
 
 
 ;<a rel="external" href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
-<a rel="external" href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+<a rel="external" href="%(feedback)s">Danos tu opinión</a> para ayudarnos a hacer los ajustes finales en rendimiento y funcionalidad para la versión estable.
 
 
 ;Download and test the latest Firefox for desktop features with Developer Edition, Beta and Nightly builds.
-Download and test the latest Firefox for desktop features with Developer Edition, Beta and Nightly builds.
+Descargá y probá las últimas funcionalidades de Firefox para escritorio con las versiones Developer Edition, Beta y Nightly.
 
 
 ;Test about-to-be-released features in the most stable pre-release build.
-Test about-to-be-released features in the most stable pre-release build.
+Probá funcionalidades que aún no han sido lanzadas en la versión no definitiva más estable.
 
 
 ;All Languages and Builds (incl. Win 64)
-All Languages and Builds (incl. Win 64)
+Todos los idiomas y versiones (incl. Win 64)
 
 
 ;Build, test, scale and more with the only browser built just for developers.
-Build, test, scale and more with the only browser built just for developers.
+Creá, probá y mucho más con el único navegador creado para desarrolladores.
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
-Firefox Developer Edition automatically sends feedback to Mozilla.
+Firefox Developer Edition envía alguna información automáticamente a Mozilla.
 
 
 ;Check out new Android features in their earliest stages. Enjoy at your own risk.
-Check out new Android features in their earliest stages. Enjoy at your own risk.
+Verificá nuevas características en Android en sus etapas más tempranas. DIsfrutá bajo tu propio riesgo.
 
 
 ;Test brand new features daily (or… nightly). Enjoy at your own risk.
-Test brand new features daily (or… nightly). Enjoy at your own risk.
+Probá nuevas características diariamente (o… nightly). DIsfrutá bajo tu propio riesgo.
 
 
 ;Firefox Nightly automatically sends feedback to Mozilla.
-Firefox Nightly automatically sends feedback to Mozilla.
+Firefox Nightly envía alguna información automáticamente a Mozilla.
 
 
 ;Nightly Blog
-Nightly Blog
+Blog de Nightly
 
 
 # Don't translate TestFlight
