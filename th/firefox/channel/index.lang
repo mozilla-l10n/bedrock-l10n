@@ -3,16 +3,16 @@
 
 # HTML Description
 ;Download and test future releases of Firefox for desktop, Android and iOS.
-Download and test future releases of Firefox for desktop, Android and iOS.
+ดาวน์โหลดและทดสอบรุ่นต่าง ๆ ในอนาคตของ Firefox สำหรับเดสก์ท็อป Android และ iOS
 
 
 # Main page heading. In case the text is too hard to translate, here's an alternative text: "Take the future for a test run."
 ;Take a browse on the wild side.
-Take a browse on the wild side.
+เปิดเว็บด้วยวิธีเสี่ยง ๆ
 
 
 ;Be among the first to explore future releases of Firefox for desktop, Android and iOS.
-Be among the first to explore future releases of Firefox for desktop, Android and iOS.
+เป็นหนึ่งในผู้สำรวจ Firefox รุ่นในอนาคตสำหรับเดสก์ท็อป Android และ iOS
 
 
 # Used in the navigation menu
@@ -35,11 +35,11 @@ iOS {ok}
 
 
 ;File a bug now
-File a bug now
+รายงานข้อพกพร่องตอนนี้
 
 
 ;Tips for filing a bug
-Tips for filing a bug
+เคล็ดลับสำหรับรายงานข้อผิดพลาด
 
 
 ;Take our latest experimental features for a spin and shape the future of Firefox.
@@ -51,15 +51,15 @@ Take our latest experimental features for a spin and shape the future of Firefox
 
 
 ;Download and test the latest Firefox for Android features with Aurora, Beta and Nightly builds.
-Download and test the latest Firefox for Android features with Aurora, Beta and Nightly builds.
+ดาวน์โหลดและทดสอบคุณลักษณะล่าสุดของ Firefox สำหรับ Android ด้วยการประกอบแบบ Aurora Beta และ Nightly
 
 
 ;Try the latest Android features, before they get released to the rest of the world.
-Try the latest Android features, before they get released to the rest of the world.
+ลองใช้คุณลักษณะล่าสุดของ Android ก่อนที่จะเผยแพร่สู่ส่วนอื่นของโลก
 
 
 ;All Languages and Builds
-All Languages and Builds
+ทุกภาษาและการประกอบ
 
 
 ;Help determine what features will go into the next Firefox for Android.
@@ -75,23 +75,23 @@ Firefox Beta จะส่งผลตอบรับกลับไปยัง 
 
 
 ;<a rel="external" href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
-<a rel="external" href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+<a rel="external" href="%(feedback)s">ส่งข้อมูลตอบกลับ</a>เพื่อช่วยเราปรับแต่งประสิทธิภาพและความสามารถขั้นสุดท้ายในสภาพแวดล้อมที่เสถียร
 
 
 ;Download and test the latest Firefox for desktop features with Developer Edition, Beta and Nightly builds.
-Download and test the latest Firefox for desktop features with Developer Edition, Beta and Nightly builds.
+ดาวน์โหลดและทดสอบคุณลักษณะล่าสุดของ Firefox สำหรับเดสก์ท็อปกับการประกอบแบบ Developer Edtion, Beta และ Nightly
 
 
 ;Test about-to-be-released features in the most stable pre-release build.
-Test about-to-be-released features in the most stable pre-release build.
+ทดสอบคุณลักษณะที่กำลังจะเผยแพร่ในการประกอบก่อนการเผยแพร่ที่เสถียร
 
 
 ;All Languages and Builds (incl. Win 64)
-All Languages and Builds (incl. Win 64)
+ทุกภาษาและการประกอบ (รวมทั้ง Win 64)
 
 
 ;Build, test, scale and more with the only browser built just for developers.
-Build, test, scale and more with the only browser built just for developers.
+ประกอบ ทดสอบ ขยายและอื่น ๆ ด้วยเบราว์เซอร์ที่สร้างมาสำหรับนักพัฒนาโดยเฉพาะ
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
@@ -99,19 +99,19 @@ Firefox รุ่นสำหรับนักพัฒนาจะส่งผ
 
 
 ;Check out new Android features in their earliest stages. Enjoy at your own risk.
-Check out new Android features in their earliest stages. Enjoy at your own risk.
+ลองคุณลักษณะใหม่ของ Android ในสถานะล่าสุด เพลิดเพลินโดยรับความเสี่ยงด้วยตัวคุณเอง
 
 
 ;Test brand new features daily (or… nightly). Enjoy at your own risk.
-Test brand new features daily (or… nightly). Enjoy at your own risk.
+ทดสอบคุณลักษณะใหม่รายวัน (หรือ… รายคืน) เพลิดเพลินโดยรับความเสี่ยงด้วยตัวคุณเอง
 
 
 ;Firefox Nightly automatically sends feedback to Mozilla.
-Firefox Nightly automatically sends feedback to Mozilla.
+Firefox Nightly จะส่งข้อมูลตอบกลับสู่ Mozilla  อัตโนมัติ
 
 
 ;Nightly Blog
-Nightly Blog
+Nightly Blog {ok}
 
 
 # Don't translate TestFlight
