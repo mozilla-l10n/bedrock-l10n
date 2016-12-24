@@ -10,7 +10,7 @@
 
 
 ;Choose an area to get involved below and help make Firefox better for users everywhere
-Choose an area to get involved below and help make Firefox better for users everywhere
+เลือกส่วนที่จะมีส่วนร่วมด้านล่าง และช่วยให้ Firefox ดีขึ้นสำหรับผู้ใช้ในทุกที่
 
 
 ;Test
@@ -18,7 +18,7 @@ Choose an area to get involved below and help make Firefox better for users ever
 
 
 ;Find and file bugs and generally make sure things work as they should.
-Find and file bugs and generally make sure things work as they should.
+ค้นหาและรายงานข้อผิดพลาดต่างๆ และทำให้แน่ใจว่าสิ่งต่างๆ ทำงานอย่างที่มันควรจะเป็น
 
 
 ;Start testing
@@ -34,15 +34,15 @@ https://oneanddone.mozilla.org {ok}
 
 
 ;Code
-Code
+โปรแกรม
 
 
 ;File bugs and work on the building blocks of the Firefox browser.
-File bugs and work on the building blocks of the Firefox browser.
+รายงานข้อผิดพลาดและแก้ไขปรับปรุงโปรแกรมของเว็บเบราว์เซอร์ Firefox
 
 
 ;Start coding
-Start coding
+เริ่มเขียนโปรแกรม
 
 
 # Link used for the "Start coding" button.
@@ -50,19 +50,19 @@ Start coding
 # If you don't have a community page, just add " {ok}" after the en-US link
 # Links must start with http:// or https://
 ;https://developer.mozilla.org/docs/Introduction
-https://developer.mozilla.org/docs/Introduction
+https://developer.mozilla.org/docs/Introduction {ok}
 
 
 ;Localize
-Localize
+ทำให้เป็นภาษาท้องถิ่น
 
 
 ;Make Firefox available (and better) in more languages around the world.
-Make Firefox available (and better) in more languages around the world.
+ทำให้ Firefox รองรับภาษาทั่วโลกหลายภาษา (และรองรับดีขึ้นด้วย)
 
 
 ;Start localizing
-Start localizing
+เริ่มทำให้เป็นภาษาท้องถิ่น
 
 
 # Link used for the "Start localizing" button.
@@ -70,11 +70,11 @@ Start localizing
 # If you don't have a community page, just add " {ok}" after the en-US link
 # Links must start with http:// or https://
 ;https://wiki.mozilla.org/L10n:Contribute
-https://wiki.mozilla.org/L10n:Contribute
+https://wiki.mozilla.org/L10n:Contribute {ok}
 
 
 ;Show everyone that you’re helping to build the Web the world needs.
-Show everyone that you’re helping to build the Web the world needs.
+แสดงให้ทุกคนเห็นว่าคุณกำลังช่วยสร้างเว็บที่โลกต้องการ
 
 
 ;Get your Nightly User badge
