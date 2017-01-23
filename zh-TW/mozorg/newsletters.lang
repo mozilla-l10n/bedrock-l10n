@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
 
 
@@ -42,11 +43,11 @@ Mozilla 關注不同的重大議題。
 
 
 ;Join thousands of developers like you who are learning the best of web development.
-Join thousands of developers like you who are learning the best of web development.
+與數以千計像您一樣，想要了解 Web 開發最精華部分的開發者。
 
 
 ;If you don’t like the Mozilla developer newsletter, you can easily unsubscribe (but we think you’ll like it).
-If you don’t like the Mozilla developer newsletter, you can easily unsubscribe (but we think you’ll like it).
+若您不喜歡 Mozilla 開發者電子報，可隨時簡單退訂（但我們相信您會喜歡的！）
 
 
 # Form submit button on the Student Ambassador newsletter subscription form
@@ -59,7 +60,7 @@ If you don’t like the Mozilla developer newsletter, you can easily unsubscribe
 
 
 ;Your newsletter subscription has been confirmed.
-Your newsletter subscription has been confirmed.
+已確認訂閱電子報。
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -69,7 +70,7 @@ Firefox + You {ok}
 
 # Description for the newsletter in Newsletter subscription page (Firefox + You)
 ;A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
-A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
+本電子報每月寄出，可讓您改善桌面版與 Android 版 Firefox 的使用體驗。
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -79,7 +80,7 @@ Firefox OS + You {ok}
 
 # Description for the newsletter in Newsletter subscription page (Firefox OS + You)
 ;A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
-A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
+本電子報每月寄出，當中包含最新功能與最酷的 Firefox Marketplace 應用程式，可讓您發揮 Firefox OS 裝置的最大威力。
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -89,7 +90,7 @@ Firefox 帳號小秘訣
 
 # Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
 ;Get the most out of your Firefox Account.
-Get the most out of your Firefox Account.
+讓您的 Firefox 帳號發揮最大威力。
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -99,7 +100,7 @@ Mozilla 社群
 
 # Description for the newsletter in Newsletter subscription page (Mozilla Communities)
 ;Bringing you the best new opportunities to help support the open Web.
-Bringing you the best new opportunities to help support the open Web.
+帶給您能夠協助支援開放 Web 的最新、最佳機會。
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -109,7 +110,7 @@ Firefox 學生大使
 
 # Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
 ;A monthly newsletter on how to get involved with Mozilla on your campus.
-A monthly newsletter on how to get involved with Mozilla on your campus.
+關於如何在您的校園中參與 Mozilla 的每月電子報。
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -119,7 +120,7 @@ Firefox 夥伴計畫
 
 # Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
 ;A monthly newsletter to keep you up to date with the Firefox Affiliates program.
-A monthly newsletter to keep you up to date with the Firefox Affiliates program.
+讓您知道 Firefox 夥伴計畫有什麼最新消息的每月電子報。
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -129,7 +130,7 @@ Mozilla 開發者電子報
 
 # Description for the newsletter in Newsletter subscription page (Mozilla Developer Newsletter)
 ;A developer's guide to highlights of Web platform innovations, best practices, new documentation and more.
-A developer's guide to highlights of Web platform innovations, best practices, new documentation and more.
+在 Web 平台中進行創新、最佳實踐、新文件等重點消息。
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -139,7 +140,7 @@ Mozillians {ok}
 
 # Description for the newsletter in Newsletter subscription page
 ;Email updates for vouched Mozillians on mozillians.org.
-Email updates for vouched Mozillians on mozillians.org.
+給在 mozillians.org 上已經被背書的摩茲人的最新消息。
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -149,7 +150,7 @@ Firefox 桌面版
 
 # Description for the newsletter in Newsletter subscription page (Firefox for desktop)
 ;Don’t miss the latest announcements about our desktop browser.
-Don’t miss the latest announcements about our desktop browser.
+別錯過 Firefox 桌面版的最新公告。
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -159,7 +160,7 @@ Firefox for Android {ok}
 
 # Description for the newsletter in Newsletter subscription page (Firefox for Android)
 ;Keep up with releases and news about Firefox for Android.
-Keep up with releases and news about Firefox for Android.
+了解 Firefox for Android 的最新版本與消息。
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -169,7 +170,7 @@ Mozilla {ok}
 
 # Description for the newsletter in Newsletter subscription page (Mozilla)
 ;Special announcements and messages from the team dedicated to keeping the Web free and open.
-Special announcements and messages from the team dedicated to keeping the Web free and open.
+來自致力於保持 Web 自由開放的團隊的最新訊息與特別公告。
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -198,7 +199,7 @@ Firefox Flicks {ok}
 
 
 ;Periodic email updates about our annual international film competition.
-Periodic email updates about our annual international film competition.
+關於我們的國際影片拍片競賽的定期更新資訊。
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -213,7 +214,7 @@ Mozilla 基金會
 
 # Description for the newsletter in Newsletter subscription page (Mozilla Foundation)
 ;News and special updates about our work to promote openness, innovation and participation on the Internet, including ways for you to get involved.
-News and special updates about our work to promote openness, innovation and participation on the Internet, including ways for you to get involved.
+關於我們如何推廣網際網路上的開放、創新、參與，以及您可如何參與的方式。
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -223,7 +224,7 @@ Shape of the Web {ok}
 
 # Description for the newsletter in Newsletter subscription page (Shape of the Web)
 ;News and information related to the health of the web.
-News and information related to the health of the web.
+與 Web 的生態相關的新聞與資訊。
 
 
 ;About Addons
@@ -235,11 +236,11 @@ Firefox OS {ok}
 
 
 ;Firefox OS news, tips, launch information and where to buy.
-Firefox OS news, tips, launch information and where to buy.
+Firefox OS 新聞、秘訣、上市以及何處可買的相關資訊。
 
 
 ;We can keep in touch with occasional messages that matter most to you.
-We can keep in touch with occasional messages that matter most to you.
+我們可以偶而寄出與您最有關係的訊息給您。
 
 
 ;Submit
@@ -279,7 +280,7 @@ We can keep in touch with occasional messages that matter most to you.
 
 
 ;Set your preferences below to make sure you always receive the news you want.
-Set your preferences below to make sure you always receive the news you want.
+在下方調整偏好，確保您總是能收到您想要的資訊。
 
 
 ;You send too many emails.
@@ -315,7 +316,7 @@ Mozilla 都在幹什麼？
 
 
 ;Don’t forget to check your inbox to confirm your request to get Firefox for iOS updates. If you don’t see an email from mozilla@e.mozilla.org, check your spam filter. You must confirm your request in order to receive the updates.
-Don’t forget to check your inbox to confirm your request to get Firefox for iOS updates. If you don’t see an email from mozilla@e.mozilla.org, check your spam filter. You must confirm your request in order to receive the updates.
+別忘了到您的信箱收信，以確認您想要收到 Firefox for iOS 的相關消息。若您沒有收到來自 mozilla@e.mozilla.org 的信件，則請檢查垃圾信件匣。您必須確認後才會收到電子報。
 
 
 ;Firefox
@@ -375,7 +376,7 @@ Firefox iOS 版 — 訂閱最新消息電子報 — Mozilla
 
 
 ;Check all categories that apply to you, and we promise to keep the mail to a minimum.
-Check all categories that apply to you, and we promise to keep the mail to a minimum.
+勾選您想訂閱的所有分類，我們保證不會一直寄信。
 
 
 ;description
@@ -383,15 +384,15 @@ Check all categories that apply to you, and we promise to keep the mail to a min
 
 
 ;Sign up today to receive email updates about the iOS version of Firefox.
-Sign up today to receive email updates about the iOS version of Firefox.
+今天就訂閱 Firefox for iOS 的最新消息電子報。
 
 
 ;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
-I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+我要改用 Facebook 或 Twitter 跟 Mozilla 保持聯繫。
 
 
 ;Success! An email has been sent to you with your preference center link. Thanks!
-Success! An email has been sent to you with your preference center link. Thanks!
+成功！已經將偏好中心的鏈結寄出給您，多謝了！
 
 
 ;Remove me from all Mozilla emails
@@ -403,7 +404,7 @@ Success! An email has been sent to you with your preference center link. Thanks!
 
 
 ;Enter your email address and we’ll send you a link to your email preference center.
-Enter your email address and we’ll send you a link to your email preference center.
+輸入您的電子郵件信箱，我們就會直接把郵件訂閱中心的網址寄給您。
 
 
 ;Send me a link
@@ -411,7 +412,7 @@ Enter your email address and we’ll send you a link to your email preference ce
 
 
 ;Added extras
-Added extras
+新增訂閱
 
 
 ;%s is not a valid newsletter
@@ -427,7 +428,7 @@ Added extras
 
 
 ;Thanks for your interest in the upcoming iOS version of Firefox. We’re pretty excited about it too!
-Thanks for your interest in the upcoming iOS version of Firefox. We’re pretty excited about it too!
+感謝您對即將到來的 iOS 版 Firefox 有興趣。我們也很期待！
 
 
 ;You’ve been unsubscribed.
@@ -468,47 +469,47 @@ Thanks for your interest in the upcoming iOS version of Firefox. We’re pretty 
 
 
 ;To update your email preferences, please check back in a little while. Thanks!
-To update your email preferences, please check back in a little while. Thanks!
+請稍候再回來更新收信的偏好，感謝您！
 
 
 ;We love sharing updates about all the awesome things happening at Mozilla.
-We love sharing updates about all the awesome things happening at Mozilla.
+我們喜歡分享在 Mozilla 到底都發生了哪些超棒的事情。
 
 
 ;This email address is not in our system. Please double check your address or <a href="%s">subscribe to our newsletters.</a>
-This email address is not in our system. Please double check your address or <a href="%s">subscribe to our newsletters.</a>
+我們的系統中沒有這個信箱，請確認有沒有打錯，或 <a href="%s">直接訂閱我們的電子報。</a>
 
 
 ;We are sorry, but there was a problem with our system. Please try again later!
-We are sorry, but there was a problem with our system. Please try again later!
+很抱歉，我們的系統發生問題，請稍候再試一次！
 
 
 ;The supplied link has expired or is not valid. You will receive a new one in the next newsletter, or below you can request an email with the link.
-The supplied link has expired or is not valid. You will receive a new one in the next newsletter, or below you can request an email with the link.
+點擊的鏈結已過期或無效。您在下一封電子報中會收到新鏈結，也可以在下方直接要求一封新電子報。
 
 
 ;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
-Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+請務必將我們的寄件地址 mozilla@e.mozilla.org 加到通訊錄，確保信件可以直接掉進您的收件匣。
 
 
 ;While here, why not check out some more Firefox awesomeness.
-While here, why not check out some more Firefox awesomeness.
+都到這裡了，也順便看看 Firefox 有什麼其他超棒的地方。
 
 
 ;Manage your <span>Newsletter Subscriptions</span>
-Manage your <span>Newsletter Subscriptions</span>
+管理您 <span>訂閱的電子報</span>
 
 
 ;Sign up below for updates and to be notified when it launches.
-Sign up below for updates and to be notified when it launches.
+在下方訂閱最新消息，並在上架時收到通知。
 
 
 ;Newsletter email recovery
-Newsletter email recovery
+找回電子報訂閱信箱
 
 
 ;*You’ll only receive updates and announcements about the iOS version of Firefox.
-*You’ll only receive updates and announcements about the iOS version of Firefox.
+* 您只會收到與 iOS 版 Firefox 有關的更新與公告。
 
 
 ;Firefox Marketplace for Firefox OS
@@ -516,7 +517,7 @@ Firefox Marketplace for Firefox OS {ok}
 
 
 ;Discover the latest, coolest HTML5 apps on Firefox OS.
-Discover the latest, coolest HTML5 apps on Firefox OS.
+探索 Firefox OS 上最新、最酷的 HTML5 應用程式。
 
 
 ;Firefox Weekly Tips
@@ -524,7 +525,7 @@ Firefox 每周小秘訣
 
 
 ;Get a weekly tip on how to super-charge your Firefox experience.
-Get a weekly tip on how to super-charge your Firefox experience.
+取得能加強您的 Firefox 使用體驗的每週小秘訣。
 
 
 ;Student Reps
@@ -532,7 +533,7 @@ Student Reps {ok}
 
 
 ;Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
-Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
+2008-2011 年的 University 專案，已經結束，改為 Firefox 校園大使專案。
 
 
 ;Mozilla Learning Network
@@ -540,7 +541,7 @@ Mozilla Learning Network {ok}
 
 
 ;Updates from our global community, helping people learn the most important skills of our age: the ability to read, write and participate in the digital world.
-Updates from our global community, helping people learn the most important skills of our age: the ability to read, write and participate in the digital world.
+來自我們的全球社群消息更新，幫助人們了解這個時代最重要的能力: 閱讀、寫作、並參與數位世界的能力。
 
 
 ;Download Firefox for iOS
@@ -564,7 +565,7 @@ Mozilla Festival {ok}
 
 
 ;Special announcements about Mozilla's annual, hands-on festival dedicated to forging the future of the open Web.
-Special announcements about Mozilla's annual, hands-on festival dedicated to forging the future of the open Web.
+關於致力於塑造 open Web 的未來的 Mozilla 年度嘉年華的特別公告。
 
 
 ;Firefox Marketplace for Android
@@ -572,7 +573,7 @@ Firefox Marketplace for Android {ok}
 
 
 ;About Standards
-About Standards
+About Standards {ok}
 
 
 ;Get Involved
@@ -588,7 +589,7 @@ Maker Party {ok}
 
 
 ;Mozilla's largest celebration of making and learning on the web.
-Mozilla's largest celebration of making and learning on the web.
+Mozilla 關於創造與在網路上學習的最大型活動。
 
 
 ;Aurora
@@ -604,7 +605,7 @@ About Labs {ok}
 
 
 ;Read about the latest features for Firefox desktop and mobile before the final release.
-Read about the latest features for Firefox desktop and mobile before the final release.
+在最終發行前，搶先閱讀 Firefox 桌面版與行動版有哪些最新功能。
 
 
 ;Webmaker
@@ -612,7 +613,7 @@ Webmaker {ok}
 
 
 ;Special announcements helping you get the most out of Webmaker.
-Special announcements helping you get the most out of Webmaker.
+幫助您熟悉 Webmaker 的特殊公告。
 
 
 ;Addon Development
@@ -629,25 +630,25 @@ Firefox Marketplace 桌面版
 
 
 ;See where the Web can take you with monthly Firefox tips, tricks and Internet intel.
-See where the Web can take you with monthly Firefox tips, tricks and Internet intel.
+看看 Web 能做到什麼程度，以及 Firefox 秘訣、網路最新情報的每月電子報。
 
 
 ;Sign up, read up,<br> stay informed.
-Sign up, read up,<br> stay informed.
+訂報、閱讀、<br>取得最新消息。
 
 
 # String obsolete.  Do NOT remove.
 # It appears here: https://www.mozilla.org/newsletter/mozilla/
 ;Sign up. Read up.<br> Make a difference.
-Sign up. Read up.<br> Make a difference.
+訂報、閱讀、<br>造成改變。
 
 
 ;Get smart on the issues affecting your life online.
-Get smart on the issues affecting your life online.
+了解有哪些議題會影響您的線上生活。
 
 
 # String obsolete.  Do NOT remove.
 ;Get the Mozilla newsletter to stay informed about issues challenging the health of the Internet and to discover how you can get involved.
-Get the Mozilla newsletter to stay informed about issues challenging the health of the Internet and to discover how you can get involved.
+訂閱 Mozilla 電子報，了解有哪些議題會挑戰網際網路的生態，並探索您可如何參與其中。
 
 
