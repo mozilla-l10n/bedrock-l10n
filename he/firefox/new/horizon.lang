@@ -1,3 +1,6 @@
+## active ##
+## firefox_new_pre_release ##
+## firefox_new_scene_2_headline ##
 ## NOTE: Used for the new http://www-dev.allizom.org/firefox/new
 
 
@@ -6,11 +9,11 @@
 
 
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, Mac OS X, Linux, Android and iOS today!
-Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, Mac OS X, Linux, Android and iOS today!
+הורידו את Mozilla Firefox, הדפדפן החופשי. Firefox נוצר על־ידי גוף בינלאומי שאינו למטרות רווח ששם לעצמו למטרה לשים את השליטה המקוונת אצל האנשים. Firefox זמין עבור Windows,‏ Mac OS X,‏ Linux,‏ Android ו־iOS.
 
 
 ;The last independent browser.
-The last independent browser.
+הדפדפן העצמאי ביותר.
 
 
 # String obsolete. Do NOT remove.
@@ -27,11 +30,11 @@ The last independent browser.
 
 
 ;You’re browsing freely with the latest version of Firefox.
-You’re browsing freely with the latest version of Firefox.
+הנכם גולשים בחופשיות עם הגרסה העדכנית ביותר של Firefox.
 
 
 ;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
-<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
+עליכם <a href="%(url)s">לעדכן</a> את Firefox כדי ליהנות מהירות מרבית ופרטיות.
 
 
 ;You’re using a pre-release version of Firefox.
@@ -43,7 +46,7 @@ You’re browsing freely with the latest version of Firefox.
 
 
 ;Give Firefox a tune up
-Give Firefox a tune up
+לכוונן מחדש את Firefox
 
 
 ;Refresh Firefox
@@ -83,7 +86,7 @@ Give Firefox a tune up
 
 
 ;Go anywhere you want on the Web — with a quickness.
-Go anywhere you want on the Web — with a quickness.
+להגיע לכל מקום ברשת — במהירות ובקלילות.
 
 
 ;Freedom is personal
@@ -91,7 +94,7 @@ Go anywhere you want on the Web — with a quickness.
 
 
 ;Enjoy the most built-in privacy tools of any browser.
-Enjoy the most built-in privacy tools of any browser.
+יותר כלי פרטיות מובנים מכל דפדפן אחר.
 
 
 ;Freedom is yours
