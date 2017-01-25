@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo server is available at https://www-dev.allizom.org/internet-health/privacy-security/
 
 
@@ -8,11 +9,11 @@ Sécurité et vie privée : les piliers d’un Internet sain
 
 # HTML meta tag (description)
 ;The Internet only stays healthy if we trust it as a safe place – to explore, transact, connect, and create.
-Pour qu’Internet demeure en bonne santé il faut qu’il soit un endroit digne de notre confiance – pour se connecter, créer, explorer, faire des affaires…
+Pour qu’Internet demeure en bonne santé, il faut qu’il soit un endroit digne de notre confiance – pour se connecter, créer, explorer, faire des affaires…
 
 
 ;The Internet only stays healthy if we trust it as a safe place – to explore, transact, connect, and create. Our privacy and security online is under constant threat. But there’s something you can do about it: get informed, protect yourself, and make your voice heard.
-Pour qu’Internet demeure en bonne santé il faut qu’il soit un endroit digne de notre confiance – pour se connecter, créer, explorer, faire des affaires… Notre vie privée et notre sécurité en ligne sont constamment menacées. Mais voici ce que vous pouvez faire à ce sujet : vous renseigner, vous protéger et faire entendre votre voix.
+Pour qu’Internet demeure en bonne santé, il faut qu’il soit un endroit digne de notre confiance – pour se connecter, créer, explorer, faire des affaires… Notre vie privée et notre sécurité en ligne sont constamment menacées. Mais voici ce que vous pouvez faire à ce sujet : vous renseigner, vous protéger et faire entendre votre voix.
 
 
 ;A healthy Internet depends on you.
@@ -170,11 +171,11 @@ Nous faisons des recommandations pour <a href="%(reform)s" rel="external">réfor
 
 
 ;Calling on lawmakers all over the globe to rein in mass surveillance, and <a href="%(usafreedom)s" rel="external">helping to pass the USA Freedom Act</a>.
-Calling on lawmakers all over the globe to rein in mass surveillance, and <a href="%(usafreedom)s" rel="external">helping to pass the USA Freedom Act</a>.
+Nous avons appelé les législateurs du monde entier à contrôler la surveillance de masse et nous avons aidé à <a href="%(usafreedom)s" rel="external">faire passer le USA Freedom Act</a>.
 
 
 ;Cohosting <a href="%(standford)s" rel="external">talks with Stanford’s Center for Internet and Society</a> about government hacking.
-Nous co-organisons des <a href="%(standford)s" rel="external">conférences avec le Center for Internet and Society de Standford</a> à propos des piratages par les gouvernements.
+Nous coorganisons des <a href="%(standford)s" rel="external">conférences avec le Center for Internet and Society de Standford</a> à propos des piratages par les gouvernements.
 
 
 ;Hungry for more?
