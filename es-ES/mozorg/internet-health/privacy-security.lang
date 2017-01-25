@@ -3,61 +3,61 @@
 
 # Used as both main title and HTML meta tag (title)
 ;A Healthy Internet is Secure and Private
-A Healthy Internet is Secure and Private
+Un Internet sano consiste en la seguridad y privacidad
 
 
 # HTML meta tag (description)
 ;The Internet only stays healthy if we trust it as a safe place – to explore, transact, connect, and create.
-The Internet only stays healthy if we trust it as a safe place – to explore, transact, connect, and create.
+El Internet se mantiene sano sólo si le tenemos confianza como un lugar seguro – para explorar, tramitar, conectarse y crear.
 
 
 ;The Internet only stays healthy if we trust it as a safe place – to explore, transact, connect, and create. Our privacy and security online is under constant threat. But there’s something you can do about it: get informed, protect yourself, and make your voice heard.
-The Internet only stays healthy if we trust it as a safe place – to explore, transact, connect, and create. Our privacy and security online is under constant threat. But there’s something you can do about it: get informed, protect yourself, and make your voice heard.
+El Internet se mantiene sano sólo si le tenemos confianza como un lugar seguro – para explorar, tramitar, conectarse y crear. Nuesta privacidad y seguridad digital se encuentra en peligro constante. Pero usted tiene algo que puede hacer para al respeto: informése, protéjase y levante la voz.
 
 
 ;A healthy Internet depends on you.
-A healthy Internet depends on you.
+Un Internet sano depende de usted.
 
 
 ;Here are three areas where we can make a difference.
-Here are three areas where we can make a difference.
+Hay tres áreas en las cuales usted puede tener un impacto.
 
 
 ;User Control
-User Control
+Control del usuario
 
 
 ;Cyber Security
-Cyber Security
+Ciberseguridad
 
 
 ;Government Surveillance
-Government Surveillance
+Vigilancia gubernamental
 
 
 ;User Control: Deciding who can collect your data
-User Control: Deciding who can collect your data
+Control del usuario: El decidir quienes pueden recoger sus datos
 
 
 ;Right now, we all lack meaningful choice online – privacy policies are often miles long and hard to read, we don’t understand what information we’re sharing or when, and opting out is seldom on the menu.
-Right now, we all lack meaningful choice online – privacy policies are often miles long and hard to read, we don’t understand what information we’re sharing or when, and opting out is seldom on the menu.
+En este momento nos hace falta la elección significante en línea - las políticas de privacidad suelen ser demasiado largas y difíciles de leer y no sabemos cuando o qué tipo de información compartimos, y es raro que tenemos la opción de optar por no.
 
 
 ;We should all be able to choose – with clarity and confidence – what information we share with what companies, understanding the tradeoffs we’re making when we do.
-We should all be able to choose – with clarity and confidence – what information we share with what companies, understanding the tradeoffs we’re making when we do.
+Merecemos la oportunidad de elegir  – con claridad y confianza – qué información compartimos con qué empresas, con todo el conocimiento de los sacrificions que hacemos cuando lo hacemos.
 
 
 ;91% of adults agree that consumers have lost control of how personal information is collected and used by companies.
-91% of adults agree that consumers have lost control of how personal information is collected and used by companies.
+Un 91% de los adultos acuerdan en que los consumidores han perdido el control sobre cómo las empresas recogen y usan la información privada.
 
 
 # Pew Research Center is an organization
 ;Source: <a href="%(pew)s" rel="external">Pew Research Center</a>, May 2015
-Source: <a href="%(pew)s" rel="external">Pew Research Center</a>, May 2015
+Fuente: <a href="%(pew)s" rel="external">Pew Research Center</a>, Mayo 2015
 
 
 ;What you can do about user control
-What you can do about user control
+Lo que usted puede hacer con el control del usuario
 
 
 ;Make sure your mobile apps access only the info they need. Control your privacy and location settings on <a href="%(ios)s" rel="external">iOS</a> and <a href="%(android)s" rel="external">Android</a>.
