@@ -1,18 +1,20 @@
+## active ##
+## android_nightly_copy ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
 # HTML Description
 ;Download and test future releases of Firefox for desktop, Android and iOS.
-Download and test future releases of Firefox for desktop, Android and iOS.
+Сцягнуць і пратэставаць будучыя выпускі Firefox для камп'ютара, Android і iOS.
 
 
 # Main page heading. In case the text is too hard to translate, here's an alternative text: "Take the future for a test run."
 ;Take a browse on the wild side.
-Take a browse on the wild side.
+Пратэстуйце будучыню.
 
 
 ;Be among the first to explore future releases of Firefox for desktop, Android and iOS.
-Be among the first to explore future releases of Firefox for desktop, Android and iOS.
+Будзьце сярод першых даследчыкаў будучых выпускаў Firefox для камп'ютара, Android і iOS.
 
 
 # Used in the navigation menu
@@ -31,100 +33,100 @@ iOS {ok}
 
 
 ;See something that isn’t working? Let us know.
-See something that isn’t working? Let us know.
+Бачыце, што нешта не працуе? Паведаміце нам.
 
 
 ;File a bug now
-File a bug now
+Паведаміць пра памылку зараз
 
 
 ;Tips for filing a bug
-Tips for filing a bug
+Парады па апісанні памылак
 
 
 ;Take our latest experimental features for a spin and shape the future of Firefox.
-Take our latest experimental features for a spin and shape the future of Firefox.
+Паспрабуйце нашы найноўшыя эксперыментальныя функцыі, якія вызначаюць накірунак развіцця Firefox у будучыні.
 
 
 ;Learn more about Test Pilot
-Learn more about Test Pilot
+Падрабязней пра Test Pilot
 
 
 ;Download and test the latest Firefox for Android features with Aurora, Beta and Nightly builds.
-Download and test the latest Firefox for Android features with Aurora, Beta and Nightly builds.
+Сцягнуць і пратэставаць апошнія функцыі Firefox для Android у выпусках Aurora, Beta and Nightly.
 
 
 ;Try the latest Android features, before they get released to the rest of the world.
-Try the latest Android features, before they get released to the rest of the world.
+Паспрабуйце найноўшыя функцыі для Android, перш чым яны стануць даступныя для ўсяго свету.
 
 
 ;All Languages and Builds
-All Languages and Builds
+Усе мовы і зборкі
 
 
 ;Help determine what features will go into the next Firefox for Android.
-Help determine what features will go into the next Firefox for Android.
+Дапамажыце вызначыць, якія магчымасці ўвойдуць у наступны Firefox для Android.
 
 
 ;Firefox Aurora automatically sends feedback to Mozilla.
-Firefox Aurora automatically sends feedback to Mozilla.
+Firefox Aurora аўтаматычна ажыццяўляе зваротную сувязь з Mozilla.
 
 
 ;Firefox Beta automatically sends feedback to Mozilla.
-Firefox Beta automatically sends feedback to Mozilla.
+Firefox Beta аўтаматычна ажыццяўляе зваротную сувязь з Mozilla.
 
 
 ;<a rel="external" href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
-<a rel="external" href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+<a rel="external" href="%(feedback)s">Дасылайце свае водгукі</a>, каб дапамагчы нам дасягнуць лепшай прадукцыйнасці і функцыянальнасці ў стабільным асяроддзі.
 
 
 ;Download and test the latest Firefox for desktop features with Developer Edition, Beta and Nightly builds.
-Download and test the latest Firefox for desktop features with Developer Edition, Beta and Nightly builds.
+Сцягнуць і пратэставаць апошнія функцыі Firefox для камп'ютара у выпусках Developer Edition, Beta and Nightly.
 
 
 ;Test about-to-be-released features in the most stable pre-release build.
-Test about-to-be-released features in the most stable pre-release build.
+Пратэстуйце функцыі, якія з'явяцца ў наступным выпуску ў самой стабільнай зборцы.
 
 
 ;All Languages and Builds (incl. Win 64)
-All Languages and Builds (incl. Win 64)
+Усе мовы і зборкі (укл. Win 64)
 
 
 ;Build, test, scale and more with the only browser built just for developers.
-Build, test, scale and more with the only browser built just for developers.
+Стварайце, тэстуйце, вымярайце і выконвайце іншыя задачы з дапамогай адзінага браўзера для распрацоўшчыкаў.
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
-Firefox Developer Edition automatically sends feedback to Mozilla.
+Firefox Developer Edition аўтаматычна ажыццяўляе зваротную сувязь з Mozilla.
 
 
 ;Check out new Android features in their earliest stages. Enjoy at your own risk.
-Check out new Android features in their earliest stages. Enjoy at your own risk.
+Паспрабуйце новыя магчымасці для Android на раннім этапе. Атрымлівайце асалоду на свой страх і рызыку.
 
 
 ;Test brand new features daily (or… nightly). Enjoy at your own risk.
-Test brand new features daily (or… nightly). Enjoy at your own risk.
+Тэстуйце найноўшыя магчымасці штодня (ці ... кожную ноч). Атрымлівайце асалоду на свой страх і рызыку.
 
 
 ;Firefox Nightly automatically sends feedback to Mozilla.
-Firefox Nightly automatically sends feedback to Mozilla.
+Firefox Nightly аўтаматычна ажыццяўляе зваротную сувязь з Mozilla.
 
 
 ;Nightly Blog
-Nightly Blog
+Блог Nightly
 
 
 # Don't translate TestFlight
 ;Test beta versions of Firefox for iOS via Apple’s TestFlight program and help make our mobile browser for iPhone, iPad and iPod touch even better.
-Test beta versions of Firefox for iOS via Apple’s TestFlight program and help make our mobile browser for iPhone, iPad and iPod touch even better.
+Тэстуйце бэта версіі Firefox для iOS з дапамогай праграмы Apple TestFlight і дапамагайце зрабіць наш мабільны браўзер для iPhone, iPad і iPod touch яшчэ лепшым.
 
 
 # Don't translate TestFlight
 ;Test beta versions of Firefox for iOS via Apple’s TestFlight program.
-Test beta versions of Firefox for iOS via Apple’s TestFlight program.
+Тэстуйце бэта версіі Firefox для iOS з дапамогай праграмы Apple TestFlight.
 
 
 ;Sign up now
-Sign up now
+Зарэгістравацца
 
 
