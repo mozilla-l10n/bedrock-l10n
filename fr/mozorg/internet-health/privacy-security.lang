@@ -1,5 +1,6 @@
 ## active ##
 ## internet_health_digital_inclusion ##
+## internet_health_subpage_rebrand ##
 ## NOTE: Demo server is available at https://www-dev.allizom.org/internet-health/privacy-security/
 
 
@@ -116,7 +117,7 @@ Nous avons rédigé <a href="%(privacy)s">notre politique de confidentialité</a
 
 
 ;Creating supportive products
-Creating supportive products
+Proposer des logiciels qui vont dans ce sens
 
 
 ;Walking the talk with our own products, with features like the Forget Button, and <a href="%(focus)s">Firefox Focus</a>, our private browser for iOS.
@@ -124,7 +125,7 @@ Nous avons appliqué ces principes à nos propres logiciels, avec des fonctionna
 
 
 ;Educating the industry
-Educating the industry
+Informer les différents acteurs
 
 
 ;Encouraging and educating the industry about <a href="%(leandata)s">lean data practices</a>.
