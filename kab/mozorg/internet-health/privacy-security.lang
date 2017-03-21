@@ -1,5 +1,6 @@
 ## active ##
 ## internet_health_digital_inclusion ##
+## internet_health_subpage_rebrand ##
 ## NOTE: Demo server is available at https://www-dev.allizom.org/internet-health/privacy-security/
 
 
@@ -239,7 +240,7 @@ D acu txeddem Mozilla mgal aqareɛ anabaḍan
 
 
 ;Advocating for reform
-Advocating for reform
+Jɣnes ɣef tsemmeskelt
 
 
 ;Recommending <a href="%(reform)s" rel="external">reform at the policy level</a> to improve government disclosure of security vulnerabilities.
@@ -247,7 +248,7 @@ Nettweṣṣi akken<a href="%(reform)s" rel="external">ad yili ubeddel deg uḥr
 
 
 ;Calling on lawmakers
-Calling on lawmakers
+Siwel i yimagayen n usaḍuf
 
 
 # 'USA Freedom Act': Feel free to replace it with a local or regional equivalent proposal.
