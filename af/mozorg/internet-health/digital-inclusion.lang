@@ -94,7 +94,7 @@ Bou hulpbronne
 
 
 ;Support a resource like <a href="%(wiki_support)s">Wikipedia</a> that drastically lowers the barriers to knowledge – or better yet, <a href="%(wiki_contribute)s">help build it</a>. Wikipedia needs more, and more diverse, contributors.
-Bou ’n hulpbron soos <a href="%(wiki_support)s">Wikipedia</a> wat die hindernisse tot kennis aansienlik verminder – of nóg beter, <a href="https://af.wikipedia.org/wiki/Wikipedia:Hoe_kan_ek_help%3F">help om dit te bou</a>. Wikipedia benodig meer en meer diverse bydraers.
+Support a resource like <a href="%(wiki_support)s">Wikipedia</a> that drastically lowers the barriers to knowledge – or better yet, <a href="%(wiki_contribute)s">help build it</a>. Wikipedia needs more, and more diverse, contributors.
 
 
 ;How Mozilla is promoting diversity
@@ -261,5 +261,3 @@ Bly ingelig.
 
 ;Sign up. Read up. Get the Mozilla newsletter to stay smart on the issues affecting your life online.
 Skryf in en lees meer. Kry Mozilla se nuusbrief om op hoogte te bly van die kwessies wat elkeen se lewe aanlyn raak.
-
-
