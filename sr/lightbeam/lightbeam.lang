@@ -134,32 +134,32 @@ Lightbeam визуелно приказује везе између сајова
 
 # New string (May 15) to reflect features that have been removed from the add-on.
 ;Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
-Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
+Користећи два различита интерактивна графичка приказа —графикон и листу — Lightbeam вам омогућава да истражите поједина трећа лица, откријете где се повезују са вашом интернет активношћу и пружа начине за јединствено приказивање веба.
 
 
 # Obsolete string, do not remove
 ;Using three distinct interactive graphic representations — Graph, Clock and List — Lightbeam enables you to examine individual third parties over time and space, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
-Using three distinct interactive graphic representations — Graph, Clock and List — Lightbeam enables you to examine individual third parties over time and space, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
+Користећи три различита интерактивна графичка приказа —графикон, сат и листу — Lightbeam вам омогућава да истражите поједина трећа лица у одређеном времену и простору, откријете где се повезују са вашом интернет активношћу и пружа начине за јединствено приказивање веба.
 
 
 ;The default Graph view provides a real time visualization of every site you visit and all third party requests made from your browser.
-The default Graph view provides a real time visualization of every site you visit and all third party requests made from your browser.
+Подразумевани графикон пружа визуелни приказ сваког сајта који посетите и све захтеве захтеве трећих лица из вашег прегледача, у реалном времену.
 
 
 ;The Graph view also provides adjustable filters that allow you to visualize more types of data at a glance.
-The Graph view also provides adjustable filters that allow you to visualize more types of data at a glance.
+Графикон такође пружа подесиве филтере који вам омогућавају да визуелно прикажете више типова података.
 
 
 ;The List view provides more options for drilling down into individual sites.
-The List view provides more options for drilling down into individual sites.
+Приказ листе пружа више опција за "дубљи" улазак у поједине сајтове.
 
 
 ;Site preferences in the List view enable you to block sites from connecting to your Firefox browser, watch sites you’re interested in or hide sites you don’t want to see visualized.
-Site preferences in the List view enable you to block sites from connecting to your Firefox browser, watch sites you’re interested in or hide sites you don’t want to see visualized.
+Поставке сајта у приказу листе вам омогућавају да блокирате повезивање сајтова са вашим Firefox-ом, гледате сајтове који вас интересују или сакријете сајтове које не желите да видите у визуелном приказу.
 
 
 ;Lightbeam also offers an information panel that provides additional details about the site you selected and the sites it has connected to.
-Lightbeam also offers an information panel that provides additional details about the site you selected and the sites it has connected to.
+Lightbeam такође пружа информациони панел који приказује додатне детаље о изабраном сајту и сајтовима повезаним са њим.
 
 
 ;The origins of Lightbeam
@@ -167,27 +167,27 @@ Lightbeam порекло
 
 
 ;Lightbeam began in July 2011 as Collusion, a personal project by Mozilla software developer <a href="%s">Atul Varma</a>.
-Lightbeam began in July 2011 as Collusion, a personal project by Mozilla software developer <a href="%s">Atul Varma</a>.
+Lightbeam је започет у јул 2011. као Collusion, лични пројекат Mozilla-ног програмера <a href="%s">Атула Варме</a>.
 
 
 ;Inspired by the book, <em>The Filter Bubble</em>, Atul created an experimental add-on to visualize browsing behavior and data collection on the Web.
-Inspired by the book, <em>The Filter Bubble</em>, Atul created an experimental add-on to visualize browsing behavior and data collection on the Web.
+Инспирисан књигом <em>The Filter Bubble</em>, Атул је створио експериментални додатак да визуелно прикаже понашање прегледача и сакупљање података на интернету.
 
 
 ;In February 2012, Gary Kovacs, Mozilla CEO at the time, introduced the Collusion add-on in a <a href="%s">TED talk</a> (now one of the most watched TED talks of all time) about exposing online tracking.
-In February 2012, Gary Kovacs, Mozilla CEO at the time, introduced the Collusion add-on in a <a href="%s">TED talk</a> (now one of the most watched TED talks of all time) about exposing online tracking.
+У фебруару 2012. Гери Ковач, Mozilla-ин тадашњи CEO је представио Collusion додатак на <a href="%s">TED конференцији</a> (сада један од најгледанијих TED говора свих времена) као додатак са откривање праћења на интернету.
 
 
 ;In September 2012, Mozilla joined forces with faculty and student researchers at <a href="%s">Emily Carr University of Art + Design</a> to develop and implement visualizations for the add-on.
-In September 2012, Mozilla joined forces with faculty and student researchers at <a href="%s">Emily Carr University of Art + Design</a> to develop and implement visualizations for the add-on.
+У септембру 2012. Mozilla је удружила снаге са факултетом и његовим студентима истраживачима <a href="%s">Emily Carr University of Art + Design</a> како би развили и имплементирали визуелизацију додатка.
 
 
 ;With the support of the Ford Foundation and the Natural Sciences and Engineering Research Council (NSERC), Collusion has been re-imagined as Lightbeam and was launched in the fall of 2013.
-With the support of the Ford Foundation and the Natural Sciences and Engineering Research Council (NSERC), Collusion has been re-imagined as Lightbeam and was launched in the fall of 2013.
+Са подршком Ford Foundation и Natural Sciences and Engineering Research Council (NSERC), Collusion је био преименован у Lightbeam и покренут је на јесен 2013.
 
 
 ;To read more about the collaboration, please visit <a href="{url}">{url}</a>
-To read more about the collaboration, please visit <a href="{url}">{url}</a>
+Да бисте сазнали више о сарадњи, посетите <a href="{url}">{url}</a>
 
 
 ;Policy and the larger tracking narrative
