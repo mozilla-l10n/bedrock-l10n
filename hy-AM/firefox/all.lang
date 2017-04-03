@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: The page is at https://www-dev.allizom.org/firefox/all/
 
 
@@ -111,7 +112,7 @@ Firefox Nightly {ok}
 
 
 ;Download for %(platform)s in %(locale)s
-Ներբեռնել %(platform)-ի համար՝ %(locale) լեզվով
+Ներբեռնել %(platform)s-ի համար՝ %(locale)s լեզվով
 
 
 ;Not Yet Available
