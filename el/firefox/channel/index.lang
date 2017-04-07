@@ -12,7 +12,7 @@
 
 
 ;Be among the first to explore future releases of Firefox for desktop, Android and iOS.
-Be among the first to explore future releases of Firefox for desktop, Android and iOS.
+Γίνετε από τους πρώτους που θα εξερευνήσουν τις μελλοντικές εκδόσεις του Firefox για τον υπολογιστή, το Android και το iOS.
 
 
 # Used in the navigation menu
@@ -43,7 +43,7 @@ iOS {ok}
 
 
 ;Take our latest experimental features for a spin and shape the future of Firefox.
-Take our latest experimental features for a spin and shape the future of Firefox.
+Δοκιμάστε τις πιο πρόσφατες πειραματικές λειτουργίες και σχηματίστε το μέλλον του Firefox.
 
 
 ;Learn more about Test Pilot
@@ -51,11 +51,11 @@ Take our latest experimental features for a spin and shape the future of Firefox
 
 
 ;Download and test the latest Firefox for Android features with Aurora, Beta and Nightly builds.
-Download and test the latest Firefox for Android features with Aurora, Beta and Nightly builds.
+Κάντε λήψη και δοκιμάστε τις πιο πρόσφατες λειτουργίες στον Firefox για Android με τις εκδόσεις Aurora, Beta και Nightly.
 
 
 ;Try the latest Android features, before they get released to the rest of the world.
-Try the latest Android features, before they get released to the rest of the world.
+Δοκιμάστε τις πιο πρόσφατες λειτουργίες στο Android, πριν κυκλοφορήσουν στον υπόλοιπο κόσμο.
 
 
 ;All Languages and Builds
@@ -63,23 +63,23 @@ Try the latest Android features, before they get released to the rest of the wor
 
 
 ;Help determine what features will go into the next Firefox for Android.
-Help determine what features will go into the next Firefox for Android.
+Βοηθήστε στην απόφαση για το ποιες λειτουργίες θα ενσωματωθούν στον επόμενο Firefox για Android.
 
 
 ;Firefox Aurora automatically sends feedback to Mozilla.
-Firefox Aurora automatically sends feedback to Mozilla.
+Ο Firefox Aurora στέλνει αναφορές στο ίδρυμα Mozilla αυτόματα.
 
 
 ;Firefox Beta automatically sends feedback to Mozilla.
-Firefox Beta automatically sends feedback to Mozilla.
+Ο Firefox Beta στέλνει αναφορές στο ίδρυμα Mozilla αυτόματα.
 
 
 ;<a rel="external" href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
-<a rel="external" href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+<a rel="external" href="%(feedback)s">Στείλτε μας μία αναφορά</a> για να μας βοηθήσετε να τελειοποιήσουμε την απόδοση και την λειτουργικότητα του σταθερού περιβάλλοντος.
 
 
 ;Download and test the latest Firefox for desktop features with Developer Edition, Beta and Nightly builds.
-Download and test the latest Firefox for desktop features with Developer Edition, Beta and Nightly builds.
+Κάντε λήψη και δοκιμάστε τις πιο πρόσφατες λειτουργίες στον Firefox για υπολογιστή με τις εκδόσεις Aurora, Beta και Nightly.
 
 
 ;Test about-to-be-released features in the most stable pre-release build.

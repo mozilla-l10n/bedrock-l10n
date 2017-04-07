@@ -3,60 +3,60 @@
 
 # Used as HTML title of the page
 ;Open Innovation: Vital to Internet Health
-Asnulfu yeldin: D ayen ilaqen i tezmert n Internet
+Innovación abierta: Vital para la salud del Internet
 
 
 # Used as HTML description of the page
 ;Open Innovation means innovating collectively through shared ideas and open source code.
-Asnulfu yeldin d asnulfu lwaḥid s tiktiwin yettabḍan akked tengalt n uɣbalu yeldin.
+La innovación abierta significa innovación colectiva a través de ideas compartidas y código abierto.
 
 
 ;Privacy &amp; Security
-Tudert tabaḍnit  &amp; Taɣellist
+Privacidad &amp; Seguridad
 
 
 ;Digital Inclusion
-Aslaɣ umḍin
+Inclusión digital
 
 
 ;Open Innovation
-Asnulfu yeldin
+Innovación abierta
 
 
 ;A healthy Internet is open for innovation
-Internet uzmir yeldi i usnulfu
+Un internet sano está abierta a la innovación
 
 
 ;The Internet was built on the promise that any one of us might create the next big thing. But in order to keep creating, imagining, and reinventing our future online, the building blocks of the Web must be open to all. And together, we need to make sure the policies and laws that govern those building blocks are fair and functional.
-The Internet was built on the promise that any one of us might create the next big thing. But in order to keep creating, imagining, and reinventing our future online, the building blocks of the Web must be open to all. And together, we need to make sure the policies and laws that govern those building blocks are fair and functional.
+El Internet se construyó con la promesa de que todos podemos dar vida a la próxima gran innovación. Pero, para seguir creando, imaginando y reinventando nuestro futuro en línea, los componentes básicos de la Web tiene que estar abiertos a todos. Juntos, nos tenemos que asegurar que las políticas y leyes que rigen esos pilares sean justas y funcionales.
 
 
 ;A healthy Internet is created by you.
-Internet uzmir d kečč ara t-yernun.
+El Internet sano lo creas tú.
 
 
 ;Here are three areas where we can make a difference.
-Hatan aya kraḍ n yeḥricen anida nezmer ad nbeddel abrid.
+He aquí tres áreas donde puedes hacer la diferencia.
 
 
 ;Support Open Source
-Mudd afus i Uɣbalu yeldin
+Apoya el código abierto
 
 
 ;Engage in Copyright Reform
-Engage in Copyright Reform
+Envuélvete en la reforma de los derechos de autor
 
 
 ;Influence Patent Policy
-Influence Patent Policy
+Influye en la política de patentes
 
 
 ;Open Source: Keeping the building blocks of the Web open for creativity
-Open Source: Keeping the building blocks of the Web open for creativity
+Código abierto: Mantiene abiertos los componentes básicos de la Web para favorecer la creatividad
 
 
 ;Open source should continue to be the heart of the Internet, so we can all see, verify, and contribute to its future.
-Open source should continue to be the heart of the Internet, so we can all see, verify, and contribute to its future.
+El código abierto debería seguir siendo el núcleo central del Internet, para que todos podamos ver, verificar y contribuir a su futuro.
 
 
 ;Open source software – technology built with code that is open for view, use, and modification – is the engine that powers a huge amount of the Internet, from servers to operating systems to the bots that fetch your search results. It’s the infrastructure that makes the Web a truly public resource: transparent, trustworthy, and collaborative, so that anyone with an idea can contribute. But much like our IRL infrastructure, we have to commit the attention and resources to maintain it.
@@ -64,32 +64,32 @@ Open source software – technology built with code that is open for view, use, 
 
 
 ;GitHub, the world’s largest open source community, includes 19 million developers, 100,000 teams, and 52 million repositories for established and developing technologies.
-GitHub, the world’s largest open source community, includes 19 million developers, 100,000 teams, and 52 million repositories for established and developing technologies.
+En GitHub, la comunidad de código abierto más grande del mundo, participan 19 millones desarrolladores, 100.000 equipos, y hay 52 millones de repositorios para las tecnologías establecidas y en desarrollo.
 
 
 ;Source: <a href="%(github)s">GitHub</a>
-Source: <a href="%(github)s">GitHub</a>
+Fuente: <a href="%(github)s"></a>
 
 
 # This is used as a decorative element in a callout box. Keep it short.
 ;52M
-52M {ok}
+52 M
 
 
 ;How you can support open source
-Amek i tzemreḍ ad muddeḍ afus i uɣbalu yeldin
+Cómo puedes apoyar el código abierto
 
 
 ;Contribute to a project
-Ttekki deg usenfaṛ
+Contribuir a un proyecto
 
 
 ;Contribute to an existing open source project. Become a <a href="%(contribute)s">Mozillian!</a> Or use <a href="%(open_hatch)s">OpenHatch</a> to match your skillset to a project.
-Contribute to an existing open source project. Become a <a href="%(contribute)s">Mozillian!</a> Or use <a href="%(open_hatch)s">OpenHatch</a> to match your skillset to a project.
+Contribuye en un proyecto ya existente de código abierto. ¡Conviértete en un <a href="%(contribute)s">Mozillian!</a> O utiliza <a href="%(open_hatch)s">OpenHatch</a> para encontrar un proyecto que corresponda a tus habilidades.
 
 
 ;Create something new
-Snulfuḍ taɣawsa tamaynut
+Crear algo nuevo
 
 
 ;Not sure where to start? Try our <a href="%(toolkit)s">Open Innovation Toolkit</a>.
@@ -97,7 +97,7 @@ Not sure where to start? Try our <a href="%(toolkit)s">Open Innovation Toolkit</
 
 
 ;How Mozilla is supporting open source
-Amek Mozilla tettmuddu afus i uɣbalu yeldin
+How Mozilla is supporting open source
 
 
 ;Contributing to the ecosystem
@@ -138,7 +138,7 @@ Source: <a href="%(cc)s">Creative Commons</a>, 2015
 
 # This is used as a decorative element in a callout box. Keep it short.
 ;1B
-1B {ok}
+1B
 
 
 ;How you can engage in copyright reform
@@ -206,7 +206,7 @@ How you can influence patent policy
 
 
 ;Use open source software
-Seqdec aseɣzan n uɣbalu yeldin
+Use open source software
 
 
 ;Look for open source alternatives to the products you use every day. You can find options <a href="%(alt_1)s">here</a> and <a href="%(alt_2)s">here</a>.
@@ -234,18 +234,18 @@ Offering everyone a royalty-free non-exclusive license to all of Mozilla’s pat
 
 
 ;Hungry for more?
-Telluẓeḍ ugar?
+Hungry for more?
 
 
 ;Read on about Open Innovation in our <a href="%(healthreport)s">Internet Health Report</a>.
-Ɣer af usnelfu yeldin di <a href="%(healthreport)s">tecrawt n tezmert-nneɣ n Inetrenet</a>.
+Read on about Open Innovation in our <a href="%(healthreport)s">Internet Health Report</a>.
 
 
 ;Stay informed.
-Qqim akked umaynut.
+Stay informed.
 
 
 ;Sign up. Read up. Get the Mozilla newsletter to stay smart on the issues affecting your life online.
-Jerred iman-ik ar tebratt n tnezwit n Mozilla. Nteḍ deg isallen ɣef wuguren icudden ar tudert inek tumḍint.
+Sign up. Read up. Get the Mozilla newsletter to stay smart on the issues affecting your life online.
 
 
