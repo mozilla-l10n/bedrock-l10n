@@ -3,7 +3,7 @@
 
 # Used as both main title and HTML meta tag (title)
 ;A Healthy Internet is Secure and Private
-A Healthy Internet is Secure and Private
+Un Internet sano es seguro y privado
 
 
 # HTML meta tag (description)
@@ -12,15 +12,15 @@ The Internet only stays healthy if we trust it as a safe place – to explore, t
 
 
 ;Privacy &amp; Security
-Privacy &amp; Security
+Privacidad &amp; Seguridad
 
 
 ;Digital Inclusion
-Digital Inclusion
+Inclusión digital
 
 
 ;Open Innovation
-Open Innovation
+Innovación abierta
 
 
 ;The Internet only stays healthy if we trust it as a safe place – to explore, transact, connect, and create. Our privacy and security online is under constant threat. But there’s something you can do about it: get informed, protect yourself, and make your voice heard.
@@ -28,7 +28,7 @@ The Internet only stays healthy if we trust it as a safe place – to explore, t
 
 
 ;A healthy Internet depends on you.
-A healthy Internet depends on you.
+Un Internet sano depende de ti.
 
 
 ;Here are three areas where we can make a difference.
@@ -37,7 +37,7 @@ Here are three areas where we can make a difference.
 
 # This is a navigation link
 ;User Control
-User Control
+Control de usuario
 
 
 # This is a navigation link
@@ -73,7 +73,7 @@ Source: <a href="%(pew)s" rel="external">Pew Research Center</a>, May 2015
 
 # This is used as a decorative element in a callout box.
 ;91%
-91%
+91% {ok}
 
 
 ;What you can do about user control
@@ -81,7 +81,7 @@ What you can do about user control
 
 
 ;Control your apps
-Control your apps
+Controla tus aplicaciones
 
 
 ;Make sure your mobile apps access only the info they need. Control your privacy and location settings on <a href="%(ios)s" rel="external">iOS</a> and <a href="%(android)s" rel="external">Android</a>.
@@ -89,7 +89,7 @@ Make sure your mobile apps access only the info they need. Control your privacy 
 
 
 ;Manage your preferences
-Manage your preferences
+Administrar tus preferencias
 
 
 ;Know your settings. You can manage your profile and preferences for <a href="%(google)s">Google</a>, <a href="%(yahoo)s">Yahoo!</a> and <a href="%(facebook)s">Facebook</a> ads.
@@ -151,7 +151,7 @@ Source: Wikipedia, <a href="%(wiki)s" rel="external">List of data breaches</a>, 
 
 # This is an abbreviation for the number "1 billion" used as decoration in a callout box. Make it short.
 ;1B
-1B
+1B {ok}
 
 
 ;What you can do about cyber security
@@ -159,7 +159,7 @@ What you can do about cyber security
 
 
 ;Choose strong passwords
-Choose strong passwords
+Elegir contraseñas más seguras
 
 
 ;<a href="%(strongpass)s" rel="external">Choose strong, unique pins and passwords</a>, and use a <a href="%(passmanager)s" rel="external">password manager</a>. (Note: we haven’t tried them all – see what works for you.)
@@ -213,7 +213,7 @@ Source: <a href="%(cigi)s" rel="external"><abbr title="Centre for International 
 
 # This is used as a decorative element in a callout box.
 ;38%
-38%
+38% {ok}
 
 
 ;What you can do about government surveillance
@@ -221,7 +221,7 @@ What you can do about government surveillance
 
 
 ;Encrypt your data
-Encrypt your data
+Cifrar tus datos
 
 
 ;Choose apps that keep your conversations encrypted. <a href="%(encryptedapps)s" rel="external">Here’s a list</a>.
@@ -262,7 +262,7 @@ Cohosting <a href="%(standford)s" rel="external">talks with Stanford’s Center 
 
 
 ;Hungry for more?
-Hungry for more?
+¿Quieres más?
 
 
 ;Keep reading about Privacy and Security in our <a href="%(healthreport)s">Internet Health Report</a>.
