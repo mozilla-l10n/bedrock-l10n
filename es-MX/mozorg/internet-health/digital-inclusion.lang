@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo server is available at https://www-dev.allizom.org/internet-health/digital-inclusion/
 
 
@@ -126,7 +127,7 @@ Todos deberíamos tener la capacidad de participar plenamente en Internet, sin q
 
 
 ;We’ve all seen our share of nasty comments sections. At times, the Web can feel like a very unfriendly place – particularly for women, minorities, and members of marginalized communities. By discouraging people from getting online, cyberbullying and cyber violence threaten not just individuals, but the Internet itself.
-We’ve all seen our share of nasty comments sections. At times, the Web can feel like a very unfriendly place – particularly for women, minorities, and members of marginalized communities. By discouraging people from getting online, cyberbullying and cyber violence threaten not just individuals, but the Internet itself.
+A todos nos ha tocado ver secciones de comentarios muy desagradables. A veces, la Web puede ser un lugar bastante inamistoso, sobre todo para las mujeres, la minorías y los miembros de comunidades marginadas. El acoso digital y la violencia cibernética disuaden a la gente a conectarse, perjudicando así no solo a los individuos sino a todo el Internet.
 
 
 ;73% of Internet users have seen someone harassed online and 40% have personally experienced it.
@@ -179,23 +180,23 @@ Empoderar a los individuos
 
 
 ;Creating open curricula that empowers people to create safe spaces online, like the <a href="%(teaching)s">Teaching Kit: Combating Cyber Violence Against Women and Girls</a>.
-Creating open curricula that empowers people to create safe spaces online, like the <a href="%(teaching)s">Teaching Kit: Combating Cyber Violence Against Women and Girls</a>.
+Crear currículos libres que promueven la creación de espacios seguros en línea, como el <a href="%(teaching)s">Kit de enseñanza: Cómo combatir la violencia cibernética contra las mujeres y niñas</a>.
 
 
 ;Digital Inclusion means supporting universal access to the whole Internet
-Digital Inclusion means supporting universal access to the whole Internet
+La inclusión digital significa apoyar el acceso universal a todo el Internet
 
 
 ;We should all have affordable, high-quality, unrestricted access to the whole Web, so the whole world can benefit.
-We should all have affordable, high-quality, unrestricted access to the whole Web, so the whole world can benefit.
+Todos deberíamos tener acceso a una Web a precios accesibles, de alta calidad y sin restricciones que beneficie a todo el mundo.
 
 
 ;To participate online, you have to be able to get online. Programs have emerged that offer free or subsidized Internet access, but it is often slow or restricted, creating a ‘poor Internet for poor people.’ At its most extreme, governments worldwide are turning off all or parts of the Internet to serve their own agendas, which can threaten human rights and even the health of the global economy.
-To participate online, you have to be able to get online. Programs have emerged that offer free or subsidized Internet access, but it is often slow or restricted, creating a ‘poor Internet for poor people.’ At its most extreme, governments worldwide are turning off all or parts of the Internet to serve their own agendas, which can threaten human rights and even the health of the global economy.
+Para participar en la vida en línea, debes poder conectarte. Existen programas que ofrecen Internet gratuito o subsidiado, pero esos servicios son a menudo lentos y restringidos, y han dado vida al "Internet pobre para los pobres". Hay casos extremos en los cuales algunos gobiernos han eliminado todo o algunas partes del Internet para promover su agenda política, amenazando así los derechos humanos y la salud de la economía mundial.
 
 
 ;In 2016, there were 51 intentional Internet shutdowns in 18 countries.
-In 2016, there were 51 intentional Internet shutdowns in 18 countries.
+En 2016, hubo 51 cierres deliberados de Internet en 18 países.
 
 
 ;Source: <a href="%(accessnow)s">AccessNow</a>, 2016
@@ -208,15 +209,15 @@ Fuente: <a href="%(accessnow)s">AccessNow</a>, 2016
 
 
 ;How you can support universal access
-How you can support universal access
+Cómo apoyar el acceso universal
 
 
 ;Donate your tech
-Donate your tech
+Dona tu equipo digital
 
 
 ;Donate your old computers, laptops, and phones to non-profits like <a href="%(reconnect)s">Reconnect</a>, <a href="%(strut)s">Students Recycling Used Technology</a>, or <a href="%(interconnection)s">Interconnection</a>, who refurbish and redistribute them to underserved communities.
-Donate your old computers, laptops, and phones to non-profits like <a href="%(reconnect)s">Reconnect</a>, <a href="%(strut)s">Students Recycling Used Technology</a>, or <a href="%(interconnection)s">Interconnection</a>, who refurbish and redistribute them to underserved communities.
+Dona tu viejo equipo y celulares a organizaciones sin fines de lucro como <a href="%(reconnect)s">Reconnect</a>, <a href="%(strut)s">Students Recycling Used Technology</a> o <a href="%(interconnection)s">Interconnection</a> que los renuevan y redistribuyen a las comunidades desfavorecidas.
 
 
 ;Advocate for openness
@@ -224,27 +225,27 @@ Abogar por la apertura
 
 
 ;Tell your representatives that open and affordable access to the Internet should be a policy priority.
-Tell your representatives that open and affordable access to the Internet should be a policy priority.
+Dile a tus congresistas que el acceso abierto y a precios módicos debería ser una prioridad.
 
 
 ;How Mozilla is supporting universal access
-How Mozilla is supporting universal access
+Cómo Mozilla apoya el acceso universal
 
 
 ;Advocating for neutrality
-Advocating for neutrality
+Abogar por la neutralidad
 
 
 ;Championing <a href="%(neutrality)s">net neutrality</a>, so that everyone has access to the same Internet.
-Championing <a href="%(neutrality)s">net neutrality</a>, so that everyone has access to the same Internet.
+Defender la <a href="%(neutrality)s">neutralidad de la red</a> para que todos tengan acceso al mismo tipo de Internet.
 
 
 ;Connecting the unconnected
-Connecting the unconnected
+Conectar a los desconectados
 
 
 ;Sponsoring the <a href="%(equalrating)s">Equal Rating Innovation Challenge</a> to find novel solutions for connecting the unconnected to the full, open Internet.
-Sponsoring the <a href="%(equalrating)s">Equal Rating Innovation Challenge</a> to find novel solutions for connecting the unconnected to the full, open Internet.
+Patrocinar el <a href="%(equalrating)s">Equal Rating Innovation Challenge</a> para encontrar maneras novedosas de conectar a los desconectados a un Internet completo y abierto.
 
 
 ;Hungry for more?
@@ -252,14 +253,14 @@ Sponsoring the <a href="%(equalrating)s">Equal Rating Innovation Challenge</a> t
 
 
 ;Read on about Digital Inclusion in our <a href="%(healthreport)s">Internet Health Report</a>.
-Read on about Digital Inclusion in our <a href="%(healthreport)s">Internet Health Report</a>.
+Lee sobre la inclusión digital en nuestro <a href="%(healthreport)s">Reporte de salud de Internet</a>.
 
 
 ;Stay informed.
-Stay informed.
+Mantente al día.
 
 
 ;Sign up. Read up. Get the Mozilla newsletter to stay smart on the issues affecting your life online.
-Sign up. Read up. Get the Mozilla newsletter to stay smart on the issues affecting your life online.
+Suscríbete. Lee. Recibe el boletín informativo de Mozilla para mantenerte informado sobre las cuestiones que afectan tu vida digital.
 
 

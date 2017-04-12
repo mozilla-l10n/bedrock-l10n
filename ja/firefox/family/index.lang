@@ -1,5 +1,6 @@
 ## active ##
 ## download_browse_freely ##
+## firefox_title_meta_bug1345338 ##
 ## ios_product_tagline ##
 ## tracking_protection ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/products/
@@ -7,7 +8,7 @@
 
 # HTML page title
 ;Free Web Browser for Android, iOS, Desktop | Firefox
-Free Web Browser for Android, iOS, Desktop | Firefox
+Android、iOS、デスクトップ向け無料ウェブブラウザー | Firefox
 
 
 # String is obsolete. Do not remove.
@@ -18,7 +19,7 @@ Firefox – デスクトップブラウザー、Android 版、iOS 版、Sync、�
 
 # HTML page description
 ;Millions of people around the world trust Firefox Web browsers on Android, iOS and desktop computers. Fast. Private. Download now!
-Millions of people around the world trust Firefox Web browsers on Android, iOS and desktop computers. Fast. Private. Download now!
+世界中で何百万もの人々が、Android、iOS、デスクトップコンピューター上で Firefox ウェブブラウザーを信頼しています。高速でプライベート。今すぐダウンロード！
 
 
 # String is obsolete. Do not remove.
