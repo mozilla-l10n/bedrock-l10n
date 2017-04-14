@@ -1,5 +1,6 @@
 ## active ##
 ## android_nightly_copy ##
+## firefox_title_meta_bug1345338 ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
@@ -60,7 +61,7 @@ iOS {ok}
 
 # HTML Description, on the Android page only.
 ;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
-Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
+Паспрабуйце найноўшыя магчымасці ў перад-рэлізнай версіі браўзера для Android: Firefox Beta, Firefox Aurora і Firefox Nightly. Усталюйце зараз!
 
 
 # String is obsolete. Do not remove.
@@ -100,7 +101,7 @@ Firefox Beta аўтаматычна ажыццяўляе зваротную су
 
 # HTML page description, on the desktop page only.
 ;Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
-Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
+Паспрабуйце найноўшыя магчымасці ў перад-рэлізных версіях: Firefox Developer Edition, Firefox Beta і Firefox Nightly. Сцягніце зараз!
 
 
 # String is obsolete. Do not remove.
@@ -149,7 +150,7 @@ Firefox Nightly аўтаматычна ажыццяўляе зваротную �
 # HTML page description, on the iOS page only.
 # Don't translate TestFlight
 ;Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
-Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
+Паспрабуйце найноўшыя магчымасці ў перад-рэлізнай версіі браўзера для iOS праз праграму Apple TestFlight. Усталюйце зараз!
 
 
 # String is obsolete. Do not remove.
