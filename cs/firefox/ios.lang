@@ -1,11 +1,12 @@
 ## active ##
+## firefox_title_meta_bug1345338 ##
 ## tracking_protection ##
 ## NOTE: Demo page available at https://www-dev.allizom.org/firefox/ios/
 
 
 # HTML page title
 ;Free Mobile Browser App for iPhone, iPad, iOS | Firefox
-Free Mobile Browser App for iPhone, iPad, iOS | Firefox
+Mobilní prohlížeč zdarma pro iPhone, iPad a iOS | Firefox
 
 
 # String is obsolete. Do not remove.
@@ -16,7 +17,7 @@ Mobilní webový prohlížeč pro váš iPhone, iPad a iPod touch
 
 # HTML page description
 ;Join the millions browsing better on iPhone and iPad. Firefox is fast and private. Install Firefox for iOS now!
-Join the millions browsing better on iPhone and iPad. Firefox is fast and private. Install Firefox for iOS now!
+Přidejte se k milionům lidí, kteří si užívají lepší prohlížení na iPhonu a iPadu. Firefox je rychlý a chrání vaše soukromí. Nainstalujte si Firefox pro iOS hned teď!
 
 
 # String is obsolete. Do not remove.
