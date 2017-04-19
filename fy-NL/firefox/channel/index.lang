@@ -1,5 +1,6 @@
 ## active ##
 ## android_nightly_copy ##
+## firefox_title_meta_bug1345338 ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
@@ -49,7 +50,7 @@ Mear ynfo oer Test Pilot
 
 # HTML page title, on the Android page only.
 ;Try New Features in a Pre-Release Android Browser | Firefox
-Try New Features in a Pre-Release Android Browser | Firefox
+Probearje nije funksjes yn in pre-release-Android-browser | Firefox
 
 
 # String is obsolete. Do not remove.
@@ -60,7 +61,7 @@ Download en test takomstige ferzjes fan Firefox foar desktop, Android en iOS.
 
 # HTML Description, on the Android page only.
 ;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
-Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
+Underfyn grinsferlizzende funksjes yn in pre-release-browser foar Android: Firefox Beta, Firefox Aurora en Firefox Nightly. Ynstallearje it no!
 
 
 # String is obsolete. Do not remove.
@@ -95,12 +96,12 @@ Firefox Bèta ferstjoert automatysk feedback nei Mozilla.
 
 # HTML page title, on the desktop page only.
 ;Try New Browser Features in Pre-Release Versions | Firefox
-Try New Browser Features in Pre-Release Versions | Firefox
+Probearje nije browserfunksjes yn pre-release-ferzjes | Firefox
 
 
 # HTML page description, on the desktop page only.
 ;Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
-Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
+Underfyn grinsferlizzende browserfunksjes yn pre-release-ferzjes: Firefox Developer Edition, Firefox Beta en Firefox Nightly. Ynstallearje it no!
 
 
 # String is obsolete. Do not remove.
@@ -143,13 +144,13 @@ Nightly-blog
 
 # HTML page title, on the iOS page only.
 ;Try New Features in a Pre-Release iOS Browser | Firefox
-Try New Features in a Pre-Release iOS Browser | Firefox
+Probearje nije funksjes yn in pre-release-iOS-browser | Firefox
 
 
 # HTML page description, on the iOS page only.
 # Don't translate TestFlight
 ;Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
-Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
+Underfyn grinsferlizzende funksjes yn in pre-release-browser foar iOS fia Apple’s TestFlight-programma. Ynstallearje it no!
 
 
 # String is obsolete. Do not remove.
