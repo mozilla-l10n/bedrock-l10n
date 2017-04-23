@@ -1,9 +1,15 @@
+## active ##
+## firefox_sync_mobile_buttons_update ##
+## firefox_sync_non_fx ##
+## firefox_title_meta_bug1345338 ##
+## fx38_sync_updates ##
+## ios_announce ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
 
 # HTML page title
 ;Use Bookmarks, Tabs and Passwords Across Devices | Firefox
-Use Bookmarks, Tabs and Passwords Across Devices | Firefox
+ใช้ที่คั่นหน้า แท็บและรหัสผ่านข้ามอุปกรณ์ | Firefox
 
 
 # String is obsolete. Do not remove.
@@ -14,7 +20,7 @@ Use Bookmarks, Tabs and Passwords Across Devices | Firefox
 
 # HTML page description
 ;Bring your Firefox bookmarks, tabs, or passwords wherever you go with Firefox Sync. Share between computers and mobile devices. Get Firefox now!
-Bring your Firefox bookmarks, tabs, or passwords wherever you go with Firefox Sync. Share between computers and mobile devices. Get Firefox now!
+ใช้ที่คั่นหน้า แท็บ หรือรหัสผ่านของ Firefox เมื่อไหร่ก็ตามที่คุณใช้ Firefox Sync แชร์ระหว่างคอมพิวเตอร์และอุปกรณ์เคลื่อนที่ ดาวน์โหลด Firefox เลย!
 
 
 ;Ready, Set, Sync
@@ -85,7 +91,7 @@ Bring your Firefox bookmarks, tabs, or passwords wherever you go with Firefox Sy
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+เปิด<a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">เมนู</a>ด้านบนขวาของ Firefox และเลือก “<strong>ลงชื่อเข้าใช้ Sync</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -100,11 +106,11 @@ Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Click “<strong>Next</strong>” to get a verification sent to your email.
+คลิก "<strong>ถัดไป</strong>" จะได้รับการยืนยันทางอีเมล
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+หลังจากเปิดอีเมล์ของคุณและคลิกลิงก์ยืนยันคุณจะเริ่มใช้ได้เลย Firefox จะซิงค์ให้อัตโนมัติในเบื้องหลัง
 
 
 ;Get more detailed instructions.
@@ -123,12 +129,12 @@ After you check your email and click the verification link, you’ll be all set!
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+แตะปุ่ม<strong>เมนู</strong> (ด้านล่างจอก็ตามหรือมุมด้านบนขวาของเบราว์เซอร์)
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+เลือก<strong>การตั้งต่า</strong> (คุณอาจจะต้องแตะ<strong>เพิ่มเติม</strong>ก่อน)
 
 
 # This string is displayed on Android devices
@@ -152,15 +158,15 @@ Select <strong>Settings</strong> (you may need to tap <strong>More</strong> firs
 
 
 ;Sync a little. Sync a lot.
-Sync a little. Sync a lot.
+ซิงค์เล็กน้อย ซิงค์จำนวนมาก
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
+คุณเลือกส่วนของ Firefox ที่ต้องการซิงค์และที่ที่จะให้ซิงค์ ส่งแท็บที่เปิดไว้ไปมา เข้าถึงที่ขั้นหน้าที่ทำงาน อะไรเมื่อไหร่ที่ไหนก็ตาม
 
 
 ;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
-Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
+ต้องการดูแท็บที่เปิดไว้ในเครื่องอื่นไหม ? เข้าถึงประวัติการเข้าชมเมื่ออยู่ที่อื่น ? รักษารหัสผ่านของคุณไว้ ? คุณทำสิ่งเหล่านี้ได้แล้ว
 
 
 ;Here’s what you can sync:
@@ -188,7 +194,7 @@ Want to visit your computer’s open tabs from another device? Access your brows
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+ย้ายจากโต๊ะทำงานไปโซฟาโดยไม่ขาดช่วง เข้าถึงแท็บที่เปิดอยู่บนสมาร์ทโฟนหรือเปิดที่ขึ้นหน้าของคุณบนแท็บเล็ต
 
 
 ;At work
@@ -196,7 +202,7 @@ Move from your desk to the couch without skipping a beat. Access your open tabs 
 
 
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
-Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
+เชื่อมต่อกับข้อมูลสำคัญอยู่ตลอด ซิงค์รหัสผ่านและที่คั่นหน้าที่คุณอาจจะต้องใช้เมื่อไหร่ก็ได้ เหมือนกับ Firefox มันปลอดภัยที่สุดเท่าที่จะทำได้
 
 
 ;On the go
@@ -204,7 +210,7 @@ Stay connected to all of your important information. Sync the passwords and book
 
 
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+เก็บเว็บไซต์โปรดหรืออ่านเรื่องที่เริ่มอ่านที่บ้าน — ไม่ว่าจะไปไหนก็ตาม ไม่มีอะไรง่ายกว่าใช้ Sync อีกแล้ว
 
 
 ;Add Firefox to your smartphone or tablet
@@ -212,7 +218,7 @@ Keep up with your favorite sites, or finish that story you started at home — w
 
 
 ;To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
-To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
+เพื่อจะใช้ Sync เต็มรูปแบบใช้ Firefox บน iOS หรือ Android และเชื่อมอุปกรณ์ทั้งหมด — ใช้ Firefox ได้ทุกที่
 
 
 ;Add Firefox
@@ -224,7 +230,7 @@ To get the full Sync experience, get Firefox for iOS or Android and connect all 
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
-DOWNLOAD FIREFOX FOR ANDROID
+ดาวน์โหลด FIREFOX สำหรับ ANDROID
 
 
 ;Get Firefox everywhere
@@ -232,6 +238,6 @@ DOWNLOAD FIREFOX FOR ANDROID
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+เพื่อจะใช้ Sync เต็มรูปแบบ นำเว็บของคุณไปทุกที่ด้วยการใช้ Firefox เชื่อมต่อสมาร์ทโฟน แท็บเล็ต คอมพิวเตอร์ และคอมพิวเตอร์โน้ตบุ๊ค
 
 

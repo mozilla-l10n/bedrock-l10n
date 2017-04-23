@@ -80,17 +80,17 @@ Firefox และคุณ
 
 # Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
 ;A monthly newsletter to keep you up to date with the Firefox Affiliates program.
-A monthly newsletter to keep you up to date with the Firefox Affiliates program.
+จดหมายข่าวรายเดือนทำให้คุณได้รับข้อมูลที่ทันสมัยเกี่ยวกับโปรแกรม Firefox Afflliates
 
 
 # Name for the newsletter in Newsletter subscription page
 ;Firefox Apps & Hacks
-Firefox Apps & Hacks
+Firefox Apps & Hacks {ok}
 
 
 # Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
 ;News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
-News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
+ข่าวสำหรับนักพัฒนาเกี่ยวกับ Firefox OS, Firefox Marketplace และระบบนิเวศแอปของเว็บเปิด
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -105,7 +105,7 @@ Firefox สำหรับเดสก์ท็อป
 
 # Description for the newsletter in Newsletter subscription page (Firefox for desktop)
 ;Don’t miss the latest announcements about our desktop browser.
-Don’t miss the latest announcements about our desktop browser.
+ไม่พลาดข่าวสารล่าสุดเกี่ยวกับเบราว์เซอร์บนเดสก์ท็อปของเรา
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -115,12 +115,12 @@ Firefox สำหรับ Android
 
 # Description for the newsletter in Newsletter subscription page (Firefox for Android)
 ;Keep up with releases and news about Firefox for Android.
-Keep up with releases and news about Firefox for Android.
+ตามการออกรุ่นใหม่และข่าวสารเกี่ยวกับ Firefox สำหรับ Android
 
 
 # Description for the newsletter in Newsletter subscription page (Mozilla)
 ;Special announcements and messages from the team dedicated to keeping the Web free and open.
-Special announcements and messages from the team dedicated to keeping the Web free and open.
+ประกาศและข้อความพิเศษจากทีมทุ่มเทเพื่อทำให้เว็บฟรีและเปิด
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -130,7 +130,7 @@ Special announcements and messages from the team dedicated to keeping the Web fr
 
 # Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
 ;Don’t miss important news and updates about your Firefox OS device.
-Don’t miss important news and updates about your Firefox OS device.
+โปรดอย่าพลาดข่าวและอัพเดทสำคัญเกี่ยวกับอุปกรณ์ Firefox OS ของคุณ
 
 
 ;Beta News
@@ -142,15 +142,15 @@ Don’t miss important news and updates about your Firefox OS device.
 
 
 ;Manage your Email Preferences
-Manage your Email Preferences
+จัดการการตั้งค่าอีเมล์ของคุณ
 
 
 ;We love sharing updates about all the awesome things happening at Mozilla.
-We love sharing updates about all the awesome things happening at Mozilla.
+เรารักการแบ่งปันอัพเดตเกี่ยวกับสิ่งเจ๋ง ๆ ที่เกิดขึ้นที่ Mozilla
 
 
 ;Set your preferences below to make sure you always receive the news you want.
-Set your preferences below to make sure you always receive the news you want.
+ตั้งค่าด้านล่างให้แน่ใจว่าคุณจะได้รับข่าวสารที่คุณต้องการ
 
 
 ;Newsletters
@@ -166,11 +166,11 @@ Set your preferences below to make sure you always receive the news you want.
 
 
 ;We can keep in touch with occasional messages that matter most to you.
-We can keep in touch with occasional messages that matter most to you.
+คงการติดต่อกันโดยข้อความเกี่ยวกับพวกคุณส่วนมากเป็นครั้งคราว
 
 
 ;Check all categories that apply to you, and we promise to keep the mail to a minimum.
-Check all categories that apply to you, and we promise to keep the mail to a minimum.
+ตรวจสอบหมวดหมู่ทั้งหมดที่เกี่ยวกับคุณและเราสัญญาส่งเมล์ให้น้อยที่สุด
 
 
 ;I’m interested in:
@@ -324,7 +324,7 @@ Mozilla คืออะไร?
 
 # Description for the newsletter in Newsletter subscription page
 ;Firefox OS news, tips, launch information and where to buy.
-Firefox OS news, tips, launch information and where to buy.
+ข่าว Firefox OS การเปิดตัวและสถานที่ที่จะซื้อได้
 
 
 # Description for the newsletter in Newsletter subscription page
@@ -339,12 +339,12 @@ Firefox OS news, tips, launch information and where to buy.
 
 # Description for the newsletter in Newsletter subscription page
 ;Get a weekly tip on how to super-charge your Firefox experience.
-Get a weekly tip on how to super-charge your Firefox experience.
+รับเคล็ดลับเพื่อทำให้ประสบการณ์การใช้ Firefox ของคุณเจ๋งขึ้น
 
 
 # Description for the newsletter in Newsletter subscription page
 ;Read about the latest features for Firefox desktop and mobile before the final release.
-Read about the latest features for Firefox desktop and mobile before the final release.
+อ่านเกี่ยวกับความสามารถล่าสุดสำหรับ Firefox บนเดสก์ท็อปและมือถือก่อนออกรุ่นจริง
 
 
 # Description for the newsletter in Newsletter subscription page
@@ -354,16 +354,16 @@ Read about the latest features for Firefox desktop and mobile before the final r
 
 # Description for the newsletter in Newsletter subscription page
 ;Periodic email updates about our annual international film competition.
-Periodic email updates about our annual international film competition.
+อีเมล์อัพเดตเป็นช่วง ๆ เกี่ยวกับการประกวดภาพยนต์สากลรายปี
 
 
 # Description for the newsletter in Newsletter subscription page
 ;Email updates for vouched Mozillians on mozillians.org.
-Email updates for vouched Mozillians on mozillians.org.
+อีเมล์อัพเดตสำหรับการรับรอง Mozillian บน mozillians.org
 
 
 # Description for the newsletter in Newsletter subscription page
 ;Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
-Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
+โปรแกรม Former University ตั้งแต่ 2008-2011 ปัจจุบันเลิกไปแล้วและเริ่มใหม่ในชื่อโปรแกรม Firefox Student Ambassadors
 
 
