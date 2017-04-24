@@ -1,4 +1,5 @@
 ## active ##
+## firefox_title_meta_bug1345338 ##
 ## firefox_updated ##
 ## home_title_update ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop
@@ -6,7 +7,7 @@
 
 # HTML page title
 ;Free Web Browser for Mac, Windows, Linux | Firefox
-Free Web Browser for Mac, Windows, Linux | Firefox
+Browser gratuito per Mac, Windows e Linux | Firefox
 
 
 # String is obsolete. Do not remove.
@@ -22,7 +23,7 @@ Browser Firefox — Affidabile, flessibile, veloce — Non c’è mai stato un m
 
 # HTML page description
 ;Millions of people around the world trust Firefox Web browsers on Mac, Windows and Linux computers. Fast. Private. Download now!
-Millions of people around the world trust Firefox Web browsers on Mac, Windows and Linux computers. Fast. Private. Download now!
+Milioni di persone in tutto il mondo si affidano a Firefox per navigare su Mac, Windows e Linux. Veloce. Riservato. Scaricalo subito!
 
 
 # L10n: Line break below is for wide screen formatting only.
