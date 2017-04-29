@@ -9,12 +9,12 @@ Pre-release downloads
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
-About
+ກ່ຽວກັບ
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+ແອັບ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -40,12 +40,12 @@ Private Browsing
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 ;Need help?
-Need help?
+ຕ້ອງການຄວາມຊ່ວຍເຫລືອບໍ?
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+ຂ່າວ
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -59,27 +59,27 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 
 
 ;Donate
-Donate
+ບໍລິຈາກ
 
 
 ;Support
-Support
+ສະຫນັບສະຫນູນ
 
 
 ;Products
-Products
+ຜະລິດຕະພັນ
 
 
 ;Add-ons
-Add-ons
+Add-ons {ok}
 
 
 ;About Us
-About Us
+ກ່ຽວກັບພວກເຮົາ
 
 
 ;Labs
-Labs
+ແລັບ
 
 
 ;skip to Navigation
@@ -87,23 +87,23 @@ skip to Navigation
 
 
 ;switch language
-switch language
+ປ່ຽນພາສາ
 
 
 ;Back to home page
-Back to home page
+ກັບໄປຫນ້າຫລັກ
 
 
 ;About Mozilla
-About Mozilla
+ກ່ຽວກັບ Mozilla
 
 
 ;Get Involved
-Get Involved
+ເຂົ້າມາມີສ່ວນຮ່ວມ
 
 
 ;Careers
-Careers
+ວຽກເຮັດງານທໍາ
 
 
 ;Press Center
@@ -111,30 +111,30 @@ Press Center
 
 
 ;Contact Us
-Contact Us
+ຕິດຕໍ່ພວກເຮົາ
 
 
 ;Other languages:
-Other languages:
+ພາສາອື່ນໆ:
 
 
 # Will replace "Other languages" for the footer's language switcher
 ;Page language:
-Page language:
+ພາສາຂອງຫນ້າ:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
-%Y-%m-%d
+%d-%m-%Y
 
 
 ;Legal
-Legal
+ຖືກກົດຫມາຍ
 
 
 # Used as link in the footer
 ;Cookies
-Cookies
+ຄຸກກີ
 
 
 ;Legal Notices
@@ -154,7 +154,7 @@ Other Systems and Languages
 
 
 ;Close
-Close
+ປິດ
 
 
 ;(in English)
@@ -170,36 +170,36 @@ Features
 
 
 ;Customize
-Customize
+ການປັບແຕ່ງ
 
 
 ;Download
-Download
+ດາວໂຫລດ
 
 
 ;Previous
-Previous
+ກ່ອນຫນ້ານີ້
 
 
 ;Next
-Next
+ຕໍ່ໄປ
 
 
 # MegaBytes abbreviation
 ;MB
-MB
+MB {ok}
 
 
 ;MegaBytes
-MegaBytes
+MegaBytes {ok}
 
 
 ;FAQ
-FAQ
+ຄຳຖາມທີ່ມີຄົນຖາມເລື້ອຍໆ
 
 
 ;Videos
-Videos
+ວີດີໂອ
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
@@ -224,12 +224,12 @@ Customize with Add-ons
 
 
 ;Learn More
-Learn More
+ຮຽນຮູ້ເພີ່ມເຕີມ
 
 
 # Same as previous above but with no capitalization on More
 ;Learn more
-Learn more
+ຮຽນຮູ້ເພີ່ມເຕີມ
 
 
 # Link used to play again an animation or a video
@@ -262,7 +262,7 @@ MPEG-4 format
 
 
 ;Mobile
-Mobile
+ໂທລະສັບມືຖື
 
 
 ;View Full Site
@@ -278,7 +278,7 @@ Firefox for mobile
 
 
 ;Email
-Email
+ອີເມລ໌
 
 
 ;Upgrade now
@@ -501,51 +501,51 @@ December
 
 
 ;<abbr>Jan</abbr>
-<abbr>Jan</abbr>
+<abbr>ມັງກອນ</abbr>
 
 
 ;<abbr>Feb</abbr>
-<abbr>Feb</abbr>
+<abbr>ກຸມພາ</abbr>
 
 
 ;<abbr>Mar</abbr>
-<abbr>Mar</abbr>
+<abbr>ມີນາ</abbr>
 
 
 ;<abbr>Apr</abbr>
-<abbr>Apr</abbr>
+<abbr>ເມສາ</abbr>
 
 
 ;<abbr>May</abbr>
-<abbr>May</abbr>
+<abbr>ພຶດສະພາ</abbr>
 
 
 ;<abbr>Jun</abbr>
-<abbr>Jun</abbr>
+<abbr>ມິຖຸນາ</abbr>
 
 
 ;<abbr>Jul</abbr>
-<abbr>Jul</abbr>
+<abbr>ກໍລະກົດ</abbr>
 
 
 ;<abbr>Aug</abbr>
-<abbr>Aug</abbr>
+<abbr>ສິງຫາ</abbr>
 
 
 ;<abbr>Sep</abbr>
-<abbr>Sep</abbr>
+<abbr>ກັນຍາ</abbr>
 
 
 ;<abbr>Oct</abbr>
-<abbr>Oct</abbr>
+<abbr>ຕຸລາ</abbr>
 
 
 ;<abbr>Nov</abbr>
-<abbr>Nov</abbr>
+<abbr>ພະຈິກ</abbr>
 
 
 ;<abbr>Dec</abbr>
-<abbr>Dec</abbr>
+<abbr>ທັນວາ</abbr>
 
 
 ;Congrats. You’re up to date!
@@ -564,7 +564,7 @@ Text
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -602,7 +602,7 @@ Sign me up
 
 
 ;Select country
-Select country
+ເລືອກປະເທດ
 
 
 ;Available Languages
