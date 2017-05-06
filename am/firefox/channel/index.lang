@@ -42,12 +42,12 @@ Take our latest experimental features for a spin and shape the future of Firefox
 
 
 ;Learn more about Test Pilot
-Learn more about Test Pilot
+ስለ ሙከራ ፓይለት ተጨማሪ ይወቁ
 
 
 # HTML page title, on the Android page only.
 ;Try New Features in a Pre-Release Android Browser | Firefox
-Try New Features in a Pre-Release Android Browser | Firefox
+በቅድመ-ልቀቅ አንሮይድ አሳሽ |ፋየርፎክስ ውስጥ  አዳዲስ ባህሪያት ይሞክሩ
 
 
 # String is obsolete. Do not remove.
@@ -72,19 +72,19 @@ Try the latest Android features, before they get released to the rest of the wor
 
 
 ;All Languages and Builds
-All Languages and Builds
+ሁሉም ቋንቋዎች እና ስራዉች
 
 
 ;Help determine what features will go into the next Firefox for Android.
-Help determine what features will go into the next Firefox for Android.
+በቀጣዩ ፋየርፎክስ ለአንሮይድ ምን ባህሪያት እንዲጨመሩ ለመወሰን ያግዙ
 
 
 ;Firefox Aurora automatically sends feedback to Mozilla.
-Firefox Aurora automatically sends feedback to Mozilla.
+ፋየርፎክስ አውሮራ በራስ ወደ ሞዚላ አስተያየት ይልካል
 
 
 ;Firefox Beta automatically sends feedback to Mozilla.
-Firefox Beta automatically sends feedback to Mozilla.
+ፋየርፎክስ ቤታ በራስ ወደ ሞዚላ አስተያየት ይልካል
 
 
 ;<a rel="external" href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
@@ -93,7 +93,7 @@ Firefox Beta automatically sends feedback to Mozilla.
 
 # HTML page title, on the desktop page only.
 ;Try New Browser Features in Pre-Release Versions | Firefox
-Try New Browser Features in Pre-Release Versions | Firefox
+ቅድመ-ልቀቅ ቨርዥንስ ፋየርፎክስ ውስጥ አዲስ የአሳሽ ባህሪያት ይሞክሩ
 
 
 # HTML page description, on the desktop page only.
@@ -116,11 +116,11 @@ All Languages and Builds (incl. Win 64)
 
 
 ;Build, test, scale and more with the only browser built just for developers.
-Build, test, scale and more with the only browser built just for developers.
+ይስሩ ይሞክሩ ያመዛዝኑ እና ሌሎችም ይሄ ሁሉ በአንድ አሳሽ ለዴቬሎፐር ተብሎ የተሰራ
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
-Firefox Developer Edition automatically sends feedback to Mozilla.
+ፋየርፎክስ የዴቬሎፐር እትም በራስ ወደ ሞዚላ አስተያየት ይልካል
 
 
 ;Check out new Android features in their earliest stages. Enjoy at your own risk.
@@ -128,15 +128,15 @@ Check out new Android features in their earliest stages. Enjoy at your own risk.
 
 
 ;Test brand new features daily (or… nightly). Enjoy at your own risk.
-Test brand new features daily (or… nightly). Enjoy at your own risk.
+አዳዲስ ባህርያት ይሞክሩ በየዕለቱ (ወይም ... በየምሽቱ):: በራስዎ ሀላፊነት ይደሰቱ.
 
 
 ;Firefox Nightly automatically sends feedback to Mozilla.
-Firefox Nightly automatically sends feedback to Mozilla.
+ፋየርፎክስ የማታ በራስ ወደ ሞዚላ አስተያየት ይልካል
 
 
 ;Nightly Blog
-Nightly Blog
+የማታ ብሎግ
 
 
 # HTML page title, on the iOS page only.
@@ -163,6 +163,6 @@ Test beta versions of Firefox for iOS via Apple’s TestFlight program.
 
 
 ;Sign up now
-Sign up now
+አሁን ይመዝገቡ
 
 
