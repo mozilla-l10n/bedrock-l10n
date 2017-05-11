@@ -3,7 +3,7 @@
 
 # Used as HTML title of the page
 ;Decentralization: Vital to Internet Health
-Decentralization: Vital to Internet Health
+Descentralização: vital para a saúde da Internet
 
 
 # Used as HTML description of the page
@@ -20,7 +20,7 @@ Inovação aberta
 
 
 ;Decentralization
-Decentralization
+Descentralização
 
 
 ;Digital Inclusion
@@ -28,7 +28,7 @@ Inclusão digital
 
 
 ;Web Literacy
-Web Literacy
+Alfabetização web
 
 
 # Used as Page Title
@@ -45,31 +45,31 @@ A healthy Internet belongs to you.
 
 
 ;Here are four areas where we can make a difference.
-Here are four areas where we can make a difference.
+Aqui estão quatro áreas onde podemos fazer a diferença.
 
 
 ;Net Neutrality
-Net Neutrality
+Neutralidade da rede
 
 
 ;Interoperability
-Interoperability
+Interoperabilidade
 
 
 ;Competition and Choice
-Competition and Choice
+Concorrência e escolha
 
 
 ;Local Contribution
-Local Contribution
+Contribuição local
 
 
 ;Decentralization means Net Neutrality
-Decentralization means Net Neutrality
+Descentralização significa neutralidade da rede
 
 
 ;No one should be able to restrict our access to the Web for their own gain.
-No one should be able to restrict our access to the Web for their own gain.
+Ninguém deve ser capaz de restringir nosso acesso a web para o seu próprio ganho.
 
 
 ;We rely on network providers – telcos and cable companies – for access to the Internet. Which puts them in a position to restrict that access for their own business objectives, favoring their own products, blocking sites or brands, or charging different prices and offering different speeds depending on content type. Net neutrality prohibits network providers from discriminating based on content, so everyone has equal access.
@@ -90,7 +90,7 @@ Source: <a href="%(wwwf)s">Access Now</a>, 2015
 
 
 ;How you can support net neutrality
-How you can support net neutrality
+Como você pode apoiar a neutralidade da rede
 
 
 ;Keep speaking up
@@ -122,7 +122,7 @@ Fostering a global community of passionate Internet users who share our vision.
 
 
 ;Decentralization means Interoperability
-Decentralization means Interoperability
+Descentralização significa interoperabilidade
 
 
 ;The Web should remain open and interoperable, so we can keep our experience consistent, transparent, and full of possibility.
@@ -200,7 +200,7 @@ Source: <a href="%(atlantic)s">The Atlantic</a>, 2015
 
 # This is used as a decorative element in a callout box.
 ;97%
-97%
+97% {ok}
 
 
 ;How you can influence competition and choice
@@ -257,7 +257,7 @@ Source: <a href="%(wikipedia)s">Wikipedia</a>
 
 # This is used as a decorative element in a callout box.
 ;37.5%
-37.5%
+37.5% {ok}
 
 
 ;How you can support local contribution

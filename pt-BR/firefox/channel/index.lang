@@ -1,6 +1,7 @@
 ## active ##
 ## android_nightly_copy ##
 ## firefox_title_meta_bug1345338 ##
+## firefox_title_meta_bug1357373 ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
@@ -61,7 +62,7 @@ Baixe e teste versões futuras do Firefox para desktop, Android e iOS.
 
 # HTML Description, on the Android page only.
 ;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta and Firefox Nightly. Install now!
-Experience cutting-edge features in a pre-release browser for Android: Firefox Beta and Firefox Nightly. Install now!
+Experimente funcionalidades super-recentes num pré-lançamento do navegador para Android: Firefox Beta e Firefox Nightly. Instale agora!
 
 
 # String is obsolete. Do not remove.
