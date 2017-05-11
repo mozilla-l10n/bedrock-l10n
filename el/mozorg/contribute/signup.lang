@@ -1,3 +1,6 @@
+## active ##
+## contribute-tasks-0516 ##
+## target-links-noopener ##
 ## NOTE: File is used for the new /signup page. Demo page: https://www-dev.allizom.org/contribute/signup/
 
 
@@ -154,7 +157,7 @@ I’m raising my hand to contribute to Mozilla! @startmozilla tell me how I can 
 
 
 ;Sign the pledge and stand up for strong encryption.
-Sign the pledge and stand up for strong encryption.
+Υπογράψτε τη δέσμευση και υπερασπιστείτε την ισχυρή κρυπτογράφηση.
 
 
 ;Encryption is how we keep our personal information safe and private. Please join us in the fight to protect it.
@@ -175,11 +178,11 @@ Sign the pledge and stand up for strong encryption.
 
 
 ;Take the pledge
-Take the pledge
+Υπογραφή δέσμευσης
 
 
 ;Thank you for taking the pledge
-Thank you for taking the pledge
+Ευχαριστούμε για την υποστήριξή σας
 
 
 # Page: task/joy-of-coding
@@ -192,7 +195,7 @@ Thank you for taking the pledge
 
 
 ;Watch The Joy of Coding, then discuss it with other Mozillians
-Watch The Joy of Coding, then discuss it with other Mozillians
+Παρακολουθήστε το The Joy of Coding κι, έπειτα, συζητήστε το με άλλους Mozillians
 
 
 ;Anyone can contribute to Firefox by finding and fixing errors that people report via Bugzilla. Watch a demonstration of a Firefox engineer live hacking to see what it’s all about.
@@ -217,7 +220,7 @@ Watch The Joy of Coding, then discuss it with other Mozillians
 
 # Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
-<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved" target="_blank">Γίνετε μέλος της κοινότητας προγραμματιστών</a> και αρχίστε να συνεργάζεστε με άλλους Mozillians απ' όλο τον κόσμο.
 
 
 ;Thanks for watching
@@ -238,7 +241,7 @@ Watch The Joy of Coding, then discuss it with other Mozillians
 
 
 ;The more you know about the web, the easier it is to make it your own. Participate in the web by testing your web literacy skills using the new tools in Firefox Developer Edition.
-The more you know about the web, the easier it is to make it your own. Participate in the web by testing your web literacy skills using the new tools in Firefox Developer Edition.
+Όσα περισσότερα γνωρίζετε σχετικά με το διαδίκτυο, τόσο πιο εύκολο είναι να το κάνετε δικό σας. Συμμετέχετε στο διαδίκτυο δοκιμάζοντας τις ικανότητές σας στη διαδικτυακή παιδεία με τα νέα εργαλεία στο Firefox Developer Edition.
 
 
 ;Download Firefox Dev Edition
@@ -246,7 +249,7 @@ The more you know about the web, the easier it is to make it your own. Participa
 
 
 ;Dev Tools requires Firefox Developer Edition desktop browser. To try this task, download Firefox Developer Edition first.
-Dev Tools requires Firefox Developer Edition desktop browser. To try this task, download Firefox Developer Edition first.
+Το Dev Tools απαιτεί το πρόγραμμα περιήγησης Firefox Developer Edition για υπολογιστές. Για να δοκιμάσετε αυτή την εργασία, κάντε πρώτα λήψη του Firefox Developer Edition.
 
 
 ;Go to Dev Tools Challenger
@@ -258,12 +261,12 @@ Dev Tools requires Firefox Developer Edition desktop browser. To try this task, 
 
 
 ;<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
-<a href="%s" id="get-involved">Γίνετε μέλος του Webdev Contribute Group</a> και ξεκινήστε να συνεργάζεστε με άλλους Mozillians απ' όλο τον κόσμο.
+<a href="%s" id="get-involved">Γίνετε μέλος του Webdev Contribute Group</a> και αρχίστε να συνεργάζεστε με άλλους Mozillians απ' όλο τον κόσμο.
 
 
 # Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
-<a href="%s" id="get-involved" target="_blank">Γίνετε μέλος του Webdev Contribute Group</a> και ξεκινήστε να συνεργάζεστε με άλλους Mozillians απ' όλο τον κόσμο.
+<a href="%s" id="get-involved" target="_blank">Γίνετε μέλος του Webdev Contribute Group</a> και αρχίστε να συνεργάζεστε με άλλους Mozillians απ' όλο τον κόσμο.
 
 
 ;Thanks for taking the challenge

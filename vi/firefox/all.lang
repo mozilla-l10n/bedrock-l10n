@@ -56,7 +56,7 @@ Firefox Nightly {ok}
 
 # Used as a tweet, make sure to keep it under 116 characters
 ;Thanks to contributions of Mozilla community members around the world, Firefox is available in 90 languages:
-Thanks to contributions of Mozilla community members around the world, Firefox is available in 90 languages:
+Cám ơn những đóng góp của các thành viên cộng đồng Mozilla trên khắp thế giới, Firefox hiện có thể dùng được với 90 ngôn ngữ:
 
 
 # This is displayed on firefox/nightly/all/.
@@ -65,11 +65,11 @@ Thanks to contributions of Mozilla community members around the world, Firefox i
 
 
 ;Check the system requirements
-Check the system requirements
+Kiểm tra các yêu cầu hệ thống
 
 
 ;Release notes
-Release notes
+Ghi chú phát hành
 
 
 ;Source code
@@ -78,7 +78,7 @@ Mã nguồn
 
 # This is displayed on firefox/organizations/all/.
 ;Show:
-Show:
+Hiện:
 
 
 ;Fully localized versions
@@ -95,11 +95,11 @@ These localizations aren’t final. We’re waiting for more feedback from the c
 
 # Used in Android pages like /firefox/android/beta/all/
 ;Multi-locale
-Multi-locale
+Đa ngôn ngữ
 
 
 ;Search languages
-Search languages
+Tìm kiếm ngôn ngữ
 
 
 ;Search
@@ -107,7 +107,7 @@ Tìm kiếm
 
 
 ;No matching languages found.
-No matching languages found.
+Không tìm thấy ngôn ngữ phù hợp.
 
 
 ;Download for %(platform)s in %(locale)s
@@ -115,6 +115,6 @@ Download for %(platform)s in %(locale)s
 
 
 ;Not Yet Available
-Not Yet Available
+Chưa có sẵn
 
 
