@@ -8,7 +8,7 @@ Descentralização: vital para a saúde da Internet
 
 # Used as HTML description of the page
 ;A decentralized internet, owned by all of us, is where net neutrality, interoperability, competition, and local contribution thrive.
-A decentralized internet, owned by all of us, is where net neutrality, interoperability, competition, and local contribution thrive.
+Uma internet descentralizada de propriedade de todos, permite a neutralidade da rede, a interoperabilidade, a competição e o aporte local prosperarem.
 
 
 ;Privacy &amp; Security
@@ -33,7 +33,7 @@ Alfabetização web
 
 # Used as Page Title
 ;A healthy Internet is created and owned by us all
-A healthy Internet is created and owned by us all
+Uma Internet saudável é criada por todos e pertence a todos nós
 
 
 ;The Internet owes much of its success to openness: its open, shared structure has made it easy for everyone to build, surf, and thrive on it. But a few big companies are closing in, closing doors, and creating walled gardens that concentrate their ownership and control of the Web. Together, we can fight to make sure no one limits our Internet access, experience, or creation.
@@ -41,7 +41,7 @@ The Internet owes much of its success to openness: its open, shared structure ha
 
 
 ;A healthy Internet belongs to you.
-A healthy Internet belongs to you.
+Uma Internet saudável pertence a você.
 
 
 ;Here are four areas where we can make a difference.
@@ -81,12 +81,12 @@ As of December 2016, 47 countries currently have laws in place to protect Net Ne
 
 
 ;Source: <a href="%(wwwf)s">Access Now</a>, 2015
-Source: <a href="%(wwwf)s">Access Now</a>, 2015
+Fonte: <a href="%(wwwf)s">Acessar agora</a>, 2015
 
 
 # This is used as a decorative element in a callout box.
 ;47
-47
+47 {ok}
 
 
 ;How you can support net neutrality
@@ -98,15 +98,15 @@ Keep speaking up
 
 
 ;The fight for net neutrality continues all over the world. The rules that have been adopted in the US and Europe need to be defended and enforced. Reach out to your government official wherever you live, and express your support.
-The fight for net neutrality continues all over the world. The rules that have been adopted in the US and Europe need to be defended and enforced. Reach out to your government official wherever you live, and express your support.
+A luta pela neutralidade da rede continua em todo o mundo. As regras que foram adotadas nos EUA e Europa precisam ser defendidas e aplicadas. Fale com o oficial do governo onde mora e manifeste o seu apoio.
 
 
 ;How Mozilla is supporting net neutrality
-How Mozilla is supporting net neutrality
+Como a Mozilla está apoiado a neutralidade da rede
 
 
 ;Advocating policy change
-Advocating policy change
+Defendendo a mudança política
 
 
 ;Working directly with legislative bodies to craft policy frameworks for and meaningful enforcement of net neutrality in the <a href="%(usa)s">United States</a>, <a href="%(europe)s">Europe</a>, <a href="%(india)s">India</a>, and all over the world.
@@ -118,7 +118,7 @@ Building community
 
 
 ;Fostering a global community of passionate Internet users who share our vision.
-Fostering a global community of passionate Internet users who share our vision.
+Promover uma comunidade global de internautas apaixonados que compartilham a nossa visão.
 
 
 ;Decentralization means Interoperability
@@ -126,7 +126,7 @@ Descentralização significa interoperabilidade
 
 
 ;The Web should remain open and interoperable, so we can keep our experience consistent, transparent, and full of possibility.
-The Web should remain open and interoperable, so we can keep our experience consistent, transparent, and full of possibility.
+A Web deve permanecer aberta e interoperável, para que possamos manter nossa experiência consistente, transparente e cheia de possibilidades.
 
 
 ;Interoperability is a big word with a simple result: your Web experience is basically the same across browsers, hardware, and operating systems because it was designed that way – and built with the open standards to support it. Open standards also allow anyone to invent new ways to make your Web experience better. But interoperability is losing ground to closed systems – and we’re losing transparency, participation, and innovation along with it.
@@ -147,7 +147,7 @@ Fonte: <a href="%(pew)s">Pew Research</a>, 2014
 
 
 ;How you can support interoperability
-How you can support interoperability
+Como você pode apoiar a interoperabilidade
 
 
 ;Go independent
@@ -159,11 +159,11 @@ Innovation can still come from anywhere – especially if we support it. Try out
 
 
 ;How Mozilla is supporting interoperability
-How Mozilla is supporting interoperability
+Como a Mozilla está apoiando a interoperabilidade
 
 
 ;Setting the standards
-Setting the standards
+Definindo os padrões
 
 
 ;Working with and even leading open standards bodies, like <a href="%(ietf)s">IETF</a> and <a href="%(w3c)s">W3C</a>.
@@ -179,11 +179,11 @@ Building interoperability into our own products, and empowering web developers t
 
 
 ;Decentralization means Competition and Choice
-Decentralization means Competition and Choice
+Descentralização significa concorrência e escolha
 
 
 ;The Internet should continue to foster healthy competition among companies, opportunity for entrepreneurs, and meaningful choices for users.
-The Internet should continue to foster healthy competition among companies, opportunity for entrepreneurs, and meaningful choices for users.
+A Internet deve continuar a promover a concorrência saudável entre as empresas, oportunidade para os empresários e escolhas significativas para os usuários.
 
 
 ;A personalized Internet is an exciting prospect. But more and more, that means opting into a single company’s ecosystem – which streamlines your experience right now, but may seriously limit your choices in the future. Competitors will be reduced to those few companies who can offer the whole enchilada, thus consolidating the power of existing tech giants and making it much harder for entrepreneurs to disrupt the market with great ideas.
@@ -195,7 +195,7 @@ In most EU member countries, Google controls more than 90 percent of the search 
 
 
 ;Source: <a href="%(atlantic)s">The Atlantic</a>, 2015
-Source: <a href="%(atlantic)s">The Atlantic</a>, 2015
+Fonte: <a href="%(atlantic)s">The Atlantic</a>, 2015
 
 
 # This is used as a decorative element in a callout box.
@@ -204,7 +204,7 @@ Source: <a href="%(atlantic)s">The Atlantic</a>, 2015
 
 
 ;How you can influence competition and choice
-How you can influence competition and choice
+Como você pode influenciar a competição e a escolha
 
 
 ;Know the tradeoffs
@@ -216,7 +216,7 @@ Make sure you understand the tradeoffs of that seamless online experience before
 
 
 ;How Mozilla is influencing competition and choice
-How Mozilla is influencing competition and choice
+Como a Mozilla está influenciando a competição e a escolha
 
 
 ;Opposing gatekeeper power
@@ -236,7 +236,7 @@ Building with <a href="%(standards)s">open standards</a> and open source in our 
 
 
 ;Decentralization means Local Contribution
-Decentralization means Local Contribution
+Descentralização significa contribuição Local
 
 
 ;We should all be able to contribute to the Web, so it reflects and serves all of its users.
@@ -252,7 +252,7 @@ Chinese, Spanish, Arabic and Portuguese speaking internet users make up 37.5% of
 
 
 ;Source: <a href="%(wikipedia)s">Wikipedia</a>
-Source: <a href="%(wikipedia)s">Wikipedia</a>
+Fonte: <a href="%(wikipedia)s">Wikipédia</a>
 
 
 # This is used as a decorative element in a callout box.
@@ -261,11 +261,11 @@ Source: <a href="%(wikipedia)s">Wikipedia</a>
 
 
 ;How you can support local contribution
-How you can support local contribution
+Como você pode apoiar a contribuição local
 
 
 ;Start making
-Start making
+Comece fazendo
 
 
 ;Try your hand at creating Web content you care about, in your language. <a href="%(thimble)s">Thimble</a> is a great way to start.
@@ -273,7 +273,7 @@ Try your hand at creating Web content you care about, in your language. <a href=
 
 
 ;How Mozilla is supporting local contribution
-How Mozilla is supporting local contribution
+Como a Mozilla está apoiado a contribuição local
 
 
 ;Teaching makers
@@ -281,7 +281,7 @@ Teaching makers
 
 
 ;Providing the <a href="%(tools)s">tools</a> and <a href="%(teaching)s">teaching</a> to foster the next generation of Web creators.
-Providing the <a href="%(tools)s">tools</a> and <a href="%(teaching)s">teaching</a> to foster the next generation of Web creators.
+Fornecendo as <a href="%(tools)s">ferramentas</a> e <a href="%(teaching)s">ensino</a> para promover a próxima geração de criadores da Web.
 
 
 ;Teaching localization
@@ -297,7 +297,7 @@ Quer saber mais?
 
 
 ;Read on about Decentralization in our <a href="%(healthreport)s">Internet Health Report</a>.
-Read on about Decentralization in our <a href="%(healthreport)s">Internet Health Report</a>.
+Leia mais sobre descentralização em nosso <a href="%(healthreport)s">relatório sobre a saúde da Internet</a>.
 
 
 ;Stay informed.

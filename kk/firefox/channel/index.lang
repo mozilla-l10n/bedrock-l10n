@@ -1,6 +1,7 @@
 ## active ##
 ## android_nightly_copy ##
 ## firefox_title_meta_bug1345338 ##
+## firefox_title_meta_bug1357373 ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
@@ -41,7 +42,7 @@ iOS {ok}
 
 
 ;Take our latest experimental features for a spin and shape the future of Firefox.
-Соңғы сынамалаы мүмкіндіктерді қолданып көріп, Firefox болашағын қалауға көмектесіңіз.
+Соңғы сынамалы мүмкіндіктерді қолданып көріп, Firefox болашағын қалауға көмектесіңіз.
 
 
 ;Learn more about Test Pilot
@@ -61,7 +62,7 @@ Test Pilot туралы көбірек білу
 
 # HTML Description, on the Android page only.
 ;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta and Firefox Nightly. Install now!
-Experience cutting-edge features in a pre-release browser for Android: Firefox Beta and Firefox Nightly. Install now!
+Ең соңғы мүмкіндіктерді шығарылымға дейінгі Android браузерінде қолданып көріңіз: Firefox Beta және Firefox Nightly. Қазір орнатыңыз!
 
 
 # String is obsolete. Do not remove.
