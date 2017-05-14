@@ -2,11 +2,11 @@
 
 
 ;The Mozilla Leadership Network
-The Mozilla Leadership Network
+A rede de liderança da Mozilla
 
 
 ;Connecting Leaders
-Connecting Leaders
+Conectando líderes
 
 
 ;The Mozilla Leadership Network is a global network of diverse leaders - from the young activist teaching web literacy to her community, to the executive leading a global organization - who will ensure the next wave of access, inclusion and opportunity online.
@@ -14,19 +14,19 @@ The Mozilla Leadership Network is a global network of diverse leaders - from the
 
 
 ;Leaders in this network will take action together to:
-Leaders in this network will take action together to:
+Os líderes desta rede agiram juntos para:
 
 
 ;Shape and spread the open internet agenda;
-Shape and spread the open internet agenda;
+Forme e espalhe a agenda aberta da internet;
 
 
 ;Model ‘open’ values and practices in institutions, products and policies around the world.
-Model ‘open’ values and practices in institutions, products and policies around the world.
+Modelo de valores e práticas abertas em instituições, produtos e políticas em todo o mundo.
 
 
 ;How we work
-How we work
+Como trabalhamos
 
 
 ;The Mozilla Leadership Network accomplishes its work through thematic ‘hubs,’ communities of people with diverse expertise, who are helping others build the capacity to advance the open Internet in their field or topic of interest.
@@ -42,7 +42,7 @@ Our current hubs include:
 
 
 ;<a href="%(url_science)s">Science.</a> Researchers and data scientists committed to making research and practice more open.
-<a href="%(url_science)s">Science.</a> Researchers and data scientists committed to making research and practice more open.
+<a href="%(url_science)s">Ciência.</a> Cientistas e pesquisadores empenhado em fazerem a pesquisa e a prática mais abertas.
 
 
 ;<a href="%(url_advocacy)s">Internet Policy & Advocacy.</a> Individuals and organizations focused on advancing open Internet issues.
@@ -58,7 +58,7 @@ Our current hubs include:
 
 
 ;Our Initiatives
-Our Initiatives
+Nossas iniciativas
 
 
 ;The Mozilla Leadership Network pursues our goals through five key initiatives, which are reflected in each hub:
