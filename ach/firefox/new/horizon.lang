@@ -1,3 +1,8 @@
+## active ##
+## firefox_new_other_platforms ##
+## firefox_new_pre_release ##
+## firefox_new_scene_2_headline ##
+## macos_branding ##
 ## NOTE: Used for the new http://www-dev.allizom.org/firefox/new
 
 
@@ -15,16 +20,16 @@ Gam Mozilla Firefox, layeny Kakube me nono. Firefox layubo ne aye dul me wilobo 
 
 
 ;The last independent browser.
-The last independent browser.
+Layeny me agiki ma cung kene.
 
 
 # String obsolete. Do NOT remove.
 ;Enjoy online freedom.
-Enjoy online freedom.
+Nong mit pa bedo agonya i intanet.
 
 
 ;Thanks for choosing Firefox. Your download should begin automatically. If not, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-Thanks for choosing Firefox. Your download should begin automatically. If not, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
+Pwoc pi yero Firefox. Gam mamegi myero ocake pire kene. Ka pe, <a id="%(id)s" href="%(fallback_url)s">dii kany</a>.
 
 
 ;Browse Freely
@@ -40,19 +45,19 @@ Itye ka yeny agonya ki kit Firefox ma nyen loyo.
 
 
 ;You’re using a pre-release version of Firefox.
-You’re using a pre-release version of Firefox.
+Itye ka tic ki kit Firefox mapud pe kikelo woko.
 
 
 ;Congrats! You’re using the latest version of Firefox.
-Congrats! You’re using the latest version of Firefox.
+Pwoc! Itye ka tic ki kit Firefox manyen loyo.
 
 
 ;Give Firefox a tune up
-Give Firefox a tune up
+Yub Firefox
 
 
 ;Refresh Firefox
-Refresh Firefox
+Nwo cako Firefox
 
 
 ;Looking for more info?
@@ -60,7 +65,7 @@ Itye ka yenyo ngec mapol?
 
 
 ;Want a fresh copy?
-Want a fresh copy?
+Imito manyen ne?
 
 
 ;Get Firefox for Android and iOS.
@@ -92,15 +97,15 @@ Cit ka mo keken i Kakube — oyotoyot.
 
 
 ;Freedom is personal
-Freedom is personal
+Bedo agonya tye pi ngat moni
 
 
 ;Enjoy the most built-in privacy tools of any browser.
-Enjoy the most built-in privacy tools of any browser.
+Nong mit pa gitic me mung ma kiyubo iyie loyo pa layeny mo keken.
 
 
 ;Freedom is yours
-Freedom is yours
+Bedo agonya megi
 
 
 ;Use the only browser built for people, not profit.
@@ -108,7 +113,7 @@ Tii ki layeny ma ki yubu pi dano, pe pi nongo magoba.
 
 
 ;Firefox for other platforms
-Firefox for other platforms
+Firefox pi nyonyo mukene
 
 
 ;Download Firefox <span>for Windows</span>

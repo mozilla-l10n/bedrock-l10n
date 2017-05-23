@@ -126,48 +126,48 @@ Know your settings. You can manage your profile and preferences for <a href="%(g
 
 
 ;Walking the talk with our own products, with features like the Forget Button, and <a href="%(focus)s">Firefox Focus</a>, our private browser for iOS.
-Walking the talk with our own products, with features like the Forget Button, and <a href="%(focus)s">Firefox Focus</a>, our private browser for iOS.
+همراه ما باشید برای یک صحبت در مورد محصولات، با ویژیگی‌هایی نظیر دکمه فراموشی و <a href="%(focus)s"> Firefox Focus</a>& ما مرور خصوصی برای iOS خواهیم داشت.
 
 
 ;Educating the industry
-Educating the industry
+آموزش به صنایع
 
 
 ;Encouraging and educating the industry about <a href="%(leandata)s">lean data practices</a>.
-Encouraging and educating the industry about <a href="%(leandata)s">lean data practices</a>.
+تشویق  صنایع به فراگیری در مورد <a href="%(leandata)s">تمایل داشتن به داده های مطلوب</a>.
 
 
 ;Cyber Security: Locking down your sensitive information
-Cyber Security: Locking down your sensitive information
+امنیت سایبری: داده های حساس خود را قفل کنید
 
 
 ;We should all have the ability to protect our online identity.
-We should all have the ability to protect our online identity.
+همه با باید این توانایی را در مقابل محافظت از هویت آنلاین خودمان داشته باشیم.
 
 
 ;At this point, it feels like we’ve all been victims of a cyberattack somewhere, somehow. Data breaches can lay bare the passwords of millions of people, often going undiscovered for years. Which means your identity may be at risk of theft without you even knowing it.
-At this point, it feels like we’ve all been victims of a cyberattack somewhere, somehow. Data breaches can lay bare the passwords of millions of people, often going undiscovered for years. Which means your identity may be at risk of theft without you even knowing it.
+در این لحظه، این احساس وجود دارد که همه ما در جایی به نحوی قربانی حملات سایبری هستیم. رخنه های اطلاعاتی می تواند اطلاعات آشکار میلیون ها کاربر را منتشر کند که غالبا سالها نا شناخته باقی می‌ماند. و این به این معنی است که هویت شما ممکن است در خطر باشد بدون آنکه خود شما در مورد آن بدانید.
 
 
 ;Breaches affected hundreds of millions of accounts in 2013-2016. In December 2016, the biggest breach in history was reported: 1 billion accounts.
-Breaches affected hundreds of millions of accounts in 2013-2016. In December 2016, the biggest breach in history was reported: 1 billion accounts.
+رخنه‌ها بر اطلاعات کاربری میلیون ها کاربر در سال های 2013-2016 اثر گذاشت. در پاییز 2016 بزرگترین رخنه تاریخ گزارش شد: 1 میلیارد حساب کاربری.
 
 
 ;Source: Wikipedia, <a href="%(wiki)s" rel="external">List of data breaches</a>, 2013-2016
-Source: Wikipedia, <a href="%(wiki)s" rel="external">List of data breaches</a>, 2013-2016
+منبع: ویکی‌پدیا<a href="%(wiki)s" rel="external"> لیست رخنه‌های اطلاعاتی </a>2013-2016
 
 
 # This is an abbreviation for the number "1 billion" used as decoration in a callout box. Make it short.
 ;1B
-1B
+1میلیارد
 
 
 ;What you can do about cyber security
-What you can do about cyber security
+کارهای شما در قبال امنیت سایبری چیست
 
 
 ;Choose strong passwords
-Choose strong passwords
+رمزعبور قوی استفاده کنید
 
 
 ;<a href="%(strongpass)s" rel="external">Choose strong, unique pins and passwords</a>, and use a <a href="%(passmanager)s" rel="external">password manager</a>. (Note: we haven’t tried them all – see what works for you.)
@@ -175,7 +175,7 @@ Choose strong passwords
 
 
 ;Use 2-factor authentication
-Use 2-factor authentication
+از عامل 2مرحله‌ای برای شناسایی خود استفاده کنید
 
 
 ;An extra step goes a long way. For the best protection, take advantage of <a href="%(twofactor)s" rel="external">2-factor authentication</a> wherever it’s offered.
@@ -221,7 +221,7 @@ Source: <a href="%(cigi)s" rel="external"><abbr title="Centre for International 
 
 # This is used as a decorative element in a callout box.
 ;38%
-38%
+۳۸ ٪
 
 
 ;What you can do about government surveillance
@@ -233,7 +233,7 @@ Encrypt your data
 
 
 ;Choose apps that keep your conversations encrypted. <a href="%(encryptedapps)s" rel="external">Here’s a list</a>.
-Choose apps that keep your conversations encrypted. <a href="%(encryptedapps)s" rel="external">Here’s a list</a>.
+اپ‌هایی را انتخاب کنید که گفتگو‌های شما را رمزنگاری کنند. <a href="%(encryptedapps)s" rel="external">در این‌جا لیستی قرار دارد</a>.
 
 
 ;<a href="%(strongpass)s" rel="external"> Choose strong, unique pins and passwords</a>, and use a <a href="%(passmanager)s" rel="external">password manager</a>. (Note: we haven’t tried all the options on these lists – see what works for you.)
@@ -270,18 +270,18 @@ Cohosting <a href="%(standford)s" rel="external">talks with Stanford’s Center 
 
 
 ;Hungry for more?
-Hungry for more?
+تمایل زیادی به اطلاعات بیشتر دارید؟
 
 
 ;Keep reading about Privacy and Security in our <a href="%(healthreport)s">Internet Health Report</a>.
-Keep reading about Privacy and Security in our <a href="%(healthreport)s">Internet Health Report</a>.
+به مطالعه در مورد حریم شخصی و امنیت در لینک ما <a href="%(healthreport)s"> گزارش از سلامت اینترنت </a> ادامه دهید.
 
 
 ;Stay informed.
-Stay informed.
+باخبر بمانید.
 
 
 ;Sign up. Read up. Get the Mozilla newsletter to stay smart on the issues affecting your life online.
-Sign up. Read up. Get the Mozilla newsletter to stay smart on the issues affecting your life online.
+ثبت‌نام کنید، مطالعه کنید،.خبرنامه های موزیلا را برای باهوش ماندن در برابر مشکلات تاثیر گذار زندگی آنلاین خود دریافت کنید.
 
 
