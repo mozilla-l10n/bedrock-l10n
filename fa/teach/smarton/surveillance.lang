@@ -1,44 +1,45 @@
+## active ##
 ## NOTE: demo server available at https://www-dev.allizom.org/teach/smarton/surveillance/
 
 
 # HTML Title
 ;Get smart on government surveillance
-با نظارت دولت ها هوشمندانه برخورد کنید
+با نظارت دولت‌ها هوشمندانه برخورد کنید
 
 
 # HTML Meta (description). First part of the string is also available in the landing page file (smarton(index.lang)
 ;Decide where you think the line should be – and keep others from crossing it. Get smart on government surveillance.
-تصمیم‌گیری را مطابق خط فکری انجام بدهید که باید انجام دهید– و دیگران را برای عبور از آن نگاه دارید. با نظارت دولت ها هوشمندانه برخورد کنید.
+تصمیم بگیرید که خط کجا باید باشد – و مانع عبور دیگران از آن بشوید. با نظارت دولت‌ها هوشمندانه برخورد کنید.
 
 
 ;Ask yourself
-از خود سوال کنید
+از خودتان بپرسید
 
 
 # This is the first part of a question that is completed in three different ways.
 ;If you’re not under investigation, should the government be able to:
-اگر شما زیر بازجویی نیستید، آیا دولت باید قادر باشد:
+اگر شما تحت بازجویی نیستید، آیا دولت باید قادر باشد:
 
 
 # These three fragments each complete the question, "If I'm not under investigation, should the government be able to ___?"
 ;monitor your phone calls?
-تماس های تلفنی شما را مشاهده کند؟
+تماس‌های تلفنی شما را شنود کند؟
 
 
 ;read your emails and view the photos I send?
-پست‌ الکترونیکی شما را بخواند و تصاویر که من ارسال می‌کنم را مشاهده کند؟
+رایانه‌های شما را بخواند و تصاویری که ارسال می‌کنم را مشاهده کند؟
 
 
 ;see what you search for on the Web?
-ببینید چه چیزی را روی وب جستجو می‌کنید؟
+چیزهایی که در وب جستجو می‌کنید را ببیند؟
 
 
 ;Government surveillance explained
-نظارت دولت نشان داده است
+نظارتِ دولت، بصورت شفاف
 
 
 ;Stakeouts have always been an essential tool for law enforcement and national security.
-همیشه پوشش مخفی برای دریافت اطلاعات ابزاری ضروری بوده است برای اجرا قانون و امنیت ملی.
+پوشش مخفی برای دریافت اطلاعات همواره ابزاری ضروری برای اجرا قانون و امنیت ملی بوده است.
 
 
 ;The difference now is that they’ve moved beyond binoculars, bugs and bad guys: surveillance has gone digital.
@@ -80,7 +81,7 @@
 
 
 ;The solution: Safeguards
-The solution: Safeguards
+راه حل: حراست
 
 
 ;When surveillance is too broad or lacks key safeguards – like getting a warrant from a judge – it can be abused, either accidentally or on purpose. And our personal privacy is what’s at stake.
@@ -92,7 +93,7 @@ The solution: Safeguards
 
 
 ;Minimal impact
-Minimal impact
+کمترین اثر
 
 
 ;Efforts should be made to collect only the information that’s needed, without compromising Internet infrastructure, technology companies’ data systems, or users’ trust.
@@ -246,7 +247,7 @@ Minimal impact
 
 
 ;Keep track with a password manager instead.
-Keep track with a password manager instead.
+در عوض با یک برنامه مدیریت گذرواژه، گذرواژه‌های خود را مدیریت کنید.
 
 
 ;See instructions for <a href="{firefox}">Firefox</a>, <a href="{chrome}">Chrome</a>, <a href="{ie}">Internet Explorer</a>, <a href="{safari}">Safari</a> and <a href="{opera}">Opera</a>.
@@ -266,7 +267,7 @@ Keep track with a password manager instead.
 
 
 ;Encryption is a bit like scrambling a frequency: it turns information into codes that can only be read if you have the right keys.
-Encryption is a bit like scrambling a frequency: it turns information into codes that can only be read if you have the right keys.
+رمزگذاری کمی شبیه به در هم ریختن یک فرکانس است: اطلاعات را تبدیل به کدهایی می‌کند که فقط وقتی قابل خواندن هستند که کلیدهای درست را داشته باشیم.
 
 
 ;No software provides perfect protection from spying, but Mozilla programmers recommend these easy encryption tools to take your online security beyond basic.
