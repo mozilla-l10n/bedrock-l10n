@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo server available at https://www-dev.allizom.org/teach/smarton/surveillance/
 
 
@@ -151,7 +152,7 @@
 
 
 ;Take a stand
-表示立場
+表示你的立場
 
 
 ;The first thing we can all do is keep our eyes and ears out – and make our voices heard.
@@ -176,15 +177,15 @@
 
 
 ;We actively track issues of mass surveillance and other threats to the Web, so we’ll let you know about opportunities to speak out.
-We actively track issues of mass surveillance and other threats to the Web, so we’ll let you know about opportunities to speak out.
+我們主動追蹤大量關於監控、以及其他對網路有危害的事情，並讓您知道發聲的機會。
 
 
 ;Close your blinds
-Close your blinds
+關起你家百葉窗
 
 
 ;These quick steps can help protect you from overreaching surveillance practices.
-These quick steps can help protect you from overreaching surveillance practices.
+下面一些簡單的方法可以幫助您避免被過度監控。
 
 
 ;Browse carefully
@@ -192,15 +193,15 @@ These quick steps can help protect you from overreaching surveillance practices.
 
 
 ;Always look for the padlock in your browser’s address bar.
-Always look for the padlock in your browser’s address bar.
+一定要確認瀏覽器的網址欄上是否有表示安全連線的鎖頭標誌。
 
 
 ;Cap your camera
-擋住相機
+遮住視訊鏡頭
 
 
 ;Put a sticker in front of your webcam when you’re not using it.
-Put a sticker in front of your webcam when you’re not using it.
+當您不用視訊鏡頭的時候，貼個貼紙遮住它。
 
 
 ;Watch the Wi-Fi
@@ -208,16 +209,16 @@ Put a sticker in front of your webcam when you’re not using it.
 
 
 ;Be careful when using a public Wi-Fi network.
-使用公眾 Wi-Fi 網路時請小心。
+請注意使用的公眾 Wi-Fi 網路是否安全。
 
 
 # Link to SUMO articles
 ;Find out more.
-看看更多。
+點我瞭解更多。
 
 
 ;Change your locks
-定時換鎖
+定時換密碼
 
 
 ;Passwords are an essential tool for shielding information from prying eyes.
@@ -230,11 +231,11 @@ Put a sticker in front of your webcam when you’re not using it.
 
 # Link points to https://support.mozilla.org/kb/create-secure-passwords-keep-your-identity-safe
 ;Here are some Mozilla <a href="{url}">tips for creating a strong password for every device and account</a>.
-Here are some Mozilla <a href="{url}">tips for creating a strong password for every device and account</a>.
+這裡有一些 Mozilla 提供的 <a href="{url}">技巧，教你如何創造更強力的密碼，讓你可以在任何裝置及帳號上使用 </a>。
 
 
 ;And get in the habit of changing your passwords once a year.
-And get in the habit of changing your passwords once a year.
+並且養成每年都換密碼的好習慣。
 
 
 ;Don’t use a single password everywhere.
@@ -242,15 +243,15 @@ And get in the habit of changing your passwords once a year.
 
 
 ;Would you use the same key for your front door, your car, and your safety deposit box? Probably not.
-Would you use the same key for your front door, your car, and your safety deposit box? Probably not.
+您會在每一間房子、車子、信箱都使用同一把鑰匙嗎？我想應該不會。
 
 
 ;Keep track with a password manager instead.
-改用密碼管理員記下密碼。
+但您可以改用密碼管理員記下密碼。
 
 
 ;See instructions for <a href="{firefox}">Firefox</a>, <a href="{chrome}">Chrome</a>, <a href="{ie}">Internet Explorer</a>, <a href="{safari}">Safari</a> and <a href="{opera}">Opera</a>.
-See instructions for <a href="{firefox}">Firefox</a>, <a href="{chrome}">Chrome</a>, <a href="{ie}">Internet Explorer</a>, <a href="{safari}">Safari</a> and <a href="{opera}">Opera</a>.
+看看 <a href="{firefox}">Firefox</a>、<a href="{chrome}">Chrome</a>、<a href="{ie}">IE</a>、<a href="{safari}">Safari</a>以及<a href="{opera}">Opera</a> 各瀏覽器的的操作說明。
 
 
 ;Do the two-step
@@ -258,7 +259,7 @@ See instructions for <a href="{firefox}">Firefox</a>, <a href="{chrome}">Chrome<
 
 
 ;For the best protection, take advantage of 2-step authentication wherever it’s offered.
-For the best protection, take advantage of 2-step authentication wherever it’s offered.
+為達到最好的防護效果，如有提供二階段認證，推薦一定要開啟該功能使用它。
 
 
 ;Try encryption
@@ -266,11 +267,11 @@ For the best protection, take advantage of 2-step authentication wherever it’s
 
 
 ;Encryption is a bit like scrambling a frequency: it turns information into codes that can only be read if you have the right keys.
-Encryption is a bit like scrambling a frequency: it turns information into codes that can only be read if you have the right keys.
+加密有點像是改變頻率：它會將訊息轉變為貌似亂碼的內容，只有解碼鎖的人才能正確讀取它。
 
 
 ;No software provides perfect protection from spying, but Mozilla programmers recommend these easy encryption tools to take your online security beyond basic.
-No software provides perfect protection from spying, but Mozilla programmers recommend these easy encryption tools to take your online security beyond basic.
+雖然沒有一個軟體能提供完美的間諜防護，但 Mozilla 工程師推薦以下幾個簡單的加密工具，讓您的網路安全性至少能在基本等級以上。
 
 
 ;Phone apps
@@ -278,7 +279,7 @@ No software provides perfect protection from spying, but Mozilla programmers rec
 
 
 ;These apps use encryption to secure your phone calls, texts, picture and video communications.
-These apps use encryption to secure your phone calls, texts, picture and video communications.
+這些應用程式利用加密方法保護您的通話、文件、圖片以及視訊通話。
 
 
 ;Device encryption
@@ -286,15 +287,15 @@ These apps use encryption to secure your phone calls, texts, picture and video c
 
 
 ;Use these on your devices to make sure the only eyes that see your personal information are the ones you authorize.
-Use these on your devices to make sure the only eyes that see your personal information are the ones you authorize.
+在您的裝置上利用這些程式，確保只有您的授權才能觀看這些個人資訊。
 
 
 ;<a href="{url}">FileVault</a> — a free and built-in way to encrypt your Mac’s startup disk
-<a href="{url}">FileVault</a> — a free and built-in way to encrypt your Mac’s startup disk
+<a href="{url}">FileVault</a>—一種免費、且可以在您的 MAC 啟動磁碟中內建加密。
 
 
 ;Use <a href="{url1}">BitLocker</a> (Windows Pro) or a free program called <a href="{url2}">Diskcryptor</a> (standard Windows versions).
-Use <a href="{url1}">BitLocker</a> (Windows Pro) or a free program called <a href="{url2}">Diskcryptor</a> (standard Windows versions).
+利用 <a href="{url1}">BitLocker</a>（Windows 專業版）或是免費的 <a href="{url2}">Diskcryptor</a>（Windows 標準版）。
 
 
 ;Full-disk encryption is usually offered when you set up your system (it’s called LUKS).
@@ -312,7 +313,7 @@ Use <a href="{url1}">BitLocker</a> (Windows Pro) or a free program called <a hre
 
 
 ;Blast your surveillance smarts
-Blast your surveillance smarts
+擦出監控知識的火花
 
 
 ;Now that you have tools to help protect yourself, spread the word to friends.
@@ -320,22 +321,22 @@ Blast your surveillance smarts
 
 
 ;The only way we’ll get a handle on this fundamental issue of technology is if we keep the conversation going.
-The only way we’ll get a handle on this fundamental issue of technology is if we keep the conversation going.
+可以讓我們處理科技問題的根本方法，就是不斷保持對話。
 
 
 # Will be used as a tweet. Keep it as short as possible.
 ;Which would you be more comfortable sharing with the government: your checking account number or your DNA profile?
-Which would you be more comfortable sharing with the government: your checking account number or your DNA profile?
+透露哪些訊息給政府讓您覺得比較舒適：您的銀行帳戶、還是 DNA 資料？
 
 
 # Will be used as a tweet. Keep it as short as possible.
 ;If you had a digital lockbox that no one could see but you, what would you put in it?
-If you had a digital lockbox that no one could see but you, what would you put in it?
+如果有一個只有您才看得到的數位保險箱，您會想把什麼放進去？
 
 
 # Will be used as a tweet. Keep it as short as possible.
 ;Have you stopped sharing certain things online since you found out about mass government surveillance?
-Have you stopped sharing certain things online since you found out about mass government surveillance?
+自從發現大規模的政府監控後，您有開始不願意分享某些特定事情嗎？
 
 
 # Link points to https://teach.mozilla.org/activities/
