@@ -1,3 +1,5 @@
+## active ##
+## update_may2015 ##
 ## NOTE: http://www-dev.allizom.org/lightbeam
 
 
@@ -84,7 +86,7 @@ Lightbeam برای هر پایگاه اینترنتی یک ثبت رخداد د�
 
 
 ;We’re building this crowd-sourced directory to encourage users to visualize the state of tracking as an aggregate and to examine relationships that exist on the Web.
-We’re building this crowd-sourced directory to encourage users to visualize the state of tracking as an aggregate and to examine relationships that exist on the Web.
+ما در حال ایجاد فهرست راهنما crowd-sourced هستیم تا کاربران را به تجسم دولت از ردیابی آن ها به صورت کلی  تشویق کنیم و روابطی که در وب وجود دارد را جمع و بررسی کنیم.
 
 
 ;Visualize your data
@@ -112,7 +114,7 @@ We’re building this crowd-sourced directory to encourage users to visualize th
 
 
 ;The work at the Ford Foundation focuses on building outreach campaigns to help people understand online data tracking — both the benefits and the issues
-The work at the Ford Foundation focuses on building outreach campaigns to help people understand online data tracking — both the benefits and the issues
+کار در بنیاد فورد بر روی ساخت  کمپین های توسعه برای کمک به مردم در درک آن ها از دنبال کردن اطلاعات آنلاین— و ضررها و فواید آن تمرکز کرده است.
 
 
 ;Learn more
@@ -134,32 +136,32 @@ Lightbeam روابط بین سایت‌هایی که شما بازدید می‌
 
 # New string (May 15) to reflect features that have been removed from the add-on.
 ;Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
-Using two distinct interactive graphic representations — Graph and List — Lightbeam enables you to examine individual third parties, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
+استفاده از دو ارائه گرافیکی متمایز — گراف و لیست— Lightbeam این امکان را به شما می‌دهد تا به صورت انفرادی بتوانید شخص سوم ها رو مورد بررسی قرار دهید،‌همچنین آگاه شوید که آن ها به چه بخشی از فعالیت ای آنلاین شما متصل هستند و راه‌هایی برای داشتن یک دید واحد از وب برای شما فراهم می‌ آورد.
 
 
 # Obsolete string, do not remove
 ;Using three distinct interactive graphic representations — Graph, Clock and List — Lightbeam enables you to examine individual third parties over time and space, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
-Using three distinct interactive graphic representations — Graph, Clock and List — Lightbeam enables you to examine individual third parties over time and space, identify where they connect to your online activity and provides ways for you to engage with this unique view of the Web.
+استفاده از سه ارائه گرافیکی متمایز — گراف،ساعت و لیست— Lightbeam این امکان را به شما می‌دهد تا به صورت انفرادی بتوانید شخص سوم ها رو مورد بررسی قرار دهید،‌همچنین آگاه شوید که آن ها به چه بخشی از فعالیت ای آنلاین شما متصل هستند و راه‌هایی برای داشتن یک دید واحد از وب برای شما فراهم می‌ آورد.
 
 
 ;The default Graph view provides a real time visualization of every site you visit and all third party requests made from your browser.
-The default Graph view provides a real time visualization of every site you visit and all third party requests made from your browser.
+نمایش پیش فرض گراف یک تجسم در لحظه را از هر پایگاه اینترنتی که شما بازدید کرده ‌اید فراهم می‌سازد و تمام درخواست های شخص ثالثی که برای مرورگر شما ایجاد شده است.
 
 
 ;The Graph view also provides adjustable filters that allow you to visualize more types of data at a glance.
-The Graph view also provides adjustable filters that allow you to visualize more types of data at a glance.
+نمای گراف همچنین یک پالایاش قابل تنظیم را فراهم می‌سازد تا به شما امکان تجسم بیشتر انواع داده را در یک نگاه بدهد.
 
 
 ;The List view provides more options for drilling down into individual sites.
-The List view provides more options for drilling down into individual sites.
+نمای لیست امکانات بیشتری را برای وارد شدن به عمق تک تک پایگاه‌های اینترنتی در اختیار شما می‌گذارد.
 
 
 ;Site preferences in the List view enable you to block sites from connecting to your Firefox browser, watch sites you’re interested in or hide sites you don’t want to see visualized.
-Site preferences in the List view enable you to block sites from connecting to your Firefox browser, watch sites you’re interested in or hide sites you don’t want to see visualized.
+ترجیحات پایگاه اینترنتی در نمای لیست این امکان را به شما می‌دهد تا ارتباط پایگاه‌های اینترنتی را از مرورگر فایرفاکس خود مسدود کنید،‌ یا پایگاه اینترنتی مورد علاقه خود را مشاهده کنید یا پایگاه اینترنتی که مایل به دیدن آن نیستید را از تجسم پنهان سازید.
 
 
 ;Lightbeam also offers an information panel that provides additional details about the site you selected and the sites it has connected to.
-Lightbeam also offers an information panel that provides additional details about the site you selected and the sites it has connected to.
+Lightbeam همچنین یک تابلو اطلاعات به شما پیشنهاد می‌دهد که جزئیات بیشتری در مورد پایگاه های اینترنتی که شما انتخاب کرده اید و پایگاه های اینترنتی که به آن متصل است به شما می‌دهد.
 
 
 ;The origins of Lightbeam
@@ -167,23 +169,23 @@ Lightbeam also offers an information panel that provides additional details abou
 
 
 ;Lightbeam began in July 2011 as Collusion, a personal project by Mozilla software developer <a href="%s">Atul Varma</a>.
-Lightbeam began in July 2011 as Collusion, a personal project by Mozilla software developer <a href="%s">Atul Varma</a>.
+Lightbeam در جولای 2011 کار خود را به عنوان یک راز آغاز کرد،‌یک پروژه شخصی توسط توسعه دهنده نرم‌افزار موزیلا <a href="%s">Atul Varma</a>.
 
 
 ;Inspired by the book, <em>The Filter Bubble</em>, Atul created an experimental add-on to visualize browsing behavior and data collection on the Web.
-Inspired by the book, <em>The Filter Bubble</em>, Atul created an experimental add-on to visualize browsing behavior and data collection on the Web.
+Atul با الهام گرفتن از کتاب <em> The Filter Bubble</em> افزونه آزمایشی را برای نمایش رفتارهای مرورکردن و ذخیره اطلاعات بر روی وب ایجاد کرد.
 
 
 ;In February 2012, Gary Kovacs, Mozilla CEO at the time, introduced the Collusion add-on in a <a href="%s">TED talk</a> (now one of the most watched TED talks of all time) about exposing online tracking.
-In February 2012, Gary Kovacs, Mozilla CEO at the time, introduced the Collusion add-on in a <a href="%s">TED talk</a> (now one of the most watched TED talks of all time) about exposing online tracking.
+در فوریه2012،Gary Kovacs CEO موزیلا در آن زمان،‌ این افزونه پنهانی را در <a href="%s">سخنرانیTED</a> ( اکنون یکی از پر بازدید ترین سخنرانی های دیده شده درTED د) در مورد دنبال کردن آنلاین افشا کرد.
 
 
 ;In September 2012, Mozilla joined forces with faculty and student researchers at <a href="%s">Emily Carr University of Art + Design</a> to develop and implement visualizations for the add-on.
-In September 2012, Mozilla joined forces with faculty and student researchers at <a href="%s">Emily Carr University of Art + Design</a> to develop and implement visualizations for the add-on.
+در سپتامبر 2012  موزیلا به دانشکده و دانشجویان محقق در <a href="%s">Emily Carr University of Art + Design</a> پیوست تا با همکاری با آن ها  توسعه و پیاده سازی تصویرسازی این افزونه را انجام دهد.
 
 
 ;With the support of the Ford Foundation and the Natural Sciences and Engineering Research Council (NSERC), Collusion has been re-imagined as Lightbeam and was launched in the fall of 2013.
-With the support of the Ford Foundation and the Natural Sciences and Engineering Research Council (NSERC), Collusion has been re-imagined as Lightbeam and was launched in the fall of 2013.
+با پشتیبانی بنیاد فورد و شورا علوم طبیعی و تحقیقات مهندسی (NSERC)،‌ این راز مجددا تصور شد و در پاییز سال 2013 راه اندازی شد.
 
 
 ;To read more about the collaboration, please visit <a href="{url}">{url}</a>
@@ -191,7 +193,7 @@ With the support of the Ford Foundation and the Natural Sciences and Engineering
 
 
 ;Policy and the larger tracking narrative
-Policy and the larger tracking narrative
+سیاست و روایت ردیابی بزرگتر
 
 
 ;At Mozilla, we believe that everyone should have the tools to make their own decisions about their online privacy and who collects data on them.
@@ -199,11 +201,11 @@ Policy and the larger tracking narrative
 
 
 ;With the Lightbeam add-on, we are providing a valuable (and open) community research platform that aims to raise awareness, promote analysis and, ultimately, affect policy change in the areas of tracking and privacy.
-With the Lightbeam add-on, we are providing a valuable (and open) community research platform that aims to raise awareness, promote analysis and, ultimately, affect policy change in the areas of tracking and privacy.
+با افزونه Lightbeam،‌ ما پلتفرم تحقیقاتی را برای جامعه ( و باز) را فراهم آورده ایم برای بالا بردن سطح آگاهی،‌و  ترویج تجزیه و تحلیل و در نهایت تاثیر در تغییر سیاست ها در حوزه های دنبال کردن و حریم شخصی.
 
 
 ;Lightbeam is one step in a larger, concerted effort by Mozilla and its partners to provide Web users with greater control and transparency of their personal data.
-Lightbeam is one step in a larger, concerted effort by Mozilla and its partners to provide Web users with greater control and transparency of their personal data.
+Lightbeam یک قدم بزرگ است برای تلاشی هماهنگ توسط موزیلا و شریکان آن این امکان را برای کاربران وب برای در دست گرفتن بهتر و شفاف اطلاعات شخصی خود فراهم آوردند.
 
 
 ;Learn more about online tracking and privacy
@@ -211,7 +213,7 @@ Lightbeam is one step in a larger, concerted effort by Mozilla and its partners 
 
 
 ;The <a href="%s">Mozilla Foundation</a> is a non-profit organization that promotes the values of an open Web to the broader world. The larger Mozilla community sees the growing relevance of online privacy and is supporting several initiatives that tackle the issue in various ways.
-The <a href="%s">Mozilla Foundation</a> is a non-profit organization that promotes the values of an open Web to the broader world. The larger Mozilla community sees the growing relevance of online privacy and is supporting several initiatives that tackle the issue in various ways.
+<a href="%s">بنیاد موزیلا</a> یک بنیاد غیرانتفاعی است که ارزش های آزاد اینترنت را به مرزهای دنیا ارائه می‌کند،‌ بزرگتریم اجتماع در حال رشد موزیلا در خصوص حریم آنلاین و حمایت از طرح های مختلف برای مقابله با این مسئله از طریق راه های مختلف.
 
 
 ;Data formats in Lightbeam
@@ -225,7 +227,7 @@ The <a href="%s">Mozilla Foundation</a> is a non-profit organization that promot
 
 # Obsolete string, do not remove
 ;Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam and to see details of the data that is uploaded if you opt in to contribute data.
-Visit our <a href="%s">documentation on Github</a> to learn more about the file formats used in Lightbeam and to see details of the data that is uploaded if you opt in to contribute data.
+<a href="%s"> مستندات ما را در گیتهاب</a>  برای اطلاعات بیشتر در مورد قالب پرونده ها استفاده در Lightbeam بازدید کنید و جزئیات اطلاعاتی که بارگذاری می‌کنید در صورتی که انتخاب کرده اید مشارکت کننده اطلاعات باشید، مشاهده کنید.
 
 
 ;Partners of Lightbeam
@@ -237,10 +239,10 @@ Visit our <a href="%s">documentation on Github</a> to learn more about the file 
 
 
 ;They provide support for companies and institutions devoted to strengthening democratic values, reducing poverty and social injustice, supporting human achievement and fostering international co-operation.
-They provide support for companies and institutions devoted to strengthening democratic values, reducing poverty and social injustice, supporting human achievement and fostering international co-operation.
+آن ها پشتیبانی از شرکت‌ها و صنایع به دست آورده‌اند که قدرت این ارزش های دموکراتیک را حمایت می‌کند،‌ کاهش فقر و بی عدالتی های اجتماعی ،‌ پشتیبانی از دست‌ آورد های انسانی و پروش همکاری های بین‌المللی.
 
 
 ;The <a href="%s">Social + Interactive Media (SIM) Centre</a> at Emily Carr University of Art + Design supports a wide range of projects in design and media, giving companies direct access to the innovative thinking, design skills and research expertise of British Columbia’s most creative faculty and students.
-The <a href="%s">Social + Interactive Media (SIM) Centre</a> at Emily Carr University of Art + Design supports a wide range of projects in design and media, giving companies direct access to the innovative thinking, design skills and research expertise of British Columbia’s most creative faculty and students.
+مرکز <a href="%s"> جامعه + رسانه‌های تعاملی (SIM)</a> در Emily Carr University of Art + Design  پشتیبانی گسترده‌ای را از پروژه های طراحی و رسانه  انجام می‌دهد،  و به شرکت ها دسترسی مستقیم به  ابتکارات و ایده ها و همچنین مهارت های طراحی و محققان حرفه ای اعضا هیئت علمی و دانشجویان خلاق بریتیش کلمبیا را می‌دهد.
 
 
