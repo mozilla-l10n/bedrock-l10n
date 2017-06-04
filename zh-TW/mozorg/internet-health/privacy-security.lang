@@ -50,12 +50,12 @@ Decentralization
 
 # This is a navigation link
 ;Cyber Security
-Cyber Security
+網路安全
 
 
 # This is a navigation link
 ;Government Surveillance
-Government Surveillance
+政府大規模監控
 
 
 ;User Control: Deciding who can collect your data
@@ -63,20 +63,20 @@ Government Surveillance
 
 
 ;We should all be able to choose – with clarity and confidence – what information we share with what companies, understanding the tradeoffs we’re making when we do.
-We should all be able to choose – with clarity and confidence – what information we share with what companies, understanding the tradeoffs we’re making when we do.
+我們應該都有能力選擇—而且清楚明瞭—我們分享什麼資訊給哪些單位，瞭解我們做的選擇會帶來哪些相對應的權衡。
 
 
 ;Right now, we all lack meaningful choice online – privacy policies are often miles long and hard to read, we don’t understand what information we’re sharing or when, and opting out is seldom on the menu.
-Right now, we all lack meaningful choice online – privacy policies are often miles long and hard to read, we don’t understand what information we’re sharing or when, and opting out is seldom on the menu.
+現在我們在線上都缺乏有意義的選擇－隱私政策猶如萬里路一般冗長難讀，我們並不真正瞭解我們到底分享了什麼樣的資訊出去，甚至也很少在隱私政策頁看到退出的選擇鍵。
 
 
 ;91% of adults agree that consumers have lost control of how personal information is collected and used by companies.
-91% of adults agree that consumers have lost control of how personal information is collected and used by companies.
+91% 的消費者都同意他們失去個人資訊被公司蒐集及利用的選擇權。
 
 
 # Pew Research Center is an organization
 ;Source: <a href="%(pew)s" rel="external">Pew Research Center</a>, May 2015
-Source: <a href="%(pew)s" rel="external">Pew Research Center</a>, May 2015
+來源：<a href="%(pew)s" rel="external">Pew Research Center</a>, May 2015
 
 
 # This is used as a decorative element in a callout box.
@@ -122,11 +122,11 @@ Source: <a href="%(pew)s" rel="external">Pew Research Center</a>, May 2015
 
 
 ;Creating supportive products
-Creating supportive products
+製造可利用的產品
 
 
 ;Walking the talk with our own products, with features like the Forget Button, and <a href="%(focus)s">Firefox Focus</a>, our private browser for iOS.
-Walking the talk with our own products, with features like the Forget Button, and <a href="%(focus)s">Firefox Focus</a>, our private browser for iOS.
+多了解 Mozilla 的特色產品，像是 Forget Button、<a href="%(focus)s"> Firefox Focus </a> 還有 iOS 的隱私瀏覽器。
 
 
 ;Educating the industry
@@ -138,11 +138,11 @@ Encouraging and educating the industry about <a href="%(leandata)s">lean data pr
 
 
 ;Cyber Security: Locking down your sensitive information
-Cyber Security: Locking down your sensitive information
+網路安全：保護您的個人隱私訊息
 
 
 ;We should all have the ability to protect our online identity.
-We should all have the ability to protect our online identity.
+我們都應該要有能力保護自己在網路上的身份。
 
 
 ;At this point, it feels like we’ve all been victims of a cyberattack somewhere, somehow. Data breaches can lay bare the passwords of millions of people, often going undiscovered for years. Which means your identity may be at risk of theft without you even knowing it.
@@ -159,7 +159,7 @@ Source: Wikipedia, <a href="%(wiki)s" rel="external">List of data breaches</a>, 
 
 # This is an abbreviation for the number "1 billion" used as decoration in a callout box. Make it short.
 ;1B
-1B
+1B {ok}
 
 
 ;What you can do about cyber security
@@ -167,11 +167,11 @@ What you can do about cyber security
 
 
 ;Choose strong passwords
-Choose strong passwords
+使用更有力的密碼組合
 
 
 ;<a href="%(strongpass)s" rel="external">Choose strong, unique pins and passwords</a>, and use a <a href="%(passmanager)s" rel="external">password manager</a>. (Note: we haven’t tried them all – see what works for you.)
-<a href="%(strongpass)s" rel="external">Choose strong, unique pins and passwords</a>, and use a <a href="%(passmanager)s" rel="external">password manager</a>. (Note: we haven’t tried them all – see what works for you.)
+<a href="%(strongpass)s" rel="external">選擇更強力、獨一無二的 Pin 碼及密碼</a>，以及利用<a href="%(passmanager)s" rel="external">密碼管理員</a>。（備註：雖然我們並沒有使用全部的東西—但你可以看看哪些比較適合你。）
 
 
 ;Use 2-factor authentication
@@ -221,11 +221,11 @@ Source: <a href="%(cigi)s" rel="external"><abbr title="Centre for International 
 
 # This is used as a decorative element in a callout box.
 ;38%
-38%
+38% {ok}
 
 
 ;What you can do about government surveillance
-What you can do about government surveillance
+關於政府監控你可以做些什麼
 
 
 ;Encrypt your data

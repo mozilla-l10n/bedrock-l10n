@@ -3,12 +3,12 @@
 
 # Used as HTML title of the page
 ;Decentralization: Vital to Internet Health
-Decentralization: Vital to Internet Health
+Decentralizace: Životně důležité pro zdraví na internetu
 
 
 # Used as HTML description of the page
 ;A decentralized internet, owned by all of us, is where net neutrality, interoperability, competition, and local contribution thrive.
-A decentralized internet, owned by all of us, is where net neutrality, interoperability, competition, and local contribution thrive.
+Decentralizovaný internet, vlastněný námi všemi, je tam, kde prospívá neutralita sítě, interoperabilita, konkurence a místní příspěvek.
 
 
 ;Privacy &amp; Security
@@ -73,7 +73,7 @@ Nikdo by neměl mít právo omezovat náš přístup k Internetu pro osobní zis
 
 
 ;We rely on network providers – telcos and cable companies – for access to the Internet. Which puts them in a position to restrict that access for their own business objectives, favoring their own products, blocking sites or brands, or charging different prices and offering different speeds depending on content type. Net neutrality prohibits network providers from discriminating based on content, so everyone has equal access.
-We rely on network providers – telcos and cable companies – for access to the Internet. Which puts them in a position to restrict that access for their own business objectives, favoring their own products, blocking sites or brands, or charging different prices and offering different speeds depending on content type. Net neutrality prohibits network providers from discriminating based on content, so everyone has equal access.
+Pro přístup k internetu spoléháme na poskytovatele sítí – operátory a kabelové společnosti. To jim dává postavení omezit tento přístup pro jejich vlastní obchodní účely, pro zvýhodnění jejich produktů, blokování stránek nebo značek, či účtování rozdílných cen a poskytování rozdílných rychlostí podle druhu obsahu. Síťová neutralita zakazuje internetovým poskytovatelům omezovat obsah, takže všichni mají stejný přístup.
 
 
 ;As of December 2016, 47 countries currently have laws in place to protect Net Neutrality.
@@ -81,7 +81,7 @@ K prosinci roku 2016 má 47 států zákony pro ochranu Síťové Neutrality.
 
 
 ;Source: <a href="%(accessnow)s">Access Now</a>
-Source: <a href="%(accessnow)s">Access Now</a>
+Zdroj: <a href="%(accessnow)s">Access Now</a>
 
 
 # String obsolete. Do NOT remove
@@ -95,15 +95,15 @@ Zdroj: <a href="%(wwwf)s">Access Now</a>, 2015
 
 
 ;How you can support net neutrality
-How you can support net neutrality
+Jak můžete podpořit síťovou neutralitu
 
 
 ;Keep speaking up
-Keep speaking up
+Pokračujte v rozhovorech
 
 
 ;The fight for net neutrality continues all over the world. The rules that have been adopted in the US and Europe need to be defended and enforced. Reach out to your government official wherever you live, and express your support.
-The fight for net neutrality continues all over the world. The rules that have been adopted in the US and Europe need to be defended and enforced. Reach out to your government official wherever you live, and express your support.
+Boj za síťovou neutralitu pokračuje po celém světě. Pravidla, která byla přijata ve Spojených státech a v Evropě musí být zachována a uplatňována. Kontaktujte vašeho místního vládního zástupce a vyjádřete vaši podporu.
 
 
 ;How Mozilla is supporting net neutrality
@@ -111,11 +111,11 @@ Jak Mozilla podporuje Síťovou Neutralitu
 
 
 ;Advocating policy change
-Advocating policy change
+Obhajuje změny pravidel
 
 
 ;Working directly with legislative bodies to craft policy frameworks for and meaningful enforcement of net neutrality in the <a href="%(usa)s">United States</a>, <a href="%(europe)s">Europe</a>, <a href="%(india)s">India</a>, and all over the world.
-Working directly with legislative bodies to craft policy frameworks for and meaningful enforcement of net neutrality in the <a href="%(usa)s">United States</a>, <a href="%(europe)s">Europe</a>, <a href="%(india)s">India</a>, and all over the world.
+Pracujeme přímo s legislativními orgány pro vytvoření pravidel, která budou smysluplným způsobem uplatňovat síťovou neutralitu ve <a href="%(usa)s">Spojených státech</a>, v <a href="%(europe)s">Evropě</a>, <a href="%(india)s">Indii</a> a po celém světě.
 
 
 ;Building community
@@ -123,19 +123,19 @@ Budování komunity
 
 
 ;Fostering a global community of passionate Internet users who share our vision.
-Fostering a global community of passionate Internet users who share our vision.
+Podporujeme globální komunitu vášnivých internetových uživatelů, kteří sdílí naši vizi.
 
 
 ;Decentralization means Interoperability
-Decentralization means Interoperability
+Decentralizace znamená Interoperabilita
 
 
 ;The Web should remain open and interoperable, so we can keep our experience consistent, transparent, and full of possibility.
-The Web should remain open and interoperable, so we can keep our experience consistent, transparent, and full of possibility.
+Web by měl zůstat otevřený a interoperabilní, aby mohl být zachován jednotný, transparentní prožitek plný možností.
 
 
 ;Interoperability is a big word with a simple result: your Web experience is basically the same across browsers, hardware, and operating systems because it was designed that way – and built with the open standards to support it. Open standards also allow anyone to invent new ways to make your Web experience better. But interoperability is losing ground to closed systems – and we’re losing transparency, participation, and innovation along with it.
-Interoperability is a big word with a simple result: your Web experience is basically the same across browsers, hardware, and operating systems because it was designed that way – and built with the open standards to support it. Open standards also allow anyone to invent new ways to make your Web experience better. But interoperability is losing ground to closed systems – and we’re losing transparency, participation, and innovation along with it.
+Interoperabilita je velké slovo s jednoduchým významem: váš webový prožitek je stejný ve všech prohlížečích, na všech zařízeních a operačních systémech, protože tak byl navržen – a postaven na základě otevřených standardů. Ty také umožňují komukoliv vymyslet nové cesty, jak vylepšit váš prožitek z prohlížení webu. Avšak interoperabilita ztrácí podporu ve prospěch uzavřených systémů - a tím i transparentnost, možnost zapojit se a inovaci.
 
 
 ;73% of Internet users have seen someone harassed online and 40% have personally experienced it.
@@ -152,19 +152,19 @@ Zdroj: <a href="%(pew)s">Pew Research</a>, 2014
 
 
 ;How you can support interoperability
-How you can support interoperability
+Jak můžete pomoci interoperabilitě
 
 
 ;Go independent
-Go independent
+Buďte nezávislí
 
 
 ;Innovation can still come from anywhere – especially if we support it. Try out apps and products from companies you don’t already know.
-Innovation can still come from anywhere – especially if we support it. Try out apps and products from companies you don’t already know.
+Novinka může přijít stále odkudkoliv – zvláště, když ji podporujeme. Vyzkoušejte aplikace a produkty z firem, které dosud neznáte.
 
 
 ;How Mozilla is supporting interoperability
-How Mozilla is supporting interoperability
+Jak Mozilla podporuje spolupráci
 
 
 ;Setting the standards
@@ -176,7 +176,7 @@ Working with and even leading open standards bodies, like <a href="%(ietf)s">IET
 
 
 ;Walking the talk
-Walking the talk
+Jde příkladem
 
 
 ;Building interoperability into our own products, and empowering web developers through initiatives like the <a href="%(mdn)s">Mozilla Developer Network</a>.
@@ -184,7 +184,7 @@ Building interoperability into our own products, and empowering web developers t
 
 
 ;Decentralization means Competition and Choice
-Decentralization means Competition and Choice
+Decentralizace znamená konkurence a volba
 
 
 ;The Internet should continue to foster healthy competition among companies, opportunity for entrepreneurs, and meaningful choices for users.
@@ -221,11 +221,11 @@ Make sure you understand the tradeoffs of that seamless online experience before
 
 
 ;How Mozilla is influencing competition and choice
-How Mozilla is influencing competition and choice
+Jak Mozilla ovlivňuje konkurenci a volbu
 
 
 ;Opposing gatekeeper power
-Opposing gatekeeper power
+Brání velkým, aby byli ještě větší
 
 
 ;<a href="%(netpolicy)s">Advocating</a> for net neutrality, copyright reform, and other issues all over the world.
@@ -233,7 +233,7 @@ Opposing gatekeeper power
 
 
 ;Championing openness
-Championing openness
+Podpora otevřenosti
 
 
 ;Building with <a href="%(standards)s">open standards</a> and open source in our own products, and <a href="%(mpl)s">supporting openness</a> at every opportunity.
@@ -249,7 +249,7 @@ We should all be able to contribute to the Web, so it reflects and serves all of
 
 
 ;Today 3 billion people all over the world use the Internet to learn, work, play, and connect. But not everyone is able to contribute to it equally. Which means the Web doesn’t reflect the full diversity of its users, doesn’t work as well for some people as others, and can even marginalize certain communities and individuals.
-Today 3 billion people all over the world use the Internet to learn, work, play, and connect. But not everyone is able to contribute to it equally. Which means the Web doesn’t reflect the full diversity of its users, doesn’t work as well for some people as others, and can even marginalize certain communities and individuals.
+3 miliardy lidí na celém světě se dnes pomocí internetu učí, pracují, hrají a připojují se. Ale ne každý je schopen k tomu přispět stejně. Což znamená, že web neodráží všechnu rozmanitost svých uživatelů, nefunguje stejně pro všechny a může dokonce omezovat určité komunity a jednotlivce.
 
 
 ;Chinese, Spanish, Arabic and Portuguese speaking internet users make up 37.5% of the total online population, but only 11% of the Web is in their language.
@@ -270,7 +270,7 @@ How you can support local contribution
 
 
 ;Start making
-Start making
+Začněte tvořit
 
 
 ;Try your hand at creating Web content you care about, in your language. <a href="%(thimble)s">Thimble</a> is a great way to start.
@@ -278,11 +278,11 @@ Try your hand at creating Web content you care about, in your language. <a href=
 
 
 ;How Mozilla is supporting local contribution
-How Mozilla is supporting local contribution
+Jak Mozilla podporuje místní zapojení
 
 
 ;Teaching makers
-Teaching makers
+Vyučující
 
 
 ;Providing the <a href="%(tools)s">tools</a> and <a href="%(teaching)s">teaching</a> to foster the next generation of Web creators.
@@ -290,7 +290,7 @@ Providing the <a href="%(tools)s">tools</a> and <a href="%(teaching)s">teaching<
 
 
 ;Teaching localization
-Teaching localization
+Výuka lokalizace
 
 
 ;Providing the <a href="%(l10n)s">blueprint for localization</a>, so Web content can be made relevant for people in different languages and locales.
