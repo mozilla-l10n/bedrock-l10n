@@ -56,7 +56,7 @@ GitHub, the world’s largest open source community, includes 19 million develop
 
 
 ;Source: <a href="%(github)s">GitHub</a>
-Source: <a href="%(github)s">GitHub</a>
+Vir: <a href="%(github)s">GitHub</a>
 
 
 # This is used as a decorative element in a callout box. Keep it short.
@@ -121,7 +121,7 @@ There are now an estimated 1 billion Creative Commons-licensed works online that
 
 
 ;Source: <a href="%(cc)s">Creative Commons</a>, 2015
-Source: <a href="%(cc)s">Creative Commons</a>, 2015
+Vir: <a href="%(cc)s">Creative Commons</a>, 2015
 
 
 # This is used as a decorative element in a callout box. Keep it short.
