@@ -3,28 +3,28 @@
 
 # Used as HTML title of the page
 ;Open Innovation: Vital to Internet Health
-Open Innovation: Vital to Internet Health
+Öppna innovationer: Viktig för Internethälsa
 
 
 # Used as HTML description of the page
 ;Open Innovation means innovating collectively through shared ideas and open source code.
-Open Innovation means innovating collectively through shared ideas and open source code.
+Öppna innovationer innebär att kollektivt förnya gemensamma idéer och öppen källkod.
 
 
 ;A healthy Internet is open for innovation
-A healthy Internet is open for innovation
+Ett hälsosamt Internet är öppen för innovationer
 
 
 ;The Internet was built on the promise that any one of us might create the next big thing. But in order to keep creating, imagining, and reinventing our future online, the building blocks of the Web must be open to all. And together, we need to make sure the policies and laws that govern those building blocks are fair and functional.
-The Internet was built on the promise that any one of us might create the next big thing. But in order to keep creating, imagining, and reinventing our future online, the building blocks of the Web must be open to all. And together, we need to make sure the policies and laws that govern those building blocks are fair and functional.
+Internet har utvecklats med löftet att vem som helst kan skapa nästa stora grej. Men för att fortsätta skapa Internet för att uppfinna och definiera vår framtid, måste byggstenarna i Internet vara öppna för alla. Och tillsammans måste vi se till att de lagar och regler som styr dessa byggstenar är rättvisa och funktionella.
 
 
 ;A healthy Internet is created by you.
-A healthy Internet is created by you.
+Ett hälsosamt Internet skapas av dig.
 
 
 ;Here are three areas where we can make a difference.
-Here are three areas where we can make a difference.
+Här är tre områden där vi kan göra skillnad.
 
 
 ;Support Open Source
@@ -32,27 +32,27 @@ Stöd öppen källkod
 
 
 ;Engage in Copyright Reform
-Engage in Copyright Reform
+Delta i upphovsrättsreform
 
 
 ;Influence Patent Policy
-Influence Patent Policy
+Påverka patentpolitiken
 
 
 ;Open Source: Keeping the building blocks of the Web open for creativity
-Open Source: Keeping the building blocks of the Web open for creativity
+Öppen källakod: Håll byggstenarna i Internet öppna för kreativitet
 
 
 ;Open source should continue to be the heart of the Internet, so we can all see, verify, and contribute to its future.
-Open source should continue to be the heart of the Internet, so we can all see, verify, and contribute to its future.
+Öppen källkod bör fortsätta att vara hjärtat av Internet, så vi kan alla se, granska och bidra till dess framtid.
 
 
 ;Open source software – technology built with code that is open for view, use, and modification – is the engine that powers a huge amount of the Internet, from servers to operating systems to the bots that fetch your search results. It’s the infrastructure that makes the Web a truly public resource: transparent, trustworthy, and collaborative, so that anyone with an idea can contribute. But much like our IRL infrastructure, we have to commit the attention and resources to maintain it.
-Open source software – technology built with code that is open for view, use, and modification – is the engine that powers a huge amount of the Internet, from servers to operating systems to the bots that fetch your search results. It’s the infrastructure that makes the Web a truly public resource: transparent, trustworthy, and collaborative, so that anyone with an idea can contribute. But much like our IRL infrastructure, we have to commit the attention and resources to maintain it.
+Öppen källkod - teknik vars källkod kan ses, användas och ändras av vem som helst - är en viktig drivkraft för Internet, oavsett server eller operativsystem eller robotar som hämtar dina sökresultat. Det är den infrastruktur som verkligen gör webben till en allmän resurs: transparent, pålitlig och samverka så att alla kan bidra med sina idéer. Men mycket som vår IRL-infrastruktur, vi måste ägna uppmärksamhet och resurser för att behålla den.
 
 
 ;GitHub, the world’s largest open source community, includes 19 million developers, 100,000 teams, and 52 million repositories for established and developing technologies.
-GitHub, the world’s largest open source community, includes 19 million developers, 100,000 teams, and 52 million repositories for established and developing technologies.
+GitHub, världens största gemenskap med öppen källkod, omfattar 19 miljoner utvecklare, 100 000 lag och 52 miljoner kataloger för etablerade och nya teknologier.
 
 
 ;Source: <a href="%(github)s">GitHub</a>
@@ -65,7 +65,7 @@ Källa: <a href="%(github)s">GitHub</a>
 
 
 ;How you can support open source
-Hur du kan stödja öppen källkod
+Hur kan du stödja öppen källkod
 
 
 ;Contribute to a project
@@ -73,7 +73,7 @@ Delta i ett projekt
 
 
 ;Contribute to an existing open source project. Become a <a href="%(contribute)s">Mozillian!</a> Or use <a href="%(open_hatch)s">OpenHatch</a> to match your skillset to a project.
-Contribute to an existing open source project. Become a <a href="%(contribute)s">Mozillian!</a> Or use <a href="%(open_hatch)s">OpenHatch</a> to match your skillset to a project.
+Bidra till ett befintligt projekt med öppen källkod. Bli en <a href="%(contribute)s">Mozillian!</a> Eller använd <a href="%(open_hatch)s">OpenHatch</a> för att matcha din kompetens till ett projekt.
 
 
 ;Create something new
@@ -81,15 +81,15 @@ Skapa något nytt
 
 
 ;Not sure where to start? Try our <a href="%(toolkit)s">Open Innovation Toolkit</a>.
-Not sure where to start? Try our <a href="%(toolkit)s">Open Innovation Toolkit</a>.
+Är du inte säker på var du ska börja? Prova vår <a href="%(toolkit)s">Öppna innovationsverktyg</a>.
 
 
 ;How Mozilla is supporting open source
-Hur Mozilla stöder öppen källkod
+Hur stöder Mozilla öppen källkod
 
 
 ;Contributing to the ecosystem
-Contributing to the ecosystem
+Bidra till ekosystemet
 
 
 ;Contributing directly to the open source ecosystem through our products, build systems, and back end systems, and fostering community through the <a href="%(mdn)s">Mozilla Developer Network</a>.

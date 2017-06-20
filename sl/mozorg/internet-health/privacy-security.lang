@@ -196,7 +196,7 @@ Just four in 10 (38%) of internet users trust that their activities on the inter
 
 # Centre for International Governance Innovation is an organization.
 ;Source: <a href="%(cigi)s" rel="external"><abbr title="Centre for International Governance Innovation">CIGI</abbr>-Ipsos, 2016</a>
-Source: <a href="%(cigi)s" rel="external"><abbr title="Centre for International Governance Innovation">CIGI</abbr>-Ipsos, 2016</a>
+Vir: <a href="%(cigi)s" rel="external"><abbr title="Centre for International Governance Innovation">CIGI</abbr>-Ipsos, 2016</a>
 
 
 # This is used as a decorative element in a callout box.
@@ -205,7 +205,7 @@ Source: <a href="%(cigi)s" rel="external"><abbr title="Centre for International 
 
 
 ;What you can do about government surveillance
-What you can do about government surveillance
+Kaj lahko ukrenete glede vladnega nadzora
 
 
 ;Encrypt your data
@@ -254,6 +254,6 @@ Hungry for more?
 
 
 ;Keep reading about Privacy and Security in our <a href="%(healthreport)s">Internet Health Report</a>.
-Keep reading about Privacy and Security in our <a href="%(healthreport)s">Internet Health Report</a>.
+Preberite več o zasebnosti in varnosti v našem <a href="%(healthreport)s">poročilu o zdravju interneta</a>.
 
 
