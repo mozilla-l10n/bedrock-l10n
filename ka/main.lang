@@ -147,7 +147,7 @@ Mozilla-ს შესახებ
 
 
 ;Privacy Policy
-პრივატულობის პოლიტიკა
+პირადი მონაცემების დაცვის დებულება
 
 
 ;Release Notes
@@ -296,7 +296,7 @@ Firefox მობილურისთვის
 
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
 ;Privacy
-კონფიდენციალობა
+პირადულობა
 
 
 # New footer string
@@ -444,7 +444,7 @@ Firefox Facebook-ზე
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-თქვენი, თქვენი კონფიდენციაულურობის და ღია ინტერნეტის ერთგული
+თქვენი, თქვენი პირადი მონაცემების დაცულობის და გახსნილი ინტერნეტის ერთგული.
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -583,7 +583,7 @@ HTML {ok}
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-ვეთანხმები, რომ Mozilla ჩემ ინფორმაციას ისე გამოიყენებს, როგორც ახსნილია <a href="%s">ამ კონფიდენციალურობის უწყებაში</a>
+თანახმა ვარ, რომ Mozilla-მ ჩემი მონაცემები გამოიყენოს, <a href="%s">პირადულობის დაცვის დებულების</a> შესაბამისად
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -612,7 +612,7 @@ Firefox სიახლეთა გამოწერა
 
 
 ;Select country
-შეარჩიეთ ქვეყანა
+ქვეყნის არჩევა
 
 
 ;Available Languages
@@ -620,7 +620,7 @@ Firefox სიახლეთა გამოწერა
 
 
 ;We will only send you Mozilla-related information.
-გამოგეგზავნებათ მხოლოდ Mozilla-სთან დაკავშირებული ინფორმაცია.
+მიიღებთ მხოლოდ Mozilla-სთან დაკავშირებულ ინფორმაციას.
 
 
 ;Thanks!
@@ -632,7 +632,7 @@ Firefox სიახლეთა გამოწერა
 
 
 ;Read all about it in our <span>newsletter</span>
-გაეცანით სიახლეებს <span>ჩვენი დაიჯესტიდან</span>
+გაეცანით სიახლეებს <span>ჩვენი წერილებიდან</span>
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!

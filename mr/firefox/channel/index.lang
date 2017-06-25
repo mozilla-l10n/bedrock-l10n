@@ -1,3 +1,7 @@
+## active ##
+## android_nightly_copy ##
+## firefox_title_meta_bug1345338 ##
+## firefox_title_meta_bug1357373 ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
@@ -153,19 +157,19 @@ Nightly ब्लॉग
 # HTML page description, on the iOS page only.
 # Don't translate TestFlight
 ;Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
-Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
+iOS साठी प्रकाशन पूर्व ब्राउझर व्हाया Apple’s TestFlight कार्यक्रमामध्ये नवीनतम सुविधांचा अनुभव घ्या. आत्ताच प्रस्थापित करा!
 
 
 # String is obsolete. Do not remove.
 # HTML page description
 # Don't translate TestFlight
 ;Test beta versions of Firefox for iOS via Apple’s TestFlight program and help make our mobile browser for iPhone, iPad and iPod touch even better.
-Test beta versions of Firefox for iOS via Apple’s TestFlight program and help make our mobile browser for iPhone, iPad and iPod touch even better.
+iOS साठी Firefox व्हाया Apple’s TestFlight कार्यक्रमामधून बेटा आवृत्त्या तपासुन पहा आणि iPhone, iPad आणि iPod टच साठी आमचा मोबाइल ब्राउझर अधिक चांगलं बनवण्यासाठी मदत करा.
 
 
 # Don't translate TestFlight
 ;Test beta versions of Firefox for iOS via Apple’s TestFlight program.
-Test beta versions of Firefox for iOS via Apple’s TestFlight program.
+iOS साठी Firefox व्हाया Apple’s TestFlight कार्यक्रमामधून बेटा आवृत्त्या तपासुन पहा.
 
 
 ;Sign up now

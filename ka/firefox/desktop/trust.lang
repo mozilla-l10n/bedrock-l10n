@@ -6,7 +6,7 @@
 
 # <title> tag
 ;Firefox — Designed to protect your privacy — The most trusted browser on the Web
-Firefox — თქვენი კონფიდენციალურობისთვის შექმნილი — ყველაზე სანდო ბრაუზერი ინტერნეტში
+Firefox — შექმნილი თქვენი პირადი მონაცემების დასაცავად — ყველაზე სანდო ბრაუზერი ინტერნეტში
 
 
 # main title
@@ -33,11 +33,11 @@ Firefox-ს იმისთვის ვქმნით, რომ პირვ�
 
 # The span tags are for presentational purpose
 ;<span id="trust-line1">Most trusted</span> <span id="trust-line2">internet company</span> <span id="trust-line3">for privacy</span>
-<span id="trust-line1">ყველაზე სანდო</span> <span id="trust-line2">ინტერნეტ-კომპანია</span> <span id="trust-line3">კონფიდენციალურობისთვის</span>
+<span id="trust-line1">ყველაზე სანდო</span> <span id="trust-line2">ინტერნეტ-კომპანია</span> <span id="trust-line3">პირადი მონაცემების უსაფრთხოებაში</span>
 
 
 ;Designed to protect your privacy
-თქვენი კონფიდენციალორბისთვის შექმნილი
+თქვენი პირადი მონაცემების დასაცავად შექმნილი
 
 
 ;We believe your personal information belongs only to you.<br class="wide-br">
@@ -45,7 +45,7 @@ Firefox-ს იმისთვის ვქმნით, რომ პირვ�
 
 
 ;That’s why Firefox is filled with features to ensure that’s the case.
-სწორად ამიტომ Firefox სავსეა თქვენი კონფიდენციალურობის დაცვისთვის საჭირო ფუნქციებით.
+სწორედ ამიტომ, Firefox სავსეა თქვენი პირადი მონაცემების დაცვის შესაძლებლობებით.
 
 
 ;Private Browsing with<br> Tracking Protection
@@ -53,7 +53,7 @@ Firefox-ს იმისთვის ვქმნით, რომ პირვ�
 
 
 ;Browse without having your history, searches or cookies saved, and block hidden third parties from following you across the Web.
-ისერფინგეთ თქვენი ისტორიის, ძიებების და ფუნთუშების შეუნახავად და დაბლოკეთ მალული მესამე მხარეები, რომლებიც ინტერნეტში დაგყვებიან.
+მოინახულეთ გვერდები თქვენი ისტორიის, ძიებების და ფუნთუშების შენახვის გარეშე და შეზღუდეთ მესამე მხარის ელემენტები, რომლებიც მალულად თვალს გადევნებენ.
 
 
 ;Learn more about Private Browsing
@@ -67,7 +67,7 @@ Firefox-ს იმისთვის ვქმნით, რომ პირვ�
 
 
 ;Remove browsing information from your computer after the fact.
-წაშალეთ ვებ-სერფინგის ისტორია თქვენი კომპიუტერიდან მისი დასრულების შემდეგ.
+წაშალეთ მონახულებული გვერდების ისტორია თქვენი კომპიუტერიდან მისი დასრულების შემდეგ.
 
 
 ;Use it when you’ve visited a site that you don’t want in your history.
@@ -83,7 +83,7 @@ Firefox-ს იმისთვის ვქმნით, რომ პირვ�
 
 
 ;The Lightbeam add-on exposes the first and third party sites you interact with as you browse.
-Lightbeam დამატება ააშკარავებს პირველი და მესამე მხრის საიტებს, რომელთანაც ვებ-სერფინგის დროს ურთიერთქმედებთ.
+Lightbeam დამატება ააშკარავებს პირველ და მესამე მხარის საიტებს, რომელთაც გვერდების მონახულებისას უკავშირდებით.
 
 
 ;Shine a light on the Web with Lightbeam
@@ -182,7 +182,7 @@ Firefox-ის ინოვაცია, "უარი თვალთვალ�
 
 # Obsolete string, do not remove
 ;Turn this feature on to protect your browsing history from others.
-ჩართეთ ეს ფუნქცია, რათა თქვენი ვებ-სერფინგის ისტორია სხვებისგან დაიცვათ.
+ჩართეთ ეს ფუნქცია, თქვენს მიერ მონახულებული გვერდების ისტორიის სხვებისგან დასაცავად.
 
 
 # Obsolete string, do not remove
