@@ -38,7 +38,7 @@ iOS {ok}
 
 
 ;Take our latest experimental features for a spin and shape the future of Firefox.
-Take our latest experimental features for a spin and shape the future of Firefox.
+የእኛን ፈጣን የባህርይ ባህሪያትን ለማጥመድ እና የፋየርፎክስን የወደፊት ሁኔታ ቅርፅ ይውሰዱ
 
 
 ;Learn more about Test Pilot
@@ -58,13 +58,13 @@ Take our latest experimental features for a spin and shape the future of Firefox
 
 # HTML Description, on the Android page only.
 ;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta and Firefox Nightly. Install now!
-Experience cutting-edge features in a pre-release browser for Android: Firefox Beta and Firefox Nightly. Install now!
+ለአንሮይድ በቅድመ-የተለቀቀ አሳሽ ውስጥ ማራኪ ገጽታዎችን ይለማመዱ:  ፋየርፎክስ ቤታ እና ፋየርፎክስ ናይትሊ ::  አሁን ይጫኑ!
 
 
 # String is obsolete. Do not remove.
 # HTML Description, on the Android page only.
 ;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
-Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
+ለአንሮይድ በቅድመ-የተለቀቀ አሳሽ ውስጥ ማራኪ ገጽታዎችን ይለማመዱ: ፋየርፎክስ ቤታ እና ፋየርፎክስ ኦሮራ እና ፋየርፎክስ ናይትሊ:: አሁን ይጫኑ!
 
 
 # String is obsolete. Do not remove.
@@ -147,7 +147,7 @@ Check out new Android features in their earliest stages. Enjoy at your own risk.
 
 # HTML page title, on the iOS page only.
 ;Try New Features in a Pre-Release iOS Browser | Firefox
-Try New Features in a Pre-Release iOS Browser | Firefox
+ቅድመ-መልቀቂያ ውስጥ አዲስ ባህሪያት ይሞክሩ iOS አሳሽ | ፋየርፎክ
 
 
 # HTML page description, on the iOS page only.
