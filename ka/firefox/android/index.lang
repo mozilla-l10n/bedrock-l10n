@@ -9,7 +9,7 @@
 # String is obsolete.  Do not remove.
 # HTML page title
 ;Firefox for Android — Mobile Web browser — More ways to customize and protect your privacy
-Firefox Android-ისთვის — მობილური ვებ-ბრაუზერი — მეტი შესაძლებლობები მორგებასა და პირადი მონაცემების დაცვაში
+Firefox Android-ზე — მობილური ვებ-ბრაუზერი — მეტი შესაძლებლობები მორგებასა და პირადი მონაცემების დაცვაში
 
 
 # HTML page description
@@ -25,7 +25,7 @@ Firefox Android-ისთვის — მობილური ვებ-ბრ
 
 # alt text for image (hard-coded image needs to be fixed)
 ;Firefox for Android
-Firefox Android-ისთვის
+Firefox Android-ზე
 
 
 ;We make it Firefox.
@@ -45,7 +45,7 @@ Firefox Android-ისთვის
 
 
 ;Our most customizable Firefox for Android yet.
-ყველაზე მოქნილი Firefox Android-ისთვის დღესდღეობით.
+ყველაზე მოქნილი Firefox Android-ზე დღესდღეობით.
 
 
 ;Download on Google Play
@@ -152,7 +152,7 @@ Firefox Android-ისთვის
 
 
 ;Firefox for Android is filled with features to help keep it that way.
-Firefox Android-ისთვის სავსეა ფუნქციებით, რომელიც ამის მიღწევაში დაგეხმარებათ.
+Firefox Android-ზე სავსეა ფუნქციებით, რომელიც ამის მიღწევაში დაგეხმარებათ.
 
 
 ;Private Browsing with<br> Tracking Protection
@@ -172,93 +172,93 @@ Firefox Android-ისთვის სავსეა ფუნქციებ�
 
 
 ;Delete your browsing history, passwords and more in a single tap.
-Delete your browsing history, passwords and more in a single tap.
+წაშალეთ თქვენი დათვალიერების ისტორია, პაროლები და ა.შ. მხოლოდ ერთი შეხებით.
 
 
 ;Choose the private data you want to remove whenever you need to do so.
-Choose the private data you want to remove whenever you need to do so.
+აირჩიეთ, რა სახის პირადი მონაცემები გსურთ წაიშალოს, როცა დაგჭირდებათ.
 
 
 ;Learn how to clear your history
-Learn how to clear your history
+გაიგეთ, როგორ უნდა გაასუფთავოთ ისტორია
 
 
 ;Guest browsing
-Guest browsing
+სტუმრის რეჟიმი
 
 
 ;Share your browser with friends and family without worrying that you’ll see each other’s online activity.
-Share your browser with friends and family without worrying that you’ll see each other’s online activity.
+გაუზიარეთ თქვენი ბრაუზერი მეგობრებსა და ოჯახის წევრებს და ნუ იღელვებთ იმაზე, რომ ერთმანეთის მოქმედებებს იხილავთ.
 
 
 ;Learn how to share your browser
-Learn how to share your browser
+გაიგეთ, თუ როგორ უნდა გაუზიაროთ ბრაუზერი სხვებს
 
 
 ;See how Guest Browsing works
-See how Guest Browsing works
+ნახეთ, როგორ მუშაობს სტუმრის რეჟიმი
 
 
 ;Don’t leave home without being in Sync
-Don’t leave home without being in Sync
+არ დატოვოთ სახლი, დასინქრონების გარეშე
 
 
 ;Bring your passwords, bookmarks, open tabs and more everywhere you go.
-Bring your passwords, bookmarks, open tabs and more everywhere you go.
+წაიყოლეთ თან პაროლები, სანიშნეები, გახსნილი ტაბები და ა.შ. სადაც არ უნდა მიდიოდეთ.
 
 
 ;Use Sync on your smartphone or tablet to access whatever you need from your desktop &mdash; and vice versa &mdash; without having to remember URLs.
-Use Sync on your smartphone or tablet to access whatever you need from your desktop &mdash; and vice versa &mdash; without having to remember URLs.
+გამოიყენეთ სინქრონიზაცია თქვენს ტელეფონსა და პლანშეტზე, ნიმისმიერ მონაცემთან წვდომის მისაღებად კომპიუტერიდან და პირიქით, URLs ბმულების დამახსოვრების გარეშე.
 
 
 ;Learn more about Sync
-Learn more about Sync
+გაიგეთ მეტი სინქრონიზაციის შესახებ
 
 
 ;Choose Firefox
-Choose Firefox
+აირჩიეთ Firefox
 
 
 ;Supported devices
-Supported devices
+მხარდაჭერილი მოწყობილობები
 
 
 ;Release notes
-Release notes
+ვერსიის მონაცემები
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;Do not track
-Do not track
+არ მითვალთვალო
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
-Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+ჩართეთ Firefox-ის ეს ინოვაცია, რომლის საშუალებითაც, მუდმივად მიადევნებთ თვალს, თუ როგორ მოხდება თქვენი მონაცემების აღრიცხვა და გამოყენება ინტერნეტში.
 
 
 # Obsolete string, will be removed after the Firefox 42 campaign
 ;Learn more about Do Not Track
-Learn more about Do Not Track
+გაიგეთ მეტი "არ მითვალთვალოს" შესახებ
 
 
 # Obsolete string, do not remove
 ;Private Browsing
-Private Browsing
+პირადი თვალიერება
 
 
 # Obsolete string, do not remove
 ;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+მისი ჩართვისას, Firefox Android-ზე არ მიიღებს ფუნთუშებს, არ დაიმახსოვრებს პაროლებს და არ შეინახავს, თქვენ მიერ მონახულებულ საიტებს.
 
 
 # Obsolete string, do not remove
 ;Learn how to open a private window
-Learn how to open a private window
+გაიგეთ, თუ როგორ უნდა გახსნათ პირადი ფანჯარა
 
 
 # Obsolete string, do not remove
 ;See how Private Browsing works
-See how Private Browsing works
+ნახეთ, როგორ მუშაობს პირადი თვალიერების რეჟიმი
 
 
