@@ -1,250 +1,251 @@
+## active ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/features
 
 
 ;Protect your privacy and browse faster with Firefox features
-Protect your privacy and browse faster with Firefox features
+Firefox özellikleriyle gizliliğini koru, internette daha hızlı dolaş
 
 
 ;You’re in control with Firefox’s easy-to-use features that protect your privacy and browsing speeds.
-You’re in control with Firefox’s easy-to-use features that protect your privacy and browsing speeds.
+Firefox’un gizliliğini koruyan ve gezinti hızını artıran, kullanımı kolay özellikleriyle kontrol hep sende.
 
 
 ;Firefox features
-Firefox features
+Firefox özellikleri
 
 
 ;Modern
-Modern
+Modern {ok}
 
 
 ;Your favorite add-ons and extensions
-Your favorite add-ons and extensions
+En sevdiğin eklentiler ve uzantılar
 
 
 # These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
 ;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass and thousands more.
+Adblock, Ublock, LastPass ve daha binlercesi.
 
 
 # Links to https://addons.mozilla.org/firefox
 ;Get powerful add-ons
-Get powerful add-ons
+Güçlü eklentileri kullan
 
 
 ;Customize your browser
-Customize your browser
+Tarayıcını özelleştirin
 
 
 ;Personalize Firefox with everything from themes to privacy tools.
-Personalize Firefox with everything from themes to privacy tools.
+Temalardan gizlilik araçlarına kadar her şeyle Firefox’u kişiselleştirebilirsin.
 
 
 # Link to https://addons.mozilla.org/firefox/themes
 ;Make Firefox yours
-Make Firefox yours
+Kendi Firefox’unu yap
 
 
 ;Browse faster
-Browse faster
+Daha hızlı dolaş
 
 
 ;Start faster, tab hop quicker, get more done.
-Start faster, tab hop quicker, get more done.
+Daha hızlı açılır, sekmeler arasında daha çabuk dolaşırsın, az zamanda çok iş yaparsın.
 
 
 # Link to /firefox/features/fast
 ;Do more with Firefox
-Do more with Firefox
+Firefox’la daha çok iş yap
 
 
 ;Sync between devices
-Sync between devices
+Farklı cihazları eşitle
 
 
 ;Get your tabs, logins and history on the go.
-Get your tabs, logins and history on the go.
+Sekmelerini, hesaplarını ve geçmişini yanında taşı.
 
 
 # Link to https://www-demo5.allizom.org/firefox/sync/
 ;Use Firefox everywhere
-Use Firefox everywhere
+Firefox’u her yerde kullan
 
 
 ;Firefox for Android
-Firefox for Android
+Android için Firefox
 
 
 ;Our most customizable Firefox for Android yet.
-Our most customizable Firefox for Android yet.
+Android için şimdiye dek yaptığımız en özelleştirilebilir Firefox.
 
 
 # Link to /firefox/android
 ;Take control of your browser
-Take control of your browser
+Tarayıcının kontrolünü eline al
 
 
 ;Firefox for iOS
-Firefox for iOS
+iOS için Firefox
 
 
 ;The speed you need. The privacy you trust.
-The speed you need. The privacy you trust.
+Beklediğin hız, güvendiğin gizlilik.
 
 
 # Link to /firefox/ios
 ;Go beyond the default
-Go beyond the default
+Varsayılanın ötesine geç
 
 
 ;Firefox Test Pilot
-Firefox Test Pilot
+Firefox Test Pilotu
 
 
 ;Experimental features that can simplify your life.
-Experimental features that can simplify your life.
+Hayatını (belki) kolaylaştıracak deneysel özellikler.
 
 
 # Link to https://testpilot.firefox.com
 ;Help launch new features
-Help launch new features
+Yeni özellikleri denememize yardım et
 
 
 ;Balanced memory usage
-Balanced memory usage
+Dengeli bellek tüketimi
 
 
 ;Browse smoothly and leave plenty of memory for your computer programs.
-Browse smoothly and leave plenty of memory for your computer programs.
+İnternette sorunsuzca dolaşırken diğer programlara da yetecek kadar bellek (RAM) bırakıyoruz.
 
 
 # Link to /firefox/features/memory
 ;Speed up your computer
-Speed up your computer
+Bilgisayarını hızlandır
 
 
 ;Better bookmarks
-Better bookmarks
+Daha iyi yer imleri
 
 
 ;Quickly save and organize your favorite sites.
-Quickly save and organize your favorite sites.
+Sevdiğin siteleri hızlıca kaydet ve düzenle.
 
 
 # Link to /firefox/features/bookmarks
 ;Customize your bookmarks
-Customize your bookmarks
+Yer imlerini kişiselleştir
 
 
 ;Privacy
-Privacy
+Gizlilik
 
 
 ;Ad tracker blocking
-Ad tracker blocking
+Reklam takipçisi engelleme
 
 
 ;Firefox Private Browsing blocks ads with trackers.
-Firefox Private Browsing blocks ads with trackers.
+Firefox’un Gizli Gezinti özelliği, seni takip eden reklamları engeller.
 
 
 # Link to /firefox/features/private-browsing
 ;Block ad trackers
-Block ad trackers
+Reklam takipçilerini engelle
 
 
 ;More powerful Private Browsing
-More powerful Private Browsing
+Daha güçlü Gizli Gezinti
 
 
 # Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
 ;More protection than Incognito mode or InPrivate.
-More protection than Incognito mode or InPrivate.
+Chrome’un gizli modundan, Edge’in InPrivate’ından daha fazla koruma.
 
 
 # Link to /firefox/features/private-browsing
 ;Get better privacy
-Get better privacy
+Gizliliğini koru
 
 
 ;More private
-More private
+Daha gizli
 
 
 ;We don’t sell access to your online data. Period.
-We don’t sell access to your online data. Period.
+Bize teslim ettiğin verileri asla satmıyoruz. Nokta.
 
 
 # Link to /firefox/features/private-browsing
 ;Get Firefox for privacy
-Get Firefox for privacy
+Gizlilik için Firefox’u indir
 
 
 ;Limited data collection
-Limited data collection
+Kısıtlı veri toplama
 
 
 ;Opted-in to privacy, so you can browse freely.
-Opted-in to privacy, so you can browse freely.
+Özgürce dolaş diye sana sormadan veri toplamıyoruz.
 
 
 # Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
 ;Read our privacy policy
-Read our privacy policy
+Gizlilik ilkelerimizi oku
 
 
 ;Password Manager
-Password Manager
+Parola Yöneticisi
 
 
 ;Forget the reset. Save passwords and logins quickly.
-Forget the reset. Save passwords and logins quickly.
+Parola sıfırlamayla uğraşma. Parolalarını ve hesaplarını hızlıca kaydet.
 
 
 # Link to /firefox/features/password-manager
 ;Easily manage your logins
-Easily manage your logins
+Hesap bilgilerini kolayca yönet
 
 
 ;Independence
-Independence
+Bağımsızlık
 
 
 ;By non-profit, Mozilla
-By non-profit, Mozilla
+Kâr amacı gütmeyen Mozilla’dan
 
 
 ;Protecting the health of the internet.
-Protecting the health of the internet.
+İnternetin sağlığını koruyoruz.
 
 
 # https://www.mozilla.org/mission/
 ;Read Mozilla’s mission
-Read Mozilla’s mission
+Mozilla misyonunu oku
 
 
 ;Open source
-Open source
+Açık kaynaklı
 
 
 ;We’re always transparent.
-We’re always transparent.
+Hep şeffafız.
 
 
 # Link to /firefox/features/independent
 ;See what makes us different
-See what makes us different
+Bizi farklı yapan şeyleri gör
 
 
 ;Protect your rights
-Protect your rights
+Haklarını koruyoruz
 
 
 ;We help keep corporate powers in check.
-We help keep corporate powers in check.
+Kurumsal güçleri kontrol altında tutuyoruz.
 
 
 # Link to /firefox/features/independent
 ;Choose independence
-Choose independence
+Bağımsızlığı seç
 
 
