@@ -2,7 +2,7 @@
 
 
 ;Protect your privacy and browse faster with Firefox features
-Protect your privacy and browse faster with Firefox features
+Značilnosti Firefoxa – zaščitite svojo zasebnost in brskajte hitreje
 
 
 ;You’re in control with Firefox’s easy-to-use features that protect your privacy and browsing speeds.
@@ -10,29 +10,29 @@ You’re in control with Firefox’s easy-to-use features that protect your priv
 
 
 ;Firefox features
-Firefox features
+Značilnosti Firefoxa
 
 
 ;Modern
-Modern
+Sodoben
 
 
 ;Your favorite add-ons and extensions
-Your favorite add-ons and extensions
+Vaši priljubljeni dodatki in razširitve
 
 
 # These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
 ;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass and thousands more.
+Adblock, Ublock, LastPass in mnogo drugih.
 
 
 # Links to https://addons.mozilla.org/firefox
 ;Get powerful add-ons
-Get powerful add-ons
+Prenesite odlične dodatke
 
 
 ;Customize your browser
-Customize your browser
+Prilagodite svoj brskalnik
 
 
 ;Personalize Firefox with everything from themes to privacy tools.
@@ -41,11 +41,11 @@ Personalize Firefox with everything from themes to privacy tools.
 
 # Link to https://addons.mozilla.org/firefox/themes
 ;Make Firefox yours
-Make Firefox yours
+Naredite Firefox res svoj
 
 
 ;Browse faster
-Browse faster
+Brskajte hitreje
 
 
 ;Start faster, tab hop quicker, get more done.
@@ -54,63 +54,63 @@ Start faster, tab hop quicker, get more done.
 
 # Link to /firefox/features/fast
 ;Do more with Firefox
-Do more with Firefox
+Opravite več s Firefoxom
 
 
 ;Sync between devices
-Sync between devices
+Sinhronizirajte med napravami
 
 
 ;Get your tabs, logins and history on the go.
-Get your tabs, logins and history on the go.
+Vzemite svoje zavihke, prijave in zgodovino na pot.
 
 
 # Link to https://www-demo5.allizom.org/firefox/sync/
 ;Use Firefox everywhere
-Use Firefox everywhere
+Uporabljajte Firefox povsod
 
 
 ;Firefox for Android
-Firefox for Android
+Firefox za Android
 
 
 ;Our most customizable Firefox for Android yet.
-Our most customizable Firefox for Android yet.
+Najbolj prilagodljiv Firefox za Android doslej.
 
 
 # Link to /firefox/android
 ;Take control of your browser
-Take control of your browser
+Prevzemite nadzor nad svojim brskalnikom
 
 
 ;Firefox for iOS
-Firefox for iOS
+Firefox za iOS
 
 
 ;The speed you need. The privacy you trust.
-The speed you need. The privacy you trust.
+Hitrost, ki jo potrebujete. Zasebnost, ki ji zaupate.
 
 
 # Link to /firefox/ios
 ;Go beyond the default
-Go beyond the default
+Presezite privzeto
 
 
 ;Firefox Test Pilot
-Firefox Test Pilot
+Firefox Test Pilot {ok}
 
 
 ;Experimental features that can simplify your life.
-Experimental features that can simplify your life.
+Poskusne možnosti, ki lahko poenostavijo vaše življenje.
 
 
 # Link to https://testpilot.firefox.com
 ;Help launch new features
-Help launch new features
+Pomagajte nam izdati nove možnosti
 
 
 ;Balanced memory usage
-Balanced memory usage
+Uravnotežena poraba pomnilnika
 
 
 ;Browse smoothly and leave plenty of memory for your computer programs.
@@ -119,32 +119,32 @@ Browse smoothly and leave plenty of memory for your computer programs.
 
 # Link to /firefox/features/memory
 ;Speed up your computer
-Speed up your computer
+Pohitrite svoj računalnik
 
 
 ;Better bookmarks
-Better bookmarks
+Boljši zaznamki
 
 
 ;Quickly save and organize your favorite sites.
-Quickly save and organize your favorite sites.
+Hitro shranite in organizirajte svoje priljubljene strani.
 
 
 # Link to /firefox/features/bookmarks
 ;Customize your bookmarks
-Customize your bookmarks
+Prilagodite svoje zaznamke
 
 
 ;Privacy
-Privacy
+Zasebnost
 
 
 ;Ad tracker blocking
-Ad tracker blocking
+Blokiranje oglaševalskih sledilcev
 
 
 ;Firefox Private Browsing blocks ads with trackers.
-Firefox Private Browsing blocks ads with trackers.
+Firefoxovo zasebno brskanje zavrača oglase s sledilci.
 
 
 # Link to /firefox/features/private-browsing
@@ -153,12 +153,12 @@ Block ad trackers
 
 
 ;More powerful Private Browsing
-More powerful Private Browsing
+Zmogljivejše zasebno brskanje
 
 
 # Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
 ;More protection than Incognito mode or InPrivate.
-More protection than Incognito mode or InPrivate.
+Več zaščite kot način brez beleženja zgodovine ali InPrivate.
 
 
 # Link to /firefox/features/private-browsing
@@ -167,11 +167,11 @@ Get better privacy
 
 
 ;More private
-More private
+Več zasebnosti
 
 
 ;We don’t sell access to your online data. Period.
-We don’t sell access to your online data. Period.
+Ne prodajamo dostopa do vaših podatkov. Pika.
 
 
 # Link to /firefox/features/private-browsing
@@ -180,7 +180,7 @@ Get Firefox for privacy
 
 
 ;Limited data collection
-Limited data collection
+Omejeno zbiranje podatkov
 
 
 ;Opted-in to privacy, so you can browse freely.
@@ -189,62 +189,62 @@ Opted-in to privacy, so you can browse freely.
 
 # Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
 ;Read our privacy policy
-Read our privacy policy
+Preberite naš pravilnik o zasebnosti
 
 
 ;Password Manager
-Password Manager
+Upravitelj gesel
 
 
 ;Forget the reset. Save passwords and logins quickly.
-Forget the reset. Save passwords and logins quickly.
+Pozabite ponastavitev gesla. Raje jih shranite v brskalnik.
 
 
 # Link to /firefox/features/password-manager
 ;Easily manage your logins
-Easily manage your logins
+Enostavno upravljajte svoje prijave
 
 
 ;Independence
-Independence
+Neodvisnost
 
 
 ;By non-profit, Mozilla
-By non-profit, Mozilla
+Izpod rok Mozille, neprofitne organizacije
 
 
 ;Protecting the health of the internet.
-Protecting the health of the internet.
+Varujemo zdravje interneta.
 
 
 # https://www.mozilla.org/mission/
 ;Read Mozilla’s mission
-Read Mozilla’s mission
+Preberite Mozillino poslanstvo
 
 
 ;Open source
-Open source
+Odprta koda
 
 
 ;We’re always transparent.
-We’re always transparent.
+Vedno smo odkriti.
 
 
 # Link to /firefox/features/independent
 ;See what makes us different
-See what makes us different
+Poglejte, kaj nas dela drugačne
 
 
 ;Protect your rights
-Protect your rights
+Zaščitite svoje pravice
 
 
 ;We help keep corporate powers in check.
-We help keep corporate powers in check.
+Moči korporacij pomagamo držati v šahu.
 
 
 # Link to /firefox/features/independent
 ;Choose independence
-Choose independence
+Izberite neodvisnost
 
 
