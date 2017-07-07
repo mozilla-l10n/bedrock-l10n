@@ -1,4 +1,5 @@
 ## active ##
+## emerging_tech_links ##
 ## NOTE: Demo server is available at https://www-dev.allizom.org/technology
 
 
@@ -28,11 +29,11 @@ Explore o A-Frame
 
 
 ;Learn about WebVR
-Learn about WebVR
+Saiba mais sobre WebVR
 
 
 ;Visit A-Frame blog
-Visit A-Frame blog
+Visite o blog do A-Frame
 
 
 ;Visit the blog
@@ -48,7 +49,7 @@ Com tecnologias Web poderosas, iniciadas pela Mozilla, os desenvolvedores estão
 
 
 ;See what’s new
-See what’s new
+Veja as novidades
 
 
 # Obsolete string, do not remove
@@ -57,7 +58,7 @@ Veja algumas demonstrações
 
 
 ;Meet WebAssembly
-Meet WebAssembly
+Conheça o WebAssembly
 
 
 ;Start building
@@ -101,11 +102,11 @@ Inventando uma linguagem de programação mais segura
 
 
 ;Sponsored by Mozilla, Rust allows browsers, systems and more to run much faster and more safely.
-Sponsored by Mozilla, Rust allows browsers, systems and more to run much faster and more safely.
+Mantido pela Mozilla, o Rust permite que navegadores, sistemas e outros sejam mais rápidos e seguros.
 
 
 ;Learn about Rust
-Learn about Rust
+Saiba mais sobre Rust
 
 
 # Obsolete string, do not remove

@@ -2,6 +2,7 @@
 ## android_nightly_copy ##
 ## firefox_title_meta_bug1345338 ##
 ## firefox_title_meta_bug1357373 ##
+## nightly_description_bug1375100 ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
@@ -138,7 +139,7 @@ Confira as novas funcionalidades do Android na sua fase inicial. Desfrute por su
 
 
 ;Get a sneak peek at our next generation web browser, and help us make it the best browser it can be: try Firefox Nightly.
-Get a sneak peek at our next generation web browser, and help us make it the best browser it can be: try Firefox Nightly.
+Dê uma olhada na nossa próxima geração de navegador e ajude-nos a torná-lo o melhor navegador que ele pode ser: experimente o Firefox Nightly.
 
 
 # String is obsolete. Do NOT remove.
