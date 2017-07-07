@@ -1,250 +1,251 @@
+## active ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/features
 
 
 ;Protect your privacy and browse faster with Firefox features
-Protect your privacy and browse faster with Firefox features
+Schütze Daten und surfe noch schneller – dank der Firefox Features
 
 
 ;You’re in control with Firefox’s easy-to-use features that protect your privacy and browsing speeds.
-You’re in control with Firefox’s easy-to-use features that protect your privacy and browsing speeds.
+Du behälst bei Firefox die Kontrolle – mit den Features für Privatsphäre und schnelleres Surfen.
 
 
 ;Firefox features
-Firefox features
+Firefox Features
 
 
 ;Modern
-Modern
+Mehr Möglichkeiten
 
 
 ;Your favorite add-ons and extensions
-Your favorite add-ons and extensions
+Erweiterungen und Add-ons
 
 
 # These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
 ;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass and thousands more.
+Entdecke eine Welt voller Möglichkeiten: Adblock, Ublock, LastPass …
 
 
 # Links to https://addons.mozilla.org/firefox
 ;Get powerful add-ons
-Get powerful add-ons
+Hole Dir unsere Add-ons
 
 
 ;Customize your browser
-Customize your browser
+Flexibel an Wünsche anpassen
 
 
 ;Personalize Firefox with everything from themes to privacy tools.
-Personalize Firefox with everything from themes to privacy tools.
+Alles da – von unzähligen Themes bis zu den ganzen Tools für Deine Privatsphäre.
 
 
 # Link to https://addons.mozilla.org/firefox/themes
 ;Make Firefox yours
-Make Firefox yours
+Personalisiere Firefox
 
 
 ;Browse faster
-Browse faster
+Schneller surfen
 
 
 ;Start faster, tab hop quicker, get more done.
-Start faster, tab hop quicker, get more done.
+Schneller loslegen, schneller Tabs wechseln, mehr erledigen.
 
 
 # Link to /firefox/features/fast
 ;Do more with Firefox
-Do more with Firefox
+Erreiche mehr mit Firefox
 
 
 ;Sync between devices
-Sync between devices
+Synchron auf allen Geräten
 
 
 ;Get your tabs, logins and history on the go.
-Get your tabs, logins and history on the go.
+Deine Tabs, Log-ins und Chronik alles schön synchron zum Mitnehmen.
 
 
 # Link to https://www-demo5.allizom.org/firefox/sync/
 ;Use Firefox everywhere
-Use Firefox everywhere
+Nutze Firefox von überall
 
 
 ;Firefox for Android
-Firefox for Android
+Firefox für Android
 
 
 ;Our most customizable Firefox for Android yet.
-Our most customizable Firefox for Android yet.
+Unser bislang flexibelster Browser. Für Android.
 
 
 # Link to /firefox/android
 ;Take control of your browser
-Take control of your browser
+Genieße das Plus an Freiheit
 
 
 ;Firefox for iOS
-Firefox for iOS
+Firefox für iOS
 
 
 ;The speed you need. The privacy you trust.
-The speed you need. The privacy you trust.
+Einfach genial: Wenn Privatsphäre auf Geschwindigkeit trifft.
 
 
 # Link to /firefox/ios
 ;Go beyond the default
-Go beyond the default
+Überzeuge Dich selbst
 
 
 ;Firefox Test Pilot
-Firefox Test Pilot
+Werde Firefox Testpilot
 
 
 ;Experimental features that can simplify your life.
-Experimental features that can simplify your life.
+Unterstütze die Entwicklung neuer Features, die unser Leben erleichtern.
 
 
 # Link to https://testpilot.firefox.com
 ;Help launch new features
-Help launch new features
+Steige bei uns ein
 
 
 ;Balanced memory usage
-Balanced memory usage
+Dein Speicher freut sich
 
 
 ;Browse smoothly and leave plenty of memory for your computer programs.
-Browse smoothly and leave plenty of memory for your computer programs.
+Schön geschmeidig surfen, damit Deine anderen Programme genügend Luft haben.
 
 
 # Link to /firefox/features/memory
 ;Speed up your computer
-Speed up your computer
+Mache Deinen Rechner schneller
 
 
 ;Better bookmarks
-Better bookmarks
+Lesezeichen easy im Griff
 
 
 ;Quickly save and organize your favorite sites.
-Quickly save and organize your favorite sites.
+Ordnung und Liebe: Deine Lesezeichen so wie Du sie schon immer haben wolltest.
 
 
 # Link to /firefox/features/bookmarks
 ;Customize your bookmarks
-Customize your bookmarks
+Organisiere Deine Lesezeichen
 
 
 ;Privacy
-Privacy
+Mehr Datenschutz
 
 
 ;Ad tracker blocking
-Ad tracker blocking
+Werbe-Tracker geblockt
 
 
 ;Firefox Private Browsing blocks ads with trackers.
-Firefox Private Browsing blocks ads with trackers.
+Surfe im Privat Modus, damit Werbe-Tracker automatisch blockiert werden.
 
 
 # Link to /firefox/features/private-browsing
 ;Block ad trackers
-Block ad trackers
+Gib Trackern keine Chance
 
 
 ;More powerful Private Browsing
-More powerful Private Browsing
+Leistungsstarker Privat Modus
 
 
 # Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
 ;More protection than Incognito mode or InPrivate.
-More protection than Incognito mode or InPrivate.
+Für noch mehr Schutz als im Inkognito-Modus oder bei InPrivate.
 
 
 # Link to /firefox/features/private-browsing
 ;Get better privacy
-Get better privacy
+Setze auf stärkeren Schutz
 
 
 ;More private
-More private
+Das Plus an Privatsphäre
 
 
 ;We don’t sell access to your online data. Period.
-We don’t sell access to your online data. Period.
+Wir verkaufen keine Nutzerdaten. Basta.
 
 
 # Link to /firefox/features/private-browsing
 ;Get Firefox for privacy
-Get Firefox for privacy
+Hole Dir das Extra an Privatsphäre
 
 
 ;Limited data collection
-Limited data collection
+Datensparsamkeit
 
 
 ;Opted-in to privacy, so you can browse freely.
-Opted-in to privacy, so you can browse freely.
+Unser Datenschutz immer mit an Bord, damit Du umso freier surfen kannst.
 
 
 # Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
 ;Read our privacy policy
-Read our privacy policy
+Datenschutz bei Mozilla
 
 
 ;Password Manager
-Password Manager
+Der Passwort-Manager
 
 
 ;Forget the reset. Save passwords and logins quickly.
-Forget the reset. Save passwords and logins quickly.
+Passwort vergessen? Vergessen! Mit unserem Passwort-Manager.
 
 
 # Link to /firefox/features/password-manager
 ;Easily manage your logins
-Easily manage your logins
+Schone Dein Gedächtnis
 
 
 ;Independence
-Independence
+Mehr Unabhängigkeit
 
 
 ;By non-profit, Mozilla
-By non-profit, Mozilla
+Non-Profit aus Überzeugung
 
 
 ;Protecting the health of the internet.
-Protecting the health of the internet.
+Wir machen uns für ein gesundes Netz stark.
 
 
 # https://www.mozilla.org/mission/
 ;Read Mozilla’s mission
-Read Mozilla’s mission
+Was uns antreibt
 
 
 ;Open source
-Open source
+Open Source in unserer DNA
 
 
 ;We’re always transparent.
-We’re always transparent.
+Wir sind immer transparent.
 
 
 # Link to /firefox/features/independent
 ;See what makes us different
-See what makes us different
+Was uns unterscheidet
 
 
 ;Protect your rights
-Protect your rights
+Schutz für Deine Rechte
 
 
 ;We help keep corporate powers in check.
-We help keep corporate powers in check.
+Wir stellen uns gegen mächtige Konzerne.
 
 
 # Link to /firefox/features/independent
 ;Choose independence
-Choose independence
+Setze auf Unabhängigkeit
 
 
