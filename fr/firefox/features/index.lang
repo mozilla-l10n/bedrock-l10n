@@ -2,7 +2,7 @@
 
 
 ;Protect your privacy and browse faster with Firefox features
-Protect your privacy and browse faster with Firefox features
+Protégez votre vie privée et naviguez plus rapidement grâce aux fonctionnalités Firefox
 
 
 ;You’re in control with Firefox’s easy-to-use features that protect your privacy and browsing speeds.
@@ -10,15 +10,15 @@ You’re in control with Firefox’s easy-to-use features that protect your priv
 
 
 ;Firefox features
-Firefox features
+Fonctionnalités de Firefox
 
 
 ;Modern
-Modern
+Moderne
 
 
 ;Your favorite add-ons and extensions
-Your favorite add-ons and extensions
+Vos modules et extensions favoris
 
 
 # These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
@@ -28,7 +28,7 @@ Adblock, Ublock, LastPass et beaucoup d’autres.
 
 # Links to https://addons.mozilla.org/firefox
 ;Get powerful add-ons
-Get powerful add-ons
+Obtenez de puissants modules
 
 
 ;Customize your browser
@@ -36,16 +36,16 @@ Customize your browser
 
 
 ;Personalize Firefox with everything from themes to privacy tools.
-Personalize Firefox with everything from themes to privacy tools.
+Tout est là, des thèmes aux outils pour protéger votre vie privée.
 
 
 # Link to https://addons.mozilla.org/firefox/themes
 ;Make Firefox yours
-Make Firefox yours
+Personnalisez Firefox
 
 
 ;Browse faster
-Browse faster
+Naviguez plus rapidement
 
 
 ;Start faster, tab hop quicker, get more done.
@@ -54,76 +54,76 @@ Start faster, tab hop quicker, get more done.
 
 # Link to /firefox/features/fast
 ;Do more with Firefox
-Do more with Firefox
+Faites-en plus avec Firefox
 
 
 ;Sync between devices
-Sync between devices
+Synchronisez vos appareils
 
 
 ;Get your tabs, logins and history on the go.
-Get your tabs, logins and history on the go.
+Emportez vos onglets, vos identifiants et votre historique avec vous.
 
 
 # Link to https://www-demo5.allizom.org/firefox/sync/
 ;Use Firefox everywhere
-Use Firefox everywhere
+Utilisez Firefox partout
 
 
 ;Firefox for Android
-Firefox for Android
+Firefox pour Android
 
 
 ;Our most customizable Firefox for Android yet.
-Our most customizable Firefox for Android yet.
+La version de Firefox pour Android la plus personnalisable à ce jour.
 
 
 # Link to /firefox/android
 ;Take control of your browser
-Take control of your browser
+Prenez le contrôle de votre navigateur
 
 
 ;Firefox for iOS
-Firefox for iOS
+Firefox pour iOS
 
 
 ;The speed you need. The privacy you trust.
-The speed you need. The privacy you trust.
+La vitesse dont vous avez besoin, la confidentialité en plus.
 
 
 # Link to /firefox/ios
 ;Go beyond the default
-Go beyond the default
+Voyez par vous-même
 
 
 ;Firefox Test Pilot
-Firefox Test Pilot
+Firefox Test Pilot {ok}
 
 
 ;Experimental features that can simplify your life.
-Experimental features that can simplify your life.
+Essayez des fonctionnalités expérimentales qui peuvent vous simplifier la vie.
 
 
 # Link to https://testpilot.firefox.com
 ;Help launch new features
-Help launch new features
+Aidez à lancer de nouvelles fonctionnalités
 
 
 ;Balanced memory usage
-Balanced memory usage
+Consommation mémoire équilibrée
 
 
 ;Browse smoothly and leave plenty of memory for your computer programs.
-Browse smoothly and leave plenty of memory for your computer programs.
+Naviguez de manière fluide et laissez davantage de mémoire aux autres programmes de votre ordinateur.
 
 
 # Link to /firefox/features/memory
 ;Speed up your computer
-Speed up your computer
+Accélérez votre ordinateur
 
 
 ;Better bookmarks
-Better bookmarks
+De meilleurs marque-pages
 
 
 ;Quickly save and organize your favorite sites.
@@ -132,15 +132,15 @@ Quickly save and organize your favorite sites.
 
 # Link to /firefox/features/bookmarks
 ;Customize your bookmarks
-Customize your bookmarks
+Personnalisez vos marque-pages
 
 
 ;Privacy
-Privacy
+Vie privée
 
 
 ;Ad tracker blocking
-Ad tracker blocking
+Blocage des traqueurs publicitaires
 
 
 ;Firefox Private Browsing blocks ads with trackers.
@@ -149,7 +149,7 @@ Firefox Private Browsing blocks ads with trackers.
 
 # Link to /firefox/features/private-browsing
 ;Block ad trackers
-Block ad trackers
+Bloquez les traqueurs publicitaires
 
 
 ;More powerful Private Browsing
@@ -158,7 +158,7 @@ More powerful Private Browsing
 
 # Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
 ;More protection than Incognito mode or InPrivate.
-More protection than Incognito mode or InPrivate.
+Une protection supérieure qu’avec les modes incognito ou inPrivate.
 
 
 # Link to /firefox/features/private-browsing
@@ -167,11 +167,11 @@ Get better privacy
 
 
 ;More private
-More private
+Davantage de vie privé
 
 
 ;We don’t sell access to your online data. Period.
-We don’t sell access to your online data. Period.
+Nous ne vendons pas d’accès à vos données en ligne. Point final.
 
 
 # Link to /firefox/features/private-browsing
@@ -180,7 +180,7 @@ Get Firefox for privacy
 
 
 ;Limited data collection
-Limited data collection
+Collecte de données limitée
 
 
 ;Opted-in to privacy, so you can browse freely.
@@ -189,11 +189,11 @@ Opted-in to privacy, so you can browse freely.
 
 # Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
 ;Read our privacy policy
-Read our privacy policy
+Consultez notre politique de confidentialité
 
 
 ;Password Manager
-Password Manager
+Gestionnaire de mots de passe
 
 
 ;Forget the reset. Save passwords and logins quickly.
@@ -202,19 +202,19 @@ Forget the reset. Save passwords and logins quickly.
 
 # Link to /firefox/features/password-manager
 ;Easily manage your logins
-Easily manage your logins
+Gérez facilement vos identifiants
 
 
 ;Independence
-Independence
+Indépendance
 
 
 ;By non-profit, Mozilla
-By non-profit, Mozilla
+Résolument à but non lucratif
 
 
 ;Protecting the health of the internet.
-Protégeant la santé d’internet.
+Nous protégeons la bonne santé d’Internet.
 
 
 # https://www.mozilla.org/mission/
@@ -227,20 +227,20 @@ Open source
 
 
 ;We’re always transparent.
-We’re always transparent.
+Nous sommes toujours transparents.
 
 
 # Link to /firefox/features/independent
 ;See what makes us different
-See what makes us different
+Voyez en quoi nous sommes différents
 
 
 ;Protect your rights
-Protect your rights
+Protégez vos droits
 
 
 ;We help keep corporate powers in check.
-We help keep corporate powers in check.
+Nous aidons à contrecarrer les plans des grandes entreprises.
 
 
 # Link to /firefox/features/independent
