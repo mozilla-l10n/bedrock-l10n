@@ -1,5 +1,8 @@
 ## active ##
+## firefox_new_other_platforms ##
+## firefox_new_pre_release ##
 ## firefox_new_scene_2_headline ##
+## macos_branding ##
 ## NOTE: Used for the new http://www-dev.allizom.org/firefox/new
 
 
@@ -8,12 +11,12 @@
 
 
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
-Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
+ჩამოტვირთეთ Mozilla Firefox, უფასო ვებ-ბრაუზერი. Firefox შექმნილია საერთაშორისო არაკომერციული ორგანიზაციის მიერ, რომელსაც სურს ხალხს დაუბრუნოს, ინტერნეტში თავიანთი ცხოვრების მართვის სადავეები. გადმოწერეთ Firefox Windows-ზე, macOS-ზე, Linux-ზე, Android-სა და iOS-ზე ახლავე!
 
 
 # String is obsolete. Do NOT remove.
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, Mac OS X, Linux, Android and iOS today!
-ჩამოტვირთეთ Mozilla Firefox, უფასო ვებ-ბრაუზერი. Firefox შექმნილია საერთაშორისო არაკომერციული ორგანიზაციის მიერ და მისი მთავარი მიზანი ქსელში ინდივიდების წინა პლანზე დაყენებაა. მიიღეთ Firefox პლაყფორმებზე: Windows, Mac OS X, Linux, Android და iOS დღესვე!
+ჩამოტვირთეთ Mozilla Firefox, უფასო ვებ-ბრაუზერი. Firefox შექმნილია საერთაშორისო არაკომერციული ორგანიზაციის მიერ, რომელსაც სურს ხალხს დაუბრუნოს, ინტერნეტში თავიანთი ცხოვრების მართვის სადავეები. გადმოწერეთ Firefox Windows-ზე, Mac OS X-ზე, Linux-ზე, Android-სა და iOS-ზე ახლავე!
 
 
 ;The last independent browser.
@@ -42,7 +45,7 @@ Download Mozilla Firefox, a free Web browser. Firefox is created by a global non
 
 
 ;You’re using a pre-release version of Firefox.
-You’re using a pre-release version of Firefox.
+თქვენ Firefox-ის წინასწარ ვერსიას იყენებთ.
 
 
 ;Congrats! You’re using the latest version of Firefox.
@@ -78,7 +81,7 @@ You’re using a pre-release version of Firefox.
 
 
 ;Download Firefox for another platform
-Download Firefox for another platform
+ჩამოტვირთეთ Firefox სხვა სისტემისთვის
 
 
 ;Please follow <a href="%(url)s">these instructions</a> to install Firefox.
@@ -110,18 +113,18 @@ Download Firefox for another platform
 
 
 ;Firefox for other platforms
-Firefox for other platforms
+Firefox სხვა სისტემებისთვის
 
 
 ;Download Firefox <span>for Windows</span>
-Download Firefox <span>for Windows</span>
+ჩამოტვირთეთ Firefox <span>Windows</span>-ისთვის
 
 
 ;Download Firefox <span>for macOS</span>
-Download Firefox <span>for macOS</span>
+ჩამოტვირთეთ Firefox <span>macOS</span>-ისთვის
 
 
 ;Download Firefox <span>for Linux</span>
-Download Firefox <span>for Linux</span>
+ჩამოტვირთეთ Firefox <span>Linux</span>-ისთვის
 
 

@@ -2,44 +2,44 @@
 
 
 ;The Mozilla Manifesto
-The Mozilla Manifesto
+Mozilla ძირითადი დებულებები
 
 
 ;These are the principles that guide our mission to promote openness, innovation & opportunity on the Web.
-These are the principles that guide our mission to promote openness, innovation & opportunity on the Web.
+აქ არის მოცემული ის პრინციპები, რომლითაც ვხელმძღვანელობთ ინტერნეტის გახსნილობის შენარჩუნების, სიახლეების დანერგვის და ხელმისაწვდომობის გაზრდის მხარდაჭერისას.
 
 
 ;Share this
-Share this
+გაზიარება
 
 
 # <strong> and </strong> tags are used for presentation purposes, do not translate them
 ;<strong>Our 10</strong> Principles
-<strong>Our 10</strong> Principles
+<strong>ჩვენი 10</strong> პრინციპი
 
 
 ;Previous principle
-Previous principle
+წინა
 
 
 ;Next principle
-Next principle
+შემდეგი
 
 
 ;See more…
-See more…
+იხილეთ მეტი…
 
 
 ;Learn more
-Learn more
+შეიტყვეთ მეტი
 
 
 ;01
-01
+01 {ok}
 
 
 ;The Internet is an integral part of modern life—a key component in education, communication, collaboration, business, entertainment and society as a whole.
-The Internet is an integral part of modern life—a key component in education, communication, collaboration, business, entertainment and society as a whole.
+ინტერნეტი არის თანამედროვე ცხოვრების განუყოფელი ნაწილი — მთავარი შემადგენელია განათლების, ურთიერთობის, თანამშრომლობის, საქმიანობის, გართობისა და მთლიანად საზოგადოებრივი ცხოვრების.
 
 
 ;Use Open Badges to share your skills and interests
@@ -47,11 +47,11 @@ Use Open Badges to share your skills and interests
 
 
 ;Explore how the Web impacts science
-Explore how the Web impacts science
+გაიგეთ, თუ როგორ ზემოქმედებს ინტერნეტი მეცნიერებაზე
 
 
 ;Learn about open source code in journalism
-Learn about open source code in journalism
+შეიტყვეთ მეტი ღია წყაროს კოდზე ჟურნალისტიკაში
 
 
 ;Making to learn in the digital world
@@ -63,36 +63,36 @@ Open Badges
 
 
 ;02
-02
+02 {ok}
 
 
 ;The Internet is a global public resource that must remain open and accessible.
-The Internet is a global public resource that must remain open and accessible.
+ინტერნეტი საერთაშორისო საჯარო რესურსია, რომელიც უნდა დარჩეს გახსნილი და ყველასთვის ხელმისაწვდომი.
 
 
 ;Read about open Internet policy initiatives and developments
-Read about open Internet policy initiatives and developments
+გაეცანით გახსნილი ინტერნეტის შესახებ ინიციატივებს და სამუშაოებს
 
 
 ;Explore how to help keep the Web open
-Explore how to help keep the Web open
+გაიგეთ, თუ როგორ უნდა მიიღოთ მონაწილეობა, ინტერნეტის გახსნილობის შენარჩუნებაში
 
 
 ;Mozilla story
-Mozilla story
+Mozilla-ს ისტორია
 
 
 ;You don’t have to make a case for open. You have to make a case for not open.
-You don’t have to make a case for open. You have to make a case for not open.
+გახსნილობას არ სჭირდებათ მიზეზების მოფიქრება. დასაბუთება იმ მოსაზრებებს სჭირდება, რომელიც ეწინააღმდეგება გახსნილობას.
 
 
 # VP stands for Vice President - do not translate <span> and </span> tags
 ;<span>Johnathan Nightingale,</span> <span>VP Firefox</span>
-<span>Johnathan Nightingale,</span> <span>VP Firefox</span>
+<span>ჯონათან ნაითინგეილი,</span> <span>Firefox ვიცე-პრეზიდენტი</span>
 
 
 ;03
-03
+03 {ok}
 
 
 ;The Internet must enrich the lives of individual human beings.
@@ -327,7 +327,7 @@ The Internet is becoming an increasingly important part of our lives.
 
 
 ;The Mozilla project is a global community of people who believe that openness, innovation, and opportunity are key to the continued health of the Internet. We have worked together since 1998 to ensure that the Internet is developed in a way that benefits everyone. We are best known for creating the Mozilla Firefox web browser.
-The Mozilla project is a global community of people who believe that openness, innovation, and opportunity are key to the continued health of the Internet. We have worked together since 1998 to ensure that the Internet is developed in a way that benefits everyone. We are best known for creating the Mozilla Firefox web browser.
+Mozilla პროექტი არის საერთაშორისო ერთობა იმ ადამიანების, რომელთაც სჯერათ, რომ გახსნილობა, ინოვაციები და შესაძლებლობები არის გასაღები, ინტერნეტის მომავლის და სიჯანსაღის. ჩვენ ერთად ვმუშაობთ 1998 წლიდან, რომ უზრუნველვყოთ ინტერნეტის განვითარება იმ გზით, რომელიც თითეულ ადამიანს მოუტანს სარგებელს. ჩვენ ყველაზე მეტად ცნობილი ვართ, როგორც Mozilla Firefox ბრაუზერის შემქმნელები.
 
 
 ;The Mozilla project uses a community-based approach to create world-class open source software and to develop new types of collaborative activities. We create communities of people involved in making the Internet experience better for all of us.

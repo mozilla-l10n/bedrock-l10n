@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/features
 
 
@@ -6,7 +7,7 @@ Védje a magánszféráját, és böngésszen gyorsan a Firefox funkcióival
 
 
 ;You’re in control with Firefox’s easy-to-use features that protect your privacy and browsing speeds.
-You’re in control with Firefox’s easy-to-use features that protect your privacy and browsing speeds.
+Öné az irányítás a Firefox könnyen használható funkcióival, amelyek védik a magánszféráját és a böngészési sebességét.
 
 
 ;Firefox features
@@ -62,7 +63,7 @@ Szinkronizáljon az eszközök közt
 
 
 ;Get your tabs, logins and history on the go.
-Get your tabs, logins and history on the go.
+Vigye magával a lapjait, bejelentkezéseit és előzményeit.
 
 
 # Link to https://www-demo5.allizom.org/firefox/sync/
@@ -93,7 +94,7 @@ A sebesség, amire szüksége van. Az adatvédelem, amiben megbízik.
 
 # Link to /firefox/ios
 ;Go beyond the default
-Go beyond the default
+Túl az alapértelmezetteken
 
 
 ;Firefox Test Pilot
@@ -114,7 +115,7 @@ Kiegyensúlyozott memóriahasználat
 
 
 ;Browse smoothly and leave plenty of memory for your computer programs.
-Browse smoothly and leave plenty of memory for your computer programs.
+Böngésszen simán, és hagyjon memóriát bőségesen a többi programjának.
 
 
 # Link to /firefox/features/memory
@@ -184,7 +185,7 @@ Korlátozott adatgyűjtés
 
 
 ;Opted-in to privacy, so you can browse freely.
-Opted-in to privacy, so you can browse freely.
+Az adatvédelmet tiszteletben tartva, így szabadon böngészhet.
 
 
 # Link to https://www.mozilla.org/privacy/. It is localized in a few languages.

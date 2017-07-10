@@ -1,6 +1,7 @@
 ## active ##
 ## firefox_sync_mobile_buttons_update ##
 ## firefox_sync_non_fx ##
+## firefox_title_meta_bug1345338 ##
 ## fx38_sync_updates ##
 ## ios_announce ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
@@ -8,7 +9,7 @@
 
 # HTML page title
 ;Use Bookmarks, Tabs and Passwords Across Devices | Firefox
-Use Bookmarks, Tabs and Passwords Across Devices | Firefox
+გამოიყენეთ სანიშნეები, ჩანართები და პაროლები ყველა მოწყობილობაზე | Firefox
 
 
 # String is obsolete. Do not remove.
@@ -19,7 +20,7 @@ Use Bookmarks, Tabs and Passwords Across Devices | Firefox
 
 # HTML page description
 ;Bring your Firefox bookmarks, tabs, or passwords wherever you go with Firefox Sync. Share between computers and mobile devices. Get Firefox now!
-Bring your Firefox bookmarks, tabs, or passwords wherever you go with Firefox Sync. Share between computers and mobile devices. Get Firefox now!
+წაიყოლეთ Firefox-ის სანიშნეები, ჩანართები, პაროლები ყველგან, სადაც ისარგებლებთ Firefox სინქრონიზაციით. გააზიარეთ მონაცემები, კომპიუტერებსა და მობილურ მოწყობილობებს შორის. გადმოწერეთ Firefox ახლავე!
 
 
 ;Ready, Set, Sync
@@ -31,7 +32,7 @@ Bring your Firefox bookmarks, tabs, or passwords wherever you go with Firefox Sy
 
 
 ;Take your Web with you
-წაიყოლეთ ინტერნეტი თან
+წაიყოლეთ ყველა მონაცემი თან
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
@@ -90,12 +91,12 @@ Bring your Firefox bookmarks, tabs, or passwords wherever you go with Firefox Sy
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-გახსენით <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">მენიუ</a> Firefox-ის მაღლა მარჯვენა კუთხეში და აირჩიეთ “<strong>Sync-ში შესვლა.</strong>”
+გახსენით <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">მენიუ</a> Firefox-ის მაღლა მარჯვენა კუთხეში და აირჩიეთ “<strong>სინქრონიზაციაში შესვლა.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-დააწკაპეთ “<strong>დაწყება-ს</strong>” გახსნილ ჩანართში.
+დააწკაპეთ “<strong>ანარიშის შექმნას</strong>” გახსნილ ჩანართში.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -105,11 +106,11 @@ Bring your Firefox bookmarks, tabs, or passwords wherever you go with Firefox Sy
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-დააწკაპეთ “<strong>შემდეგს</strong>”, რათა ელ-ფოსტით მიიღოთ დასტურის ბმული.
+დააწკაპეთ “<strong>შემდეგს</strong>”, რათა ელ-ფოსტით მიიღოთ დადასტურების ბმული.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-თქვენი ელფოსტის შემოწმების და დადასტურების ბმულზე დაწკაპუნების შემდეგ სრულ მზადყოფნაში იქნებით! ამის შემდეგ Firefox ფონში ავტომატურად დაასინქრონებს.
+ელ-ფოსტის შემოწმების და დადასტურების ბმულზე დაწკაპების შემდეგ ყველაფერი მზად იქნება! ამის შემდეგ Firefox ავტომატურად დაასინქრონებს მონაცემებს ფონურ რეჟიმში.
 
 
 ;Get more detailed instructions.
@@ -153,7 +154,7 @@ Sync-ის ძველ ვერსიას იყენებთ?
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-თქვენი ელფოსტის შემოწმების და დადასტურების ბმულზე დაწკაპუნების შემდეგ სრულ მზადყოფნაში იქნებით! Sync-ის მაქსიმალურად გამოსაყენებლად არ დაგავიწყდეთ თქვენი ყველა მოწყობილობის დაკავშირება.
+ელ-ფოსტის შემოწმების და დადასტურების ბმულზე დაწკაპების შემდეგ ყველაფერი მზად იქნება! სინქრონიზაციის სრულად გამოყენებისთვის, არ დაგავიწყდეთ თქვენი დანარჩენი მოწყობილობების დაკავშირებაც.
 
 
 ;Sync a little. Sync a lot.
@@ -217,7 +218,7 @@ Sync-ის ძველ ვერსიას იყენებთ?
 
 
 ;To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
-Sync მაქსიმალურად გამოყენებისთვის, მიიღეთ Firefox iOS-ზე ან Android-ზე და დააკავშირეთ ყველა მოწყობილობა — ყველგან და ყოველთვის, სადაც Firefox-ს იყენებთ.
+სინქრონიზაციის სრულად გამოყენებისთვის, დააყენეთ Firefox iOS-ზე ან Android-ზე და დააკავშირეთ ყველა მოწყობილობა — ყველგან და ყოველთვის, სადაც იყენებთ Firefox-ს.
 
 
 ;Add Firefox
@@ -233,10 +234,10 @@ Firefox-ის დამატება
 
 
 ;Get Firefox everywhere
-მიიღეთ Firefox ყველგან
+გამოიყენეთ Firefox ყველგან
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-Sync-ის მაქსიმალურად გამოყენებისთვის, წაიყოლეთ თქვენი ინტერნეტი ყველგან, სადაც Firefox-ს იყენებთ. დააკავშირეთ თქვენი სმარტფონი, პლანშეტი, კომპიუტერი და ლეპტოპი.
+სინქრონიზაციის სრულად გამოსაყენებლად, წაიყოლეთ თქვენი მონაცემები ყველგან, სადაც Firefox-ს იყენებთ. დააკავშირეთ თქვენი სმარტფონი, პლანშეტი, კომპიუტერი და ლეპტოპი.
 
 

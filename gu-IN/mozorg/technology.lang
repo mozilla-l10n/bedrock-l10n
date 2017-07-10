@@ -1,4 +1,5 @@
 ## active ##
+## emerging_tech_links ##
 ## NOTE: Demo server is available at https://www-dev.allizom.org/technology
 
 
@@ -28,11 +29,11 @@ A-Frameની મદદથી, વિકાસકર્તાઓ, ડિઝા�
 
 
 ;Learn about WebVR
-Learn about WebVR
+WebVR વિશે જાણો
 
 
 ;Visit A-Frame blog
-Visit A-Frame blog
+A-Frame બ્લોગ્સ ની મુલાકાત લો
 
 
 ;Visit the blog
@@ -48,7 +49,7 @@ Visit A-Frame blog
 
 
 ;See what’s new
-See what’s new
+જુઓ નવુ શું છે
 
 
 # Obsolete string, do not remove
@@ -57,7 +58,7 @@ See what’s new
 
 
 ;Meet WebAssembly
-Meet WebAssembly
+WebAssemblyને મળો
 
 
 ;Start building
@@ -101,11 +102,11 @@ wiki ની મુલાકાત લો
 
 
 ;Sponsored by Mozilla, Rust allows browsers, systems and more to run much faster and more safely.
-Sponsored by Mozilla, Rust allows browsers, systems and more to run much faster and more safely.
+Mozilla દ્વારા પ્રાયોજિત, Rust બ્રાઉઝર્સ, સિસ્ટમ્સ અને વધુને વધુ ઝડપી અને વધુ સુરક્ષિત રીતે ચલાવવા માટે પરવાનગી આપે છે.
 
 
 ;Learn about Rust
-Learn about Rust
+Rust વિશે જાણો
 
 
 # Obsolete string, do not remove
