@@ -39,15 +39,15 @@ Mozilla ძირითადი დებულებები
 
 
 ;The Internet is an integral part of modern life—a key component in education, communication, collaboration, business, entertainment and society as a whole.
-ინტერნეტი არის თანამედროვე ცხოვრების განუყოფელი ნაწილი — მთავარი შემადგენელია განათლების, ურთიერთობის, თანამშრომლობის, საქმიანობის, გართობისა და მთლიანად საზოგადოებრივი ცხოვრების.
+ინტერნეტი არის თანამედროვე ცხოვრების განუყოფელი ნაწილი — მთავარი შემადგენელი განათლების, ურთიერთობის, თანამშრომლობის, საქმიანობის, გართობისა და მთლიანად საზოგადოებრივი ცხოვრების.
 
 
 ;Use Open Badges to share your skills and interests
-Use Open Badges to share your skills and interests
+გამოიყენეთ Open Badges თქვენი ცოდნის და მისწრაფებების გასაზიარებლად
 
 
 ;Explore how the Web impacts science
-გაიგეთ, თუ როგორ ზემოქმედებს ინტერნეტი მეცნიერებაზე
+გაიგეთ, თუ რა გავლენა აქვს ინტერნეტს მეცნიერებაში
 
 
 ;Learn about open source code in journalism
@@ -55,11 +55,11 @@ Use Open Badges to share your skills and interests
 
 
 ;Making to learn in the digital world
-Making to learn in the digital world
+სწავლების შემქნა ციფრული სამყაროში
 
 
 ;Open Badges
-Open Badges
+Open Badges {ok}
 
 
 ;02
@@ -83,12 +83,12 @@ Mozilla-ს ისტორია
 
 
 ;You don’t have to make a case for open. You have to make a case for not open.
-გახსნილობას არ სჭირდებათ მიზეზების მოფიქრება. დასაბუთება იმ მოსაზრებებს სჭირდება, რომელიც ეწინააღმდეგება გახსნილობას.
+გახსნილობას არ სჭირდება მიზეზების მოფიქრება. დასაბუთება იმ მოსაზრებებს ესაჭიროება, რომელიც ეწინააღმდეგება გახსნილობას.
 
 
 # VP stands for Vice President - do not translate <span> and </span> tags
 ;<span>Johnathan Nightingale,</span> <span>VP Firefox</span>
-<span>ჯონათან ნაითინგეილი,</span> <span>Firefox ვიცე-პრეზიდენტი</span>
+<span>ჯონათან ნაითინგეილი,</span> <span>Firefox-ის ვიცე-პრეზიდენტი</span>
 
 
 ;03
@@ -96,75 +96,75 @@ Mozilla-ს ისტორია
 
 
 ;The Internet must enrich the lives of individual human beings.
-The Internet must enrich the lives of individual human beings.
+ინტერნეტი უნდა იყოს სასარგებლო, თითოეული ადამიანის ცხოვრებისთვის.
 
 
 ;See how the Web can connect the world to healthcare
-See how the Web can connect the world to healthcare
+ნახეთ, თუ როგორ შეუძლია ინტერნეტს გააერთიანოს მსოფლიო, ჯანდაცვის სფეროში
 
 
 ;Explore how the Web works
-Explore how the Web works
+გაიგეთ, როგორ მუშაობს ინტერნეტი
 
 
 ;Medic Mobile
-Medic Mobile
+მობილური მედიცინა
 
 
 ;04
-04
+04 {ok}
 
 
 ;Individuals’ security and privacy on the Internet are fundamental and must not be treated as optional.
-Individuals’ security and privacy on the Internet are fundamental and must not be treated as optional.
+ინტერნეტში უსაფრთხოება და პირადი ინფორმაციის ხელშეუხებლობა წარმოადგენს ადამიანის ძირითად უფლებებს და ვერ ჩაითვლება მეორეხარისხოვნად.
 
 
 ;See how Mozilla works to put your privacy first
-See how Mozilla works to put your privacy first
+ნახეთ, როგორ მუშაობს Mozilla პირადი მონაცემების დაცვაზე
 
 
 ;Read about developments in privacy and data safety
-Read about developments in privacy and data safety
+იხილეთ, როგორ ვითარდება პირადი მონაცემების უსაფრთხოების საკითხები
 
 
 ;Learn more about how to protect yourself online
-Learn more about how to protect yourself online
+შეიტყვეთ მეტი, თუ როგორ უნდა დაიცვათ თავი ინტერნეტში
 
 
 ;The Web We Want: An Open Letter
-The Web We Want: An Open Letter
+ისეთი ინტერნეტი, როგორიც გვსურს: ღია წერილი
 
 
 ;05
-05
+05 {ok}
 
 
 ;Individuals must have the ability to shape the Internet and their own experiences on it.
-Individuals must have the ability to shape the Internet and their own experiences on it.
+ადამიანებს უნდა ჰქონდეთ შესაძლებლობა მოარგონ ინტერნეტი საკუთარ სურვილებს.
 
 
 ;Use these free tools to teach the Web
-Use these free tools to teach the Web
+გამოიყენეთ ეს უფასო საშუალებები ვებ-ტექნოლოგიების სწავლებისთვის
 
 
 ;Learn about creating and curating content for the Web
-Learn about creating and curating content for the Web
+გაიგეთ, თუ როგორ შექმნათ და უმეთვალყურეოთ ვებ-შიგთავსს
 
 
 ;Teaching the Web
-Teaching the Web
+ასწავლეთ ვებ-ტექნოლოგიები
 
 
 ;Meet the Webmakers
-Meet the Webmakers
+შეხვდით ვებ-შემმუშავებლებს
 
 
 ;06
-06
+06 {ok}
 
 
 ;The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
-The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
+ინტერნეტის, როგორც საჯაროდ ხელმისაწვდომი რესურსის ეფექტიანობა განისაზღვრება თავსებადობით (პროტკოლების, მონაცემთა ფორმატების, შიგთავსის), ინოვაციებით და მონაწილეების დეცენტრალიზებულობით მთელი მსოფლიოს მასშტაბით.
 
 
 ;Add new voices to open source technology
