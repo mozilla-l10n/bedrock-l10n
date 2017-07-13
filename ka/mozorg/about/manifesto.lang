@@ -168,162 +168,162 @@ Mozilla-ს ისტორია
 
 
 ;Add new voices to open source technology
-Add new voices to open source technology
+შემატეთ ხმები ღია წყაროს ტექნოლოგიებს
 
 
 ;Set your Do Not Track preference
-Set your Do Not Track preference
+უარი თქვით თვალთვალზე
 
 
 ;Understand the Web ecosystem
-Understand the Web ecosystem
+გაერკვიეთ ინტერნეტის ეკოსისტემაში
 
 
 ;Who is Mozilla?
-Who is Mozilla?
+ვინ არის Mozilla?
 
 
 ;07
-07
+07 {ok}
 
 
 ;Free and open source software promotes the development of the Internet as a public resource.
-Free and open source software promotes the development of the Internet as a public resource.
+უფასო და ღია წყაროს პროგრამებს წვლილი შეაქვთ ინტერნეტის, როგორც საჯარო რესურსის მშენებლობაში.
 
 
 ;Explore how open practices keep the Web accessible
-Explore how open practices keep the Web accessible
+გაიგეთ, თუ როგორ უწყობს ხელს გახსნილი სწავლება, ინტერნეტის ხელმისაწვდომობას
 
 
 ;Learn how to remix content to create something new
-Learn how to remix content to create something new
+შეიტყვეთ, თუ როგორ უნდა გარდაქმნათ მოცემულობა, რაღაც ახლის შესაქმნელად
 
 
 ;Learn how to maximize the interactive potential of the Web
-Learn how to maximize the interactive potential of the Web
+გაიგეთ, როგორ შეიძლება გაიზარდოს ინტერნეტის ჩართულობის უნარი
 
 
 ;Contributing to Open Source Software
-Contributing to Open Source Software
+შეიტანეთ წვლილი ღია წყაროს პროგრამებში
 
 
 ;08
-08
+08 {ok}
 
 
 ;Transparent community-based processes promote participation, accountability and trust.
-Transparent community-based processes promote participation, accountability and trust.
+გამჭვირვალე, ერთობაზე დაფუძნებული სამუშაო გარემო ზრდის მონაწილეობის სურვილს, პასუხისმგებლობას და ნდობას.
 
 
 ;Participate in our governance forum
-Participate in our governance forum
+მიიღეთ მონაწილეობა მმართველ ფორუმში
 
 
 ;Join us as a volunteer
-Join us as a volunteer
+შემოგვიერთდით, როგორც მოხალისე
 
 
 ;Join us as a student ambassador
-Join us as a student ambassador
+შემოგვიერთდით, როგორც სტუდენტების დესპანი
 
 
 # Obsolete string replaced by separate strings (do not remove)
 ;Join us as a <a href="%(volunteer)s">volunteer</a> or <a href="%(ambassador)s">student ambassador</a>
-Join us as a <a href="%(volunteer)s">volunteer</a> or <a href="%(ambassador)s">student ambassador</a>
+შემოგვიერთდით როგორც <a href="%(volunteer)s">მოხალისე</a> ან <a href="%(ambassador)s">სტუდენტების დესპანი</a>
 
 
 ;Learn how to collaborate online
-Learn how to collaborate online
+შეიტყვეთ, როგორ შეგიძლიათ ითანამშრომლოთ ინტერნეტის საშუალებით
 
 
 ;I am a Mozillian
-I am a Mozillian
+მე ვარ მოზილელი
 
 
 ;09
-09
+09 {ok}
 
 
 ;Commercial involvement in the development of the Internet brings many benefits; a balance between commercial profit and public benefit is critical.
-Commercial involvement in the development of the Internet brings many benefits; a balance between commercial profit and public benefit is critical.
+კომერციულ ჩართულობას ინტერნეტის შენებაში, მეტი სარგებელი მოაქვს; წონასწორობის შენარჩუნება კი ფინანსურ მოგებასა და საზოგადოებრივ მოგებას შორის არის გადამწყვეტი.
 
 
 ;Visualize who you interact with on the Web with Lightbeam
-Visualize who you interact with on the Web with Lightbeam
+იხილეთ გრაფუკული გამოსახულება, თუ ვისთან ურთიერთობთ გვერდების მონახულებისას, Lightbeam-ის საშუალებით
 
 
 ;See how Firefox phones seek to balance the mobile ecosystem
-See how Firefox phones seek to balance the mobile ecosystem
+შეიტყვეთ, თუ როგორ ნახულობს წონასწორობას Firefox ტელეფონები მობილურების გარემოში
 
 
 ;Learn about creating Web resources with others
-Learn about creating Web resources with others
+გაიგეთ, თუ როგორ შექმნათ ვებ-რესურსები სხვებთან ერთად
 
 
 ;Lightbeam for Firefox
-Lightbeam for Firefox
+Lightbeam Firefox-ისთვის
 
 
 ;10
-10
+10 {ok}
 
 
 ;Magnifying the public benefit aspects of the Internet is an important goal, worthy of time, attention and commitment.
-Magnifying the public benefit aspects of the Internet is an important goal, worthy of time, attention and commitment.
+ინტერნეტის სარგებლიანობის გაზრდა არის ის მნიშვნელოვანი მიზანი, რომელზეც ღირს დროის, ყურადღების და გონებრივი რესურსების დახარჯვა.
 
 
 ;Host or join a Maker Party
-Host or join a Maker Party
+უმასპინძლეთ ან შემოუერთდით შემქმნელების წვეულებას
 
 
 ;Learn how to build online collaboration skills
-Learn how to build online collaboration skills
+გაიგეთ, თუ როგორ უნდა განავითაროთ ინტერნეტში თანამშრომლობის უნარები
 
 
 ;What is MozFest?
-What is MozFest?
+რა არის MozFest?
 
 
 ;Read the entire manifesto
-Read the entire manifesto
+გაეცანით, დებულებებს სრულად
 
 
 ;Tell your friends
-Tell your friends
+მოუყევით მეგობრებს
 
 
 # This string will be included in a tweet
 ;I support Mozilla because… #mozmanifesto
-I support Mozilla because… #mozmanifesto
+მე მხარს ვუჭერ Mozilla-ს იმიტომ, რომ… #mozmanifesto
 
 
 ;Tweet this
-Tweet this
+დატვიტეთ
 
 
 ;Learn more about…
-Learn more about…
+შეიტყვეთ მეტი…
 
 
 ;Donating to Mozilla
-Donating to Mozilla
+გააკეთეთ შემოწირულობა Mozilla-სთვის
 
 
 ;Our history
-Our history
+ჩვენი ისტორია
 
 
 ;Our mission
-Our mission
+ჩვენი მიზანი
 
 
 # Strings for mozilla.org/about/manifesto/details/
 ;Introduction
-Introduction
+შესავალი
 
 
 ;The Internet is becoming an increasingly important part of our lives.
-The Internet is becoming an increasingly important part of our lives.
+ინტერნეტის მნიშვნელობა სულ უფრო და უფრო იზრდება ჩვენს ცხოვრებაში.
 
 
 ;The Mozilla project is a global community of people who believe that openness, innovation, and opportunity are key to the continued health of the Internet. We have worked together since 1998 to ensure that the Internet is developed in a way that benefits everyone. We are best known for creating the Mozilla Firefox web browser.
@@ -331,15 +331,15 @@ Mozilla პროექტი არის საერთაშორისო 
 
 
 ;The Mozilla project uses a community-based approach to create world-class open source software and to develop new types of collaborative activities. We create communities of people involved in making the Internet experience better for all of us.
-The Mozilla project uses a community-based approach to create world-class open source software and to develop new types of collaborative activities. We create communities of people involved in making the Internet experience better for all of us.
+Mozilla პროექტი არის ერთობაზე დაფუძნებული საშუალება, მსოფლიო-მასშტაბის ღია წყაროს პროგრამების შესაქმნელად და ახალი სახის თანამშრომლობის გასავითარებლად. ჩვენ ვქმნით ადამიანების კავშირს, რომლებიც მუშაობენ, რომ ინტერნეტი გახადონ მეტად სასარგებლო თითოეული ჩვენგანისთვის.
 
 
 ;As a result of these efforts, we have distilled a set of principles that we believe are critical for the Internet to continue to benefit the public good as well as commercial aspects of life. We set out these principles below.
-As a result of these efforts, we have distilled a set of principles that we believe are critical for the Internet to continue to benefit the public good as well as commercial aspects of life. We set out these principles below.
+ამ ძალისხმევის შედეგად, ჩვენ გამოვყავით პრინციპების კრებული, რომელიც გვჯერა, რომ არის გადამწყვეტი ინტერნეტის სარგებლიანობის შენარჩუნებაში როგორც საზოგადოებრივი, ასევე კომერციული კუთხით. ამ პრინციპებს გთავაზობთ ქვემოთ.
 
 
 ;The goals for the Manifesto are to:
-The goals for the Manifesto are to:
+დებულების მიზანია:
 
 
 ;articulate a vision for the Internet that Mozilla participants want the Mozilla Foundation to pursue;
