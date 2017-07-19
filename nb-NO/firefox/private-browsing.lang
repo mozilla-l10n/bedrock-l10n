@@ -3,29 +3,29 @@
 
 # HTML page title
 ;Private Browser Protects Your Online Privacy | Firefox
-Private Browser Protects Your Online Privacy | Firefox
+Privat nettleser beskytter personvernet ditt på Internett | Firefox
 
 
 # String is obsolete. Do not remove.
 # HTML Title attribute
 ;Firefox Web browser — Private Browsing with Tracking Protection — Mozilla
-Firefox Web browser — Private Browsing with Tracking Protection — Mozilla
+Firefox nettleser — Privat nettlesing med sporingsvern — Mozilla
 
 
 # HTML page description
 ;Firefox protects your online privacy and blocks trackers that follow you around the web. Get Firefox for private browsing!
-Firefox protects your online privacy and blocks trackers that follow you around the web. Get Firefox for private browsing!
+Firefox beskytter privatlivet ditt og blokkerer for sporere som følger deg på nettet. Last ned Firefox for privat nettlesing!
 
 
 # String is obsolete. Do not remove.
 # Meta tag (description)
 ;Get more protection and the most privacy, only from Firefox. No other browser gives you so much control over your digital footprint.
-Get more protection and the most privacy, only from Firefox. No other browser gives you so much control over your digital footprint.
+Få mer vern og mest privatliv, bare fra Firefox. Ingen annen nettleser gir deg så mye kontroll over dine digitale fotavtrykk.
 
 
 # the <br> tags below are for visual formatting only.
 ;More protection. <br>The most privacy. <br>Only from Firefox.
-More protection. <br>The most privacy. <br>Only from Firefox.
+Mer vern. <br>Mest privatliv. <br>Bare fra Firefox.
 
 
 ;Try Private Browsing
@@ -34,7 +34,7 @@ Prøv privat nettlesing
 
 # Displayed to non Firefox users
 ;To give the new Private Browsing a try, download Firefox.
-To give the new Private Browsing a try, download Firefox.
+For å gi nye privat nettlesing et forsøk, last ned Firefox.
 
 
 # Displayed to Firefox users on old versions
@@ -59,7 +59,7 @@ Firefox won’t save things like your browsing history, searches or cookies, but
 
 
 ;With Tracking Protection
-With Tracking Protection
+Med sporingsbeskyttelse
 
 
 ;Minimize the ability of hidden third parties from tracking your browsing activity across many sites.
@@ -71,7 +71,7 @@ Les mer om privat nettlesing
 
 
 ;Tracking Protection is only available with Firefox for Android and Desktop
-Tracking Protection is only available with Firefox for Android and Desktop
+Sporingsbeskyttelse er bare tilgjengelig for Firefox for Android og datamaskiner
 
 
 ;When to use Private Browsing

@@ -1,3 +1,5 @@
+## active ##
+## firefox_dev_fall ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/developer
 ## NOTE: "Firefox Developer Edition" is considered a brand and should not be localized or transliterated. It also won't be localizable inside the product, like "Beta" or "Nightly"
 
@@ -278,7 +280,7 @@ Developer Edition kommer med en ny profil, slik at du kan kjøre den parallelt m
 
 
 ;To access your bookmarks, browsing history and more, you need to sync the profile with your existing Firefox Account, or create a new one.
-To access your bookmarks, browsing history and more, you need to sync the profile with your existing Firefox Account, or create a new one.
+For å få tilgang til bokmerker, nettleserhistorikk med mer, må du synkronisere profilen din med den eksisterende Firefox-kontoen din eller lage en ny.
 
 
 ;Want the old look back?
@@ -286,10 +288,10 @@ Vil du ha tilbake det gamle utseendet?
 
 
 ;If you want the familiar look and feel of Firefox Aurora back, we’ve made it super easy for you.
-If you want the familiar look and feel of Firefox Aurora back, we’ve made it super easy for you.
+Hvis du foretrekker utseendet fra Firefox Aurora, så har vi gjort det veldig enkelt for deg.
 
 
 ;Features and tools
-Features and tools
+Funksjoner og verktøy
 
 

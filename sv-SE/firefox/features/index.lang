@@ -2,23 +2,23 @@
 
 
 ;Protect your privacy and browse faster with Firefox features
-Protect your privacy and browse faster with Firefox features
+Skydda din integritet och surfa snabbare med funktioner i Firefox
 
 
 ;You’re in control with Firefox’s easy-to-use features that protect your privacy and browsing speeds.
-You’re in control with Firefox’s easy-to-use features that protect your privacy and browsing speeds.
+Du har kontroll över Firefox lättanvända funktioner som skyddar din integritet och surfhastigheter.
 
 
 ;Firefox features
-Firefox features
+Funktioner i Firefox
 
 
 ;Modern
-Modern {ok}
+Firefox erbjuder
 
 
 ;Your favorite add-ons and extensions
-Your favorite add-ons and extensions
+Dina favorittillägg
 
 
 # These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
@@ -28,7 +28,7 @@ Adblock, Ublock, LastPass och tusen fler.
 
 # Links to https://addons.mozilla.org/firefox
 ;Get powerful add-ons
-Get powerful add-ons
+Hämta kraftfulla tillägg
 
 
 ;Customize your browser
@@ -36,12 +36,12 @@ Anpassa din webbläsare
 
 
 ;Personalize Firefox with everything from themes to privacy tools.
-Personalize Firefox with everything from themes to privacy tools.
+Anpassa Firefox med allt från teman till sekretessverktyg.
 
 
 # Link to https://addons.mozilla.org/firefox/themes
 ;Make Firefox yours
-Make Firefox yours
+Gör Firefox till din
 
 
 ;Browse faster
@@ -49,7 +49,7 @@ Surfa snabbare
 
 
 ;Start faster, tab hop quicker, get more done.
-Start faster, tab hop quicker, get more done.
+Starta snabbare, hoppa snabbt mellan flikar, få mer gjort.
 
 
 # Link to /firefox/features/fast
@@ -62,7 +62,7 @@ Synkronisera mellan enheter
 
 
 ;Get your tabs, logins and history on the go.
-Get your tabs, logins and history on the go.
+Ta med dina flikar, inloggningar och historik.
 
 
 # Link to https://www-demo5.allizom.org/firefox/sync/
@@ -75,12 +75,12 @@ Firefox för Android
 
 
 ;Our most customizable Firefox for Android yet.
-Our most customizable Firefox for Android yet.
+Vår mest anpassningsbara Firefox för Android hittills.
 
 
 # Link to /firefox/android
 ;Take control of your browser
-Take control of your browser
+Ta kontroll över din webbläsare
 
 
 ;Firefox for iOS
@@ -88,12 +88,12 @@ Firefox för iOS
 
 
 ;The speed you need. The privacy you trust.
-The speed you need. The privacy you trust.
+Hastigheten du behöver. Den personliga integriteten du litar på.
 
 
 # Link to /firefox/ios
 ;Go beyond the default
-Go beyond the default
+Gå bortom standardinställningarna
 
 
 ;Firefox Test Pilot
@@ -101,25 +101,25 @@ Firefox Test Pilot {ok}
 
 
 ;Experimental features that can simplify your life.
-Experimental features that can simplify your life.
+Experimentella funktioner som kan förenkla ditt liv.
 
 
 # Link to https://testpilot.firefox.com
 ;Help launch new features
-Help launch new features
+Hjälp till att lansera nya funktioner
 
 
 ;Balanced memory usage
-Balanced memory usage
+Balanserad minnesanvändning
 
 
 ;Browse smoothly and leave plenty of memory for your computer programs.
-Browse smoothly and leave plenty of memory for your computer programs.
+Bläddra smidigt och lämna mycket minne til dina datorprogram.
 
 
 # Link to /firefox/features/memory
 ;Speed up your computer
-Speed up your computer
+Snabba upp din dator
 
 
 ;Better bookmarks
@@ -127,7 +127,7 @@ Bättre bokmärken
 
 
 ;Quickly save and organize your favorite sites.
-Quickly save and organize your favorite sites.
+Spara och organisera dina favoritplatser snabbt.
 
 
 # Link to /firefox/features/bookmarks
@@ -140,30 +140,30 @@ Integritet
 
 
 ;Ad tracker blocking
-Ad tracker blocking
+Annonsblockering
 
 
 ;Firefox Private Browsing blocks ads with trackers.
-Firefox Private Browsing blocks ads with trackers.
+Firefox privat surfning blockerar annonser med trackers.
 
 
 # Link to /firefox/features/private-browsing
 ;Block ad trackers
-Block ad trackers
+Blockera annons-trackers
 
 
 ;More powerful Private Browsing
-More powerful Private Browsing
+Mer kraftfull privat surfning
 
 
 # Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
 ;More protection than Incognito mode or InPrivate.
-More protection than Incognito mode or InPrivate.
+Mer skydd än inkognitoläge eller InPrivate.
 
 
 # Link to /firefox/features/private-browsing
 ;Get better privacy
-Get better privacy
+Få bättre integritet
 
 
 ;More private
