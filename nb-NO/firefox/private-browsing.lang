@@ -1,3 +1,5 @@
+## active ##
+## firefox_title_meta_bug1345338 ##
 ## NOTE: demo page at https://www-dev.allizom.org/firefox/private-browsing
 
 
@@ -9,7 +11,7 @@ Privat nettleser beskytter personvernet ditt på Internett | Firefox
 # String is obsolete. Do not remove.
 # HTML Title attribute
 ;Firefox Web browser — Private Browsing with Tracking Protection — Mozilla
-Firefox nettleser — Privat nettlesing med sporingsvern — Mozilla
+Firefox nettleser — Privat nettlesing med sporingbeskyttelse — Mozilla
 
 
 # HTML page description
@@ -20,12 +22,12 @@ Firefox beskytter privatlivet ditt og blokkerer for sporere som følger deg på 
 # String is obsolete. Do not remove.
 # Meta tag (description)
 ;Get more protection and the most privacy, only from Firefox. No other browser gives you so much control over your digital footprint.
-Få mer vern og mest privatliv, bare fra Firefox. Ingen annen nettleser gir deg så mye kontroll over dine digitale fotavtrykk.
+Få mer beskyttelse og mest privatliv, bare fra Firefox. Ingen annen nettleser gir deg så mye kontroll over dine digitale fotavtrykk.
 
 
 # the <br> tags below are for visual formatting only.
 ;More protection. <br>The most privacy. <br>Only from Firefox.
-Mer vern. <br>Mest privatliv. <br>Bare fra Firefox.
+Mer beskyttelse. <br>Mest privatliv. <br>Bare fra Firefox.
 
 
 ;Try Private Browsing
@@ -39,11 +41,11 @@ For å gi nye privat nettlesing et forsøk, last ned Firefox.
 
 # Displayed to Firefox users on old versions
 ;Your Firefox is not up to date. Download the latest version to use the new Private Browsing.
-Your Firefox is not up to date. Download the latest version to use the new Private Browsing.
+Firefox er ikke oppdatert. Last ned siste versjon for å bruke den nye privat nettlesing.
 
 
 ;No other browser gives you so much control over your digital footprint.
-No other browser gives you so much control over your digital footprint.
+Ingen annen nettleser gir deg så mye kontroll over dine digitale fotavtrykk.
 
 
 ;Learn how to use Private Browsing
@@ -55,7 +57,7 @@ Privat nettlesing
 
 
 ;Firefox won’t save things like your browsing history, searches or cookies, but it will keep new bookmarks and files you download.
-Firefox won’t save things like your browsing history, searches or cookies, but it will keep new bookmarks and files you download.
+Firefox kommer ikke til å lagre nettleserhistorikken din, søk eller infokapsler, men vil beholde bokmerker og filer som du laster ned.
 
 
 ;With Tracking Protection
@@ -63,7 +65,7 @@ Med sporingsbeskyttelse
 
 
 ;Minimize the ability of hidden third parties from tracking your browsing activity across many sites.
-Minimize the ability of hidden third parties from tracking your browsing activity across many sites.
+Minsker muligheten for at en skjult tredjepart skal spore surfeaktiviteten din over flere nettsteder.
 
 
 ;Learn more about Private Browsing
@@ -79,50 +81,50 @@ Når bør du bruke privat nettlesing
 
 
 ;To minimize your digital footprint
-To minimize your digital footprint
+For å redusere dine digitale fotavtrykk til et minimum
 
 
 ;Tracking Protection blocks Internet companies from following you across the Web
-Tracking Protection blocks Internet companies from following you across the Web
+Sporingsbeskyttelse hindrer Internett-selskap i å følge deg på nettet
 
 
 ;Online banking from a shared device or computer
-Online banking from a shared device or computer
+Når du bruker nettbanken din fra en delt enhet eller datamaskin
 
 
 ;Your username and password won’t be saved
-Your username and password won’t be saved
+Brukernavnet og passordet ditt blir ikke lagret
 
 
 ;To help you plan a surprise, like a birthday or a trip
-To help you plan a surprise, like a birthday or a trip
+For å hjelpe deg med å planlegge en overraskelse, som f.eks. en fødselsdag eller en reise
 
 
 ;No one can see your browsing history
-No one can see your browsing history
+Ingen kan se nettleserhistorikken din
 
 
 ;The Control Center has you covered
-The Control Center has you covered
+Kontrollsentret beskytter deg
 
 
 ;When you see the shield to the left of the address bar, that means Firefox is protecting you from potential trackers.
-When you see the shield to the left of the address bar, that means Firefox is protecting you from potential trackers.
+Når du ser et skjold til venstre for adresselinjen, betyr det at Firefox verner deg fra potensielle sporere.
 
 
 ;You can disable Tracking Protection for a single site, or turn it off entirely. It’s up to you.
-You can disable Tracking Protection for a single site, or turn it off entirely. It’s up to you.
+Du kan slå av sporingsbeskyttelsen for en enkel nettside eller slå det helt av om du vil. Det er helt opp til deg.
 
 
 ;Learn more about the Control Center
-Learn more about the Control Center
+Les mer om kontrollsenteret
 
 
 ;Control Center is not available on Android devices, but a shield will still be displayed to let you know when you are protected.
-Control Center is not available on Android devices, but a shield will still be displayed to let you know when you are protected.
+Kontrollsentret er ikke tilgjengelig på Android-enheter, men skjoldet blir likevel vist for at du skal vite at du er beskyttet.
 
 
 ;Try it now to stay in control
-Try it now to stay in control
+Prøv det nå for å bevare kontrollen
 
 
