@@ -2,7 +2,7 @@
 
 
 ;Protect your privacy and browse faster with Firefox features
-Protect your privacy and browse faster with Firefox features
+Beskytt personvernet ditt og surf raskere med funksjoner i Firefox
 
 
 ;You’re in control with Firefox’s easy-to-use features that protect your privacy and browsing speeds.
@@ -10,55 +10,55 @@ You’re in control with Firefox’s easy-to-use features that protect your priv
 
 
 ;Firefox features
-Firefox features
+Firefox-funksjoner
 
 
 ;Modern
-Modern
+Moderne
 
 
 ;Your favorite add-ons and extensions
-Your favorite add-ons and extensions
+Dine favorittutvidelser
 
 
 # These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
 ;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass and thousands more.
+Adblock, Ublock, LastPass og tusen flere.
 
 
 # Links to https://addons.mozilla.org/firefox
 ;Get powerful add-ons
-Get powerful add-ons
+Hent kraftige utvidelser
 
 
 ;Customize your browser
-Customize your browser
+Tilpass nettleseren din
 
 
 ;Personalize Firefox with everything from themes to privacy tools.
-Personalize Firefox with everything from themes to privacy tools.
+Personliggjør Firefox med alt fra temaer til personvernverktøy.
 
 
 # Link to https://addons.mozilla.org/firefox/themes
 ;Make Firefox yours
-Make Firefox yours
+Personliggjør Firefox
 
 
 ;Browse faster
-Browse faster
+Surf raskere
 
 
 ;Start faster, tab hop quicker, get more done.
-Start faster, tab hop quicker, get more done.
+Start raskere, hopp raskere mellom faner, få mer gjort.
 
 
 # Link to /firefox/features/fast
 ;Do more with Firefox
-Do more with Firefox
+Gjør mer med Firefox
 
 
 ;Sync between devices
-Sync between devices
+Synkroniser mellom enheter
 
 
 ;Get your tabs, logins and history on the go.
@@ -67,11 +67,11 @@ Get your tabs, logins and history on the go.
 
 # Link to https://www-demo5.allizom.org/firefox/sync/
 ;Use Firefox everywhere
-Use Firefox everywhere
+Bruk Firefox overalt
 
 
 ;Firefox for Android
-Firefox for Android
+Firefox for Android {ok}
 
 
 ;Our most customizable Firefox for Android yet.
@@ -84,7 +84,7 @@ Take control of your browser
 
 
 ;Firefox for iOS
-Firefox for iOS
+Firefox for iOS {ok}
 
 
 ;The speed you need. The privacy you trust.
@@ -97,7 +97,7 @@ Go beyond the default
 
 
 ;Firefox Test Pilot
-Firefox Test Pilot
+Firefox Test Pilot {ok}
 
 
 ;Experimental features that can simplify your life.
@@ -123,20 +123,20 @@ Speed up your computer
 
 
 ;Better bookmarks
-Better bookmarks
+Bedre bokmerker
 
 
 ;Quickly save and organize your favorite sites.
-Quickly save and organize your favorite sites.
+Lagre og organiser kjapt favorittnettsidene dine.
 
 
 # Link to /firefox/features/bookmarks
 ;Customize your bookmarks
-Customize your bookmarks
+Tilpass bokmerkene dine
 
 
 ;Privacy
-Privacy
+Personvern
 
 
 ;Ad tracker blocking
@@ -158,20 +158,20 @@ More powerful Private Browsing
 
 # Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
 ;More protection than Incognito mode or InPrivate.
-More protection than Incognito mode or InPrivate.
+Bedre beskyttelse enn Inkognito-modus eller InPrivate-visning.
 
 
 # Link to /firefox/features/private-browsing
 ;Get better privacy
-Get better privacy
+Få bedre personvern
 
 
 ;More private
-More private
+Mer privat
 
 
 ;We don’t sell access to your online data. Period.
-We don’t sell access to your online data. Period.
+Vi selger ikke tilgang til dine data. Punktum.
 
 
 # Link to /firefox/features/private-browsing
@@ -193,7 +193,7 @@ Read our privacy policy
 
 
 ;Password Manager
-Password Manager
+Passordbehandling
 
 
 ;Forget the reset. Save passwords and logins quickly.
@@ -223,7 +223,7 @@ Read Mozilla’s mission
 
 
 ;Open source
-Open source
+Åpen kildekode
 
 
 ;We’re always transparent.

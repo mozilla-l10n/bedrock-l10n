@@ -10,29 +10,29 @@ You’re in control with Firefox’s easy-to-use features that protect your priv
 
 
 ;Firefox features
-Firefox features
+Timahilin n Firefox
 
 
 ;Modern
-Modern
+Atrar
 
 
 ;Your favorite add-ons and extensions
-Your favorite add-ons and extensions
+Izegrar-ik akked isiɣzaf-ik inurifen
 
 
 # These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
 ;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass and thousands more.
+Adblock, Ublock, LastPass d ddeqs n izegrar-nniḍen.
 
 
 # Links to https://addons.mozilla.org/firefox
 ;Get powerful add-ons
-Get powerful add-ons
+Awi izegrar uzmiren
 
 
 ;Customize your browser
-Customize your browser
+Err iminig-ik d udmawan
 
 
 ;Personalize Firefox with everything from themes to privacy tools.
@@ -41,11 +41,11 @@ Personalize Firefox with everything from themes to privacy tools.
 
 # Link to https://addons.mozilla.org/firefox/themes
 ;Make Firefox yours
-Make Firefox yours
+Err Firefox d ayla-k
 
 
 ;Browse faster
-Browse faster
+Inig s zreb
 
 
 ;Start faster, tab hop quicker, get more done.
@@ -54,24 +54,24 @@ Start faster, tab hop quicker, get more done.
 
 # Link to /firefox/features/fast
 ;Do more with Firefox
-Do more with Firefox
+Eg ugar s Firefox
 
 
 ;Sync between devices
-Sync between devices
+Mtawi gar ibenkan
 
 
 ;Get your tabs, logins and history on the go.
-Get your tabs, logins and history on the go.
+Awi yid-k iccaren-ik, isulayèik akked umazray-ik.
 
 
 # Link to https://www-demo5.allizom.org/firefox/sync/
 ;Use Firefox everywhere
-Use Firefox everywhere
+Seqdec Firefox sekra wanida telliḍ
 
 
 ;Firefox for Android
-Firefox for Android
+Firefox i Android
 
 
 ;Our most customizable Firefox for Android yet.
@@ -84,7 +84,7 @@ Take control of your browser
 
 
 ;Firefox for iOS
-Firefox for iOS
+Firefox i iOS
 
 
 ;The speed you need. The privacy you trust.
@@ -97,7 +97,7 @@ Go beyond the default
 
 
 ;Firefox Test Pilot
-Firefox Test Pilot
+Firefox Test Pilot {ok}
 
 
 ;Experimental features that can simplify your life.
@@ -119,11 +119,11 @@ Browse smoothly and leave plenty of memory for your computer programs.
 
 # Link to /firefox/features/memory
 ;Speed up your computer
-Speed up your computer
+Sɣiwel aselkim-ik
 
 
 ;Better bookmarks
-Better bookmarks
+Ticraḍ ifazen
 
 
 ;Quickly save and organize your favorite sites.
@@ -136,7 +136,7 @@ Customize your bookmarks
 
 
 ;Privacy
-Privacy
+Tabaḍnit
 
 
 ;Ad tracker blocking
@@ -149,7 +149,7 @@ Firefox Private Browsing blocks ads with trackers.
 
 # Link to /firefox/features/private-browsing
 ;Block ad trackers
-Block ad trackers
+Sewḥel inedfaṛen
 
 
 ;More powerful Private Browsing
@@ -167,7 +167,7 @@ Get better privacy
 
 
 ;More private
-More private
+Ugar n tbaḍnit
 
 
 ;We don’t sell access to your online data. Period.
@@ -176,11 +176,11 @@ We don’t sell access to your online data. Period.
 
 # Link to /firefox/features/private-browsing
 ;Get Firefox for privacy
-Get Firefox for privacy
+Sider firefox i tbaḍnit
 
 
 ;Limited data collection
-Limited data collection
+Alqaḍ n isefka s talast
 
 
 ;Opted-in to privacy, so you can browse freely.
@@ -189,11 +189,11 @@ Opted-in to privacy, so you can browse freely.
 
 # Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
 ;Read our privacy policy
-Read our privacy policy
+Ɣer tasertit-nneɣ n tbaḍnit
 
 
 ;Password Manager
-Password Manager
+Amsefrak n wawal uffir
 
 
 ;Forget the reset. Save passwords and logins quickly.
@@ -202,41 +202,41 @@ Forget the reset. Save passwords and logins quickly.
 
 # Link to /firefox/features/password-manager
 ;Easily manage your logins
-Easily manage your logins
+Sefrek inekcam-ik s wudem fessusen
 
 
 ;Independence
-Independence
+Timunent
 
 
 ;By non-profit, Mozilla
-By non-profit, Mozilla
+Mozilla, ur tettnadi ara tadrimt
 
 
 ;Protecting the health of the internet.
-Protecting the health of the internet.
+Ammesten n tezmert n Internet.
 
 
 # https://www.mozilla.org/mission/
 ;Read Mozilla’s mission
-Read Mozilla’s mission
+Ɣer tuɣdaṭ n Mozilla
 
 
 ;Open source
-Open source
+Aɣbalu yeldin
 
 
 ;We’re always transparent.
-We’re always transparent.
+D ifrawanent yal tikelt.
 
 
 # Link to /firefox/features/independent
 ;See what makes us different
-See what makes us different
+Wali acuɣer ur yelli yiwen am nekkni
 
 
 ;Protect your rights
-Protect your rights
+Mmesten izerfan-ik
 
 
 ;We help keep corporate powers in check.
@@ -245,6 +245,6 @@ We help keep corporate powers in check.
 
 # Link to /firefox/features/independent
 ;Choose independence
-Choose independence
+Fren timunent
 
 
