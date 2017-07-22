@@ -8,7 +8,7 @@ Ustvarjen za ustvarjalce spleta. Edini brskalnik po meri razvijalcev.
 
 
 ;Modern tools for the Open Web
-Modern tools for the Open Web
+Sodobna orodja za odprt splet
 
 
 ;Create and debug web experiences with powerful, open source tools.
@@ -60,7 +60,7 @@ Debug Firefox and framework apps<br> built on React and Ember<br> with the “go
 
 # Link to https://developer.mozilla.org/docs/Tools/Debugger
 ;Learn more about Debugger
-Learn more about Debugger
+Več o razhroščevalniku
 
 
 ;Speak up
@@ -73,11 +73,11 @@ Feedback makes us better. Tell us how we can improve the browser and Developer t
 
 # Link to https://discourse.mozilla-community.org/c/devtools
 ;Join the conversation
-Join the conversation
+Pridruži se pogovoru
 
 
 ;Get involved
-Get involved
+Pridružite se
 
 
 ;Help build the last independent browser. Write code, fix bugs, make add-ons, and more.
@@ -86,7 +86,7 @@ Help build the last independent browser. Write code, fix bugs, make add-ons, and
 
 # Link to https://devtools-html.github.io/
 ;Start now
-Start now
+Začnite zdaj
 
 
 ;Design, code, test, refine. Perfect your sites with Firefox DevTools.
@@ -94,7 +94,7 @@ Design, code, test, refine. Perfect your sites with Firefox DevTools.
 
 
 ;Inspector
-Inspector
+Pregledovalnik
 
 
 ;Inspect and refine code to build pixel-perfect layouts.
@@ -103,11 +103,11 @@ Inspect and refine code to build pixel-perfect layouts.
 
 # Link to https://developer.mozilla.org/docs/Tools/Seiten_Inspektor
 ;Learn more about the Page Inspector
-Learn more about the Page Inspector
+Več o pregledovalniku strani
 
 
 ;Console
-Console
+Konzola
 
 
 ;Track CSS, JavaScript, security and network issues.
@@ -120,7 +120,7 @@ Learn more about the Web Console
 
 
 ;Debugger
-Debugger
+Razhroščevalnik
 
 
 ;Powerful JavaScript debugger with support for your framework.
@@ -133,7 +133,7 @@ Learn more about the Debugger
 
 
 ;Network
-Network
+Omrežje
 
 
 ;Monitor network requests that can slow or block your site.
@@ -155,11 +155,11 @@ Add, modify and remove cache, cookies, databases and session data.
 
 # Link to https://developer.mozilla.org/docs/Tools/Storage_Inspector
 ;Learn more about the Storage panel
-Learn more about the Storage panel
+Več o plošči shrambe
 
 
 ;Responsive Design Mode
-Responsive Design Mode
+Odziven način
 
 
 ;Test sites on emulated devices in your browser.
@@ -172,7 +172,7 @@ Learn more about Responsive Design Mode
 
 
 ;Visual Editing
-Visual Editing
+Vizualno urejanje
 
 
 ;Fine-tune animations, alignment and padding.
@@ -185,7 +185,7 @@ Learn more about Visual Editing
 
 
 ;Performance
-Performance
+Učinkovitost
 
 
 ;Unblock bottlenecks, streamline processes, optimize assets.
@@ -198,7 +198,7 @@ Learn more about the Performance panel
 
 
 ;Memory
-Memory
+Pomnilnik
 
 
 # Zippy means very fast.
@@ -212,7 +212,7 @@ Learn more about the Memory panel
 
 
 ;Web Audio
-Web Audio
+Spletni zvok
 
 
 ;The only developer tool for inspecting the Web Audio API.
@@ -225,7 +225,7 @@ Learn more about the Web Audio Editor
 
 
 ;Scratchpad
-Scratchpad
+Beležnica
 
 
 ;Edit, write, run and execute JavaScript in real time.
@@ -247,6 +247,6 @@ Edit and manage all your CSS stylesheets in your browser.
 
 # Link to https://developer.mozilla.org/docs/Tools/Style_Editor
 ;Learn more about the Style Editor
-Learn more about the Style Editor
+Več o urejevalniku sloga
 
 

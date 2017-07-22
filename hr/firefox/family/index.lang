@@ -1,20 +1,25 @@
+## active ##
+## download_browse_freely ##
+## firefox_title_meta_bug1345338 ##
+## ios_product_tagline ##
+## tracking_protection ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/products/
 
 
 # HTML page title
 ;Free Web Browser for Android, iOS, Desktop | Firefox
-Free Web Browser for Android, iOS, Desktop | Firefox
+Besplatan preglednik za Android, iOS, desktop | Firefox
 
 
 # String is obsolete. Do not remove.
 # Title of the page (HTML meta tag)
 ;Firefox – Desktop browser, Android, iOS, Sync, Private Browsing
-Firefox – Desktop browser, Android, iOS, Sync, Private Browsing
+Firefox - desktop preglednik, Android, iOS, sinkronizacija, privatno pretraživanje
 
 
 # HTML page description
 ;Millions of people around the world trust Firefox Web browsers on Android, iOS and desktop computers. Fast. Private. Download now!
-Millions of people around the world trust Firefox Web browsers on Android, iOS and desktop computers. Fast. Private. Download now!
+Milijuni ljudi širom svijeta vjeruju Firefox preglednicima za Android, iOS i osobna računala. Brz. Privatan. Preuzmite odmah!
 
 
 # String is obsolete. Do not remove.
@@ -32,7 +37,7 @@ Ažurirajte da biste bili brži i sigurniji.
 
 
 ;Browse Freely
-Browse Freely
+Pretražujte slobodno
 
 
 # String obsolete. Do NOT remove.
@@ -78,7 +83,7 @@ Firefox <span>za</span> iOS
 
 
 ;Fast. Smart. Yours.
-Fast. Smart. Yours.
+Brz. Pametan. Vaš.
 
 
 # Obsolete title, do not remove
@@ -87,7 +92,7 @@ Preuzmite ga za iPhone i iPad
 
 
 ;Now with Tracking Protection.
-Now with Tracking Protection.
+Sada i sa zaštitom od praćenja.
 
 
 ;Connect Firefox wherever you use it.
