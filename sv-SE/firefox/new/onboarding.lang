@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Used for the new http://www-dev.allizom.org/firefox/new/ but also http://www-dev.allizom.org/firefox/54.0/firstrun/
 
 
@@ -30,7 +31,7 @@ Ladda ner Mozilla Firefox, en gratis webbläsare. Firefox är skapad av en globa
 
 
 ;Chart your own course
-Chart your own course
+Gå din egna väg
 
 
 # Link points to a SUMO page.
@@ -47,31 +48,31 @@ Upptäck hur du kan ta med dig Firefox vart du än går
 
 
 ;Go Fast
-Go Fast
+Gå snabbt
 
 
 ;You have things to do. Get them done faster.
-You have things to do. Get them done faster.
+Du har saker att göra. Få dem gjort snabbare.
 
 
 ;Go Far
-Go Far
+Gå långt
 
 
 ;Go anywhere, with more built-in privacy tools than any other browser.
-Go anywhere, with more built-in privacy tools than any other browser.
+Gå överallt, med fler inbyggda sekretessverktyg än någon annan webbläsare.
 
 
 ;Go Forward
-Go Forward
+Gå framåt
 
 
 ;Use the only browser built for people, not profit.
-Använd den enda webbläsaren byggd för människor, inte vinst.
+Använd den enda webbläsaren byggd för människor, inte för vinst.
 
 
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+Håll dig uppdaterad med<br> de senaste nyheterna i Firefox.
 
 
 ;Firefox for other platforms
@@ -94,27 +95,27 @@ Ladda ner Firefox <span>för Linux</span>
 
 
 ;Welcome to Firefox
-Welcome to Firefox
+Välkommen till Firefox
 
 
 ;Already using Firefox?
-Already using Firefox?
+Använder du redan Firefox?
 
 
 ;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
-Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
+Logga in på ditt konto och vi kommer att synkronisera bokmärken, lösenord och andra bra saker du har sparat till Firefox på andra enheter.
 
 
 ;Learn more about Firefox Accounts
-Learn more about Firefox Accounts
+Lär dig mer om Firefox-konton
 
 
 ;Skip this step
-Skip this step
+Hoppa över det här steget
 
 
 ;Behold! The open web awaits.
-Behold! The open web awaits.
+Skåda! Den öppna webben väntar.
 
 
 ;Thanks for choosing Firefox. Your download should begin automatically. If not, <a id="%(id)s" href="%(fallback_url)s">click here</a>.

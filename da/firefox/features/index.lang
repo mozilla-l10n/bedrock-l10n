@@ -1,250 +1,251 @@
+## active ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/features
 
 
 ;Protect your privacy and browse faster with Firefox features
-Protect your privacy and browse faster with Firefox features
+Beskyt dit privatliv og surf hurtigere med Firefox
 
 
 ;You’re in control with Firefox’s easy-to-use features that protect your privacy and browsing speeds.
-You’re in control with Firefox’s easy-to-use features that protect your privacy and browsing speeds.
+Med Firefox' funktioner til at beskytte dit privatliv og til at sætte fart på nettet, er det dig, der styrer.
 
 
 ;Firefox features
-Firefox features
+Funktioner i Firefox
 
 
 ;Modern
-Modern
+Moderne
 
 
 ;Your favorite add-ons and extensions
-Your favorite add-ons and extensions
+Dine foretrukne tilføjelser og udvidelser
 
 
 # These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
 ;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass and thousands more.
+Adblock, Ublock, LastPass og tusinde flere.
 
 
 # Links to https://addons.mozilla.org/firefox
 ;Get powerful add-ons
-Get powerful add-ons
+Få kraftfulde tilføjelser
 
 
 ;Customize your browser
-Customize your browser
+Tilpas din browser
 
 
 ;Personalize Firefox with everything from themes to privacy tools.
-Personalize Firefox with everything from themes to privacy tools.
+Tilpas Firefox med alt fra temaer til privatlivsfunktioner.
 
 
 # Link to https://addons.mozilla.org/firefox/themes
 ;Make Firefox yours
-Make Firefox yours
+Gør Firefox til din
 
 
 ;Browse faster
-Browse faster
+Surf hurtigere
 
 
 ;Start faster, tab hop quicker, get more done.
-Start faster, tab hop quicker, get more done.
+Start hurtigere, skift faneblad hurtigere, få mere gjort.
 
 
 # Link to /firefox/features/fast
 ;Do more with Firefox
-Do more with Firefox
+Gør mere med Firefox
 
 
 ;Sync between devices
-Sync between devices
+Synkroniser mellem enheder
 
 
 ;Get your tabs, logins and history on the go.
-Get your tabs, logins and history on the go.
+Tag dine faneblade, logins og historik med på farten.
 
 
 # Link to https://www-demo5.allizom.org/firefox/sync/
 ;Use Firefox everywhere
-Use Firefox everywhere
+Brug Firefox overalt
 
 
 ;Firefox for Android
-Firefox for Android
+Firefox til Android
 
 
 ;Our most customizable Firefox for Android yet.
-Our most customizable Firefox for Android yet.
+Vores hidtil mest tilpasningsvenlige Firefox til Android.
 
 
 # Link to /firefox/android
 ;Take control of your browser
-Take control of your browser
+Tag kontrol over din browser
 
 
 ;Firefox for iOS
-Firefox for iOS
+Firefox til iOS
 
 
 ;The speed you need. The privacy you trust.
-The speed you need. The privacy you trust.
+Hurtigere og med beskyttelse af dit privatliv.
 
 
 # Link to /firefox/ios
 ;Go beyond the default
-Go beyond the default
+Bedre end standarden
 
 
 ;Firefox Test Pilot
-Firefox Test Pilot
+Firefox Test Pilot {ok}
 
 
 ;Experimental features that can simplify your life.
-Experimental features that can simplify your life.
+Eksperimentelle funktioner der kan gøre dit liv enklere.
 
 
 # Link to https://testpilot.firefox.com
 ;Help launch new features
-Help launch new features
+Hjælp med at indføre nye funktioner
 
 
 ;Balanced memory usage
-Balanced memory usage
+Tilpasset brug af hukommelse
 
 
 ;Browse smoothly and leave plenty of memory for your computer programs.
-Browse smoothly and leave plenty of memory for your computer programs.
+Surf let, så du har masser af hukommelse til andre programmer.
 
 
 # Link to /firefox/features/memory
 ;Speed up your computer
-Speed up your computer
+Sæt fart på din computer
 
 
 ;Better bookmarks
-Better bookmarks
+Bedre bogmærker
 
 
 ;Quickly save and organize your favorite sites.
-Quickly save and organize your favorite sites.
+Gem og organiser hurtigt dine foretrukne websteder.
 
 
 # Link to /firefox/features/bookmarks
 ;Customize your bookmarks
-Customize your bookmarks
+Tilpas dine bogmærker
 
 
 ;Privacy
-Privacy
+Privatliv
 
 
 ;Ad tracker blocking
-Ad tracker blocking
+Blokering af annoncesporing
 
 
 ;Firefox Private Browsing blocks ads with trackers.
-Firefox Private Browsing blocks ads with trackers.
+Privat browsing blokerer reklamer, der sporer dig.
 
 
 # Link to /firefox/features/private-browsing
 ;Block ad trackers
-Block ad trackers
+Blokér reklamer med sporing
 
 
 ;More powerful Private Browsing
-More powerful Private Browsing
+Mere kraftfuld privat browsing
 
 
 # Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
 ;More protection than Incognito mode or InPrivate.
-More protection than Incognito mode or InPrivate.
+Bedre beskyttelse end med inkognitotilstand og InPrivate-browsing.
 
 
 # Link to /firefox/features/private-browsing
 ;Get better privacy
-Get better privacy
+Beskyt privatlivet
 
 
 ;More private
-More private
+Mere privat
 
 
 ;We don’t sell access to your online data. Period.
-We don’t sell access to your online data. Period.
+Vi sælger ikke adgang til dine online-data. Punktum.
 
 
 # Link to /firefox/features/private-browsing
 ;Get Firefox for privacy
-Get Firefox for privacy
+Beskyt privatlivet
 
 
 ;Limited data collection
-Limited data collection
+Begrænset dataindsamling
 
 
 ;Opted-in to privacy, so you can browse freely.
-Opted-in to privacy, so you can browse freely.
+Vælg selv-beskyttelse, så du kan surfe frit.
 
 
 # Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
 ;Read our privacy policy
-Read our privacy policy
+Læs vores privatlivspolitik
 
 
 ;Password Manager
-Password Manager
+Adgangskode-håndtering
 
 
 ;Forget the reset. Save passwords and logins quickly.
-Forget the reset. Save passwords and logins quickly.
+Gem nemt adgangskoder og logins.
 
 
 # Link to /firefox/features/password-manager
 ;Easily manage your logins
-Easily manage your logins
+Håndtér nemt dine logins
 
 
 ;Independence
-Independence
+Uafhængighed
 
 
 ;By non-profit, Mozilla
-By non-profit, Mozilla
+Af nonprofit, Mozilla
 
 
 ;Protecting the health of the internet.
-Protecting the health of the internet.
+Beskytter internettets sundhed.
 
 
 # https://www.mozilla.org/mission/
 ;Read Mozilla’s mission
-Read Mozilla’s mission
+Læs Mozillas mission
 
 
 ;Open source
-Open source
+Open source {ok}
 
 
 ;We’re always transparent.
-We’re always transparent.
+Vi går ind for åbenhed.
 
 
 # Link to /firefox/features/independent
 ;See what makes us different
-See what makes us different
+Se hvad der gør os anderledes
 
 
 ;Protect your rights
-Protect your rights
+Beskyt dine rettigheder
 
 
 ;We help keep corporate powers in check.
-We help keep corporate powers in check.
+Vi hjælper med at holde styr på de kommercielle virksomheder.
 
 
 # Link to /firefox/features/independent
 ;Choose independence
-Choose independence
+Vælg uafhængighed
 
 

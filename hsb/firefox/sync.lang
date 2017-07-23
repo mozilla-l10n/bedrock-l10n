@@ -16,11 +16,11 @@ Wzmiće z Firefox Sync swoje zapołožki, rajtarki abo hesła Firefox, hdźežku
 
 
 ;Browse boldly. Connect your devices.
-Browse boldly. Connect your devices.
+Přehladujće zmužiće. Zwjazajće swoje graty.
 
 
 ;Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
-Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
+Přidajće Firefox na swojich wosobinskich gratach, zo byšće swoje zapołožki, wočinjene rajtarki a hesła wšudźe wužiwał. Dóstańće wěsty přistup na wšitko, štož trjebaće, hdyž so ze swojim kontom Firefox přizjewjeće.
 
 
 # String is obsolete. Do NOT remove.
@@ -34,21 +34,21 @@ Sće zregistrowany a hotowy za přistup na <em>swój</em> Firefox, wšudźe a k�
 
 
 ;Your web, how you like it, everywhere
-Your web, how you like it, everywhere
+Waš web, kaž jón lubujeće, wšudźe
 
 
 ;Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
-Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
+Přizjewće so pola swojeho konta Firefox, zo byšće přistup na swoje škitane hesła, wočinjene rajtarki a zapołožki měł. Přidajće Firefox wašim wosobinskim gratam a wostańće wšudźe na wěste wašnje ze swojim přehladowanskim dožiwjenjom w zwisku. Je potom wšitko tak, kaž chceće, hdźežkuli sće.
 
 
 # This expression was popular on ad billboard about real estate, suggesting if one bought the house here, he or she didn't have to fight the traffic further.
 # Here it emphasizes Sync's feature of seemless integration between desktop and mobile. Feel free to come up with a different text (we're waiting for an alternative headline from copywriters).
 ;If you lived here you’d be home by now
-If you lived here you’d be home by now
+Jeli byšće tu žiwy był, byšće hižo doma był
 
 
 ;Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
-Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
+Sćehńće abo wočińće Firefox, zo byšće wěsty zwisk ze swojim přehladowanskim dožiwjenjom na wšěch swojich wosobinskich gratach wzdźeržał. Přizjewće so pola swojeho konta firefox, zo byšće přistup na swoje škitane hesła, wočinjene rajtarki a zapołožki měł. Je potom wšitko tak, kaž chceće, hdźežkuli sće.
 
 
 # String is obsolete. Do NOT remove.
@@ -78,7 +78,7 @@ Bórze móžeće Sync na swojim iOS-graće wužiwać
 
 
 ;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
-Sync je jedna z wulkotnych funkcijow, kotrež jenož z Firefox dóstawaće. Wotkryjće je wšě!
+Sync je jedna z wulkotnych funkcijow, kotrež jenož z Firefox dóstawaće. Wotkryjće je wšitke!
 
 
 ;Now sync Firefox with your iOS and Android devices.
@@ -207,12 +207,12 @@ Historiju
 
 
 ;Personal
-Personal
+Wosobinski
 
 
 # A rabbit hole is a long and winding exploratory path with many connections. The Web is essentially designed to function as a rabbit hole because of the way hyperlinks work.
 ;That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
-That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
+Sće dźensa rano tutu nakupowansku turu na swojim laptopje započał? Čińće tam dale, hdźež sće dźensa wječor na swojim mobilnym telefonje přestał. Sće při wobjedowanju recept za wječer namakał? Wočińće jón nablaku na swojim tableće w kuchni. Wutworće wěsty zwisk ze swojimi wosobinskimi gratami.
 
 
 # String is obsolete. Do NOT remove.
@@ -226,11 +226,11 @@ Zběhńće so ze swojeho pisanskeho blida a dźiće ke kawči, bjeztoho zo byš�
 
 
 ;Secure
-Secure
+Wěsty
 
 
 ;Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
-Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
+Waše konto Firefox je dostup k wašimi webnaležnosćam - pomhamy wam je wěste dźeržał. Waše daty su přeco pod wašej kontroli, nječitajomne wot nikoho druheho a zaklučowane z wašim kontowym hesłom. Škitamy je a damy wam kluč.
 
 
 # String is obsolete. Do NOT remove.
@@ -244,7 +244,7 @@ Wostańće ze wšěmi wašimi wažnymi informacijemi zwjazany. Synchronizujće k
 
 
 ;Accessible
-Accessible
+Přistupny
 
 
 ;Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.

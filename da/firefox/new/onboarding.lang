@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Used for the new http://www-dev.allizom.org/firefox/new/ but also http://www-dev.allizom.org/firefox/54.0/firstrun/
 
 
@@ -30,7 +31,7 @@ Download Mozilla Firefox, en gratis browser. Firefox er skabt af en global nonpr
 
 
 ;Chart your own course
-Chart your own course
+Læg din egen kurs
 
 
 # Link points to a SUMO page.
@@ -47,23 +48,23 @@ Se alle de måder, hvorpå du kan tage Firefox med på farten
 
 
 ;Go Fast
-Go Fast
+Gå hurtigt
 
 
 ;You have things to do. Get them done faster.
-You have things to do. Get them done faster.
+Få klaret dine ting hurtigere.
 
 
 ;Go Far
-Go Far
+Gå trygt
 
 
 ;Go anywhere, with more built-in privacy tools than any other browser.
-Go anywhere, with more built-in privacy tools than any other browser.
+Surf trygt overalt med bedre beskyttelse af privatlivet end i andre browsere.
 
 
 ;Go Forward
-Go Forward
+Gå frem
 
 
 ;Use the only browser built for people, not profit.
@@ -71,7 +72,7 @@ Brug den eneste browser, der er bygget for brugerne, ikke for profit.
 
 
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+Få nyheder<br> om Firefox.
 
 
 ;Firefox for other platforms
@@ -94,27 +95,27 @@ Hent Firefox <span>til Linux</span>
 
 
 ;Welcome to Firefox
-Welcome to Firefox
+Velkommen til Firefox
 
 
 ;Already using Firefox?
-Already using Firefox?
+Bruger du allerede Firefox?
 
 
 ;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
-Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
+Log ind på din konto, så vil vi synkronisere bogmærkerne, adgangskoderne og andre ting, du har gemt i Firefox på andre enheder.
 
 
 ;Learn more about Firefox Accounts
-Learn more about Firefox Accounts
+Læs mere om Firefox-konti
 
 
 ;Skip this step
-Skip this step
+Spring dette trin over
 
 
 ;Behold! The open web awaits.
-Behold! The open web awaits.
+Du er på vej til det åbne web!
 
 
 ;Thanks for choosing Firefox. Your download should begin automatically. If not, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
