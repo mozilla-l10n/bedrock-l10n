@@ -2,6 +2,7 @@
 ## firefox_sync_mobile_buttons_update ##
 ## fx38_sync_updates ##
 ## ios_announce ##
+## sync-update-q3-2017 ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
 
@@ -16,11 +17,11 @@ Wzejśo z Firefox Sync swóje cytańske znamjenja, rejtarki abo gronidła Firefo
 
 
 ;Browse boldly. Connect your devices.
-Browse boldly. Connect your devices.
+Pśeglědujśo skobodnje. Zwězajśo swóje rědy.
 
 
 ;Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
-Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
+Pśidajśo Firefox na swójich wósobinskich rědach, aby swóje cytańske znamjenja, wócynjone rejtarki a gronidła wšuźi wužywał. Dostańśo wěsty pśistup na wšykno, což trjebaśo, gaž se ze swójim kontom Firefox pśizjawjaśo.
 
 
 # String is obsolete. Do NOT remove.
@@ -34,21 +35,21 @@ Sćo zregistrěrowany a gótowy za pśistup na <em>swój</em> Firefox, wšuźi a
 
 
 ;Your web, how you like it, everywhere
-Your web, how you like it, everywhere
+Waš web, ako jen lubujośo, wšuźi
 
 
 ;Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
-Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
+Pśizjawśo se pla swójogo konta Firefox, aby pśistup na swóje šćitane gronidła, wócynjone rejtarki a cytánske znamjenja měł. Pśidajśo Firefox wašym wósobinskim rědam a wóstańśo wšuźi na wěste wašnje ze swójim pśeglědowańskim dožywjenim w zwisku. Jo pótom wšykno tak, ako cośo, źožkuli sćo.
 
 
 # This expression was popular on ad billboard about real estate, suggesting if one bought the house here, he or she didn't have to fight the traffic further.
 # Here it emphasizes Sync's feature of seemless integration between desktop and mobile. Feel free to come up with a different text (we're waiting for an alternative headline from copywriters).
 ;If you lived here you’d be home by now
-If you lived here you’d be home by now
+Jolic by wy był how žywy, by wy był južo doma
 
 
 ;Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
-Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
+Ześěgniśo abo wócyńśo Firefox, aby wěsty zwisk ze swójim pśeglědowańskim dožywjenim na wšych swójich wósobinskich rědach wuźaržył. Pśizjawśo se pla swójogo konta Firefox, aby pśistup na swóje šćitane gronidła, wócynjone rejtarki a cytańske znamjenja měł. Jo pótom wšykno tak, ako cośo, źožkuli sćo.
 
 
 # String is obsolete. Do NOT remove.
@@ -207,12 +208,12 @@ Historija
 
 
 ;Personal
-Personal
+Wósobinski
 
 
 # A rabbit hole is a long and winding exploratory path with many connections. The Web is essentially designed to function as a rabbit hole because of the way hyperlinks work.
 ;That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
-That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
+Sćo źinsa rano toś tu nakupowańsku turu na swójom laptopje zachopił? Cyńśo tam dalej, źož sćo źinsa wjacor na swójom mobilnem telefonje pśestał. Sćo pśi wobjedowanju recept za wjacerju namakał? Wócyńśo jen na flaku na swójom tableśe w kuchni. Napórajśo wěsty zwisk ze swójimi wósobinskimi rědami.
 
 
 # String is obsolete. Do NOT remove.
@@ -226,11 +227,11 @@ Stańśo ze swójogo pisańskego blida a źiśo ku kawčy, bźez togo až wusaj�
 
 
 ;Secure
-Secure
+Wěsty
 
 
 ;Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
-Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
+Wašo konto Firefox jo zachod k wašym webnastupnosćam - pomagamy wam je wěste źaržaś. Waše daty su pśecej pód wašeju kontrolu, njecytajobne wót nikogo drugego a zaklucowane z wašym kontowym gronidłom. Šćitamy je a dajomy wam kluc.
 
 
 # String is obsolete. Do NOT remove.
@@ -244,11 +245,11 @@ Wóstańśo ze wšymi wašymi wažnymi informacijami zwězany. Synchronizěrujś
 
 
 ;Accessible
-Accessible
+Pśistupny
 
 
 ;Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
-Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
+Pśeglědujśo swóje wócynjone rejtarki a skłaźone nastawki sobotu rano pśi kafeju. Wužywajśo swóje cytańske znamjenja a gronidła wšuźi, źož Firefox wužywaśo - na swójom smartfonje, tableśe abo laptopje. Zwězajśo wšykno, což trjebaśo a wuwóstajśo to, což njetrjebaśo.
 
 
 # String is obsolete. Do NOT remove.
