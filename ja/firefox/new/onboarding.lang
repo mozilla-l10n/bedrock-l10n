@@ -9,11 +9,11 @@
 # Link points to a SUMO page.
 # This is displayed to Android users on older version of Firefox.
 ;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
-パフォーマンスやプライバシー保護に優れた Firefox の最新版に <a href="%(url)s">更新してください</a>。
+高速化とプライバシー強化を実現した最新の Firefox へ <a href="%(url)s">今すぐ更新</a>。
 
 
 ;Congrats! You’re using the latest version of Firefox.
-おめでとう！　最新バージョンの Firefox をお使いです。
+安心してください！ あなたは Firefox の最新版をお使いです。
 
 
 ;You’re using a pre-release version of Firefox.
@@ -22,12 +22,12 @@
 
 # Used as HTML title of the page
 ;Free Web Browser
-自由なウェブブラウザー
+無料ウェブブラウザー
 
 
 # Used as HTML description of the page
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, Mac OS X, Linux, Android and iOS today!
-自由なウェブブラウザー Mozilla Firefox をダウンロード。Firefox は、個人の尊重にひたむきに活動するグローバルな非営利団体によって作られています。Windows、Mac OS X、Linux、Android、iOS 版の Firefox を今すぐダウンロード！
+無料ウェブブラウザー Mozilla Firefox をダウンロード。Firefox は、個人がオンライン生活を自ら管理できるよう取り組んでいる世界的な非営利法人が提供しています。Windows、Mac OS X、Linux、Android、iOS 版の Firefox を今すぐダウンロード！
 
 
 ;Chart your own course
@@ -40,7 +40,7 @@ Firefox をインストールするには <a href="%(url)s">こちらの手順</
 
 
 ;Refresh Firefox
-Firefox をリフレッシュしよう
+Firefox をリフレッシュ
 
 
 ;Discover all the ways to take Firefox on the go
@@ -52,7 +52,7 @@ Firefox を持ち歩く様々な方法について
 
 
 ;You have things to do. Get them done faster.
-やることがいっぱい。それならもっと素早く終わらせよう。
+ネット上でやることがいっぱいあっても、Firefox ならより素早くこなせます。
 
 
 ;Go Far
@@ -72,7 +72,7 @@ Firefox を持ち歩く様々な方法について
 
 
 ;Keep up with<br> all things Firefox.
-Firefox の様々な<br>最新情報をいち早く。
+Firefox の最新情報をお手元に。
 
 
 ;Firefox for other platforms
@@ -103,7 +103,7 @@ Firefox へようこそ
 
 
 ;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
-あなたのアカウントへログインすれば、他の端末上の Firefox 上で保存したブックマークやパスワードなどのデータを同期できます。
+Firefox アカウントへログインすれば、他の端末上の Firefox で保存したブックマークやパスワードなどのデータを簡単に同期できます。
 
 
 ;Learn more about Firefox Accounts
@@ -119,10 +119,10 @@ Firefox アカウントの詳細はこちら
 
 
 ;Thanks for choosing Firefox. Your download should begin automatically. If not, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-Firefox をお選びいただきありがとうございます。ダウンロードは自動的に始まります。もし自動的にダウンロードが始まらない場合は、<a id="%(id)s" href="%(fallback_url)s">こちらをクリックしてください</a>。
+Firefox をお選びいただきありがとうございます。ダウンロードは自動的に始まります。もし始まらない場合は <a id="%(id)s" href="%(fallback_url)s">こちらをクリックしてください</a>。
 
 
 ;Get Firefox for Android and iOS.
-Android あるいは iOS 版の Firefox を手に入れよう
+Android 版や iOS 版の Firefox をダウンロード。
 
 

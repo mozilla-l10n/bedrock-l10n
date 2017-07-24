@@ -3,11 +3,11 @@
 
 
 ;Protect your privacy and browse faster with Firefox features
-Firefox の機能でプライバシーを守り、より高速にブラウジング
+Firefox の豊富な機能でプライバシーを守り、より高速にブラウジング
 
 
 ;You’re in control with Firefox’s easy-to-use features that protect your privacy and browsing speeds.
-あなたのプライバシーとブラウジング速度を守る Firefox の使いやすい機能で、自由なインターネットを。
+使いやすいプライバシー保護機能や快適なブラウジング速度を兼ね備えた Firefox なら、もっと自由にインターネットを楽しめます。
 
 
 ;Firefox features
@@ -24,7 +24,7 @@ Firefox の機能
 
 # These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
 ;Adblock, Ublock, LastPass and thousands more.
-Adblock、Ublock、LastPass など数千種類のアドオンが揃っています。
+Adblock、Ublock、LastPass など、数千種類のアドオンが揃っています。
 
 
 # Links to https://addons.mozilla.org/firefox
@@ -37,12 +37,12 @@ Adblock、Ublock、LastPass など数千種類のアドオンが揃っていま�
 
 
 ;Personalize Firefox with everything from themes to privacy tools.
-テーマからプライバシーツールまで、あらゆるツールで Firefox を自分色に。
+テーマからプライバシーツールに至るまで、あらゆるアドオンで Firefox を自分好みに。
 
 
 # Link to https://addons.mozilla.org/firefox/themes
 ;Make Firefox yours
-Firefox を自分のものにする
+Firefox を自分のものに
 
 
 ;Browse faster
@@ -50,7 +50,7 @@ Firefox を自分のものにする
 
 
 ;Start faster, tab hop quicker, get more done.
-より高速な起動やタブを切り替えで、より多くのことをこなせます。
+素早い起動やタブの切り替えで、より多くのことをこなせます。
 
 
 # Link to /firefox/features/fast
@@ -59,7 +59,7 @@ Firefox でもっと多くのことを
 
 
 ;Sync between devices
-端末感で同期
+端末間で同期
 
 
 ;Get your tabs, logins and history on the go.
@@ -76,12 +76,12 @@ Android 版 Firefox
 
 
 ;Our most customizable Firefox for Android yet.
-かつてなくカスタマイズしやすい Android 版 Firefox の登場です。
+かつてなくカスタマイズ自在な Android 版 Firefox をお届けします。
 
 
 # Link to /firefox/android
 ;Take control of your browser
-ブラウザーを自分で管理
+自分自身でブラウザーを管理
 
 
 ;Firefox for iOS
@@ -102,12 +102,12 @@ Firefox Test Pilot {ok}
 
 
 ;Experimental features that can simplify your life.
-あなたの生活をシンプルにできる実験的な機能。
+あなたの生活を楽にできる実験的な機能の数々。
 
 
 # Link to https://testpilot.firefox.com
 ;Help launch new features
-新機能の追加に協力
+新機能の開発に協力
 
 
 ;Balanced memory usage
@@ -115,7 +115,7 @@ Firefox Test Pilot {ok}
 
 
 ;Browse smoothly and leave plenty of memory for your computer programs.
-スムーズにブラウジングしつつ、他のコンピュータープログラムのためのメモリーを十分に残せます。
+快適にブラウジングしつつ、他のコンピュータープログラムのためのメモリーも十分に残せます。
 
 
 # Link to /firefox/features/memory
@@ -145,7 +145,7 @@ Firefox Test Pilot {ok}
 
 
 ;Firefox Private Browsing blocks ads with trackers.
-Firefox のプライベートブラウジングは行動を追跡する広告をブロックします。
+Firefox のプライベートブラウジングは行動追跡に使われている広告をブロックします。
 
 
 # Link to /firefox/features/private-browsing
@@ -159,7 +159,7 @@ Firefox のプライベートブラウジングは行動を追跡する広告を
 
 # Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
 ;More protection than Incognito mode or InPrivate.
-シークレットモードや InPrivate よりも強力な保護。
+シークレットモードや InPrivate よりも強力な保護を提供。
 
 
 # Link to /firefox/features/private-browsing
@@ -172,20 +172,20 @@ Firefox のプライベートブラウジングは行動を追跡する広告を
 
 
 ;We don’t sell access to your online data. Period.
-私たちはあなたのオンラインデータへのアクセスを売り渡したりしません。以上。
+大前提として、私達はあなたのオンラインデータへのアクセスを第三者に売り渡したりしません。
 
 
 # Link to /firefox/features/private-browsing
 ;Get Firefox for privacy
-プライバシーを守るために Firefox をダウンロード
+プライバシーのために Firefox を使う
 
 
 ;Limited data collection
-制限付きデータ収集
+限られたデータ収集
 
 
 ;Opted-in to privacy, so you can browse freely.
-最初からプライバシーが考慮されているので、自由にブラウジングできます。
+最初からプライバシーが考慮されているので、安心してブラウジングできます。
 
 
 # Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
@@ -198,7 +198,7 @@ Firefox のプライベートブラウジングは行動を追跡する広告を
 
 
 ;Forget the reset. Save passwords and logins quickly.
-サイトのパスワードを素早く保存して、再設定を不要に。
+各サイトのパスワードを素早く保存して、再設定を不要に。
 
 
 # Link to /firefox/features/password-manager
@@ -207,15 +207,15 @@ Firefox のプライベートブラウジングは行動を追跡する広告を
 
 
 ;Independence
-独立系
+独立性
 
 
 ;By non-profit, Mozilla
-非営利法人の Mozilla から
+非営利法人の Mozilla が提供
 
 
 ;Protecting the health of the internet.
-インターネットの健全性を守りましょう。
+インターネットの健全性を守るために活動しています。
 
 
 # https://www.mozilla.org/mission/
@@ -228,12 +228,12 @@ Mozilla のミッションを読む
 
 
 ;We’re always transparent.
-私たちは常に透明性を保っています。
+私達は常に透明性を保っています。
 
 
 # Link to /firefox/features/independent
 ;See what makes us different
-私たちが他とどう違うのかを見る
+私達が他とどう違うのかを見る
 
 
 ;Protect your rights
@@ -241,7 +241,7 @@ Mozilla のミッションを読む
 
 
 ;We help keep corporate powers in check.
-私たちは大企業の力を抑える手助けをしています。
+私達は大企業の力を抑える手助けをしています。
 
 
 # Link to /firefox/features/independent

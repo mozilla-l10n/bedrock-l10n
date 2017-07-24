@@ -14,7 +14,7 @@ Vòstre sistèma a pas los  <a href="%(url)s">prerequesits</a> necessaris per in
 
 
 ;Your system may not meet the requirements for Firefox, but you can try one of these versions:
-Your system may not meet the requirements for Firefox, but you can try one of these versions:
+Se pòt que vòstre sistèma aja pas la configuracion que cal per Firefox, mai podètz ensajar una de las versions seguentas :
 
 
 ;<span>Firefox Beta</span> for Android
@@ -26,7 +26,7 @@ Your system may not meet the requirements for Firefox, but you can try one of th
 
 
 ;<span>Firefox Nightly</span> for Android
-<span>Firefox Nightly</span> for Android
+<span>Firefox Nightly</span> per Android
 
 
 ;<span>Firefox</span> for Android
@@ -42,7 +42,7 @@ Gratuit sus Google&nbsp;Play
 
 
 ;Get it free from the App Store
-Get it free from the App Store
+Gratuit sus l’App Store
 
 
 ;Firefox Beta
@@ -50,7 +50,7 @@ Firefox Bèta
 
 
 ;Firefox Nightly
-Firefox Nightly
+Firefox Nightly {ok}
 
 
 ;Firefox Aurora
@@ -79,11 +79,11 @@ Telecargatz Firefox per Android
 
 
 ;Download on the App Store
-Download on the App Store
+Lo telecargar sus l’App Store
 
 
 ;Get Firefox for iOS
-Get Firefox for iOS
+Telecargar Firefox per l'iOS
 
 
 ;What’s New
@@ -91,7 +91,7 @@ Qué de nòu
 
 
 ;Firefox Privacy
-Firefox Privacy
+Politica de confidencialitat de Firefox
 
 
 ;Systems &amp; Languages
@@ -99,6 +99,6 @@ Sistèmas e lengas
 
 
 ;Firefox for Other Platforms & Languages
-Firefox for Other Platforms & Languages
+Firefox per autras lengas e plataformas
 
 

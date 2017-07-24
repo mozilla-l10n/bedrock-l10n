@@ -8,20 +8,20 @@
 
 # HTML page title
 ;Use Bookmarks, Tabs and Passwords Across Devices | Firefox
-ブックマークやタブ、パスワードを複数の端末で同期 | Firefox
+ブックマークやタブ、パスワードを複数の端末間で同期 | Firefox
 
 
 # HTML page description
 ;Bring your Firefox bookmarks, tabs, or passwords wherever you go with Firefox Sync. Share between computers and mobile devices. Get Firefox now!
-Firefox のブックマークやタブ、パスワードを Firefox Sync でどこへでも持ち出しましょう。パソコンとモバイル端末間で簡単に同期。Firefox を今すぐダウンロード！
+Firefox のブックマークやタブ、パスワードを Firefox Sync でどこへでも持ち歩きましょう。パソコンとモバイル端末間で簡単に同期。Firefox を今すぐダウンロード！
 
 
 ;Browse boldly. Connect your devices.
-大胆にブラウジングを。手元の端末をすべて接続。
+手元の端末をすべて接続して、思い切りブラウジングを。
 
 
 ;Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
-Firefox をお手持ちの携帯端末に追加して、ブックマーク、開かれているタブ、パスワードなどを持ち出しましょう。Firefox アカウントへログインすれば、必要なあらゆるデータへ安全にアクセスできます。
+Firefox をお手持ちの携帯端末に追加して、ブックマーク、開いているタブ、パスワードなどをどこへでも持ち歩きましょう。Firefox アカウントへログインすれば、必要なあらゆるデータへ安全にアクセスできます。
 
 
 # String is obsolete. Do NOT remove.
@@ -39,7 +39,7 @@ Ready, Set, Sync {ok}
 
 
 ;Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
-Firefox アカウントへログインして、保護されたパスワード、開かれているタブ、ブックマークへ簡単にアクセス。Firefox をお手持ちの携帯端末に追加すれば、どこでもあなた自身のブラウジング体験を安全に接続できます。どこへ出掛けるときでも、いつもの環境をそのまま持ち歩けます。
+Firefox アカウントへログインして、保護されたパスワード、開いているタブ、ブックマークへ簡単にアクセス。Firefox をお手持ちの携帯端末に追加すれば、どこでもあなたのブラウジング体験を安全に接続できます。どこへ出掛けるときでも、いつもと変わらないネット環境をそのまま持ち歩けます。
 
 
 # This expression was popular on ad billboard about real estate, suggesting if one bought the house here, he or she didn't have to fight the traffic further.
@@ -49,7 +49,7 @@ Firefox アカウントへログインして、保護されたパスワード、
 
 
 ;Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
-Firefox をダウンロードするか開いて、お手持ちのすべての携帯端末上であなた自身のブラウジング体験を安全に接続してみましょう。Firefox アカウントへログインして、保護されたパスワード、開かれているタブ、ブックマークへ簡単にアクセス。どこへ出掛けるときでも、いつもの環境をそのまま持ち歩けます。
+お手持ちのすべての携帯端末上で Firefox をダウンロードするか開いて、あなたのブラウジング体験を安全に接続してみましょう。Firefox アカウントへログインして、保護されたパスワード、開いているタブ、ブックマークへ簡単にアクセス。どこへ出掛けるときでも、いつもと変わらないネット環境をそのまま持ち歩けます。
 
 
 # String is obsolete. Do NOT remove.
@@ -63,7 +63,7 @@ Firefox をダウンロードするか開いて、お手持ちのすべての携
 
 
 ;Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
-Firefox アカウントでログイン。その後同期をしておけば、ログインしたすべての場所で同じブックマークや、パスワードを使えます。
+Firefox アカウントを使って同期をしておけば、ログインしたあらゆる場所で同じブックマークやパスワード、タブにアクセスできます。
 
 
 ;It looks like you’re running an older version of Firefox.
@@ -79,7 +79,7 @@ Sync。iOS にまもなく登場。
 
 
 ;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
-Sync は Firefox の 1 機能にすぎません。他の機能も併せて体験してください！
+Sync は Firefox だけで使える優れた機能のひとつに過ぎません。他の機能もぜひ試してください！
 
 
 ;Now sync Firefox with your iOS and Android devices.
@@ -91,15 +91,15 @@ Android 版 Firefox をダウンロード
 
 
 ;Get started with Sync
-Sync を使う
+Sync を使ってみる
 
 
 ;Update your Firefox
-Firefox を更新
+お使いの Firefox を更新
 
 
 ;Download Firefox
-Firefox のダウンロード
+Firefox をダウンロード
 
 
 ;Get started with Sync in four easy steps:
@@ -180,7 +180,7 @@ Sync は 5 ステップで簡単に設定できます:
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-Firefox の何を、どこへ同期するかはあなたが選べます。パソコンで見ていたタブをそのまま通勤へもって行くこともできますし、あなたのブックマークを仕事中に使うこともできます。何でも、いつでも、どこへでも。
+Firefox の何を、どこへ同期するかはあなたが選べます。パソコンで見ていたタブをそのまま通勤へもって行くこともできますし、あなたのブックマークを仕事中に見ることもできます。何でも、いつでも、どこへでも。
 
 
 ;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
@@ -200,7 +200,7 @@ Sync では次のものを同期できます:
 
 
 ;Open tabs
-タブ
+開いているタブ
 
 
 ;History
@@ -213,7 +213,7 @@ Sync では次のものを同期できます:
 
 # A rabbit hole is a long and winding exploratory path with many connections. The Web is essentially designed to function as a rabbit hole because of the way hyperlinks work.
 ;That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
-今朝パソコンで何かを買い求めてあちこちのサイトを見て回っていませんでしたか？ 今夜スマホで最後に見たページへ戻ってみましょう。お昼頃に見つけた夕食のレシピはどこ？ キッチンのタブレットで即座に開けます。お手持ちの携帯端末を安全に接続。
+今朝パソコンで何かを買い求めてあちこちのサイトを回っていませんでしたか？ 今夜スマホで最後に見たページへ戻ってみましょう。昼時に見つけた夕食のレシピはどこ？ キッチンのタブレットで即座に開けます。お手持ちの携帯端末を安全に接続して、シームレスなブラウジングを実現。
 
 
 # String is obsolete. Do NOT remove.
@@ -231,7 +231,7 @@ Sync では次のものを同期できます:
 
 
 ;Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
-あなたの Firefox アカウントはあなたのウェブ環境への入り口です。そして私達はそれを安全に守るお手伝いをします。あなたのデータは常にあなたの管理下にあり、誰も読み取れず、あなたのアカウントパスワードで暗号化されます。私達はそれを守り、あなたに鍵を渡します。
+あなたの Firefox アカウントはあなたのウェブ環境への入り口です。私達はそれを安全に守るお手伝いをします。あなたのデータは常にあなたの管理下にあり、他の誰も読み取れず、あなたのアカウントパスワードで暗号化されます。私達はそれを守り、あなたに鍵を渡します。
 
 
 # String is obsolete. Do NOT remove.
@@ -245,11 +245,11 @@ Sync では次のものを同期できます:
 
 
 ;Accessible
-いつでも手が届く
+手軽
 
 
 ;Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
-土曜日の朝にコーヒーを飲みながら、開かれているタブや保存したブックマークを見直してみましょう。スマートフォンからタブレット、パソコンまで、Firefox を使っている場所ならどこでも、自分のブックマークやパスワードにアクセスできます。自分が必要なデータだけを同期できます。
+土曜日の朝にコーヒーでも飲みながら、開いているタブや保存したページを見直してみましょう。スマートフォンからタブレット、パソコンまで、Firefox を使っている場所ならどこでも自分のブックマークやパスワードにアクセスできます。同期したいデータはあなた自身で選べます。
 
 
 # String is obsolete. Do NOT remove.
