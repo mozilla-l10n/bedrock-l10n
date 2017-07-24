@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo server is available at https://www-dev.allizom.org/internet-health/digital-inclusion/
 
 
@@ -49,7 +50,7 @@ För att Internet ska kunna uppfylla sitt största löfte måste det spegla mån
 
 
 ;As inclusive as the Web can seem, it’s not yet an equal playing field. More than half the world is still without it; emerging economies and marginalized communities are often the last to gain access. Far fewer women are using the Internet than men. And without diversity among its creators, the Web itself will reflect unconscious biases, while personalizing algorithms can reinforce our own.
-As inclusive as the Web can seem, it’s not yet an equal playing field. More than half the world is still without it; emerging economies and marginalized communities are often the last to gain access. Far fewer women are using the Internet than men. And without diversity among its creators, the Web itself will reflect unconscious biases, while personalizing algorithms can reinforce our own.
+Så inkluderande som webben kan tyckas vara, är den ännu inte jämställd. Mer än hälften av världen är fortfarande utanför den; framväxande ekonomier och marginaliserade samhällen är ofta de sista att få tillgång. Färre kvinnor använder Internet än män. Utan mångfald bland dessa människor, kommer webben att bli full av fördomar.
 
 
 ;In nine developing countries, women are still nearly 50% less likely to access the Internet than men.
@@ -82,7 +83,7 @@ Skapa resurser
 
 
 ;Support a resource like <a href="%(wiki_support)s">Wikipedia</a> that drastically lowers the barriers to knowledge – or better yet, <a href="%(wiki_contribute)s">help build it</a>. Wikipedia needs more, and more diverse, contributors.
-Support a resource like <a href="%(wiki_support)s">Wikipedia</a> that drastically lowers the barriers to knowledge – or better yet, <a href="%(wiki_contribute)s">help build it</a>. Wikipedia needs more, and more diverse, contributors.
+Stöd en resurs som <a href="%(wiki_support)s">Wikipedia</a> som sänker barriären för kunskap – eller ännu bättre, <a href="%(wiki_contribute)s">hjälp till att utveckla den</a>. Wikipedia behöver mer och mer mångsidiga bidragsgivare.
 
 
 ;How Mozilla is promoting diversity
@@ -94,7 +95,7 @@ Förbättra tillgängligheten
 
 
 ;Advancing web accessibility standards, and making Firefox inclusive through efforts like our <a href="%(web_a11y)s">Accessibility</a> team.
-Advancing web accessibility standards, and making Firefox inclusive through efforts like our <a href="%(web_a11y)s">Accessibility</a> team.
+Förbättra standarder för webbtillgänglighet och gör Firefox inkluderande genom ansträngningar som vår <a href="%(web_a11y)s">grupp för tillgänglighet</a>.
 
 
 ;Building digital skills
@@ -114,7 +115,7 @@ Vi borde alla ha möjlighet att delta fullt ut på Internet, utan att hota vårt
 
 
 ;We’ve all seen our share of nasty comments sections. At times, the Web can feel like a very unfriendly place – particularly for women, minorities, and members of marginalized communities. By discouraging people from getting online, cyberbullying and cyber violence threaten not just individuals, but the Internet itself.
-We’ve all seen our share of nasty comments sections. At times, the Web can feel like a very unfriendly place – particularly for women, minorities, and members of marginalized communities. By discouraging people from getting online, cyberbullying and cyber violence threaten not just individuals, but the Internet itself.
+Vi har alla sett vår del av otäcka kommentarsektioner. Ibland kan webben känna sig som en mycket ovänlig plats – särskilt för kvinnor, minoriteter och medlemmar i marginaliserade samhällen. Genom att avskräcka människor från att ansluta hotar cybermobbning och cybervåld inte bara individer, utan själva Internet.
 
 
 ;73% of Internet users have seen someone harassed online and 40% have personally experienced it.
@@ -159,7 +160,7 @@ Stöder verktyg för säkerhet
 
 
 ;Supporting the <a href="%(coral)s">Coral Project</a>, which works to improve how journalists and communities engage on news websites, including tools like <a href="%(talk)s">Talk</a>, that aims to create smarter, safer comments sections.
-Supporting the <a href="%(coral)s">Coral Project</a>, which works to improve how journalists and communities engage on news websites, including tools like <a href="%(talk)s">Talk</a>, that aims to create smarter, safer comments sections.
+Stöder <a href="%(coral)s">Coral Project</a>, som fungerar för att förbättra hur journalister och samhällen engagerar sig på nyhetswebbplatser, inklusive verktyg som <a href="%(talk)s">Talk</a>, som syftar till att skapa smartare, säkrare kommentarsektioner.
 
 
 ;Empowering individuals
@@ -179,7 +180,7 @@ Vi bör alla ha överkomlig, högkvalitativ, obegränsad tillgång till hela web
 
 
 ;To participate online, you have to be able to get online. Programs have emerged that offer free or subsidized Internet access, but it is often slow or restricted, creating a ‘poor Internet for poor people.’ At its most extreme, governments worldwide are turning off all or parts of the Internet to serve their own agendas, which can threaten human rights and even the health of the global economy.
-To participate online, you have to be able to get online. Programs have emerged that offer free or subsidized Internet access, but it is often slow or restricted, creating a ‘poor Internet for poor people.’ At its most extreme, governments worldwide are turning off all or parts of the Internet to serve their own agendas, which can threaten human rights and even the health of the global economy.
+För att delta på webben måste du kunna ha Internet. Program har uppstått som erbjuder gratis eller subventionerad Internetåtkomst, men den är ofta långsam eller begränsad, vilket skapar ett "sämre internet för fattiga människor". I den mest extrema situation, stänger regeringar i världen av hela eller delar av Internet för att betjäna sina egna dagordningar, vilket kan hota mänskliga rättigheter och till och med den globala ekonomins hälsa.
 
 
 ;In 2016, there were 51 intentional Internet shutdowns in 18 countries.
@@ -196,7 +197,7 @@ Källa: <a href="%(accessnow)s">AccessNow</a>, 2016
 
 
 ;How you can support universal access
-Hur du kan stödja universell åtkomst
+Hur du kan stödja allmän åtkomst
 
 
 ;Donate your tech
@@ -204,12 +205,12 @@ Donera din utrustning
 
 
 ;Donate your old computers, laptops, and phones to non-profits that refurbish and redistribute them to underserved communities.
-Donate your old computers, laptops, and phones to non-profits that refurbish and redistribute them to underserved communities.
+Donera din gamla dator, bärbara datorer och mobiltelefoner till ideella organisationer som renoverar och distribuerar dem till mindre gynnade grupper.
 
 
 # String is obsolete. Do NOT remove.
 ;Donate your old computers, laptops, and phones to non-profits like <a href="%(reconnect)s">Reconnect</a>, <a href="%(strut)s">Students Recycling Used Technology</a>, or <a href="%(interconnection)s">Interconnection</a>, who refurbish and redistribute them to underserved communities.
-Donate your old computers, laptops, and phones to non-profits like <a href="%(reconnect)s">Reconnect</a>, <a href="%(strut)s">Students Recycling Used Technology</a>, or <a href="%(interconnection)s">Interconnection</a>, who refurbish and redistribute them to underserved communities.
+Donera dina gamla datorer, bärbara datorer och mobiltelefoner till ideella organisationer som <a href="%(reconnect)s">Reconnect</a>, <a href="%(strut)s">Students Recycling Used Technology</a> eller <a href="%(interconnection)s">Interconnection</a> som renoverar och distribuerar dem till mindre gynnade grupper.
 
 
 ;Advocate for openness
@@ -217,27 +218,27 @@ Förespråka för öppenhet
 
 
 ;Tell your representatives that open and affordable access to the Internet should be a policy priority.
-Tell your representatives that open and affordable access to the Internet should be a policy priority.
+Berätta för dina företrädare att en öppen och prisvärd tillgång till Internet bör vara en politisk prioritet.
 
 
 ;How Mozilla is supporting universal access
-How Mozilla is supporting universal access
+Hur stöder Mozilla stöder allmän åtkomst
 
 
 ;Advocating for neutrality
-Advocating for neutrality
+Förespråka för neutralitet
 
 
 ;Championing <a href="%(neutrality)s">net neutrality</a>, so that everyone has access to the same Internet.
-Championing <a href="%(neutrality)s">net neutrality</a>, so that everyone has access to the same Internet.
+Kämpar för <a href="%(neutrality)s">nätneutralitet</a> så att alla har tillgång till samma Internet.
 
 
 ;Connecting the unconnected
-Connecting the unconnected
+Ansluta de utan anslutning
 
 
 ;Sponsoring the <a href="%(equalrating)s">Equal Rating Innovation Challenge</a> to find novel solutions for connecting the unconnected to the full, open Internet.
-Sponsoring the <a href="%(equalrating)s">Equal Rating Innovation Challenge</a> to find novel solutions for connecting the unconnected to the full, open Internet.
+Sponsring av <a href="%(equalrating)s">Equal Rating Innovation Challenge</a> för att hitta nya lösningar för att ansluta de utan anslutning till hela, öppna Internet.
 
 
 ;Hungry for more?

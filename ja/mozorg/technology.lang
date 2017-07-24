@@ -37,7 +37,7 @@ A-Frame ブログを見る
 
 
 ;Visit the blog
-ブログを訪れる
+ブログを読む
 
 
 ;Using the Web to change the game
@@ -45,7 +45,7 @@ A-Frame ブログを見る
 
 
 ;With powerful Web technologies, pioneered by Mozilla, developers are pushing games to a new level.
-Mozilla が草分けとなったパワフルなウェブ技術によって、開発者はゲームを新たなレベルへ引き上げています。
+Mozilla が草分けとなったパワフルなウェブ技術によって、開発者はゲームを新たなレベルへと引き上げています。
 
 
 ;See what’s new
@@ -78,7 +78,7 @@ WebAssembly について学ぶ
 
 
 ;Visit the wiki
-Wiki を訪れる
+Wiki を見る
 
 
 ;Start contributing
@@ -86,11 +86,11 @@ Wiki を訪れる
 
 
 ;Building a browser that gets you
-あなたを理解するブラウザーの開発
+人間の行動を理解するブラウザーの開発
 
 
 ;The next generation of Web discovery is a browser that is more intuitive, useful and in tune with you.
-次世代のウェブの発見は、より直感的、実用的で、あなたと調和したブラウザーとなるでしょう。
+次世代のウェブの発見は、より直感的、実用的で、ユーザーと調和したブラウザーとなるでしょう。
 
 
 ;Try it now
@@ -102,7 +102,7 @@ Wiki を訪れる
 
 
 ;Sponsored by Mozilla, Rust allows browsers, systems and more to run much faster and more safely.
-Mozilla が後援している Rust は、ブラウザーやシステムなどのプログラムを非常に高速かつより安全に実行できるようにします。
+Mozilla が支援している Rust は、ブラウザーやシステムなどのプログラムを、超高速に、より安全に実行できるようにします。
 
 
 ;Learn about Rust
@@ -111,11 +111,11 @@ Rust について学ぶ
 
 # Obsolete string, do not remove
 ;Supported by Mozilla, Rust allows browsers, systems and more to run much faster and more safely.
-Mozilla が支援している Rust は、ブラウザー、システム、その他のソフトウェアを、非常に高速に、さらに安全にします。
+Mozilla が支援している Rust は、ブラウザーやシステムなどのプログラムを、超高速に、より安全に実行できるようにします。
 
 
 ;Visit Rust
-Rust を訪れる
+Rust のサイトを見る
 
 
 ;Get involved
@@ -139,6 +139,6 @@ Mozilla の技術ブログで最新情報を発信しています。
 
 
 ;Continue reading
-読み進める
+続きを読む
 
 

@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/developer
 ## NOTE: Keep tool names in English
 
@@ -8,11 +9,11 @@ Boud foar dyjinge dy't it web bouwe. De iennichste browser makke foar ûntwikkel
 
 
 ;Modern tools for the Open Web
-Modern tools for the Open Web
+Modern ark foar it Iepen Web
 
 
 ;Create and debug web experiences with powerful, open source tools.
-Create and debug web experiences with powerful, open source tools.
+Mei krêftige Iepen-boarne-ark kinne jo webûnderfiningen meitsje en debugge.
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
@@ -24,7 +25,7 @@ Modernisearje
 
 
 ;Create fast, flexible interactive UI with built-in React and Redux tools.
-Create fast, flexible interactive UI with built-in React and Redux tools.
+Meitsje flugge, fleksibele ynteraktive UI mei ynboude React- en Redux-ark.
 
 
 ;Customize
@@ -32,7 +33,7 @@ Oanpasse
 
 
 ;Make our devtools yours thanks to open-source code and customization.
-Make our devtools yours thanks to open-source code and customization.
+Meitsje ús ûntwikkelark fan jo mei tank oan iepen-boarne en oanpassingen.
 
 
 ;Optimize
@@ -40,40 +41,40 @@ Optimalisearje
 
 
 ;Ship responsive and compatible sites that work for everyone, everywhere.
-Ship responsive and compatible sites that work for everyone, everywhere.
+Leverje responsive en kompatibele websites dy't foar elkenien wurkje, oeral.
 
 
 # Line break for visual formatting. Feel free to move it around to better fit your language.
 ;Master CSS Grid with the only grid inspector<br> and layout tools on the Web.
-Master CSS Grid with the only grid inspector<br> and layout tools on the Web.
+Behearskje CSS-raster mei de iennige rasterynspektor<br> en layout-ark op it web.
 
 
 # Link to /developer/css-grid
 ;Try CSS Grid now
-Try CSS Grid now
+CSS-raster no probearje
 
 
 # Line breaks for visual formatting. Feel free to move them around to better fit your language.
 ;Debug Firefox and framework apps<br> built on React and Ember<br> with the “go anywhere” debugger
-Debug Firefox and framework apps<br> built on React and Ember<br> with the “go anywhere” debugger
+Debug Firefox en frameworkapps<br> boud op React en Ember<br> mei de ‘gean oeral’-debugger
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Debugger
 ;Learn more about Debugger
-Learn more about Debugger
+Mear ynfo oer Debugger
 
 
 ;Speak up
-Speak up
+Fertel it ús
 
 
 ;Feedback makes us better. Tell us how we can improve the browser and Developer tools.
-Feedback makes us better. Tell us how we can improve the browser and Developer tools.
+Kommentaar makke ús better. Fertel ús hoe't wy de browser en Developer-ark ferbetterje kinne.
 
 
 # Link to https://discourse.mozilla-community.org/c/devtools
 ;Join the conversation
-Join the conversation
+Dielnimme oan it petear
 
 
 ;Get involved
@@ -81,7 +82,7 @@ Meiwurkje
 
 
 ;Help build the last independent browser. Write code, fix bugs, make add-ons, and more.
-Help build the last independent browser. Write code, fix bugs, make add-ons, and more.
+Help mei mei it bouwen fan de lêste ûnôfhinklike browser. Skriuw koade, reparearje bugs, meitsje add-ons en mear.
 
 
 # Link to https://devtools-html.github.io/
@@ -90,7 +91,7 @@ Start no
 
 
 ;Design, code, test, refine. Perfect your sites with Firefox DevTools.
-Design, code, test, refine. Perfect your sites with Firefox DevTools.
+Untwerp, skriuw koade, test, ferfynje. Perfeksjonearje jo websites mei Firefox DevTools.
 
 
 ;Inspector
@@ -98,12 +99,12 @@ Inspector {ok}
 
 
 ;Inspect and refine code to build pixel-perfect layouts.
-Inspect and refine code to build pixel-perfect layouts.
+Ynspektearje en ferfynje koade om pixel-perfekte lay-outs te meitsjen.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Seiten_Inspektor
 ;Learn more about the Page Inspector
-Learn more about the Page Inspector
+Mear ynfo oer de Side-ynspektor
 
 
 ;Console
@@ -111,12 +112,12 @@ Konsole
 
 
 ;Track CSS, JavaScript, security and network issues.
-Track CSS, JavaScript, security and network issues.
+Kontrolearje CSS, JavaScript, feilichheid en netwurkproblemen.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Web_Console
 ;Learn more about the Web Console
-Learn more about the Web Console
+Mear ynfo oer de Webkonsôle
 
 
 ;Debugger
@@ -124,12 +125,12 @@ Debugger {ok}
 
 
 ;Powerful JavaScript debugger with support for your framework.
-Powerful JavaScript debugger with support for your framework.
+Krêftige JavaScript-debugger mei stipe foar jo framework.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Debugger
 ;Learn more about the Debugger
-Learn more about the Debugger
+Mear ynfo oer de Debugger
 
 
 ;Network
@@ -137,12 +138,12 @@ Netwurk
 
 
 ;Monitor network requests that can slow or block your site.
-Monitor network requests that can slow or block your site.
+Monitor netwurkfersiken dy't jo website fertraagje of blokkearje.
 
 
 # Link to https://developer.mozilla.org//docs/Tools/Network_Monitor
 ;Learn more about the Network Monitor
-Learn more about the Network Monitor
+Mear ynfo oer de Netwurkmonitor
 
 
 ;Storage panel
@@ -150,12 +151,12 @@ Unthâld-paniel
 
 
 ;Add, modify and remove cache, cookies, databases and session data.
-Add, modify and remove cache, cookies, databases and session data.
+Foegje ta, bewurkje en smyt buffer, cookies, databases en sesjegegevens fuort.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Storage_Inspector
 ;Learn more about the Storage panel
-Learn more about the Storage panel
+Mear ynfo oer it Unthâldpaniel
 
 
 ;Responsive Design Mode
@@ -163,25 +164,25 @@ Responsive Design-modus
 
 
 ;Test sites on emulated devices in your browser.
-Test sites on emulated devices in your browser.
+Test websites op emulearre apparaten yn jo browser.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Responsive_Design_Mode
 ;Learn more about Responsive Design Mode
-Learn more about Responsive Design Mode
+Mear ynfo oer Responsive Design-modus
 
 
 ;Visual Editing
-Visual Editing
+Fisuele bewurking
 
 
 ;Fine-tune animations, alignment and padding.
-Fine-tune animations, alignment and padding.
+Animaasjes, rjochtsjen en padding bywurkje.
 
 
 # Link to https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more/
 ;Learn more about Visual Editing
-Learn more about Visual Editing
+Mear ynfo oer Fisueel bewurkjen
 
 
 ;Performance
@@ -189,12 +190,12 @@ Prestaasjes
 
 
 ;Unblock bottlenecks, streamline processes, optimize assets.
-Unblock bottlenecks, streamline processes, optimize assets.
+Iepenje fûken, streamlynje prosessen, optimalisearje ûnderdielen.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Performance
 ;Learn more about the Performance panel
-Learn more about the Performance panel
+Mear ynfo oer it Prestaasjepaniel
 
 
 ;Memory
@@ -203,12 +204,12 @@ Unthâld
 
 # Zippy means very fast.
 ;Find memory leaks and make your application zippy.
-Find memory leaks and make your application zippy.
+Fyn ûnthâldlekken en meitsje jo applikaasje pittich.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Memory
 ;Learn more about the Memory panel
-Learn more about the Memory panel
+Mear ynfo oer it Unthâldpaniel
 
 
 ;Web Audio
@@ -216,12 +217,12 @@ Ynternetaudio
 
 
 ;The only developer tool for inspecting the Web Audio API.
-The only developer tool for inspecting the Web Audio API.
+It iennige ûntwikkelark foar it ynspektearjen fan de Webaudio-API.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Web_Audio_Editor
 ;Learn more about the Web Audio Editor
-Learn more about the Web Audio Editor
+Lês mear oer de Webaudio-editor
 
 
 ;Scratchpad
@@ -229,12 +230,12 @@ Skrasblok
 
 
 ;Edit, write, run and execute JavaScript in real time.
-Edit, write, run and execute JavaScript in real time.
+Bewurkje, skriuw en rin JavaScript yn real-time.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Scratchpad
 ;Learn more about the Scratchpad
-Learn more about the Scratchpad
+Mear ynfo oer it Skrasblok
 
 
 ;Style Editor
@@ -242,11 +243,11 @@ Stylbewurker
 
 
 ;Edit and manage all your CSS stylesheets in your browser.
-Edit and manage all your CSS stylesheets in your browser.
+Bewurkje en behear al jo CSS-stylsjabloanen yn jo browser.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Style_Editor
 ;Learn more about the Style Editor
-Learn more about the Style Editor
+Mear ynfo oer de Stylbewurker
 
 
