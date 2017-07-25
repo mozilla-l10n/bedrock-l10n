@@ -2,6 +2,7 @@
 ## firefox_sync_mobile_buttons_update ##
 ## fx38_sync_updates ##
 ## ios_announce ##
+## sync-update-q3-2017 ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
 
@@ -38,17 +39,17 @@
 
 
 ;Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
-Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
+登入 Firefox 帳號後，即可存取受保護的密碼、開啟分頁與已存書籤。也在您的個人裝置上安裝 Firefox 後，即可安全地將您的上網體驗隨身帶著走。
 
 
 # This expression was popular on ad billboard about real estate, suggesting if one bought the house here, he or she didn't have to fight the traffic further.
 # Here it emphasizes Sync's feature of seemless integration between desktop and mobile. Feel free to come up with a different text (we're waiting for an alternative headline from copywriters).
 ;If you lived here you’d be home by now
-If you lived here you’d be home by now
+如果您已經註冊了 Firefox 帳號，這樣就一切搞定！
 
 
 ;Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
-Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
+下載或開啟 Firefox 後，即可將您在其他裝置上的瀏覽體驗也連結起來。然後再登入 Firefox 帳號，即可將儲存的密碼、開啟分頁與建立的書籤，安全地隨身帶著走。
 
 
 # String is obsolete. Do NOT remove.
@@ -212,7 +213,7 @@ Sync 新手入門
 
 # A rabbit hole is a long and winding exploratory path with many connections. The Web is essentially designed to function as a rabbit hole because of the way hyperlinks work.
 ;That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
-That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
+一大早起床就掉進購物網站了？搭車時可以在手機上，從出門前的地方繼續 shopping。上班時間看到某份很棒的菜單嗎？即時把網頁「丟到」手機上，下班後即可直接帶著買菜。透過 Firefox Sync 可安全地連結您的不同裝置。
 
 
 # String is obsolete. Do NOT remove.
@@ -230,7 +231,7 @@ That shopping rabbit hole you started on your laptop this morning? Pick up where
 
 
 ;Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
-Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
+您的 Firefox 帳號就是所有網頁內容的入口 — 我們會協助您確保安全。您可隨時自行管理資料，不被其他人知道。資料同時也透過密碼加密，而鑰匙就在您自己手上。
 
 
 # String is obsolete. Do NOT remove.
@@ -248,7 +249,7 @@ Your Firefox Account is the doorway to all your web stuff—we help you keep it 
 
 
 ;Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
-Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
+週六早晨，享用咖啡的同時可閱讀已經存下的文章。不論是智慧型手機、平板還是筆電，皆可使用 Firefox 來尋找儲存的書籤與密碼。連結所有您需要的內容，丟掉不需要的。
 
 
 # String is obsolete. Do NOT remove.

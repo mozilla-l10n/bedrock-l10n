@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/developer
 ## NOTE: Keep tool names in English
 
@@ -8,11 +9,11 @@ Azoknak készítve, akik a webet készítik. Az egyetlen böngésző, amit Önh�
 
 
 ;Modern tools for the Open Web
-Modern tools for the Open Web
+Modern eszközök a nyílt webhez
 
 
 ;Create and debug web experiences with powerful, open source tools.
-Create and debug web experiences with powerful, open source tools.
+Készítsen és teszteljen webes élményeket hatékony, nyílt forráskódú eszközökkel.
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
@@ -20,221 +21,221 @@ A Firefox Developer Edition automatikus visszajelzést küld a Mozillának.
 
 
 ;Modernize
-Modernize
+Modernizálás
 
 
 ;Create fast, flexible interactive UI with built-in React and Redux tools.
-Create fast, flexible interactive UI with built-in React and Redux tools.
+Hozzon létre gyors, rugalmas, interaktív UI, beépített React és Redux eszközökkel.
 
 
 ;Customize
-Customize
+Testreszabás
 
 
 ;Make our devtools yours thanks to open-source code and customization.
-Make our devtools yours thanks to open-source code and customization.
+Tegye a fejlesztői eszközeinket a sajátjává, köszönhetően a nyílt forráskódnak és a testreszabásnak.
 
 
 ;Optimize
-Optimize
+Optimalizálás
 
 
 ;Ship responsive and compatible sites that work for everyone, everywhere.
-Ship responsive and compatible sites that work for everyone, everywhere.
+Szállítson alkalmazkodó és kompatibilis odalakat, amelyek mindenkinél működnek, mindenhol.
 
 
 # Line break for visual formatting. Feel free to move it around to better fit your language.
 ;Master CSS Grid with the only grid inspector<br> and layout tools on the Web.
-Master CSS Grid with the only grid inspector<br> and layout tools on the Web.
+Legyen a CSS rács mestere, a web egyetlen rácsvizsgáló<br> és elrendezési eszközével.
 
 
 # Link to /developer/css-grid
 ;Try CSS Grid now
-Try CSS Grid now
+Próbálja ki most a CSS rácsot
 
 
 # Line breaks for visual formatting. Feel free to move them around to better fit your language.
 ;Debug Firefox and framework apps<br> built on React and Ember<br> with the “go anywhere” debugger
-Debug Firefox and framework apps<br> built on React and Ember<br> with the “go anywhere” debugger
+Keressen hibát a Firefoxban és a<br> React vagy Ember keretrendszert használó alkalmazásaiban,<br> a „bárhová elvihető” hibakeresővel
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Debugger
 ;Learn more about Debugger
-Learn more about Debugger
+Tudjon meg többet a hibakeresőről
 
 
 ;Speak up
-Speak up
+Mondja el véleményét
 
 
 ;Feedback makes us better. Tell us how we can improve the browser and Developer tools.
-Feedback makes us better. Tell us how we can improve the browser and Developer tools.
+A visszajelzés tesz minket jobbá. Mondja el hogyan javíthatjuk a böngészőt és a fejlesztőeszközöket.
 
 
 # Link to https://discourse.mozilla-community.org/c/devtools
 ;Join the conversation
-Join the conversation
+Csatlakozzon a beszélgetéshez
 
 
 ;Get involved
-Get involved
+Kapcsolódjon be
 
 
 ;Help build the last independent browser. Write code, fix bugs, make add-ons, and more.
-Help build the last independent browser. Write code, fix bugs, make add-ons, and more.
+Segítsen az utolsó független böngésző fejlesztésében. Írjon kódot, javítson hibákat, készítsen kiegészítőket, és még több mindent.
 
 
 # Link to https://devtools-html.github.io/
 ;Start now
-Start now
+Kezdjen hozzá most
 
 
 ;Design, code, test, refine. Perfect your sites with Firefox DevTools.
-Design, code, test, refine. Perfect your sites with Firefox DevTools.
+Tervezzen, kódoljon, teszteljen, finomítson. Tökéletesítse az oldalait a Firefox fejlesztőeszközeivel.
 
 
 ;Inspector
-Inspector
+Vizsgáló
 
 
 ;Inspect and refine code to build pixel-perfect layouts.
-Inspect and refine code to build pixel-perfect layouts.
+Vizsgálja meg és finomítsa a kódját, hogy pixelpontos elrendezéseket készítsen.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Seiten_Inspektor
 ;Learn more about the Page Inspector
-Learn more about the Page Inspector
+Tudjon meg többet a Vizsgálóról
 
 
 ;Console
-Console
+Konzol
 
 
 ;Track CSS, JavaScript, security and network issues.
-Track CSS, JavaScript, security and network issues.
+Kövessen nyomon a CSS, a JavaScript, a biztonsági és a hálózati problémákat.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Web_Console
 ;Learn more about the Web Console
-Learn more about the Web Console
+Tudjon meg többet a Webkonzolról
 
 
 ;Debugger
-Debugger
+Hibakereső
 
 
 ;Powerful JavaScript debugger with support for your framework.
-Powerful JavaScript debugger with support for your framework.
+Hatékony JavaScript hibakereső, amely támogatja a keretrendszerét.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Debugger
 ;Learn more about the Debugger
-Learn more about the Debugger
+Tudjon meg többet a hibakeresőről
 
 
 ;Network
-Network
+Hálózat
 
 
 ;Monitor network requests that can slow or block your site.
-Monitor network requests that can slow or block your site.
+Kövesse figyelemmel a hálózati kéréseket, amelyek lassíthatják vagy blokkolhatják az oldalát.
 
 
 # Link to https://developer.mozilla.org//docs/Tools/Network_Monitor
 ;Learn more about the Network Monitor
-Learn more about the Network Monitor
+Tudjon meg többet a Hálózatfigyelőről
 
 
 ;Storage panel
-Storage panel
+Tároló panel
 
 
 ;Add, modify and remove cache, cookies, databases and session data.
-Add, modify and remove cache, cookies, databases and session data.
+Gyorsítótárak, sütik, adatbázisok és munkamenet adatok hozzáadása, módosítása és törlése.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Storage_Inspector
 ;Learn more about the Storage panel
-Learn more about the Storage panel
+Tudjon meg többet a Tároló panelről
 
 
 ;Responsive Design Mode
-Responsive Design Mode
+Alkalmazkodó megjelenés mód
 
 
 ;Test sites on emulated devices in your browser.
-Test sites on emulated devices in your browser.
+Tesztelje az oldalait emulált eszközökön a böngészőjében.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Responsive_Design_Mode
 ;Learn more about Responsive Design Mode
-Learn more about Responsive Design Mode
+Tudjon meg többet az Alkalmazkodó megjelenés módról
 
 
 ;Visual Editing
-Visual Editing
+Vizuális szerkesztés
 
 
 ;Fine-tune animations, alignment and padding.
-Fine-tune animations, alignment and padding.
+Finomhangolja az animációkat, igazítást és a térkitöltéseket.
 
 
 # Link to https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more/
 ;Learn more about Visual Editing
-Learn more about Visual Editing
+Tudjon meg többet a vizuális szerkesztésről
 
 
 ;Performance
-Performance
+Teljesítmény
 
 
 ;Unblock bottlenecks, streamline processes, optimize assets.
-Unblock bottlenecks, streamline processes, optimize assets.
+Oldja meg a szűk keresztmetszeteket, egyszerűsítse a folyamatokat, és optimalizálja az erőforrásokat.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Performance
 ;Learn more about the Performance panel
-Learn more about the Performance panel
+Tudjon meg többet a Teljesítmény panelről
 
 
 ;Memory
-Memory
+Memória
 
 
 # Zippy means very fast.
 ;Find memory leaks and make your application zippy.
-Find memory leaks and make your application zippy.
+Találja meg a memóriaszivárgásokat, és tegye lendületessé az alkalmazását.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Memory
 ;Learn more about the Memory panel
-Learn more about the Memory panel
+Tudjon meg többet a Memória panelről
 
 
 ;Web Audio
-Web Audio
+Webes hang
 
 
 ;The only developer tool for inspecting the Web Audio API.
-The only developer tool for inspecting the Web Audio API.
+Az egyetlen fejlesztőeszköz a Web Audio API vizsgálatához.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Web_Audio_Editor
 ;Learn more about the Web Audio Editor
-Learn more about the Web Audio Editor
+Tudjon meg többet a Web Audio szerkesztőről
 
 
 ;Scratchpad
-Scratchpad
+Scratchpad {ok}
 
 
 ;Edit, write, run and execute JavaScript in real time.
-Edit, write, run and execute JavaScript in real time.
+Szerkesszen, írjon, és futtasson JavaScriptet valós időben.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Scratchpad
 ;Learn more about the Scratchpad
-Learn more about the Scratchpad
+Tudjon meg többet a Scratchpadről
 
 
 ;Style Editor
@@ -242,11 +243,11 @@ Stílusszerkesztő
 
 
 ;Edit and manage all your CSS stylesheets in your browser.
-Edit and manage all your CSS stylesheets in your browser.
+Szerkessze és kezelje a CSS stíluslapokat a böngészőjében.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Style_Editor
 ;Learn more about the Style Editor
-Learn more about the Style Editor
+Tudjon meg többet a Stílusszerkesztőről
 
 
