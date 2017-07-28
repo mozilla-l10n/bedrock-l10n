@@ -2,6 +2,7 @@
 ## firefox_sync_mobile_buttons_update ##
 ## fx38_sync_updates ##
 ## ios_announce ##
+## sync-update-q3-2017 ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
 
@@ -16,11 +17,11 @@ Ta med Firefox-bokmerkene, faner eller passord overalt med Firefox Sync. Del mel
 
 
 ;Browse boldly. Connect your devices.
-Browse boldly. Connect your devices.
+Surf tappert. Koble til enhetene dine.
 
 
 ;Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
-Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
+Legg til Firefox på dine personlige enheter for å få bokmerkene dine, åpne faner og passord hvor som helst. Få sikker tilgang til alt du trenger når du logger på din Firefox-konto.
 
 
 # String is obsolete. Do NOT remove.
@@ -34,21 +35,21 @@ Du er registrert og klar til å få tilgang til <em>din</em> Firefox hvor som he
 
 
 ;Your web, how you like it, everywhere
-Your web, how you like it, everywhere
+Ditt nett, som du vil ha det, overalt
 
 
 ;Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
-Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
+Logg inn på din Firefox-konto for å få tilgang til dine beskyttede passord, åpne faner og bokmerker. Legg til Firefox til dine personlige enheter, og koble sikkert i hop surfeopplevelsen din overalt. Ha alt satt opp slik du liker det, uansett hvor du går.
 
 
 # This expression was popular on ad billboard about real estate, suggesting if one bought the house here, he or she didn't have to fight the traffic further.
 # Here it emphasizes Sync's feature of seemless integration between desktop and mobile. Feel free to come up with a different text (we're waiting for an alternative headline from copywriters).
 ;If you lived here you’d be home by now
-If you lived here you’d be home by now
+Om du bodde her, ville du allerede ha vært hjemme nå
 
 
 ;Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
-Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
+Last ned eller åpne Firefox for å starte sikker kobling av nettleseropplevelsen din på alle dine personlige enheter. Logg inn på din Firefox-konto for å få tilgang til dine beskyttede passord, åpne faner og bokmerker. Ha alt satt opp slik du liker det, uansett hvor du går.
 
 
 # String is obsolete. Do NOT remove.
@@ -212,7 +213,7 @@ Personlig
 
 # A rabbit hole is a long and winding exploratory path with many connections. The Web is essentially designed to function as a rabbit hole because of the way hyperlinks work.
 ;That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
-That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
+Shoppingen du startet på din bærbare datamaskin denne morgenen? Fortsett hvor du sluttet på telefonen din i kveld. Middagsoppskriften du oppdaget ved lunsjtid? Åpne den på nettbrettet på kjøkkenet, umiddelbart. Koble til dine personlige enheter, sikkert.
 
 
 # String is obsolete. Do NOT remove.
@@ -230,7 +231,7 @@ Trygg
 
 
 ;Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
-Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
+Din Firefox-konto er døråpningen til alle dine Internett-ting — vi hjelper deg med å holde det sikkert. Dine data er alltid under din kontroll, uleselige av noen andre, og kryptert med ditt kontopassord. Vi beskytter den og gir deg nøkkelen.
 
 
 # String is obsolete. Do NOT remove.
@@ -248,7 +249,7 @@ Tilgjengelig
 
 
 ;Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
-Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
+Få tak i dine åpne faner og lagrede artikler ved lørdagens morgenkaffe. Finn bokmerkene og passordene dine hvor som helst du bruker Firefox — smarttelefonen, nettbrettet eller datamaskinen. Koble til alt du trenger og ikke noe unødvendig.
 
 
 # String is obsolete. Do NOT remove.
