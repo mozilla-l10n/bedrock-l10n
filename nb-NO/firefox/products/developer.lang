@@ -73,11 +73,11 @@ Feedback makes us better. Tell us how we can improve the browser and Developer t
 
 # Link to https://discourse.mozilla-community.org/c/devtools
 ;Join the conversation
-Join the conversation
+Bli med i diskusjonen
 
 
 ;Get involved
-Get involved
+Engasjer deg
 
 
 ;Help build the last independent browser. Write code, fix bugs, make add-ons, and more.
@@ -94,7 +94,7 @@ Design, code, test, refine. Perfect your sites with Firefox DevTools.
 
 
 ;Inspector
-Inspector
+Inspector {ok}
 
 
 ;Inspect and refine code to build pixel-perfect layouts.
@@ -103,11 +103,11 @@ Inspect and refine code to build pixel-perfect layouts.
 
 # Link to https://developer.mozilla.org/docs/Tools/Seiten_Inspektor
 ;Learn more about the Page Inspector
-Learn more about the Page Inspector
+Les mer om Page Inspector
 
 
 ;Console
-Console
+Console {ok}
 
 
 ;Track CSS, JavaScript, security and network issues.
@@ -116,15 +116,15 @@ Track CSS, JavaScript, security and network issues.
 
 # Link to https://developer.mozilla.org/docs/Tools/Web_Console
 ;Learn more about the Web Console
-Learn more about the Web Console
+Les mer om nettkonsollen (Web Console)
 
 
 ;Debugger
-Debugger
+Debugger {ok}
 
 
 ;Powerful JavaScript debugger with support for your framework.
-Powerful JavaScript debugger with support for your framework.
+Kraftig JavaScript-debugger med støtte for ditt rammeverk (framework).
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Debugger
@@ -142,11 +142,11 @@ Monitor network requests that can slow or block your site.
 
 # Link to https://developer.mozilla.org//docs/Tools/Network_Monitor
 ;Learn more about the Network Monitor
-Learn more about the Network Monitor
+Les mer om nettverkovervåkeren (Network Monitor)
 
 
 ;Storage panel
-Storage panel
+Storage panel {ok}
 
 
 ;Add, modify and remove cache, cookies, databases and session data.
@@ -229,12 +229,12 @@ Kladdeblokk (Scratchpad)
 
 
 ;Edit, write, run and execute JavaScript in real time.
-Edit, write, run and execute JavaScript in real time.
+Rediger, skriv, kjør og utfør JavaScript i sanntid.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Scratchpad
 ;Learn more about the Scratchpad
-Learn more about the Scratchpad
+Les mer om kladdeblokken (Scratchpad)
 
 
 ;Style Editor
@@ -242,7 +242,7 @@ Stilredigerer (Style Editor)
 
 
 ;Edit and manage all your CSS stylesheets in your browser.
-Edit and manage all your CSS stylesheets in your browser.
+Rediger og behandle alle CSS-stilsettene dine, i nettleseren din.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Style_Editor

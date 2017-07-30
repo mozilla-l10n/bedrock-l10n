@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Used for the new http://www-dev.allizom.org/firefox/new/ but also http://www-dev.allizom.org/firefox/54.0/firstrun/
 
 
@@ -21,16 +22,16 @@
 
 # Used as HTML title of the page
 ;Free Web Browser
-უფასო ვებ-ბრაუზერი
+უფასო ბრაუზერი
 
 
 # Used as HTML description of the page
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, Mac OS X, Linux, Android and iOS today!
-ჩამოტვირთეთ Mozilla Firefox, უფასო ვებ-ბრაუზერი. Firefox შექმნილია საერთაშორისო არაკომერციული ორგანიზაციის მიერ, რომელსაც სურს ხალხს დაუბრუნოს, ინტერნეტში თავიანთი ცხოვრების მართვის სადავეები. გადმოწერეთ Firefox Windows-ზე, Mac OS X-ზე, Linux-ზე, Android-სა და iOS-ზე ახლავე!
+ჩამოტვირთეთ Mozilla Firefox, უფასო ვებ-ბრაუზერი. Firefox შექმნილია საერთაშორისო არამომგებიანი ორგანიზაციის მიერ, რომელსაც სურს ხალხს დაუბრუნოს, ინტერნეტში თავიანთი ცხოვრების მართვის სადავეები. გადმოწერეთ Firefox Windows-ზე, Mac OS X-ზე, Linux-ზე, Android-სა და iOS-ზე ახლავე!
 
 
 ;Chart your own course
-Chart your own course
+იყავით დამოუკიდებლები
 
 
 # Link points to a SUMO page.
@@ -47,23 +48,23 @@ Chart your own course
 
 
 ;Go Fast
-Go Fast
+იმოქმედეთ სწრაფად
 
 
 ;You have things to do. Get them done faster.
-You have things to do. Get them done faster.
+მიიღეთ მეტი შედეგი, მოკლე დროში.
 
 
 ;Go Far
-Go Far
+გააკეთეთ მეტი
 
 
 ;Go anywhere, with more built-in privacy tools than any other browser.
-Go anywhere, with more built-in privacy tools than any other browser.
+დამატებითი დაცვის საშუალებებით, შეგიძლიათ მეტი გვერდების უსაფრთხოდ მონახულება, ვიდრე სხვა ბრაუზერებით.
 
 
 ;Go Forward
-Go Forward
+იყავით მოწინავე
 
 
 ;Use the only browser built for people, not profit.
@@ -71,7 +72,7 @@ Go Forward
 
 
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+არ ჩამორჩეთ<br> Firefox-სთან დაკავშირებულ, არცერთ სიახლეს.
 
 
 ;Firefox for other platforms
@@ -106,15 +107,15 @@ Firefox სხვა სისტემებისთვის
 
 
 ;Learn more about Firefox Accounts
-Learn more about Firefox Accounts
+გაიგეთ მეტი Firefox-ის ანგარიშების შესახებ
 
 
 ;Skip this step
-Skip this step
+გამოტოვება
 
 
 ;Behold! The open web awaits.
-Behold! The open web awaits.
+მიმოიხედეთ! გახსნილი ინტერნეტი გელოდებათ.
 
 
 ;Thanks for choosing Firefox. Your download should begin automatically. If not, <a id="%(id)s" href="%(fallback_url)s">click here</a>.

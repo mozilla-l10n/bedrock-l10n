@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/developer
 ## NOTE: Keep tool names in English
 
@@ -55,7 +56,7 @@ Firefox 开发者版本自动向 Mozilla 发送反馈信息。
 
 # Line breaks for visual formatting. Feel free to move them around to better fit your language.
 ;Debug Firefox and framework apps<br> built on React and Ember<br> with the “go anywhere” debugger
-Debug Firefox and framework apps<br> built on React and Ember<br> with the “go anywhere” debugger
+灵巧的调试器<br>帮助调试 Firefox<br>和用 React 或 Ember 框架打造的应用
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Debugger
@@ -81,7 +82,7 @@ Debug Firefox and framework apps<br> built on React and Ember<br> with the “go
 
 
 ;Help build the last independent browser. Write code, fix bugs, make add-ons, and more.
-Help build the last independent browser. Write code, fix bugs, make add-ons, and more.
+帮助我们打造最后一个独立自主的浏览器。编写代码、修正错误、制作附加组件等等，我们欢迎你。
 
 
 # Link to https://devtools-html.github.io/

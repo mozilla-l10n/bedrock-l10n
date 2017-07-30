@@ -10,7 +10,7 @@ You’re in control with Firefox’s easy-to-use features that protect your priv
 
 
 ;Firefox features
-Firefox features
+Firefox značajke
 
 
 ;Modern
@@ -23,12 +23,12 @@ Your favorite add-ons and extensions
 
 # These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
 ;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass and thousands more.
+Adblock, Ublock, LastPass i mnogo drugih.
 
 
 # Links to https://addons.mozilla.org/firefox
 ;Get powerful add-ons
-Get powerful add-ons
+Preuzmite odlične dodatke
 
 
 ;Customize your browser
@@ -71,7 +71,7 @@ Koristite Firefox svugdje
 
 
 ;Firefox for Android
-Firefox for Android
+Firefox za Android
 
 
 ;Our most customizable Firefox for Android yet.
@@ -80,7 +80,7 @@ Our most customizable Firefox for Android yet.
 
 # Link to /firefox/android
 ;Take control of your browser
-Take control of your browser
+Imajte kontrolu nad svojim preglednikom
 
 
 ;Firefox for iOS
@@ -88,12 +88,12 @@ Firefox za iOS
 
 
 ;The speed you need. The privacy you trust.
-The speed you need. The privacy you trust.
+Brzina koju trebate. Privatnost kojoj vjerujete.
 
 
 # Link to /firefox/ios
 ;Go beyond the default
-Go beyond the default
+Idite izvan zadanoga
 
 
 ;Firefox Test Pilot
@@ -101,16 +101,16 @@ Firefox Test Pilot {ok}
 
 
 ;Experimental features that can simplify your life.
-Experimental features that can simplify your life.
+Eksperimentalne značajke koje mogu olakšati vaš život.
 
 
 # Link to https://testpilot.firefox.com
 ;Help launch new features
-Help launch new features
+Pomognite nam u pokretanju novih značajki
 
 
 ;Balanced memory usage
-Balanced memory usage
+Uravnoteženo korištenje memorije
 
 
 ;Browse smoothly and leave plenty of memory for your computer programs.
@@ -119,20 +119,20 @@ Browse smoothly and leave plenty of memory for your computer programs.
 
 # Link to /firefox/features/memory
 ;Speed up your computer
-Speed up your computer
+Ubrzajte vaše računalo
 
 
 ;Better bookmarks
-Better bookmarks
+Bolje oznake
 
 
 ;Quickly save and organize your favorite sites.
-Quickly save and organize your favorite sites.
+Na brzi način spremite i organizirajte vaše omiljene stranice.
 
 
 # Link to /firefox/features/bookmarks
 ;Customize your bookmarks
-Customize your bookmarks
+Prilagodite svoje oznake
 
 
 ;Privacy
@@ -163,24 +163,24 @@ More protection than Incognito mode or InPrivate.
 
 # Link to /firefox/features/private-browsing
 ;Get better privacy
-Get better privacy
+Imajte bolju privatnost
 
 
 ;More private
-More private
+Više privatnosti
 
 
 ;We don’t sell access to your online data. Period.
-We don’t sell access to your online data. Period.
+Ne prodajemo pristup vašim mrežnim podacima. Točka.
 
 
 # Link to /firefox/features/private-browsing
 ;Get Firefox for privacy
-Get Firefox for privacy
+Preuzmite Firefox za privatnost
 
 
 ;Limited data collection
-Limited data collection
+Ograničeno prikupljanje podataka
 
 
 ;Opted-in to privacy, so you can browse freely.
@@ -189,11 +189,11 @@ Opted-in to privacy, so you can browse freely.
 
 # Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
 ;Read our privacy policy
-Read our privacy policy
+Pročitajte našu politiku privatnosti
 
 
 ;Password Manager
-Password Manager
+Upravitelj lozinki
 
 
 ;Forget the reset. Save passwords and logins quickly.
@@ -202,7 +202,7 @@ Forget the reset. Save passwords and logins quickly.
 
 # Link to /firefox/features/password-manager
 ;Easily manage your logins
-Easily manage your logins
+Jednostavno upravljajte svojim prijavama
 
 
 ;Independence
@@ -210,29 +210,29 @@ Neovisnost
 
 
 ;By non-profit, Mozilla
-By non-profit, Mozilla
+Od Mozille, neprofitne organizacije
 
 
 ;Protecting the health of the internet.
-Protecting the health of the internet.
+Štitimo zdravlje interneta.
 
 
 # https://www.mozilla.org/mission/
 ;Read Mozilla’s mission
-Read Mozilla’s mission
+Pročitajte Mozillinu misiju
 
 
 ;Open source
-Open source
+Otvoren kod
 
 
 ;We’re always transparent.
-We’re always transparent.
+Uvijek smo transparentni.
 
 
 # Link to /firefox/features/independent
 ;See what makes us different
-See what makes us different
+Pogledajte što nas čini drukčijima
 
 
 ;Protect your rights
@@ -240,11 +240,11 @@ Zaštite svoja prava
 
 
 ;We help keep corporate powers in check.
-We help keep corporate powers in check.
+Pomažemo kontrolirati moć korporacija.
 
 
 # Link to /firefox/features/independent
 ;Choose independence
-Choose independence
+Izaberite neovisnost
 
 

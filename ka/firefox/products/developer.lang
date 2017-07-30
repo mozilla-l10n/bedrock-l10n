@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/developer
 ## NOTE: Keep tool names in English
 
@@ -8,11 +9,11 @@
 
 
 ;Modern tools for the Open Web
-Modern tools for the Open Web
+თანამედროვე ხელსაწყოები, გახსნილი ინტერნეტისთვის
 
 
 ;Create and debug web experiences with powerful, open source tools.
-Create and debug web experiences with powerful, open source tools.
+შექმენით და გამართეთ მძლავრი, ღია კოდის ხელსაწყოებით.
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
@@ -20,221 +21,221 @@ Firefox Developer Edition ავტომატურად უგზავნ�
 
 
 ;Modernize
-Modernize
+გაათანამედროვეთ
 
 
 ;Create fast, flexible interactive UI with built-in React and Redux tools.
-Create fast, flexible interactive UI with built-in React and Redux tools.
+შექმენით სწრაფი, მოქნილი და მოსახერხებელი სამომხმარებლო გარემო, React და Redux-ის ჩაშენებული ხელსაწყოებით.
 
 
 ;Customize
-Customize
+მოარგეთ
 
 
 ;Make our devtools yours thanks to open-source code and customization.
-Make our devtools yours thanks to open-source code and customization.
+გადააკეთეთ ჩვენი ხელსაწყოები თქვენს ხელსაწყოებად, ღია წყაროს კოდის და მორგების შესაძლებლობის წყალობით.
 
 
 ;Optimize
-Optimize
+გააუმჯობესეთ
 
 
 ;Ship responsive and compatible sites that work for everyone, everywhere.
-Ship responsive and compatible sites that work for everyone, everywhere.
+გახადეთ საიტები მეტად თავსებადი და მოსახერხებელი, რომ იმუშაოს ყველგან და ყველასთვის.
 
 
 # Line break for visual formatting. Feel free to move it around to better fit your language.
 ;Master CSS Grid with the only grid inspector<br> and layout tools on the Web.
-Master CSS Grid with the only grid inspector<br> and layout tools on the Web.
+დაამუშავეთ საიტების გაფორმება, CSS ბადისა და<br> განლაგების შესაცვლელი ხელსაწყოების საშუალებით.
 
 
 # Link to /developer/css-grid
 ;Try CSS Grid now
-Try CSS Grid now
+გამოცადეთ CSS ბადე ახლავე
 
 
 # Line breaks for visual formatting. Feel free to move them around to better fit your language.
 ;Debug Firefox and framework apps<br> built on React and Ember<br> with the “go anywhere” debugger
-Debug Firefox and framework apps<br> built on React and Ember<br> with the “go anywhere” debugger
+დაამუშავეთ Firefox და React/Ember-ზე <br>დაშენებული ვებპროგრამები<br> “go anywhere” გამმართველის საშუალებით.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Debugger
 ;Learn more about Debugger
-Learn more about Debugger
+შეიტყვეთ მეტი გამმართველზე
 
 
 ;Speak up
-Speak up
+გამოთქვით მოსაზრება
 
 
 ;Feedback makes us better. Tell us how we can improve the browser and Developer tools.
-Feedback makes us better. Tell us how we can improve the browser and Developer tools.
+გამოხმაურებები გვეხმარება გაუმჯობესებაში. მოგვახსენეთ თქვენი აზრი, თუ როგორ შეიძლება გავხადოთ ბრაუზერი და შემმუშავებლის ხელსაწყოები, მეტად მოსახერხებელი.
 
 
 # Link to https://discourse.mozilla-community.org/c/devtools
 ;Join the conversation
-Join the conversation
+შემოუერთდით განხილვას
 
 
 ;Get involved
-Get involved
+მიიღეთ მონაწილეობა
 
 
 ;Help build the last independent browser. Write code, fix bugs, make add-ons, and more.
-Help build the last independent browser. Write code, fix bugs, make add-ons, and more.
+დაგვეხმარეთ, უკანასკნელ დამოუკიდებელ ბრაუზერზე მუშაობაში. დაწერეთ კოდი, გაასწორეთ ხარვეზები, შექმენით დამატებები და ა.შ.
 
 
 # Link to https://devtools-html.github.io/
 ;Start now
-Start now
+დაიწყეთ ახლავე
 
 
 ;Design, code, test, refine. Perfect your sites with Firefox DevTools.
-Design, code, test, refine. Perfect your sites with Firefox DevTools.
+იერსახე, კოდი, შემოწმება, გაუმჯობესება. სრულყავით თქვენი საიტები Firefox ვებშემმუშავებლის ხელსაწყოების საშუალებით.
 
 
 ;Inspector
-Inspector
+ელემენტზე დაკვირვება
 
 
 ;Inspect and refine code to build pixel-perfect layouts.
-Inspect and refine code to build pixel-perfect layouts.
+გამოიკვლიეთ და გააუმჯობესეთ კოდი, ზუსტი და სრულყოფილი განლაგების შესაქმნელად.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Seiten_Inspektor
 ;Learn more about the Page Inspector
-Learn more about the Page Inspector
+შეიტყვეთ მეტი, საიტზე დაკვირვების ხელსაწყოებზე
 
 
 ;Console
-Console
+კონსოლი
 
 
 ;Track CSS, JavaScript, security and network issues.
-Track CSS, JavaScript, security and network issues.
+თვალი ადევნეთ CSS, JavaScript, უსაფრთხოებისა და ქსელის მუშაობას.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Web_Console
 ;Learn more about the Web Console
-Learn more about the Web Console
+შეიტყვეთ მეტი, ვებკონსოლის შესახებ
 
 
 ;Debugger
-Debugger
+გამმართველი
 
 
 ;Powerful JavaScript debugger with support for your framework.
-Powerful JavaScript debugger with support for your framework.
+JavaScript-ის მძლავრი გამმართველი, უამრავი Framework-ის მხარდაჭერით.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Debugger
 ;Learn more about the Debugger
-Learn more about the Debugger
+შეიტყვეთ მეტი, გამმართველის შესახებ
 
 
 ;Network
-Network
+ქსელი
 
 
 ;Monitor network requests that can slow or block your site.
-Monitor network requests that can slow or block your site.
+თვალი ადევნეთ დაკავშირების მოთხოვნებს, რომელთაც შეუძლია შეანელოს ან შეზღუდოს საიტთან წვდომა.
 
 
 # Link to https://developer.mozilla.org//docs/Tools/Network_Monitor
 ;Learn more about the Network Monitor
-Learn more about the Network Monitor
+შეიტყვეთ მეტი, ქსელის კონტროლის შესახებ
 
 
 ;Storage panel
-Storage panel
+საცავების მართვა
 
 
 ;Add, modify and remove cache, cookies, databases and session data.
-Add, modify and remove cache, cookies, databases and session data.
+დაამატეთ, შეცვალეთ ან გააუქმეთ კეში, ფუნთუშები, ბაზები და სეანსის მონაცემები.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Storage_Inspector
 ;Learn more about the Storage panel
-Learn more about the Storage panel
+შეიტყვეთ მეტი, საცავების მართვის
 
 
 ;Responsive Design Mode
-Responsive Design Mode
+თავსებადი იერსახის რეჟიმი
 
 
 ;Test sites on emulated devices in your browser.
-Test sites on emulated devices in your browser.
+გამოცადეთ საიტები ვირტუალურ მოწყობილობებზე, თქვენს ბრაუზერშივე.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Responsive_Design_Mode
 ;Learn more about Responsive Design Mode
-Learn more about Responsive Design Mode
+შეიტყვეთ მეტი, თავსებადი იერსახის რეჟიმზე
 
 
 ;Visual Editing
-Visual Editing
+იერსახის შესწორება
 
 
 ;Fine-tune animations, alignment and padding.
-Fine-tune animations, alignment and padding.
+გამართეთ საიტზე ანიმაციები, განლაგება და საზღვრები.
 
 
 # Link to https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more/
 ;Learn more about Visual Editing
-Learn more about Visual Editing
+შეიტყვეთ მეტი, იერსახის შესწორების შესახებ
 
 
 ;Performance
-Performance
+წარმადობა
 
 
 ;Unblock bottlenecks, streamline processes, optimize assets.
-Unblock bottlenecks, streamline processes, optimize assets.
+გახსენით საცობები, ააჩქარეთ დამუშავების დრო და წარმადობა.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Performance
 ;Learn more about the Performance panel
-Learn more about the Performance panel
+შეიტყვეთ მეტი წარმადობის გაუმჯობესებაზე
 
 
 ;Memory
-Memory
+მეხსიერება
 
 
 # Zippy means very fast.
 ;Find memory leaks and make your application zippy.
-Find memory leaks and make your application zippy.
+დაადგინეთ მეხსიერების გადატვირთულობის მიზეზები და ააჩქარეთ თქვენი პროგრამა.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Memory
 ;Learn more about the Memory panel
-Learn more about the Memory panel
+შეიტყვეთ მეტი, მეხსიერების გამოყენების ოპტიმიზაციის შესახებ
 
 
 ;Web Audio
-Web Audio
+ვებაუდიო
 
 
 ;The only developer tool for inspecting the Web Audio API.
-The only developer tool for inspecting the Web Audio API.
+ერთადერთი ბრაუზერი, რომელსაც გააჩნია ვებაუდიოს API-თან სამუშაო ხელსაწყოები.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Web_Audio_Editor
 ;Learn more about the Web Audio Editor
-Learn more about the Web Audio Editor
+შეიტყვეთ მეტი, ვებაუდიოსთან სამუშაო ხელსაწყოებზე
 
 
 ;Scratchpad
-Scratchpad
+სამუშაო დაფა
 
 
 ;Edit, write, run and execute JavaScript in real time.
-Edit, write, run and execute JavaScript in real time.
+ჩაასწორეთ, დაწერეთ და გაუშვით JavaScript კოდი ადგილზევე.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Scratchpad
 ;Learn more about the Scratchpad
-Learn more about the Scratchpad
+შეიტყვეთ მეტი, სამუშაოს დაფის შესახებ
 
 
 ;Style Editor
@@ -242,11 +243,11 @@ Learn more about the Scratchpad
 
 
 ;Edit and manage all your CSS stylesheets in your browser.
-Edit and manage all your CSS stylesheets in your browser.
+ჩაასწორეთ და გამართეთ საიტის CSS იერსახე ბრაუზერში.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Style_Editor
 ;Learn more about the Style Editor
-Learn more about the Style Editor
+შეიტყვეთ მეტი იერსახეზე სამუშაო ხელსაწყოების შესახებ
 
 

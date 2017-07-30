@@ -1,8 +1,9 @@
+## active ##
 ## NOTE: Demo server is available at https://www-dev.allizom.org/internet-health/digital-inclusion/
 
 
 ;Digital Inclusion: Vital to Internet Health
-Aslaγ umḍin: Ittwasra i tezmert n Internet
+Taguri tmḍint : Tlaq i tezmert n Internet
 
 
 ;Digital inclusion means promoting diversity, practicing respect, and supporting universal access online.
@@ -14,7 +15,7 @@ Internet uzmir yeldi i meṛṛa
 
 
 ;The more voices, perspective, languages, and people contributing to the Web, the richer the experience for everyone. But the whole Internet is not yet accessible, welcoming, and safe for all. Together, we have the power to shape the Web, and our world along with it.
-The more voices, perspective, languages, and people contributing to the Web, the richer the experience for everyone. But the whole Internet is not yet accessible, welcoming, and safe for all. Together, we have the power to shape the Web, and our world along with it.
+Skud yeṭṭuqet wawal, ṭuqtent tiktiwin, tutlayin akked imdanen ittekkan di Web, skud aseqdec ilehhu ugar. Maca mačči akk Internet yettwakcam, yelha neɣ d aɣelsan i yal yiwen. Lwaḥid, ad nizmir ad nmudd talɣa i Web, ula d amaḍal-nneɣ yedda.
 
 
 ;A healthy Internet is open to you.
@@ -27,12 +28,12 @@ Hatan aya kraḍ n yeḥricen anida nezmer ad nbeddel abrid.
 
 # This is a navigation link
 ;Promote Diversity
-Snes tuggta
+Semres tanḍa
 
 
 # This is a navigation link
 ;Practice Respect
-Snes aqadeṛ
+Semres aqadeṛ
 
 
 # This is a navigation link
@@ -45,15 +46,15 @@ Taguri tumḍint temmal-d asmil n tiggwti
 
 
 ;For the Internet to fulfill its greatest promise, it must reflect the diversity and experience of all people, everywhere.
-For the Internet to fulfill its greatest promise, it must reflect the diversity and experience of all people, everywhere.
+Akken Internet ad yeṭṭef lweɛd-is, yessefk ad d-imudd udem n tanḍa akked tarmit i yemdanen meṛṛa, di yal amḍiq deg umaḍal.
 
 
 ;As inclusive as the Web can seem, it’s not yet an equal playing field. More than half the world is still without it; emerging economies and marginalized communities are often the last to gain access. Far fewer women are using the Internet than men. And without diversity among its creators, the Web itself will reflect unconscious biases, while personalizing algorithms can reinforce our own.
-As inclusive as the Web can seem, it’s not yet an equal playing field. More than half the world is still without it; emerging economies and marginalized communities are often the last to gain access. Far fewer women are using the Internet than men. And without diversity among its creators, the Web itself will reflect unconscious biases, while personalizing algorithms can reinforce our own.
+Ɣas akken Web yettban d imegri, weǧin yella d annar n wurar arawsan. ugar n uzgen deg umaḍal ttidiren s war Internet, tidamsiwin d-iṭallayen akked timezdagnutin yuɣen tama dima d ineggura i yekeččmen. Drus n tlawin i yesseqdacen Internet ma nmuqel ar yirgazen. Ur nettaf ara tanḍa gar imenulfuyen, Web ima-is yettban s yir tamuɣli, di lawan anida ilguritmen yettmuddun udem zemren ad tessiǧhidden wid-nneɣ.
 
 
 ;In nine developing countries, women are still nearly 50% less likely to access the Internet than men.
-Di tza n tmura yettnernin, mazal ur wwiiḍent ara  50%  n tlawin i yezmren ad kecment ar Internet am yergazen.
+Di tza n tmura yettnernin, mazal ur yewwiḍ ara  50%  n tilawin i yezmren ad kecment ar Internet am yirgazen.
 
 
 ;Source: <a href="%(wwwf)s">World Wide Web Foundation</a>, 2015
@@ -66,7 +67,7 @@ Aɣbalu: <a href="%(wwwf)s">Tasbeddit World Wide Web</a>, 2015
 
 
 ;How you can promote diversity
-Amek ara tesnerniḍ tuggta
+Amek ara tesnerniḍ tanḍa
 
 
 ;Create web content
@@ -82,11 +83,11 @@ Bnu tiɣbula
 
 
 ;Support a resource like <a href="%(wiki_support)s">Wikipedia</a> that drastically lowers the barriers to knowledge – or better yet, <a href="%(wiki_contribute)s">help build it</a>. Wikipedia needs more, and more diverse, contributors.
-Support a resource like <a href="%(wiki_support)s">Wikipedia</a> that drastically lowers the barriers to knowledge – or better yet, <a href="%(wiki_contribute)s">help build it</a>. Wikipedia needs more, and more diverse, contributors.
+Mudd afus i yisenfaren am  <a href="%(wiki_support)s">Wikipedia</a> i yessenɣaṣen s waṭas tilisa n unelcum ar tmusniwin ; neɣ ahat, <a href="%(wiki_contribute)s">mudd afus i usnerniis</a>. Wikipedia tesra ugar n imttekkiyen yal yiwen di taɣult-is.
 
 
 ;How Mozilla is promoting diversity
-Amek Mozilla tesnernay tuggta
+Amek Mozilla tesnernay tanḍa
 
 
 ;Advancing accessibility
@@ -94,15 +95,15 @@ Snerni anekcum
 
 
 ;Advancing web accessibility standards, and making Firefox inclusive through efforts like our <a href="%(web_a11y)s">Accessibility</a> team.
-Advancing web accessibility standards, and making Firefox inclusive through efforts like our <a href="%(web_a11y)s">Accessibility</a> team.
+Asnerni tignutin n unekcum ar Web, d tririt n Firefox d imgeri ugar s lmendad n wussisen n terbaɛt-nneɣ <a href="%(web_a11y)s">Tanekcumt</a>.
 
 
 ;Building digital skills
-Bnu tiwzutin tumḍinin
+Bnu tiwezza tumḍinin
 
 
 ;<a href="%(un_women)s">Partnering with UN Women</a> to help women in Africa and across the globe build key digital skills.
-<a href="%(un_women)s">Partnering with UN Women</a> to help women in Africa and across the globe build key digital skills.
+<a href="%(un_women)s">Necrek akked Tilawin n Ugraw n Tmura Yedduklen</a> akken ad nmudd afus i tilawin di Tferka akked umaḍal meṛṛa ad snernint tiwezza-nsent tumḍinin.
 
 
 ;Digital Inclusion means practicing respect
@@ -110,15 +111,15 @@ Taguri tumḍint temmal-d asemres n uqadeṛ
 
 
 ;We should all have the ability to participate fully on the Internet, without threat to our reputations, our confidence, or our safety.
-We should all have the ability to participate fully on the Internet, without threat to our reputations, our confidence, or our safety.
+Yessefk ad nizmir ad nttekki di Internet, s war tugdi ɣef udem-nneɣ, taflest neɣ taɣellist-nneɣ.
 
 
 ;We’ve all seen our share of nasty comments sections. At times, the Web can feel like a very unfriendly place – particularly for women, minorities, and members of marginalized communities. By discouraging people from getting online, cyberbullying and cyber violence threaten not just individuals, but the Internet itself.
-We’ve all seen our share of nasty comments sections. At times, the Web can feel like a very unfriendly place – particularly for women, minorities, and members of marginalized communities. By discouraging people from getting online, cyberbullying and cyber violence threaten not just individuals, but the Internet itself.
+Nwala akk yakan kra n iwenniten iqebḥen. Tikwal, Web d yir amḍiq, ladɣa i tilawin, tidersiyin, neɣ iɛeggalen n tmezdagnutin yuɣalen di tama. Ma yella nseḥbibir akken ad neḥwi imdanen si tuqqna, awwaḍ akked tkeriḍt srid ur ttḥazen ara kan imdanen, ad nnalen ula d Internet s timmad-is.
 
 
 ;73% of Internet users have seen someone harassed online and 40% have personally experienced it.
-73% n iseqdacen n Internet waman amdan yettuẓemlel udiɣ 40% dren tarmit-agi
+73% n iseqdacen n Internet walan amdan yettuẓemlel udiɣ 40% dren tarmit-agi
 
 
 ;Source: <a href="%(pew)s">Pew Research</a>, 2014
@@ -131,7 +132,7 @@ Aɣbalu: <a href="%(pew)s">Pew Research</a>, 2014
 
 
 ;How you can practice respect
-Amek ara semreseḍ aqadeṛ
+Amek ara tesmerseḍ aqadeṛ
 
 
 ;Report bullying
@@ -139,7 +140,7 @@ Mmel-aɣ-d ashilew
 
 
 ;If you see cyber violence and bullying online, <a href="%(report)s">record it and report it</a>.
-If you see cyber violence and bullying online, <a href="%(report)s">record it and report it</a>.
+Ma twalaḍ armud n tekridt neɣ wid yettwaḍen srid, <a href="%(report)s">sekles-it sakin mmel-it</a>.
 
 
 ;Talk about respect
@@ -159,7 +160,7 @@ Seḥbiber af ifecka i ummesten
 
 
 ;Supporting the <a href="%(coral)s">Coral Project</a>, which works to improve how journalists and communities engage on news websites, including tools like <a href="%(talk)s">Talk</a>, that aims to create smarter, safer comments sections.
-Supporting the <a href="%(coral)s">Coral Project</a>, which works to improve how journalists and communities engage on news websites, including tools like <a href="%(talk)s">Talk</a>, that aims to create smarter, safer comments sections.
+Mudd afus i usenfaṛ <a href="%(coral)s">Project Coral</a>, i yesseḥbibiren akken ad yesnerni tarrayt amek ineɣmasen neɣ imdanen seqdacen ismal n isallen, neɣ ifecka am <a href="%(talk)s">Talk</a>, yettnadin ad rnun imeɣdan n iwenniten  uḥricen, iɣelsanen.
 
 
 ;Empowering individuals
@@ -167,7 +168,7 @@ Seǧhed imdanen
 
 
 ;Creating open curricula that empowers people to create safe spaces online, like the <a href="%(teaching)s">Teaching Kit: Combating Cyber Violence Against Women and Girls</a>.
-Creating open curricula that empowers people to create safe spaces online, like the <a href="%(teaching)s">Teaching Kit: Combating Cyber Violence Against Women and Girls</a>.
+Rnu timsirin yeldin srid akken ad tmuddeḍ i yiseqdacen allal n tmerna n imeḍqan iɣelsanensrid, am <a href="%(teaching)s">tagrumma n ifecka n uselmed : nnaɣ mgal n tekriḍt srid mgal tilawin akked tullas</a>.
 
 
 ;Digital Inclusion means supporting universal access to the whole Internet
@@ -175,15 +176,15 @@ Taguri tumḍint temmal-d aseḥbiber ɣef unekcum amaḍalan at Internet meṛ�
 
 
 ;We should all have affordable, high-quality, unrestricted access to the whole Web, so the whole world can benefit.
-We should all have affordable, high-quality, unrestricted access to the whole Web, so the whole world can benefit.
+Yessefk meṛṛa ad nesɛu anekcum ar Web rxiṣen, n tɣara meqqṛen s war tilisa, akken yal yiwen ad ifaṛes tagnitt.
 
 
 ;To participate online, you have to be able to get online. Programs have emerged that offer free or subsidized Internet access, but it is often slow or restricted, creating a ‘poor Internet for poor people.’ At its most extreme, governments worldwide are turning off all or parts of the Internet to serve their own agendas, which can threaten human rights and even the health of the global economy.
-To participate online, you have to be able to get online. Programs have emerged that offer free or subsidized Internet access, but it is often slow or restricted, creating a ‘poor Internet for poor people.’ At its most extreme, governments worldwide are turning off all or parts of the Internet to serve their own agendas, which can threaten human rights and even the health of the global economy.
+Akken ad ttekkiḍ srid, yessek ad tizmireḍ ad tesɛuḍ anekcum. Ahilen lulen-d akken ak-d-mudden anekcum baṭel neɣ deg-s aɛiwen ar Internet, maca anekcum-agi ẓẓay neq ɣur-s talast, d ayen i d-yesnulfan "Internet Agellil i yigellilen". Di kra n isatalen, inabaḍen n umadal meṛṛa gezzmen anekcum meṛṛa neɣ ar kra n yeḥricen n Internet akken ad sɛeddin tiktiwin-nsen neɣ ad seḥbibren ɣef ubaɣur-nsen, d ayen i d-yettwawin ayen n dir ama i yizerfan n umdan neɣ tazmert n tdamsa n umaḍal.
 
 
 ;In 2016, there were 51 intentional Internet shutdowns in 18 countries.
-In 2016, there were 51 intentional Internet shutdowns in 18 countries.
+Di 2016, Internet tettwagzem 51 n tikwal di 18 n tmura.
 
 
 ;Source: <a href="%(accessnow)s">AccessNow</a>, 2016
@@ -204,12 +205,12 @@ Mmud ifecka inek
 
 
 ;Donate your old computers, laptops, and phones to non-profits that refurbish and redistribute them to underserved communities.
-Donate your old computers, laptops, and phones to non-profits that refurbish and redistribute them to underserved communities.
+Mudd iselkimen-ik iqbuṛen, iselkimen n izirazen neɣ tiliɣriyin-ik i tuddsiwin ur yettnadin ara tadrimt akken ad ten-seggmen sakin ad ten-mudden i yiẓawaliyen.
 
 
 # String is obsolete. Do NOT remove.
 ;Donate your old computers, laptops, and phones to non-profits like <a href="%(reconnect)s">Reconnect</a>, <a href="%(strut)s">Students Recycling Used Technology</a>, or <a href="%(interconnection)s">Interconnection</a>, who refurbish and redistribute them to underserved communities.
-Donate your old computers, laptops, and phones to non-profits like <a href="%(reconnect)s">Reconnect</a>, <a href="%(strut)s">Students Recycling Used Technology</a>, or <a href="%(interconnection)s">Interconnection</a>, who refurbish and redistribute them to underserved communities.
+Mudd iselkimen-ik iqbuṛen, iselkimen n izirazen neɣ tiliɣriyin-ik i tuddsiwin ur yettnadin ara tadrimt am<a href="%(reconnect)s">Reconnect</a>, <a href="%(strut)s">Students Recycling Used Technology</a>, neɣ <a href="%(interconnection)s">Interconnection</a>, ara ten-iseggmen sakin ad ten-nmudden i yiẓawaliyen.
 
 
 ;Advocate for openness
@@ -217,7 +218,7 @@ Seḥbiber af tulya
 
 
 ;Tell your representatives that open and affordable access to the Internet should be a policy priority.
-Tell your representatives that open and affordable access to the Internet should be a policy priority.
+Ini n wid tferneḍ di tefranin d akken anekcum yeldin, rxiṣen ar Internet yessefk ad yili d asenfaṛ amezwaru.
 
 
 ;How Mozilla is supporting universal access
@@ -229,7 +230,7 @@ Seḥbiber af trawsa
 
 
 ;Championing <a href="%(neutrality)s">net neutrality</a>, so that everyone has access to the same Internet.
-Championing <a href="%(neutrality)s">net neutrality</a>, so that everyone has access to the same Internet.
+Ḥareb ɣef <a href="%(neutrality)s">trawsa n Net</a>, akken yal yiwen ad yizmir ad yekcem ɣer yiwen kan n Internet.
 
 
 ;Connecting the unconnected
