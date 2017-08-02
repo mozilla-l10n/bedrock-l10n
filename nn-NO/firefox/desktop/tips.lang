@@ -3,89 +3,89 @@
 
 # main title
 ;The best of the latest Firefox
-The best of the latest Firefox
+Det beste i den nye Firefox
 
 
 ;Bookmarks
-Bookmarks
+Bokmerke
 
 
 ;Simplify
-Simplify
+Forenkle
 
 
 ;Arrange
-Arrange
+Ordne
 
 
 ;Sync
-Sync
+Sync {ok}
 
 
 ;5 top tips, tricks and time-saving tools
-5 top tips, tricks and time-saving tools
+Dei 5 beste tipsa, triks og tidssparande verktøy
 
 
 ;1
-1
+1 {ok}
 
 
 ;2
-2
+2 {ok}
 
 
 ;3
-3
+3 {ok}
 
 
 ;4
-4
+4 {ok}
 
 
 ;5
-5
+5 {ok}
 
 
 ;back
-back
+tilbake
 
 
 ;next
-next
+neste
 
 
 # Tip 1
 ;Click the star
-Click the star
+Trykk på stjerna
 
 
 ;Watch the star jump so you know your bookmark has been added.
-Watch the star jump so you know your bookmark has been added.
+Når du ser stjerna hoppe, veit du at bokmerket ditt er lagt til.
 
 
 ;(Try it! It’s fun!)
-(Try it! It’s fun!)
+(Prøv det! Det er moro!)
 
 
 ;How to:
-How to:
+Korleis:
 
 
 ;Click the star to add bookmarks and manage them from the same spot.
-Click the star to add bookmarks and manage them from the same spot.
+Trykk på stjerna for å leggje til og behandle bokmerke, på same plass.
 
 
 # Tip 2
 ;Simplify your life
-Simplify your life
+Gjør livet ditt enklare
 
 
 ;Go to your happy place.
-Go to your happy place.
+Gå til lykkestaden din.
 
 
 ;Remove the buttons you don’t use so you can find the ones you do.
-Remove the buttons you don’t use so you can find the ones you do.
+Fjern knappane du ikkje brukar, slik at du kan finne dei du faktisk brukar.
 
 
 # The strong tags are for presentational purpose
@@ -95,7 +95,7 @@ Open the menu, select “<strong>Customize</strong>” and drag any button out o
 
 # Tip 3
 ;Add your faves
-Add your faves
+Legg til favorittane dine
 
 
 ;Play favorites with the features you use most and arrange them for fast, easy access.
@@ -109,7 +109,7 @@ Open the menu, select “<strong>Customize</strong>” and drag any button into 
 
 # Tip 4
 ;Stay in Sync
-Stay in Sync
+Hald deg synkronisert
 
 
 # New string
@@ -119,17 +119,17 @@ Use Sync to magically access your open tabs, passwords and more wherever you use
 
 # Old string, will be removed once the new string is activated
 ;Use Sync to magically access your open tabs, passwords and more from any device.
-Use Sync to magically access your open tabs, passwords and more from any device.
+Bruk Sync for å alltid ha tilgang til opne faner, passord og mykje meir, frå kva som helst eining.
 
 
 # The strong tags are for presentational purpose
 ;Choose “<strong>Sign in to Sync</strong>” from the menu and make Firefox your own wherever you use it.
-Choose “<strong>Sign in to Sync</strong>” from the menu and make Firefox your own wherever you use it.
+Vel «<strong>Logg inn på Sync</strong>» i menyen og set ditt preg på Firefox alle stadar du brukar han.
 
 
 # Tip 5
 ;Free your add-ons
-Free your add-ons
+Frigjer utvidingane dine
 
 
 ;Keep those special, favorite add-ons in your menu so they’re visible and easily within reach.
@@ -138,42 +138,42 @@ Keep those special, favorite add-ons in your menu so they’re visible and easil
 
 # The strong tags are for presentational purpose
 ;Select “<strong>Customize</strong>” from the menu and drag in the add-ons you want.
-Select “<strong>Customize</strong>” from the menu and drag in the add-ons you want.
+Vel "<strong>Tilpass</strong>" frå menyen og drag favorittutvidingane dine dit du vil.
 
 
 ;Get Firefox
-Get Firefox
+Last ned Firefox
 
 
 ;Congratulations
-Congratulations
+Gratulerer
 
 
 ;You’re an expert!
-You’re an expert!
+Du er ein ekspert!
 
 
 ;Now help your friends master Firefox.
-Now help your friends master Firefox.
+No kan du hjelpe vennane dine med å meistre Firefox.
 
 
 # Accessibility string for link
 ;Learn more about bookmarks
-Learn more about bookmarks
+Les meir om bokmerke
 
 
 # Accessibility string for link
 ;Learn more about customizing
-Learn more about customizing
+Les meir om tilpassing
 
 
 # Accessibility string for link
 ;Learn more about Sync
-Learn more about Sync
+Les meir om Sync
 
 
 # Accessibility string for link
 ;Learn more about add-ons
-Learn more about add-ons
+Les meir om utvidingar
 
 
