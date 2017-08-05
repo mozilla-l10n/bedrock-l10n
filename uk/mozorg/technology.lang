@@ -1,4 +1,6 @@
 ## active ##
+## emerging_tech_links ##
+## iot_links ##
 ## NOTE: Demo server is available at https://www-dev.allizom.org/technology
 
 
@@ -28,11 +30,11 @@
 
 
 ;Learn about WebVR
-Learn about WebVR
+Дізнайтеся більше про WebVR
 
 
 ;Visit A-Frame blog
-Visit A-Frame blog
+Відвідайте блог A-Frame
 
 
 ;Visit the blog
@@ -48,7 +50,7 @@ Visit A-Frame blog
 
 
 ;See what’s new
-See what’s new
+Перегляньте, що нового
 
 
 # Obsolete string, do not remove
@@ -57,7 +59,7 @@ See what’s new
 
 
 ;Meet WebAssembly
-Meet WebAssembly
+Зустрічайте WebAssembly
 
 
 ;Start building
@@ -65,11 +67,11 @@ Meet WebAssembly
 
 
 ;Building the Web of Things
-Building the Web of Things
+Будуємо інтернет речей
 
 
 ;We’re working to create an open, Web of Things framework of software and services that can bridge the communication gap between connected devices.
-We’re working to create an open, Web of Things framework of software and services that can bridge the communication gap between connected devices.
+Ми працюємо над створенням відкритої платформи Інтернету речей для програм та послуг, які можуть налаштувати зв'язок між підключеними пристроями.
 
 
 # String is obsolete. Do NOT remove.
@@ -87,7 +89,7 @@ We’re working to create an open, Web of Things framework of software and servi
 
 
 ;Visit Mozilla IoT
-Visit Mozilla IoT
+Відвідати Mozilla IoT
 
 
 # String is obsolete. Do NOT remove.
@@ -116,11 +118,11 @@ Visit Mozilla IoT
 
 
 ;Sponsored by Mozilla, Rust allows browsers, systems and more to run much faster and more safely.
-Sponsored by Mozilla, Rust allows browsers, systems and more to run much faster and more safely.
+За підтримки Mozilla, Rust дозволяє браузерам, системам та іншим засобам працювати швидше і безпечніше.
 
 
 ;Learn about Rust
-Learn about Rust
+Дізнайтеся більше про Rust
 
 
 # Obsolete string, do not remove

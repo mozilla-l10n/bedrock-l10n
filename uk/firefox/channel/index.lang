@@ -2,6 +2,7 @@
 ## android_nightly_copy ##
 ## firefox_title_meta_bug1345338 ##
 ## firefox_title_meta_bug1357373 ##
+## nightly_description_bug1375100 ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
@@ -138,7 +139,7 @@ Firefox Developer Edition автоматично надсилає дані в Mo
 
 
 ;Get a sneak peek at our next generation web browser, and help us make it the best browser it can be: try Firefox Nightly.
-Get a sneak peek at our next generation web browser, and help us make it the best browser it can be: try Firefox Nightly.
+Погляньте на наш веб-браузер нового покоління, і допоможіть нам зробити його на стільки кращим, на скільки він може бути: спробуйте Firefox Nightly.
 
 
 # String is obsolete. Do NOT remove.
