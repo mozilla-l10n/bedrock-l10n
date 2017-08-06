@@ -2,6 +2,7 @@
 ## android_nightly_copy ##
 ## firefox_title_meta_bug1345338 ##
 ## firefox_title_meta_bug1357373 ##
+## nightly_description_bug1375100 ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
@@ -82,7 +83,7 @@ iOS {ok}
 
 
 ;All Languages and Builds
-جميع اللغات و الإصدارات
+جميع اللغات والإصدارات
 
 
 ;Help determine what features will go into the next Firefox for Android.
@@ -138,7 +139,7 @@ iOS {ok}
 
 
 ;Get a sneak peek at our next generation web browser, and help us make it the best browser it can be: try Firefox Nightly.
-Get a sneak peek at our next generation web browser, and help us make it the best browser it can be: try Firefox Nightly.
+اكتشف النسخة القادمة من المُتصفّح قبل توفيرها للعموم وساعدنا في جعله أفضل مُتصفّح على الإطلاق. جرّب النّسخة الليلية من فَيَرفُكس Firefox Nightly.
 
 
 # String is obsolete. Do NOT remove.
