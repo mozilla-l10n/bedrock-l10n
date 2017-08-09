@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/features/bookmarks
 
 
@@ -36,7 +37,7 @@ Vzemite zaznamek s seboj
 
 # On the fly here means on the move with you.
 ;Take your favorites on the fly. Use Firefox Sync to access your bookmarks across all your devices, from desktop to mobile. Or try <a href="%(url)s">Pocket</a> to save any online article, or page and come back to later – even without internet.
-Vzemite zaznamke s seboj. Uporabite Firefox Sync za dostop do zaznamkov na vseh svojih napravah, od računalnika do mobilnika. Lahko pa poskusite <a href="%(url)s">Pocket</a> za shranjevanje spletnih člankov ali stran in si jih oglejte pozneje - tudi brez interneta.
+Vzemite zaznamke s seboj. Uporabite Firefox Sync za dostop do zaznamkov na vseh svojih napravah, od računalnika do mobilnika. Preskusite tudi <a href="%(url)s">Pocket</a>, ki vam omogoča shraniti katerikoli članek ali stran za poznejši ogled – tudi brez interneta.
 
 
 # Futz with means to spend a lot of time on something.
@@ -45,6 +46,6 @@ Igračkajte se z zaznamkom
 
 
 ;Practice your exactitude with every bookmark manager <a href="%(url)s">add-on</a> you can think of, from full page snapshots to quick-switch sidebars to locked-down-tight private bookmarks.
-Practice your exactitude with every bookmark manager <a href="%(url)s">add-on</a> you can think of, from full page snapshots to quick-switch sidebars to locked-down-tight private bookmarks.
+Izživite svojo strast do reda z najrazličnejšimi <a href="%(url)s">dodatki</a> za upravljanje zaznamkov – od takih s posnetki celih strani pa do takih s stranskimi vrsticami in z zaščito za shranjevanje zasebnih zaznamkov.
 
 

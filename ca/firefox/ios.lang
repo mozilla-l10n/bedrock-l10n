@@ -1,11 +1,12 @@
 ## active ##
+## firefox_title_meta_bug1345338 ##
 ## tracking_protection ##
 ## NOTE: Demo page available at https://www-dev.allizom.org/firefox/ios/
 
 
 # HTML page title
 ;Free Mobile Browser App for iPhone, iPad, iOS | Firefox
-Free Mobile Browser App for iPhone, iPad, iOS | Firefox
+Navegador mòbil gratuït per a l'iPhone, iPad i iOS | Firefox
 
 
 # String is obsolete. Do not remove.
@@ -62,7 +63,7 @@ Inicieu una sessió al vostre compte Firefox per accedir a la informació de nav
 
 
 ;History
-Història
+Historial
 
 
 ;Passwords
