@@ -4,12 +4,12 @@
 
 # %s is replaced with Firefox.
 ;Download %s for Android in your language
-మీ భాషలో ఆండ్రాయిడ్ %s‌ని దించుకోండి
+మీ భాషలోకి Android కోసం %s‌ని దించుకోండి
 
 
 # %s is replaced with Firefox.
 ;Download %s in your language
-మీ భాషలో %s‌ని దింపుకోండి
+మీ భాషలోకి %s‌ని దింపుకోండి
 
 
 ;Language
@@ -22,23 +22,23 @@
 
 # This is displayed on firefox/beta/all/.
 ;Download Firefox Beta in your language and experience cutting edge features before they make it to final release. Provide feedback to help us refine and polish the next version of Firefox.
-Firefox Betaను మీ భాషలోకి డౌన్లోడ్ చేసుకొని సరి కొత్త ఫీచర్లలను తుది విడుదలకు ముందు అనుభవించండి. Firefox యొక్క తరువాతి వర్షన్ను మెరుగుపరచడానికి మాకు మీ అభిప్రాయాన్ని అందించండి.
+Firefox Betaను మీ భాషలోకి దింపుకొని, అత్యాధునిక ఫీచర్లలను తుది విడుదలకు ముందు అనుభవించండి. Firefox యొక్క తరువాతి వెర్షను మెరుగుపరచడానికి మాకు మీ అభిప్రాయాన్ని అందించండి.
 
 
 # %s is replaced with Firefox.
 # This is displayed on firefox/aurora/all/.
 ;Download %s in your language to experience the newest features and innovations in an unstable environment even before they go to Beta. Give us feedback that will determine what makes it to Final Release and help shape the future of Firefox.
-%sని మీ భాషలో దించుకోని సరికొత్త ఉపకరణలను, ఆవిష్కరణలను అస్థిర వాతావరణంలో Betaలోకి విడుదల కాకముందే అనుభవించండి. మీ అభిప్రాయాలను తెలిపి మా ఆఖరి విడుదలకు మరియు Firefox భవిష్యత్తుని రూపుదిద్దడానికి సహకరించండి.
+%sని మీ భాషలో దించుకోని సరికొత్త ఉపకరణలను, ఆవిష్కరణలను Betaలోకి విడుదల కాకముందే అస్థిర వాతావరణంలో అనుభవించండి. మీ అభిప్రాయాలను తెలిపి మా ఆఖరి విడుదలకు మరియు Firefox భవిష్యత్తుని రూపుదిద్దడానికి సహకరించండి.
 
 
 # This is displayed on firefox/nightly/all/.
 ;Are you a power-user comfortable installing pre-alpha software? Install Nightly and help us improve Firefox quality, hunt crashes and regressions and test new features as they get coded!
-మీరు పవర్-వినియోగదారు సౌకర్యవంతమైన ముందు ఆల్ఫా సాఫ్ట్వేర్ను ఇన్స్టాల్ చేస్తున్నారా? Nightly ఇన్స్టాల్ చేయండి మరియు Firefox నాణ్యతను మెరుగుపరచడానికి, క్రాష్లు మరియు రిగ్రెషన్లను వేటాడి మరియు వారు కోడెడ్ చేస్తున్నప్పుడు కొత్త ఫీచర్లను పరీక్షించండి!
+Are you a power-user comfortable installing pre-alpha software? Install Nightly and help us improve Firefox quality, hunt crashes and regressions and test new features as they get coded!
 
 
 # This is displayed on firefox/organizations/all/.
 ;Firefox ESR is intended for groups who deploy and maintain the desktop environment in large organizations. <a href="%s">Learn more.</a>
-రంగస్థల వాతావరణాన్ని మొహరించు మరియు నిర్వహించు పెద్ద సంస్థలకోసం Firefox ESR ఉద్దేషించబడినది. <a href="%s">ఇంకా తెలుసుకోండి.</a>
+Firefox ESR is intended for groups who deploy and maintain the desktop environment in large organizations. <a href="%s">Learn more.</a>
 
 
 ;Firefox is made in large part by volunteers around the world. That’s why we offer it in 90 languages (and why there’s heart and soul in every piece of code).
@@ -57,12 +57,12 @@ Firefox Nightly {ok}
 
 # Used as a tweet, make sure to keep it under 116 characters
 ;Thanks to contributions of Mozilla community members around the world, Firefox is available in 90 languages:
-ప్రపంచవ్యాప్తంగా ఉన్న మా Mozilla సంఘ సభ్యుల సహకారాల కారణంగా, ఫైర్ఫాక్స్ ఇప్పుడు 90 భాషలలో లభ్యముగా ఉంది:
+ప్రపంచవ్యాప్తంగా ఉన్న మా Mozilla సమాజ సభ్యుల సహకారాల కారణంగా, Firefox ఇప్పుడు 90 భాషలలో అందుబాటులో ఉంది:
 
 
 # This is displayed on firefox/nightly/all/.
 ;<strong>Warning</strong>: Nightly is updated daily. It is most appropriate for core Mozilla contributors and early adopters, not regular users.
-<strong>హెచ్చరిక </strong>: Nightly రోజువారీ నవీకరించబడింది. ఇది కోర్ Mozilla సహాయకులకు మరియు ప్రారంభ వినియోగదారులకి తగినది, సాధారణ వినియోగదారులకు కాదు.
+<strong>హెచ్చరిక </strong>: Nightly రోజువారీ నవీకరించబడుతుంది. ఇది కోర్ Mozilla సహాయకులకు మరియు ప్రారంభ వినియోగదారులకి తగినది, సాధారణ వినియోగదారులకు కాదు.
 
 
 ;Check the system requirements
@@ -91,7 +91,7 @@ Firefox Nightly {ok}
 
 
 ;These localizations aren’t final. We’re waiting for more feedback from the community to perfect them.
-ఈ స్థానికీకరణలు అంతిమం కాదు. వీటిని మెరుగుపరచడానికి మేం సమాజం నుండి ప్రతిస్పందనకై ఎదురుచూస్తున్నాం.
+ఈ స్థానికీకరణలు అంతిమం కాదు. వీటిని మెరుగుపరచడానికి మేం సమాజం యొక్క ప్రతిస్పందనకై ఎదురుచూస్తున్నాం.
 
 
 # Used in Android pages like /firefox/android/beta/all/
