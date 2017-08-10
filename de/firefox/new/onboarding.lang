@@ -3,40 +3,40 @@
 
 
 ;You’re browsing freely with the latest version of Firefox.
-Sie surfen in Freiheit mit der neuesten Firefox-Version.
+Du bist in Freiheit unterwegs – mit der neuesten Version von Firefox.
 
 
 # Link points to a SUMO page.
 # This is displayed to Android users on older version of Firefox.
 ;<a href="%(url)s">Update</a> your Firefox for the latest in speed and privacy.
-<a href="%(url)s">Aktualisieren</a> Sie Ihren Firefox, um das Neueste in Sachen Geschwindigkeit und Datenschutz zu erhalten.
+<a href="%(url)s">Bitte aktualisiere Firefox</a>– für optimale Geschwindigkeit und maximale Privatsphäre.
 
 
 ;Congrats! You’re using the latest version of Firefox.
-Glückwunsch! Sie verwenden die neueste Firefox-Version.
+Perfekt! Du hast die neueste Version von Firefox am Start.
 
 
 ;You’re using a pre-release version of Firefox.
-Sie verwenden eine Vorabversion von Firefox.
+Du verwendest eine Vorabversion von Firefox.
 
 
 # Used as HTML title of the page
 ;Free Web Browser
-Kostenloser Internet-Browser
+Kostenlos. Sicher. Schnell – Firefox Internet-Browser
 
 
 # Used as HTML description of the page
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, Mac OS X, Linux, Android and iOS today!
-Laden Sie den freien Internet-Browser Mozilla Firefox herunter. Firefox wird von einer weltweiten gemeinnützigen Organisation entwickelt, die sich dafür einsetzt, dass jeder Einzelne die Kontrolle im Internet hat. Holen Sie sich gleich Firefox für Windows, Mac OS X, Linux, Android und iOS!
+Der einzige Browser, der nicht für Profit entwickelt wurde, sondern für Menschen. Für Windows, Mac OS X, Linux, Android und iOS. Jetzt herunterladen!
 
 
 ;Chart your own course
-Planen Sie Ihren Kurs
+Willkommen in der Freiheit
 
 
 # Link points to a SUMO page.
 ;Please follow <a href="%(url)s">these instructions</a> to install Firefox.
-Bitte folgen Sie <a href="%(url)s">dieser Anleitung</a>, um Firefox zu installieren.
+Bitte folge <a href="%(url)s">dieser Anleitung</a>, um Firefox zu installieren.
 
 
 ;Refresh Firefox
@@ -44,27 +44,27 @@ Firefox bereinigen
 
 
 ;Discover all the ways to take Firefox on the go
-Entdecken Sie alle Möglichkeiten, um Firefox immer dabeizuhaben.
+Firefox zum Mitnehmen – entdecke alle Möglichkeiten
 
 
 ;Go Fast
-Schnell ans Ziel kommen
+Schneller ans Ziel
 
 
 ;You have things to do. Get them done faster.
-Sie haben viel zu tun. Erreichen Sie Ihr Ziel schneller.
+Firefox ist schneller und fitter denn je, damit Du jetzt noch mehr erledigen kannst.
 
 
 ;Go Far
-Jedes Ziel erreichen
+Sicherer unterwegs
 
 
 ;Go anywhere, with more built-in privacy tools than any other browser.
-Mit mehr integrierten Datenschutzwerkzeugen als in jedem anderen Browser kommen Sie überall hin.
+Stärkerer Schutz für Deine Privatsphäre als bei vielen anderen Browsern.
 
 
 ;Go Forward
-Immer vorwärts
+Zukunftsweisend
 
 
 ;Use the only browser built for people, not profit.
@@ -72,7 +72,7 @@ Der einzige Browser, der nicht für Profit entwickelt wurde, sondern für Mensch
 
 
 ;Keep up with<br> all things Firefox.
-Erfahren Sie Neuigkeiten<br> rund um Firefox.
+Dranbleiben mit dem Firefox Newsletter.
 
 
 ;Firefox for other platforms
@@ -81,17 +81,17 @@ Firefox für andere Plattformen
 
 # Span is for visual formatting and line break
 ;Download Firefox <span>for Windows</span>
-Holen Sie sich Firefox <span>für Windows</span>
+Jetzt Firefox <span>für Windows</span> herunterladen
 
 
 # Span is for visual formatting and line break
 ;Download Firefox <span>for macOS</span>
-Holen Sie sich Firefox <span>für macOS</span>
+Jetzt Firefox <span>für macOS</span> herunterladen
 
 
 # Span is for visual formatting and line break
 ;Download Firefox <span>for Linux</span>
-Holen Sie sich Firefox <span>für Linux</span>
+Jetzt Firefox <span>für Linux</span> herunterladen
 
 
 ;Welcome to Firefox
@@ -99,15 +99,15 @@ Willkommen bei Firefox
 
 
 ;Already using Firefox?
-Nutzen Sie Firefox bereits?
+Nutzt Du bereits Firefox?
 
 
 ;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
-Melden Sie sich bei Ihrem Konto an und wir synchronisieren Lesezeichen, Passwörter und mehr, was Sie auf Firefox auf anderen Geräten gespeichert haben.
+Melde Dich bei Deinem Konto an und schon synchronisieren wir Lesezeichen, Passwörter und was Du sonst noch mit Firefox auf anderen Geräten gespeichert hast.
 
 
 ;Learn more about Firefox Accounts
-Erfahren Sie mehr über Firefox-Konten
+Jetzt mehr über Firefox Konten erfahren
 
 
 ;Skip this step
@@ -115,14 +115,14 @@ Diesen Schritt überspringen
 
 
 ;Behold! The open web awaits.
-Aufgepasst! Das offene Web erwartet Sie.
+Freue Dich auf das offene Web
 
 
 ;Thanks for choosing Firefox. Your download should begin automatically. If not, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-Danke, dass Sie sich für Firefox entschieden haben. Ihr Download sollte automatisch beginnen. Wenn nicht, <a id="%(id)s" href="%(fallback_url)s">klicken Sie hier</a>.
+Hurra, Du hast Dich für Firefox entschieden – vielen Dank! Falls Dein Download nicht automatisch beginnt, dann <a id="%(id)s" href="%(fallback_url)s">klicke bitte hier</a>.
 
 
 ;Get Firefox for Android and iOS.
-Holen Sie sich Firefox für Android und iOS.
+Hole Dir jetzt Firefox für Android und iOS.
 
 
