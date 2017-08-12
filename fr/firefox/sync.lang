@@ -2,6 +2,7 @@
 ## firefox_sync_mobile_buttons_update ##
 ## fx38_sync_updates ##
 ## ios_announce ##
+## sync-update-q3-2017 ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
 
@@ -48,7 +49,7 @@ Comme à la maison, où que vous soyez
 
 
 ;Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
-Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
+Téléchargez ou lancez Firefox pour commencer à partager de façon sécurisée vos données de navigation sur tous vos appareils. Connectez-vous à votre compte Firefox pour accéder en toute sécurité à vos mots de passe, vos onglets ouverts et vos marque-pages. Conservez la configuration qui vous convient, où que vous soyez.
 
 
 # String is obsolete. Do NOT remove.
@@ -230,7 +231,7 @@ Sécurisé
 
 
 ;Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
-Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
+Votre compte Firefox conserve tout ce dont vous avez besoin sur le Web, et nous gardons le tout en sécurité. Vous gardez en permanence le contrôle de vos données et personne d’autre ne peut y accéder. Et elles sont chiffrées avec le mot de passe de votre compte. En quelque sorte, nous plaçons vos données dans un coffre-fort et vous remettons la clé.
 
 
 # String is obsolete. Do NOT remove.
@@ -248,7 +249,7 @@ Accessible {ok}
 
 
 ;Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
-Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
+Reprenez là où vous en étiez avec vos onglets ouverts et retrouvez les pages que vous comptiez lire plus tard en buvant votre café du samedi matin. Accédez à vos marque-pages et à vos mots de passe où que vous utilisiez Firefox : sur votre téléphone, votre tablette ou encore votre ordinateur portable. Connectez tout ce dont vous avez besoin, mettez de côté le superflu.
 
 
 # String is obsolete. Do NOT remove.
