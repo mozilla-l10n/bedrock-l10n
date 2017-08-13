@@ -4,11 +4,11 @@
 
 
 ;Protect your privacy and browse faster with Firefox features
-Proteja su privacidad y navegue más rápido con las funcionalidades de Firefox
+Protegé tu privacidad y navegá más rápido con las funcionalidades de Firefox
 
 
 ;You’re in control with Firefox’s easy-to-use features that protect your privacy and browsing speeds.
-Con las características sencillas de Firefox que protegen su privacidad y velocidad de navegación, usted tiene el control.
+Con las sencillas características de Firefox que protegen tu privacidad y velocidad de navegación, tenés el control.
 
 
 ;Firefox features
@@ -20,7 +20,7 @@ Moderno
 
 
 ;Your favorite add-ons and extensions
-Sus complementos y extensiones favoritos
+Tus complementos y extensiones favoritas
 
 
 # These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
@@ -30,50 +30,50 @@ Adblock, Ublock, LastPass y miles más.
 
 # Links to https://addons.mozilla.org/firefox
 ;Get powerful add-ons
-Consiga complementos poderosos
+Conseguí complementos poderosos
 
 
 ;Customize your browser
-Personalice su navegador
+Personalizá tu navegador
 
 
 ;Personalize Firefox with everything from themes to privacy tools.
-Personalizar Firefox con todo desde temas hasta herramientas de privacidad.
+Personalizá Firefox completamente, desde temas hasta herramientas de privacidad.
 
 
 # Link to https://addons.mozilla.org/firefox/themes
 ;Make Firefox yours
-Hacer Firefox suyo
+Hacé Firefox tuyo
 
 
 ;Browse faster
-Navegar más rápido
+Navegá más rápido
 
 
 ;Start faster, tab hop quicker, get more done.
-Inicio más veloz, saltar a las pestañas más rápido, ahorrar tiempo.
+Arranque más veloz, pasá a otra pestaña más rápido, ahorrá tiempo.
 
 
 # Link to /firefox/features/fast
 ;Do more with Firefox
-Ahorrar tiempo con Fireofx
+Lográ más con Firefox
 
 
 ;Sync between devices
-Sincronizar dispositivos
+Sincronizá dispositivos
 
 
 ;Get your tabs, logins and history on the go.
-Tener las pestañas, inicios de sesión. e historial siempre a mano.
+Tené tus pestañas, inicios de sesión. e historial siempre a mano.
 
 
 # Link to https://www-demo5.allizom.org/firefox/sync/
 ;Use Firefox everywhere
-Use Firefox en todos lados
+Usá Firefox en todos lados
 
 
 ;Tabs that travel
-Viajá con tus pestañas
+Pestañas que viajan
 
 
 ;View open tabs on any device.
@@ -94,7 +94,7 @@ La versión más personalizable de Firefox para Android.
 
 # Link to /firefox/android
 ;Take control of your browser
-Tomar el control del navegador
+Tomá el control de tu navegador
 
 
 ;Firefox for iOS
@@ -102,12 +102,12 @@ Firefox para iOS
 
 
 ;The speed you need. The privacy you trust.
-La velocidad que necesita. La privacidad en la que confía.
+La velocidad que necesitás. La privacidad en la que confías.
 
 
 # Link to /firefox/ios
 ;Go beyond the default
-Vaya más allá de lo predeterminado
+Superá lo establecido
 
 
 ;Firefox Test Pilot
@@ -115,12 +115,12 @@ Firefox Test Pilot {ok}
 
 
 ;Experimental features that can simplify your life.
-Funciones experimentales que pueden simplificar su vida.
+Funciones experimentales que pueden simplificar tu vida.
 
 
 # Link to https://testpilot.firefox.com
 ;Help launch new features
-Ayude a lanzar nuevas funcionalidades
+Ayudá a lanzar nuevas funcionalidades
 
 
 ;Balanced memory usage
@@ -128,25 +128,25 @@ Uso balanceado de la memoria
 
 
 ;Browse smoothly and leave plenty of memory for your computer programs.
-Navegue sin problemas y queda mucha memoria para los programas de su computadora.
+Navegá con fluidez y liberá mucha memoria para los programas de tu computadora.
 
 
 # Link to /firefox/features/memory
 ;Speed up your computer
-Aumente la velocidad de su computadora
+Aumentá la velocidad de tu computadora
 
 
 ;Better bookmarks
-Marcadores mejores
+Mejores marcadores
 
 
 ;Quickly save and organize your favorite sites.
-Guarde y organice sus sitios favoritos.
+Guardá y organizá tus sitios favoritos.
 
 
 # Link to /firefox/features/bookmarks
 ;Customize your bookmarks
-Personalice sus marcadores
+Personalizá tus marcadores
 
 
 ;Privacy
@@ -177,7 +177,7 @@ Más protección que el modo incógnito o InPrivate.
 
 # Link to /firefox/features/private-browsing
 ;Get better privacy
-Obtener mayor privacidad
+Conseguí mayor privacidad
 
 
 ;More private
@@ -185,20 +185,20 @@ Más privado
 
 
 ;We don’t sell access to your online data. Period.
-No vendemos el acceso a sus datos en línea. Es todo.
+No vendemos el acceso a tus datos en línea. Punto.
 
 
 # Link to /firefox/features/private-browsing
 ;Get Firefox for privacy
-Obtenga Firefox para su privacidad
+Descargá Firefox para tu privacidad
 
 
 ;Limited data collection
-Recolección de datos limitada
+Limitada recolección de datos
 
 
 ;Opted-in to privacy, so you can browse freely.
-Opciones de privacidad para que pueda navegar libremente.
+Opciones de privacidad para que puedas navegar libremente.
 
 
 # Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
@@ -211,12 +211,12 @@ Administrador de contraseñas
 
 
 ;Forget the reset. Save passwords and logins quickly.
-Olvidar el reinicio. Guardar contraseñas e inicios de sesión rápidamente.
+Olvidá el reseteo. Guardá contraseñas e inicios de sesión rápidamente.
 
 
 # Link to /firefox/features/password-manager
 ;Easily manage your logins
-Administrar fácilmente sus inicios de sesión
+Administrá fácilmente tus inicios de sesión
 
 
 ;Independence
@@ -233,7 +233,7 @@ Proteger la salud de Internet.
 
 # https://www.mozilla.org/mission/
 ;Read Mozilla’s mission
-Leer sobre la misión de Mozilla
+Leé sobre la misión de Mozilla
 
 
 ;Open source
@@ -246,11 +246,11 @@ Somos siempre transparentes.
 
 # Link to /firefox/features/independent
 ;See what makes us different
-Ver lo que nos hace diferentes
+Mirá qué nos hace diferentes
 
 
 ;Protect your rights
-Proteger sus derecho
+Protegé tus derechos
 
 
 ;We help keep corporate powers in check.
@@ -259,6 +259,6 @@ Ayudamos a mantener las corporaciones bajo control.
 
 # Link to /firefox/features/independent
 ;Choose independence
-Elija independencia
+Elegí independencia
 
 

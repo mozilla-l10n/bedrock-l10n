@@ -14,7 +14,7 @@ Nde apopyvusu ndoguerekopái <a href="%(url)s">tekotevẽmby</a> eipurukuaa hag�
 
 
 ;Your system may not meet the requirements for Firefox, but you can try one of these versions:
-Your system may not meet the requirements for Firefox, but you can try one of these versions:
+Ikatu hína nde apopyvusu ndorekói Firefox ojeruréva, hákatu ikatu eipuru peteĩva ãva rehegua:
 
 
 ;<span>Firefox Beta</span> for Android
@@ -26,7 +26,7 @@ Your system may not meet the requirements for Firefox, but you can try one of th
 
 
 ;<span>Firefox Nightly</span> for Android
-<span>Firefox Nightly</span> for Android
+<span>Firefox Nightly</span> Android-pe g̃uarã
 
 
 ;<span>Firefox</span> for Android
@@ -38,7 +38,7 @@ Eguereko reiete Google Play rupive
 
 
 ;<span>Firefox</span> for iOS
-<span></span> iOS- pe g̃uarã
+<span>Firefox</span> iOS-pe g̃uarã
 
 
 ;Get it free from the App Store
@@ -50,7 +50,7 @@ Firefox Beta {ok}
 
 
 ;Firefox Nightly
-Firefox Nightly
+Firefox Nightly {ok}
 
 
 ;Firefox Aurora
@@ -75,11 +75,11 @@ Eguerekóta Google Play rupi
 
 
 ;Get Firefox for Android
-Jeguereko Firefox Android pe g̃uarã
+Eguereko Firefox Android-pe g̃uarã
 
 
 ;Download on the App Store
-Emboguejy App Store pe
+Emboguejy App Store rupive
 
 
 ;Get Firefox for iOS
@@ -91,7 +91,7 @@ Mba'epyahu
 
 
 ;Firefox Privacy
-Firefox Privacy
+Firefox mba'eñemi
 
 
 ;Systems &amp; Languages
@@ -99,6 +99,6 @@ Apopyvusu ha Ñe'ẽnguéra
 
 
 ;Firefox for Other Platforms & Languages
-Firefox for Other Platforms & Languages
+Firefox ambue plataforma ha ñe'ẽme g̃uarã
 
 

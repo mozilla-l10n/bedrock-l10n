@@ -1,3 +1,5 @@
+## active ##
+## firefox-features-send-tabs ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/features
 
 
@@ -126,7 +128,7 @@ Penggunaan memori yang seimbang
 
 
 ;Browse smoothly and leave plenty of memory for your computer programs.
-Browse smoothly and leave plenty of memory for your computer programs.
+Menjelajah dengan lancar dan sisakan banyak memori untuk program komputer Anda.
 
 
 # Link to /firefox/features/memory
@@ -139,7 +141,7 @@ Markah lebih baik
 
 
 ;Quickly save and organize your favorite sites.
-Quickly save and organize your favorite sites.
+Menyimpan dan mengatur situs favorit Anda dengan cepat.
 
 
 # Link to /firefox/features/bookmarks
@@ -165,12 +167,12 @@ Blokir pelacak iklan
 
 
 ;More powerful Private Browsing
-More powerful Private Browsing
+Penjelajahan Pribadi yang lebih hebat
 
 
 # Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
 ;More protection than Incognito mode or InPrivate.
-More protection than Incognito mode or InPrivate.
+Lebih banyak perlindungan daripada mode Incognito atau InPrivate.
 
 
 # Link to /firefox/features/private-browsing
@@ -196,7 +198,7 @@ Pengumpulan data terbatas
 
 
 ;Opted-in to privacy, so you can browse freely.
-Opted-in to privacy, so you can browse freely.
+Atur privasi, sehingga Anda dapat menjelajah dengan bebas.
 
 
 # Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
@@ -209,7 +211,7 @@ Pengelola Sandi
 
 
 ;Forget the reset. Save passwords and logins quickly.
-Forget the reset. Save passwords and logins quickly.
+Lupakan pengaturan ulang. Simpan sandi dan log masuk dengan cepat.
 
 
 # Link to /firefox/features/password-manager
@@ -252,7 +254,7 @@ Lindungi hak-hak Anda
 
 
 ;We help keep corporate powers in check.
-We help keep corporate powers in check.
+Kami bantu menjaga kekuatan korporasi terpantau.
 
 
 # Link to /firefox/features/independent
