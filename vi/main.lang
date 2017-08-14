@@ -301,12 +301,12 @@ Riêng tư
 
 # New footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
-Một phần nội dung này được giữ bản quyền ©1998–%(current_year)s bởi từng cộng tác viên của mozilla.org độc lập. Nội dung được phát hành với <a rel="license" href="%(url)s">giấy phép Creative Commons</a>.
+Các phần nội dung trong trang này được giữ bản quyền ©1998–%(current_year)s bởi những người đóng góp cho mozilla.org. Nội dung được phát hành với <a href="%(url)s">giấy phép Creative Commons</a>.
 
 
 # Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Một phần nội dung này được giữ bản quyền ©1998–%(current_year)s bởi từng cộng tác viên của mozilla.org độc lập. Nội dung được phát hành với <a href="%(url)s">giấy phép Creative Commons</a>.
+Các phần nội dung trong trang này được giữ bản quyền ©1998–%(current_year)s bởi những người đóng góp cho mozilla.org. Nội dung được phát hành với <a href="%(url)s">giấy phép Creative Commons</a>.
 
 
 # Footer string (will replace "Contribute to this page")
@@ -681,27 +681,27 @@ Trình duyệt trên iOS
 
 # Link in the footer
 ;Focus Browser
-Focus Browser
+Trình duyệt Focus
 
 
 # Link in the footer
 ;Desktop Browser
-Desktop Browser
+Trình duyệt máy tính
 
 
 # Link in the footer
 ;Beta, Nightly, Developer Edition
-Beta, Nightly, Developer Edition
+Beta, Nightly, Developer Edition {ok}
 
 
 # Link in the footer
 ;Download Firefox Web Browser
-Download Firefox Web Browser
+Tải trình duyệt Firefox
 
 
 # Link in the footer
 ;Desktop Browser for Mac, Windows, Linux
-Desktop Browser for Mac, Windows, Linux
+Trình duyệt dành cho Mac, Windows, Linux
 
 
 # Link in the footer
@@ -711,6 +711,6 @@ Trình duyệt điện thoại cho Android
 
 # Link in the footer
 ;Mobile Browser for iOS
-Mobile Browser for iOS
+Trình duyệt di động cho iOS
 
 
