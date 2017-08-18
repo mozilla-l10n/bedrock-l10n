@@ -32,7 +32,7 @@ Tùy biến
 
 
 ;Make our devtools yours thanks to open-source code and customization.
-Make our devtools yours thanks to open-source code and customization.
+Biến devtools của chúng tôi thành của bạn nhờ vào code mã nguồn mở và sự tùy biến.
 
 
 ;Optimize
@@ -40,12 +40,12 @@ Tối ưu hóa
 
 
 ;Ship responsive and compatible sites that work for everyone, everywhere.
-Ship responsive and compatible sites that work for everyone, everywhere.
+Xây dựng website responsive và tích hợp với mọi người, ở bất cứ nơi đâu.
 
 
 # Line break for visual formatting. Feel free to move it around to better fit your language.
 ;Master CSS Grid with the only grid inspector<br> and layout tools on the Web.
-Master CSS Grid with the only grid inspector<br> and layout tools on the Web.
+Làm chủ CSS Grid với trình kiểm tra phần tử duy nhất<br> và công cụ dàn trang ngay trên Web.
 
 
 # Link to /developer/css-grid
@@ -68,7 +68,7 @@ Nói to hơn
 
 
 ;Feedback makes us better. Tell us how we can improve the browser and Developer tools.
-Feedback makes us better. Tell us how we can improve the browser and Developer tools.
+Phản hồi giúp chúng tôi hoàn thiện hơn. Cho chúng tôi biết làm cách nào để cải thiện trình duyệt và Công cụ Phát triển.
 
 
 # Link to https://discourse.mozilla-community.org/c/devtools
@@ -81,7 +81,7 @@ Tham gia
 
 
 ;Help build the last independent browser. Write code, fix bugs, make add-ons, and more.
-Help build the last independent browser. Write code, fix bugs, make add-ons, and more.
+Giúp chúng tôi xây dựng một trình duyệt độc lập. Viết code, fix bug, tạo các tiện ích, và nhiều hơn nữa.
 
 
 # Link to https://devtools-html.github.io/
@@ -90,7 +90,7 @@ Bắt đầu ngay
 
 
 ;Design, code, test, refine. Perfect your sites with Firefox DevTools.
-Design, code, test, refine. Perfect your sites with Firefox DevTools.
+Thiết kế, code, kiểm tra, cải thiện. Khiến trang web của bạn hoàn hảo hơn với Firefox DevTools.
 
 
 ;Inspector
@@ -98,7 +98,7 @@ Inspector {ok}
 
 
 ;Inspect and refine code to build pixel-perfect layouts.
-Inspect and refine code to build pixel-perfect layouts.
+Kiểm tra và cải thiện code để xây dựng một layout hoàn hảo đến từng pixel.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Seiten_Inspektor
@@ -124,7 +124,7 @@ Debugger {ok}
 
 
 ;Powerful JavaScript debugger with support for your framework.
-Powerful JavaScript debugger with support for your framework.
+Trình gỡ lỗi JavaScript mạnh mẽ hỗ trợ framework của bạn.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Debugger
@@ -137,7 +137,7 @@ Network {ok}
 
 
 ;Monitor network requests that can slow or block your site.
-Monitor network requests that can slow or block your site.
+Giám sát các request có thể làm trang của bạn chậm hoặc bị chặn.
 
 
 # Link to https://developer.mozilla.org//docs/Tools/Network_Monitor
@@ -146,16 +146,16 @@ Tìm hiểu thêm về giám sát mạng
 
 
 ;Storage panel
-Storage panel
+Bảng điều khiển lưu trữ
 
 
 ;Add, modify and remove cache, cookies, databases and session data.
-Add, modify and remove cache, cookies, databases and session data.
+Thêm, chỉnh sửa và xóa cache, cookie, dữ liệu động và dữ liệu phiên làm việc.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Storage_Inspector
 ;Learn more about the Storage panel
-Learn more about the Storage panel
+Tìm hiểu thêm về Bảng điều khiển lưu trữ
 
 
 ;Responsive Design Mode
@@ -163,7 +163,7 @@ Chế độ thiết kế tương thích
 
 
 ;Test sites on emulated devices in your browser.
-Test sites on emulated devices in your browser.
+Kiểm tra trang web trên các thiết bị mô phỏng ngay trên trình duyệt của bạn.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Responsive_Design_Mode
@@ -176,7 +176,7 @@ Soạn thảo trực quan
 
 
 ;Fine-tune animations, alignment and padding.
-Fine-tune animations, alignment and padding.
+Tùy chỉnh animation, căn chỉnh và padding.
 
 
 # Link to https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more/
@@ -189,7 +189,7 @@ Hiệu suất
 
 
 ;Unblock bottlenecks, streamline processes, optimize assets.
-Unblock bottlenecks, streamline processes, optimize assets.
+Mở nút cổ chai, tinh giản quá trình xử lý, tối ưu hóa tài nguyên.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Performance
@@ -203,7 +203,7 @@ Bộ nhớ
 
 # Zippy means very fast.
 ;Find memory leaks and make your application zippy.
-Find memory leaks and make your application zippy.
+Tìm nơi rò rỉ bộ nhớ và làm cho ứng dụng của nhẹ hơn.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Memory
@@ -216,12 +216,12 @@ Web Audio {ok}
 
 
 ;The only developer tool for inspecting the Web Audio API.
-The only developer tool for inspecting the Web Audio API.
+Công cụ phát triển duy nhất hỗ trợ kiểm tra Web Audio API.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Web_Audio_Editor
 ;Learn more about the Web Audio Editor
-Learn more about the Web Audio Editor
+Tìm hiểu thêm về Web Audio Editor
 
 
 ;Scratchpad
@@ -242,7 +242,7 @@ Trình soạn thảo kiểu mẫu
 
 
 ;Edit and manage all your CSS stylesheets in your browser.
-Edit and manage all your CSS stylesheets in your browser.
+Chỉnh sửa và quản lý tất cả các CSS ngay trên trình duyệt của bạn.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Style_Editor
