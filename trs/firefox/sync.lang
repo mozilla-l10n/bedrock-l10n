@@ -2,6 +2,7 @@
 ## firefox_sync_mobile_buttons_update ##
 ## fx38_sync_updates ##
 ## ios_announce ##
+## sync-update-q3-2017 ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
 
@@ -16,39 +17,39 @@ Nikāj nej da’nga’ marcador, nej rakïj ñanj asi nej da’nga’ huì hua�
 
 
 ;Browse boldly. Connect your devices.
-Browse boldly. Connect your devices.
+Gachē nu dàj garan’ ruhuât. Gi’iaj conectando nej si agâ’t.
 
 
 ;Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
-Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
+Ga’nïnj Firefox riña nej si agâ’t da’ girì’t garasunt nej marcador, nej rakïj ñanj nī nej da’nga’ huìi danè’ nānj man’an huājt. Huê danj nānj girì’t ‘ngō sa dugumîn daran’ chre nej sa ‘iát ngà gayi’ìt gi’iaj sunt ngà Firefox.
 
 
 # String is obsolete. Do NOT remove.
 ;Ready, Set, Sync
-Nga hua chrun man, hiaj, Sync
+Huā chrūn, nadunā sa ruhuât, nagi’iaj nuguàn’an
 
 
 # String is obsolete. Do NOT remove.
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
-Nga huaj gatut riña <em>tu</em> Firefox nga garan' ruhuat, ni dane' garan ruhuat.
+Ngà tàj si yuguît nī ngà huā chrūn da’ gatūt riña <em>si</em> Firefox sò’ danè’ man’an huājt nī ahuin man’an diû garan’ ruhuât.
 
 
 ;Your web, how you like it, everywhere
-Your web, how you like it, everywhere
+Si web, dàj rû’ garan’ ruhuât, nï’ gachrà’
 
 
 ;Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
-Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
+Gayi’î sesión ngà si kuendât Firefox da’ ga’ue garasunt nej da’nga’ huì huāa, na’nïnt rakïj ñanj nī nej marcador. Gà’nïnj Firefox riña nej si agâ’t nī gachē nu dàj garan’ ruhuât nī danè’ garan’ ruhuât. Nagi’iaj riña man dàj garan’ ruhuât, danè’ nānj man’an huājt.
 
 
 # This expression was popular on ad billboard about real estate, suggesting if one bought the house here, he or she didn't have to fight the traffic further.
 # Here it emphasizes Sync's feature of seemless integration between desktop and mobile. Feel free to come up with a different text (we're waiting for an alternative headline from copywriters).
 ;If you lived here you’d be home by now
-If you lived here you’d be home by now
+Sisī hiūj nan huin yiñánt nī ngà nukuî’t dukuât
 
 
 ;Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
-Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
+Nadunïnj si nitāj nī na’nïn riña Firefox da’ gayi’ìt ngà conexión ga’ue dugumîn nej sa ‘iát nga aché nunt riña daran’ nej si agâ’t. Gayi’ì sesión ngà si kuendât Firefox da’ gatūt riña nej da’nga’ huì huā ‘ia, na’nïnt nej rakïj ñanj nī nej marcador. Nagi’iaj riña man dàj garan’ ruhuât, danè’ nānj man’an huājt.
 
 
 # String is obsolete. Do NOT remove.
@@ -207,12 +208,12 @@ Daran' rajsunt
 
 
 ;Personal
-Personal
+Riña man'ânt
 
 
 # A rabbit hole is a long and winding exploratory path with many connections. The Web is essentially designed to function as a rabbit hole because of the way hyperlinks work.
 ;That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
-That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
+Dàj si huā du’ua du’ūj yato hua nî’nïnj sa ginâj nga girânjt ‘ngō sa girânjt suguâ’a nigan’an anj. Ni’iāj riña dunâjt si ni’iājt guki si telefonôt. Narî’t ‘ngō chrēj dàj gi’iaj yuguît ‘ngō nihiaa suguà’a ngà ráruhuâ raj. Ga’ue ni’iāj ñûnt man riña ahuin ma’an aga’ nikājt akuan’ nïn chre. Ga’ue gī’iaj konektandôt daran’ chre nej si aga’ nī nitāj si gahùin, dadin’ huā sa dugumîn.
 
 
 # String is obsolete. Do NOT remove.
@@ -226,11 +227,11 @@ Gachin riña escritorio sani si gire' run' huaj. Gatu riña si celulat nej si gi
 
 
 ;Secure
-Secure
+Nitaj si yi'ì man
 
 
 ;Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
-Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
+Si kuendât Firefox nī ‘ngō rahue’e huin da’ gatūt riña daran’ sa màn ‘iát riña internet, dadin’ huā nïn nu nej man. Daran’ nej sa achrûnt nī ‘ngōrïnt ni’in dàj gi’iaj sunt ngà nej man, nitāj si huaj gatū a’ngô guìi ni’iāj nī nej man. Dugumîn ñûnj daran’ chre sa màn ‘iát nī nariki ñûnj yâbe da’ ganikājt.
 
 
 # String is obsolete. Do NOT remove.
@@ -244,11 +245,11 @@ Da'uit gini'in daran' sa ña'an hua. Garasun da'nga' huìi ni sa raj sun nichro'
 
 
 ;Accessible
-Accessible
+Ga'ue gatut
 
 
 ;Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
-Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
+Ga’ue na’nïnt daran’ chre nej rakïj ñanj nu riña gatûjt gini’iājt dàj rû’ sa na’nïn sà’t ngà go’ot ‘ngō ne gìïn guetàn’an. Nana’uî’ nej marcador huā ‘iát danj nānj nej da’nga’ huì arajsunt ngà ahuin man’an aga’ ruhuât gārasunt: si telefonôt, si tabletât asi a’ngô aga’ huā lij. Gi’iaj konektandô nī gi’iaj sa garan’ ruhuât.
 
 
 # String is obsolete. Do NOT remove.

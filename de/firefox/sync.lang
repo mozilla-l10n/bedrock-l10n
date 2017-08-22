@@ -8,20 +8,20 @@
 
 # HTML page title
 ;Use Bookmarks, Tabs and Passwords Across Devices | Firefox
-Nutzen Sie Lesezeichen, Tabs und Passwörter geräteübergreifend | Firefox
+Synchron auf allen Geräten: Lesezeichen, Tabs und Passwörter | Firefox
 
 
 # HTML page description
 ;Bring your Firefox bookmarks, tabs, or passwords wherever you go with Firefox Sync. Share between computers and mobile devices. Get Firefox now!
-Nehmen Sie mit Firefox Sync Ihre Lesezeichen, Tabs oder Passwörter mit. Tauschen Sie sie zwischen Computern und Mobilgeräten. Holen Sie sich jetzt Firefox!
+Lesezeichen, Tabs oder Passwörter – immer aktuell auf allen Geräten. Natürlich auch zwischen Rechner und Smartphone. Starte jetzt durch mit Firefox Sync!
 
 
 ;Browse boldly. Connect your devices.
-Mutig Surfen. Halten Sie Verbindung zu Ihren Geräten.
+Deine starke Verbindung zwischen allen Geräten: Firefox
 
 
 ;Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
-Installieren Sie Firefox auf Ihren persönlichen Geräten, damit Ihre Lesezeichen, offenen Tabs und Passwörter überall mitgehen. Nutzen Sie sicheren Zugang zu allem, was Sie brauchen, wenn Sie sich mit Ihrem Firefox-Konto anmelden.
+Freue Dich: Firefox Sync optimiert das Zusammenspiel zwischen all Deinen Geräten. Damit Du Lesezeichen, offene Tabs und Passwörter immer am Start hast und nahtlos weitersurfen kannst. Auch zwischen Rechner und Smartphone. Installiere Firefox auf all Deinen Geräten, melde dich dann dort auf deinem Firefox Konto an und schon kannst Du auf alles schnell und sicher zugreifen.
 
 
 # String is obsolete. Do NOT remove.
@@ -35,59 +35,59 @@ Sie sind registriert und können immer und von überall auf <em>Ihren</em> Firef
 
 
 ;Your web, how you like it, everywhere
-Das Web, wie Sie es lieben, überall
+Dein Web. So wie Du es liebst. Überall dabei
 
 
 ;Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
-Melden Sie sich bei Ihrem Firefox-Konto an, um auf Ihre geschützten Passwörter, offenen Tabs und Lesezeichen zuzugreifen. Installieren Sie Firefox auf Ihren persönlichen Geräten und halten Sie eine sichere Verbindung zu Ihrem Surf-Erlebnis, egal, wo Sie sind. So ist alles so eingerichtet, wie Sie es möchten – egal, wo Sie hingehen.
+Einfach auf allen Geräten kurz mit Deinem Firefox Konto anmelden und schon hast Du Dein persönliches Web immer am Start und synchron mit Firefox Sync. Setze auch Du Firefox und nimm Dein persönliches Web einfach überall mit. Von offenen Tabs, über alle Lesezeichen bis hin zu Deinen geschützten Passwörtern.
 
 
 # This expression was popular on ad billboard about real estate, suggesting if one bought the house here, he or she didn't have to fight the traffic further.
 # Here it emphasizes Sync's feature of seemless integration between desktop and mobile. Feel free to come up with a different text (we're waiting for an alternative headline from copywriters).
 ;If you lived here you’d be home by now
-Wenn Sie hier leben würden, wären Sie schon zu Hause
+So bequem wie ein Sofa. Und auch so entspannt
 
 
 ;Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
-Wenn Sie Firefox herunterladen oder öffnen, können Sie eine sichere Verbindung zu Ihrem Surf-Erlebnis auf allen Ihren Geräten aufbauen. Melden Sie sich bei Ihrem Firefox-Konto an, um auf Ihre geschützten Passwörter, offenen Tabs und Lesezeichen zuzugreifen. So ist alles so eingerichtet, wie Sie es möchten – egal, wo Sie hingehen.
+So einfach geht’s: Firefox auf Deinen Wunschgeräten installieren oder dort öffnen. Dort kurz über Dein Firefox Konto anmelden. Und schon kannst Du von überall auf Deine geschützten Passwörter, offene Tabs und Lesezeichen zugreifen. Für Dein Web to go. Auf allen Geräten.
 
 
 # String is obsolete. Do NOT remove.
 ;Take your Web with you
-Nehmen Sie das Web mit
+Das Web sei mit Dir
 
 
 # String is obsolete. Do NOT remove.
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-Synchronisieren Sie Firefox wo immer Sie ihn verwenden, um von einem Smartphone, Tablet oder Computer auf Ihre Lesezeichen, Passwörter, Tabs und mehr zuzugreifen.
+So muss das: Firefox synchronisiert sich mit Deinem Smartphone, Tablet oder Rechner. Damit Du dein persönliches Web immer bei Dir hast – mit allen Lesezeichen, Passwörtern und Tabs.
 
 
 ;Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
-Synchronisieren Sie Ihre Lesezeichen, Passwörter, Tabs und mehr mit Ihrem Firefox-Konto. Greifen Sie nun überall dort darauf zu, wo Sie angemeldet sind.
+Synchronisiere Passwörter, offenen Tabs und Lesezeichen – mit Deinem Firefox Konto. Für den schnellen und sicheren Zugriff. Auf allen Geräten.
 
 
 ;It looks like you’re running an older version of Firefox.
-Anscheinend verwenden Sie eine ältere Firefox-Version.
+Anscheinend verwendest Du eine ältere Version von Firefox.
 
 
 ;The new version of Sync only works with the latest version of Firefox
-Die neue Version von Sync funktioniert nur mit der neuesten Firefox-Version
+Die neue Version von Sync funktioniert nur mit der neuesten Version von Firefox
 
 
 ;Soon you’ll be able to use Sync on your iOS device
-Bald können Sie Sync auch auf Ihrem iOS-Gerät verwenden
+Schon bald kannst Du Sync auch auf Deinem iOS-Gerät verwenden
 
 
 ;Sync is just one of the great features you’ll only get with Firefox.
-Sync ist nur eine der tollen Funktionen, die nur Firefox hat.
+Nur bei uns. Für Dich: Sync eines der coolen Features von Firefox.
 
 
 ;Now sync Firefox with your iOS and Android devices.
-Synchronisieren Sie Firefox jetzt mit Ihren iOS- und Android-Geräten.
+Synchronisiere Firefox jetzt mit Deinen iOS- und Android-Geräten.
 
 
 ;Download Firefox for Android
-Laden Sie Firefox für Android herunter
+Laden Dir Firefox für Android herunter
 
 
 ;Get started with Sync
@@ -95,7 +95,7 @@ Erste Schritte mit Sync
 
 
 ;Update your Firefox
-Aktualisieren Sie Ihren Firefox
+Aktualisiere bitte Firefox
 
 
 ;Download Firefox
@@ -109,34 +109,34 @@ Sync lässt sich in vier einfachen Schritten einrichten:
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Öffnen Sie das <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_ein-praktisches-neues-menak">Menü</a> rechts oben in Firefox und wählen Sie „<strong>Bei Sync anmelden</strong>“.
+Öffne das <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_ein-praktisches-neues-menak">Menü</a> rechts oben in Firefox und wähle „<strong>Bei Sync anmelden</strong>“.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Klicken Sie in dem sich öffnenden Tab auf „<strong>Einführung</strong>“.
+Klicke in dem sich öffnenden Tab auf „<strong>Einführung</strong>“.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Geben Sie eine E-Mail-Adresse und ein Passwort ein, um „<strong>Ein Firefox-Konto (zu) erstellen</strong>“.
+Gib eine E-Mail-Adresse und ein Passwort ein, um „<strong>Ein Firefox Konto (zu) erstellen</strong>“.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Klicken Sie auf „<strong>Weiter</strong>“, um eine Bestätigungs-E-Mail an Ihre Adresse zu erhalten.
+Klick auf „<strong>Weiter</strong>“, um eine Bestätigungs-E-Mail zu erhalten.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-Wenn Sie nach Ihren E-Mails gesehen und auf den Bestätigungs-Link geklickt haben, sind Sie fertig! Firefox synchronisiert ab dann automatisch im Hintergrund.
+Nach Klick auf den Link in unserer Bestätigungs-E-Mail hast Du es geschafft. Firefox synchronisiert ab dann automatisch im Hintergrund.
 
 
 ;Get more detailed instructions.
-Erhalten Sie genauere Anweisungen.
+Erhalte genauere Anweisungen.
 
 
 ;Using an older version of Sync?
-Verwenden Sie eine ältere Sync-Version?
+Verwendest Du eine ältere Version von Snyc?
 
 
 # This string is displayed on Android devices
@@ -147,32 +147,32 @@ Fünf einfache Schritte zum Einrichten von Sync:
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Tippen Sie auf die <strong>Menü</strong>-Schaltfläche (entweder unter dem Bildschirm oder rechts oben im Browser).
+Tippen bitte auf die <strong>Menü</strong>-Schaltfläche (entweder unter dem Bildschirm oder rechts oben im Browser).
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Wählen Sie <strong>Einstellungen</strong> (möglicherweise müssen Sie erst auf <strong>Mehr</strong> tippen).
+Wähle <strong>Einstellungen</strong> (möglicherweise musst Du erst auf <strong>Mehr</strong> tippen).
 
 
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
-Tippen Sie auf <strong>Sync</strong> und dann auf <strong>Anmelden</strong>.
+Tippe auf <strong>Sync</strong> und dann auf <strong>Anmelden</strong>.
 
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-Die <strong>Seite „Ein Firefox-Konto erstellen“</strong> öffnet sich in einem neuen Reiter.
+Die <strong>Seite „Ein Firefox Konto erstellen“</strong> öffnet sich in einem neuen Reiter.
 
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-Füllen Sie das Formular aus und klicken Sie auf <strong>Weiter</strong>.
+Fülle bitte das Formular aus und klicke dann auf <strong>Weiter</strong>.
 
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-Wenn Sie nach Ihren E-Mails gesehen und auf den Bestätigungs-Link geklickt haben, sind Sie startklar! Vergessen Sie nicht, auch Ihre anderen Geräte zu verbinden, damit Sync den meisten Nutzen bringt.
+Sobald Du auf den Bestätigungs-Link in unserer E-Mail geklickt hast, bist Du startklar! Verbinde auch Deinen anderen Geräte über Firefox Sync. Für Dein optimales Surf-Erlebnis.
 
 
 ;Sync a little. Sync a lot.
@@ -180,15 +180,15 @@ Wenig synchronisieren. Viel synchronisieren.
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-Sie entscheiden, welche Bereiche von Firefox synchronisiert werden sollen, und wo das passieren soll. Nehmen Sie Ihre geöffneten Tabs mit auf Ihren Arbeitsweg. Greifen Sie von der Arbeit auf Ihre Lesezeichen zu. Egal was, egal wo, überall.
+Welche Bereiche von Firefox synchronisiert werden, entscheidest immer noch Du. Und wo. Offene Tabs auf dem Weg zur Arbeit mitnehmen? Lesezeichen auf Arbeit aufrufen? Mache Dein Ding. Wo Du bist. Wann Du willst.
 
 
 ;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
-Möchten Sie die offenen Tabs Ihres Computers auf einem anderen Gerät ansehen? Möchten Sie unterwegs auf Ihre Surf-Chronik zugreifen? Möchten Sie Ihre Passwörter mitnehmen? Das alles ist nun möglich.
+Kurz mal die offenen Tabs von deinem Rechner auf einem anderen Gerät anschauen? Unterwegs auf Deine Surf-Chronik zugreifen? Deine Passwörter immer bei Dir haben? Aber sicher!
 
 
 ;Here’s what you can sync:
-Folgendes können Sie synchronisieren:
+Folgendes kannst Du synchronisieren:
 
 
 ;Bookmarks
@@ -213,7 +213,7 @@ Persönlich
 
 # A rabbit hole is a long and winding exploratory path with many connections. The Web is essentially designed to function as a rabbit hole because of the way hyperlinks work.
 ;That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
-Haben Sie heute morgen eine Einkaufstour auf Ihrem Laptop begonnen? Heute Abend können Sie mit Ihrem Handy dort weitermachen, wo Sie aufgehört haben. Haben Sie beim Mittagessen ein Rezept fürs Abendessen gefunden? Sie können es direkt auf Ihrem Tablet in der Küche öffnen. Nutzen Sie die sichere Verbindung zu Ihren Geräten.
+Alles kein Problem: Heute morgen auf dem Rechner losshoppen, abends auf dem Handy weitermachen. Zwischendurch ein Rezept auf Arbeit fürs Abendessen klargemacht. Und jetzt auf dem Tablet in der Küche öffnen und loskochen. Weil Du sicher verbunden bist. Auf allen Geräten.
 
 
 # String is obsolete. Do NOT remove.
@@ -223,7 +223,7 @@ Zu Hause
 
 # String is obsolete. Do NOT remove.
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Gehen Sie ohne Unterbrechung vom Schreibtisch zum Sofa. Greifen Sie mit Ihrem Smartphone auf Ihre geöffneten Tabs zu, oder rufen Sie von Ihrem Tablet Ihre Lesezeichen auf.
+Geht auch ohne Unterbrechung:  Vom Schreibtisch zum Sofa. Vom Smartphone zum Tablet. Von Deinen offenen Tabs zu Deinen Lesezeichen.
 
 
 ;Secure
@@ -231,7 +231,7 @@ Sicher
 
 
 ;Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
-Ihr Firefox-Konto ist die Tür zu Ihren Web-Angelegenheiten – und wir schützen sie. Sie haben ständig die Kontrolle über Ihre Daten, niemand sonst kann sie lesen, da sie mit Ihrem Kontopasswort verschlüsselt sind. Wir schützen Ihre Daten und geben Ihnen den Schlüssel.
+Dein Firefox Konto ist das Tor zu deinem persönlichen Web. Deswegen schützen wir es für Dich. Deine Daten sind per Passwort verschlüsselt, immer unter Deiner Kontrolle und für andere unlesbar. Du siehst: Wir sichern Dich ab und geben Dir den Schlüssel.
 
 
 # String is obsolete. Do NOT remove.
@@ -241,7 +241,7 @@ Auf der Arbeit
 
 # String is obsolete. Do NOT remove.
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
-Bleiben Sie mit all Ihren wichtigen Daten in Verbindung. Synchronisieren Sie die Passwörter und Lesezeichen, die Sie vielleicht jederzeit brauchen. Genau wie Firefox ist das so sicher wie möglich.
+Bleibe immer in Verbindung. Mit allem, was Dir wichtig ist. Vom Passwort, über Lesezeichen bis zu Deinen offenen Tabs. Alles ist immer auf dem neuesten Stand. Und sicher dank Firefox.
 
 
 ;Accessible
@@ -249,7 +249,7 @@ Zugänglich
 
 
 ;Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
-Beim Kaffee am Samstagmorgen können Sie Ihre offenen Tabs und gespeicherten Artikel durchsehen. Ihre Lesezeichen und Passwörter sind überall da, wo Sie Firefox nutzen – auf Ihrem Smartphone, Tablet oder Laptop. Verbinden Sie alles, was Sie brauchen und lassen Sie weg, was überflüssig ist.
+Spielt alles keine Rolle: Egal ob Handy, Rechner, Tablet, Laptop – Deine Lesezeichen, Passwörter und offene Tabs sind ab sofort überall zu Hause. Dabei bestimmst Du, welche Geräte verbunden werden. Anschließend hast Du alles, da wo Du es willst und wie Du es willst.
 
 
 # String is obsolete. Do NOT remove.
@@ -259,34 +259,34 @@ Unterwegs
 
 # String is obsolete. Do NOT remove.
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-Bleiben Sie mit Ihren Lieblings-Websites in Verbindung, oder lesen Sie die Geschichte zu Ende, die Sie zu Hause angefangen haben – egal wo Sie hingehen. Mit Sync war das noch nie so einfach.
+Immer die Lieblingswebsite offen. Oder noch schnell noch den Artikel von gestern Abend heute morgen in der Bahn zu ende lesen … egal, wo Du bist – Sync macht Dein Leben einfacher.
 
 
 ;Add Firefox to your smartphone or tablet
-Installieren Sie Firefox auf Ihrem Smartphone oder Tablet
+Installiere Firefox auf Deinem Smartphone oder Tablet
 
 
 ;To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
-Um das beste Sync-Erlebnis zu erhalten, installieren Sie Firefox für iOS oder Android und verbinden Sie alle Ihre Geräte – überall dort, wo Sie Firefox nutzen.
+Für Dein optimales Sync-Erlebnis: Einfach Firefox für iOS oder Android installieren und alle Geräte über Dein Firefox Konto verbinden.
 
 
 ;Add Firefox
-Installieren Sie Firefox
+Installiere Firefox
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-Haben Sie ein <b>Android-Smartphone</b> oder <b>-Tablet</b>?
+Hast Du ein <b>Android-Smartphone</b> oder ein <b>-Tablet</b>?
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
-LADEN SIE FIREFOX FÜR ANDROID HERUNTER
+LADE DIR FIREFOX FÜR ANDROID HERUNTER
 
 
 ;Get Firefox everywhere
-Holen Sie sich Firefox für überall
+Hole Dir Firefox für überall
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-Nehmen Sie das Web mit, egal wo Sie Firefox verwenden, um das volle Sync-Erlebnis zu erhalten. Verbinden Sie Ihr Smartphone, Ihr Tablet, Ihren Computer und Ihren Laptop.
+Dein Ding. Dein Web. Kein Problem mit Firefox Sync kannst Du alle Deine Geräte miteinander verbinden. Egal, ob Smartphone, Tablet oder Laptop – mit Sync ist Dein Web immer am Start.
 
 

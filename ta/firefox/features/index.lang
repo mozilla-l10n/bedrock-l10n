@@ -1,68 +1,70 @@
+## active ##
+## firefox-features-send-tabs ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/features
 
 
 ;Protect your privacy and browse faster with Firefox features
-Protect your privacy and browse faster with Firefox features
+பயர்பாக்சின் வசதிகளுடன் உங்கள் தனியுரிமையைப் பாதுகாத்து விரைவாக உலாவவும்
 
 
 ;You’re in control with Firefox’s easy-to-use features that protect your privacy and browsing speeds.
-You’re in control with Firefox’s easy-to-use features that protect your privacy and browsing speeds.
+உங்கள் தனியுரிமை மற்றும் உலாவல் வேகத்தைப் பாதுகாக்கும் பயர்பாக்சின் எளிதில் பயன்படுத்தும் வசதிகளுடன் நீங்கள் கட்டுப்பாட்டில் உள்ளீர்கள்.
 
 
 ;Firefox features
-Firefox features
+பயர்பாக்சு வசதிகள்
 
 
 ;Modern
-Modern
+நவீனமானது
 
 
 ;Your favorite add-ons and extensions
-Your favorite add-ons and extensions
+உங்கள் விருப்பமான மேற்சேர்க்கைகள் மற்றும் நீட்சிகள்
 
 
 # These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
 ;Adblock, Ublock, LastPass and thousands more.
-Adblock, Ublock, LastPass and thousands more.
+Adblock, Ublock, LastPass மற்றும் பல.
 
 
 # Links to https://addons.mozilla.org/firefox
 ;Get powerful add-ons
-Get powerful add-ons
+சக்திவாய்ந்த மேற்சேர்க்கைகளைப் பெறவும்
 
 
 ;Customize your browser
-Customize your browser
+உங்கள் உலாவியைத் தனிப்பயனாக்கவும்
 
 
 ;Personalize Firefox with everything from themes to privacy tools.
-Personalize Firefox with everything from themes to privacy tools.
+கருப்பொருளிலிருந்து தனியுரிமை வரை எல்லாவற்றுடனும் பயர்பாக்சை தனிப்பயனாக்கவும்.
 
 
 # Link to https://addons.mozilla.org/firefox/themes
 ;Make Firefox yours
-Make Firefox yours
+பயர்பாக்சை உங்களுடையதாக்கவும்
 
 
 ;Browse faster
-Browse faster
+வேகமாக உலாவவும்
 
 
 ;Start faster, tab hop quicker, get more done.
-Start faster, tab hop quicker, get more done.
+வேகமாகத் தொடங்கவும், கீற்றுகளை விரைவாகத் தாவவும், அதிகம் செய்து முடிக்கவும்.
 
 
 # Link to /firefox/features/fast
 ;Do more with Firefox
-Do more with Firefox
+பயர்பாக்சுடன் அதிகம் செய்யவும்
 
 
 ;Sync between devices
-Sync between devices
+கருவிகளிடையே ஒத்திசைக்கவும்
 
 
 ;Get your tabs, logins and history on the go.
-Get your tabs, logins and history on the go.
+உங்கள் கீற்றுகள், புகுபதிகைகள் மற்றும் வரலாற்றை எங்கும் பெறவும்.
 
 
 # Link to https://www-demo5.allizom.org/firefox/sync/
@@ -71,15 +73,15 @@ Get your tabs, logins and history on the go.
 
 
 ;Tabs that travel
-Tabs that travel
+பயணம்செய்யும் கீற்றுகள்
 
 
 ;View open tabs on any device.
-View open tabs on any device.
+திறந்த கீற்றுகளை எந்தக் கருவியிலும் பார்க்கவும்.
 
 
 ;Start sharing
-Start sharing
+பகிர்தலைத் தொடங்கவும்
 
 
 ;Firefox for Android
@@ -92,7 +94,7 @@ Firefox for Android {ok}
 
 # Link to /firefox/android
 ;Take control of your browser
-Take control of your browser
+உங்கள் உலாவியின் கட்டுப்பாட்டை எடுத்துக்கொள்ளவும்
 
 
 ;Firefox for iOS
@@ -105,33 +107,33 @@ iOS இயங்கு தளத்திற்கான பயர்பாக�
 
 # Link to /firefox/ios
 ;Go beyond the default
-Go beyond the default
+இயல்புநிலையைத் தாண்டிச் செல்லவும்
 
 
 ;Firefox Test Pilot
-Firefox Test Pilot
+பயர்பாக்சு டெஸ்ட் பைலட்
 
 
 ;Experimental features that can simplify your life.
-Experimental features that can simplify your life.
+உங்கள் வாழ்வை எளிமையாக்கும் சோதனை வசதிகள்.
 
 
 # Link to https://testpilot.firefox.com
 ;Help launch new features
-Help launch new features
+புதிய வசதிகளைத் தொடங்க உதவுகிறது
 
 
 ;Balanced memory usage
-Balanced memory usage
+சமன்செய்யப்பட்ட நினைவகப் பயன்பாடு
 
 
 ;Browse smoothly and leave plenty of memory for your computer programs.
-Browse smoothly and leave plenty of memory for your computer programs.
+மென்மையாக உலாவி உங்கள் கணினி நிரல்களுக்கு அதிக நினைவகத்தை விடவும்.
 
 
 # Link to /firefox/features/memory
 ;Speed up your computer
-Speed up your computer
+உங்கள் கணினியை விரைவாக்கவும்
 
 
 ;Better bookmarks
@@ -139,12 +141,12 @@ Speed up your computer
 
 
 ;Quickly save and organize your favorite sites.
-Quickly save and organize your favorite sites.
+உங்கள் விருப்பமான தளங்களை விரைவாகச் சேமித்து ஒருங்கிணைக்கவும்.
 
 
 # Link to /firefox/features/bookmarks
 ;Customize your bookmarks
-Customize your bookmarks
+உங்கள் புத்தகக் குறிகளைத் தனிப்பயனாக்கவும்
 
 
 ;Privacy
@@ -152,30 +154,30 @@ Customize your bookmarks
 
 
 ;Ad tracker blocking
-Ad tracker blocking
+விளம்பர பின்தொடரி தடுப்பு
 
 
 ;Firefox Private Browsing blocks ads with trackers.
-Firefox Private Browsing blocks ads with trackers.
+பயர்பாக்சு தனிப்பட்ட உலாவல் பின்தொடரிகளுடைய விளம்பரங்களைத் தடுக்கிறது.
 
 
 # Link to /firefox/features/private-browsing
 ;Block ad trackers
-Block ad trackers
+விளம்பர பின்தொடரிகளை தடுக்கவும்
 
 
 ;More powerful Private Browsing
-More powerful Private Browsing
+அதிக வலிமைவாய்ந்த தனிப்பட்ட உலாவல்
 
 
 # Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
 ;More protection than Incognito mode or InPrivate.
-More protection than Incognito mode or InPrivate.
+Incognito mode அல்லது InPrivate முறையை விட அதிக பாதுகாப்பு.
 
 
 # Link to /firefox/features/private-browsing
 ;Get better privacy
-Get better privacy
+சிறந்த தனியுரிமையைப் பெறவும்
 
 
 ;More private
@@ -183,76 +185,76 @@ Get better privacy
 
 
 ;We don’t sell access to your online data. Period.
-We don’t sell access to your online data. Period.
+நாங்கள் உங்கள் இணைய தரவிற்கான அணுகலை விற்க மாட்டோம். புள்ளி.
 
 
 # Link to /firefox/features/private-browsing
 ;Get Firefox for privacy
-Get Firefox for privacy
+தனியுரிமைக்கு பயர்பாக்சைப் பெறவும்
 
 
 ;Limited data collection
-Limited data collection
+வரம்புடைய தரவு சேகரிப்பு
 
 
 ;Opted-in to privacy, so you can browse freely.
-Opted-in to privacy, so you can browse freely.
+தெரிந்தெடுக்கப்பட்ட தனியுரிமை, எனவே நீங்கள் சுதந்திரமாக உலாவலாம்.
 
 
 # Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
 ;Read our privacy policy
-Read our privacy policy
+எங்கள் தனியுரிமை கொள்கையைப் படிக்கவும்
 
 
 ;Password Manager
-Password Manager
+கடவுச்சொல் நிர்வாகி
 
 
 ;Forget the reset. Save passwords and logins quickly.
-Forget the reset. Save passwords and logins quickly.
+மீட்டமைத்தலை மறக்கவும். கடவுச்சொற்கள் மற்றும் புகுபதிகைகளை விரைவாகச் சேமிக்கவும்.
 
 
 # Link to /firefox/features/password-manager
 ;Easily manage your logins
-Easily manage your logins
+உங்கள் புகுபதிகைகளை எளிதில் நிர்வகிக்கவும்
 
 
 ;Independence
-Independence
+சுதந்திரம்
 
 
 ;By non-profit, Mozilla
-By non-profit, Mozilla
+இலாபநோக்கற்ற மொசில்லாவால்
 
 
 ;Protecting the health of the internet.
-Protecting the health of the internet.
+இணையத்தின் நலத்தைப் பாதுகாக்கிறது.
 
 
 # https://www.mozilla.org/mission/
 ;Read Mozilla’s mission
-Read Mozilla’s mission
+மொசில்லாவின் இலக்கினைப் படிக்கவும்
 
 
 ;Open source
-Open source
+திறந்த மூலம்
 
 
 ;We’re always transparent.
-We’re always transparent.
+நாங்கள் எப்போதும் வெளிப்படையானவர்கள்.
 
 
 # Link to /firefox/features/independent
 ;See what makes us different
-See what makes us different
+எங்களை வேறுபட்டவர்களாக ஆக்குவதைப் பார்க்கவும்
 
 
 ;Protect your rights
-Protect your rights
+உங்கள் உரிமைகளைப் பாதுகாக்கவும்
 
 
 ;We help keep corporate powers in check.
-We help keep corporate powers in check.
+நாங்கள் பெருநிறுவன சக்திகளை கட்டுப்பாட்டில் வைக்கிறோம்.
 
 
 # Link to /firefox/features/independent
