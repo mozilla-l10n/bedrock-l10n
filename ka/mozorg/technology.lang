@@ -1,6 +1,7 @@
 ## active ##
 ## emerging_tech_links ##
 ## iot_links ##
+## mozorg_tech_webvr ##
 ## NOTE: Demo server is available at https://www-dev.allizom.org/technology
 
 
@@ -13,11 +14,11 @@
 
 
 ;Bringing Virtual Reality to the web platform
-Bringing Virtual Reality to the web platform
+ვცდილობთ, ვირტუალური რეალობის ვებსივრცეში დანერგვას
 
 
 ;Using WebVR, developers, designers and artists can share VR experiences on the web.
-Using WebVR, developers, designers and artists can share VR experiences on the web.
+WebVR-ის დახმარებით, შემმუშავებლებს, დამპროექტებლებსა და ხელოვანებს, საშუალება აქვთ შექმნან ნამუშევრები ვირტუალურ რეალობაში, ვებგვერდებისთვისაც.
 
 
 # String is obsolete. Do NOT remove.
