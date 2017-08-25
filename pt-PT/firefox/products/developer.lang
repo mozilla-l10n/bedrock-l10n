@@ -1,4 +1,5 @@
 ## active ##
+## devedition_frameworks ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/developer
 ## NOTE: Keep tool names in English
 
@@ -65,11 +66,11 @@ Saber mais sobre o depurador
 
 
 ;Framework DevTool Extensions
-Framework DevTool Extensions
+Extensões da framework DevTool
 
 
 ;Inspect and debug framework apps with these extensions for Firefox.
-Inspect and debug framework apps with these extensions for Firefox.
+Inspecione e depure aplicações de framework com estas extensões para o Firefox.
 
 
 # Link to https://addons.mozilla.org/firefox/collections/mozilla/framework-devtools/
