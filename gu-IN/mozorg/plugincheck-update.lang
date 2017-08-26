@@ -3,23 +3,23 @@
 
 # HTML page title
 ;More browser features, fewer plugin updates | Firefox
-More browser features, fewer plugin updates | Firefox
+વધુ બ્રાઉઝર સુવિધાઓ, ઓછા પ્લગઇન અપડેટ્સ | Firefox
 
 
 # HTML page decription
 # NPAPI stands for Netscape Plugin Application Programming Interface.
 ;Browse with fewer interruptions. Features from NPAPI plugins are now automatically supported in Firefox. Download the latest Firefox now!
-Browse with fewer interruptions. Features from NPAPI plugins are now automatically supported in Firefox. Download the latest Firefox now!
+ઓછા વિક્ષેપો સાથે બ્રાઉઝ કરો. NPAPI પ્લગિન્સના લક્ષણો હવે આપમેળે Firefox માં આધારભૂત છે. હવે તાજેતરની Firefox ડાઉનલોડ કરો!
 
 
 # Message targetting users already on the latest version of Firefox
 # <br> for visual formatting
 ;Good news - you’re using<br> the latest version of Firefox!
-Good news - you’re using<br> the latest version of Firefox!
+સારા સમાચાર - તમે ઉપયોગ કરી રહ્યાં છો<br> Firefox નું નવીનતમ સંસ્કરણ!
 
 
 ;Even better news - Firefox now <a href="%(npapi)s">supports features</a> that used to require additional plugins.
-Even better news - Firefox now <a href="%(npapi)s">supports features</a> that used to require additional plugins.
+વધુ સારા સમાચાર - હવે Firefox <a href="%(npapi)s">સુવિધાઓનું સમર્થન</a> કરે છે કે જે વધારાના પ્લગિન્સની જરૂર પડે છે.
 
 
 # The link points to https://support.mozilla.org/
@@ -30,7 +30,7 @@ Even better news - Firefox now <a href="%(npapi)s">supports features</a> that us
 # Message targeting users on older versions of Firefox
 # <br> for visual formatting
 ;Better features,<br> fewer plugin updates
-Better features,<br> fewer plugin updates
+વધુ સારી સુવિધાઓ,<br> ઓછા પ્લગઇન અપડેટ્સ
 
 
 ;Firefox has been <a href="%(npapi)s">expanding to support features</a> that used to require extra plugins. Now, they’re kept up-to-date automatically and managed through <a href="%(blocklist)s">blocklisting</a> for added security. So you can stay current with just one Firefox update.
