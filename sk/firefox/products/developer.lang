@@ -1,4 +1,5 @@
 ## active ##
+## devedition_frameworks ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/developer
 ## NOTE: Keep tool names in English
 
@@ -65,16 +66,16 @@ Ladenie frameworkov postavené<br> na Reacte a Ember<br> s nástrojmi pre ladeni
 
 
 ;Framework DevTool Extensions
-Framework DevTool Extensions
+Rozšírenia pre podporu frameworkov v nástrojoch pre vývojárov
 
 
 ;Inspect and debug framework apps with these extensions for Firefox.
-Inspect and debug framework apps with these extensions for Firefox.
+S týmito rozšíreniami pre Firefox môžete skúmať a ladiť aplikácie, ktoré používajú frameworky.
 
 
 # Link to https://addons.mozilla.org/firefox/collections/mozilla/framework-devtools/
 ;Explore more extensions
-Explore more extensions
+Pozrite si ďalšie rozšírenia
 
 
 ;Speak up
