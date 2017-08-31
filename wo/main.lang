@@ -1,10 +1,10 @@
 ;Navigation
-Njoow mi
+Njoow
 
 
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
-Pre-release downloads
+Yebbil sumbu jiitu-biy-génn
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -14,28 +14,28 @@ Ci mbiru
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+Jëfekaay
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Bul Topp
+Buñ ma topp
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Tablo-booru Yitte
+Alluweb Yitte
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Siiwalug Defarkat
+Developer Edition {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Joowu Sutura
+Njoow gu Suturloo
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -45,17 +45,17 @@ Danga soxla ndimbal?
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-Xibaar yi
+Xibaar
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Jëfandikool joowukaay bu ci bokkul
+Tànnal joowukaay bi moom-boppam
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox wutul xaalis, du mbiru jàmbur, moo moom boppam. Tànn Firefox du tànn ab joowukaay rekk. Mooy wone ni yaa moom sa bopp.
+Firefox wutul xaalis, du mbiru jàmbur, moo moom-boppam. Tànn Firefox du tànn ab joowukaay rekk. Mooy wone ni yaa moom-sa-bopp.
 
 
 ;Donate
@@ -63,23 +63,23 @@ Joxe
 
 
 ;Support
-Dimbali
+Jàpple
 
 
 ;Products
-Meññeef yi
+Jëfekaay yi
 
 
 ;Add-ons
-Modil yi
+Lawal yi
 
 
 ;About Us
-Li jëm ci ñun
+Li jëm ci nun
 
 
 ;Labs
-Labs {ok}
+Liggéeyukaay yi
 
 
 ;skip to Navigation
@@ -91,7 +91,7 @@ soppi làkk
 
 
 ;Back to home page
-Dellu ci xëtu dalal bi
+Dellu ci xëtu dalal wi
 
 
 ;About Mozilla
@@ -103,11 +103,11 @@ Bokk
 
 
 ;Careers
-Yoonu dund
+Liggéey ak nun
 
 
 ;Press Center
-Barabu Peres
+Tas-xibaar
 
 
 ;Contact Us
@@ -116,16 +116,16 @@ Jokkoo ak Nun
 
 # Used in new footer to switch the language of the page
 ;Language
-Language
+Làkk
 
 
 ;Other languages:
-Yeneen làkk:
+Yeneeni làkk:
 
 
 # Will replace "Other languages" for the footer's language switcher
 ;Page language:
-Page language:
+Làkku xët wi:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -134,28 +134,28 @@ Page language:
 
 
 ;Legal
-Jaado
+Mbiri yoon
 
 
 # Used as link in the footer
 ;Cookies
-Kuki yi
+Cookies {ok}
 
 
 ;Legal Notices
-Yëgley Jaado
+Yëgley Yoon
 
 
 ;Privacy Policy
-Sàrtu Kumpa
+Sàrtu Sutura
 
 
 ;Release Notes
-Karmati yeene
+Karmati sumb
 
 
 ;Other Systems and Languages
-Yeneen sitem ak lamiñ
+Yeneen noste aki làkk
 
 
 ;Close
@@ -163,7 +163,7 @@ Tëj
 
 
 ;(in English)
-(ci Angale)
+(ci Wu-angalteer)
 
 
 ;Return to top
@@ -171,32 +171,32 @@ Dellu ci kaw
 
 
 ;Features
-Mandarga
+Màndarga
 
 
 ;Customize
-Solal
+Jëmmal
 
 
 ;Download
-Yeb
+Yebbi
 
 
 ;Previous
-Li jiitu
+Weesu
 
 
 ;Next
-Li ci topp
+Toftal
 
 
 # MegaBytes abbreviation
 ;MB
-Mo
+MB {ok}
 
 
 ;MegaBytes
-MegaOkte
+MegaBytes {ok}
 
 
 ;FAQ
@@ -204,7 +204,7 @@ FAQ {ok}
 
 
 ;Videos
-Wideyoo
+Wideo
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
