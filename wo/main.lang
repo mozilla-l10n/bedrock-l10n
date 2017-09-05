@@ -4,7 +4,7 @@ Njoow
 
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
-Yebbil sumbu jiitu-biy-génn
+Yebbil sumb bi jiitu biy génn
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -171,7 +171,7 @@ Dellu ci kaw
 
 
 ;Features
-Màndarga
+Solo
 
 
 ;Customize
@@ -208,24 +208,24 @@ Wideo
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
-Ginnaaw <a href="%s">ñu bind ko</a>, këmbu dal bi dafa and ak lisãns <br /><a href="%s"> Creative Commons Attribution Share-Alike License v3.0</a>walla beneen sumb.
+Lu moy <a href="%s">bindees ko</a>, jàppandig ëmbéefu dal baa ngi sukkandiku ci sañal gu <br /><a href="%s"> Creative Commons Attribution Share-Alike License v3.0</a> walla sumb yi toftal.
 
 
 ;Report Trademark Abuse
-Jëriñoo marku jambur
+Xamale jalgatig ag màndarga
 
 
 ;Free Upgrade
-Yeesal bu andul ak jaay
+Yeesal gu amul-fay
 
 
 # social networks such as Facebook and Twitter
 ;Follow us on:
-Topp leen ñu ci:
+Topp leen nu ci:
 
 
 ;Customize with Add-ons
-Solal ko ak modil yi
+Jëmmal ak lawal yi
 
 
 ;Learn More
@@ -234,7 +234,7 @@ Yeneeni Leeral
 
 # Same as previous above but with no capitalization on More
 ;Learn more
-Yeneen Leeral
+Yeneeni Leeral
 
 
 # Link used to play again an animation or a video
@@ -255,68 +255,68 @@ Séddóo wideo bi
 
 
 ;WebM format
-Tëggiinu WebM
+Melokaanub WebM
 
 
 ;Ogg Theora format
-Daytal Ogg Theora
+Melokaanub Ogg Theora
 
 
 ;MPEG-4 format
-Daytal MPEG-4
+Melokaanub MPEG-4
 
 
 ;Mobile
-Telefon
+Wootekaay
 
 
 ;View Full Site
-Gis dal bi mu mët sëkk
+Gis dal bépp
 
 
 ;Desktop
-Ordinatëëru biro
+Nosukaay
 
 
 ;Firefox for mobile
-Firefox bu telefon
+Firefox bu wootekaay
 
 
 ;Email
-Imeel
+Email {ok}
 
 
 ;Upgrade now
-Yeesal leegi
+Yeesal léegi
 
 
 ;Update now
-Yeesal leegi
+Yeesal léegi
 
 
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
 ;Privacy
-Dundu biir
+Sutura
 
 
 # New footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
-Yenn wàll ci ëmbiit yi, ay dollikati ©1998–%(current_year)s yu mozilla.org lañu. Ëmbiit bi jàppandi na <a rel="license" href="%(url)s">Sañ-sañu Bokk Defar</a>.
+Lenn ci gii ëmbéef lu ©1998–%(current_year)s lu ay cërukat yu mozilla.org lañu. Ëmbéef gaa ngi jàppandi ci <a rel="license" href="%(url)s">Sañal gu Creative Common</a>.
 
 
 # Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Yenn wàll ci ëmbiit yi, ay dollikati ©1998–%(current_year)s yu mozilla.org lañu. Ëmbiit bi jàppandi na <a href="%(url)s">Sañ-sañu Bokk Defar</a>.
+Lenn ci gii ëmbéef lu ©1998–%(current_year)s lu ay cërukat yu mozilla.org lañu. Ëmbéef gaa ngi jàppandi ci <a href="%(url)s">Sañal gu Creative Common</a>.
 
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Contribute to this site
+Cërul ci suqali bii dal
 
 
 # Footer string
 ;Contribute to this page
-Bokk ci xët wii
+Cërul ci wii xët
 
 
 # Top menu item
@@ -326,50 +326,50 @@ Waar
 
 # Footer item on some pages to link to a tour of features
 ;Tour
-Tuur
+Nemmeeku
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Lëkkalante
+Sync {ok}
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Add-ons
-Mottaliy Biro
+Lawal yu nosukaay
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Mottaliy Android
+Lawal yu Android
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Themes
-Tem yi
+Col
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Support
-Ndimbalu Biro
+Jàppale gu nosukaay
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Ndimbalu Biro
+Jàppale gu Android
 
 
 ;Releases
-Bàyyi
+Sumb
 
 
 ;Blog
-Bolog
+Blog {ok}
 
 
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
-Wut yeesali Mozilla
+Jot yeesali Mozilla
 
 
 # share button for social networks
@@ -404,37 +404,37 @@ Penc
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+Moomeel
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Mën a jiite
+Njiite
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Governance
-Nguur
+Yor
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;History
-Jaar jaar
+Jaar-jaar
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Our Products
-Sunuy Costéef
+Sunuy jëfekaay
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Software and other innovations designed to advance our mission.
-Losisel ak yeneen yu bees ngir ngën a bay sunu waay.
+Jëfekaay ak yeneen yees-yees ngir gën a bay sunu waar.
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Become a volunteer contributor in a number of different areas.
-Doonal kenn ci ñiy jàpp ci waar ci benn ci barab yu bari.
+Doonal kenn ci ñiy jàpp ci waar wi ci benn ci barab yu bari.
 
 
 # This is a non-visible string for blind people to indicate where the menu is
@@ -444,7 +444,7 @@ Njël
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-Yaa nu tax di sonn, sa sutura ak Web bu ubbiku
+Yaa nu tax di sonn, sa sutura ak Web bu ubbeeku
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -454,24 +454,24 @@ Taalal JavaScript ngir wone xët wii bu baax.
 
 # Used as link to /firefox/desktop in footers on some pages
 ;Firefox Features
-Melokaani Firefox
+Soloy Firefox
 
 
 # Used as link to SUMO in footers on some pages
 ;Firefox Help
-Ndimmal ci Firefox
+Ndimbal ci Firefox
 
 
 ;January
-Sanwiye
+Samwie
 
 
 ;February
-Febaryee
+Fewirie
 
 
 ;March
-Mars
+Maars
 
 
 ;April
@@ -479,11 +479,11 @@ Awril
 
 
 ;May
-Me
+Mee
 
 
 ;June
-Suwee
+Suwe
 
 
 ;July
@@ -491,23 +491,23 @@ Sulet
 
 
 ;August
-Waxset
+Ut
 
 
 ;September
-Satumbar
+Sattumbar
 
 
 ;October
-Oktobar
+Oktoobar
 
 
 ;November
-Nowambar
+Nowembar
 
 
 ;December
-Desambar
+Desembar
 
 
 ;<abbr>Jan</abbr>
@@ -519,7 +519,7 @@ Desambar
 
 
 ;<abbr>Mar</abbr>
-<abbr>Mar</abbr> {ok}
+<abbr>Maar</abbr>
 
 
 ;<abbr>Apr</abbr>
@@ -527,7 +527,7 @@ Desambar
 
 
 ;<abbr>May</abbr>
-<abbr>Me</abbr>
+<abbr>Mee</abbr>
 
 
 ;<abbr>Jun</abbr>
@@ -559,51 +559,51 @@ Desambar
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+Waaw-góor. Sa sumb mooy bi mujj!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
 ;Format
-Daytal
+Melokaan
 
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;Text
-Text
+Mbind
 
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
 ;Whoops! Be sure to enter a valid email address.
-Whoops! Na la wóor dugal nga makkaan email bu baax.
+Oops! Na la wóor ne dugal nga màkkaanub mbëjfeppal bu baax.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Nangu naa Mozilla jëfandikoo samay xibaar sukkandiku ci lees bind ci <a href="%s">xamale gi ñeel sutura gi</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+Wéy di yeeslu<br> ci léppi Firefox.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
-Get Firefox news
+Jot xibaari Firefox
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-SA IMEEL FII
+SA MAKKAANU MBËJFEPPAL FII
 
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+Bindu léegi
 
 
 # Old newsletter subscription Button
@@ -612,19 +612,19 @@ Bind ma
 
 
 ;Select country
-Tànn diiwaan
+Tànnal sa réew
 
 
 ;Available Languages
-Lammiñ yi féex
+Làkk yi jàppandi
 
 
 ;We will only send you Mozilla-related information.
-Xibaar yi ñu lay yonnee ci Mozilla rekk la jëm.
+Xibaar yu ñeel Mozilla rekk lees lay yónnee.
 
 
 ;Thanks!
-Thanks!
+Jërajëf!
 
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
@@ -632,100 +632,100 @@ If you haven’t previously confirmed a subscription to a Mozilla-related newsle
 
 
 ;Read all about it in our <span>newsletter</span>
-Jàngal lepp ci sunu<span>xibaarukaay</span>
+Jàngal lépp ci sunu<span>bataaxali xibaar</span>
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-Takkool ak yeesal yi weer wu ne, te di am ay xibaari Mozilla, dem ba ci pexe yi lay may nga gëna mën jariñoo sa joowkat Firefox. Mooy yoon wi gën ci jokkoo!
+Bindul ci yeesali weer-wu-ne ngir wéy di joti xibaar ci Mozilla, bokk nañ ci sunuy pexe ak xelal yi mujj ngir gën a man a jariñoo sa joowukaay bu Firefox. Mooy yoon wi gën ngir jot nu!
 
 
 ;<span>Firefox</span> + You
-<span>Firefox</span> + You
+<span>Firefox</span>&nbsp;+&nbsp;Yaw
 
 
 ;Get Firefox tips, tricks, news and more
-Get Firefox tips, tricks, news and more
+Jotee ci Firefox ay dégtal, xelal ak yeneen
 
 
 # This string will be used as a navigation label in home page, pointing to /technology
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Web Innovations
-Web Innovations
+Xarala yu yees
 
 
 # This string will be used as a navigation label in home page, pointing to /internet-health
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Internet Health
-Internet Health
+Wér-gi-yaramu Internet
 
 
 # Used as title in What's new page for 50
 ;Thanks for choosing Firefox!
-Thanks for choosing Firefox!
+Jërajëf ci sa tànnug Firefox!
 
 
 # Used in combination with other strings to create HTML page titles, e.g. in What's new pages
 ;Mozilla Firefox Web Browser
-Mozilla Firefox Web Browser
+Joowukaayu Web bu Mozilla Firefox
 
 
 # Link in the footer
 ;Android Browser
-Android Browser
+Joowukaay bu Android
 
 
 # Link in the footer
 ;iOS Browser
-iOS Browser
+Joowukaay bu iOS
 
 
 # Link in the footer
 ;Focus Browser
-Focus Browser
+Joowukaay bu Focus
 
 
 # Link in the footer
 ;Desktop Browser
-Desktop Browser
+Joowukaay bu nosukaay
 
 
 # Link in the footer
 ;Beta, Nightly, Developer Edition
-Beta, Nightly, Developer Edition
+Beta, Nightly, Developer Edition {ok}
 
 
 # Link in the footer
 ;Download Firefox Web Browser
-Download Firefox Web Browser
+Yebbil Joowukaayu Web bu Firefox
 
 
 # Link in the footer
 ;Desktop Browser for Mac, Windows, Linux
-Desktop Browser for Mac, Windows, Linux
+Joowukaay bu nosukaay bu Mac, Windows ak Linux
 
 
 # Link in the footer
 ;Mobile Browser for Android
-Mobile Browser for Android
+Joowukaay bu Android
 
 
 # Link in the footer
 ;Mobile Browser for iOS
-Mobile Browser for iOS
+Joowukaay bu iOS
 
 
 # Title in a banner displayed to users of old versions of Firefox
 ;Your Firefox is out-of-date.
-Your Firefox is out-of-date.
+Sa Firefox beesul.
 
 
 # Description in a banner displayed to users of old versions of Firefox
 ;Get the most recent version to keep browsing securely.
-Get the most recent version to keep browsing securely.
+Yebbil sumb bi gën a bees ngir wéy di joow ak kaaraange.
 
 
 # Button label in a banner displayed to users of old versions of Firefox
 ;Update Firefox
-Update Firefox
+Yeesal Firefox
 
 
