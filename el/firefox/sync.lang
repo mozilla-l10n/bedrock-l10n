@@ -2,6 +2,7 @@
 ## firefox_sync_mobile_buttons_update ##
 ## fx38_sync_updates ##
 ## ios_announce ##
+## sync-update-q3-2017 ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
 
@@ -20,7 +21,7 @@
 
 
 ;Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
-Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
+Προσθέστε το Firefox στις προσωπικές σας συσκευές για να παίρνετε τους σελιδοδείκτες, τις ανοικτές καρτέλες και τους κωδικούς πρόσβασής σας οπουδήποτε. Αποκτήστε ασφαλή πρόσβαση σε ό,τι χρειάζεστε όταν συνδέεστε στο λογαριασμό Firefox σας.
 
 
 # String is obsolete. Do NOT remove.
@@ -38,17 +39,17 @@ Add Firefox on your personal devices to get your bookmarks, open tabs and passwo
 
 
 ;Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
-Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
+Συνδεθείτε στο λογαριασμό Firefox σας για πρόσβαση στους προστατευμένους κωδικούς πρόσβασης, τις ανοικτές καρτέλες και τους σελιδοδείκτες σας. Προσθέστε το Firefox στις προσωπικές σας συσκευές και συνδέστε με ασφάλεια την εμπειρία περιήγησής σας οπουδήποτε. Διατηρήστε τα πάντα ρυθμισμένα, όπως σάς αρέσει, όπου κι αν πάτε.
 
 
 # This expression was popular on ad billboard about real estate, suggesting if one bought the house here, he or she didn't have to fight the traffic further.
 # Here it emphasizes Sync's feature of seemless integration between desktop and mobile. Feel free to come up with a different text (we're waiting for an alternative headline from copywriters).
 ;If you lived here you’d be home by now
-If you lived here you’d be home by now
+Όπου κι αν βρεθείτε, θα νιώθετε σαν στο σπίτι σας
 
 
 ;Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
-Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
+Κάντε λήψη ή ανοίξτε το Firefox για να ξεκινήσετε την ασφαλή σύνδεση της εμπειρίας περιήγησής σας σε όλες τις προσωπικές σας συσκευές. Συνδεθείτε στο λογαριασμό Firefox σας για πρόσβαση στους προστατευμένους κωδικούς πρόσβασης, τις ανοικτές καρτέλες και τους σελιδοδείκτες σας. Διατηρήστε τα πάντα ρυθμισμένα, όπως σάς αρέσει, όπου κι αν πάτε.
 
 
 # String is obsolete. Do NOT remove.
@@ -212,7 +213,7 @@ Download or open Firefox to start securely connecting your browsing experience o
 
 # A rabbit hole is a long and winding exploratory path with many connections. The Web is essentially designed to function as a rabbit hole because of the way hyperlinks work.
 ;That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
-That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
+Και οι χαώδεις αγορές που ξεκινήσατε στο laptop σας σήμερα το πρωί; Συνεχίστε από εκεί που σταματήσατε στο τηλέφωνό σας απόψε. Κι αυτή η συνταγή για δείπνο που ανακαλύψατε την ώρα του μεσημεριανού; Ανοίξτε τη στο tablet σας στην κουζίνα, άμεσα. Συνδέστε τις προσωπικές σας συσκευές, με ασφάλεια.
 
 
 # String is obsolete. Do NOT remove.
@@ -230,7 +231,7 @@ That shopping rabbit hole you started on your laptop this morning? Pick up where
 
 
 ;Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
-Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
+Ο λογαριασμός Firefox σας αποτελεί την πρόσβασή σας σε όλα τα διαδικτυακά σας δεδομένα—σάς βοηθούμε να τα διατηρείτε ασφαλή. Τα δεδομένα σας είναι πάντα υπό τον έλεγχό σας, μη προσβάσιμα από τρίτους και κρυπτογραφημένα με τον κωδικό πρόσβασης του λογαριασμού σας. Τα προστατεύουμε και σάς παραδίδουμε το κλειδί.
 
 
 # String is obsolete. Do NOT remove.
@@ -248,7 +249,7 @@ Your Firefox Account is the doorway to all your web stuff—we help you keep it 
 
 
 ;Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
-Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
+Συνεχίστε με τις ανοικτές σας καρτέλες και τις αποθηκευμένες αναγνώσεις σας από τον καφέ του κυριακάτικου πρωινού. Βρείτε τους σελιδοδείκτες και τους κωδικούς πρόσβασής σας οπουδήποτε χρησιμοποιείτε το Firefox—το smartphone, το tablet ή το laptop σας. Συνδέστε ό,τι χρειάζεστε και αφήστε απ' έξω καθετί περιττό.
 
 
 # String is obsolete. Do NOT remove.

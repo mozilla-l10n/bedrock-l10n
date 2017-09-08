@@ -1,5 +1,7 @@
 ## active ##
 ## emerging_tech_links ##
+## iot_links ##
+## mozorg_tech_webvr ##
 ## NOTE: Demo server is available at https://www-dev.allizom.org/technology
 
 
@@ -12,11 +14,11 @@
 
 
 ;Bringing Virtual Reality to the web platform
-Bringing Virtual Reality to the web platform
+Εισάγοντας την εικονική πραγματικότητα στη διαδικτυακή πλατφόρμα
 
 
 ;Using WebVR, developers, designers and artists can share VR experiences on the web.
-Using WebVR, developers, designers and artists can share VR experiences on the web.
+Με το WebVR, οι προγραμματιστές, οι σχεδιαστές και οι καλλιτέχνες μπορούν να μοιραστούν τις εμπειρίες τους στο διαδίκτυο.
 
 
 # String is obsolete. Do NOT remove.
@@ -72,7 +74,7 @@ Using WebVR, developers, designers and artists can share VR experiences on the w
 
 
 ;We’re working to create an open, Web of Things framework of software and services that can bridge the communication gap between connected devices.
-We’re working to create an open, Web of Things framework of software and services that can bridge the communication gap between connected devices.
+Εργαζόμαστε για να δημιουργήσουμε ένα ανοικτό πλαίσιο "Web of Things" για λογισμικό και υπηρεσίες, που μπορούν να καταστήσουν δυνατή την επικοινωνία ανάμεσα σε συνδεδεμένες συσκευές.
 
 
 # String is obsolete. Do NOT remove.
