@@ -1,4 +1,5 @@
 ## active ##
+## sendto_updates_bug1395342 ##
 ## NOTE: Demo page at https://www-dev.allizom.org/styleguide/docs/send-to-device/
 ## NOTE: Add ?geo=us to the URL (https://www-dev.allizom.org/styleguide/docs/send-to-device/) to display the SMS strings.
 
@@ -12,7 +13,7 @@ A sua ligação de descarga foi enviada.
 
 
 ;Sorry, we can’t send SMS messages to this phone number.
-Sorry, we can’t send SMS messages to this phone number.
+Desculpe, não podemos enviar mensagens SMS para este número de telefone.
 
 
 # Obsolete string, do not remove
@@ -41,7 +42,7 @@ Escolha o SO
 
 
 ;Enter your email or phone number
-Enter your email or phone number
+Digite o seu email ou número de telefone
 
 
 # Obsolete string, do not remove
@@ -58,7 +59,7 @@ Enviar
 
 
 ;SMS service available in select countries only. SMS &amp; data rates may apply.
-SMS service available in select countries only. SMS &amp; data rates may apply.
+Serviço de SMS disponível apenas em países selecionados. Podem ser aplicadas taxas de SMS e de dados.
 
 
 # Obsolete string, do not remove

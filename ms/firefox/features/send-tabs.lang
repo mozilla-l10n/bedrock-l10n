@@ -1,4 +1,5 @@
 ## active ##
+## send-tabs-update-08-2017 ##
 ## NOTE: Demo server available at url: https://www-dev.allizom.org/firefox/features/send-tabs/
 
 
@@ -22,21 +23,21 @@ Kongsi tab terbuka dengan lancar dalam peranti mudah alih, desktop atau tablet m
 
 
 ;View your open tabs across mobile and tablet devices by signing in to your Firefox Account.
-View your open tabs across mobile and tablet devices by signing in to your Firefox Account.
+Papar tab yang terbuka dalam semua telefon bimbit dan peranti tablet anda dengan mendaftar masuk ke Akaun Firefox.
 
 
 ;View your open tabs across desktop and tablet too. Just sign in or create a Firefox account.
-View your open tabs across desktop and tablet too. Just sign in or create a Firefox account.
+Papar tab yang terbuka dalam desktop dan tablet anda juga. Hanya daftar masuk atau cipta akaun Firefox.
 
 
 # Button label displayed to users of Firefox 31 and later, not signed in to Firefox Accounts
 ;Create account
-Create account
+Cipta akaun
 
 
 # Text displayed about download buttons for mobile apps (for Firefox 31 and later, signed in to Firefox Accounts)
 ;Get the app
-Get the app
+Dapatkan aplikasi ini
 
 
 # Alternate text for the iTunes download button

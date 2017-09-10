@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
 
 
@@ -12,34 +13,34 @@
 
 
 ;Browse uninterrupted with Firefox Sync
-Browse uninterrupted with Firefox Sync
+با همگام‌سازی فایرفاکس بدون وقفه مرور کنید
 
 
 # Displayed only to Firefox user with 31 and later, signed in into Firefox Accounts
 ;Sync across devices
-Sync across devices
+همگام‌سازی در بین تمام دستگاه‌ها
 
 
 ;With Firefox on all your devices, you can access bookmarks, tabs and passwords with one easy sign-in.
-With Firefox on all your devices, you can access bookmarks, tabs and passwords with one easy sign-in.
+با فایرفاکس بر روی تمامی دستگاه‌ها شما، شما به نشانک‌ها،‌ زبانه‌ها و کلمات عبور خود همگی در یک جا و به راحتی تنها با ورود خود دسترسی دارید.
 
 
 ;Sign in to your Firefox Account on mobile or tablet to get your open tabs, bookmarks and passwords anywhere.
-Sign in to your Firefox Account on mobile or tablet to get your open tabs, bookmarks and passwords anywhere.
+وارد حساب فایرفاکس خود بر روی موبایل یا تبلت خود شوید و زبانه‌های باز شده را دریافت کنید،همچنین نشانک‌ها و کلمات عبور خود را در هرکجا.
 
 
 ;Sign in or create an account through your Firefox app for seamless browsing of passwords, bookmarks and open tabs.
-Sign in or create an account through your Firefox app for seamless browsing of passwords, bookmarks and open tabs.
+وارد حساب فایرفاکس خود شوید یا اگر حساب ندارید برای خود یک حساب جهت دسترسی بدون مشکل به مرورکردن همراه با کلمات عبور خود، نشانک‌ها و زبانه های باز ایجاد کنید.
 
 
 # Button label displayed to users of Firefox 31 and later, not signed in to Firefox Accounts
 ;Create account
-Create account
+ساخت حساب
 
 
 # Text displayed about download buttons for mobile apps (for Firefox 31 and later, signed in to Firefox Accounts)
 ;Get the app
-Get the app
+دریافت نرم افزار
 
 
 # Alternate text for the iTunes download button
