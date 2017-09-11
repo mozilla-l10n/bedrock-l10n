@@ -1,4 +1,5 @@
 ## active ##
+## send-tabs-update-08-2017 ##
 ## NOTE: Demo server available at url: https://www-dev.allizom.org/firefox/features/send-tabs/
 
 
@@ -22,11 +23,11 @@ Delite svoje odprte zavihke med mobilnimi in namiznimi napravami s Firefoxom.
 
 
 ;View your open tabs across mobile and tablet devices by signing in to your Firefox Account.
-View your open tabs across mobile and tablet devices by signing in to your Firefox Account.
+Prijavite se v svoj Firefox Račun ter si oglejte svoje odprte zavihke na mobilnih napravah in tablicah.
 
 
 ;View your open tabs across desktop and tablet too. Just sign in or create a Firefox account.
-View your open tabs across desktop and tablet too. Just sign in or create a Firefox account.
+Dostopajte do svojih odprtih zavihkov tudi na računalniku in tablici. Samo prijavite se ali ustvarite Firefox Račun.
 
 
 # Button label displayed to users of Firefox 31 and later, not signed in to Firefox Accounts
@@ -36,7 +37,7 @@ Ustvari račun
 
 # Text displayed about download buttons for mobile apps (for Firefox 31 and later, signed in to Firefox Accounts)
 ;Get the app
-Get the app
+Prenesite aplikacijo
 
 
 # Alternate text for the iTunes download button
