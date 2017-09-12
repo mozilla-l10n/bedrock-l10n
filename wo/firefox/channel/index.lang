@@ -12,29 +12,29 @@ Be among the first to explore future releases of Firefox for desktop, Android an
 
 # Used in the navigation menu
 ;Desktop
-Ordinatëëru biro
+Nosukaay
 
 
 # Used in the navigation menu
 ;Android
-Android
+Android {ok}
 
 
 # Used in the navigation menu
 ;iOS
-iOS
+iOS {ok}
 
 
 ;See something that isn’t working? Let us know.
-See something that isn’t working? Let us know.
+Dafa am luy sooxe? Wax nu ko.
 
 
 ;File a bug now
-File a bug now
+Wax nu liy sooxe léegi
 
 
 ;Tips for filing a bug
-Tips for filing a bug
+Xelal ci nees di yónnee ag sooxe
 
 
 ;Take our latest experimental features for a spin and shape the future of Firefox.
@@ -126,7 +126,7 @@ Build, test, scale and more with the only browser built just for developers.
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
-Firefox Developer Edition automatically sends feedback to Mozilla.
+Firefox Developer Edition mooy yónneel boppam xibaar Mozilla.
 
 
 ;Check out new Android features in their earliest stages. Enjoy at your own risk.
@@ -143,11 +143,11 @@ Test brand new features daily (or… nightly). Enjoy at your own risk.
 
 
 ;Firefox Nightly automatically sends feedback to Mozilla.
-Firefox Nightly automatically sends feedback to Mozilla.
+Firefox Nightly mooy yónneel boppam xibaar Mozilla.
 
 
 ;Nightly Blog
-Nightly Blog
+Blog bu Nightly
 
 
 # HTML page title, on the iOS page only.
@@ -174,6 +174,6 @@ Test beta versions of Firefox for iOS via Apple’s TestFlight program.
 
 
 ;Sign up now
-Sign up now
+Bindu léegi
 
 

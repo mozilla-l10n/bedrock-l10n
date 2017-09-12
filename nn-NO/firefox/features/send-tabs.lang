@@ -1,4 +1,5 @@
 ## active ##
+## send-tabs-update-08-2017 ##
 ## NOTE: Demo server available at url: https://www-dev.allizom.org/firefox/features/send-tabs/
 
 
@@ -22,11 +23,11 @@ Del dei opne fanene dine saumlaust mellom mobil, datamaskin eller nettbrett med 
 
 
 ;View your open tabs across mobile and tablet devices by signing in to your Firefox Account.
-View your open tabs across mobile and tablet devices by signing in to your Firefox Account.
+Sjå dei opne fanene dine på tvers av mobil- og nettbrett-einingar ved å logge på Firefox-kontoen din.
 
 
 ;View your open tabs across desktop and tablet too. Just sign in or create a Firefox account.
-View your open tabs across desktop and tablet too. Just sign in or create a Firefox account.
+Sjå dei opne fanene dine på datamaskina og nettbrettet. Berre logg inn eller lag deg ein Firefox-konto.
 
 
 # Button label displayed to users of Firefox 31 and later, not signed in to Firefox Accounts
