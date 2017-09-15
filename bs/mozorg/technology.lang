@@ -1,4 +1,7 @@
 ## active ##
+## emerging_tech_links ##
+## iot_links ##
+## mozorg_tech_webvr ##
 ## NOTE: Demo server is available at https://www-dev.allizom.org/technology
 
 
@@ -11,11 +14,11 @@ Istražite neke od naših najnovijih inovacija - izgrađene sa otvorenim Web teh
 
 
 ;Bringing Virtual Reality to the web platform
-Bringing Virtual Reality to the web platform
+Donosimo virtualnu stvarnost na web platformu
 
 
 ;Using WebVR, developers, designers and artists can share VR experiences on the web.
-Using WebVR, developers, designers and artists can share VR experiences on the web.
+Korištenjem WebVR, programeri, dizajneri i umjetnici mogu podijeliti VR iskustva na webu.
 
 
 # String is obsolete. Do NOT remove.
@@ -29,7 +32,7 @@ Korištenje A-Frame, programeri, dizajneri i umjetnici su u mogućnosti da lako 
 
 
 ;Learn about WebVR
-Learn about WebVR
+Saznajte više o WebVR
 
 
 ;Explore A-Frame
@@ -59,7 +62,7 @@ Isprobajte neke demo igrice
 
 
 ;Meet WebAssembly
-Meet WebAssembly
+Upoznajte WebAssembly
 
 
 ;Start building
@@ -67,11 +70,11 @@ Započnite izgradnju
 
 
 ;Building the Web of Things
-Building the Web of Things
+Stvaramo mrežu stvari
 
 
 ;We’re working to create an open, Web of Things framework of software and services that can bridge the communication gap between connected devices.
-We’re working to create an open, Web of Things framework of software and services that can bridge the communication gap between connected devices.
+Radimo na kreiranju otvorenog okvira mreže stvari, koji se sastoji od softvera i usluga koje mogu premostiti komunikacijski jaz između povezanih uređaja.
 
 
 # String is obsolete. Do NOT remove.
@@ -89,7 +92,7 @@ Saznajte više
 
 
 ;Visit Mozilla IoT
-Visit Mozilla IoT
+Posjetite Mozilla IoT
 
 
 # String is obsolete. Do NOT remove.
@@ -118,11 +121,11 @@ Izmišljanje sigurnijeg programskog jezika
 
 
 ;Sponsored by Mozilla, Rust allows browsers, systems and more to run much faster and more safely.
-Sponsored by Mozilla, Rust allows browsers, systems and more to run much faster and more safely.
+Podržan od strane Mozille, Rust omogućava pretraživačima, sistemima i ostalom mnogo brže i sigurnije pokretanje.
 
 
 ;Learn about Rust
-Learn about Rust
+Saznajte više o Rust
 
 
 # Obsolete string, do not remove

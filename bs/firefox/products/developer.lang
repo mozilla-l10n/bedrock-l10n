@@ -1,3 +1,5 @@
+## active ##
+## devedition_frameworks ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/developer
 ## NOTE: Keep tool names in English
 
@@ -238,16 +240,16 @@ Saznajte više o web audio uređivaču
 
 
 ;Scratchpad
-Scratchpad
+Bilježnica
 
 
 ;Edit, write, run and execute JavaScript in real time.
-Edit, write, run and execute JavaScript in real time.
+Izmijenite, pišite, pokrenite i implementirajte JavaScript u realnom vremenu.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Scratchpad
 ;Learn more about the Scratchpad
-Learn more about the Scratchpad
+Saznajte više o bilježnici
 
 
 ;Style Editor
@@ -255,11 +257,11 @@ Uređivač stilova
 
 
 ;Edit and manage all your CSS stylesheets in your browser.
-Edit and manage all your CSS stylesheets in your browser.
+Uređujte i upravljajte svim svojim CSS stilskim šablonima u vašem pretraživaču.
 
 
 # Link to https://developer.mozilla.org/docs/Tools/Style_Editor
 ;Learn more about the Style Editor
-Learn more about the Style Editor
+Saznajte više o Uređivaču stilova
 
 
