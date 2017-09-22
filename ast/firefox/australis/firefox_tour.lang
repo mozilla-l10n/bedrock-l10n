@@ -91,21 +91,21 @@ Enxamás hebo un momentu meyor pa Firefox
 
 # This is the label for a button that closes the tour modal dialog
 ;Close tour
-Zarrar visita virtual
+Zarrar percorríu
 
 
 # <br> tag below used for formatting only.
 ;Thousands of ways to<br> make Firefox do more
-Miles de formes para<br> que Firefox faiga muncho más
+Milentar formes pa<br> que Firefox faiga más
 
 
 ;Now easier to find, use and manage
-Agora ye más fácil guetar, usar y alministrar
+Agora ye más fácil alcontrar, usar y xestionar
 
 
 # This is the title for a door-hanger menu that shows in the browser chrome
 ;See what’s new
-Descubri les novedaes
+Mira lo qu'hai nuevo
 
 
 ;Frequently asked questions
@@ -113,28 +113,28 @@ Entrugues frecuentes
 
 
 ;Enjoy seamless browsing between devices with Sync
-Con Sync esfruta de la navegación perfeuta ente diferentes preseos
+Esfruta del restolar perfeutu ente preseos con Sync
 
 
 ;Move or remove any button to match
-Muevi o desanicia cualquier botón al to xeitu
+Movi o desanicia cualesquier botón al to xeitu
 
 
 ;How you use Firefox is unique
-La forma na qu'uses la Web ye única
+El mou nel qu'uses la web ye únicu
 
 
 ;Add and view bookmarks from a new location
-Amiesta y visualiza marcadores dende una llocalización nueva
+Amiesta y visualiza marcadores dende un allugamientu nuevu
 
 
 # This is the text for a call to action that appears in the web page
 ;Take the tour to see what’s new
-Fai una visita virtual y descubri les novedaes
+Fai un percorríu pa ver lo qu'hai nuevo
 
 
 ;It looks like you’re already using Sync
-Paez que yá uses Sync
+Paez que yá tas usando Sync
 
 
 ;Create an account from the menu panel
@@ -184,7 +184,7 @@ Vamos
 
 
 ;<span>Next:</span> Add-ons
-<span>Siguiente:</span> Complementos
+<span>Siguiente:</span> Add-ons
 
 
 ;<span>Previous:</span> Menu
@@ -204,12 +204,12 @@ Vamos
 
 
 ;Learn about the new design
-Descubri'l nuevu diseñu
+Deprendi tocante al diseñu nuevu
 
 
 # <br> tag below used for formatting only.
 ;It starts with the new,<br> intuitive menu
-Entama col nuevu<br> menú intuitivu
+Entama col<br> menú intuitivu nuevu
 
 
 ;The features you use most, all in one place
@@ -217,11 +217,11 @@ Les carauterístiques que más uses, toes nun mesmu llugar
 
 
 ;How you use the Web is unique
-La forma na qu'uses la Web ye única
+El mou nel qu'uses la web ye únicu
 
 
 ;Get started with Sync
-Activa Sync
+Entama con Sync
 
 
 ;Putting your privacy first
@@ -229,24 +229,24 @@ La to privacidá ye lo primero
 
 
 ;Where did my add-on bar go?
-¿Aú ta agora la mio barra de complementos?
+¿Ánde foi la mio barra d'add-ons?
 
 
 ;Your favorite features, all in one place
-Les carauterístiques favorites, toes nun mesmu llugar
+Les tos carauterístiques favorites, toes nun mesmu llugar
 
 
 ;When you use Firefox, you help shape the future of the Web.
-Cuando uses Firefox, ayudes a dar forma al futuru de la Web.
+Cuando uses Firefox, ayudes a dar forma al futuru de la web.
 
 
 ;Start browsing
-Entama a navegar
+Entama a restolar
 
 
 # <br> tag below used for formatting only.
 ;Your favorite sites<br> are closer than ever
-Los tos sitios favoritos<br> tán más cerca qu'enxamás
+Los tos sitios favoritos<br> tán más cierca qu'enxamás
 
 
 ;Helps you do just about anything online
@@ -258,7 +258,7 @@ Ayúdate a facelo too en llinia
 
 
 ;What kind of Web do you want?
-¿Qué mena de Web quies?
+¿Qué triba de web quies?
 
 
 # <br> tag below used for formatting only.
@@ -267,7 +267,7 @@ Entama col menú<br> rediseñáu ya intuitivu
 
 
 ;Easy to find, use and manage
-Fácil de guetar, usar y alministrar
+Fácil d'alcontrar, usar y xestionar
 
 
 ;Keep your Firefox in Sync
@@ -275,6 +275,6 @@ Caltén Firefox <b>Sync</b>ronizáu
 
 
 ;Access your bookmarks, passwords and more from any device.
-Accedi a los tos marcadores, contraseñes y muncho más dende cualquier preséu.
+Accedi a los tos marcadores, contraseñes y más dende cualesquier preséu.
 
 

@@ -168,7 +168,7 @@ Hvor effektive nettet er som en allmenn resurs er avhengig av kompatibilitet (pr
 
 
 ;Add new voices to open source technology
-Add new voices to open source technology
+Bidra til åpen kildekode-teknologi
 
 
 ;Set your Do Not Track preference
@@ -192,19 +192,19 @@ Fri og åpen kildekode programvare fremmer utviklingen av internettet som en off
 
 
 ;Explore how open practices keep the Web accessible
-Explore how open practices keep the Web accessible
+Undersøk hvordan åpne arbeidsmetoder holder nettet tilgjengelig
 
 
 ;Learn how to remix content to create something new
-Learn how to remix content to create something new
+Les om hvordan du kan remikse innhold for å lage noe nytt
 
 
 ;Learn how to maximize the interactive potential of the Web
-Learn how to maximize the interactive potential of the Web
+Les om hvordan du maksimerer nettet sitt interaktivitetspotensialet
 
 
 ;Contributing to Open Source Software
-Contributing to Open Source Software
+Bidra til program med åpen kildekode
 
 
 ;08
@@ -212,11 +212,11 @@ Contributing to Open Source Software
 
 
 ;Transparent community-based processes promote participation, accountability and trust.
-Transparent community-based processes promote participation, accountability and trust.
+Transparente, fellesskapsbaserte prosesser fremmer deltagelse, ansvarlighet og tillit.
 
 
 ;Participate in our governance forum
-Participate in our governance forum
+Delta i styringsforumet vårt
 
 
 ;Join us as a volunteer
@@ -229,11 +229,11 @@ Bli studentambassadør
 
 # Obsolete string replaced by separate strings (do not remove)
 ;Join us as a <a href="%(volunteer)s">volunteer</a> or <a href="%(ambassador)s">student ambassador</a>
-Join us as a <a href="%(volunteer)s">volunteer</a> or <a href="%(ambassador)s">student ambassador</a>
+Bli med oss som enten <a href="%(volunteer)s">frivillig</a> eller <a href="%(ambassador)s">studentambassadør</a>
 
 
 ;Learn how to collaborate online
-Learn how to collaborate online
+Les om hvordan du samarbeider på nettet
 
 
 ;I am a Mozillian
@@ -245,15 +245,15 @@ Jeg er en Mozillianer
 
 
 ;Commercial involvement in the development of the Internet brings many benefits; a balance between commercial profit and public benefit is critical.
-Commercial involvement in the development of the Internet brings many benefits; a balance between commercial profit and public benefit is critical.
+Kommersiell involvering i utviklingen av internett har mange fordeler; en balanse mellom kommersiell profitt og felles interesser er avgjørende.
 
 
 ;Visualize who you interact with on the Web with Lightbeam
-Visualize who you interact with on the Web with Lightbeam
+Få et bilde av hvem du samhandler med på nettet, med Lightbeam
 
 
 ;See how Firefox phones seek to balance the mobile ecosystem
-See how Firefox phones seek to balance the mobile ecosystem
+Les om hvordan Firefox-telefoner prøver å balansere det mobile økosystemet
 
 
 ;Learn about creating Web resources with others
@@ -379,11 +379,11 @@ There are many different ways of advancing the principles of the Mozilla Manifes
 
 
 ;Mozilla Foundation Pledge
-Mozilla Foundation Pledge
+Stiftelsen Mozilla sin lovnad
 
 
 ;The Mozilla Foundation pledges to support the Mozilla Manifesto in its activities. Specifically, we will:
-The Mozilla Foundation pledges to support the Mozilla Manifesto in its activities. Specifically, we will:
+Stiftelsen Mozilla lover å støtte Mozilla-manifestet i alle aktivitetene sine. Helt konkret vil vi:
 
 
 ;build and enable open-source technologies and communities that support the Manifesto’s principles;
