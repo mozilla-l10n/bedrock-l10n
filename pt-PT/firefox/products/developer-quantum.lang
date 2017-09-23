@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo page available at https://bedrock-demo-craigcook.us-west.moz.works/firefox/developer/
 
 
@@ -39,7 +40,7 @@ Firefox DevTools {ok}
 
 
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
-The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
+As novas DevTools do Firefox são poderosas, flexíveis e, o melhor de tudo, personalizáveis. Isto inclui o melhor depurador JavaScript da categoria, que pode focar-se em vários navegadores e foi desenvolvido em React e Ember.
 
 
 ;Innovative Features
