@@ -62,7 +62,7 @@ Adblock Ublock LastPass และตัวอื่น ๆ อีกเป็น
 
 
 ;Get your tabs, logins and history on the go.
-Get your tabs, logins and history on the go.
+รับแท็บ ล็อกอิน และประวัติของคุณติดตัวไปด้วย
 
 
 # Link to https://www-demo5.allizom.org/firefox/sync/
@@ -71,11 +71,11 @@ Get your tabs, logins and history on the go.
 
 
 ;Tabs that travel
-Tabs that travel
+เดินทางไปกับแท็บของคุณ
 
 
 ;View open tabs on any device.
-View open tabs on any device.
+ดูแท็บที่เปิดอยู่บนอุปกรณ์ตัวใดก็ได้
 
 
 ;Start sharing
@@ -87,7 +87,7 @@ Firefox สำหรับ Android
 
 
 ;Our most customizable Firefox for Android yet.
-Our most customizable Firefox for Android yet.
+Firefox สำหรับ Android รุ่นที่ปรับแต่งได้มากที่สุดของเรา
 
 
 # Link to /firefox/android
@@ -113,7 +113,7 @@ Firefox Test Pilot {ok}
 
 
 ;Experimental features that can simplify your life.
-Experimental features that can simplify your life.
+คุณสมบัติในขั้นทดลองที่จะทำให้ชีวิตคุณง่ายขึ้น
 
 
 # Link to https://testpilot.firefox.com
@@ -122,11 +122,11 @@ Experimental features that can simplify your life.
 
 
 ;Balanced memory usage
-Balanced memory usage
+การใช้งานหน่วยความจำอย่างสมดุล
 
 
 ;Browse smoothly and leave plenty of memory for your computer programs.
-Browse smoothly and leave plenty of memory for your computer programs.
+เปิดเว็บอย่างราบรื่บและเหลือหน่วยความจำไว้สำหรับโปรแกรมอื่น ๆ ของคุณ
 
 
 # Link to /firefox/features/memory
@@ -156,12 +156,12 @@ Quickly save and organize your favorite sites.
 
 
 ;Firefox Private Browsing blocks ads with trackers.
-Firefox Private Browsing blocks ads with trackers.
+การท่องเว็บแบบส่วนตัวของ Firefox ปิดกั้นโฆษณามีแฝงตัวติดตามมาด้วย
 
 
 # Link to /firefox/features/private-browsing
 ;Block ad trackers
-Block ad trackers
+ปิดกั้นตัวติดตาม
 
 
 ;More powerful Private Browsing
@@ -170,7 +170,7 @@ More powerful Private Browsing
 
 # Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
 ;More protection than Incognito mode or InPrivate.
-More protection than Incognito mode or InPrivate.
+การปกป้องมากกว่าโหมด Incognito  หรือ InPrivate
 
 
 # Link to /firefox/features/private-browsing
@@ -196,7 +196,7 @@ More protection than Incognito mode or InPrivate.
 
 
 ;Opted-in to privacy, so you can browse freely.
-Opted-in to privacy, so you can browse freely.
+เลือกความเป็นส่วนตัวได้ดั้งนั้นคุณสามารถท่องเว็บได้อย่างเสรี
 
 
 # Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
@@ -209,7 +209,7 @@ Opted-in to privacy, so you can browse freely.
 
 
 ;Forget the reset. Save passwords and logins quickly.
-Forget the reset. Save passwords and logins quickly.
+ลืมการตั้งค่าใหม่ บันทึกรหัสผ่านและเข้าสู่ระบบอย่างรวดเร็ว
 
 
 # Link to /firefox/features/password-manager
@@ -226,7 +226,7 @@ Forget the reset. Save passwords and logins quickly.
 
 
 ;Protecting the health of the internet.
-Protecting the health of the internet.
+ปกป้องสุขภาพของอินเทอร์เน็ต
 
 
 # https://www.mozilla.org/mission/
@@ -252,7 +252,7 @@ Protecting the health of the internet.
 
 
 ;We help keep corporate powers in check.
-We help keep corporate powers in check.
+เราช่วยให้อำนาจขององกรณ์ถูกตรวจสอบ
 
 
 # Link to /firefox/features/independent

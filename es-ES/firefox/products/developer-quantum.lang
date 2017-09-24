@@ -7,11 +7,11 @@ Desarrollado para los que desarrollan la Web. El único navegador hecho para des
 
 
 ;Firefox Quantum: Developer Edition
-Firefox Quantum: Developer Edition
+Firefox Quantum: edición para desarrolladores
 
 
 ;Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
-Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
+Bienvenido a tu nuevo navegador favorito. Obtén las últimas funciones, mejor rendimiento y las herramientas que necesitas para crear la web abierta.
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
@@ -19,48 +19,48 @@ Firefox Developer Edition envía opiniones y sugerencias automáticamente a Mozi
 
 
 ;Faster Performance
-Faster Performance
+Mayor rendimiento
 
 
 ;A Next-Generation CSS Engine
-A Next-Generation CSS Engine
+Un motor CSS de nueva generación
 
 
 ;Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
-Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
+Firefox ha resurgido de sus cenizas para volver más rápido y potente que nunca. Incluye un nuevo motor CSS que aporta lo último en innovaciones y es sorprendentemente rápido.
 
 
 ;New Tools
-New Tools
+Nuevas herramientas
 
 
 ;Firefox DevTools
-Firefox DevTools
+Firefox DevTools {ok}
 
 
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
-The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
+Las nuevas DevTools de Firefox son potentes, flexibles y, lo mejor de todo, interceptables. Incluyen el mejor depurador JavaScript, creado en React and Ember y apto para múltiples navegadores.
 
 
 ;Innovative Features
-Innovative Features
+Funciones innovadoras
 
 
 ;Master CSS Grid
-Master CSS Grid
+Sé un experto en CSS Grid
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
-Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
+Firefox es el único navegador que incluye herramientas creadas específicamente para poder crear y diseñar con CSS Grid. Te permiten visualizar la cuadrícula, mostrar nombres de área asociados, previsualizar los cambios y mucho más.
 
 
 ;Design. Code. Test. Refine.
-Design. Code. Test. Refine.
+Diseña. Codifica. Prueba. Mejora.
 
 
 # line break for visual formatting
 ;Build and Perfect your sites<br> with Firefox DevTools
-Build and Perfect your sites<br> with Firefox DevTools
+Crea y perfecciona tus páginas web<br> con Firefox DevTools
 
 
 ;Inspector
@@ -186,6 +186,6 @@ Empezar ya
 
 
 ;Download the Firefox browser made for developers
-Download the Firefox browser made for developers
+Descarga el navegador Firefox creado para desarrolladores
 
 
