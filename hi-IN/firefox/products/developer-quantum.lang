@@ -11,7 +11,7 @@ Firefox क्वान्टम डेवलपर संस्करण
 
 
 ;Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
-Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
+आपके नये पसंदीदा ब्राउज़र में स्वागत हैं. नये सुविधायें, तेज प्रदर्शन, और डेवलपमेंट उपकरण जो आपके खुले वेब को बनाने के लिए जरुरत है उसे पायें.
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
@@ -27,7 +27,7 @@ Welcome to your new favorite browser. Get the latest features, fast performance,
 
 
 ;Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
-Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
+Firefox को जमीनी स्तर से फिर से बनाया गया है ताकि पहले से कहीं तेज और अधिक प्रभावशाली हो सके. यह एक नया CSS इंजन शामिल करता हैं जो अत्याधुनिक नवाचार हैं और यह तेज गति से बढ़ रहा हैं.
 
 
 ;New Tools
@@ -39,7 +39,7 @@ Firefox DevTools {ok}
 
 
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
-The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
+नया Firefox DevTools शक्तिशाली, लचीला, और सबसे अच्छा हैं. यह एक सर्वश्रेष्ठ-स्तरीय पर  JavaScript डीबगर को शामिल करता हैं, जो कई ब्राउज़रों को लक्ष्य बनाता हैं और यह प्रतिक्रिया और एम्बर में बनाया गया हैं.
 
 
 ;Innovative Features
@@ -51,7 +51,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
-Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
+Firefox CSS ग्रिड के निर्माण और डिजाइन के लिए विशेष रूप से निर्मित उपकरणों के साथ एकमात्र ब्राउज़र हैं. यह उपकरण आपको ग्रिड की कल्पना करने की अनुमति देता हैं, संबंधित क्षेत्र के नाम दर्शाए, ग्रिड पर परिवर्तन और अधिको का पूर्वावलोकन करें.
 
 
 ;Design. Code. Test. Refine.
