@@ -681,17 +681,17 @@ HTML {ok}
 
 # Link in the footer
 ;Focus Browser
-Focus Browser
+เบราว์เซอร์ Focus
 
 
 # Link in the footer
 ;Desktop Browser
-Desktop Browser
+เบราว์เซอร์สำหรับเดสก์ท็อป
 
 
 # Link in the footer
 ;Beta, Nightly, Developer Edition
-Beta, Nightly, Developer Edition
+Beta Nightly รุ่นนักพัฒนา
 
 
 # Link in the footer
@@ -716,22 +716,22 @@ Beta, Nightly, Developer Edition
 
 # Title in a banner displayed to users of old versions of Firefox
 ;Your Firefox is out-of-date.
-Your Firefox is out-of-date.
+Firefox ของคุณเป็นรุ่นล้าสมัย
 
 
 # Description in a banner displayed to users of old versions of Firefox
 ;Get the most recent version to keep browsing securely.
-Get the most recent version to keep browsing securely.
+ดาวน์โหลดรุ่นใหม่ขึ้นเพื่อที่จะท่องเว็บอย่างปลอดภัย
 
 
 # Button label in a banner displayed to users of old versions of Firefox
 ;Update Firefox
-Update Firefox
+ปรับรุ่น Firefox
 
 
 # Title for Open Graph sharing in new What's new pages
 ;See what’s new with Firefox
-See what’s new with Firefox
+ดูว่ามีอะไรใหม่เกี่ยวกับ Firefox
 
 
 # Description for Open Graph sharing in new What's new pages
@@ -741,31 +741,31 @@ Faster, more responsive and powerfully private. Check out the latest from the br
 
 # Used on Firefox Privacy Notice landing page
 ;Show More
-Show More
+แสดงเพิ่มเติม
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show Less
-Show Less
+แสดงน้อยลง
 
 
 # Used on Firefox Privacy Notice landing page
 ;Choose how you want to share this data in Firefox.
-Choose how you want to share this data in Firefox.
+เลือกว่าจะแบ่งปันข้อมูลนี้อย่างไรใน Firefox
 
 
 # The button opens Firefox preferences, in the Data section, to select your option
 ;Choose…
-Choose…
+เลือก…
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show All
-Show All
+แสดงทั้งหมด
 
 
 # Used on Firefox Privacy Notice landing page
 ;Hide All
-Hide All
+ซ่อนทั้งหมด
 
 

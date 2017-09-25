@@ -1,3 +1,6 @@
+## active ##
+## firefox_new_install_options ##
+## macos_branding ##
 ## NOTE: Used for the new http://www-dev.allizom.org/firefox/new/ but also http://www-dev.allizom.org/firefox/54.0/firstrun/
 
 
@@ -35,7 +38,7 @@
 
 
 ;Chart your own course
-Chart your own course
+โปรแกรมการเดินทางของคุณเอง
 
 
 # Link points to a SUMO page.
@@ -52,23 +55,23 @@ Chart your own course
 
 
 ;Go Fast
-Go Fast
+ไปอย่างรวดเร็ว
 
 
 ;You have things to do. Get them done faster.
-You have things to do. Get them done faster.
+คุณมีสิ่งที่ต้องทำ ทำมันให้ไวขึ้น
 
 
 ;Go Far
-Go Far
+ไปไกล
 
 
 ;Go anywhere, with more built-in privacy tools than any other browser.
-Go anywhere, with more built-in privacy tools than any other browser.
+ไปที่ไหนก็ได้โดยมีเครื่องมีรักษาความเป็นส่วนบุคคลพ่วงมาด้วยมากกว่าเบราว์เซอร์ตัวอื่น
 
 
 ;Go Forward
-Go Forward
+เดินหน้า
 
 
 ;Use the only browser built for people, not profit.
@@ -76,7 +79,7 @@ Go Forward
 
 
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+ตามทัน<br>เรื่องราวทุกอย่างของ Firefox
 
 
 ;Firefox for other platforms
@@ -103,15 +106,15 @@ Firefox สำหรับแพลตฟอร์มอื่น
 
 
 ;Already using Firefox?
-Already using Firefox?
+ใช้ Firefox อยู่แล้วหรือ ?
 
 
 ;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
-Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
+ลงชื่อเข้าใช้บัญชีของคุณและเราจะชิงค์ที่คั่นหน้า รหัสผ่านและสิ่งดี ๆ อื่น ๆ ที่คุณบันทึกไว้ใน Firefox บนอุปกรณ์อื่น ๆ
 
 
 ;Learn more about Firefox Accounts
-Learn more about Firefox Accounts
+เรียนรู้เพิ่มเติมเกี่ยวกับบัญชี Firefox
 
 
 ;Skip this step
@@ -119,7 +122,7 @@ Learn more about Firefox Accounts
 
 
 ;Behold! The open web awaits.
-Behold! The open web awaits.
+ดูซิ! เว็บเปิดรออยู่
 
 
 ;Thanks for choosing Firefox. Your download should begin automatically. If not, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
@@ -132,17 +135,17 @@ Behold! The open web awaits.
 
 # Link displayed in the download button dialog
 ;Advanced install options & other platforms
-Advanced install options & other platforms
+ตัวเลือกการติดตั้งขั้นสูงและแพลตฟอร์มอื่น ๆ
 
 
 # Link displayed in the download button dialog
 ;Other languages
-Other languages
+ภาษาอื่น ๆ
 
 
 # Title displayed in the modal window for advanced options.
 # The different case is to let localizers use a different translation (or case) from the link, if needed
 ;Advanced Install Options & Other Platforms
-Advanced Install Options & Other Platforms
+ตัวเลือกการติดตั้งขั้นสูงและแพลตฟอร์มอื่น ๆ
 
 

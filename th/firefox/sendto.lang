@@ -12,7 +12,7 @@
 
 
 ;Sorry, we can’t send SMS messages to this phone number.
-Sorry, we can’t send SMS messages to this phone number.
+ขออภัยเราไม่สามารถส่งข้อความไปยังเบอร์นี้ได้
 
 
 # Obsolete string, do not remove
@@ -41,7 +41,7 @@ Sorry, we can’t send SMS messages to this phone number.
 
 
 ;Enter your email or phone number
-Enter your email or phone number
+ป้อนอีเมลของคุณหรือหมายเลขโทรศัพท์
 
 
 # Obsolete string, do not remove

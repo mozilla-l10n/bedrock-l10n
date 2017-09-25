@@ -1,4 +1,6 @@
 ## active ##
+## emerging_tech_links ##
+## mozorg_tech_webvr ##
 ## NOTE: Demo server is available at https://www-dev.allizom.org/technology
 
 
@@ -11,11 +13,11 @@
 
 
 ;Bringing Virtual Reality to the web platform
-Bringing Virtual Reality to the web platform
+นำความจริงเสมือนมาสู่แพลตฟอร์มเว็บ
 
 
 ;Using WebVR, developers, designers and artists can share VR experiences on the web.
-Using WebVR, developers, designers and artists can share VR experiences on the web.
+ใช้ WebVR นักพัฒนา นักออกแบบ และศิลปินสามารถแบ่งปันประสบการณ์เสมือนบนเว็บ
 
 
 # String is obsolete. Do NOT remove.
@@ -29,7 +31,7 @@ Using WebVR, developers, designers and artists can share VR experiences on the w
 
 
 ;Learn about WebVR
-Learn about WebVR
+เรียนรู้เกี่ยวกับ WebVR
 
 
 ;Explore A-Frame
@@ -59,7 +61,7 @@ Learn about WebVR
 
 
 ;Meet WebAssembly
-Meet WebAssembly
+พบกับ WebAssembly
 
 
 ;Start building
@@ -67,7 +69,7 @@ Meet WebAssembly
 
 
 ;Building the Web of Things
-Building the Web of Things
+สร้างเว็บของสรรพสิ่ง
 
 
 ;We’re working to create an open, Web of Things framework of software and services that can bridge the communication gap between connected devices.
@@ -89,7 +91,7 @@ We’re working to create an open, Web of Things framework of software and servi
 
 
 ;Visit Mozilla IoT
-Visit Mozilla IoT
+เยี่ยมชม Mozilla IoT
 
 
 # String is obsolete. Do NOT remove.
@@ -118,11 +120,11 @@ Visit Mozilla IoT
 
 
 ;Sponsored by Mozilla, Rust allows browsers, systems and more to run much faster and more safely.
-Sponsored by Mozilla, Rust allows browsers, systems and more to run much faster and more safely.
+สนับสนุนโดย Mozilla Rust ทำให้เบราว์เซอร์ ระบบและอื่น ๆ ทำงานได้เร็วขึ้นและปลอดภัย
 
 
 ;Learn about Rust
-Learn about Rust
+เรียนรู้เกี่ยวกับ Rust
 
 
 # Obsolete string, do not remove
