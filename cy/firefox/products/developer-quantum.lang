@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo page available at https://bedrock-demo-craigcook.us-west.moz.works/firefox/developer/
 
 
@@ -7,11 +8,11 @@ Wedi ei adeiladu ar gyfer y rhai sy'n adeiladu'r we. Yr unig borwr sydd wedi ei 
 
 
 ;Firefox Quantum: Developer Edition
-Firefox Quantum: Developer Edition
+Firefox Quantum: Developer Edition {ok}
 
 
 ;Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
-Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
+Croeso i'ch hoff borwr newydd. Cewch y nodweddion diweddaraf, perfformiad cyflym a'r offer datblygu sydd eu hagen arnoch ar gyfer adeiladu ar gyfer y we agored.
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
@@ -19,48 +20,48 @@ Mae Firefox Developer Edition yn anfon adborth yn awtomatig i Mozilla.
 
 
 ;Faster Performance
-Faster Performance
+Perfformiad Cynt
 
 
 ;A Next-Generation CSS Engine
-A Next-Generation CSS Engine
+Peiriant CSS Cenhedlaeth Nesaf
 
 
 ;Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
-Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
+Mae Firefox wedi ei ailadeiladu'n llwyr i fod yn gynt a mwy pwerus nag erioed. Mae hyn yn cynnwys peiriant CSS newydd sy'n gwbl flaengar ac anhygoel o gyflym.
 
 
 ;New Tools
-New Tools
+Offer Newydd
 
 
 ;Firefox DevTools
-Firefox DevTools
+Firefox DevTools {ok}
 
 
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
-The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
+Mae'r Firefox DevTools yn bwerus, hyblyg a gorau oll yn hacadwy. Mae hyn yn cynnwys y dadfygiwr gorau yn ei faes, sy'n gallu targedu porwyr lluosog ac wedi ei adeiladu yn React ac Ember.
 
 
 ;Innovative Features
-Innovative Features
+Nodweddion Arloesol
 
 
 ;Master CSS Grid
-Master CSS Grid
+Master CSS Grid {ok}
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
-Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
+Firefox yw'r unig borwr gydag offer wedi eu hadeiladu'n benodol ar gyfer adeiladu a chynllunio grid CSS. Mae'r offer hyn yn caniatáu i chi ddelweddu'r grid, dangos enwau ardal cysylltiedig, rhagweld trawsnewidiadau ar y grid a mwy.
 
 
 ;Design. Code. Test. Refine.
-Design. Code. Test. Refine.
+Cynllunio. Codio. Profi. Mireinio.
 
 
 # line break for visual formatting
 ;Build and Perfect your sites<br> with Firefox DevTools
-Build and Perfect your sites<br> with Firefox DevTools
+Adeiladwch a Pherffeithio eich gwefannau<br> gyda Firefox DevTools
 
 
 ;Inspector
@@ -186,6 +187,6 @@ Cychwyn nawr
 
 
 ;Download the Firefox browser made for developers
-Download the Firefox browser made for developers
+Llwythwch i lawr y porwr Firefox sydd wedi ei greu ar gyfer datblygwyr
 
 

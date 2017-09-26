@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo page available at https://bedrock-demo-craigcook.us-west.moz.works/firefox/developer/
 
 
@@ -7,11 +8,11 @@ Napravljen za one koji prave web. Jedini pretraživač napravljen za programere 
 
 
 ;Firefox Quantum: Developer Edition
-Firefox Quantum: Developer Edition
+Firefox Quantum: Developer Edition {ok}
 
 
 ;Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
-Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
+Dobrodošli u vaš novi omiljeni pretraživač. Radite s najnovijim funkcijama, poboljšanim performansama i razvojnim alatima koje trebate da kreirate otvoreni web.
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
@@ -19,48 +20,48 @@ Firefox Developer Edition automatski šalje povratnu informaciju Mozilli.
 
 
 ;Faster Performance
-Faster Performance
+Veća efikasnost
 
 
 ;A Next-Generation CSS Engine
-A Next-Generation CSS Engine
+CSS motor nove generacije
 
 
 ;Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
-Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
+Firefox je obnovljen iznova kako bi bio brži i moćniji nego ikad. Ovo uključuje novi brzi CSS motor sa najnovijim inovacijama.
 
 
 ;New Tools
-New Tools
+Novi alati
 
 
 ;Firefox DevTools
-Firefox DevTools
+Firefox razvojni alati
 
 
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
-The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
+Novi Firefox razvojni alati su moćni, fleksibilni i najbolje od svega, ekstenzivni. Ovo uključuje najbolji JavaScript otklanjač grešaka, koji može ciljati na više pretraživača i izgrađen je u React-u i Ember-u.
 
 
 ;Innovative Features
-Innovative Features
+Inovativne mogućnosti
 
 
 ;Master CSS Grid
-Master CSS Grid
+Ovladajte CSS mrežom
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
-Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
+Firefox je jedini pretraživač s alatima napravljenim posebno za izgradnju i dizajniranje s CSS mrežom. Ovi alati omogućavaju vam vizualizaciju mreže, prikaz naziva pridruženih lokacija, pregled transformacije na mreži i još mnogo toga.
 
 
 ;Design. Code. Test. Refine.
-Design. Code. Test. Refine.
+Dizajnirajte. Kodirajte. Testirajte. Precizirajte.
 
 
 # line break for visual formatting
 ;Build and Perfect your sites<br> with Firefox DevTools
-Build and Perfect your sites<br> with Firefox DevTools
+Izgradite i usavršite vaše stranice<br> s Firefox razvojnim alatima
 
 
 ;Inspector
@@ -186,6 +187,6 @@ Počnite sada
 
 
 ;Download the Firefox browser made for developers
-Download the Firefox browser made for developers
+Preuzmite Firefox pretraživač napravljen za programere
 
 

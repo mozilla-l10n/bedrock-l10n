@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo page available at https://bedrock-demo-craigcook.us-west.moz.works/firefox/developer/
 
 
@@ -7,11 +8,11 @@
 
 
 ;Firefox Quantum: Developer Edition
-Firefox Quantum: Developer Edition
+Firefox Quantum: Developer Edition {ok}
 
 
 ;Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
-Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
+მოგესალმებათ თქვენი ახალი რჩეული ბრაუზერი. ისარგებლეთ უახლესი შესაძლებლობებით, წარმადობით და შემმუშავებლის ხელსაწყოებით, გახსნილი ვებპროექტების შესაქმნელად.
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
@@ -19,48 +20,48 @@ Firefox Developer Edition ავტომატურად უგზავნ�
 
 
 ;Faster Performance
-Faster Performance
+მეტი წარმადობა
 
 
 ;A Next-Generation CSS Engine
-A Next-Generation CSS Engine
+ახალი თაობის CSS ძრავა
 
 
 ;Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
-Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
+Firefox შემუშავდა ნულიდან, რომ გამხდარიყო ისეთი სწრაფი და მძლავრი, როგორიც ჯერ არასდროს ყოფილა. რაც ასევე, გულისხმობს ახალ CSS ძრავას, რომელიც არის ულტრათანამედროვე და უსწრაფესი.
 
 
 ;New Tools
-New Tools
+ახალი ხელსაწყოები
 
 
 ;Firefox DevTools
-Firefox DevTools
+Firefox DevTools {ok}
 
 
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
-The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
+ახალი Firefox DevTools არის მძლავრი, მოქნილი და რაც მთავარია ადვილად მოსარგები. რაც მოიცავს უმაღლესი დონის JavaScript გამმართველსაც, რომელიც ყველანაირი ბრაუზერისთვისაა გამოსადეგი და შემუშავებულია React და Ember-ის დახმარებით.
 
 
 ;Innovative Features
-Innovative Features
+ინოვაციური შესაძლებლობები
 
 
 ;Master CSS Grid
-Master CSS Grid
+CSS ბადე
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
-Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
+Firefox ერთადერთი ბრაუზერია, რომელსაც გააჩნია საგანგებოდ ვებპროექტების შემუშავებისთვის შექმნილი ხელსაწყოები, მათ შორის CSS ბადე. ამ ხელსაწყოებით შეძლებთ, სტრუქტურის თვალსაჩინოდ წარმოდგენას, ბადის სახით, თითოეული განყოფილებისთვის სახელის მინიჭებას, გადაქმნების შედეგების წინასწარ ნახვას ბადეზე და ა.შ.
 
 
 ;Design. Code. Test. Refine.
-Design. Code. Test. Refine.
+მოიფიქრეთ. შექმენით. გამოცადეთ. დახვეწეთ.
 
 
 # line break for visual formatting
 ;Build and Perfect your sites<br> with Firefox DevTools
-Build and Perfect your sites<br> with Firefox DevTools
+შეიმუშავეთ და სრულყავით თქვენი საიტები<br> Firefox DevTools-ის დახმარებით
 
 
 ;Inspector
@@ -84,7 +85,7 @@ Build and Perfect your sites<br> with Firefox DevTools
 
 
 ;Powerful JavaScript debugger with support for your framework.
-JavaScript-ის მძლავრი გამმართველი, უამრავი სამუშო გარემოს მხარდაჭერით.
+JavaScript-ის მძლავრი გამმართველი, უამრავი სამუშო გარსის მხარდაჭერით.
 
 
 ;Network
@@ -186,6 +187,6 @@ JavaScript-ის მძლავრი გამმართველი, უ�
 
 
 ;Download the Firefox browser made for developers
-Download the Firefox browser made for developers
+ჩამოტვირთეთ Firefox ბრაუზერი, შექმნილი დეველოპერთათვის
 
 

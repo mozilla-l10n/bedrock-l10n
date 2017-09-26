@@ -1,5 +1,6 @@
 ## active ##
 ## emerging_tech_links ##
+## mozorg_tech_webvr ##
 ## NOTE: Demo server is available at https://www-dev.allizom.org/technology
 
 
@@ -16,7 +17,7 @@
 
 
 ;Using WebVR, developers, designers and artists can share VR experiences on the web.
-Using WebVR, developers, designers and artists can share VR experiences on the web.
+WebVR қолданып, әзірлеушілер, дизайнерлер және суретшілер өздері жасаған виртуалды шынайылық тәжірибелерімен интернетте бөлісе алады.
 
 
 # String is obsolete. Do NOT remove.
@@ -68,7 +69,7 @@ WebAssembly туралы білу
 
 
 ;Building the Web of Things
-Building the Web of Things
+Заттар интернетін құру
 
 
 ;We’re working to create an open, Web of Things framework of software and services that can bridge the communication gap between connected devices.
@@ -90,7 +91,7 @@ We’re working to create an open, Web of Things framework of software and servi
 
 
 ;Visit Mozilla IoT
-Visit Mozilla IoT
+Mozilla IoT шолу
 
 
 # String is obsolete. Do NOT remove.
