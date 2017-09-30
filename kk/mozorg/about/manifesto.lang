@@ -79,7 +79,7 @@ Explore how to help keep the Web open
 
 
 ;Mozilla story
-Mozilla story
+Mozilla тарихы
 
 
 ;You don’t have to make a case for open. You have to make a case for not open.
@@ -92,7 +92,7 @@ You don’t have to make a case for open. You have to make a case for not open.
 
 
 ;03
-03
+03 {ok}
 
 
 ;The Internet must enrich the lives of individual human beings.
@@ -104,15 +104,15 @@ See how the Web can connect the world to healthcare
 
 
 ;Explore how the Web works
-Explore how the Web works
+Интернет қалай жұмыс істейтінін біліңіз
 
 
 ;Medic Mobile
-Medic Mobile
+Medic Mobile {ok}
 
 
 ;04
-04
+04 {ok}
 
 
 ;Individuals’ security and privacy on the Internet are fundamental and must not be treated as optional.
@@ -152,7 +152,7 @@ Learn about creating and curating content for the Web
 
 
 ;Teaching the Web
-Teaching the Web
+Интернетті үйрету
 
 
 ;Meet the Webmakers
@@ -160,7 +160,7 @@ Meet the Webmakers
 
 
 ;06
-06
+06 {ok}
 
 
 ;The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
@@ -281,28 +281,28 @@ Learn how to build online collaboration skills
 
 
 ;What is MozFest?
-What is MozFest?
+MozFest дегеніміз не?
 
 
 ;Read the entire manifesto
-Read the entire manifesto
+Манифестті толығымен оқып шығыңыз
 
 
 ;Tell your friends
-Tell your friends
+Достарыңызға айтыңыз
 
 
 # This string will be included in a tweet
 ;I support Mozilla because… #mozmanifesto
-I support Mozilla because… #mozmanifesto
+Менің Mozilla-ны қолдау себебім… #mozmanifesto
 
 
 ;Tweet this
-Tweet this
+Бұны твитте жіберіңіз
 
 
 ;Learn more about…
-Learn more about…
+Ол туралы көбірек білу…
 
 
 ;Donating to Mozilla
@@ -310,16 +310,16 @@ Mozilla-ға демеушілік ету
 
 
 ;Our history
-Our history
+Біздің тарихымыз
 
 
 ;Our mission
-Our mission
+Біздің миссиямыз
 
 
 # Strings for mozilla.org/about/manifesto/details/
 ;Introduction
-Introduction
+Кіріспе
 
 
 ;The Internet is becoming an increasingly important part of our lives.
