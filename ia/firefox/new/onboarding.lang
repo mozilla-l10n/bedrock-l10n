@@ -21,7 +21,7 @@ You’re using a pre-release version of Firefox.
 
 # Used as HTML title of the page
 ;Free Web Browser
-Free Web Browser
+Navigator del web gratuite
 
 
 # Used as HTML description of the page
@@ -44,7 +44,7 @@ Please follow <a href="%(url)s">these instructions</a> to install Firefox.
 
 
 ;Refresh Firefox
-Refresh Firefox
+Restabili Firefox
 
 
 ;Discover all the ways to take Firefox on the go
@@ -52,7 +52,7 @@ Discover all the ways to take Firefox on the go
 
 
 ;Go Fast
-Go Fast
+Va celere
 
 
 ;You have things to do. Get them done faster.
@@ -60,7 +60,7 @@ You have things to do. Get them done faster.
 
 
 ;Go Far
-Go Far
+Va longe
 
 
 ;Go anywhere, with more built-in privacy tools than any other browser.
@@ -68,7 +68,7 @@ Go anywhere, with more built-in privacy tools than any other browser.
 
 
 ;Go Forward
-Go Forward
+Va avante
 
 
 ;Use the only browser built for people, not profit.
@@ -80,26 +80,26 @@ Keep up with<br> all things Firefox.
 
 
 ;Firefox for other platforms
-Firefox for other platforms
+Firefox pro altere platteformas
 
 
 # Span is for visual formatting and line break
 ;Download Firefox <span>for Windows</span>
-Download Firefox <span>for Windows</span>
+Discarga Firefox <span>pro Windows</span>
 
 
 # Span is for visual formatting and line break
 ;Download Firefox <span>for macOS</span>
-Download Firefox <span>for macOS</span>
+Discarga Firefox <span>pro macOS</span>
 
 
 # Span is for visual formatting and line break
 ;Download Firefox <span>for Linux</span>
-Download Firefox <span>for Linux</span>
+Discarga Firefox <span>pro Linux</span>
 
 
 ;Welcome to Firefox
-Welcome to Firefox
+Benvenite in Firefox
 
 
 ;Already using Firefox?
@@ -111,11 +111,11 @@ Sign in to your account and we’ll sync the bookmarks, passwords and other grea
 
 
 ;Learn more about Firefox Accounts
-Learn more about Firefox Accounts
+Apprende plus re un conto Firefox
 
 
 ;Skip this step
-Skip this step
+Salta iste grado
 
 
 ;Behold! The open web awaits.
@@ -127,7 +127,7 @@ Thanks for choosing Firefox. Your download should begin automatically. If not, <
 
 
 ;Get Firefox for Android and iOS.
-Get Firefox for Android and iOS.
+Obtene Firefox pro Android e iOS.
 
 
 # Link displayed in the download button dialog
@@ -137,7 +137,7 @@ Advanced install options & other platforms
 
 # Link displayed in the download button dialog
 ;Other languages
-Other languages
+Altere linguas
 
 
 # Title displayed in the modal window for advanced options.

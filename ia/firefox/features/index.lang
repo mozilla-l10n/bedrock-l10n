@@ -18,7 +18,7 @@ Moderne
 
 
 ;Your favorite add-ons and extensions
-Your favorite add-ons and extensions
+Tu componentes additive e extensiones favorite
 
 
 # These are add-on app names. Product names remain in English. If needed, add purpose of apps in parathesis right after the product name.
@@ -28,11 +28,11 @@ Adblock, Ublock, LastPass and thousands more.
 
 # Links to https://addons.mozilla.org/firefox
 ;Get powerful add-ons
-Get powerful add-ons
+Discarga potente componentes additive
 
 
 ;Customize your browser
-Customize your browser
+Personalisa tu navigator
 
 
 ;Personalize Firefox with everything from themes to privacy tools.
@@ -54,7 +54,7 @@ Start faster, tab hop quicker, get more done.
 
 # Link to /firefox/features/fast
 ;Do more with Firefox
-Do more with Firefox
+Face plus con Firefox
 
 
 ;Sync between devices
@@ -62,7 +62,7 @@ Synchronisa tu dispositivos
 
 
 ;Get your tabs, logins and history on the go.
-Get your tabs, logins and history on the go.
+Accede a tu schedas, authenticationes e chronologia al volo.
 
 
 # Link to https://www-demo5.allizom.org/firefox/sync/
@@ -71,15 +71,15 @@ Usa Firefox ubicunque
 
 
 ;Tabs that travel
-Tabs that travel
+Schedas dynamic
 
 
 ;View open tabs on any device.
-View open tabs on any device.
+Vide le schedas aperte sur ulle dispositivo.
 
 
 ;Start sharing
-Start sharing
+Initia a compartir
 
 
 ;Firefox for Android
@@ -100,7 +100,7 @@ Firefox pro iOS
 
 
 ;The speed you need. The privacy you trust.
-The speed you need. The privacy you trust.
+Le velocitate que te besonia. Le confidentialitate sur le qual tu pote confider.
 
 
 # Link to /firefox/ios
@@ -109,20 +109,20 @@ Va ultra le configurationes ordinari
 
 
 ;Firefox Test Pilot
-Firefox Test Pilot
+Firefox Test Pilot {ok}
 
 
 ;Experimental features that can simplify your life.
-Experimental features that can simplify your life.
+Functionalitates experimental que pote simplificar tu vita.
 
 
 # Link to https://testpilot.firefox.com
 ;Help launch new features
-Help launch new features
+Adjuta nos pro nove functionalitates
 
 
 ;Balanced memory usage
-Balanced memory usage
+Uso equilibrate del memoria
 
 
 ;Browse smoothly and leave plenty of memory for your computer programs.
@@ -131,11 +131,11 @@ Browse smoothly and leave plenty of memory for your computer programs.
 
 # Link to /firefox/features/memory
 ;Speed up your computer
-Speed up your computer
+Accelera tu computator
 
 
 ;Better bookmarks
-Better bookmarks
+Melior marcapaginas
 
 
 ;Quickly save and organize your favorite sites.
@@ -144,7 +144,7 @@ Quickly save and organize your favorite sites.
 
 # Link to /firefox/features/bookmarks
 ;Customize your bookmarks
-Customize your bookmarks
+Personalisa tu marcapaginas
 
 
 ;Privacy
@@ -152,16 +152,16 @@ Confidentialitate
 
 
 ;Ad tracker blocking
-Ad tracker blocking
+Bloco del publicitate traciante
 
 
 ;Firefox Private Browsing blocks ads with trackers.
-Firefox Private Browsing blocks ads with trackers.
+Firefox Private Browsing bloca le publicitate traciante.
 
 
 # Link to /firefox/features/private-browsing
 ;Block ad trackers
-Block ad trackers
+Bloca le publicitate traciante
 
 
 ;More powerful Private Browsing
@@ -175,7 +175,7 @@ More protection than Incognito mode or InPrivate.
 
 # Link to /firefox/features/private-browsing
 ;Get better privacy
-Get better privacy
+Plus intimitate
 
 
 ;More private
@@ -201,7 +201,7 @@ Opted-in to privacy, so you can browse freely.
 
 # Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
 ;Read our privacy policy
-Read our privacy policy
+Lege nostre regulas de confidentialitate
 
 
 ;Password Manager
@@ -214,7 +214,7 @@ Forget the reset. Save passwords and logins quickly.
 
 # Link to /firefox/features/password-manager
 ;Easily manage your logins
-Easily manage your logins
+Gestion del authenticationes simplificate
 
 
 ;Independence
@@ -244,7 +244,7 @@ We’re always transparent.
 
 # Link to /firefox/features/independent
 ;See what makes us different
-See what makes us different
+Discoperi lo que rende nos differtente
 
 
 ;Protect your rights
@@ -252,7 +252,7 @@ Defende tu derectos
 
 
 ;We help keep corporate powers in check.
-We help keep corporate powers in check.
+Nos adjuta a tener sub controlo le grande societates.
 
 
 # Link to /firefox/features/independent

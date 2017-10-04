@@ -3,7 +3,7 @@
 
 # Used as HTML title of the page
 ;Firefox Browser: Use less memory, get more speed
-Firefox Browser: Use less memory, get more speed
+Navigator Firefox: usa minus memoria, ma es plus rapide
 
 
 # Used as HTML description of the page
@@ -20,7 +20,7 @@ If your web browser uses too much memory, switch to Firefox.
 
 
 ;Speed up your computer
-Speed up your computer
+Accelera tu computator
 
 
 ;Every computer program you run takes up some memory. When too much is used, your system can slooooowww down. Firefox aims for a balance — using enough memory to let you browse smoothly and leaving plenty of memory to keep your computer responsive.
@@ -36,7 +36,7 @@ Stop running out of memory
 
 
 ;Browse faster, privately
-Browse faster, privately
+Naviga rapide e in intimitate
 
 
 ;Explore the web faster with <a href="%(url)s">Firefox Private Browsing</a>. Only Firefox’s private mode includes tracking protection which blocks ads with trackers from loading on pages. Decluttering sites means web pages can load faster.

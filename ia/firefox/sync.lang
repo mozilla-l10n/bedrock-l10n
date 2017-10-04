@@ -49,7 +49,7 @@ Download or open Firefox to start securely connecting your browsing experience o
 
 # String is obsolete. Do NOT remove.
 ;Take your Web with you
-Take your Web with you
+Porta tu web con te
 
 
 # String is obsolete. Do NOT remove.
@@ -82,29 +82,29 @@ Now sync Firefox with your iOS and Android devices.
 
 
 ;Download Firefox for Android
-Download Firefox for Android
+Discarga Firefox pro Android
 
 
 ;Get started with Sync
-Get started with Sync
+Introduction a Sync
 
 
 ;Update your Firefox
-Update your Firefox
+Actualisa tu Firefox
 
 
 ;Download Firefox
-Download Firefox
+Discarga Firefox
 
 
 ;Get started with Sync in four easy steps:
-Get started with Sync in four easy steps:
+Introduction a Sync in quatro simple grados:
 
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Aperi le menu <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu"></a> al summitate sinistre de Firefox e selige “<strong>Authentica te in Sync.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -127,32 +127,32 @@ After you check your email and click the verification link, you’ll be all set!
 
 
 ;Get more detailed instructions.
-Get more detailed instructions.
+Obtene instructiones plus detaliate.
 
 
 ;Using an older version of Sync?
-Using an older version of Sync?
+Usa tu un version de Sync plus vetere?
 
 
 # This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
-How to set up Sync in five easy steps:
+Como preparar Sync in cinque simple grados:
 
 
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+Tocca le button <strong>Menu</strong> (illo sub le schermo o al summitate dextere del navigator).
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+Elige <strong>Definitiones</strong> (tu pote besoniar de toccar <strong>Plus</strong> antea ).
 
 
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
-Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+Tocca <strong>Sync</strong> e pois <strong>Initiar</strong>.
 
 
 # This string is displayed on Android devices
@@ -183,27 +183,27 @@ Want to visit your computer’s open tabs from another device? Access your brows
 
 
 ;Here’s what you can sync:
-Here’s what you can sync:
+Ecce lo que tu pote synchronisar:
 
 
 ;Bookmarks
-Bookmarks
+Marcapaginas
 
 
 ;Passwords
-Passwords
+Contrasignos
 
 
 ;Open tabs
-Open tabs
+Schedas aperte
 
 
 ;History
-History
+Chronologia
 
 
 ;Personal
-Personal
+Personal {ok}
 
 
 # A rabbit hole is a long and winding exploratory path with many connections. The Web is essentially designed to function as a rabbit hole because of the way hyperlinks work.
@@ -213,7 +213,7 @@ That shopping rabbit hole you started on your laptop this morning? Pick up where
 
 # String is obsolete. Do NOT remove.
 ;At home
-At home
+A casa
 
 
 # String is obsolete. Do NOT remove.
@@ -222,7 +222,7 @@ Move from your desk to the couch without skipping a beat. Access your open tabs 
 
 
 ;Secure
-Secure
+Secur
 
 
 ;Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
@@ -231,7 +231,7 @@ Your Firefox Account is the doorway to all your web stuff—we help you keep it 
 
 # String is obsolete. Do NOT remove.
 ;At work
-At work
+Al labor
 
 
 # String is obsolete. Do NOT remove.
@@ -240,7 +240,7 @@ Stay connected to all of your important information. Sync the passwords and book
 
 
 ;Accessible
-Accessible
+Accessibile
 
 
 ;Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
@@ -249,7 +249,7 @@ Catch up on your open tabs and saved reads over Saturday morning coffee. Find yo
 
 # String is obsolete. Do NOT remove.
 ;On the go
-On the go
+In movimento
 
 
 # String is obsolete. Do NOT remove.
@@ -266,7 +266,7 @@ To get the full Sync experience, get Firefox for iOS or Android and connect all 
 
 
 ;Add Firefox
-Add Firefox
+Adde Firefox
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
@@ -278,7 +278,7 @@ DOWNLOAD FIREFOX FOR ANDROID
 
 
 ;Get Firefox everywhere
-Get Firefox everywhere
+Porta Firefox ubicunque
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.

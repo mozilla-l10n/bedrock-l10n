@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo page available at https://bedrock-demo-craigcook.us-west.moz.works/firefox/developer/
 
 
@@ -11,7 +12,7 @@ Firefox Quantum: Developer Edition {ok}
 
 
 ;Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
-Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
+Anṣuf yes-k ar yiminig-ik amaynut i t-ḥemmleḍ. Awi timahilin tineggura, d tmellit ifazen akked ifecka n tneflit i tesriḍ akken ad tebnuḍ web yeldin.
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
@@ -23,11 +24,11 @@ Tamellit taruradt
 
 
 ;A Next-Generation CSS Engine
-A Next-Generation CSS Engine
+Amsedday CSS n tsuta d-iteddun
 
 
 ;Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
-Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
+Firefox iɛiwed akk tafekka-s akken ad yuɣal d arurad, d uzmir akken wurǧin yella. Ayagi yegber amsedday amaynut  CSS arurad akked d isnulfuyen ineggura.
 
 
 ;New Tools
@@ -39,28 +40,28 @@ Firefox DevTools {ok}
 
 
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
-The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
+Lqem aneggaru n ifecka n tneflit n Firefoxd uzmir, d afallaẓ, d areḍlim ɣef tmerskurt, ad terreḍ akken tebɣiḍ. Lqem-agi yegber tamseɣtayt  JavaScript n imusnawen iteddun ɣef ddeqs n iminigen, tin yettwasneflin s React d Ember.
 
 
 ;Innovative Features
-Innovative Features
+Timahilin n usnulfu
 
 
 ;Master CSS Grid
-Master CSS Grid
+Issin s telqayt tamezzut CSS
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
-Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
+Ala Firefox i d iminig s ifecka yettwabnan i bennu d ufeṣṣel s tmezzut CSS. Ifecka-agi ad k-eǧǧen ad twaliḍ tamezzut, ad teskneḍ ismawen n timnaḍin icudden ɣur-s, ad twaliḍ aselket ɣef twezzut d wayen nniḍen.
 
 
 ;Design. Code. Test. Refine.
-Design. Code. Test. Refine.
+Feṣṣel, Stengel, Sekyed, Seggem.
 
 
 # line break for visual formatting
 ;Build and Perfect your sites<br> with Firefox DevTools
-Build and Perfect your sites<br> with Firefox DevTools
+Bnu udiɣ sali aswir n yismal-ik <br> s ifecka n tneflit n Firefox
 
 
 ;Inspector
@@ -186,57 +187,57 @@ Bdu tura
 
 
 ;Download the Firefox browser made for developers
-Sider iminig Firefox ittwaxedmen i ineflayen
+Sider iminig Firefox ittwaxedmen i yineflayen
 
 
 # First run page at https://www.mozilla.org/en-US/firefox/57.0a2/firstrun/
 ;Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
-Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
+Firefox Developer Edition d iminig arurrad ugar n wiyaḍ, yegber ifecka n tneflit n tsuta taneggarut akked timahilin timaynutin am usefrek n twezza CSS neɣ tamseɣtayt n uframework.
 
 
 ;Welcome to the all-new Firefox Quantum: Developer Edition
-Welcome to the all-new Firefox Quantum: Developer Edition
+Anṣuf ar Firefox Quantum amaynut: Developer Edition
 
 
 ;Firefox has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
-Firefox has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
+Firefox iɛawed tamuɣli akken ad yuɣal d arurad ugar, d uzmir ugar akken werǧin yella.
 
 
 ;Firefox Devtools
-Firefox Devtools
+Ifecka n tneflit Firefox
 
 
 ;Next-Gen CSS Engine
-Next-Gen CSS Engine
+Amsedday CSS n tsuta d-iteddun
 
 
 # line break for visual formatting
 ;Get developer news, tricks and resources <br /> sent straight to your inbox.
-Get developer news, tricks and resources <br /> sent straight to your inbox.
+Rmes-d isallen, tixbula akked tiɣbula i yineflayen srid di tnaka-ik n urmas.
 
 
 ;A Next-Generation CSS Engine (hint: it’s fast)
-A Next-Generation CSS Engine (hint: it’s fast)
+Amsedday CSS n tsuta d-iteddun (hint: d arurad)
 
 
 ;Firefox Quantum includes a new CSS engine, written in Rust, that has state-of-the-art innovations and is blazingly fast.
-Firefox Quantum includes a new CSS engine, written in Rust, that has state-of-the-art innovations and is blazingly fast.
+Firefox Quantum yegber amsedday amaynut CSS yuran s Rust. Yettfaras tagnitt seg unerni aneggaru n tatiknulujit ihi yuɣal d arurad s waṭas..
 
 
 # What's new run page at https://www.mozilla.org/en-US/firefox/57.0a2/whatsnew/
 ;Want to be on the cutting-edge?
-Want to be on the cutting-edge?
+Acu tebɣiḍ daɣen ad tawiḍ?
 
 
 ;Firefox Nightly receives daily updates and allows you to access features months before they go mainstream.
-Firefox Nightly receives daily updates and allows you to access features months before they go mainstream.
+Firefox Nightly yettwalqam yal ass akken ad k-yeǧǧ ad tkecmeḍ ar timahilin timaynutin ddeqs n wagguren send send ad d-ffɣent i yimdanen meṛṛa.
 
 
 ;Congrats. You now have Firefox Quantum: Developer Edition.
-Congrats. You now have Firefox Quantum: Developer Edition.
+Ayz. Tzemreḍ tura ad tawiḍ Firefox Quantum: Developer Edition.
 
 
 ;This isn’t just an update. This is Firefox Quantum: A brand new Firefox that has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
-This isn’t just an update. This is Firefox Quantum: A brand new Firefox that has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
+MAčči kan d lqem aḥ€rfi. Hatan Firefox Quantum : d Firefox amaynut yettwafeṣlen akken nniḍenakken ad yuɣal d arurad, d uzmir akken werǧin yella ar ass-a.
 
 

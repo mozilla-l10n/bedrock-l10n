@@ -3,11 +3,11 @@
 
 # HTML page description
 ;Built for those who build the Web. The only browser made for developers like you.
-Built for those who build the Web. The only browser made for developers like you.
+Producite pro illes qui produce le web. Le sol navigator producite pro le developpatores como te.
 
 
 ;Firefox Quantum: Developer Edition
-Firefox Quantum: Developer Edition
+Firefox Quantum: Developer Edition {ok}
 
 
 ;Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
@@ -31,11 +31,11 @@ Firefox has been rebuilt from the ground up to be faster and more powerful than 
 
 
 ;New Tools
-New Tools
+Nove utensiles
 
 
 ;Firefox DevTools
-Firefox DevTools
+Firefox DevTools {ok}
 
 
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
@@ -43,11 +43,11 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 
 ;Innovative Features
-Innovative Features
+Functionalitates innovative
 
 
 ;Master CSS Grid
-Master CSS Grid
+Domina le grillia CSS
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
@@ -64,7 +64,7 @@ Build and Perfect your sites<br> with Firefox DevTools
 
 
 ;Inspector
-Inspector
+Inspector {ok}
 
 
 ;Inspect and refine code to build pixel-perfect layouts.
@@ -72,7 +72,7 @@ Inspect and refine code to build pixel-perfect layouts.
 
 
 ;Console
-Console
+Consola
 
 
 ;Track CSS, JavaScript, security and network issues.
@@ -80,7 +80,7 @@ Track CSS, JavaScript, security and network issues.
 
 
 ;Debugger
-Debugger
+Depurator
 
 
 ;Powerful JavaScript debugger with support for your framework.
@@ -88,7 +88,7 @@ Powerful JavaScript debugger with support for your framework.
 
 
 ;Network
-Network
+Rete
 
 
 ;Monitor network requests that can slow or block your site.
@@ -96,7 +96,7 @@ Monitor network requests that can slow or block your site.
 
 
 ;Storage panel
-Storage panel
+Pannello de archivation
 
 
 ;Add, modify and remove cache, cookies, databases and session data.
@@ -104,7 +104,7 @@ Add, modify and remove cache, cookies, databases and session data.
 
 
 ;Responsive Design Mode
-Responsive Design Mode
+Modo de designo responsive
 
 
 ;Test sites on emulated devices in your browser.
@@ -112,7 +112,7 @@ Test sites on emulated devices in your browser.
 
 
 ;Visual Editing
-Visual Editing
+Redaction visual
 
 
 ;Fine-tune animations, alignment and padding.
@@ -120,7 +120,7 @@ Fine-tune animations, alignment and padding.
 
 
 ;Performance
-Performance
+Rendimento
 
 
 ;Unblock bottlenecks, streamline processes, optimize assets.
@@ -128,7 +128,7 @@ Unblock bottlenecks, streamline processes, optimize assets.
 
 
 ;Memory
-Memory
+Memoria
 
 
 ;Find memory leaks and make your application zippy.
@@ -144,7 +144,7 @@ The only developer tool for inspecting the Web Audio API.
 
 
 ;Scratchpad
-Scratchpad
+Ardesia
 
 
 ;Edit, write, run and execute JavaScript in real time.
@@ -152,7 +152,7 @@ Edit, write, run and execute JavaScript in real time.
 
 
 ;Style Editor
-Style Editor
+Editor de stilos
 
 
 ;Edit and manage all your CSS stylesheets in your browser.
@@ -160,7 +160,7 @@ Edit and manage all your CSS stylesheets in your browser.
 
 
 ;Speak up
-Speak up
+Exprime te
 
 
 ;Feedback makes us better. Tell us how we can improve the browser and Developer tools.
@@ -173,7 +173,7 @@ Join the conversation
 
 
 ;Get involved
-Get involved
+Lassa te implicar
 
 
 ;Help build the last independent browser. Write code, fix bugs, make add-ons, and more.
@@ -182,7 +182,7 @@ Help build the last independent browser. Write code, fix bugs, make add-ons, and
 
 # Link to https://devtools-html.github.io/
 ;Start now
-Start now
+Initia subito
 
 
 ;Download the Firefox browser made for developers
@@ -203,7 +203,7 @@ Firefox has been rebuilt from the ground-up to be faster, sleeker, and more powe
 
 
 ;Firefox Devtools
-Firefox Devtools
+Firefox Devtools {ok}
 
 
 ;Next-Gen CSS Engine
