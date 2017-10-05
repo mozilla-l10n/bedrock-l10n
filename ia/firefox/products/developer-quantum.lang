@@ -15,7 +15,7 @@ Welcome to your new favorite browser. Get the latest features, fast performance,
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
-Firefox Developer Edition automatically sends feedback to Mozilla.
+Firefox Developer Edition invia automaticamente feedback a Mozilla.
 
 
 ;Faster Performance
@@ -136,7 +136,7 @@ Find memory leaks and make your application zippy.
 
 
 ;Web Audio
-Web Audio
+Audio web
 
 
 ;The only developer tool for inspecting the Web Audio API.
@@ -169,7 +169,7 @@ Feedback makes us better. Tell us how we can improve the browser and Developer t
 
 # Link to https://discourse.mozilla-community.org/c/devtools
 ;Join the conversation
-Join the conversation
+Participa al debatto
 
 
 ;Get involved
@@ -191,7 +191,7 @@ Download the Firefox browser made for developers
 
 # First run page at https://www.mozilla.org/en-US/firefox/57.0a2/firstrun/
 ;Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
-Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
+Firefox Developer Edition es le navigator ultra veloce que offere le plus innovative instrumentos de developpator e le plus recente functionalitates como le supporto al grillias CSS e le depuration de frameworks
 
 
 ;Welcome to the all-new Firefox Quantum: Developer Edition
@@ -207,7 +207,7 @@ Firefox Devtools {ok}
 
 
 ;Next-Gen CSS Engine
-Next-Gen CSS Engine
+Motor de CSS de proxime generation
 
 
 # line break for visual formatting
@@ -216,7 +216,7 @@ Get developer news, tricks and resources <br /> sent straight to your inbox.
 
 
 ;A Next-Generation CSS Engine (hint: it’s fast)
-A Next-Generation CSS Engine (hint: it’s fast)
+Un motor de CSS de proxime generation (vermente rapide)
 
 
 ;Firefox Quantum includes a new CSS engine, written in Rust, that has state-of-the-art innovations and is blazingly fast.
@@ -229,7 +229,7 @@ Want to be on the cutting-edge?
 
 
 ;Firefox Nightly receives daily updates and allows you to access features months before they go mainstream.
-Firefox Nightly receives daily updates and allows you to access features months before they go mainstream.
+Firefox Nightly es actualisate quotidianmente e te permitte de acceder al nove functionalitates menses ante le disponibilitate general.
 
 
 ;Congrats. You now have Firefox Quantum: Developer Edition.
