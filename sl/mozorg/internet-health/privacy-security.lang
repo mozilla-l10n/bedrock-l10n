@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo server is available at https://www-dev.allizom.org/internet-health/privacy-security/
 
 
@@ -229,16 +230,16 @@ Zavzema se za spremembe
 
 
 ;Recommending <a href="%(reform)s" rel="external">reform at the policy level</a> to improve government disclosure of security vulnerabilities.
-Recommending <a href="%(reform)s" rel="external">reform at the policy level</a> to improve government disclosure of security vulnerabilities.
+Priporočamo <a href="%(reform)s" rel="external">reformo na ravni pravilnikov</a>, ki bi izboljšala vladino razkrivanje varnostnih ranljivosti.
 
 
 ;Calling on lawmakers
-Calling on lawmakers
+Pritiska na zakonodajalce
 
 
 # 'USA Freedom Act': Feel free to replace it with a local or regional equivalent proposal.
 ;Calling on lawmakers all over the globe to rein in mass surveillance, and <a href="%(usafreedom)s" rel="external">helping to pass the USA Freedom Act</a>.
-Calling on lawmakers all over the globe to rein in mass surveillance, and <a href="%(usafreedom)s" rel="external">helping to pass the USA Freedom Act</a>.
+Zakonodajalce po vsem svetu pozivamo, da obrzdajo množični nadzor, ter <a href="%(usafreedom)s" rel="external">se zavzemamo za sprejem ameriškega zakona o svobodi</a>.
 
 
 ;Partnering with educators
@@ -246,7 +247,7 @@ Sodeluje z učitelji
 
 
 ;Cohosting <a href="%(standford)s" rel="external">talks with Stanford’s Center for Internet and Society</a> about government hacking.
-Cohosting <a href="%(standford)s" rel="external">talks with Stanford’s Center for Internet and Society</a> about government hacking.
+S stanfordskim centrom za internet in družbo soorganiziramo <a href="%(standford)s" rel="external">predavanja</a> o vladnem hekanju.
 
 
 ;Hungry for more?
