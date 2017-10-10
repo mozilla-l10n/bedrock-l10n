@@ -1,13 +1,14 @@
+## active ##
 ## NOTE: demo page available at https://bedrock-demo-craigcook.us-west.moz.works/firefox/developer/
 
 
 # HTML page description
 ;Built for those who build the Web. The only browser made for developers like you.
-Producite pro illes qui produce le web. Le sol navigator producite pro le developpatores como te.
+Facite pro illes que produce le web. Le sol navigator facite pro le disveloppatores como te.
 
 
 ;Firefox Quantum: Developer Edition
-Firefox Quantum: Developer Edition {ok}
+Firefox Quantum: edition pro le disveloppator
 
 
 ;Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
@@ -27,7 +28,7 @@ Un motor de CSS de proxime-generation
 
 
 ;Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
-Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
+Firefox ha essite reconstruite ab ovo pro esser plus rapide e plus potente que mais. Isto include un nove e potente motor CSS que ha le ultime e melior innovationes, e es de un rapiditate fulminee.
 
 
 ;New Tools
@@ -39,7 +40,7 @@ Firefox DevTools {ok}
 
 
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
-The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
+Le nove utensiles de disveloppamento de Firefox es potente, flexibile, e le melior de totos, a tu disposition. I.A. le melior depurator de JavaScript, que pote gerer plure navigatores insimul, e es realisate per le bibliothecas React e Ember.
 
 
 ;Innovative Features
@@ -51,16 +52,16 @@ Domina le grillia CSS
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
-Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
+Firefox es le sol navigator con applicationes integrate specificamente designate pro le projecto e le production con le grillia CSS. Iste utensiles te permitte de visualisar le grillia, monstrar le nomine de area associate, le pre-visualisation del transformationes sur le grillia e multo de plus.
 
 
 ;Design. Code. Test. Refine.
-Design. Code. Test. Refine.
+Designo. Codification. Test. Optimisation.
 
 
 # line break for visual formatting
 ;Build and Perfect your sites<br> with Firefox DevTools
-Build and Perfect your sites<br> with Firefox DevTools
+Produce e perfectiona tu sitos<br> per Firefox DevTools
 
 
 ;Inspector
@@ -68,7 +69,7 @@ Inspector {ok}
 
 
 ;Inspect and refine code to build pixel-perfect layouts.
-Inspect and refine code to build pixel-perfect layouts.
+Inspice e optimisa le codification pro producer dispositiones de pagina perfecte al pixel.
 
 
 ;Console
@@ -76,7 +77,7 @@ Consola
 
 
 ;Track CSS, JavaScript, security and network issues.
-Track CSS, JavaScript, security and network issues.
+Attrappa errores in le CSS, de JavaScript, de securitate e in rete.
 
 
 ;Debugger
@@ -84,7 +85,7 @@ Depurator
 
 
 ;Powerful JavaScript debugger with support for your framework.
-Powerful JavaScript debugger with support for your framework.
+Depurator potente de JavaScript con supporto pro tu infrastructura.
 
 
 ;Network
@@ -92,7 +93,7 @@ Rete
 
 
 ;Monitor network requests that can slow or block your site.
-Monitor network requests that can slow or block your site.
+Controla le requestas de rete que pote relentar o blocar tu sito.
 
 
 ;Storage panel
@@ -100,7 +101,7 @@ Pannello de archivation
 
 
 ;Add, modify and remove cache, cookies, databases and session data.
-Add, modify and remove cache, cookies, databases and session data.
+Adde, modifica e remove cache, cookies, bases de datos e datos de session.
 
 
 ;Responsive Design Mode
@@ -108,7 +109,7 @@ Modo de designo responsive
 
 
 ;Test sites on emulated devices in your browser.
-Test sites on emulated devices in your browser.
+Testa le sitos sur apparatos simulate in tu navigator.
 
 
 ;Visual Editing
@@ -116,7 +117,7 @@ Redaction visual
 
 
 ;Fine-tune animations, alignment and padding.
-Fine-tune animations, alignment and padding.
+Optimisa le animationes, le alineamento e le margines.
 
 
 ;Performance
@@ -124,7 +125,7 @@ Rendimento
 
 
 ;Unblock bottlenecks, streamline processes, optimize assets.
-Unblock bottlenecks, streamline processes, optimize assets.
+Disbloca le collos de bottilia, simplifica le processos, optimisa le ressources.
 
 
 ;Memory
@@ -132,7 +133,7 @@ Memoria
 
 
 ;Find memory leaks and make your application zippy.
-Find memory leaks and make your application zippy.
+Trova le perditas de memoria e rende fulminee tu application.
 
 
 ;Web Audio
@@ -140,7 +141,7 @@ Audio web
 
 
 ;The only developer tool for inspecting the Web Audio API.
-The only developer tool for inspecting the Web Audio API.
+Le sol utensile de disveloppator pro inspicer le API audio de web.
 
 
 ;Scratchpad
@@ -148,7 +149,7 @@ Ardesia
 
 
 ;Edit, write, run and execute JavaScript in real time.
-Edit, write, run and execute JavaScript in real time.
+Redige, scribe, face fluer e exeque JavaScript in tempore real.
 
 
 ;Style Editor
@@ -156,7 +157,7 @@ Editor de stilos
 
 
 ;Edit and manage all your CSS stylesheets in your browser.
-Edit and manage all your CSS stylesheets in your browser.
+Redige e gere tote tu folios de stilo CSS in tu navigator.
 
 
 ;Speak up
@@ -164,7 +165,7 @@ Exprime te
 
 
 ;Feedback makes us better. Tell us how we can improve the browser and Developer tools.
-Feedback makes us better. Tell us how we can improve the browser and Developer tools.
+Tu commentos meliora nos. Propone nos como nos pote meliorar le navigator e le utensiles de disveloppator.
 
 
 # Link to https://discourse.mozilla-community.org/c/devtools
@@ -177,7 +178,7 @@ Lassa te implicar
 
 
 ;Help build the last independent browser. Write code, fix bugs, make add-ons, and more.
-Help build the last independent browser. Write code, fix bugs, make add-ons, and more.
+Adjuta a producer le ultime navigator independente. Scribe codice, corrige defectos, produce additiones, e plus.
 
 
 # Link to https://devtools-html.github.io/
@@ -186,7 +187,7 @@ Initia subito
 
 
 ;Download the Firefox browser made for developers
-Download the Firefox browser made for developers
+Discarga le navigator Firefox dedicate al disveloppatores
 
 
 # First run page at https://www.mozilla.org/en-US/firefox/57.0a2/firstrun/
@@ -195,11 +196,11 @@ Firefox Developer Edition es le navigator ultra veloce que offere le plus innova
 
 
 ;Welcome to the all-new Firefox Quantum: Developer Edition
-Welcome to the all-new Firefox Quantum: Developer Edition
+Benvenite al novissime Firefox Quantum: edition disveloppator
 
 
 ;Firefox has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
-Firefox has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
+Firefox ha essite reconstruite ab ovo pro ser plus rapide, elegante, e plus potente que mais.
 
 
 ;Firefox Devtools
@@ -212,7 +213,7 @@ Motor de CSS de proxime generation
 
 # line break for visual formatting
 ;Get developer news, tricks and resources <br /> sent straight to your inbox.
-Get developer news, tricks and resources <br /> sent straight to your inbox.
+Recipe actualitate de disveloppator, artificios e ressources <br /> inviate directe a tu cassa de entrata.
 
 
 ;A Next-Generation CSS Engine (hint: it’s fast)
@@ -220,12 +221,12 @@ Un motor de CSS de proxime generation (vermente rapide)
 
 
 ;Firefox Quantum includes a new CSS engine, written in Rust, that has state-of-the-art innovations and is blazingly fast.
-Firefox Quantum includes a new CSS engine, written in Rust, that has state-of-the-art innovations and is blazingly fast.
+Firefox Quantum include un nove motor de CSS, scribite in Rust, que ha innovationes de vanguarda e es fulmineemente rapide.
 
 
 # What's new run page at https://www.mozilla.org/en-US/firefox/57.0a2/whatsnew/
 ;Want to be on the cutting-edge?
-Want to be on the cutting-edge?
+Desira tu ser sur le via breve?
 
 
 ;Firefox Nightly receives daily updates and allows you to access features months before they go mainstream.
@@ -233,10 +234,10 @@ Firefox Nightly es actualisate quotidianmente e te permitte de acceder al nove f
 
 
 ;Congrats. You now have Firefox Quantum: Developer Edition.
-Congrats. You now have Firefox Quantum: Developer Edition.
+Felicitationes. Ora tu ha Firefox Quantum: edition pro le disveloppator.
 
 
 ;This isn’t just an update. This is Firefox Quantum: A brand new Firefox that has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
-This isn’t just an update. This is Firefox Quantum: A brand new Firefox that has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
+Isto non es justo un actualisation. Isto es Firefox Quantum: un Firefox nove de fabrica que ha essite reconstruite ab ovo pro ser plus rapide, elegante, e plus de potente que mais.
 
 

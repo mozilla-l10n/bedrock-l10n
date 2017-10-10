@@ -14,7 +14,7 @@
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-ఆప్స్
+అనువర్తనాలు
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -35,7 +35,7 @@
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-అంతరంగిక విహరణ
+వ్యక్తిగత విహరణ
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -71,7 +71,7 @@ Firefox అనేది లాభాపేక్ష లేనిది, వ్�
 
 
 ;Add-ons
-యాడ్-ఆన్స్‍
+పొడిగింతలు
 
 
 ;About Us
@@ -225,7 +225,7 @@ Mozilla గురించి
 
 
 ;Customize with Add-ons
-యాడాన్లతో అభిమతీకరించుకోండి
+పొడిగింతలతో అనుకూలపరచండి
 
 
 ;Learn More
@@ -331,17 +331,17 @@ MPEG-4 ఫార్మాటు
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-సింక్
+సమకాలీకరించు
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Add-ons
-డెస్క్‌టాప్ యాడాన్లు
+డెస్కుటాప్ పొడిగింతలు
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android యాడాన్లు
+Android పొడిగింతలు
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -598,7 +598,7 @@ Firefox వార్తలను పొందండి
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-మీ ఈమెయిలు ఇక్కడ
+ఇక్కడ మీ ఇమెయిలు ఇవ్వండి
 
 
 # Newsletter subscription Button
@@ -716,7 +716,7 @@ IOS కోసం మొబైల్ విహారిణి
 
 # Title in a banner displayed to users of old versions of Firefox
 ;Your Firefox is out-of-date.
-Your Firefox is out-of-date.
+మీ Firefox పాతబడింది.
 
 
 # Description in a banner displayed to users of old versions of Firefox
@@ -726,12 +726,12 @@ Get the most recent version to keep browsing securely.
 
 # Button label in a banner displayed to users of old versions of Firefox
 ;Update Firefox
-Update Firefox
+Firefoxని తాజాకరించు
 
 
 # Title for Open Graph sharing in new What's new pages
 ;See what’s new with Firefox
-See what’s new with Firefox
+Firefoxలో క్రొత్తగా ఏమి ఉన్నాయో చూడండి
 
 
 # Description for Open Graph sharing in new What's new pages
@@ -741,12 +741,12 @@ Faster, more responsive and powerfully private. Check out the latest from the br
 
 # Used on Firefox Privacy Notice landing page
 ;Show More
-Show More
+ఇంకా చూపించు
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show Less
-Show Less
+కొన్నే చూపించు
 
 
 # Used on Firefox Privacy Notice landing page
@@ -756,16 +756,16 @@ Choose how you want to share this data in Firefox.
 
 # The button opens Firefox preferences, in the Data section, to select your option
 ;Choose…
-Choose…
+ఎంచుకోండి…
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show All
-Show All
+అన్నీ చూపించు
 
 
 # Used on Firefox Privacy Notice landing page
 ;Hide All
-Hide All
+అన్నిటి మరుగునవుంచుము
 
 
