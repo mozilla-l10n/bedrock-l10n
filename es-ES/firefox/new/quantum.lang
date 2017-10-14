@@ -14,7 +14,7 @@ Estás usando una versión preliminar de Firefox.
 
 
 ;Meet Firefox Quantum
-Meet Firefox Quantum
+Conoce Firefox Quantum
 
 
 ;New. Fast. For good.
@@ -23,7 +23,7 @@ New. Fast. For good.
 
 # Link points to /firefox/new/?scene=2
 ;Download Now
-Download Now
+Descargar ahora
 
 
 # Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings
@@ -63,24 +63,24 @@ Descarga Firefox <span>para Linux</span>
 
 # Link points to /firefox/all/
 ;Download in another language
-Download in another language
+Descargar en otro idioma
 
 
 ;Let’s do this!
-Let’s do this!
+¡Hagámoslo!
 
 
 ;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
+Tu descarga debería comenzar automáticamente. Si no, <a id="%(id)s" href="%(fallback_url)s">haz clic aquí</a>.
 
 
 ;Sync up with Firefox on mobile:
-Sync up with Firefox on mobile:
+Sincroniza con Firefox en tu dispositivo móvil:
 
 
 # HTML page title prefix
 ;Download Firefox
-Download Firefox
+Descargar Firefox
 
 
 # HTML page title
@@ -94,7 +94,7 @@ Descarga Mozilla Firefox, el navegador gratuito desarrollado por una organizaci�
 
 
 ;Download the fastest Firefox ever
-Download the fastest Firefox ever
+Descarga el Firefox más rápido de la historia
 
 
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
@@ -102,26 +102,26 @@ Faster page loading, less memory usage and packed with features, the new Firefox
 
 
 ;2x Faster
-2x Faster
+2x más rápido
 
 
 ;The best Firefox ever
-The best Firefox ever
+El mejor Firefox de la historia
 
 
 ;Lightweight
-Lightweight
+Ligero
 
 
 ;Uses 30% less memory than Chrome
-Uses 30% less memory than Chrome
+Consume un 30% menos de memoria que Chrome
 
 
 ;Powerfully private
-Powerfully private
+Poderosamente privado
 
 
 ;Truly Private Browsing with Tracking Protection
-Truly Private Browsing with Tracking Protection
+Navegación verdaderamente privada con protección contra el rastreo
 
 

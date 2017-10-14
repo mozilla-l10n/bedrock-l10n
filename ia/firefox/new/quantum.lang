@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/new/
 
 
@@ -14,16 +15,16 @@ Tu usa le version de pre-edition de Firefox.
 
 
 ;Meet Firefox Quantum
-Meet Firefox Quantum
+Discoperi Firefox Quantum
 
 
 ;New. Fast. For good.
-New. Fast. For good.
+Nove. Rapide. Pro le bon.
 
 
 # Link points to /firefox/new/?scene=2
 ;Download Now
-Download Now
+Discargar ora
 
 
 # Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings
@@ -63,24 +64,24 @@ Discarga Firefox <span>pro Linux</span>
 
 # Link points to /firefox/all/
 ;Download in another language
-Download in another language
+Discarga lo in un altere lingua
 
 
 ;Let’s do this!
-Let’s do this!
+Que nos lo face!
 
 
 ;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
+Tu discargamento comenciara automaticamente. Si non, <a id="%(id)s" href="%(fallback_url)s">clicca ci</a>.
 
 
 ;Sync up with Firefox on mobile:
-Sync up with Firefox on mobile:
+Synchronisa te per Firefox sur telephonos e tablettas:
 
 
 # HTML page title prefix
 ;Download Firefox
-Download Firefox
+Discarga Firefox
 
 
 # HTML page title
@@ -94,34 +95,34 @@ Discarga Mozilla Firefox, un navigator del web libere. Firefox es create per un 
 
 
 ;Download the fastest Firefox ever
-Download the fastest Firefox ever
+Discarga le plus rapide Firefox de sempre
 
 
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-Faster page loading, less memory usage and packed with features, the new Firefox is here.
+Cargamento paginas plus rapide, minor uso de memoria e functionalitates incorporate, ecce le nove Firefox.
 
 
 ;2x Faster
-2x Faster
+2 vices plus rapide
 
 
 ;The best Firefox ever
-The best Firefox ever
+Le melior Firefox de sempre
 
 
 ;Lightweight
-Lightweight
+Super legier
 
 
 ;Uses 30% less memory than Chrome
-Uses 30% less memory than Chrome
+Usa 30% minus memoria qua Chrome
 
 
 ;Powerfully private
-Powerfully private
+Potentemente confidential
 
 
 ;Truly Private Browsing with Tracking Protection
-Truly Private Browsing with Tracking Protection
+Navigation vermente private con protection contra le traciamento
 
 
