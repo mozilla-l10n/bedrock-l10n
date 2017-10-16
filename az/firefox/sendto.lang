@@ -1,4 +1,5 @@
 ## active ##
+## sendto_updates_bug1395342 ##
 ## NOTE: Demo page at https://www-dev.allizom.org/styleguide/docs/send-to-device/
 ## NOTE: Add ?geo=us to the URL (https://www-dev.allizom.org/styleguide/docs/send-to-device/) to display the SMS strings.
 
@@ -12,7 +13,7 @@ Endirmə keçidiniz göndərildi.
 
 
 ;Sorry, we can’t send SMS messages to this phone number.
-Sorry, we can’t send SMS messages to this phone number.
+Üzr istəyirik, bu nömrəyə SMS mesaj göndərə bilmirik.
 
 
 # Obsolete string, do not remove
@@ -41,7 +42,7 @@ iOS və ya Android seçin
 
 
 ;Enter your email or phone number
-Enter your email or phone number
+E-poçtunuzu və ya telefon nömrənizi daxil edin
 
 
 # Obsolete string, do not remove
@@ -58,7 +59,7 @@ Göndər
 
 
 ;SMS service available in select countries only. SMS &amp; data rates may apply.
-SMS service available in select countries only. SMS &amp; data rates may apply.
+SMS xidməti ancaq bəzi ölkələr üçün işləyir. SMS və məlumat xərcləri əlavə edilə bilər.
 
 
 # Obsolete string, do not remove

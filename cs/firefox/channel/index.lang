@@ -1,5 +1,6 @@
 ## active ##
 ## android_nightly_copy ##
+## firefox_channel_bug1387466 ##
 ## firefox_title_meta_bug1345338 ##
 ## firefox_title_meta_bug1357373 ##
 ## nightly_description_bug1375100 ##
@@ -123,7 +124,7 @@ Zkoušejte funkce těsně před jejich vydáním v téměř finální verzi.
 
 
 ;All Languages and Platforms
-All Languages and Platforms
+Všechny jazyky a platformy
 
 
 # String is obsolete. Do not remove.
