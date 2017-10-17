@@ -13,12 +13,12 @@ Menu {ok}
 
 # this br is for formatting, omit or reposition as needed
 ;Why<br> volunteer
-Why<br> volunteer
+Perque<br> voluntario
 
 
 # this br is for formatting, omit or reposition as needed
 ;Find<br> an event
-Find<br> an event
+Trova<br> un evento
 
 
 # this br is for formatting, omit or reposition as needed
@@ -40,7 +40,7 @@ Io vive in&hellip;
 
 
 ;Volunteer with Mozilla!
-Volunteer with Mozilla!
+Voluntario con Mozilla!
 
 
 # This label accompanies a numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
@@ -91,30 +91,30 @@ How Mozillians help every day
 
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;Spain &middot; Activism
-Spain &middot; Activism
+Espania &middot; Activismo
 
 
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;Philippines &middot; Activism
-Philippines &middot; Activism
+Philippinas &middot; activismo
 
 
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;Switzerland &middot; Coding
-Switzerland &middot; Coding
+Suissa &middot; programmation
 
 
 # Caption used under Mozillians photo. You can replace $middot; with a different separator if it doesn't work for your locale
 ;India &middot; Teaching
-India &middot; Teaching
+India &middot; inseniamento
 
 
 ;Read his story
-Read his story
+Lege su historia
 
 
 ;Read her story
-Read her story
+Lege le historia de illa
 
 
 ;Want to get involved? Here’s how.
@@ -138,7 +138,7 @@ Comenciar
 
 
 ;Not ready to dive in just yet?
-Not ready to dive in just yet?
+Non es tu ancora preste?
 
 
 ;Here are a few other ways you can support Mozilla right now.
@@ -146,7 +146,7 @@ Here are a few other ways you can support Mozilla right now.
 
 
 ;Donate to Mozilla
-Donate to Mozilla
+Donar a Mozilla
 
 
 ;Read our Manifesto
@@ -166,11 +166,11 @@ Proxime eventos
 
 
 ;See all events
-See all events
+Vide tote le eventos
 
 
 ;Communicate
-Communicate
+Communicar
 
 
 ;Mozilla communities
@@ -186,32 +186,32 @@ Canales IRC
 
 
 ;More links
-More links
+Altere ligamines
 
 
 ;Submit Firefox feedback
-Submit Firefox feedback
+Submitte tu commentos a Firefox
 
 
 ;Explore Mozilla careers
-Explore Mozilla careers
+Explora le carrieras a Mozilla
 
 
 ;Get help with Firefox
-Get help with Firefox
+Ricipe assistentia re Firefox
 
 
 ;Subscribe to community events
-Subscribe to community events
+Abonate al eventos del communitate
 
 
 ;Get community updates
-Get community updates
+Recipe le novas del communitate
 
 
 # Used as title of the /stories sub-page
 ;Mozillian Stories
-Mozillian Stories
+Historias de Mozillian
 
 
 # Used as a toggle to display more content.
@@ -233,45 +233,45 @@ Discover even more stories on Twitter with <a href="%(link_hashtag)s">#IAmAMozil
 
 
 ;More coming soon
-More coming soon
+Altero eveniente tosto
 
 
 # Used as title of the /signup sub-page
 ;Get Involved: Volunteer Opportunities at Mozilla
-Get Involved: Volunteer Opportunities at Mozilla
+Collabora: Opportunitates pro voluntarios a Mozilla
 
 
 ;To get started, tell us what interests you.
-To get started, tell us what interests you.
+Que nos comencia, dice nos que interessa te.
 
 
 ;Choose one for now. You can always contribute to other areas later.
-Choose one for now. You can always contribute to other areas later.
+Elige subito uno. Tu potera sempre contribuer a altere areas postea.
 
 
 # This text is used for accessibility reasons, it's not visible
 ;Where would you like to get started?
-Where would you like to get started?
+Ubi desira tu comenciar?
 
 
 ;Coding
-Codification
+Disveloppamento
 
 
 ;More about coding
-More about coding
+Altere informationes re le disveloppamento
 
 
 ;Contribute code to a whole range of Mozilla products, including Firefox and Firefox OS.
-Contribute code to a whole range of Mozilla products, including Firefox and Firefox OS.
+Contribue al programmation de un ample gamma de productos de Mozilla, I.A. Firefox e Firefox OS.
 
 
 ;Testing
-Testing
+Test
 
 
 ;More about testing
-More about testing
+Altere informationes re le tests
 
 
 ;Help make the Mozilla products you use — and love — even better.
@@ -279,11 +279,11 @@ Help make the Mozilla products you use — and love — even better.
 
 
 ;Writing
-Writing
+Scriber
 
 
 ;More about writing
-More about writing
+Altere informationes re le scriber
 
 
 ;Lend your voice to Mozilla — from blogging and social media to providing technical documents for users and developers.
@@ -291,11 +291,11 @@ Lend your voice to Mozilla — from blogging and social media to providing techn
 
 
 ;Teaching
-Teaching
+Inseniar
 
 
 ;More about teaching
-More about teaching
+Altere informationes re le inseniamento
 
 
 ;Share your skills with a community that’s eager to learn. Take advantage of our free tools, teaching resources and events.
@@ -303,11 +303,11 @@ Share your skills with a community that’s eager to learn. Take advantage of ou
 
 
 ;Helping
-Helping
+Auxilio
 
 
 ;More about helping
-More about helping
+Altere informationes re le auxilio
 
 
 ;Provide support to users who need it and help everyone get the most out of their Mozilla products.
@@ -319,7 +319,7 @@ Traductiones
 
 
 ;More about translating
-More about translating
+Altere informationes re le traductiones
 
 
 ;Help make Mozilla stuff available in other languages. Translate everything from newsletters and websites to copy for Firefox and Firefox OS.
@@ -331,7 +331,7 @@ Activismo
 
 
 ;More about activism
-More about activism
+Altere informationes re le activismo
 
 
 ;Get involved with our opportunities to support freedom, security and privacy on the open Web.
@@ -339,7 +339,7 @@ Get involved with our opportunities to support freedom, security and privacy on 
 
 
 ;I don’t know
-I don’t know
+Io non sape
 
 
 ;More about how you can contribute
@@ -383,7 +383,7 @@ I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">t
 
 
 ;Start contributing
-Start contributing
+Initia a collaborar
 
 
 ;Sign me up for community updates
@@ -395,27 +395,27 @@ Sign me up for community updates
 
 
 ;What particular area?
-What particular area?
+Qual area in particular?
 
 
 ;What would you like to code?
-What would you like to code?
+Que amarea tu programmar?
 
 
 ;What would you like to test?
-What would you like to test?
+Que amarea tu testar?
 
 
 ;What would you like to translate?
-What would you like to translate?
+Que amarea tu traducer?
 
 
 ;What would you like to write?
-What would you like to write?
+Que amarea tu scriber?
 
 
 ;What would you like to teach?
-What would you like to teach?
+Que amarea tu inseniar?
 
 
 ;Firefox
@@ -427,31 +427,31 @@ Sitos web
 
 
 ;Firefox add-ons
-Firefox add-ons
+Additivos de Firefox
 
 
 ;HTML5 apps
-HTML5 apps
+applicationes HTML5
 
 
 ;Diagnosing Web compatibility issues
-Diagnosing Web compatibility issues
+Diagnosis del defectos de compatibilitate Web
 
 
 ;Online services
-Online services
+Servicios in rete
 
 
 ;Web compatibility
-Web compatibility
+Compatibilitate del Web
 
 
 ;Product localization
-Product localization
+Localisation del productos
 
 
 ;Website localization
-Website localization
+Localisation del sitos Web
 
 
 ;I’d like to work on localization tools
@@ -459,27 +459,27 @@ I’d like to work on localization tools
 
 
 ;Social media
-Social media
+Social media {ok}
 
 
 ;Journalism
-Journalism
+Jornalismo
 
 
 ;Technical docs for users
-Technical docs for users
+Documentation technic pro usatores
 
 
 ;Technical docs for developers
-Technical docs for developers
+Documentation technic pro disveloppatores
 
 
 ;Technical docs for Firefox add-ons
-Technical docs for Firefox add-ons
+Documentation technic pro additivos de Firefox
 
 
 ;Technical docs for HTML5 apps
-Technical docs for HTML5 apps
+Documentation technic pro applicationes HTML5
 
 
 ;Teach the Web (Webmaker)
@@ -499,7 +499,7 @@ Open Web science research
 
 
 ;Community Events
-Community Events
+Eventos de communitate
 
 
 ;Find events
@@ -552,35 +552,35 @@ Gratias!
 
 
 ;We’re thrilled to see that you’re interested in coding and can’t wait to get you started.
-We’re thrilled to see that you’re interested in coding and can’t wait to get you started.
+Nos es enthusiastic que tu es interessate al programmation e nos es anxie que tu comencia.
 
 
 ;We’re thrilled to see that you’re interested in testing and can’t wait to get you started.
-We’re thrilled to see that you’re interested in testing and can’t wait to get you started.
+Nos es enthusiastic que tu es interessate al tests e nos es anxie que tu comencia.
 
 
 ;We’re thrilled to see that you’re interested in writing and can’t wait to get you started.
-We’re thrilled to see that you’re interested in writing and can’t wait to get you started.
+Nos es enthusiastic que tu es interessate al scriptura e nos es anxie que tu comencia.
 
 
 ;We’re thrilled to see that you’re interested in teaching and can’t wait to get you started.
-We’re thrilled to see that you’re interested in teaching and can’t wait to get you started.
+Nos es enthusiastic que tu es interessate al inseniamento e nos es anxie que tu comencia.
 
 
 ;We’re thrilled to see that you’re interested in helping and can’t wait to get you started.
-We’re thrilled to see that you’re interested in helping and can’t wait to get you started.
+Nos es enthusiastic que tu es interessate al auxilio e nos es anxie que tu comencia.
 
 
 ;We’re thrilled to see that you’re interested in translating and can’t wait to get you started.
-We’re thrilled to see that you’re interested in translating and can’t wait to get you started.
+Nos es enthusiastic que tu es interessate al traductiones e nos es anxie que tu comencia.
 
 
 ;We’re thrilled to see that you’re interested in activism and can’t wait to get you started.
-We’re thrilled to see that you’re interested in activism and can’t wait to get you started.
+Nos es enthusiastic que tu es interessate al activismo e nos es anxie que tu comencia.
 
 
 ;We’re thrilled to see that you’re interested in volunteering and can’t wait to get you started.
-We’re thrilled to see that you’re interested in volunteering and can’t wait to get you started.
+Nos es enthusiastic que tu es interessate al voluntariato e nos es anxie que tu comencia.
 
 
 ;Keep an eye on your inbox for an important message from us.
@@ -592,7 +592,7 @@ Hello!
 
 
 ;Your Name
-Your Name
+Tu nomine
 
 
 ;In the meantime&hellip;
@@ -642,7 +642,7 @@ Area of interest?
 
 
 ;Helping Users
-Helping Users
+Adjutar le usatores
 
 
 ;Testing and QA
@@ -650,7 +650,7 @@ Testing and QA
 
 
 ;Marketing
-Marketing
+Marketing {ok}
 
 
 ;Localization and Translation
@@ -658,7 +658,7 @@ Localisation e traduction
 
 
 ;Web Development
-Web Development
+Disveloppamento del Web
 
 
 ;Firefox Marketplace
@@ -670,7 +670,7 @@ Additivos
 
 
 ;Visual Design
-Visual Design
+Visual Design {ok}
 
 
 ;Documentation and Writing
@@ -686,7 +686,7 @@ Alteros
 
 
 ;Hi, I’m interested in…
-Hi, I’m interested in…
+Holla, io es interessate a...
 
 
 ;Send us a note and we can get you started right away.
@@ -710,7 +710,7 @@ You must agree to the privacy policy.
 
 
 ;Please select an area of interest.
-Please select an area of interest.
+Per favor elige un area de interesse.
 
 
 ;Please tell us more about your interests.
