@@ -14,7 +14,7 @@ Stai utilizzando una versione preliminare di Firefox.
 
 
 ;Meet Firefox Quantum
-Meet Firefox Quantum
+Scopri Firefox Quantum
 
 
 ;New. Fast. For good.
@@ -23,7 +23,7 @@ New. Fast. For good.
 
 # Link points to /firefox/new/?scene=2
 ;Download Now
-Download Now
+Scarica ora
 
 
 # Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings
@@ -63,15 +63,15 @@ Scarica Firefox <span>per Linux</span>
 
 # Link points to /firefox/all/
 ;Download in another language
-Download in another language
+Scarica in un’altra lingua
 
 
 ;Let’s do this!
-Let’s do this!
+Provalo subito.
 
 
 ;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
+Grazie per aver scelto Firefox. Il download dovrebbe iniziare automaticamente. In caso contrario, <a id="%(id)s" href="%(fallback_url)s">fare clic qui</a>.
 
 
 ;Sync up with Firefox on mobile:
@@ -80,7 +80,7 @@ Sync up with Firefox on mobile:
 
 # HTML page title prefix
 ;Download Firefox
-Download Firefox
+Scarica Firefox
 
 
 # HTML page title
@@ -94,7 +94,7 @@ Scarica Mozilla Firefox, il browser libero e gratuito. Realizzato da un’organi
 
 
 ;Download the fastest Firefox ever
-Download the fastest Firefox ever
+Scarica la versione di Firefox più veloce di sempre
 
 
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
@@ -102,11 +102,11 @@ Faster page loading, less memory usage and packed with features, the new Firefox
 
 
 ;2x Faster
-2x Faster
+2 volte più veloce
 
 
 ;The best Firefox ever
-The best Firefox ever
+Il migliore Firefox di sempre
 
 
 ;Lightweight
