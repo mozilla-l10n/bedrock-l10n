@@ -3,107 +3,107 @@
 
 # HTML page title
 ;The new, fast browser for Mac, PC and Linux
-The new, fast browser for Mac, PC and Linux
+Nowy, spěšny wobhladowak za Mac, PC a LInux
 
 
 # HTML page description
 ;Responsive engine, less memory usage and packed with features. Download for desktop now.
-Responsive engine, less memory usage and packed with features. Download for desktop now.
+Spěšnje reagowaca mašina, mjenje wužiće składa a z wjele funkcijemi. Sćehńće jón nětko za desktop.
 
 
 ;New. Fast. For good.
-New. Fast. For good.
+Nowy. Spěšny. Za dobre.
 
 
 ;Download now
-Download now
+Nětko sćahnyć
 
 
 ;What’s new?
-What’s new?
+Što je nowe?
 
 
 ;A powerful, new engine that’s built for rapidfire performance.
-A powerful, new engine that’s built for rapidfire performance.
+Mócna, nowa mašina, kotryž je so za błyskospěšne přewjedźenje wuwiła.
 
 
 ;Better, faster page loading that uses less computer memory.
-Better, faster page loading that uses less computer memory.
+Lěpše a spěšne čitanje stronow, kotrež mjenje kompjuterowy skład wužiwa.
 
 
 ;Gorgeous design and smart features for intelligent browsing.
-Gorgeous design and smart features for intelligent browsing.
+Wulkotny design a inteligentne funkcije za inteligentne přehladowanje.
 
 
 ;“Faster and even more minimalist, Firefox Quantum makes Chrome look old.”
-“Faster and even more minimalist, Firefox Quantum makes Chrome look old.”
+“Spěšne a samo bóle minimalistiski, da Firefox Quantum Chrome stary wupadać.”
 
 
 # Link points to https://www.digitaltrends.com/web/firefox-quantum-hands-on-review/
 ;(Digital Trends)
-(Digital Trends)
+(Digital Trends) {ok}
 
 
 # This is an alternative text for a screenshot.
 ;Screenshot of the redesigned Firefox new-tab page.
-Screenshot of the redesigned Firefox new-tab page.
+Foto wobrazowki nowo wuwiteje strony noweho rajtarka Firefox.
 
 
 ;2x Faster
-2x Faster
+2x spěšniši
 
 
 ;Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Get the best Firefox yet.
-Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Get the best Firefox yet.
+Błudnje <a href="%(url)s">mócna mašina wobhladowaka</a>? Trjechi. Mjenje čakanskeho časa za čitanje stronow? Trjechi tež. Wobstarajće sej nětko najlěpši Firefox.
 
 
 ;30% lighter than Chrome
-30% lighter than Chrome
+30% lóši hač Chrome
 
 
 ;<a href="%(url)s">Less memory usage</a> means more space for your computer to keep running smoothly. Your other programs will thank you.
-<a href="%(url)s">Less memory usage</a> means more space for your computer to keep running smoothly. Your other programs will thank you.
+<a href="%(url)s">Snadniše wužiće składa</a> wjace ruma za waš ličak a běžniše fungowanje woznjamjenja. Waše druhe programy budu so wam dźakować.
 
 
 ;Smooth browsing
-Smooth browsing
+Běžne přehladowanje
 
 
 ;Whether you’ve opened 10 or 1000, switching between tabs is faster than ever with Firefox’s new, responsive engine.
-Whether you’ve opened 10 or 1000, switching between tabs is faster than ever with Firefox’s new, responsive engine.
+Wšojedne hač sće 10 abo 1000 rajtarkow wočinił, přeńdźenje mjez rajtarkami je nětko z nowej spěšnej mašinu Firefox spěšniše hač hdy prjedy.
 
 
 # This is an alternative text for a screenshot.
 ;Firefox screenshot showing many open tabs and browser windows running simultaneously.
-Firefox screenshot showing many open tabs and browser windows running simultaneously.
+Foto wobrazowki Firefox z wjele wočinjenymi rajtarkami a woknami wobhladowaka w jenakim času.
 
 
 ;Moving browsers? We got you.
-Moving browsers? We got you.
+Přećahujeće z wobhladowakom? Žadyn problem.
 
 
 ;Instantly import your online info and favorites from any other browser.
-Instantly import your online info and favorites from any other browser.
+Importujće swoje daty online a zapołožki z druheho wobhladowaka.
 
 
 ;Bookmarks
-Bookmarks
+Zapołožki
 
 
 ;Auto Fill
-Auto Fill
+Awtomatisce wupjelnić
 
 
 ;Passwords
-Passwords
+Hesła
 
 
 ;Seriously Private Browsing
-Seriously Private Browsing
+Woprawdźity priwatny modus
 
 
 ;The most powerful private browsing mode with added tracking protection.
-The most powerful private browsing mode with added tracking protection.
+Najmócniši priwatny modus z přidatnym škitom přećiwo slědowanju.
 
 
 ;Firefox blocks online trackers while you browse and won’t remember your history after you’re done.
@@ -111,7 +111,7 @@ Firefox blocks online trackers while you browse and won’t remember your histor
 
 
 ;Tracking Protection
-Tracking Protection
+Slědowanski škit
 
 
 ;Some ads have hidden trackers that follow you online. Rude. We know. That’s why our powerful tool stops them cold.
@@ -119,7 +119,7 @@ Some ads have hidden trackers that follow you online. Rude. We know. That’s wh
 
 
 ;Faster Page Loading
-Faster Page Loading
+Spěšniše začitanje stronow
 
 
 ;By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages load up to 44%% faster</a>. Now that’s a win-win.
@@ -127,16 +127,16 @@ By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages
 
 
 ;Firefox Quantum features
-Firefox Quantum features
+Funkcije Firefox Quantum
 
 
 # VR can be spelled out as "Virtual Reality" if clearer.
 ;Gaming & VR
-Gaming & VR
+Hry a WR
 
 
 ;Library
-Library
+Biblioteka
 
 
 ;Uncomplicate screenshots. Take and share them directly from Firefox. That means no more searching for mysterious file names on your computer.
@@ -157,11 +157,11 @@ Save time! Find all your favorite content like Pocket saves, bookmarks, browsing
 
 
 ;Customization Features
-Customization Features
+Přiměrjenske funkcije
 
 
 ;Extensions
-Extensions
+Rozšěrjenja
 
 
 # App names remain in English.
@@ -174,7 +174,7 @@ Make over Firefox to suit your mood! Choose a new look from our theme categories
 
 
 ;Toolbar
-Toolbar
+Symbolowa lajsta
 
 
 ;Set up Firefox your way. Drag and drop features in and out of your toolbar for easy access.
@@ -182,7 +182,7 @@ Set up Firefox your way. Drag and drop features in and out of your toolbar for e
 
 
 ;Sync your devices
-Sync your devices
+Synchronizujće swoje graty
 
 
 ;Seamlessly access passwords, bookmarks and more. Plus, use our Send Tabs feature to instantly share open tabs between desktop, mobile and tablet.
@@ -194,7 +194,7 @@ Image of Gif shared from desktop to mobile using the Send Tab feature.
 
 
 ;Browse for good
-Browse for good
+Za dobre přehladować
 
 
 # "More than meets the eye" here means something greater, more significant than it seems to be.

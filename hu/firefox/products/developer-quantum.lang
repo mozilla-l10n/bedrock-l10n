@@ -1,5 +1,6 @@
 ## active ##
 ## ember_reference_fix ##
+## quantum-firstrun-whatsnew ##
 ## NOTE: demo page available at https://bedrock-demo-craigcook.us-west.moz.works/firefox/developer/
 
 
@@ -42,7 +43,7 @@ Firefox fejlesztői eszközök
 
 # Link points to http://firefox-dev.tools/
 ;Learn more about Firefox developer tools
-Learn more about Firefox developer tools
+Tudjon meg többet a Firefox fejlesztőeszközökről
 
 
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
@@ -64,7 +65,7 @@ Legyen a CSS rács mestere
 
 # Link points to https://mozilladevelopers.github.io/playground/
 ;Learn more about CSS Grid
-Learn more about CSS Grid
+Tudjon meg többet a CSS Gridről
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
@@ -90,7 +91,7 @@ Vizsgálja meg és finomítsa a kódját, hogy pixelpontos elrendezéseket kész
 
 # Link points to https://developer.mozilla.org/docs/Tools/Page_Inspector
 ;Learn more about Page Inspector
-Learn more about Page Inspector
+Tudjon meg többet a Vizsgálóról
 
 
 ;Console
@@ -103,7 +104,7 @@ Kövessen nyomon a CSS, a JavaScript, a biztonsági és a hálózati problémák
 
 # Link points to https://developer.mozilla.org/docs/Tools/Web_Console
 ;Learn more about Web Console
-Learn more about Web Console
+Tudjon meg többet a Webkonzolról
 
 
 ;Debugger
@@ -116,7 +117,7 @@ Hatékony JavaScript hibakereső, amely támogatja a keretrendszerét.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Debugger
 ;Learn more about JavaScript Debugger
-Learn more about JavaScript Debugger
+Tudjon meg többet JavaScript hibakeresőről
 
 
 ;Network
@@ -129,7 +130,7 @@ Kövesse figyelemmel a hálózati kéréseket, amelyek lassíthatják vagy blokk
 
 # Link points to https://developer.mozilla.org/docs/Tools/Network_Monitor
 ;Learn more about Network Monitor
-Learn more about Network Monitor
+Tudjon meg többet a Hálózatfigyelőről
 
 
 ;Storage panel
@@ -142,7 +143,7 @@ Gyorsítótárak, sütik, adatbázisok és munkamenet adatok hozzáadása, módo
 
 # Link points to https://developer.mozilla.org/docs/Tools/Storage_Inspector
 ;Learn more about Storage Panel
-Learn more about Storage Panel
+Tudjon meg többet a Tároló panelről
 
 
 ;Responsive Design Mode
@@ -155,7 +156,7 @@ Tesztelje az oldalait emulált eszközökön a böngészőjében.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Responsive_Design_View
 ;Learn more about Responsive Design View
-Learn more about Responsive Design View
+Tudjon meg többet az Alkalmazkodó megjelenés nézetről
 
 
 ;Visual Editing
@@ -168,7 +169,7 @@ Finomhangolja az animációkat, igazítást és a térkitöltéseket.
 
 # Link points to https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more
 ;Learn more about Visual Editing
-Learn more about Visual Editing
+Tudjon meg többet a Vizuális szerkesztésről
 
 
 ;Performance
@@ -181,7 +182,7 @@ Oldja meg a szűk keresztmetszeteket, egyszerűsítse a folyamatokat, és optima
 
 # Link points to https://developer.mozilla.org/docs/Tools/Performance
 ;Learn more about Performance Tools
-Learn more about Performance Tools
+Tudjon meg többet a Teljesítmény eszközökről
 
 
 ;Memory
@@ -194,7 +195,7 @@ Találja meg a memóriaszivárgásokat, és tegye lendületessé az alkalmazás�
 
 # Link points to https://developer.mozilla.org/docs/Tools/Memory
 ;Learn more about Memory Tools
-Learn more about Memory Tools
+Tudjon meg többet a Memóriaeszközökről
 
 
 ;Web Audio
@@ -207,7 +208,7 @@ Az egyetlen fejlesztőeszköz a Web Audio API vizsgálatához.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Web_Audio_Editor
 ;Learn more about Web Audio Editor
-Learn more about Web Audio Editor
+Tudjon meg többet a Web Audio szerkesztőről
 
 
 ;Scratchpad
@@ -220,7 +221,7 @@ Szerkesszen, írjon, és futtasson JavaScriptet valós időben.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Scratchpad
 ;Learn more about Scratchpad
-Learn more about Scratchpad
+Tudjon meg többet a Scratchpadről
 
 
 ;Style Editor
@@ -233,7 +234,7 @@ Szerkessze és kezelje a CSS stíluslapokat a böngészőjében.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Style_Editor
 ;Learn more about Style Editor
-Learn more about Style Editor
+Tudjon meg többet a Stílusszerkesztőről
 
 
 ;Speak up
