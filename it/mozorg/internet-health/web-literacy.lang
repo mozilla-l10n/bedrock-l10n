@@ -8,52 +8,52 @@ Alfabetizzazione Web: vitale per la salute di Internet
 
 # Used as HTML description of the page
 ;Web literacy means having the skills to read, write, and participate online. A healthy internet is yours to master.
-Web literacy means having the skills to read, write, and participate online. A healthy internet is yours to master.
+Alfabetizzazione web significa saper interpretare e scrivere testi e partecipare alla vita online. Un Internet sano è sotto il tuo pieno controllo.
 
 
 # Used as Page Title
 ;A healthy Internet means everyone has the skills to thrive
-A healthy Internet means everyone has the skills to thrive
+Un Internet sano consente a tutti di migliorarsi
 
 
 ;People everywhere should have the knowledge they need to tap into the full power of the Internet – and use it to make their lives and the world better. This means everyone needs to be able to read, write, and participate online.
-People everywhere should have the knowledge they need to tap into the full power of the Internet – and use it to make their lives and the world better. This means everyone needs to be able to read, write, and participate online.
+Gli utenti di tutto il mondo dovrebbero possedere il bagaglio di conoscenze necessario per sfruttare appieno le potenzialità di Internet e utilizzarlo per rendere la propria vita e il mondo migliori. In parole povere, tutti dovremmo essere in grado di interpretare e scrivere contenuti sul Web in modo da partecipare alla vita online.
 
 
 ;A healthy Internet is yours to master.
-A healthy Internet is yours to master.
+Un Internet sano è a tua completa disposizione.
 
 
 ;Here are three areas where we can make a difference.
-Ecco tre aree in cui possiamo fare la differenza.
+Ecco tre modi in cui possiamo fare la differenza.
 
 
 ;Making Web Literacy Meaningful
-Making Web Literacy Meaningful
+Rendendo l’alfabetizzazione web rilevante
 
 
 ;Teaching Web Literacy Effectively
-Teaching Web Literacy Effectively
+Insegnando l’alfabetizzazione web in modo efficace
 
 
 ;Cultivating Digital Citizenship
-Cultivating Digital Citizenship
+Coltivando la cittadinanza digitale
 
 
 ;Making Web literacy meaningful for everyone
-Making Web literacy meaningful for everyone
+Rendendo l’alfabetizzazione web rilevante per tutti
 
 
 ;Web literacy should mean all the skills we need to think, create, and thrive online.
-Web literacy should mean all the skills we need to think, create, and thrive online.
+L’alfabetizzazione web dovrebbe comprendere tutte le competenze necessarie per pensare, creare e esprimere se stessi online.
 
 
 ;Many people hear the term Web literacy and think it means learning to code, or <abbr>STEM</abbr> (science, technology, engineering, math) education. But Web literacy is much broader than that – it should include all the skills to be confident and competent online. To be empowered digital citizens, we all need to know how to navigate, how to share, what information to trust, and most importantly, how to expand the frontiers of our knowledge.
-Many people hear the term Web literacy and think it means learning to code, or <abbr>STEM</abbr> (science, technology, engineering, math) education. But Web literacy is much broader than that – it should include all the skills to be confident and competent online. To be empowered digital citizens, we all need to know how to navigate, how to share, what information to trust, and most importantly, how to expand the frontiers of our knowledge.
+Molte persone, sentendo il termine “alfabetizzazione web”, pensano che significhi imparare la programmazione, o avere una istruzione <abbr>STEM</abbr> (dalle iniziali in lingua inglese di scienza, tecnologia, ingegneria e matematica). Ma alfabetizzazione web ha un significato molto più ampio: include tutte le competenze necessarie per utilizzare il Web in modo sicuro e autonomo. Per essere considerati cittadini digitali autosufficienti, dobbiamo sapere come navigare, condividere informazioni, riconoscere le fonti affidabili e, soprattutto, come espandere la nostra conoscenza.
 
 
 ;82% of American middle-schoolers assessed couldn’t tell the difference between an ad labeled “sponsored content” and a real news story on a website.
-82% of American middle-schoolers assessed couldn’t tell the difference between an ad labeled “sponsored content” and a real news story on a website.
+L’82% degli studenti delle scuole medie americane non è stato in grado di riconoscere la differenza tra un contenuto sponsorizzato e una notizia vera e propria presenti su un sito web.
 
 
 ;Source: <a href="%(stanford)s">Stanford University</a>
@@ -66,7 +66,7 @@ Fonte: <a href="%(stanford)s">Stanford University</a>
 
 
 ;How you can develop meaningful Web literacy
-How you can develop meaningful Web literacy
+Come puoi sviluppare competenze web utili
 
 
 ;Learn to spot fake news
@@ -75,15 +75,15 @@ Impara a riconoscere le notizie false
 
 # ifla.org refers to The International Federation of Library Associations and Institutions. Currently the site is available in English, German and Spanish.
 ;Take a <a href="%(quiz)s">fake news quiz</a>, or <a href="%(primer)s">follow this helpful primer</a> from our friends at the <abbr title="International Federation of Library Associations and Institutions">IFLA</abbr>.
-Take a <a href="%(quiz)s">fake news quiz</a>, or <a href="%(primer)s">follow this helpful primer</a> from our friends at the <abbr title="International Federation of Library Associations and Institutions">IFLA</abbr>.
+Rispondi al nostro <a href="%(quiz)s">quiz sulle fake news</a>, o <a href="%(primer)s">consulta questo utile opuscolo</a> dei nostri amici della <abbr title="International Federation of Library Associations and Institutions">IFLA</abbr>.
 
 
 ;Tinker with X-Ray Goggles
-Tinker with X-Ray Goggles
+Smanetta con gli X-Ray Goggles
 
 
 ;See and remix the code on your favorite Web pages with <a href="%(goggles)s">this fun Mozilla tool</a>.
-See and remix the code on your favorite Web pages with <a href="%(goggles)s">this fun Mozilla tool</a>.
+Analizza e rimescola il codice sorgente delle tue pagine web preferite con <a href="%(goggles)s">questo divertente strumento di Mozilla</a>.
 
 
 ;Join the club
@@ -91,19 +91,19 @@ Unisciti al club
 
 
 ;Join or start <a href="%(clubs)s">your local Mozilla club</a> to learn the Web among your peers.
-Join or start <a href="%(clubs)s">your local Mozilla club</a> to learn the Web among your peers.
+Unisciti o crea <a href="%(clubs)s">il tuo club Mozilla</a> per imparare Internet assieme ai tuoi compagni.
 
 
 ;How Mozilla is making Web literacy meaningful for everyone
-How Mozilla is making Web literacy meaningful for everyone
+Come Mozilla sta rendendo l'alfabetizzazione web significativa per tutti
 
 
 ;Defining the term
-Defining the term
+Definendone il significato
 
 
 ;Collaborating with leaders in the field to create Mozilla’s <a href="%(map)s">Web Literacy Map</a> that provides a clear, practical definition of web literacy.
-Collaborating with leaders in the field to create Mozilla’s <a href="%(map)s">Web Literacy Map</a> that provides a clear, practical definition of web literacy.
+Collaborando con i leader del settore per creare la <a href="%(map)s">una pianta dell’alfabetizzazione Web Mozilla</a> che fornisca una chiara e pratica definizione di tutto ciò che è alfabetizzazione web.
 
 
 ;Advocating for education policy
@@ -111,15 +111,15 @@ Advocating for education policy
 
 
 ;Working with educations and policymakers to help make Web literacy <a href="%(education)s">as foundational to education as reading and math</a>.
-Working with educations and policymakers to help make Web literacy <a href="%(education)s">as foundational to education as reading and math</a>.
+-Lavorando con le scuole e i responsabili dei programmi didattici per rendere l’alfabetizzazione web una materia di studio <a href="%(education)s">basilare al pari di italiano e matematica</a>.
 
 
 ;Teaching Web literacy effectively
-Teaching Web literacy effectively
+Insegnare l'alfabetizzazione Web in modo efficace
 
 
 ;Web literacy should be as foundational to education as reading, writing, and math – and it should be taught everywhere learning happens.
-Web literacy should be as foundational to education as reading, writing, and math – and it should be taught everywhere learning happens.
+L’alfabetizzazione Web dovrebbe essere fondamentale per l’istruzione al pari della lettura, della scrittura e della matematica – e dovrebbe essere insegnata in ogni corso di studi.
 
 
 ;Learning Web literacy is like any other essential skill: we learn best by doing. And in the digital world, learning happens not just with teachers in the classroom, but everywhere there’s an Internet connection. We need all kinds of educators to have the knowledge and resources to teach Web literacy the way kids learn it best. And we need to make sure every student grows up not just on the Web, but fluent in the way it works.
@@ -135,7 +135,7 @@ Fonte: <a href="%(itu)s">ITU</a>
 
 
 ;How you can teach Web literacy
-How you can teach Web literacy
+In che modo puoi insegnare l’alfabetizzazione web
 
 
 ;Become a Web teacher
@@ -159,7 +159,7 @@ How Mozilla is teaching Web literacy
 
 
 ;Supporting teachers
-Supporting teachers
+Sostenendo gli insegnanti
 
 
 ;Giving educators of all kinds the <a href="%(activities)s">skills and tools</a> they need to teach Web literacy, including knowledge-sharing efforts like <a href="%(hive)s">Hive Learning Networks</a>.
@@ -167,7 +167,7 @@ Giving educators of all kinds the <a href="%(activities)s">skills and tools</a> 
 
 
 ;Supporting youth
-Supporting youth
+Sostenendo i giovani
 
 
 ;Creating opportunities and building communities to support youth accessing the Web and <a href="%(learning)s">learning how to use it</a>, like our <a href="%(un_women)s">partnership with UN Women</a> to teach digital skills to girls and women in Africa.
@@ -175,7 +175,7 @@ Creating opportunities and building communities to support youth accessing the W
 
 
 ;Cultivating digital citizenship
-Cultivating digital citizenship
+Coltivando la cittadinanza digitale
 
 
 ;A fundamental part of Web literacy is understanding the forces that shape our lives online: the companies building our experiences, the politicians crafting and supporting government policies, and the power we hold as digital citizens to create the Internet we want. Having a say in our shared future on the Web means deciding which values are most important to us, and standing up for those values when they are threatened.
@@ -187,7 +187,7 @@ I cittadini indiani hanno inviato oltre 750.000 email all'Autorità di Telecomun
 
 
 ;Source: <a href="%(motherboard)s">Motherboard</a>
-Source: <a href="%(motherboard)s">Motherboard</a>
+Fonte: <a href="%(motherboard)s">Scheda madre</a>
 
 
 # This is used as a decorative element in a callout box. Keep it short.
@@ -196,7 +196,7 @@ Source: <a href="%(motherboard)s">Motherboard</a>
 
 
 ;How you can cultivate your digital citizenship
-How you can cultivate your digital citizenship
+Come puoi coltivare la tua cittadinanza digitale
 
 
 ;Get informed
