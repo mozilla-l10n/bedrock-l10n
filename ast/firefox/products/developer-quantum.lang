@@ -1,3 +1,6 @@
+## active ##
+## ember_reference_fix ##
+## quantum-firstrun-whatsnew ##
 ## NOTE: demo page available at https://bedrock-demo-craigcook.us-west.moz.works/firefox/developer/
 
 
@@ -27,7 +30,7 @@ Un motor CSS de próxima xeneración
 
 
 ;Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
-Volvió facese Firefox dende l'entamu pa ser más rápidu y poderosu qu'enxamás. Esto inclúi un motor CSS nuevu que tien lo cabero y cuerre que se cría.
+Volvimos facer Firefox dende l'entamu pa que seya más rápidu y potente qu'enxamás. Esto inclúi un motor CSS nuevu que tien lo cabero y cuerre que se cría.
 
 
 ;New Tools
@@ -44,12 +47,12 @@ Deprendi más tocante a les ferramientes de desendolcu de Firefox
 
 
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
-The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
+Les DevTools nueves de Firefox son potentes, flexibles, hackeables y les meyores pa too. Esto inclúi el meyor depurador de JavaScript de la so clas que ye aptu pa múltiples restoladores y ta fechu en React y Redux.
 
 
 # String is obsolete. Do not remove.
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
-Les DevTools nueves de Firefox son poderoses, flexibles, hackeables y les meyores. Esto inclúi el meyor depurador de JavaScript que ye aptu pa múltiples restoladores y ta fechu en React y Ember.
+Les DevTools nueves de Firefox son potentes, flexibles, hackeables y les meyores pa too. Esto inclúi el meyor depurador de JavaScript de la so clas que ye aptu pa múltiples restoladores y ta fechu en React y Ember.
 
 
 ;Innovative Features
@@ -109,7 +112,7 @@ Depurador
 
 
 ;Powerful JavaScript debugger with support for your framework.
-Depurador poderosu de JavaScript con sofitu pa la to infraestructura.
+Depurador potente de JavaScript con sofitu pa la to infraestructura.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Debugger
@@ -127,7 +130,7 @@ Monitoriza les solicitúes de rede que puean volver lentu o bloquiar el to sitiu
 
 # Link points to https://developer.mozilla.org/docs/Tools/Network_Monitor
 ;Learn more about Network Monitor
-Learn more about Network Monitor
+Deprendi más tocante al monitor de rede
 
 
 ;Storage panel
@@ -140,7 +143,7 @@ Amiesta, modifica y desanicia la caché, cookies, bases de datos y datos de sesi
 
 # Link points to https://developer.mozilla.org/docs/Tools/Storage_Inspector
 ;Learn more about Storage Panel
-Learn more about Storage Panel
+Deprendi más tocante al panel d'almacenamientu
 
 
 ;Responsive Design Mode
@@ -153,7 +156,7 @@ Prueba sitios en preseos emulaos nel to restolador.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Responsive_Design_View
 ;Learn more about Responsive Design View
-Learn more about Responsive Design View
+Deprendi más tocante a la vista de diseñu responsivu
 
 
 ;Visual Editing
@@ -166,7 +169,7 @@ Axustes finu d'animaciones, alliniamientu y rellenu.
 
 # Link points to https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more
 ;Learn more about Visual Editing
-Learn more about Visual Editing
+Deprendi más tocante a la edición visual
 
 
 ;Performance
@@ -179,7 +182,7 @@ Rindimientu al máximu, procesos rápidos y recursos optimizaos.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Performance
 ;Learn more about Performance Tools
-Learn more about Performance Tools
+Deprendi más tocante a les ferramientes de rindimientu
 
 
 ;Memory
@@ -192,7 +195,7 @@ Alcuenta escapes de memoria y fai más rápida la to aplicación.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Memory
 ;Learn more about Memory Tools
-Learn more about Memory Tools
+Deprendi más tocante a les ferramientes de memoria
 
 
 ;Web Audio
@@ -205,7 +208,7 @@ La única ferramienta de desendolcu pa inspeicionar l'API d'audiu web.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Web_Audio_Editor
 ;Learn more about Web Audio Editor
-Learn more about Web Audio Editor
+Deprendi más tocante al editor web d'audiu
 
 
 ;Scratchpad
@@ -218,7 +221,7 @@ Edita, escribi y executa JavaScript en tiempu real.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Scratchpad
 ;Learn more about Scratchpad
-Learn more about Scratchpad
+Deprendi más tocante al tableru de pruebes
 
 
 ;Style Editor
@@ -231,7 +234,7 @@ Edita y xestiona toles tos fueyes d'estilu CSS nel to restolador.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Style_Editor
 ;Learn more about Style Editor
-Learn more about Style Editor
+Deprendi más tocante al editor d'estilos
 
 
 ;Speak up
@@ -266,15 +269,15 @@ Baxa'l restolador de Firefox fechu pa desendolcadores
 
 # First run page at https://www.mozilla.org/firefox/57.0a2/firstrun/
 ;Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
-Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
+Firefox Developer Edition ye perrápidu qu'ufre les carauterístiques caberes pa desendolcadores como'l sofitu pa CSS Grid y el framework
 
 
 ;Welcome to the all-new Firefox Quantum: Developer Edition
-Welcome to the all-new Firefox Quantum: Developer Edition
+Afáyate nel Firefox Quantum: Developer Edition nuevu
 
 
 ;Firefox has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
-Firefox has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
+Volvimos facer Firefox dende l'entamu pa que seya más rápidu, elegante y potente qu'enxamás.
 
 
 ;Firefox Devtools
@@ -282,16 +285,16 @@ Firefox DevTools
 
 
 ;Next-Gen CSS Engine
-Next-Gen CSS Engine
+Motor CSS de la proxima xeneración
 
 
 # line break for visual formatting
 ;Get developer news, tricks and resources <br /> sent straight to your inbox.
-Get developer news, tricks and resources <br /> sent straight to your inbox.
+Consigui anuncies, trucos y recursos pa desendolcadores <br /> direutamente na to bandexa d'entrada.
 
 
 ;A Next-Generation CSS Engine (hint: it’s fast)
-A Next-Generation CSS Engine (hint: it’s fast)
+Un motor CSS de la proxima xeneración (pista: ye rápidu)
 
 
 ;Firefox Quantum includes a new CSS engine, written in Rust, that has state-of-the-art innovations and is blazingly fast.
@@ -304,14 +307,14 @@ Firefox Quantum inclúi un motor CSS nuevu, escritu en Rust que tien les caberes
 
 
 ;Firefox Nightly receives daily updates and allows you to access features months before they go mainstream.
-Firefox Nightly receives daily updates and allows you to access features months before they go mainstream.
+Firefox Nightly recibe anovamientos caldía y permítete acceder a carauterístiques meses enantes de que s'espublicen como estables.
 
 
 ;Congrats. You now have Firefox Quantum: Developer Edition.
-Congrats. You now have Firefox Quantum: Developer Edition.
+Norabona. Agora tienes Firefox Quantum: Developer Edition.
 
 
 ;This isn’t just an update. This is Firefox Quantum: A brand new Firefox that has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
-This isn’t just an update. This is Firefox Quantum: A brand new Firefox that has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
+Esto nun ye namái un anovamientu, esto ye Firefox Quantum. Un Firefox nuevu que volvió facese dende l'entamu pa que seya más rápidu, elegante y potente qu'enxamás.
 
 
