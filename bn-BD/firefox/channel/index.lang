@@ -1,5 +1,7 @@
 ## active ##
 ## android_nightly_copy ##
+## firefox_channel_bug1387466 ##
+## nightly_description_bug1375100 ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
@@ -120,7 +122,7 @@ Developer Edition, Beta এবং Nightly বিল্ডসমূহে, ডে
 
 
 ;All Languages and Platforms
-All Languages and Platforms
+সকল ভাষা এবং মাধ্যম
 
 
 # String is obsolete. Do not remove.
@@ -141,7 +143,7 @@ Android এর নতুন ফিচারগুলো প্রাথমিক
 
 
 ;Get a sneak peek at our next generation web browser, and help us make it the best browser it can be: try Firefox Nightly.
-Get a sneak peek at our next generation web browser, and help us make it the best browser it can be: try Firefox Nightly.
+আমাদের পরবর্তী প্রজন্মের ওয়েব ব্রাউজারে উঁকি দিন এবং আমাদেরকে সাহায্য করুন এটাকে সেরা ব্রাউজার বানাতেঃ Firefox Nightly ব্যাবহার করে দেখুন।
 
 
 # String is obsolete. Do NOT remove.
