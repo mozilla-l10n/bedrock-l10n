@@ -1,7 +1,9 @@
 ## active ##
 ## android_nightly_copy ##
+## firefox_channel_bug1387466 ##
 ## firefox_title_meta_bug1345338 ##
 ## firefox_title_meta_bug1357373 ##
+## nightly_description_bug1375100 ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
@@ -122,7 +124,7 @@ Provoni veçori që janë gati për t’u hedhur në qarkullim, me montimin më 
 
 
 ;All Languages and Platforms
-All Languages and Platforms
+Krejt Gjuhët dhe Platformat
 
 
 # String is obsolete. Do not remove.
@@ -143,7 +145,7 @@ Provojini veçoritë e reja për Android që në fazën e tyre të hershme. Por 
 
 
 ;Get a sneak peek at our next generation web browser, and help us make it the best browser it can be: try Firefox Nightly.
-Get a sneak peek at our next generation web browser, and help us make it the best browser it can be: try Firefox Nightly.
+Hidhini një sy të shpejtë shfletuesit tonë të brezit të ardhshëm, dhe ndihmonani ta bëjmë shfletuesin më të mirë që mund të ketë: provoni Firefox Nightly.
 
 
 # String is obsolete. Do NOT remove.

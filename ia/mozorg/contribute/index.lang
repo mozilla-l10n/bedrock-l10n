@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo server available at https://www-dev.allizom.org/contribute
 
 
@@ -64,21 +65,21 @@ Aggrega te al communitate global de excambiatores de jocos.
 
 # this br is for formatting, omit or reposition as needed
 ;Volunteer as much as you like. Or as little.<br> It’s totally up to you.
-Volunteer as much as you like. Or as little.<br> It’s totally up to you.
+Voluntario quanto tu ama. O le minimo.<br> Elige lo solo tu.
 
 
 # this br is for formatting, omit or reposition as needed
 ;Share your skills and pick up<br> a few new ones along the way.
-Share your skills and pick up<br> a few new ones along the way.
+Comparti tu habilitates e acquire<br> poc unos nove trans le via.
 
 
 ;Volunteering with Mozilla&hellip;
-Volunteering with Mozilla&hellip;
+Voluntarios con Mozilla&hellip;
 
 
 # This paragraph follows the headline, "Volunteering with Mozilla...", so the first sentence continues from that fragment. The line breaks are for formatting.
 ;is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
-is about more than lending a hand. It’s about learning, collaborating and sharing your skills with a global community of Mozillians — coders, organizers, activists and more — who help shape the Web every day.
+es plus que prestar un mano. Significa apprender, collaborar e compartir tu habilitates con un communitate global de Mozillianos — programmatores, organisatores, activistas e plus — qui adjuta a modellar le Web cata die.
 
 
 ;See our community in action
@@ -122,15 +123,15 @@ Quere participar? Ecce como.
 
 
 ;Choose what interests you and tell us how you’d like to help
-Choose what interests you and tell us how you’d like to help
+Elige lo que te interessa e indica nos como tu desira adjutar
 
 
 ;Stand by for an email that will connect you to the Mozilla community
-Stand by for an email that will connect you to the Mozilla community
+Attende pro un e-posta que te connectera al communitate de Mozilla
 
 
 ;Create your Mozillians account and share your contributions with the world
-Create your Mozillians account and share your contributions with the world
+Crea tu conto de Mozillianos e comparti tu contributiones con le mundo
 
 
 ;Get started
@@ -142,7 +143,7 @@ Non es tu ancora preste?
 
 
 ;Here are a few other ways you can support Mozilla right now.
-Here are a few other ways you can support Mozilla right now.
+Ecce poc altere manieras proque tu pote subito supportar Mozilla.
 
 
 ;Donate to Mozilla
@@ -229,7 +230,7 @@ Lege altere historias re le mozillianos
 
 
 ;Discover even more stories on Twitter with <a href="%(link_hashtag)s">#IAmAMozillian</a>
-Discover even more stories on Twitter with <a href="%(link_hashtag)s">#IAmAMozillian</a>
+Discoperi mesmo altere historias sur Twitter con <a href="%(link_hashtag)s">#IAmAMozillian</a>
 
 
 ;More coming soon
@@ -275,7 +276,7 @@ Altere informationes re le tests
 
 
 ;Help make the Mozilla products you use — and love — even better.
-Help make the Mozilla products you use — and love — even better.
+Adjuta a render le productos de Mozilla que tu usa — e ama — mesmo melior.
 
 
 ;Writing
@@ -287,7 +288,7 @@ Altere informationes re le scriber
 
 
 ;Lend your voice to Mozilla — from blogging and social media to providing technical documents for users and developers.
-Lend your voice to Mozilla — from blogging and social media to providing technical documents for users and developers.
+Presta tu voce a Mozilla — ab le blog e social medios a per le production de documentos technic pro usatores e disveloppatores.
 
 
 ;Teaching
@@ -299,7 +300,7 @@ Altere informationes re le inseniamento
 
 
 ;Share your skills with a community that’s eager to learn. Take advantage of our free tools, teaching resources and events.
-Share your skills with a community that’s eager to learn. Take advantage of our free tools, teaching resources and events.
+Comparti tu habilitates con un communitate que es alacre a apprender. Prende avantage del nostre libere applicationes, inseniamentos ressources e eventos.
 
 
 ;Helping
@@ -311,7 +312,7 @@ Altere informationes re le auxilio
 
 
 ;Provide support to users who need it and help everyone get the most out of their Mozilla products.
-Provide support to users who need it and help everyone get the most out of their Mozilla products.
+Forni supporto al usatores qui lo require e adjuta totes a obtener plus de lor productos Mozilla.
 
 
 ;Translating
@@ -323,7 +324,7 @@ Altere informationes re le traductiones
 
 
 ;Help make Mozilla stuff available in other languages. Translate everything from newsletters and websites to copy for Firefox and Firefox OS.
-Help make Mozilla stuff available in other languages. Translate everything from newsletters and websites to copy for Firefox and Firefox OS.
+Adjutar a rende le ressources de Mozilla disponibile in altere linguas. Rende toto ab le litteras de novas al sitos web, usque a Firefox e Firefox OS.
 
 
 ;Activism
@@ -335,7 +336,7 @@ Altere informationes re le activismo
 
 
 ;Get involved with our opportunities to support freedom, security and privacy on the open Web.
-Get involved with our opportunities to support freedom, security and privacy on the open Web.
+Collabora per nostre opportunitates a supportar libertate, securitate e confidentialitate del Web aperte.
 
 
 ;I don’t know
@@ -347,7 +348,7 @@ Altero re como tu pote contribuer
 
 
 ;Not sure how you want to help? No problem. We can find the appropriate contribution activity for you.
-Not sure how you want to help? No problem. We can find the appropriate contribution activity for you.
+Non es tu secur re como tu desira adjutar? Nulle problema. Nos pote trovar le activitate contributive appropriate pro te.
 
 
 ;Now tell us a little about yourself:
@@ -371,7 +372,7 @@ eliger
 
 
 ;Why do you want to be a Mozilla volunteer?
-Why do you want to be a Mozilla volunteer?
+Proque desira tu ser un voluntario de Mozilla?
 
 
 ;(Optional)
@@ -379,7 +380,7 @@ Why do you want to be a Mozilla volunteer?
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
-I’m okay with Mozilla handling my info as explained in <a href="%(privacy)s">this Privacy Policy</a>
+Io consenti con le tractamento per Mozilla de mi informationes como explicate in <a href="%(privacy)s">iste Politica</a> de confidentialitate
 
 
 ;Start contributing
@@ -387,7 +388,7 @@ Initia a collaborar
 
 
 ;Sign me up for community updates
-Sign me up for community updates
+Abona me al novas del communitate
 
 
 ;(English)
@@ -483,19 +484,19 @@ Documentation technic pro applicationes HTML5
 
 
 ;Teach the Web (Webmaker)
-Teach the Web (Webmaker)
+Inseniar le Web (Webmaker)
 
 
 ;Open News fellowships
-Open News fellowships
+Novas aperte de bursas
 
 
 ;Hive - Community networks of educators/mentors
-Hive - Community networks of educators/mentors
+Hive - Retes communitari de formatores e mentores
 
 
 ;Open Web science research
-Open Web science research
+Recerca scientific de Web aperte
 
 
 ;Community Events
@@ -507,7 +508,7 @@ Trova eventos
 
 
 ;By city, country, or event:
-By city, country, or event:
+Per citate, pais, o evento:
 
 
 ;By date:
@@ -584,7 +585,7 @@ Nos es enthusiastic que tu es interessate al voluntariato e nos es anxie que tu 
 
 
 ;Keep an eye on your inbox for an important message from us.
-Keep an eye on your inbox for an important message from us.
+Mantener un oculo sur tu cassa de entrata pro un importante message ab nos.
 
 
 ;Hello!
@@ -596,12 +597,12 @@ Tu nomine
 
 
 ;In the meantime&hellip;
-In the meantime&hellip;
+Intertanto&hellip;
 
 
 # Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
 ;You can help by picking an easy task that only takes a few minutes &mdash; or take on a bigger challenge.
-You can help by picking an easy task that only takes a few minutes &mdash; or take on a bigger challenge.
+Tu pote adjutar per relevar un labor facile que prende solo poc minutas &mdash; o acceptar un defia major.
 
 
 # Displayed in the "Thank You!" page after the email is sent for coding, testing, helping, translating.
@@ -611,7 +612,7 @@ Elige un labor ora
 
 # Displayed in the "Thank You!" page after the email is sent for other categories.
 ;Help us tell the world how awesome Firefox is and about all the important work Mozilla does every day.
-Help us tell the world how awesome Firefox is and about all the important work Mozilla does every day.
+Adjuta nos a indicar al mundo como es grandiose Firefox e tote le importante labor que Mozilla face cata die.
 
 
 # Displayed in the "Thank You!" page after the email is sent for other categories.
@@ -620,19 +621,19 @@ Conjunge te ora
 
 
 ;You can create your Mozillians account now to connect with fellow Mozillians.
-You can create your Mozillians account now to connect with fellow Mozillians.
+Tu pote crear subito tu conto de Mozillianos pro te connecter con altere Mozillianos.
 
 
 ;Yes, create my Mozillians account
-Yes, create my Mozillians account
+Si, crea mi conto de Mozillianos
 
 
 ;You will be asked to sign in before proceeding
-You will be asked to sign in before proceeding
+Tu essera demandate de connecter te ante que proceder
 
 
 ;No thanks, I’ll just wait for the email
-No thanks, I’ll just wait for the email
+No gratias, Io justo attendera le e-posta
 
 
 # The following strings are used in the contribute form on production (https://www.mozilla.org/contribute/signup/), not in the one available on stage
@@ -646,7 +647,7 @@ Adjutar le usatores
 
 
 ;Testing and QA
-Testing and QA
+Provas e controlo de qualitate
 
 
 ;Marketing
@@ -690,7 +691,7 @@ Holla, io es interessate a...
 
 
 ;Send us a note and we can get you started right away.
-Send us a note and we can get you started right away.
+Mitte nos un nota e nos te facera initiar tosto.
 
 
 ;I have a suggestion for Firefox
@@ -706,7 +707,7 @@ Per favor insere un valide adresse de e-posta.
 
 
 ;You must agree to the privacy policy.
-You must agree to the privacy policy.
+Tu debe convenir al regulas de confidentialitate.
 
 
 ;Please select an area of interest.
@@ -714,6 +715,6 @@ Per favor elige un area de interesse.
 
 
 ;Please tell us more about your interests.
-Please tell us more about your interests.
+Per favor dice nos plus re tu interesses.
 
 

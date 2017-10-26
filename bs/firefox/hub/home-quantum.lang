@@ -54,147 +54,147 @@ Slika redizajniranog Firefoxovog novog taba.
 
 
 ;Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Get the best Firefox yet.
-Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Get the best Firefox yet.
+Nevjerovatno <a href="%(url)s">moćan pretraživač</a>? U redu. Manje vremena za učitavanje stranica? U redu. Preuzmite najbolji Firefox do sad.
 
 
 ;30% lighter than Chrome
-30% lighter than Chrome
+30% lakši od Chrome-a
 
 
 ;<a href="%(url)s">Less memory usage</a> means more space for your computer to keep running smoothly. Your other programs will thank you.
-<a href="%(url)s">Less memory usage</a> means more space for your computer to keep running smoothly. Your other programs will thank you.
+<a href="%(url)s">Manja upotreba memorije</a> znači više prostora za vaš računar da radi bez kočenja. Vaši ostali programi će vam biti zahvalni.
 
 
 ;Smooth browsing
-Smooth browsing
+Glatko pretraživanje
 
 
 ;Whether you’ve opened 10 or 1000, switching between tabs is faster than ever with Firefox’s new, responsive engine.
-Whether you’ve opened 10 or 1000, switching between tabs is faster than ever with Firefox’s new, responsive engine.
+Šta god da ste otvorili 10 ili 1000, prebacivanje između tabova je brže nego ikad s Firefoxovim novim, odzivnim mehanizmom.
 
 
 # This is an alternative text for a screenshot.
 ;Firefox screenshot showing many open tabs and browser windows running simultaneously.
-Firefox screenshot showing many open tabs and browser windows running simultaneously.
+Snimak ekrana koji prikazuje istovremeno mnogo tabova i prozora pretraživača.
 
 
 ;Moving browsers? We got you.
-Moving browsers? We got you.
+Mijenjate pretraživač? Ništa lakše.
 
 
 ;Instantly import your online info and favorites from any other browser.
-Instantly import your online info and favorites from any other browser.
+Jednostavno uvozite svoje podatke iz bilo kojeg drugog pretraživača sa samo nekoliko klikova.
 
 
 ;Bookmarks
-Bookmarks
+Zabilješke
 
 
 ;Auto Fill
-Auto Fill
+Automatsko popunjavanje
 
 
 ;Passwords
-Passwords
+Lozinke
 
 
 ;Seriously Private Browsing
-Seriously Private Browsing
+Ozbiljno privatno pretraživanje
 
 
 ;The most powerful private browsing mode with added tracking protection.
-The most powerful private browsing mode with added tracking protection.
+Najsnažniji način privatnog pretraživanja sa dodanom zaštitom od praćenja.
 
 
 ;Firefox blocks online trackers while you browse and won’t remember your history after you’re done.
-Firefox blocks online trackers while you browse and won’t remember your history after you’re done.
+Firefox odbija tragove weba tokom pretraživanja, ali kada završite, Firefox se ne sjeća vaše historije.
 
 
 ;Tracking Protection
-Tracking Protection
+Zaštita od praćenja
 
 
 ;Some ads have hidden trackers that follow you online. Rude. We know. That’s why our powerful tool stops them cold.
-Some ads have hidden trackers that follow you online. Rude. We know. That’s why our powerful tool stops them cold.
+Neki oglasi sadrže skrivene funkcije praćenja koje vas prate na internetu. To nije lepo. Znamo. Zato ih naš alat ih zaustavlja.
 
 
 ;Faster Page Loading
-Faster Page Loading
+Brže učitavanje stranica
 
 
 ;By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages load up to 44%% faster</a>. Now that’s a win-win.
-By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages load up to 44%% faster</a>. Now that’s a win-win.
+Blokiranjem nekih reklama i skripti koje usporavaju pretraživanje, <a href="%(url)s">stranice se učitavaju do 44%% brže</a>. To je dvostruki dobitak.
 
 
 ;Firefox Quantum features
-Firefox Quantum features
+Firefox Quantum mogućnosti
 
 
 # VR can be spelled out as "Virtual Reality" if clearer.
 ;Gaming & VR
-Gaming & VR
+Igre i VR
 
 
 ;Library
-Library
+Biblioteka
 
 
 ;Uncomplicate screenshots. Take and share them directly from Firefox. That means no more searching for mysterious file names on your computer.
-Uncomplicate screenshots. Take and share them directly from Firefox. That means no more searching for mysterious file names on your computer.
+Pojednostavljene snimke ekrana. Snimajte i dijelite ih direktno iz Firefoxa. To znači da više ne trebate tražiti misteriozne datoteke na računaru.
 
 
 ;Built right into the toolbar, it’s the ultimate save-for-later feature. View your articles, videos and pages across any device.
-Built right into the toolbar, it’s the ultimate save-for-later feature. View your articles, videos and pages across any device.
+Ugrađen direktno u alatnu traku, to je najbolja funkcija za štednju za kasnije. Pristupite svojim člancima, video zapisima i stranicama sa bilo kog uređaja.
 
 
 # WASM is short for WebAssembly
 ;Engineered for next-gen gaming, Firefox has built-in support for WASM and WebVR. No additional installation needed!
-Engineered for next-gen gaming, Firefox has built-in support for WASM and WebVR. No additional installation needed!
+Razvijen za nove generacije igara, Firefox ima izvornu podršku za WASM i WebVR. Nema potrebe instalirati ništa drugo!
 
 
 ;Save time! Find all your favorite content like Pocket saves, bookmarks, browsing history, screenshots and downloads in one spot.
-Save time! Find all your favorite content like Pocket saves, bookmarks, browsing history, screenshots and downloads in one spot.
+Uštedite vrijeme! Pronađite sve svoje omiljene sadržaje kao što su Pocket zapisi, zabilješke, historija pretraživanja, snimci ekrana i preuzimanja na jednom mjestu.
 
 
 ;Customization Features
-Customization Features
+Mogućnosti prilagođavanja
 
 
 ;Extensions
-Extensions
+Proširenja
 
 
 # App names remain in English.
 ;Customize Firefox with thousands of extensions like LastPass, uBlock Origin, Evernote and more.
-Customize Firefox with thousands of extensions like LastPass, uBlock Origin, Evernote and more.
+Možete Firefox prilagoditi hiljadama proširenja, kao što su LastPass, uBlock Origin, Evernote i još mnogo toga.
 
 
 ;Make over Firefox to suit your mood! Choose a new look from our theme categories or create your own.
-Make over Firefox to suit your mood! Choose a new look from our theme categories or create your own.
+Podesite Firefox prema raspoloženju. Preuzmite novi izgled iz kategorija tema ili kreirajte svoj.
 
 
 ;Toolbar
-Toolbar
+Alatna traka
 
 
 ;Set up Firefox your way. Drag and drop features in and out of your toolbar for easy access.
-Set up Firefox your way. Drag and drop features in and out of your toolbar for easy access.
+Podesite Firefox po želji. Povucite opcije na ili iz trake sa alatkama za jednostavan pristup.
 
 
 ;Sync your devices
-Sync your devices
+Sinhronizujte vaše uređaje
 
 
 ;Seamlessly access passwords, bookmarks and more. Plus, use our Send Tabs feature to instantly share open tabs between desktop, mobile and tablet.
-Seamlessly access passwords, bookmarks and more. Plus, use our Send Tabs feature to instantly share open tabs between desktop, mobile and tablet.
+Jednostavno pristupajte lozinkama, zabilješkama i drugim funkcijama. Plus, koristite našu funkciju Send Tabs da biste odmah dijelili otvorene tabove između računara, telefona i tableta.
 
 
 ;Image of Gif shared from desktop to mobile using the Send Tab feature.
-Image of Gif shared from desktop to mobile using the Send Tab feature.
+Slika dijeljenog Gif-a s računara na mobilni uređaj koristeći funkciju Send Tab.
 
 
 ;Browse for good
-Browse for good
+Pretražujte za dobro
 
 
 # "More than meets the eye" here means something greater, more significant than it seems to be.
