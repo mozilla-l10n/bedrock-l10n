@@ -12,21 +12,21 @@ Porta con te tu marcapaginas, schedas, o contrasignos de Firefox ubique tu va co
 
 
 ;Browse boldly. Connect your devices.
-Browse boldly. Connect your devices.
+Explora tranquille. Connecte tu apparatos.
 
 
 ;Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
-Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
+Adde Firefox sur tu apparatos personal pro obtener tu marca-paginas, schedas aperte e contrasignos ubicunque. Obtene accesso secur a toto lo que tu necessita quando tu accede a tu Conto Firefox.
 
 
 # String is obsolete. Do NOT remove.
 ;Ready, Set, Sync
-Ready, Set, Sync
+A vostre marcas, preste, sync
 
 
 # String is obsolete. Do NOT remove.
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
-You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
+Tu es registrate e preste a acceder <em>tu</em> Firefox ubicunque, sempre.
 
 
 ;Your web, how you like it, everywhere
@@ -34,17 +34,17 @@ Tu web, como te place, ubicunque
 
 
 ;Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
-Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
+Authentica te a tu Conto Firefox pro acceder protegite a tu contrasignos, schedas aperte e marca-paginas. Adde Firefox a tu apparatos personal e connecte te con securitate a tu experientia de exploration in omne loco. Mantene toto configurate como tu lo desira, ubique tu va.
 
 
 # This expression was popular on ad billboard about real estate, suggesting if one bought the house here, he or she didn't have to fight the traffic further.
 # Here it emphasizes Sync's feature of seemless integration between desktop and mobile. Feel free to come up with a different text (we're waiting for an alternative headline from copywriters).
 ;If you lived here you’d be home by now
-If you lived here you’d be home by now
+Si tu vive ci, tu es ja como a tu casa
 
 
 ;Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
-Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
+Discarga o aperi Firefox pro comenciar con securitate a connecter te a tu experientia de exploration sur tote tu apparatos personal. Authentica te a tu Conto Firefox pro acceder protegite a tu contrasignos, schedas aperte e marca-paginas. Mantene toto configurate como tu lo desira, ubique tu va.
 
 
 # String is obsolete. Do NOT remove.
@@ -123,7 +123,7 @@ Clicca “<strong>Avantiar</strong>” pro obtener un e-posta de confirmation.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+Post qua tu controla tu e-posta e clicca le ligamine de verification, tu essera tote configurate! Firefox automaticamente synchronisara in le fundo de iste momento in pois.
 
 
 ;Get more detailed instructions.
@@ -157,17 +157,17 @@ Tocca <strong>Sync</strong> e pois <strong>Initiar</strong>.
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-The <strong>Create a Firefox Account page</strong> will open in a new tab.
+Le pagina <strong>Crear un conto Firefox</strong> se aperira in un nove scheda.
 
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-Fill out the form and click <strong>Next</strong>.
+Plena le modulo e clicca <strong>Avantiar</strong>.
 
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+Post qua tu controla tu e-posta e clicca le ligamine de verification, tu essera preste a ir! Non oblidar de connecter tote tu altere dispositivos pro obtener le plus per Sync.
 
 
 ;Sync a little. Sync a lot.
@@ -175,11 +175,11 @@ Un tocco de Sync. Un mar de Sync!
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
+Tu elige qual partes de tu Firefox tu desira synchronisar e ubi tu desira los synchronisar. Prende con te tu schedas aperte sur tu displaciamento quotidian. Acceder tu marca-paginas al labor. Toto, sempre, ubique.
 
 
 ;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
-Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
+Desira tu visitar le schedas aperte de tu computator ab un altere apparato? Acceder tu chronologia de navigation al volo? Mantener tu contrasignos con te? Ora tu pote.
 
 
 ;Here’s what you can sync:
@@ -208,7 +208,7 @@ Personal {ok}
 
 # A rabbit hole is a long and winding exploratory path with many connections. The Web is essentially designed to function as a rabbit hole because of the way hyperlinks work.
 ;That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
-That shopping rabbit hole you started on your laptop this morning? Pick up where you left off on your phone tonight. That dinner recipe you discovered at lunchtime? Open it on your kitchen tablet, instantly. Connect your personal devices, securely.
+Iste mane tu te perdeva su tu portabile in un sito de shopping? Reprende hodie vespere ubi tu lassava, sur tu telephono. Ille cena recipe lo que tu discoperiva al tempore del lunch? Aperi lo sur tu tabletta de cocina, instantaneemente. Connecte tu apparatos personal, con securitate.
 
 
 # String is obsolete. Do NOT remove.
@@ -218,7 +218,7 @@ A casa
 
 # String is obsolete. Do NOT remove.
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+Move ab tu scriptorio al lecto de reposo sin saltar un pulsata. Accede tu schedas aperte sur tu smartphono, o mantene tu marca-paginas de navigation justo sur tu tabletta.
 
 
 ;Secure
@@ -226,7 +226,7 @@ Secur
 
 
 ;Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
-Your Firefox Account is the doorway to all your web stuff—we help you keep it safe. Your data is always in your control, unreadable by anyone else, and encrypted with your account password. We protect it and hand you the key.
+Tu Conto Firefox es le porta a tote tu ressources del Web—nos te adjuta a lo mantener secur. Tu datos es sempre in tu controlo, non legibile per alteres, e cifrate per le contrasigno de tu conto. Nos los protege e te da le clave.
 
 
 # String is obsolete. Do NOT remove.
@@ -236,7 +236,7 @@ Al labor
 
 # String is obsolete. Do NOT remove.
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
-Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
+Resta connexe a tote nostre importante informationes. Sync le contrasignos e marcapaginas que tu besonia acceder a ulle tempore. Justo como Firefox illo es secur, al maximo.
 
 
 ;Accessible
@@ -244,7 +244,7 @@ Accessibile
 
 
 ;Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
-Catch up on your open tabs and saved reads over Saturday morning coffee. Find your bookmarks and passwords anywhere you use Firefox—your smartphone, tablet or laptop. Connect everything you need and nothing you don’t.
+Re-pisca tu schedas aperte o salvate, lege sur le Caffe del sabbato matino. Trova tu marca-paginas e contrasignos ubique tu usa Firefox—tu smartphono, tabletta o portabile. Connecte toto lo que tu necessita, e nihil de lo que tu non desira.
 
 
 # String is obsolete. Do NOT remove.
@@ -254,7 +254,7 @@ In movimento
 
 # String is obsolete. Do NOT remove.
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+Mantene tu sitos favorite, o fini ille historia que tu initiava al domo — ubique tu va. Con Sync, illo mais esseva plus facile.
 
 
 ;Add Firefox to your smartphone or tablet
@@ -262,7 +262,7 @@ Adde Firefox a tu smartphonos e tablettas
 
 
 ;To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
-To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
+Pro haber le plen experientia de Sync, installa Firefox pro iOS o Android e connecte tote tu dispositivos in omne loco e ubique tu usa Firefox.
 
 
 ;Add Firefox
@@ -270,7 +270,7 @@ Adde Firefox
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-Have an <b>Android smartphone</b> or <b>tablet</b>?
+Ha tu un <b>smartphono</b> o tabletta <b>Android</b>?
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
@@ -282,6 +282,6 @@ Porta Firefox ubicunque
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+Pro obtener le plen experientia de Sync, tene tu Web con te in omne loco tu usa Firefox. Connecte tu smartphono, tabletta, computator e portabile.
 
 

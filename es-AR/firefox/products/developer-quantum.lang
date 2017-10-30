@@ -1,5 +1,6 @@
 ## active ##
 ## ember_reference_fix ##
+## quantum-firstrun-whatsnew ##
 ## NOTE: demo page available at https://bedrock-demo-craigcook.us-west.moz.works/firefox/developer/
 
 
@@ -129,7 +130,7 @@ Vigilá los pedidos de red que pueden estar bloqueando o haciendo más lento tu 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Network_Monitor
 ;Learn more about Network Monitor
-Learn more about Network Monitor
+Conocé más sobre el monitor de red
 
 
 ;Storage panel
@@ -155,7 +156,7 @@ Probá tus sitios en dispositivos emulados en tu navegador.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Responsive_Design_View
 ;Learn more about Responsive Design View
-Learn more about Responsive Design View
+Conocé más sobre la vista de diseño adaptable
 
 
 ;Visual Editing
@@ -194,7 +195,7 @@ Encontrá pérdidas de memoria y lográ que tu aplicación sea rapidísima.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Memory
 ;Learn more about Memory Tools
-Learn more about Memory Tools
+Conocé más sobre las herramientas de memoria
 
 
 ;Web Audio
@@ -207,7 +208,7 @@ La única herramienta para inspeccionar la API de audio web.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Web_Audio_Editor
 ;Learn more about Web Audio Editor
-Learn more about Web Audio Editor
+Conocé más sobre el editor de audio web
 
 
 ;Scratchpad

@@ -3,51 +3,51 @@
 
 # HTML page title
 ;Mobile browsers for iOS and Android
-Mobile browsers for iOS and Android
+მობილური ბრაუზერები iOS და Android სისტემებისთვის
 
 
 # HTML page description
 ;Download Firefox and Firefox Focus for mobile and tablet.
-Download Firefox and Firefox Focus for mobile and tablet.
+ჩამოტვირთეთ Firefox და Firefox Focus ტელეფონსა და პლანშეტზე.
 
 
 ;Firefox for mobile
-Firefox for mobile
+Firefox მობილური მოწყობილობისთვის
 
 
 ;The speed you need with the privacy you want on all your devices.
-The speed you need with the privacy you want on all your devices.
+სიჩქარე, რომელიც გჭირდებათ, უსაფრთხოებასთან ერთად, ყველა თქვენს მოწყობილობაზე.
 
 
 ;Choose one or download them all for iOS and Android.
-Choose one or download them all for iOS and Android.
+აირჩიეთ ერთ-ერთი, ან ჩამოტვირთეთ ორივე, თქვენს iOS და Android მოწყობილობებზე.
 
 
 ;Full-featured. Customizable. Lightning fast. Browse without compromise.
-Full-featured. Customizable. Lightning fast. Browse without compromise.
+სრულყოფილი. მოქნილი. მსუბუქი. იმოგზაურეთ ინტერნეტში თავისუფლად.
 
 
 # mobile devices, only the App/Play Store badges will be shown.
 ;Get Firefox
-Get Firefox
+Firefox გადმოწერა
 
 
 ;See more
-See more
+ვრცლად
 
 
 # This should be 'Firefox Klar' for German
 ;Firefox Focus
-Firefox Focus
+Firefox Focus {ok}
 
 
 ;Automatic ad blocking and tracking protection on an easy-to-use private browser.
-Automatic ad blocking and tracking protection on an easy-to-use private browser.
+რეკლამების ავტომატური შეზღუდვა და თვალყურის დევნისგან დაცვა, მოსახერხებელი პირადი დათვალიერების რეჟიმის გამოყენებით.
 
 
 # This should be 'Firefox Klar' for German
 ;Get Firefox Focus
-Get Firefox Focus
+Firefox Focus გადმოწერა
 
 
 ;The full-featured version of Firefox with robust customization and privacy options ready to go for mobile and tablet.
@@ -55,35 +55,35 @@ The full-featured version of Firefox with robust customization and privacy optio
 
 
 ;Firefox mobile
-Firefox mobile
+მობილური Firefox
 
 
 ;Download now
-Download now
+ახლავე ჩამოტვირთვა
 
 
 ;Sync
-Sync
+სინქრონიზაცია
 
 
 ;Privacy
-Privacy
+პირადულობა
 
 
 ;Extensions
-Extensions
+გაფართოებები
 
 
 ;Previous
-Previous
+წინა
 
 
 ;Next
-Next
+შემდეგი
 
 
 ;iOS and Android
-iOS and Android
+iOS და Android
 
 
 ;Add Firefox to all your devices for seamless browsing.
@@ -143,11 +143,11 @@ Automatic Privacy
 
 
 ;Speed
-Speed
+სისწრაფე
 
 
 ;Lightweight
-Lightweight
+სიმსუბუქე
 
 
 ;Browse stress free. Powerful privacy features are always on and your browsing history is wiped after every session.
