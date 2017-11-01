@@ -20,7 +20,7 @@ Lightbeam pro Firefox
 
 
 ;Lightbeam is a Firefox add-on that uses interactive visualizations to show you the first and third party sites you interact with on the Web.
-Lightbeam is a Firefox add-on that uses interactive visualizations to show you the first and third party sites you interact with on the Web.
+Lightbeam es un additivo de Firefox que usa visualisationes interactive pro te monstrar le sitos de prime e de tertie partes con que tu interage sur le Web.
 
 
 ;Shine a Light on Who’s Watching You
@@ -32,7 +32,7 @@ Discoperi qui te tracia in rete
 
 
 ;As you browse, Lightbeam reveals the full depth of the Web today, including parts that are not transparent to the average user.
-As you browse, Lightbeam reveals the full depth of the Web today, including parts that are not transparent to the average user.
+Durante que tu naviga, Lightbeam revela le plen profunditate del Web hodie, includente partes que non es visibile al usator medie.
 
 
 ;Download Lightbeam for Firefox
@@ -52,15 +52,15 @@ Discarga e usa Lightbeam addition a tu navigator Firefox.
 
 
 ;Lightbeam will create a record of events for every site you visit and every third party site that is stored locally on your browser.
-Lightbeam will create a record of events for every site you visit and every third party site that is stored locally on your browser.
+Lightbeam creara un registro del eventos pro cata sito que tu visita e cata sito de tertie parte que es salvate localmente sur tu navigator.
 
 
 ;Lightbeam visually graphs these events to highlight the interactions between sites you intentionally visit and the third parties.
-Lightbeam visually graphs these events to highlight the interactions between sites you intentionally visit and the third parties.
+Lightbeam visualisa le graphicos de iste eventos pro evidentiar le interactiones inter le sitos que tu vole visitar e los de tertie partes.
 
 
 ;Lightbeam will continue to add to your graph as you browse the Web. You can stop Lightbeam at any time by disabling it or uninstalling the add-on. Your Lightbeam data can be easily saved or deleted.
-Lightbeam will continue to add to your graph as you browse the Web. You can stop Lightbeam at any time by disabling it or uninstalling the add-on. Your Lightbeam data can be easily saved or deleted.
+Lightbeam continuara a adder a tu graphico durante que tu explora le Web. Tu pote abolir Lightbeam aliquando per lo disactivar o disinstallar su additivo. Tu pote abolir Lightbeam aliquando per lo disactivar o disinstallar le additivo.
 
 
 ;Tracking & privacy
@@ -68,11 +68,11 @@ Traciamento e confidentialitate
 
 
 ;Not all tracking is bad. Many services rely on user data to provide relevant content and enhance your online experience.
-Not all tracking is bad. Many services rely on user data to provide relevant content and enhance your online experience.
+Non tote le traciamentos es mal. Plure servicios fide sur datos de usatores pro fornir contento pertinente e meliorar tu experientia de Internet.
 
 
 ;But tracking can happen without the user’s knowledge.
-But tracking can happen without the user’s knowledge.
+Ma le traciamento pote occurrer sin cognoscentia del usator.
 
 
 ;That’s not okay for some.
@@ -80,11 +80,11 @@ Unes non pote acceptar isto.
 
 
 ;It should be you who decides when, how and if you want your browsing data to be shared. We recognize the importance of transparency and our mission is all about empowering users — both with tools and information.
-It should be you who decides when, how and if you want your browsing data to be shared. We recognize the importance of transparency and our mission is all about empowering users — both with tools and information.
+Debe esser tu qui decide quando, como e si tu desira que tu datos de navigation es compartite. Nos recognosce le gravitate del transparentia e nostre mission es tote pro potentiar le usatores — sia per instrumentos, sia per informationes.
 
 
 ;We’re building this crowd-sourced directory to encourage users to visualize the state of tracking as an aggregate and to examine relationships that exist on the Web.
-We’re building this crowd-sourced directory to encourage users to visualize the state of tracking as an aggregate and to examine relationships that exist on the Web.
+Nos crea iste directorio per contributiones massive pro incoragiar le usatores a visualisar syntheticamente le stato de traciamento, e a compulsar le parentatos que existe sur le Web.
 
 
 ;Visualize your data
@@ -92,7 +92,7 @@ Visualisa tu datos
 
 
 ;After you download and install the Lightbeam add-on to Firefox, it will begin to create a real time visualization of the websites you visit and all the third parties that are also active on those pages.
-After you download and install the Lightbeam add-on to Firefox, it will begin to create a real time visualization of the websites you visit and all the third parties that are also active on those pages.
+Post que tu discarga e installa le additivo a Firefox Lightbeam, illo initiara a crear un actual tempore visualisation del sitos web que tu visita e tote lo de tertie partes que es alsi active sur celle paginas.
 
 
 ;Analyze your connections
@@ -100,15 +100,15 @@ Analysa tu connexiones
 
 
 ;As your visualizations grow, you can take a closer look into the relationships between the various first and third party sites that are stored in your data. You can also reset or save your data at any time.
-As your visualizations grow, you can take a closer look into the relationships between the various first and third party sites that are stored in your data. You can also reset or save your data at any time.
+Durante que tu visualisationes cresce, tu pote prender un reguardo plus proxime in le relationes inter le plure sitos de prime e tertie parte que es servate in tu datos. Tu pote alsi restabilir o salvar aliquando tu datos.
 
 
 ;To help us, you can contribute your data to our Lightbeam database.
-To help us, you can contribute your data to our Lightbeam database.
+Pro nos adjutar, tu pote contribuer a nostre base de datos de Lightbeam.
 
 
 ;Supported by the Ford Foundation
-Supported by the Ford Foundation
+Supportate per le Ford Foundation
 
 
 ;The work at the Ford Foundation focuses on building outreach campaigns to help people understand online data tracking — both the benefits and the issues
@@ -129,7 +129,7 @@ Lightbeam visualizes the relationships between the sites you visit and the third
 
 
 ;How the add-on works
-How the add-on works
+Como functiona le additivos
 
 
 # New string (May 15) to reflect features that have been removed from the add-on.
@@ -187,11 +187,11 @@ With the support of the Ford Foundation and the Natural Sciences and Engineering
 
 
 ;To read more about the collaboration, please visit <a href="{url}">{url}</a>
-To read more about the collaboration, please visit <a href="{url}">{url}</a>
+Pro leger altero re le collaboration, per favor visita <a href="{url}">{url}</a>
 
 
 ;Policy and the larger tracking narrative
-Policy and the larger tracking narrative
+Politica e a major narration del traciamento
 
 
 ;At Mozilla, we believe that everyone should have the tools to make their own decisions about their online privacy and who collects data on them.
@@ -207,7 +207,7 @@ Lightbeam is one step in a larger, concerted effort by Mozilla and its partners 
 
 
 ;Learn more about online tracking and privacy
-Learn more about online tracking and privacy
+Apprende altero re le traciamento in Internet e le confidentialitate
 
 
 ;The <a href="%s">Mozilla Foundation</a> is a non-profit organization that promotes the values of an open Web to the broader world. The larger Mozilla community sees the growing relevance of online privacy and is supporting several initiatives that tackle the issue in various ways.
@@ -215,7 +215,7 @@ The <a href="%s">Mozilla Foundation</a> is a non-profit organization that promot
 
 
 ;Data formats in Lightbeam
-Data formats in Lightbeam
+Formatos de datos in Lightbeam
 
 
 # New string (May 15) to reflect features that have been removed from the add-on.
@@ -229,7 +229,7 @@ Visit our <a href="%s">documentation on Github</a> to learn more about the file 
 
 
 ;Partners of Lightbeam
-Partners of Lightbeam
+Partners de Lightbeam
 
 
 ;The <a href="%s">Ford Foundation</a> is a non-profit organization that focuses on the mission of advancing human welfare.
