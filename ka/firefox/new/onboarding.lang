@@ -51,7 +51,7 @@
 
 
 ;Discover all the ways to take Firefox on the go
-გაეცანით როგორ შეიძლება მუდამ თან იქონიოთ Firefox
+ნახეთ, თუ როგორ შეგიძლიათ მუდმივად თან იქონიოთ Firefox
 
 
 ;Go Fast
@@ -79,7 +79,7 @@
 
 
 ;Keep up with<br> all things Firefox.
-არ ჩამორჩეთ<br> Firefox-თან დაკავშირებულ, არცერთ სიახლეს.
+არ ჩამორჩეთ Firefox-სთან<br> დაკავშირებულ სიახლეებს.
 
 
 ;Firefox for other platforms
@@ -126,7 +126,7 @@ Firefox სხვა სისტემებისთვის
 
 
 ;Thanks for choosing Firefox. Your download should begin automatically. If not, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-გმადლობთ Firefox-ის არჩევისთვის. თქვენი ჩამოტვირთვა ავტომატურად დაიწყება. თუ ასე არ მოხდა, <a id="%(id)s" href="%(fallback_url)s">დააწკაპუნეთ აქ</a>.
+გმადლობთ Firefox-ის არჩევისთვის. თქვენი ჩამოტვირთვა ავტომატურად დაიწყება. თუ ასე არ მოხდა, <a id="%(id)s" href="%(fallback_url)s">დააწკაპეთ აქ</a>.
 
 
 ;Get Firefox for Android and iOS.

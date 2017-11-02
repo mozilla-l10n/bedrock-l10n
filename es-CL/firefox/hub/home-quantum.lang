@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo page available at https://bedrock-demo-agibson.us-west.moz.works/firefox/
 
 
@@ -20,7 +21,7 @@ Conoce Firefox Quantum.
 
 
 ;Fast for good.
-Fast for good.
+Por siempre rápido.
 
 
 ;Download now
@@ -62,7 +63,7 @@ Captura de pantalla de la rediseñada página de nueva pestaña de Firefox.
 
 
 ;Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Get the best Firefox yet.
-Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Get the best Firefox yet.
+¿Un <a href="%(url)s">motor de navegación potente?</a> Listo. ¿Menos tiempo esperando para que se carguen las páginas? También listo. Baja el mejor Firefox a la fecha.
 
 
 ;30% lighter than Chrome
@@ -70,7 +71,7 @@ Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting ar
 
 
 ;<a href="%(url)s">Less memory usage</a> means more space for your computer to keep running smoothly. Your other programs will thank you.
-<a href="%(url)s">Less memory usage</a> means more space for your computer to keep running smoothly. Your other programs will thank you.
+<a href="%(url)s">Menos uso de memoria</a> significa que tu computador tiene más espacio para funcionar sin problemas. Tus otros programas te lo van a agradecer.
 
 
 ;Smooth browsing
@@ -115,11 +116,11 @@ Navegación privada de verdad
 
 
 ;The most powerful private browsing mode with added tracking protection.
-The most powerful private browsing mode with added tracking protection.
+El modo de navegación privada más potente, con protección de seguimiento.
 
 
 ;Firefox blocks online trackers while you browse and won’t remember your history after you’re done.
-Firefox blocks online trackers while you browse and won’t remember your history after you’re done.
+Firefox bloquea los rastreadores en línea mientras navegas y no recuerda tu historial una vez que terminas.
 
 
 ;Tracking Protection
@@ -127,7 +128,7 @@ Protección de seguimiento
 
 
 ;Some ads have hidden trackers that follow you online. Rude. We know. That’s why our powerful tool stops them cold.
-Some ads have hidden trackers that follow you online. Rude. We know. That’s why our powerful tool stops them cold.
+Algunos anuncios publicitarios tienen rastreadores ocultos que te siguen en línea. Triste pero es la verdad. Es por ello que nuestra potente herramienta los detiene en el acto.
 
 
 ;Faster Page Loading
@@ -135,7 +136,7 @@ Carga de página más rápida
 
 
 ;By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages load up to 44%% faster</a>. Now that’s a win-win.
-By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages load up to 44%% faster</a>. Now that’s a win-win.
+Al bloquear algunas publicidades que ralentizan tu navegación, <a href="%(url)s">las páginas cargan hasta 44%% más rápido</a>. ¡Eso es ganar por partida doble!
 
 
 ;Firefox Quantum features
@@ -152,20 +153,20 @@ Biblioteca
 
 
 ;Uncomplicate screenshots. Take and share them directly from Firefox. That means no more searching for mysterious file names on your computer.
-Uncomplicate screenshots. Take and share them directly from Firefox. That means no more searching for mysterious file names on your computer.
+Capturas de pantalla fáciles. Tómalas y compártelas directamente desde Firefox. Esto significa que no tendrás que buscar más nombres de archivos misteriosos en tu computador.
 
 
 ;Built right into the toolbar, it’s the ultimate save-for-later feature. View your articles, videos and pages across any device.
-Built right into the toolbar, it’s the ultimate save-for-later feature. View your articles, videos and pages across any device.
+Incorporada a la barra de herramientas, es la mejor solución para guardar cosas para más tarde. Mira tus artículos, videos y páginas en todos tus dispositivos.
 
 
 # WASM is short for WebAssembly
 ;Engineered for next-gen gaming, Firefox has built-in support for WASM and WebVR. No additional installation needed!
-Engineered for next-gen gaming, Firefox has built-in support for WASM and WebVR. No additional installation needed!
+Preparado para la próxima generación de juegos, Firefox tiene soporte integrado para el uso de WASM y WebVR. ¡No tienes que instalar nada más!
 
 
 ;Save time! Find all your favorite content like Pocket saves, bookmarks, browsing history, screenshots and downloads in one spot.
-Save time! Find all your favorite content like Pocket saves, bookmarks, browsing history, screenshots and downloads in one spot.
+¡Ahorra tiempo! Encuentra todo tu contenido favorito, como Pocket, marcadores, historial de navegación, capturas de pantalla y descargas, en un solo lugar.
 
 
 ;Customization Features
@@ -178,11 +179,11 @@ Extensiones
 
 # App names remain in English.
 ;Customize Firefox with thousands of extensions like LastPass, uBlock Origin, Evernote and more.
-Customize Firefox with thousands of extensions like LastPass, uBlock Origin, Evernote and more.
+Personaliza Firefox con miles de extensiones como LastPass, uBlock Origin, Evernote y muchas más.
 
 
 ;Make over Firefox to suit your mood! Choose a new look from our theme categories or create your own.
-Make over Firefox to suit your mood! Choose a new look from our theme categories or create your own.
+¡Haz que Firefox refleje como te sientes! Elige un nuevo diseño entre nuestros temas o crea uno propio.
 
 
 ;Toolbar
@@ -190,7 +191,7 @@ Barra de herramientas
 
 
 ;Set up Firefox your way. Drag and drop features in and out of your toolbar for easy access.
-Set up Firefox your way. Drag and drop features in and out of your toolbar for easy access.
+Personaliza Firefox a tu gusto. Arrastra y suelta funciones dentro y fuera de la barra de herramientas para acceder a ellas fácilmente.
 
 
 ;Sync your devices
@@ -198,19 +199,19 @@ Sincroniza tus dispositivos
 
 
 ;Seamlessly access passwords, bookmarks and more. Plus, use our Send Tabs feature to instantly share open tabs between desktop, mobile and tablet.
-Seamlessly access passwords, bookmarks and more. Plus, use our Send Tabs feature to instantly share open tabs between desktop, mobile and tablet.
+Accede a tus contraseñas, marcadores y mucho más sin problemas. Además, usa nuetra función de envío de pestañas para compartirlas al instante a tu escritorio, móvil y tableta.
 
 
 ;Image of Gif shared from desktop to mobile using the Send Tab feature.
-Image of Gif shared from desktop to mobile using the Send Tab feature.
+Imagen o Gif compartido desde un computador a un equipo móvil con la función de envío de pestañas.
 
 
 ;Browse for good
-Browse for good
+Navega por siempre
 
 
 # "More than meets the eye" here means something greater, more significant than it seems to be.
 ;More than meets the eye. Did you know Firefox is backed by the not-for-profit Mozilla? The organization keeps the Internet healthier through programs that support tech education for girls, create trust around factual news, bring civility to the comments section and more.
-More than meets the eye. Did you know Firefox is backed by the not-for-profit Mozilla? The organization keeps the Internet healthier through programs that support tech education for girls, create trust around factual news, bring civility to the comments section and more.
+Más de lo que parece. ¿Sabías que Firefox tiene el respaldo de la organización sin fines de lucro llamada Mozilla? Mozilla mantiene saludable al Internet mediante programas que apoyan la educación tecnológica para mujeres, crea confianza en las noticias que circulan por la red, aporta cortesía a la sección de comentarios y mucho más.
 
 

@@ -35,7 +35,7 @@
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-პირადი ბრაუზინგი
+პირადი ფანჯარა
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -644,7 +644,7 @@ Firefox სიახლეების გამოწერა
 
 
 ;Get Firefox tips, tricks, news and more
-გაეცანით Firefox-ის რჩევებს, ხრიკებს, სიახლეებს და სხვ.
+გაეცანით Firefox-სთან დაკავშირებულ რჩევებს, მითითებებს, სიახლეებს და ა.შ.
 
 
 # This string will be used as a navigation label in home page, pointing to /technology
