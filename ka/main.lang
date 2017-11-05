@@ -73,7 +73,7 @@ Firefox არის არამომგებიანი, არაკორ
 # A top menu navigation label that points to https://addons.mozilla.org/firefox/.
 # Will replace Add-ons once this string is localized.
 ;Extensions
-გაფართოებები
+დამატებები
 
 
 ;Add-ons
@@ -565,7 +565,7 @@ Firefox დახმარება
 
 
 ;Congrats. You’re up to date!
-გილოცავთ. თქვენ აქტუალური ვერსია გაქვთ!
+გილოცავთ. თქვენ უახლესი ვერსია გიყენიათ!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
