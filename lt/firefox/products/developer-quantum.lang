@@ -7,11 +7,11 @@ Sukurta kuriantiems saityną. Vienintelė naršyklė, skirta būtent programuoto
 
 
 ;Firefox Quantum: Developer Edition
-Firefox Quantum: Developer Edition
+Firefox Quantum: Developer Edition {ok}
 
 
 ;Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
-Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
+Susipažinkite – jūsų nauja mėgstamiausia naršyklė. Joje suderinta viskas – naujausios savybės, neprilygstama sparta ir saitynui kurti reikalingos priemonės.
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
@@ -19,28 +19,28 @@ Welcome to your new favorite browser. Get the latest features, fast performance,
 
 
 ;Faster Performance
-Faster Performance
+Didesnė sparta
 
 
 ;A Next-Generation CSS Engine
-A Next-Generation CSS Engine
+Naujos kartos CSS varikliukas
 
 
 ;Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
-Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
+„Firefox“ buvo perdaryta iš pagrindų, kad būtų spartesnė ir galingesnė nei kada nors anksčiau. Dalis šio atnaujinimo – naujas, inovatyvus ir ypač spartus CSS varikliukas.
 
 
 ;New Tools
-New Tools
+Naujos priemonės
 
 
 ;Firefox DevTools
-Firefox DevTools
+„Firefox“ saityno kūrėjų priemonės
 
 
 # Link points to http://firefox-dev.tools/
 ;Learn more about Firefox developer tools
-Learn more about Firefox developer tools
+Susipažinkite su „Firefox“ saityno kūrėjų priemonėmis iš arčiau
 
 
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
