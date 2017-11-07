@@ -21,7 +21,7 @@ Snabbast hittills
 
 
 # Line break for formatting.
-;This is what you’ve been waiting for<br> — the fastest Firefox ever.
-Det här är vad du har väntat på<br> — den snabbaste Firefox hittills.
+;This is what you’ve been waiting for — <br>the fastest Firefox ever.
+Det här är vad du har väntat på — <br>den snabbaste Firefox hittills.
 
 

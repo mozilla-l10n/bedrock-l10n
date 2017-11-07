@@ -21,7 +21,7 @@ Neuveriteľne rýchly
 
 
 # Line break for formatting.
-;This is what you’ve been waiting for<br> — the fastest Firefox ever.
-Na toto ste čakali<br> - najrýchlejší Firefox vôbec.
+;This is what you’ve been waiting for — <br>the fastest Firefox ever.
+Na toto ste čakali - <br>najrýchlejší Firefox vôbec.
 
 
