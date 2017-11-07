@@ -21,7 +21,7 @@ Hurtig, hurtigere
 
 
 # Line break for formatting.
-;This is what you’ve been waiting for<br> — the fastest Firefox ever.
-Dette er, hvad du har ventet på<br> — den hurtigste Firefox nogensinde.
+;This is what you’ve been waiting for — <br>the fastest Firefox ever.
+Dette er, hvad du har ventet på — <br>den hurtigste Firefox nogensinde.
 
 

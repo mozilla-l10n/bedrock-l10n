@@ -21,7 +21,7 @@
 
 
 # Line break for formatting.
-;This is what you’ve been waiting for<br> — the fastest Firefox ever.
-あなたが待ち望んでいたものがここに<br> — 史上最速の Firefox。
+;This is what you’ve been waiting for — <br>the fastest Firefox ever.
+あなたが待ち望んでいたものがここに — <br>史上最速の Firefox。
 
 
