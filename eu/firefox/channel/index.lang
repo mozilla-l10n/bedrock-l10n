@@ -1,7 +1,9 @@
 ## active ##
 ## android_nightly_copy ##
+## firefox_channel_bug1387466 ##
 ## firefox_title_meta_bug1345338 ##
 ## firefox_title_meta_bug1357373 ##
+## nightly_description_bug1375100 ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
@@ -122,7 +124,7 @@ Probatu argitaratzear dauden eginbideak azken bertsioaren aurreko konpilaziorik 
 
 
 ;All Languages and Platforms
-All Languages and Platforms
+Hizkuntza eta plataforma guztiak
 
 
 # String is obsolete. Do not remove.
@@ -143,7 +145,7 @@ Probatu Androiderako eginbide berriak hasieratik. Gozatu zure arriskupean.
 
 
 ;Get a sneak peek at our next generation web browser, and help us make it the best browser it can be: try Firefox Nightly.
-Get a sneak peek at our next generation web browser, and help us make it the best browser it can be: try Firefox Nightly.
+Bota begirada bizkor bat hurrengo belaunaldiko web-nabigatzaileari, eta lagun gaitzazu izan daitekeen nabigatzailerik onena bihurtzen: probatu Firefox Nightly.
 
 
 # String is obsolete. Do NOT remove.

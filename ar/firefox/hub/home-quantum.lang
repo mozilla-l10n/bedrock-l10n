@@ -3,20 +3,20 @@
 
 # HTML page title
 ;The new, fast browser for Mac, PC and Linux
-The new, fast browser for Mac, PC and Linux
+متصفح جديد وأسرع لماك ووندوز ولينكس
 
 
 # HTML page description
 ;Responsive engine, less memory usage and packed with features. Download for desktop now.
-Responsive engine, less memory usage and packed with features. Download for desktop now.
+محرّك سريع الاستجابة واستخدام أقل للذاكرة ومليء بالمزايا. نزِّله لسطح المكتب الآن.
 
 
 ;The New Firefox
-The New Firefox
+فَيَرفُكس الجديد
 
 
 ;Meet Firefox Quantum.
-Meet Firefox Quantum.
+رحّب بفَيَرفُكس كوانتُم.
 
 
 ;Fast for good.
@@ -24,15 +24,15 @@ Fast for good.
 
 
 ;Download now
-Download now
+نزِّله الآن
 
 
 ;What’s new?
-What’s new?
+ما الجديد؟
 
 
 ;A powerful, new engine that’s built for rapidfire performance.
-A powerful, new engine that’s built for rapidfire performance.
+محرك جديد وقوي صُمّم لأداء كالبرق.
 
 
 ;Better, faster page loading that uses less computer memory.
@@ -44,7 +44,7 @@ Gorgeous design and smart features for intelligent browsing.
 
 
 ;“Faster and even more minimalist, Firefox Quantum makes Chrome look old.”
-“Faster and even more minimalist, Firefox Quantum makes Chrome look old.”
+”سريع وأكثر بساطة. يجعل فَيَرفُكس كوانتُم كروم يبدو عتيقًا.“
 
 
 # Link points to https://www.digitaltrends.com/web/firefox-quantum-hands-on-review/
@@ -54,7 +54,7 @@ Gorgeous design and smart features for intelligent browsing.
 
 # This is an alternative text for a screenshot.
 ;Screenshot of the redesigned Firefox new-tab page.
-Screenshot of the redesigned Firefox new-tab page.
+لقطة لصفحة ”لسان جديد“ في فَيَرفُكس المُعاد تصميمها.
 
 
 ;2x Faster
@@ -62,7 +62,7 @@ Screenshot of the redesigned Firefox new-tab page.
 
 
 ;Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Get the best Firefox yet.
-Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Get the best Firefox yet.
+<a href="%(url)s">محرك تصفح قوي</a>؟ نعم. انتظار أقل حتى تُحمّل الصفحة؟ أيضا نعم. نزِّل أفضل فَيَرفُكس لحد الساعة.
 
 
 ;30% lighter than Chrome
@@ -74,11 +74,11 @@ Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting ar
 
 
 ;Smooth browsing
-Smooth browsing
+تصفّح سلس
 
 
 ;Whether you’ve opened 10 or 1000, switching between tabs is faster than ever with Firefox’s new, responsive engine.
-Whether you’ve opened 10 or 1000, switching between tabs is faster than ever with Firefox’s new, responsive engine.
+أيّا كان العدد، ١٠ أم ١٠٠٠، التبديل بين الألسنة أسرع من ذي قبل مع محرّك فَيَرفُكس الجديد سريع الاستجابة.
 
 
 # This is an alternative text for a screenshot.
@@ -87,7 +87,7 @@ Firefox screenshot showing many open tabs and browser windows running simultaneo
 
 
 ;Moving browsers? We got you.
-Moving browsers? We got you.
+هل تتنقل بين المتصفحات؟ أخذنا ذلك بالحسبان.
 
 
 ;Instantly import your online info and favorites from any other browser.
@@ -95,23 +95,23 @@ Instantly import your online info and favorites from any other browser.
 
 
 ;Bookmarks
-Bookmarks
+العلامات
 
 
 ;Auto Fill
-Auto Fill
+الملء الآلي
 
 
 ;Passwords
-Passwords
+كلمات السر
 
 
 ;History
-History
+التأريخ
 
 
 ;Seriously Private Browsing
-Seriously Private Browsing
+تصفح خاص بحق
 
 
 ;The most powerful private browsing mode with added tracking protection.
@@ -123,11 +123,11 @@ Firefox blocks online trackers while you browse and won’t remember your histor
 
 
 ;Tracking Protection
-Tracking Protection
+الحماية من التعقّب
 
 
 ;Some ads have hidden trackers that follow you online. Rude. We know. That’s why our powerful tool stops them cold.
-Some ads have hidden trackers that follow you online. Rude. We know. That’s why our powerful tool stops them cold.
+لبعض الإعلانات متعقبات مخفية تمشي وراءك وأنت تتصفح. وقحة! نعلم ذلك، ولهذا صممنا أداة قوية تمنعهم عن الحراك.
 
 
 ;Faster Page Loading
@@ -144,15 +144,15 @@ Firefox Quantum features
 
 # VR can be spelled out as "Virtual Reality" if clearer.
 ;Gaming & VR
-Gaming & VR
+الألعاب والواقع الافتراضي
 
 
 ;Library
-Library
+المكتبة
 
 
 ;Uncomplicate screenshots. Take and share them directly from Firefox. That means no more searching for mysterious file names on your computer.
-Uncomplicate screenshots. Take and share them directly from Firefox. That means no more searching for mysterious file names on your computer.
+لقطات شاشة دون وجع رأس. خُذها وشاركها مباشرة من فَيَرفُكس. يعني هذا انتهاء زمن البحث عن ملفات بأسماء غريبة على الحاسوب.
 
 
 ;Built right into the toolbar, it’s the ultimate save-for-later feature. View your articles, videos and pages across any device.
@@ -173,12 +173,12 @@ Customization Features
 
 
 ;Extensions
-Extensions
+الامتدادات
 
 
 # App names remain in English.
 ;Customize Firefox with thousands of extensions like LastPass, uBlock Origin, Evernote and more.
-Customize Firefox with thousands of extensions like LastPass, uBlock Origin, Evernote and more.
+خصّص فَيَرفُكس مستخدما آلاف الامتدادات مثل LastPass، وuBlock Origin، وEvernote وغيرها.
 
 
 ;Make over Firefox to suit your mood! Choose a new look from our theme categories or create your own.
@@ -186,15 +186,15 @@ Make over Firefox to suit your mood! Choose a new look from our theme categories
 
 
 ;Toolbar
-Toolbar
+شريط الأدوات
 
 
 ;Set up Firefox your way. Drag and drop features in and out of your toolbar for easy access.
-Set up Firefox your way. Drag and drop features in and out of your toolbar for easy access.
+أعدَّ فَيَرفُكس ليناسبك. اسحب المزايا وأفلتها من وإلى شريط الأدوات لتصل إليها بسرعة.
 
 
 ;Sync your devices
-Sync your devices
+زامِن أجهزتك
 
 
 ;Seamlessly access passwords, bookmarks and more. Plus, use our Send Tabs feature to instantly share open tabs between desktop, mobile and tablet.
