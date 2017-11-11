@@ -1,3 +1,5 @@
+## active ##
+## independent_mission_bug_1391287 ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/features/independent
 
 
@@ -8,7 +10,7 @@ Firefox, новият четец за новото време. Разглежд�
 
 # Used as HTML description of the page
 ;Browse the Internet as it was meant to be… free, safe and accessible to all. Declare your online independence.
-Browse the Internet as it was meant to be… free, safe and accessible to all. Declare your online independence.
+Сърфирайте интернет така като се полага... свободно, сигурно и достъпно за всички. Декларирайте вашата онлайн независимост.
 
 
 ;Firefox: Rebel with a cause
@@ -16,7 +18,7 @@ Firefox: Бунтар с кауза
 
 
 ;Firefox is independent and a part of the non-profit Mozilla, which fights for your online rights, keeps corporate powers in check and makes the Internet accessible to everyone, everywhere.
-Firefox is independent and a part of the non-profit Mozilla, which fights for your online rights, keeps corporate powers in check and makes the Internet accessible to everyone, everywhere.
+Firefox е независим браузер и е част от Mozilla, която е с нестопанска цел и се бори за вашите онлайн права, изправяйки се срещу корпоративните интереси и грижейки се за достъпен интернет навсякъде и за всеки.
 
 
 # This phrase means without conditions or restrictions, expecting nothing in return
@@ -25,7 +27,7 @@ Firefox is independent and a part of the non-profit Mozilla, which fights for yo
 
 
 ;Firefox is built by a non-profit. That means we can do things that others can’t, like build new products and features without a hidden agenda. We champion your right to privacy with tools like Private Browsing with Tracking Protection, which go beyond what Google Chrome and Microsoft Edge offer.
-Firefox is built by a non-profit. That means we can do things that others can’t, like build new products and features without a hidden agenda. We champion your right to privacy with tools like Private Browsing with Tracking Protection, which go beyond what Google Chrome and Microsoft Edge offer.
+Firefox е създаден от компания с нестопанска цел. Това означава, че можем да правим неща, които други компании не могат, като например да създаваме продукти без задкулисни цели. Ние се борим за онлайн сигурност на нашите потребили, като създадохме Частно Сърфиране без Следене, което е повече от предлаганото в Google Chrome и Microsoft Edge.
 
 
 ;What you see is what you get
@@ -33,7 +35,7 @@ Firefox is built by a non-profit. That means we can do things that others can’
 
 
 ;We believe the Internet is for people, not profit. Unlike other companies, we don’t sell access to your data. <em>You’re</em> in control over who sees your search and browsing history. Choice — that’s what a healthy Internet is all about!
-We believe the Internet is for people, not profit. Unlike other companies, we don’t sell access to your data. <em>You’re</em> in control over who sees your search and browsing history. Choice — that’s what a healthy Internet is all about!
+Ние вярваме, че интернет е за хората, а не корпоративна печалба. За разлика от други компании, ние не продаваме дашите данни. <em>Вие</em> контролирате кой има достъп до вашата онлайн история. Право на избор - това е здравословен интернет!
 
 
 ;A browser on a mission
@@ -41,11 +43,11 @@ We believe the Internet is for people, not profit. Unlike other companies, we do
 
 
 ;In addition to fighting for your online rights, we also keep corporate powers in check, while working with allies all around the globe to nurture healthy Internet practices. So when you choose Firefox, we’re choosing you, too.
-In addition to fighting for your online rights, we also keep corporate powers in check, while working with allies all around the globe to nurture healthy Internet practices. So when you choose Firefox, we’re choosing you, too.
+Освен, че се борим за вашите онлайн права, ние си сътрудничим с наши съмишленици по целия свят, за да поддържаме интернет достъпен за всички. Така, че когато вие избетете Firefox, ние избираме вас също.
 
 
 # Obsolete string, do not remove
 ;Firefox is a browser with a conscience. As part of the technology non-profit Mozilla, we fight for your online rights, keep corporate powers in check and help educate developing countries on healthy Internet practices. So when you choose Firefox, we’re choosing you, too.
-Firefox is a browser with a conscience. As part of the technology non-profit Mozilla, we fight for your online rights, keep corporate powers in check and help educate developing countries on healthy Internet practices. So when you choose Firefox, we’re choosing you, too.
+Firefox е различен браузър. Като част от технологичната компания с нестопанска цел Mozilla, ние се борим за вашите онлайн права, изправяйки се срещу корпоративните интереси и осигурявайки интернет достъп в развиващи се страни. Когато вие изберете Firefox, ние избираме вас също.
 
 
