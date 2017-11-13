@@ -1,8 +1,8 @@
-# bedrock-l10n
+# Localization of www.mozilla.org
 
-Production files for www.mozilla.org.
+This repository hosts the localization files for www.mozilla.org and is open to localizers.
 
-If you find any localization issues, please open pull requests on the [repository](https://github.com/mozilla-l10n/www.mozilla.org) used for the dev server. This repository is writable only by l10n-drivers.
+If you're new to GitHub, please check our [Migration FAQ](https://github.com/mozilla-l10n/git-migration-faq). If you have any questions or doubts, please use the #l10n channel on [IRC](https://wiki.mozilla.org/IRC) or the [mailing list for Web content localization](https://lists.mozilla.org/listinfo/dev-l10n-web).
 
 # License
 
