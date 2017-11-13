@@ -1,3 +1,6 @@
+## active ##
+## contribute-tasks-0516 ##
+## target-links-noopener ##
 ## NOTE: File is used for the new /signup page. Demo page: https://www-dev.allizom.org/contribute/signup/
 
 
@@ -62,7 +65,7 @@ Byrje å bruke appen Mozilla Stumbler
 
 
 ;Mozilla Stumbler is an open-source wireless network scanner which collects GPS, cellular and wireless network metadata for our crowd-sourced location database.
-Mozilla Stumbler is an open-source wireless network scanner which collects GPS, cellular and wireless network metadata for our crowd-sourced location database.
+Mozilla Stumbler (open kjeldekode) er ein trådlaus nettverksskannar som samlar metadata frå GPS, mobile- og trådlause nettverk metadata for crowd-source plasseringsdatabasen vår.
 
 
 ;Mozilla Participation Tasks
@@ -104,7 +107,7 @@ Twitre dette
 
 # This is a tweet, try to keep it within the 140 characters limit
 ;I’m raising my hand to contribute to Mozilla! @startmozilla tell me how I can join you to help protect the open web.
-I’m raising my hand to contribute to Mozilla! @startmozilla tell me how I can join you to help protect the open web.
+Eg lyftar handa mi for å bidra til Mozilla! @startmozilla fortel korleis eg kan vere med for å verne om det opne nettet.
 
 
 ;Share on Twitter
@@ -133,7 +136,7 @@ Bruk Firefox på ditt iOS eller Android-telefon og netbrett
 
 
 ;Firefox is the independent mobile browser and by using this you’re supporting Mozilla’s mission and creating a browsing experience that is private and personal.
-Firefox is the independent mobile browser and by using this you’re supporting Mozilla’s mission and creating a browsing experience that is private and personal.
+Firefox er den uavhengige mobile nettlesaren, og ved å bruke han støttar du oppdraget til Mozilla og skapar ei nettoppleving som er privat og personleg.
 
 
 ;Add Firefox to your Android and iOS devices
@@ -154,20 +157,20 @@ Lær deg meir om kryptering
 
 
 ;Sign the pledge and stand up for strong encryption.
-Sign the pledge and stand up for strong encryption.
+Skriv under på løftet og still opp for sterk kryptering.
 
 
 ;Encryption is how we keep our personal information safe and private. Please join us in the fight to protect it.
-Encryption is how we keep our personal information safe and private. Please join us in the fight to protect it.
+Kryptering er måten vi held den personlege informasjonen vår sikker og privat. Ver med oss i kampen om å verne om den.
 
 
 ;<a href="%s">Learn more about encryption</a>, why it’s essential and why we need to protect it.
-<a href="%s">Learn more about encryption</a>, why it’s essential and why we need to protect it.
+<a href="%s">Les meir om kryptering</a>, kvifor det er viktig, og kvifor vi må verne om den.
 
 
 # Obsolete string, do not remove
 ;<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
-<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
+<a href="%s" rel="external" target="_blank">Les meir om kryptering</a>, kvifor det er viktig og kvifor vi må verne om den.
 
 
 ;Become an encryption champion
@@ -188,15 +191,15 @@ Ver med
 
 
 ;Watch: The Joy of Coding
-Watch: The Joy of Coding
+Sjå: The Joy of Coding
 
 
 ;Watch The Joy of Coding, then discuss it with other Mozillians
-Watch The Joy of Coding, then discuss it with other Mozillians
+Sjå på The joy of Coding, diskuter han seinare med andre Mozillians
 
 
 ;Anyone can contribute to Firefox by finding and fixing errors that people report via Bugzilla. Watch a demonstration of a Firefox engineer live hacking to see what it’s all about.
-Anyone can contribute to Firefox by finding and fixing errors that people report via Bugzilla. Watch a demonstration of a Firefox engineer live hacking to see what it’s all about.
+Kven som helst kan bidra til Firefox ved å finne og rette feil som folk rapporterar via Bugzilla. Sjå på ein demo der ein Firefox-teknikar kodar for å sjå kva det handlar om.
 
 
 ;Watch the intro.
@@ -204,20 +207,20 @@ Sjå introen.
 
 
 ;<a href="https://twitter.com/mike_conley" rel="external">@mike_conley</a> livehacks on real Firefox bugs while thinking out loud.
-<a href="https://twitter.com/mike_conley" rel="external">@mike_conley</a> livehacks on real Firefox bugs while thinking out loud.
+<a href="https://twitter.com/mike_conley" rel="external">@mike_conley</a> hackar ekte Firefox-buggar medan han tenkjer høgt.
 
 
 ;View more <em>Joy of Coding</em> videos on Air Mozilla
-View more <em>Joy of Coding</em> videos on Air Mozilla
+Vis fleire <em>Joy of Coding</em>-videoar på Air Mozilla
 
 
 ;<a href="%s" id="get-involved">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
-<a href="%s" id="get-involved">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Ver med i kodgefelleskapet</a> og start med å samarbeide med andre Mozillianarar rundt om i verda.
 
 
 # Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
-<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved" target="_blank">Ver med i kodefelleskapet</a> og start med å samarbeide med andre Mozillianarar rundt om i verda.
 
 
 ;Thanks for watching
@@ -238,7 +241,7 @@ Prøv det nye redigeringsverktøyet vårt for animasjonar i Developer Tools Chal
 
 
 ;The more you know about the web, the easier it is to make it your own. Participate in the web by testing your web literacy skills using the new tools in Firefox Developer Edition.
-The more you know about the web, the easier it is to make it your own. Participate in the web by testing your web literacy skills using the new tools in Firefox Developer Edition.
+Dess meir du veit om nettet, dess lettare er det å gjere det til ditt eige. Delta i nettet ved å teste nettkompetansen din ved hjelp av dei nye verktøya i Firefox Developer Edition.
 
 
 ;Download Firefox Dev Edition
@@ -258,12 +261,12 @@ Besøk Dev Tools Challenger
 
 
 ;<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
-<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">Ver med i Webdev-bidragsgruppa</a> og start med å samarbeide med andra Mozillianarar rundt om i verda.
 
 
 # Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
-<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved" target="_blank">Ver med i Webdev bidragsgruppa</a> og start med å samarbeide med andre Mozillianarar rundt om i verda.
 
 
 ;Thanks for taking the challenge
@@ -288,12 +291,12 @@ Installer Mozilla Stumbler
 
 
 ;<a href="%s">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
-<a href="%s">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
+<a href="%s">Les meir om Mozillas plasseringstenester</a> og oppdag fleire måtar å vere med på.
 
 
 # Obsolete string, do not remove
 ;<a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
-<a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
+<a href="%s" target="_blank">Les meir om Mozillas plasseringstenester</a> og oppdag fleire måtar å engasjere deg på.
 
 
 ;Thank you for installing Mozilla Stumbler

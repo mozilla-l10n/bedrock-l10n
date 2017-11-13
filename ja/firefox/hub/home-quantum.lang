@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo page available at https://bedrock-demo-agibson.us-west.moz.works/firefox/
 
 
@@ -20,7 +21,7 @@ Firefox Quantum に出会う
 
 
 ;Fast for good.
-劇的な高速化。
+いつまでも高速。
 
 
 ;Download now
@@ -40,11 +41,11 @@ Firefox Quantum に出会う
 
 
 ;Gorgeous design and smart features for intelligent browsing.
-Gorgeous design and smart features for intelligent browsing.
+知的なブラウジングのための美しいデザインとスマートな機能。
 
 
 ;“Faster and even more minimalist, Firefox Quantum makes Chrome look old.”
-“Faster and even more minimalist, Firefox Quantum makes Chrome look old.”
+「より高速になり、一層のミニマリズムを追求した Firefox Quantum を使うと、Chrome が古臭く見えてしまう。」
 
 
 # Link points to https://www.digitaltrends.com/web/firefox-quantum-hands-on-review/
@@ -62,7 +63,7 @@ Gorgeous design and smart features for intelligent browsing.
 
 
 ;Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Get the best Firefox yet.
-Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Get the best Firefox yet.
+恐ろしいほど <a href="%(url)s">強力なブラウザーエンジン</a>。より高速なページの読み込み。史上最高の Firefox をダウンロード。
 
 
 ;30% lighter than Chrome
@@ -70,7 +71,7 @@ Chrome より 30% 軽量
 
 
 ;<a href="%(url)s">Less memory usage</a> means more space for your computer to keep running smoothly. Your other programs will thank you.
-<a href="%(url)s">Less memory usage</a> means more space for your computer to keep running smoothly. Your other programs will thank you.
+<a href="%(url)s">省メモリー</a> は、コンピューターがスムーズに動作する余裕を持つことを意味します。他のプログラムからも感謝されるでしょう。
 
 
 ;Smooth browsing
@@ -78,16 +79,16 @@ Chrome より 30% 軽量
 
 
 ;Whether you’ve opened 10 or 1000, switching between tabs is faster than ever with Firefox’s new, responsive engine.
-Whether you’ve opened 10 or 1000, switching between tabs is faster than ever with Firefox’s new, responsive engine.
+10 個あるいは 1,000 個タブを開いたとしても、応答性が高い Firefox の新エンジンなら、かつてなく高速に切り替えられます。
 
 
 # This is an alternative text for a screenshot.
 ;Firefox screenshot showing many open tabs and browser windows running simultaneously.
-Firefox screenshot showing many open tabs and browser windows running simultaneously.
+多くのタブとブラウザーウィンドウを同時に開いて実行しているところを示した Firefox のスクリーンショット。
 
 
 ;Moving browsers? We got you.
-Moving browsers? We got you.
+ブラウザを乗り換えますか？ お任せください。
 
 
 ;Instantly import your online info and favorites from any other browser.
@@ -119,7 +120,7 @@ Moving browsers? We got you.
 
 
 ;Firefox blocks online trackers while you browse and won’t remember your history after you’re done.
-Firefox blocks online trackers while you browse and won’t remember your history after you’re done.
+Firefox はブラウジング中にオンラインの追跡者をブロックし、終了後に履歴を記憶しません。
 
 
 ;Tracking Protection
@@ -127,7 +128,7 @@ Firefox blocks online trackers while you browse and won’t remember your histor
 
 
 ;Some ads have hidden trackers that follow you online. Rude. We know. That’s why our powerful tool stops them cold.
-Some ads have hidden trackers that follow you online. Rude. We know. That’s why our powerful tool stops them cold.
+一部の広告にはあなたをオンラインで付け回る追跡者が隠れています。失礼ですね。分かります。だからこそ、Firefox の強力なツールは彼らをシャットアウトします。
 
 
 ;Faster Page Loading
@@ -135,7 +136,7 @@ Some ads have hidden trackers that follow you online. Rude. We know. That’s wh
 
 
 ;By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages load up to 44%% faster</a>. Now that’s a win-win.
-By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages load up to 44%% faster</a>. Now that’s a win-win.
+ブラウジングを遅くする一部の広告やスクリプトをブロックすることで、<a href="%(url)s">ページの読み込みは最大で 44%% も高速になります</a>。メリットだらけですね。
 
 
 ;Firefox Quantum features
@@ -156,16 +157,16 @@ Firefox Quantum の機能
 
 
 ;Built right into the toolbar, it’s the ultimate save-for-later feature. View your articles, videos and pages across any device.
-Built right into the toolbar, it’s the ultimate save-for-later feature. View your articles, videos and pages across any device.
+ツールバーに直接組み込まれた究極の「後で読む」機能。ニュース記事、動画、ページなどをあらゆる端末で表示できます。
 
 
 # WASM is short for WebAssembly
 ;Engineered for next-gen gaming, Firefox has built-in support for WASM and WebVR. No additional installation needed!
-Engineered for next-gen gaming, Firefox has built-in support for WASM and WebVR. No additional installation needed!
+次世代ゲームのために設計された Firefox は、WASM や WebVR に標準対応。追加のインストールは一切不要です！
 
 
 ;Save time! Find all your favorite content like Pocket saves, bookmarks, browsing history, screenshots and downloads in one spot.
-Save time! Find all your favorite content like Pocket saves, bookmarks, browsing history, screenshots and downloads in one spot.
+時間を節約！ Pocket に保存したページ、ブックマーク、閲覧履歴、スクリーンショット、ダウンロードなど、お気に入りのコンテンツをすべて 1 か所で見つけ出せます。
 
 
 ;Customization Features
@@ -182,7 +183,7 @@ LastPass、uBlock Origin、Evernote など豊富な拡張機能で Firefox を�
 
 
 ;Make over Firefox to suit your mood! Choose a new look from our theme categories or create your own.
-Make over Firefox to suit your mood! Choose a new look from our theme categories or create your own.
+あなたのムードに合わせて Firefox を仕立てましょう！ テーマギャラリーから新しいデザインを選ぶか、自分で好きなものを作ることもできます。
 
 
 ;Toolbar
@@ -190,7 +191,7 @@ Make over Firefox to suit your mood! Choose a new look from our theme categories
 
 
 ;Set up Firefox your way. Drag and drop features in and out of your toolbar for easy access.
-Set up Firefox your way. Drag and drop features in and out of your toolbar for easy access.
+思い通りに Firefox を設定。ツールバーに置く機能をドラッグ＆ドロップで選択すれば、いつでも簡単に使えます。
 
 
 ;Sync your devices
@@ -198,19 +199,19 @@ Set up Firefox your way. Drag and drop features in and out of your toolbar for e
 
 
 ;Seamlessly access passwords, bookmarks and more. Plus, use our Send Tabs feature to instantly share open tabs between desktop, mobile and tablet.
-Seamlessly access passwords, bookmarks and more. Plus, use our Send Tabs feature to instantly share open tabs between desktop, mobile and tablet.
+パスワード、ブックマークなどにどこからでもアクセス。さらに、Send Tabs 機能を使えば、開いているタブを、デスクトップ、モバイル、タブレット間で即座に共有できます。
 
 
 ;Image of Gif shared from desktop to mobile using the Send Tab feature.
-Image of Gif shared from desktop to mobile using the Send Tab feature.
+Send Tabs 機能を使ってデスクトップからモバイルへ GIF を共有している画像。
 
 
 ;Browse for good
-Browse for good
+いつまでも高速にブラウジング
 
 
 # "More than meets the eye" here means something greater, more significant than it seems to be.
 ;More than meets the eye. Did you know Firefox is backed by the not-for-profit Mozilla? The organization keeps the Internet healthier through programs that support tech education for girls, create trust around factual news, bring civility to the comments section and more.
-More than meets the eye. Did you know Firefox is backed by the not-for-profit Mozilla? The organization keeps the Internet healthier through programs that support tech education for girls, create trust around factual news, bring civility to the comments section and more.
+あまり知られていない事実。Firefox は Mozilla という非営利法人が提供していることをご存知でしたか？ この組織は、少女の技術教育を支えたり、真実に基づくニュースの信頼を築いたり、コメント欄に丁寧さをもたらしたりする様々なプログラムを通じて、インターネットを健全に保つことに注力しています。
 
 

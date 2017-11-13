@@ -30,7 +30,7 @@ Nástěnka zájmů
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Edice pro vývojáře
+Developer Edition {ok}
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -73,7 +73,7 @@ Produkty
 # A top menu navigation label that points to https://addons.mozilla.org/firefox/.
 # Will replace Add-ons once this string is localized.
 ;Extensions
-Extensions
+Rozšíření
 
 
 ;Add-ons
@@ -322,7 +322,7 @@ Zapojte se do vývoje této stránky
 
 # Used in footer, links to the source code of the page currently displayed.
 ;Source code for this page
-Source code for this page
+Zdrojový kód této stránky
 
 
 # Top menu item
