@@ -56,7 +56,7 @@ Go Fast
 
 
 ;You have things to do. Get them done faster.
-You have things to do. Get them done faster.
+Itye ki jami me atima. Tim gi oyoto.
 
 
 ;Go Far
@@ -76,7 +76,7 @@ Tii ki layeny ma ki yubu pi dano, pe pi nongo magoba.
 
 
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+Bed kacel ki <br> jami weng ma Firefox.
 
 
 ;Firefox for other platforms
@@ -99,27 +99,27 @@ Gam Firefox <span>pi Linux</span>
 
 
 ;Welcome to Firefox
-Welcome to Firefox
+Wajoli i Firefox
 
 
 ;Already using Firefox?
-Already using Firefox?
+Dong itye ka tic ki Firefox?
 
 
 ;Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
-Sign in to your account and we’ll sync the bookmarks, passwords and other great things you’ve saved to Firefox on other devices.
+Dony iyie account mamegi ci wa biribo alamabuk, mung me donyo ki jami mogo mabeco ma igowko i Firefox ma i nyonyo ni mukene.
 
 
 ;Learn more about Firefox Accounts
-Learn more about Firefox Accounts
+Nong ngec mapol ikom Akaunt me Firefox
 
 
 ;Skip this step
-Skip this step
+Kal citep man
 
 
 ;Behold! The open web awaits.
-Behold! The open web awaits.
+Nen! Kakube ma ayaba tye kakuri.
 
 
 ;Thanks for choosing Firefox. Your download should begin automatically. If not, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
@@ -137,7 +137,7 @@ Advanced install options & other platforms
 
 # Link displayed in the download button dialog
 ;Other languages
-Other languages
+Leb mapatpat
 
 
 # Title displayed in the modal window for advanced options.

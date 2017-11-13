@@ -1,3 +1,6 @@
+## active ##
+## ember_reference_fix ##
+## quantum-firstrun-whatsnew ##
 ## NOTE: demo page available at https://bedrock-demo-craigcook.us-west.moz.works/firefox/developer/
 
 
@@ -40,11 +43,11 @@ Firefox DevTools {ok}
 
 # Link points to http://firefox-dev.tools/
 ;Learn more about Firefox developer tools
-Learn more about Firefox developer tools
+เรียนรู้เพิ่มเติมเกี่ยวกับเครื่องมือนักพัฒนาของ Firefox
 
 
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
-The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
+Firefox DevTools ตัวใหม่ทรงพลัง ยืดหยุ่นและเหนือสิ่งใดมีเสรีภาพในการแก้ไขดัดแปลง รวมไปถึงตัวดีบั๊ก JavaScript ที่ดีที่สุดในจำพวกเดียวกัน ซึ่งใช้ได้หลายเว็บเบราว์เซอร์และสร้างมาบน React และ Redux
 
 
 # String is obsolete. Do not remove.
@@ -62,7 +65,7 @@ Firefox DevTools ใหม่ทรงพลัง ยืดหยุ่นแ�
 
 # Link points to https://mozilladevelopers.github.io/playground/
 ;Learn more about CSS Grid
-Learn more about CSS Grid
+เรียนรู้เพิ่มเติมเกี่ยว CSS Grid
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
@@ -88,7 +91,7 @@ Firefox เป็นเบราว์เซอร์ตัวเดียวท
 
 # Link points to https://developer.mozilla.org/docs/Tools/Page_Inspector
 ;Learn more about Page Inspector
-Learn more about Page Inspector
+เรียนรู้เพิ่มเกี่ยวกับตัวตรวจสอบหน้า
 
 
 ;Console
@@ -127,7 +130,7 @@ Learn more about Page Inspector
 
 # Link points to https://developer.mozilla.org/docs/Tools/Network_Monitor
 ;Learn more about Network Monitor
-Learn more about Network Monitor
+เรียนรู้เพิ่มเติมเกี่ยวกับตัวตรวจสอบเครือข่าย
 
 
 ;Storage panel
@@ -140,7 +143,7 @@ Learn more about Network Monitor
 
 # Link points to https://developer.mozilla.org/docs/Tools/Storage_Inspector
 ;Learn more about Storage Panel
-Learn more about Storage Panel
+เรียนรู้เพิ่มเติมเกี่ยวกับแผงที่เก็บข้อมูล
 
 
 ;Responsive Design Mode
@@ -153,7 +156,7 @@ Learn more about Storage Panel
 
 # Link points to https://developer.mozilla.org/docs/Tools/Responsive_Design_View
 ;Learn more about Responsive Design View
-Learn more about Responsive Design View
+เรียนรู้เพิ่มเติมเกี่ยวกับมุมมองการออกแบบเชิงตอบสนอง
 
 
 ;Visual Editing
@@ -179,7 +182,7 @@ Learn more about Responsive Design View
 
 # Link points to https://developer.mozilla.org/docs/Tools/Performance
 ;Learn more about Performance Tools
-Learn more about Performance Tools
+เรียนรู้เพิ่มเติมเกี่ยวกับเครื่องมือประสิทธิภาพการทำงาน
 
 
 ;Memory
@@ -192,7 +195,7 @@ Learn more about Performance Tools
 
 # Link points to https://developer.mozilla.org/docs/Tools/Memory
 ;Learn more about Memory Tools
-Learn more about Memory Tools
+เรียนรู้เพิ่มเติมเกี่ยวกับเครื่องมือตรวจสอบหน่วยความจำ
 
 
 ;Web Audio
@@ -304,7 +307,7 @@ Firefox Quantum รวมเอนจิน CSS ใหม่ เขียนด�
 
 
 ;Firefox Nightly receives daily updates and allows you to access features months before they go mainstream.
-Firefox Nightly receives daily updates and allows you to access features months before they go mainstream.
+Firefox Nightly ผู้ใช้จะได้โปรแกรมที่ปรับปรุงทุกวันและทำให้ได้ใช้คุณสมบัติใหม่ก่อนรุ่นเสถียรเป็นเดือน
 
 
 ;Congrats. You now have Firefox Quantum: Developer Edition.
