@@ -1,3 +1,6 @@
+## active ##
+## ember_reference_fix ##
+## quantum-firstrun-whatsnew ##
 ## NOTE: demo page available at https://bedrock-demo-craigcook.us-west.moz.works/firefox/developer/
 
 
@@ -66,7 +69,7 @@ Firefox був повністю перебудований і тепер він 
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
-Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
+Firefox - це єдиний браузер, що містить інструменти, створені спеціально для розробки і дизайну за допомогою CSS-сітки. Ці інструменти дозволяють вам візуалізувати сітку, відображати пов'язані назви областей, переглядати трансформації в сітці та багато іншого.
 
 
 ;Design. Code. Test. Refine.
@@ -88,7 +91,7 @@ Firefox is the only browser with tools built specifically for building and desig
 
 # Link points to https://developer.mozilla.org/docs/Tools/Page_Inspector
 ;Learn more about Page Inspector
-Learn more about Page Inspector
+Докладніше про інспектора сторінки
 
 
 ;Console
@@ -101,7 +104,7 @@ Learn more about Page Inspector
 
 # Link points to https://developer.mozilla.org/docs/Tools/Web_Console
 ;Learn more about Web Console
-Learn more about Web Console
+Докладніше про веб-консоль
 
 
 ;Debugger
@@ -127,7 +130,7 @@ Learn more about Web Console
 
 # Link points to https://developer.mozilla.org/docs/Tools/Network_Monitor
 ;Learn more about Network Monitor
-Learn more about Network Monitor
+Докладніше про монітор мережі
 
 
 ;Storage panel
@@ -140,7 +143,7 @@ Learn more about Network Monitor
 
 # Link points to https://developer.mozilla.org/docs/Tools/Storage_Inspector
 ;Learn more about Storage Panel
-Learn more about Storage Panel
+Докладніше про панель сховища
 
 
 ;Responsive Design Mode
@@ -153,7 +156,7 @@ Learn more about Storage Panel
 
 # Link points to https://developer.mozilla.org/docs/Tools/Responsive_Design_View
 ;Learn more about Responsive Design View
-Learn more about Responsive Design View
+Докладніше про перегляд адаптивного дизайну
 
 
 ;Visual Editing
@@ -166,7 +169,7 @@ Learn more about Responsive Design View
 
 # Link points to https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more
 ;Learn more about Visual Editing
-Learn more about Visual Editing
+Докладніше про візуальне редагування
 
 
 ;Performance
@@ -179,7 +182,7 @@ Learn more about Visual Editing
 
 # Link points to https://developer.mozilla.org/docs/Tools/Performance
 ;Learn more about Performance Tools
-Learn more about Performance Tools
+Докладніше про інструменти швидкодії
 
 
 ;Memory
@@ -192,7 +195,7 @@ Learn more about Performance Tools
 
 # Link points to https://developer.mozilla.org/docs/Tools/Memory
 ;Learn more about Memory Tools
-Learn more about Memory Tools
+Докладніше про інструменти пам'яті
 
 
 ;Web Audio
@@ -205,7 +208,7 @@ Learn more about Memory Tools
 
 # Link points to https://developer.mozilla.org/docs/Tools/Web_Audio_Editor
 ;Learn more about Web Audio Editor
-Learn more about Web Audio Editor
+Докладніше про редактор веб-аудіо
 
 
 ;Scratchpad
@@ -218,7 +221,7 @@ Learn more about Web Audio Editor
 
 # Link points to https://developer.mozilla.org/docs/Tools/Scratchpad
 ;Learn more about Scratchpad
-Learn more about Scratchpad
+Докладніше про простий редактор Java Script
 
 
 ;Style Editor
@@ -231,7 +234,7 @@ Learn more about Scratchpad
 
 # Link points to https://developer.mozilla.org/docs/Tools/Style_Editor
 ;Learn more about Style Editor
-Learn more about Style Editor
+Докладніше про редактор стилю
 
 
 ;Speak up
@@ -266,15 +269,15 @@ Learn more about Style Editor
 
 # First run page at https://www.mozilla.org/firefox/57.0a2/firstrun/
 ;Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
-Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
+Firefox Developer Edition - блискавично швидкий браузер із найновішими інструментами розробника та можливостями, такими як підтримка CSS-сітки та зневаджувач.
 
 
 ;Welcome to the all-new Firefox Quantum: Developer Edition
-Welcome to the all-new Firefox Quantum: Developer Edition
+Вітаємо вас у новому Firefox Quantum: версія розробника
 
 
 ;Firefox has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
-Firefox has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
+Firefox був повністю перебудований і тепер він швидший, легший та потужніший, ніж будь-коли.
 
 
 ;Firefox Devtools
@@ -287,7 +290,7 @@ Firefox has been rebuilt from the ground-up to be faster, sleeker, and more powe
 
 # line break for visual formatting
 ;Get developer news, tricks and resources <br /> sent straight to your inbox.
-Get developer news, tricks and resources <br /> sent straight to your inbox.
+Отримайте новини, поради та ресурси <br /> безпосередньо у вашу поштову скриньку.
 
 
 ;A Next-Generation CSS Engine (hint: it’s fast)
@@ -295,23 +298,23 @@ Get developer news, tricks and resources <br /> sent straight to your inbox.
 
 
 ;Firefox Quantum includes a new CSS engine, written in Rust, that has state-of-the-art innovations and is blazingly fast.
-Firefox Quantum includes a new CSS engine, written in Rust, that has state-of-the-art innovations and is blazingly fast.
+Firefox Quantum включає новий рушій CSS, написаний мовою Rust, що містить останні інновації, а також є блискавично швидким.
 
 
 # What's new run page at https://www.mozilla.org/firefox/57.0a2/whatsnew/
 ;Want to be on the cutting-edge?
-Want to be on the cutting-edge?
+Бажаєте бути попереду?
 
 
 ;Firefox Nightly receives daily updates and allows you to access features months before they go mainstream.
-Firefox Nightly receives daily updates and allows you to access features months before they go mainstream.
+Firefox Nightly оновлюється щодня і дає вам доступ до найновіших функцій за місяці до того, як вони стануть загальнодоступними.
 
 
 ;Congrats. You now have Firefox Quantum: Developer Edition.
-Congrats. You now have Firefox Quantum: Developer Edition.
+Вітаємо! Ви встановили Firefox Quantum: версію розробника.
 
 
 ;This isn’t just an update. This is Firefox Quantum: A brand new Firefox that has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
-This isn’t just an update. This is Firefox Quantum: A brand new Firefox that has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
+Це не просто оновлення. Це Firefox Quantum: абсолютно новий Firefox, швидший, легший та потужніший, ніж будь-коли.
 
 
