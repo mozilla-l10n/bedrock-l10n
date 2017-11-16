@@ -3,7 +3,7 @@
 
 # HTML page title
 ;The new, fast browser for Mac, PC and Linux
-The new, fast browser for Mac, PC and Linux
+Nov, brz preglednik za Mac, PC i Linux
 
 
 # HTML page description
@@ -12,27 +12,27 @@ Responsive engine, less memory usage and packed with features. Download for desk
 
 
 ;The New Firefox
-The New Firefox
+Novi Firefox
 
 
 ;Meet Firefox Quantum.
-Meet Firefox Quantum.
+Upoznajte Firefox Quantum.
 
 
 ;Fast for good.
-Fast for good.
+Brzo za dobro.
 
 
 ;Download now
-Download now
+Preuzmite sada
 
 
 ;What’s new?
-What’s new?
+Što je novo?
 
 
 ;A powerful, new engine that’s built for rapidfire performance.
-A powerful, new engine that’s built for rapidfire performance.
+Snažan, novi mehanizam izgrađen za brze performanse.
 
 
 ;Better, faster page loading that uses less computer memory.
@@ -49,16 +49,16 @@ Gorgeous design and smart features for intelligent browsing.
 
 # Link points to https://www.digitaltrends.com/web/firefox-quantum-hands-on-review/
 ;(Digital Trends)
-(Digital Trends)
+(Digital Trends) {ok}
 
 
 # This is an alternative text for a screenshot.
 ;Screenshot of the redesigned Firefox new-tab page.
-Screenshot of the redesigned Firefox new-tab page.
+Slika ažurirane nove stranice kartica Firefox.
 
 
 ;2x Faster
-2x Faster
+2x brži
 
 
 ;Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Get the best Firefox yet.
@@ -95,23 +95,23 @@ Instantly import your online info and favorites from any other browser.
 
 
 ;Bookmarks
-Bookmarks
+Zabilješke
 
 
 ;Auto Fill
-Auto Fill
+Automatsko popunjavanje
 
 
 ;Passwords
-Passwords
+Lozinke
 
 
 ;History
-History
+Povijest
 
 
 ;Seriously Private Browsing
-Seriously Private Browsing
+Ozbiljno privatno pretraživanje
 
 
 ;The most powerful private browsing mode with added tracking protection.
@@ -123,7 +123,7 @@ Firefox blocks online trackers while you browse and won’t remember your histor
 
 
 ;Tracking Protection
-Tracking Protection
+Zaštita od praćenja
 
 
 ;Some ads have hidden trackers that follow you online. Rude. We know. That’s why our powerful tool stops them cold.
@@ -131,7 +131,7 @@ Some ads have hidden trackers that follow you online. Rude. We know. That’s wh
 
 
 ;Faster Page Loading
-Faster Page Loading
+Brže učitavanje stranica
 
 
 ;By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages load up to 44%% faster</a>. Now that’s a win-win.
@@ -139,16 +139,16 @@ By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages
 
 
 ;Firefox Quantum features
-Firefox Quantum features
+Značajke Firefoxa Quantum
 
 
 # VR can be spelled out as "Virtual Reality" if clearer.
 ;Gaming & VR
-Gaming & VR
+Igre i VR
 
 
 ;Library
-Library
+Knjižnica
 
 
 ;Uncomplicate screenshots. Take and share them directly from Firefox. That means no more searching for mysterious file names on your computer.
@@ -173,7 +173,7 @@ Customization Features
 
 
 ;Extensions
-Extensions
+Proširenja
 
 
 # App names remain in English.
