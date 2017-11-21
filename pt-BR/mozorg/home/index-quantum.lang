@@ -1,4 +1,5 @@
 ## active ##
+## home-fundraiser-EOY2017 ##
 ## mozorg-home-health-report ##
 ## mozorg-home-impact-health ##
 ## NOTE: demo server at https://www-dev.allizom.org/
@@ -15,12 +16,12 @@ Você sabia? A Mozilla — criadora do Firefox — luta para manter a Internet c
 
 
 ;We all love the web. Join Mozilla in defending it.
-We all love the web. Join Mozilla in defending it.
+Todos nós amamos a web. Junte-se à Mozilla para defendê-la.
 
 
 # "Cup of coffee" is meant to represent an inexpensive item that an average person would purchase daily/without hesitation. Feel free to substitute with something affordable locally.
 ;Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
-Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
+Vamos proteger o maior recurso público do mundo para futuras gerações. Algumas vezes por ano, a Mozilla pede doações. Doando apenas o valor de uma xícara de café pode nos ajudar a manter a web saudável, maravilhosa e acolhedora para todos.
 
 
 # Line break below for visual formatting only
@@ -37,7 +38,7 @@ Nosso impacto
 
 
 ;When you use Firefox, you help Mozilla fight misinformation online, teach digital skills and make the comments section more human. Check out what helps create a healthier internet.
-When you use Firefox, you help Mozilla fight misinformation online, teach digital skills and make the comments section more human. Check out what helps create a healthier internet.
+Quando você usa o Firefox, você ajuda a Mozilla a lutar contra a desinformação online, ensinar habilidades digitais e fazer a seção de comentários mais humana. Confira o que ajuda a criar uma Internet mais saudável.
 
 
 # String is obsolete. Do not remove.
@@ -62,7 +63,7 @@ The Coral Project
 
 # Link points to https://internethealthreport.org
 ;Internet Health Report
-Internet Health Report
+Relatório de Saúde da Internet
 
 
 # String is obsolete. Do not remove.
@@ -157,7 +158,7 @@ Uma vez
 
 # Take over form: button to submit the donation form
 ;Donate
-Donate
+Doar
 
 
 ;Working to keep the Internet healthy, open and accessible to all, we teach web literacy, provide tools and advocate on behalf of every individual who values the Internet as a global public resource.
@@ -170,7 +171,7 @@ The new <span>Firefox</span>
 
 
 ;Fast for good.
-Fast for good.
+Rápido de verdade.
 
 
 # The string is obsolete. Do not remove.

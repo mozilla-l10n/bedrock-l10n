@@ -1,4 +1,6 @@
 ## active ##
+## home-fundraiser-EOY2017 ##
+## home-update-20171116 ##
 ## mozorg-home-health-report ##
 ## mozorg-home-impact-health ##
 ## NOTE: demo server at https://www-dev.allizom.org/
@@ -15,12 +17,12 @@
 
 
 ;We all love the web. Join Mozilla in defending it.
-We all love the web. Join Mozilla in defending it.
+Ми всі любимо Інтернет. Приєднуйтесь до Mozilla для його захисту.
 
 
 # "Cup of coffee" is meant to represent an inexpensive item that an average person would purchase daily/without hesitation. Feel free to substitute with something affordable locally.
 ;Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
-Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
+Давайте захистимо найбільший у світі загальнодоступний ресурс для майбутніх поколінь. Декілька разів на рік Mozilla пропонує зробити внесок. Навіть зовсім незначна сума внеску допоможе нам зберегти здоров'я інтернету для всіх.
 
 
 # Line break below for visual formatting only
@@ -37,7 +39,7 @@ Let’s protect the world’s largest public resource for future generations. A 
 
 
 ;When you use Firefox, you help Mozilla fight misinformation online, teach digital skills and make the comments section more human. Check out what helps create a healthier internet.
-When you use Firefox, you help Mozilla fight misinformation online, teach digital skills and make the comments section more human. Check out what helps create a healthier internet.
+Коли ви використовуєте Firefox, ви допомагаєте компанії Mozilla захищати інформацію в мережі, навчати цифровим технологіям і робити розділ для коментарів досконалішим. Погляньте, що допомагає робити інтернет кращим.
 
 
 # String is obsolete. Do not remove.
@@ -47,22 +49,22 @@ When you use Firefox, you help Mozilla fight misinformation online, teach digita
 
 # Link points to https://blog.mozilla.org/blog/2017/08/08/mozilla-information-trust-initiative-building-movement-fight-misinformation-online/
 ;Mozilla Information Trust Initiative
-Mozilla Information Trust Initiative
+Ініціатива довіри інформації від Mozilla
 
 
 # Link points to https://learning.mozilla.org/blog/new-partnership-with-un-women-to-teach-key-digital-skills-to-women
 ;Empowering Women Online
-Empowering Women Online
+Надихаючи жінок в мережі
 
 
 # Link points to https://blog.mozilla.org/blog/2017/09/06/mozilla-washington-post-reinventing-online-comments/
 ;The Coral Project
-The Coral Project
+Проект Coral
 
 
 # Link points to https://internethealthreport.org
 ;Internet Health Report
-Internet Health Report
+Звіт про здоров'я Інтернету
 
 
 # String is obsolete. Do not remove.
@@ -94,7 +96,7 @@ Internet Health Report
 
 
 ;Common Voice
-Common Voice
+Спільна позиція
 
 
 # String is obsolete. Do not remove.
@@ -157,7 +159,7 @@ $%(sum)s {ok}
 
 # Take over form: button to submit the donation form
 ;Donate
-Donate
+Зробити внесок
 
 
 ;Working to keep the Internet healthy, open and accessible to all, we teach web literacy, provide tools and advocate on behalf of every individual who values the Internet as a global public resource.
@@ -166,11 +168,11 @@ Donate
 
 # The <span> below is for visual formatting only - bolding the word 'Firefox'.
 ;The new <span>Firefox</span>
-The new <span>Firefox</span>
+Новий <span>Firefox</span>
 
 
 ;Fast for good.
-Fast for good.
+Швидкість заради добрих справ.
 
 
 # The string is obsolete. Do not remove.
@@ -179,7 +181,7 @@ Fast for good.
 
 
 ;With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is the better way to browse.
-With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is the better way to browse.
+Із подвоєною швидкістю, вбудованим захистом приватності та підтримкою Mozilla, новий Firefox є кращим засобом для роботи в інтернеті.
 
 
 # String is obsolete. Do not remove.
@@ -192,7 +194,7 @@ With 2x the speed, built-in privacy protection and Mozilla behind it, the new Fi
 
 
 ;Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profit.
-Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profit.
+Mozilla - некомерційна організація, що створила Firefox, перший альтернативний браузер. Ми розробляємо продукти та стратегії для людей, а не задля прибутку.
 
 
 # String is obsolete. Do not remove.
