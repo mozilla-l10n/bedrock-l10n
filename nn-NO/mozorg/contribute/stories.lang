@@ -2,7 +2,7 @@
 
 
 ;Meet Mozillians from all around the world. Learn about the projects they’ve worked on and see what they’re currently helping with.
-Meet Mozillians from all around the world. Learn about the projects they’ve worked on and see what they’re currently helping with.
+Møt Mozillianarar frå heile verda. Finn ut kva for prosjekt dei har arbeidd med, og sjå kva dei hjelper til med akkurat no.
 
 
 ;Meet a few more Mozillians
@@ -10,7 +10,7 @@ Møt fleire Mozillianarar
 
 
 ;Read their stories here and discover even more on Twitter with <a href="%(link_hashtag)s">#IAmAMozillian</a>
-Read their stories here and discover even more on Twitter with <a href="%(link_hashtag)s">#IAmAMozillian</a>
+Les historiane deira her, og oppdag endå meir på Twitter med <a href="%(link_hashtag)s">#IAmAMozillian</a>
 
 
 ;Mozillian Stories
@@ -19,7 +19,7 @@ Mozilla historier
 
 # These <b>s are for formatting.
 ;Hi, I’m <b class="name">Rubén</b>, a Mozillian in <b class="country">Spain</b>
-Hi, I’m <b class="name">Rubén</b>, a Mozillian in <b class="country">Spain</b>
+Hei, eg heiter <b class="name">Rubén</b>, og er ein Mozillianar frå <b class="country">Spania</b>
 
 
 ;I’ve been collaborating with the Mozilla community since 2004, helping with website localization, QA, user support and community marketing. I’ve also helped organize events in Spain and performed IT tasks within the Mozilla Hispano community.
@@ -72,7 +72,7 @@ My passion is for organizing local Webmaker and WoMoz (Women in Mozilla) communi
 
 
 ;My favorite part of being a Mozillian is the global community. I like to think of us as a “family” where we accept each other openly and are free to speak our minds while we work together.
-My favorite part of being a Mozillian is the global community. I like to think of us as a “family” where we accept each other openly and are free to speak our minds while we work together.
+Det beste med å vere ein Mozillianar er det globale fellesskapet. Vi er som ein slags «famile», der vi ope godtek kvarandre og kan ha ein open dialog når vi arbeider saman.
 
 
 # These <b>s are for formatting so we can style the name and country.

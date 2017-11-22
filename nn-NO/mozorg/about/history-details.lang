@@ -14,7 +14,7 @@ Tanken var å utnytte den kreativa krafta hos alle dei tusentals av programmerar
 
 
 ;Within the <a href="%(firstyear)s">first year</a>, new community members from around the world had already contributed new functionality, enhanced existing features and became engaged in the management and planning of the project itself.
-Within the <a href="%(firstyear)s">first year</a>, new community members from around the world had already contributed new functionality, enhanced existing features and became engaged in the management and planning of the project itself.
+I løpet av <a href="%(firstyear)s">det første året</a> bidrog nye fellesskapsmedlemmar frå heile verda med nye funksjonar og forbetringar av eksisterande funksjonar, og engasjerte seg dessutan i forvaltninga og planlegginga av sjølve prosjektet.
 
 
 ;By creating an open community, the Mozilla project had become <a href="%(stevecase)s">larger than any one company</a>.
@@ -22,7 +22,7 @@ Ved å byggje ein open fellesskap hadde prosjektet Mozilla vorte <a href="%(stev
 
 
 ;Community members got involved and expanded the scope of the project’s <a href="%(mission)s">original mission</a> — instead of just working on Netscape’s next browser, people started creating <a href="%(browsers)s">a variety of browsers</a>, <a href="%(bugzilla)s">development tools</a> and a range of other <a href="%(projects)s">projects</a>.
-Community members got involved and expanded the scope of the project’s <a href="%(mission)s">original mission</a> — instead of just working on Netscape’s next browser, people started creating <a href="%(browsers)s">a variety of browsers</a>, <a href="%(bugzilla)s">development tools</a> and a range of other <a href="%(projects)s">projects</a>.
+Medlemmar av fellesskapet engasjerte seg og utvida omfanget av det <a href="%(mission)s">opphavlege oppdraget</a> til prosjektet — i staden for å berre arbeide med den neste nettlesaren til Netscape, byrja folk å lage <a href="%(browsers)s">mange ulike nettlesarar</a>, <a href="%(bugzilla)s">utviklarverktøy</a> og mange andre <a href="%(projects)s">prosjekt</a>.
 
 
 ;People contributed to Mozilla in different ways, but everyone was passionate about creating free software that would enable people to have a choice in how they experienced the Internet.
@@ -42,11 +42,11 @@ Not many people noticed at the time, but the first version of Phoenix (later ren
 
 
 ;In 2003, the Mozilla project created the Mozilla Foundation, an <a href="%(foundation)s">independent non-profit organization</a> supported by individual donors and a variety of companies.
-In 2003, the Mozilla project created the Mozilla Foundation, an <a href="%(foundation)s">independent non-profit organization</a> supported by individual donors and a variety of companies.
+I 2003 oppretta Mozilla-prosjektet Mozilla Foundation, ein <a href="%(foundation)s">uavhengig ideell organisasjon</a> støtta av individuelle gjevarar og ei rad ulike selskap.
 
 
 ;The new Mozilla Foundation continued the role of managing the daily operations of the project and also officially took on the role of promoting <a href="%(manifesto)s">openness, innovation and opportunity</a> on the Internet.
-The new Mozilla Foundation continued the role of managing the daily operations of the project and also officially took on the role of promoting <a href="%(manifesto)s">openness, innovation and opportunity</a> on the Internet.
+Den nystifta Mozilla Foundation tok over forvaltninga av den daglege verksemda innan prosjektet og tok også offisielt over rolla som forkjempar for <a href="%(manifesto)s">openheit, nyskaping og mulegheiter</a> på nettet.
 
 
 ;It did this by continuing to release software, such as Firefox and Thunderbird, and expanding to new areas, such as providing <a href="%(grants)s">grants</a> to support accessibility improvements on the Web.
@@ -106,7 +106,7 @@ The Mozilla community, together with other open source projects and other public
 
 
 ;If you want to join us in our mission, please <a href="%(contribute)s">get involved</a>.
-If you want to join us in our mission, please <a href="%(contribute)s">get involved</a>.
+Om du vil hjelpe oss med oppdraget vårt, ver snill og <a href="%(contribute)s">ver med</a>.
 
 
 ;For more information about Mozilla’s history, see the following:
