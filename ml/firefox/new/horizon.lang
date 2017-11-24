@@ -15,12 +15,12 @@ Download Mozilla Firefox, a free Web browser. Firefox is created by a global non
 
 
 ;The last independent browser.
-The last independent browser.
+അവസാനത്തെ സ്വതന്ത്ര ബ്രൌസർ.
 
 
 # String obsolete. Do NOT remove.
 ;Enjoy online freedom.
-Enjoy online freedom.
+ഒാൺലൈന്‍ സ്വാതന്ത്ര്യം ആസ്വദിക്കൂ.
 
 
 ;Thanks for choosing Firefox. Your download should begin automatically. If not, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
@@ -28,7 +28,7 @@ Thanks for choosing Firefox. Your download should begin automatically. If not, <
 
 
 ;Browse Freely
-Browse Freely
+സ്വതന്ത്രമായി തിരയുക
 
 
 ;You’re browsing freely with the latest version of Firefox.
@@ -56,11 +56,11 @@ Give Firefox a tune up
 
 
 ;Looking for more info?
-Looking for more info?
+കൂടുതല്‍ വിവരങ്ങള്‍ക്കായി നോക്കുകയാണോ?
 
 
 ;Want a fresh copy?
-Want a fresh copy?
+പുതിയ പകർപ്പ് വേണോ?
 
 
 ;Get Firefox for Android and iOS.
@@ -84,7 +84,7 @@ Please follow <a href="%(url)s">these instructions</a> to install Firefox.
 
 
 ;Freedom is fast
-Freedom is fast
+സ്വാതന്ത്ര്യം വേഗമാണ്
 
 
 ;Go anywhere you want on the Web — with a quickness.
@@ -92,7 +92,7 @@ Go anywhere you want on the Web — with a quickness.
 
 
 ;Freedom is personal
-Freedom is personal
+സ്വതന്ത്ര്യം സ്വകാര്യമാണ്
 
 
 ;Enjoy the most built-in privacy tools of any browser.
@@ -100,7 +100,7 @@ Enjoy the most built-in privacy tools of any browser.
 
 
 ;Freedom is yours
-Freedom is yours
+നിങ്ങളുടേതാണ് സ്വതന്ത്ര്യം
 
 
 ;Use the only browser built for people, not profit.
@@ -108,7 +108,7 @@ Use the only browser built for people, not profit.
 
 
 ;Firefox for other platforms
-Firefox for other platforms
+മറ്റ് പ്ലാറ്റ്ഫോമുകള്‍ക്കായുള്ള ഫയര്‍ഫോക്സ്
 
 
 ;Download Firefox <span>for Windows</span>

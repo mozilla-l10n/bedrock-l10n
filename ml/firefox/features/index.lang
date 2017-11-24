@@ -36,7 +36,7 @@ Get powerful add-ons
 
 
 ;Customize your browser
-Customize your browser
+ബ്രൗറിനെ ഉപഭോക്തൃവത്കരിക്കുക
 
 
 ;Personalize Firefox with everything from themes to privacy tools.
@@ -45,11 +45,11 @@ Personalize Firefox with everything from themes to privacy tools.
 
 # Link to https://addons.mozilla.org/firefox/themes
 ;Make Firefox yours
-Make Firefox yours
+ഫയ‍ർഫോക്സ് നിങ്ങളുടേതാക്കി മാറ്റുക
 
 
 ;Browse faster
-Browse faster
+വേഗത്തില്‍ ബ്രൗസ്സ് ചെയ്യുക
 
 
 ;Start faster, tab hop quicker, get more done.
@@ -58,11 +58,11 @@ Start faster, tab hop quicker, get more done.
 
 # Link to /firefox/features/fast
 ;Do more with Firefox
-Do more with Firefox
+ഫയര്‍ഫോക്സ് ഉപയോഗിച്ച് കൂടുതല്‍ ചെയ്യുക
 
 
 ;Sync between devices
-Sync between devices
+ഉപകരണങ്ങള്‍ക്കിടയിൽ സമന്വയിപ്പിക്കുക
 
 
 ;Get your tabs, logins and history on the go.
@@ -71,7 +71,7 @@ Get your tabs, logins and history on the go.
 
 # Link to https://www-demo5.allizom.org/firefox/sync/
 ;Use Firefox everywhere
-Use Firefox everywhere
+ഫയര്‍ഫോക്സ് എല്ലായിടത്തും ഉപയോഗിക്കുക
 
 
 ;Tabs that travel
@@ -79,28 +79,28 @@ Tabs that travel
 
 
 ;View open tabs on any device.
-View open tabs on any device.
+എല്ലാ ഉപകരണങ്ങളിലെയും തുറന്നിരഇക്കുന്ന ടാബുകള്‍ കാണുക.
 
 
 ;Start sharing
-Start sharing
+പങ്കിടല്‍ ആരംഭിക്കൂ
 
 
 ;Firefox for Android
-Firefox for Android
+ആന്‍ഡ്രോയിഡിനായുള്ള ഫയര്‍ഫോക്സ്
 
 
 ;Our most customizable Firefox for Android yet.
-Our most customizable Firefox for Android yet.
+ഞങ്ങളുടെ ഏറ്റവും വഴക്കമേറിയ ആന്‍ഡ്രോയിഡിനായുള്ള ഫയര്‍ഫോക്സ്.
 
 
 # Link to /firefox/android
 ;Take control of your browser
-Take control of your browser
+നിങ്ങളുടെ ബ്രൗസറിന്റെ നിയന്ത്രണം ഏറ്റെടുക്കുക
 
 
 ;Firefox for iOS
-Firefox for iOS
+ഐഒസിനുള്ള ഫയര്‍ഫോക്സ്
 
 
 ;The speed you need. The privacy you trust.
@@ -113,7 +113,7 @@ Go beyond the default
 
 
 ;Firefox Test Pilot
-Firefox Test Pilot
+ഫയര്‍ഫോക്സ് ടെസ്റ്റ് പൈലറ്റ്
 
 
 ;Experimental features that can simplify your life.
@@ -126,7 +126,7 @@ Help launch new features
 
 
 ;Balanced memory usage
-Balanced memory usage
+സമീകൃതമായ മെമ്മറി ഉപയോഗം
 
 
 ;Browse smoothly and leave plenty of memory for your computer programs.
@@ -135,11 +135,11 @@ Browse smoothly and leave plenty of memory for your computer programs.
 
 # Link to /firefox/features/memory
 ;Speed up your computer
-Speed up your computer
+നിങ്ങളുടെ കമ്പ്യൂട്ടര്‍ വേഗത്തിലാക്കുക
 
 
 ;Better bookmarks
-Better bookmarks
+മികച്ച അടയാളക്കുറിപ്പുകള്‍
 
 
 ;Quickly save and organize your favorite sites.
@@ -148,7 +148,7 @@ Quickly save and organize your favorite sites.
 
 # Link to /firefox/features/bookmarks
 ;Customize your bookmarks
-Customize your bookmarks
+അടയാളക്കുറിപ്പുകള്‍ ചിട്ടപ്പെടുത്തുക
 
 
 ;Privacy
@@ -169,7 +169,7 @@ Block ad trackers
 
 
 ;More powerful Private Browsing
-More powerful Private Browsing
+കൂടുതല്‍ ശക്തമായ സ്വകാര്യ ബ്രൗസിംഗ്
 
 
 # Incognito and InPrivate are features offered by Chrome and IE respectively. Check a localized version of each software to see how these features are translated, otherwise keep them in English.
@@ -179,7 +179,7 @@ More protection than Incognito mode or InPrivate.
 
 # Link to /firefox/features/private-browsing
 ;Get better privacy
-Get better privacy
+മികച്ച സ്വകാര്യത ലഭിക്കുക
 
 
 ;More private
@@ -196,7 +196,7 @@ We don’t sell access to your online data. Period.
 
 
 ;Limited data collection
-Limited data collection
+നിയന്ത്രിത വിവര ശേഖരണം
 
 
 ;Opted-in to privacy, so you can browse freely.
@@ -209,7 +209,7 @@ Opted-in to privacy, so you can browse freely.
 
 
 ;Password Manager
-Password Manager
+രഹസ്യവാക്ക് കൈകാര്യം ചെയ്യുക
 
 
 ;Forget the reset. Save passwords and logins quickly.
@@ -235,7 +235,7 @@ Protecting the health of the internet.
 
 # https://www.mozilla.org/mission/
 ;Read Mozilla’s mission
-Read Mozilla’s mission
+മോസില്ലയുടെ ദൗത്യത്തപ്പറ്റി വായിക്കുക
 
 
 ;Firefox Product Benefits
@@ -243,16 +243,16 @@ Firefox Product Benefits
 
 
 ;Open source
-Open source
+തുറന്ന സ്ത്രോതസ്സ്
 
 
 ;We’re always transparent.
-We’re always transparent.
+നമ്മള്‍ എപ്പോഴും സുതാര്യമാണ്.
 
 
 # Link to /firefox/features/independent
 ;See what makes us different
-See what makes us different
+ഞങ്ങളെ വ്യത്യരാക്കുന്നത് കാണുക
 
 
 ;Protect your rights
