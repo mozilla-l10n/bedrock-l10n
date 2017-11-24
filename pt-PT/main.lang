@@ -4,7 +4,7 @@ Navegação
 
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
-Descargas de pré-lançamento
+Descarregamentos de pré-lançamento
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -672,7 +672,7 @@ Obrigado por escolher o Firefox!
 
 # Used in combination with other strings to create HTML page titles, e.g. in What's new pages
 ;Mozilla Firefox Web Browser
-Navegador web Mozilla Firefox
+Navegador Web Mozilla Firefox
 
 
 # Link in the footer
@@ -702,7 +702,7 @@ Beta, Nightly, Developer Edition {ok}
 
 # Link in the footer
 ;Download Firefox Web Browser
-Descarregar o navegador web Firefox
+Descarregar o navegador Web Firefox
 
 
 # Link in the footer
