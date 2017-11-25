@@ -8,7 +8,7 @@
 
 # HTML meta tag (description)
 ;Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our privacy practices.
-Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our privacy practices.
+നിങ്ങളുടെ ഇന്റർനെറ്റ് അനുഭവം മെച്ചപ്പെടുത്താനായുള്ള ഒരു സ്വതന്ത്ര സോഫ്റ്റ്‍വെയര്‍ പ്രോജക്ടാണ് മോസില്ല. ഇതാണ് ഞങ്ങളുടെ സ്വകാര്യതാ സംരക്ഷണ നയങ്ങളുടെ പ്രേരകശക്തി.
 
 
 # Used in sub-pages to return to the main index https://www.mozilla.org/privacy
@@ -33,7 +33,7 @@ The following five principles stem from the <a href="%(link)s">Mozilla Manifesto
 
 
 ;shape our public policy and advocacy work
-shape our public policy and advocacy work
+നമ്മുടെ പൊതുനയവും അഡ്വക്കസി പ്രവർത്തനങ്ങളും രൂപപ്പെടുത്തുക
 
 
 ;No surprises
@@ -41,7 +41,7 @@ shape our public policy and advocacy work
 
 
 ;Use and share information in a way that is transparent and benefits the user.
-Use and share information in a way that is transparent and benefits the user.
+സുതാര്യമായും ഉപയോക്താവിന് പ്രയോജനപ്പെടുന്ന വിധത്തിലും വിവരങ്ങൾ ഉപയോഗിക്കുകയും പങ്കുവെക്കുകയും ചെയ്യുക.
 
 
 ;User control
@@ -65,7 +65,7 @@ Collect what we need, de-identify where we can and delete when no longer necessa
 
 
 ;Design for a thoughtful balance of safety and user experience.
-Design for a thoughtful balance of safety and user experience.
+മികച്ച ഉപയോഗാനുഭവവും സുരക്ഷയും സന്തുലിതമാകും വിധമുള്ള ചിന്തോദ്ദീപകമായ രൂപരേഖ.
 
 
 ;Defense in depth
@@ -73,6 +73,6 @@ Design for a thoughtful balance of safety and user experience.
 
 
 ;Maintain multi-layered security controls and practices, many of which are publicly verifiable.
-Maintain multi-layered security controls and practices, many of which are publicly verifiable.
+പൊതു പരിശോദനയ്ക്ക് വിധേയമാക്കാവുന്ന വിധം വിവിധതലങ്ങളിലുള്ള സുരക്ഷാ നിയന്ത്രണ രീതികൾ പരിപാലിക്കുക.
 
 

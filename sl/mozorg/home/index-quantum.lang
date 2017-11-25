@@ -1,4 +1,5 @@
 ## active ##
+## home-fundraiser-EOY2017 ##
 ## mozorg-home-health-report ##
 ## mozorg-home-impact-health ##
 ## NOTE: demo server at https://www-dev.allizom.org/
@@ -20,7 +21,7 @@ Vsi imamo radi splet. Pomagajte ga Mozilli braniti.
 
 # "Cup of coffee" is meant to represent an inexpensive item that an average person would purchase daily/without hesitation. Feel free to substitute with something affordable locally.
 ;Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
-Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
+Zaščitimo največji svetovni javni vir za prihodnje generacije! Nekajkrat na leto Mozilla zbira donacije. Že s prispevkom v vrednosti ene skodelice kave lahko pripomorete k temu, da internet ostane zdrav, veličasten in odprt za vsakogar.
 
 
 # Line break below for visual formatting only
@@ -57,7 +58,7 @@ Empowering Women Online
 
 # Link points to https://blog.mozilla.org/blog/2017/09/06/mozilla-washington-post-reinventing-online-comments/
 ;The Coral Project
-The Coral Project
+Projekt Coral
 
 
 # Link points to https://internethealthreport.org
@@ -94,7 +95,7 @@ Z uporabo spleta kot platforme gradimo odprte in inovativne tehnologije, ki razv
 
 
 ;Common Voice
-Common Voice
+Common Voice {ok}
 
 
 # String is obsolete. Do not remove.
@@ -166,7 +167,7 @@ Da bi internet ohranili zdrav, odprt in dostopen vsem, učimo spletno pismenost,
 
 # The <span> below is for visual formatting only - bolding the word 'Firefox'.
 ;The new <span>Firefox</span>
-The new <span>Firefox</span>
+Novi <span>Firefox</span>
 
 
 ;Fast for good.
@@ -179,7 +180,7 @@ Brskajte hitreje. Za vedno.
 
 
 ;With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is the better way to browse.
-With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is the better way to browse.
+Dvojna hitrost in vgrajena zaščita zasebnosti, pod okriljem Mozille – novi Firefox je najboljša izbira za brskanje.
 
 
 # String is obsolete. Do not remove.
@@ -192,7 +193,7 @@ Internet delamo varnejši, hitrejši in boljši za vekomaj.
 
 
 ;Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profit.
-Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profit.
+Mozilla je neprofitna organizacija, ki stoji za Firefoxom. Izdelke in politike razvijamo, da bi internet ostal storitev, namenjena ljudem in ne služenju denarja na njihov račun.
 
 
 # String is obsolete. Do not remove.
