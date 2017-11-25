@@ -1,3 +1,6 @@
+## active ##
+## join-us ##
+## manifesto_landing ##
 ## NOTE: Page is available at https://www-dev.allizom.org/about/manifesto/
 
 
@@ -140,7 +143,7 @@
 
 
 ;Individuals must have the ability to shape the Internet and their own experiences on it.
-Individuals must have the ability to shape the Internet and their own experiences on it.
+വ്യക്തികൾക്ക് തങ്ങളുടെ അനുഭവങ്ങളുടെയും പ്രയോഗത്തിന്റെയും അടിസ്ഥാനത്തിൽ ഇന്റർനെറ്റിനെ രൂപപ്പെടുത്താൻ കഴിയണം.
 
 
 ;Use these free tools to teach the Web
@@ -148,7 +151,7 @@ Individuals must have the ability to shape the Internet and their own experience
 
 
 ;Learn about creating and curating content for the Web
-Learn about creating and curating content for the Web
+വെബ് ഉളളടക്കങ്ങൾ സൃഷ്ടിക്കാനും പരിപാലിക്കാനും പഠിക്കുക
 
 
 ;Teaching the Web
@@ -164,11 +167,11 @@ Learn about creating and curating content for the Web
 
 
 ;The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
-The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
+ഇന്റർനെറ്റിന്റെ പൊതുവൽക്കരണത്തിന്റെ ഫലപ്രാപ്തി ഇന്റർറോപ്പറബിളിറ്റി (പ്രോട്ടോക്കോളുകൾ, ഡാറ്റാ ഫോർമാറ്റുകൾ, ഉള്ളടക്കം), നവീകരണവും കൂടാതെ ലോകവ്യാപകമായുളള വികേന്ദ്രീകൃത പങ്കാളിത്തവുമായി ആശ്രയിച്ചിരിക്കുന്നു.
 
 
 ;Add new voices to open source technology
-Add new voices to open source technology
+ഓപ്പന്‍ സോഴ്സ് സാങ്കേതിക വിദ്യയിലേക്ക് പുതിയ ശബ്ദങ്ങൾ ചേർക്കുക
 
 
 ;Set your Do Not Track preference
@@ -188,19 +191,19 @@ Add new voices to open source technology
 
 
 ;Free and open source software promotes the development of the Internet as a public resource.
-Free and open source software promotes the development of the Internet as a public resource.
+ഇന്റർനെറ്റിന്റെ വികാസത്തെ ഒരു പൊതുവിഭവമായിക്കരുതിയാണ് സ്വതന്ത്ര സോഫ്റ്റ് വെയർ പിന്തുണയ്ക്കുന്നത്.
 
 
 ;Explore how open practices keep the Web accessible
-Explore how open practices keep the Web accessible
+തുറന്ന സമീപനങ്ങൾ എങ്ങനെയാണ് വെബ് ലഭ്യത സാധ്യമാക്കുന്നതെന്ന് പരിശോധിക്കുക
 
 
 ;Learn how to remix content to create something new
-Learn how to remix content to create something new
+ഉള്ളടക്കം പുനക്രമീകരിക്കുന്നത് വഴി എങ്ങനെ പുതിയ ഒരു സൃഷ്ടി സാധ്യമാക്കാം എന്ന് പഠിക്കാം
 
 
 ;Learn how to maximize the interactive potential of the Web
-Learn how to maximize the interactive potential of the Web
+വെബിന്റെ പരസ്പര സംവേദനക്ഷമത എങ്ങനെ പരമാവധി വർധിപ്പിക്കാമെന്ന് പഠിക്കാം
 
 
 ;Contributing to Open Source Software
@@ -212,11 +215,11 @@ Learn how to maximize the interactive potential of the Web
 
 
 ;Transparent community-based processes promote participation, accountability and trust.
-Transparent community-based processes promote participation, accountability and trust.
+സുതാര്യവും സാമൂഹ്യാധിഷ്ഠിതവുമായ പ്രവർത്തനങ്ങൾ പങ്കാളിത്തം, ഉത്തരവാദിത്വം, വിശ്വാസ്യത എന്നിവ ഉറപ്പു വരുത്തുന്നു.
 
 
 ;Participate in our governance forum
-Participate in our governance forum
+ഞങ്ങളുടെ ഭരണനിർവഹണ സമിതിയിൽ പങ്കെടുക്കൂ
 
 
 ;Join us as a volunteer
@@ -224,16 +227,16 @@ Participate in our governance forum
 
 
 ;Join us as a student ambassador
-Join us as a student ambassador
+ഒരു സ്റ്റുഡന്റ് അമ്പാസഡര്‍ എന്ന നിലയ്ക്ക് നമ്മോടൊപ്പം ചേരുക
 
 
 # Obsolete string replaced by separate strings (do not remove)
 ;Join us as a <a href="%(volunteer)s">volunteer</a> or <a href="%(ambassador)s">student ambassador</a>
-Join us as a <a href="%(volunteer)s">volunteer</a> or <a href="%(ambassador)s">student ambassador</a>
+<a href="%(volunteer)s">വളണ്ടിയര്‍</a> ആയോ <a href="%(ambassador)s">അമ്പാസഡര്‍</a> ആയോ ഞങ്ങളോടൊപ്പം ചേരുക
 
 
 ;Learn how to collaborate online
-Learn how to collaborate online
+ഓൺലൈനായി സഹകരണം എങ്ങനെ സാധ്യമാക്കാമെന്ന് പഠിക്കാം
 
 
 ;I am a Mozillian
@@ -245,19 +248,19 @@ Learn how to collaborate online
 
 
 ;Commercial involvement in the development of the Internet brings many benefits; a balance between commercial profit and public benefit is critical.
-Commercial involvement in the development of the Internet brings many benefits; a balance between commercial profit and public benefit is critical.
+ഇന്റർനെറ്റിന്റെ വളര്‍ച്ചയില്‍ വ്യാവസായിക ഇടപെടല്‍ നിരവധി ഗുണഫലങ്ങൾ ലഭ്യമാക്കുന്നു; വ്യാവസായിക ലാഭവും പൊതു പ്രയോജനങ്ങളും തമ്മിലുള്ള സന്തുലിതത്വം നിർണായകമാണ്.
 
 
 ;Visualize who you interact with on the Web with Lightbeam
-Visualize who you interact with on the Web with Lightbeam
+ലൈറ്റ് ബീം ഉപയോഗിച്ച് വെബ്ബിൽ നിങ്ങൾ ആരുമായാണ് സംവദിക്കുന്നതെന്ന കാര്യം സങ്കൽപ്പിക്കുക
 
 
 ;See how Firefox phones seek to balance the mobile ecosystem
-See how Firefox phones seek to balance the mobile ecosystem
+എങ്ങിനാണു് ഫയർഫോക്സ് ഫോണുകൾ മൊബൈൽ ഇക്കോസിസ്റ്റം നിലനിർത്താന്‍സാരമിക്കുന്നതെന്ന് നോക്കുക
 
 
 ;Learn about creating Web resources with others
-Learn about creating Web resources with others
+എങ്ങിനെയാണ് മറ്റുള്ളവരുമായി വെബ് റിസോര്‍സ് ഉണ്ടാക്കുന്നതെന്ന് നോക്കുക
 
 
 ;Lightbeam for Firefox
@@ -323,43 +326,43 @@ Learn about creating Web resources with others
 
 
 ;The Internet is becoming an increasingly important part of our lives.
-The Internet is becoming an increasingly important part of our lives.
+ഇന്റര്‍നെറ്റ് നമ്മുടെ ജീവിതത്തിലെ ഒഴിച്ചുകൂടാനാവാത്ത ഭാഗമായിക്കൊണ്ടിരിക്കുന്നു.
 
 
 ;The Mozilla project is a global community of people who believe that openness, innovation, and opportunity are key to the continued health of the Internet. We have worked together since 1998 to ensure that the Internet is developed in a way that benefits everyone. We are best known for creating the Mozilla Firefox web browser.
-The Mozilla project is a global community of people who believe that openness, innovation, and opportunity are key to the continued health of the Internet. We have worked together since 1998 to ensure that the Internet is developed in a way that benefits everyone. We are best known for creating the Mozilla Firefox web browser.
+സുതാര്യതയും, നവീകരണവും, അവസരവും ഇന്റർനെറ്റിന്റെ തുടർച്ചയായ ആരോഗ്യത്തിന് പ്രധാനമാണെന്ന് വിശ്വസിക്കുന്ന ഒരു ആഗോള സമൂഹമാണ് മോസില്ല പ്രോജക്റ്റ്. ഇന്റർനെറ്റ് എല്ലാവർക്കുമായി പ്രയോജനം ചെയ്യുന്ന വിധത്തിൽ വികസിപ്പിച്ചെടുക്കാന്‍ വേണ്ടി നമ്മൾ 1998 മുതൽ ഒരുമിച്ച് പ്രവർത്തിക്കുന്നു. മോസില്ല ഫയർഫോക്സ് വെബ്ബ് ബ്രൌസർ സൃഷ്ടിക്കുന്നതിൽ ഞങ്ങള്‍കൂടുതലായി അറിയപ്പെടുന്നു.
 
 
 ;The Mozilla project uses a community-based approach to create world-class open source software and to develop new types of collaborative activities. We create communities of people involved in making the Internet experience better for all of us.
-The Mozilla project uses a community-based approach to create world-class open source software and to develop new types of collaborative activities. We create communities of people involved in making the Internet experience better for all of us.
+ലോകനിലവാരമുള്ള ഓപ്പൺ സോഴ്സ് സോഫ്റ്റ്വെയറുകൾ സൃഷ്ടിക്കാനും പുതിയ തരം സഹകരണ പ്രവർത്തനങ്ങൾ വികസിപ്പിക്കാനും മൊസില്ല പ്രോജക്റ്റ് ഒരു കമ്മ്യൂണിറ്റി അടിസ്ഥാനമാക്കിയുള്ള സമീപനം ഉപയോഗിക്കുന്നു. എല്ലാവർക്കുമായി ഇന്റർനെറ്റ് അനുഭവം മെച്ചപ്പെടുത്തുന്നതിൽ ഉൾപ്പെട്ട ആളുകളുടെ കമ്മ്യൂണിറ്റികൾ സൃഷ്ടിക്കുന്നതില്‍ ഞങ്ങള്‍ പങ്കുകൊള്ളുന്നു.
 
 
 ;As a result of these efforts, we have distilled a set of principles that we believe are critical for the Internet to continue to benefit the public good as well as commercial aspects of life. We set out these principles below.
-As a result of these efforts, we have distilled a set of principles that we believe are critical for the Internet to continue to benefit the public good as well as commercial aspects of life. We set out these principles below.
+ഈ പരിശ്രമത്തിന്റെ ഫലമായി, പൊതു നന്മയുടെയും ജീവിതത്തിന്റെ വാണിജ്യപരമായ കാര്യങ്ങളുടെയും പ്രയോജനം നേടുന്നതിന്, ഇന്റർനെറ്റിനെ സംബന്ധിച്ചിടത്തോളം വളരെ പ്രധാനപ്പെട്ടതാണെന്ന് വിശ്വസിക്കുന്ന ഒരു കൂട്ടം തത്വങ്ങൾ ഞങ്ങൾ വേര്‍തിരിച്ചെടുത്തിരിക്കുന്നു. ഈ തത്ത്വങ്ങള്‍ താഴെ കുറിച്ചിരിക്കുന്നു.
 
 
 ;The goals for the Manifesto are to:
-The goals for the Manifesto are to:
+മാനിഫെസ്റ്റോയുടെ ലക്ഷ്യങ്ങളെന്തെന്നാല്‍:
 
 
 ;articulate a vision for the Internet that Mozilla participants want the Mozilla Foundation to pursue;
-articulate a vision for the Internet that Mozilla participants want the Mozilla Foundation to pursue;
+മോസില്ല ഫൌണ്ടേണന്‍ പിന്തുടരണം എന്ന് മോസില്ലയിൽ പങ്കെടുക്കുന്നവർ കരുതുന്ന ഇന്റര്‍നെറ്റിനേപ്പറ്റിയുള്ള കാഴ്ചപ്പാട് അവതരിപ്പിക്കുക
 
 
 ;speak to people whether or not they have a technical background;
-speak to people whether or not they have a technical background;
+ജനങ്ങളോട് അവർക്കൊരു ടെക്നിക്കൽ പശ്ചാത്തലം ഉണ്ടെങ്കിലും ഇല്ലങ്കിലും സംസാരിക്കുക;
 
 
 ;make Mozilla contributors proud of what we're doing and motivate us to continue; and
-make Mozilla contributors proud of what we're doing and motivate us to continue; and
+മോസില്ല കോണ്‍ട്രിബ്യുട്ടേര്‍സിനെ അവരുടെ സംഭാവനയില്‍ അഭിമാനിക്കാന്‍ അനുവദിക്കുകയും തുടരാനായി ഞങ്ങളെ പ്രചോദിപ്പിക്കുകയും ചെയ്യുക; ഒപ്പം
 
 
 ;provide a framework for other people to advance this vision of the Internet.
-provide a framework for other people to advance this vision of the Internet.
+ഇന്റർനെറ്റിന്റെ ഈ കാഴ്ചപ്പാട് മുന്നോട്ട് കൊണ്ടുപോകാൻ മറ്റുള്ളവർക്ക് ഒരു ചട്ടക്കൂട് നൽകുക.
 
 
 ;These principles will not come to life on their own. People are needed to make the Internet open and participatory - people acting as individuals, working together in groups, and leading others. The Mozilla Foundation is committed to advancing the principles set out in the Mozilla Manifesto. We invite others to join us and make the Internet an ever better place for everyone.
-These principles will not come to life on their own. People are needed to make the Internet open and participatory - people acting as individuals, working together in groups, and leading others. The Mozilla Foundation is committed to advancing the principles set out in the Mozilla Manifesto. We invite others to join us and make the Internet an ever better place for everyone.
+ഈ തത്ത്വങ്ങൾ സ്വയം ജീവന്‍ വയ്ക്കില്ല. വ്യക്തിപരമായി പ്രവർത്തിക്കുന്നവര്‍, ഗ്രൂപ്പുകളിൽ ഒന്നിച്ച് പ്രവർത്തിക്കുന്നവര്‍, മറ്റുള്ളവരെ നയിക്കുന്നവർ എന്നിങ്ങനെ ഇന്റർനെറ്റ് സുതാര്യവും പങ്കാളിത്തപരമായതുമായി കൊണ്ടുപോവാന്‍ ആളുകൾ ആവശ്യമാണ്. മോസില്ലാ മാനിഫെസ്റ്റോയിൽ നൽകിയിരിക്കുന്ന തത്വങ്ങൾ മുന്നോട്ടുവെയ്ക്കാൻ മോസില്ല ഫൌണ്ടേഷൻ പ്രതിജ്ഞാബദ്ധമാണ്. ഇന്റർനെറ്റിനെ എല്ലാവർക്കുമായി മെച്ചപ്പെട്ട ഇടമാക്കാന്‍ ഞങ്ങളോടൊപ്പം ചേരുക.
 
 
 ;Principles
@@ -367,15 +370,15 @@ These principles will not come to life on their own. People are needed to make t
 
 
 ;Individuals must have the ability to shape the Internet and their own experiences on the Internet.
-Individuals must have the ability to shape the Internet and their own experiences on the Internet.
+വ്യക്തികള്‍ക്ക് ഇന്റര്‍നെറ്റിനെ രൂപപ്പെടുത്താനും സ്വന്തം അനുഭങ്ങളുണ്ടാക്കാനുമുള്ള കഴിവുണ്ടാവണം.
 
 
 ;Advancing the Mozilla Manifesto
-Advancing the Mozilla Manifesto
+മോസില്ല മാനിഫെസ്റ്റോ യാഥാര്‍ത്ഥ്യമാക്കല്‍
 
 
 ;There are many different ways of advancing the principles of the Mozilla Manifesto. We welcome a broad range of activities, and anticipate the same creativity that Mozilla participants have shown in other areas of the project. For individuals not deeply involved in the Mozilla project, one basic and very effective way to support the Manifesto is to use Mozilla Firefox and other products that embody the principles of the Manifesto.
-There are many different ways of advancing the principles of the Mozilla Manifesto. We welcome a broad range of activities, and anticipate the same creativity that Mozilla participants have shown in other areas of the project. For individuals not deeply involved in the Mozilla project, one basic and very effective way to support the Manifesto is to use Mozilla Firefox and other products that embody the principles of the Manifesto.
+മോസില്ല മാനിഫെസ്റ്റോയുടെ തത്വങ്ങൾ യാഥാര്‍ത്ഥ്യമാക്കാന്‍ നിരവധി മാർഗ്ഗങ്ങളുണ്ട്. വിശാലമായ പ്രവർത്തനങ്ങളെ ഞങ്ങൾ സ്വാഗതം ചെയ്യുന്നു, ഒപ്പം പദ്ധതിയുടെ മറ്റ് ഭാഗങ്ങളിലും മോസില്ല പങ്കാളികൾ പ്രദർശിപ്പിച്ച അതേ സൃഷ്ടിപരതയെക്കുറിച്ച് മുൻകൂട്ടിക്കാണുകയും ചെയ്യുന്നു. മോസില്ലാ പദ്ധതിയിൽ ആഴത്തിൽ ഏർപ്പെടാത്ത വ്യക്തികൾക്കു്, മാനിഫെസ്റ്റോയെ പിന്തുണയ്ക്കുന്നതിനുള്ള ഒരു അടിസ്ഥാനവും വളരെ ഫലപ്രദവുമായ മാർഗ്ഗം മോസില്ല ഫയർഫോക്സും, മാനിഫെസ്റ്റോയുടെ തത്വങ്ങള്‍ ഉൾക്കൊള്ളുന്ന മറ്റ് ഉൽപന്നങ്ങളും ഉപയോഗിക്കുക എന്നതാണ്.
 
 
 ;Mozilla Foundation Pledge
