@@ -1,12 +1,15 @@
+## active ##
+## firefox-features-57-update ##
+## firefox-features-send-tabs ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/features/
 
 
 ;Protect your privacy and browse faster with Firefox features
-Protect your privacy and browse faster with Firefox features
+നിങ്ങളുടെ സ്വകാര്യത സംരക്ഷിക്കുന്നതിനോടൊപ്പം ഫയർഫോക്സ് സവിശേഷതകൾ ഉപയോഗിച്ച് വേഗത്തിൽ ബ്രൗസ് ചെയ്യൂ
 
 
 ;You’re in control with Firefox’s easy-to-use features that protect your privacy and browsing speeds.
-You’re in control with Firefox’s easy-to-use features that protect your privacy and browsing speeds.
+നിങ്ങളുടെ സ്വകാര്യതയും ബ്രൌസിംഗ് വേഗതയും പരിരക്ഷിക്കുന്ന ഫയർഫോക്സിന്റെ ഈസി ടു യൂസ് സവിശേഷതകൾ വഴി നിങ്ങൾക്ക് നിയന്ത്രിക്കാവുന്നതാണ്.
 
 
 ;Firefox features
@@ -14,7 +17,7 @@ You’re in control with Firefox’s easy-to-use features that protect your priv
 
 
 ;Explore the features of the all new Firefox browser
-Explore the features of the all new Firefox browser
+പുത്തന്‍ പുതിയ ഫയര്‍ഫോക്സിലെ ഫീച്ചറുകള്‍ പരിശോധിക്കുക
 
 
 ;Modern
@@ -143,7 +146,7 @@ Explore the features of the all new Firefox browser
 
 
 ;Quickly save and organize your favorite sites.
-Quickly save and organize your favorite sites.
+നിങ്ങളുടെ പ്രിയപ്പെട്ട സൈറ്റുകൾ വേഗത്തിൽ സംരക്ഷിക്കുകയും ഓർഗനൈസു ചെയ്യുകയും ചെയ്യുക.
 
 
 # Link to /firefox/features/bookmarks
@@ -160,7 +163,7 @@ Quickly save and organize your favorite sites.
 
 
 ;Firefox Private Browsing blocks ads with trackers.
-Firefox Private Browsing blocks ads with trackers.
+ട്രാക്കറുകൾ ഉള്ള പരസ്യങ്ങൾ ഫയർഫോക്സ് സ്വകാര്യ ബ്രൌസിങ്ങ് തടയുന്നു.
 
 
 # Link to /firefox/features/private-browsing

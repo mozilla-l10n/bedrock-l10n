@@ -1,3 +1,9 @@
+## active ##
+## android_nightly_copy ##
+## firefox_channel_bug1387466 ##
+## firefox_title_meta_bug1345338 ##
+## firefox_title_meta_bug1357373 ##
+## nightly_description_bug1375100 ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
@@ -58,13 +64,13 @@ iOS {ok}
 
 # HTML Description, on the Android page only.
 ;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta and Firefox Nightly. Install now!
-Experience cutting-edge features in a pre-release browser for Android: Firefox Beta and Firefox Nightly. Install now!
+ആന്‍ഡ്രോയിഡിനായുള്ള പ്രീ റിലീസ് ബ്രൗസറിൽ കട്ടിംഗ് എഡ്ജ് ഫീച്ചറുകൾ ആസ്വദിക്കൂ: ഫയർഫോക്സ് ബീറ്റ, ഫയർഫോക്സ് നൈറ്റലീ. ഇപ്പോൾ തന്നെ ഇൻസ്റ്റാൾ ചെയ്യുക!
 
 
 # String is obsolete. Do not remove.
 # HTML Description, on the Android page only.
 ;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
-Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
+ആന്‍ഡ്രോയിഡിനായുള്ള പ്രീ റിലീസ് ബ്രൗസറിൽ കട്ടിംഗ് എഡ്ജ് ഫീച്ചറുകൾ ആസ്വദിക്കൂ: ഫയർഫോക്സ് ബീറ്റ, ഫയർഫോക്സ് നൈറ്റലീ, ഫയർഫോക്സ് അറോറ. ഇപ്പോൾ തന്നെ ഇൻസ്റ്റാൾ ചെയ്യുക!
 
 
 # String is obsolete. Do not remove.
@@ -94,7 +100,7 @@ Experience cutting-edge features in a pre-release browser for Android: Firefox B
 
 
 ;<a rel="external" href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
-<a rel="external" href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+ഒരു സ്റ്റേബിള്‍ അന്തരീക്ഷത്തില്‍ പ്രകടനത്തിലും പ്രവർത്തനത്തിലും അവസാന ഘട്ട മിനുക്കുപണി നടത്താന്‍ <a rel="external" href="%(feedback)s">ഫീഡ്ബാക്ക് നൽകി</a> ഞങ്ങളെ സഹായിക്കുക.
 
 
 # HTML page title, on the desktop page only.
@@ -104,7 +110,7 @@ Experience cutting-edge features in a pre-release browser for Android: Firefox B
 
 # HTML page description, on the desktop page only.
 ;Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
-Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
+ആന്‍ഡ്രോയിഡിനായുള്ള പ്രീ റിലീസ് ബ്രൗസറിൽ കട്ടിംഗ് എഡ്ജ് ഫീച്ചറുകൾ ആസ്വദിക്കൂ: ഫയർഫോക്സ് ബീറ്റ, ഫയർഫോക്സ് നൈറ്റലീ, ഫയർഫോക്സ് അറോറ. ഇപ്പോൾ തന്നെ ഡൌണ്‍ലോഡ് ചെയ്യുക!
 
 
 # String is obsolete. Do not remove.
@@ -114,7 +120,7 @@ Experience cutting-edge browser features in pre-release versions: Firefox Develo
 
 
 ;Test about-to-be-released features in the most stable pre-release build.
-Test about-to-be-released features in the most stable pre-release build.
+ഏറ്റവും സ്റ്റേബിളായ പ്രീ റിലീസ് ബിൽഡിൽ വരാൻപോകുന്ന സവിശേഷതകൾ പരിശോധിക്കുക.
 
 
 ;All Languages and Platforms
@@ -127,7 +133,7 @@ Test about-to-be-released features in the most stable pre-release build.
 
 
 ;Build, test, scale and more with the only browser built just for developers.
-Build, test, scale and more with the only browser built just for developers.
+ഡവലപ്പർമാർക്ക് വേണ്ടി നിർമ്മിച്ച ഒരേയൊരു ബ്രൌസർ ഉപയോഗിച്ച് ബിൽഡ്, ടെസ്റ്റ്, സ്കെയ്‌ലും അതിൽ കൂടുതലും ചെയ്യുക.
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
@@ -135,16 +141,16 @@ Build, test, scale and more with the only browser built just for developers.
 
 
 ;Check out new Android features in their earliest stages. Enjoy at your own risk.
-Check out new Android features in their earliest stages. Enjoy at your own risk.
+പുതിയ ആന്‍ഡ്രോയിഡ് സവിശേഷതകൾ ആദ്യകാല ഘട്ടങ്ങളിൽ തന്നെ പരിശോധിക്കുക. നിങ്ങളുടെ സ്വന്തം റിസ്കില്‍ ആസ്വദിക്കുക.
 
 
 ;Get a sneak peek at our next generation web browser, and help us make it the best browser it can be: try Firefox Nightly.
-Get a sneak peek at our next generation web browser, and help us make it the best browser it can be: try Firefox Nightly.
+ഞങ്ങളുടെ അടുത്ത തലമുറ വെബ് ബ്രൌസര്‍ ഉപയോഗിച്ചുനോക്കൂ, അത് മികച്ച ബ്രൌസർ ആക്കാൻ ഞങ്ങളെ സഹായിക്കുക: ഫയർഫോക്സ് നൈറ്റലീ പരീക്ഷിച്ചുനോക്കുക.
 
 
 # String is obsolete. Do NOT remove.
 ;Test brand new features daily (or… nightly). Enjoy at your own risk.
-Test brand new features daily (or… nightly). Enjoy at your own risk.
+പുതിയ സവിശേഷതകൾ പ്രതിദിനം പരീക്ഷിക്കുക (അല്ലെങ്കിൽ… നൈറ്റ്ലീ). നിങ്ങളുടെ സ്വന്തം റിസ്കില്‍ ആസ്വദിക്കുക.
 
 
 ;Firefox Nightly automatically sends feedback to Mozilla.
@@ -163,19 +169,19 @@ Test brand new features daily (or… nightly). Enjoy at your own risk.
 # HTML page description, on the iOS page only.
 # Don't translate TestFlight
 ;Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
-Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
+ആപ്പിളിന്റെ TestFlight പ്രോഗ്രാമിലൂടെ iOS നായുള്ള പ്രീ റിലീസ് ബ്രൗസറിൽ കട്ടിംഗ് എഡ്ജ് സവിശേഷതകൾ ആസ്വദിക്കുക. ഇപ്പോൾ തന്നെ ഇൻസ്റ്റാൾ ചെയ്യുക!
 
 
 # String is obsolete. Do not remove.
 # HTML page description
 # Don't translate TestFlight
 ;Test beta versions of Firefox for iOS via Apple’s TestFlight program and help make our mobile browser for iPhone, iPad and iPod touch even better.
-Test beta versions of Firefox for iOS via Apple’s TestFlight program and help make our mobile browser for iPhone, iPad and iPod touch even better.
+ആപ്പിളിന്റെ TestFlight പ്രോഗ്രാം മുഖേന iOS നായുള്ള ഫയര്‍ഫോക്സ് ബീറ്റ പതിപ്പുകള്‍ പരീക്ഷിക്കുകയും iPhone, iPad, iPod touch എന്നിവയ്ക്കായുള്ള ഞങ്ങളുടെ മൊബൈല്‍ ബ്രൌസര്‍ മികച്ചതാക്കാന്‍ സഹായിക്കുകയും ചെയ്യുക.
 
 
 # Don't translate TestFlight
 ;Test beta versions of Firefox for iOS via Apple’s TestFlight program.
-Test beta versions of Firefox for iOS via Apple’s TestFlight program.
+ആപ്പിളിന്റെ TestFlight പ്രോഗ്രാം മുഖേന iOS നായുള്ള ഫയര്‍ഫോക്സ് ബീറ്റ പതിപ്പുകള്‍ പരീക്ഷിക്കുക.
 
 
 ;Sign up now
