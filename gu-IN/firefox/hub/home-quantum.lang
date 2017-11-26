@@ -3,12 +3,12 @@
 
 # HTML page title
 ;The new, fast browser for Mac, PC and Linux
-The new, fast browser for Mac, PC and Linux
+Mac, PC અને Linux માટે નવું, ઝડપી બ્રાઉઝર
 
 
 # HTML page description
 ;Responsive engine, less memory usage and packed with features. Download for desktop now.
-Responsive engine, less memory usage and packed with features. Download for desktop now.
+રિસ્પોન્સિવ એન્જિન, ઓછી મેમરી વપરાશ અને સુવિધાઓ સાથે પેક. હવે ડેસ્કટોપ માટે ડાઉનલોડ કરો.
 
 
 ;The New Firefox
@@ -20,7 +20,7 @@ Firefox Quantum ને મળો.
 
 
 ;Fast for good.
-Fast for good.
+ઝડપી માટે સારુ.
 
 
 ;Download now
@@ -32,29 +32,29 @@ Fast for good.
 
 
 ;A powerful, new engine that’s built for rapidfire performance.
-A powerful, new engine that’s built for rapidfire performance.
+એક શક્તિશાળી, નવું એન્જિન જે ઝડપી પ્રભાવ માટે બનાવવામાં આવ્યું છે.
 
 
 ;Better, faster page loading that uses less computer memory.
-Better, faster page loading that uses less computer memory.
+સારી, ઝડપી પેજ લોડિંગ કે જે ઓછા કમ્પ્યુટર મેમરીનો ઉપયોગ કરે છે.
 
 
 ;Gorgeous design and smart features for intelligent browsing.
-Gorgeous design and smart features for intelligent browsing.
+બુદ્ધિશાળી બ્રાઉઝિંગ માટે ખૂબસૂરત ડિઝાઇન અને સ્માર્ટ સુવિધાઓ.
 
 
 ;“Faster and even more minimalist, Firefox Quantum makes Chrome look old.”
-“Faster and even more minimalist, Firefox Quantum makes Chrome look old.”
+“ઝડપી અને હજી પણ ઓછામાં ઓછા, Firefox Quantum Chrome ને જૂનો બનાવે છે.”
 
 
 # Link points to https://www.digitaltrends.com/web/firefox-quantum-hands-on-review/
 ;(Digital Trends)
-(Digital Trends)
+(ડિજિટલ પ્રવાહો)
 
 
 # This is an alternative text for a screenshot.
 ;Screenshot of the redesigned Firefox new-tab page.
-Screenshot of the redesigned Firefox new-tab page.
+પુનઃડિઝાઇન કરેલ Firefox નવા ટૅબ પૃષ્ઠનો સ્ક્રીનશૉટ.
 
 
 ;2x Faster
@@ -62,7 +62,7 @@ Screenshot of the redesigned Firefox new-tab page.
 
 
 ;Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Get the best Firefox yet.
-Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Get the best Firefox yet.
+ઉન્મત્ત <a href="%(url)s">શક્તિશાળી બ્રાઉઝર એન્જિન</a>? તપાસો. પેજ લોડ થાય ત્યારે ઓછો સમય રાહ જોવી પડે છે? ઉપરાંત, ચેક કરો. અત્યાર સુધીનું શ્રેષ્ઠ Firefox મેળવો.
 
 
 ;30% lighter than Chrome
@@ -74,7 +74,7 @@ Chrome કરતાં 30% હળવા
 
 
 ;Smooth browsing
-Smooth browsing
+સરળ બ્રાઉઝિંગ
 
 
 ;Whether you’ve opened 10 or 1000, switching between tabs is faster than ever with Firefox’s new, responsive engine.
@@ -95,43 +95,43 @@ Instantly import your online info and favorites from any other browser.
 
 
 ;Bookmarks
-Bookmarks
+બુકમાર્ક્સ
 
 
 ;Auto Fill
-Auto Fill
+સ્વતઃ ભરો
 
 
 ;Passwords
-Passwords
+પાસવર્ડ્સ
 
 
 ;History
-History
+ઇતિહાસ
 
 
 ;Seriously Private Browsing
-Seriously Private Browsing
+ગંભીરતાપૂર્વક ખાનગી બ્રાઉઝિંગ
 
 
 ;The most powerful private browsing mode with added tracking protection.
-The most powerful private browsing mode with added tracking protection.
+ઉમેરાયેલ ટ્રેકિંગ સુરક્ષા સાથે સૌથી શક્તિશાળી ખાનગી બ્રાઉઝિંગ મોડ.
 
 
 ;Firefox blocks online trackers while you browse and won’t remember your history after you’re done.
-Firefox blocks online trackers while you browse and won’t remember your history after you’re done.
+જ્યારે તમે બ્રાઉઝ કરો છો અને તમે તમારા ઇતિહાસને પૂર્ણ કરી લીધા પછી યાદ રાખશો નહીં ત્યારે Firefox ને ઓનલાઇન ટ્રેકર્સ અવરોધિત કરે છે.
 
 
 ;Tracking Protection
-Tracking Protection
+ટ્રેકિંગ રક્ષણ
 
 
 ;Some ads have hidden trackers that follow you online. Rude. We know. That’s why our powerful tool stops them cold.
-Some ads have hidden trackers that follow you online. Rude. We know. That’s why our powerful tool stops them cold.
+કેટલીક જાહેરાતોમાં ટ્રેકર્સ છુપાયેલા હોઈ છે કે જે તમને ઓનલાઇન અનુસરે છે. અસભ્ય. આપણે જાણીએ. તેથી જ અમારા શક્તિશાળી સાધન તેમને શાંત રાખે છે.
 
 
 ;Faster Page Loading
-Faster Page Loading
+ઝડપી પેજ લોડ કરી રહ્યું છે
 
 
 ;By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages load up to 44%% faster</a>. Now that’s a win-win.
@@ -139,16 +139,16 @@ By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages
 
 
 ;Firefox Quantum features
-Firefox Quantum features
+Firefox Quantum ની વિષેશતાઅો
 
 
 # VR can be spelled out as "Virtual Reality" if clearer.
 ;Gaming & VR
-Gaming & VR
+ગેમિંગ અને VR
 
 
 ;Library
-Library
+પુસ્તકાલય
 
 
 ;Uncomplicate screenshots. Take and share them directly from Firefox. That means no more searching for mysterious file names on your computer.
@@ -169,11 +169,11 @@ Save time! Find all your favorite content like Pocket saves, bookmarks, browsing
 
 
 ;Customization Features
-Customization Features
+વૈવિધ્યપૂર્ણ લક્ષણો
 
 
 ;Extensions
-Extensions
+વિસ્તારક
 
 
 # App names remain in English.
@@ -186,7 +186,7 @@ Make over Firefox to suit your mood! Choose a new look from our theme categories
 
 
 ;Toolbar
-Toolbar
+ટૂલબાર
 
 
 ;Set up Firefox your way. Drag and drop features in and out of your toolbar for easy access.
@@ -206,7 +206,7 @@ Image of Gif shared from desktop to mobile using the Send Tab feature.
 
 
 ;Browse for good
-Browse for good
+સારા માટે બ્રાઉઝ કરો
 
 
 ;Firefox is made by Mozilla, the non-profit champions of a healthy internet. Mozilla also tackles issues like privacy, misinformation and trolling by investing in fellowships, campaigns and new technologies designed to make the internet healthier.
