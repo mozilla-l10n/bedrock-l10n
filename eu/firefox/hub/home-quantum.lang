@@ -1,3 +1,5 @@
+## active ##
+## firefox-home-copy-update-20171114 ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/
 
 
@@ -152,20 +154,20 @@ Liburutegia
 
 
 ;Uncomplicate screenshots. Take and share them directly from Firefox. That means no more searching for mysterious file names on your computer.
-Uncomplicate screenshots. Take and share them directly from Firefox. That means no more searching for mysterious file names on your computer.
+Pantaila-argazkiak konplikaziorik gabe. Atera eta parteka itzazu zuzenean Firefoxetik. Ordenagailuan fitxategi-izen misteriotsuen bila gehiago aritu beharrik ez.
 
 
 ;Built right into the toolbar, it’s the ultimate save-for-later feature. View your articles, videos and pages across any device.
-Built right into the toolbar, it’s the ultimate save-for-later feature. View your articles, videos and pages across any device.
+Tresna-barran integratuta, orriak geroko gordetzeko eginbidea. Ikusi gordetako artikuluak, bideoak eta orriak edozein gailutatik.
 
 
 # WASM is short for WebAssembly
 ;Engineered for next-gen gaming, Firefox has built-in support for WASM and WebVR. No additional installation needed!
-Engineered for next-gen gaming, Firefox has built-in support for WASM and WebVR. No additional installation needed!
+Hurrengo belaunaldiko jokoentzako diseinatua, Firefoxek WASM eta WebVR sostengua dakar integratuta. Instalazio gehigarririk gabe!
 
 
 ;Save time! Find all your favorite content like Pocket saves, bookmarks, browsing history, screenshots and downloads in one spot.
-Save time! Find all your favorite content like Pocket saves, bookmarks, browsing history, screenshots and downloads in one spot.
+Aurreztu denbora! Aurkitu gogoko eduki guztia leku bakarrean: Pocket-en gordetakoak, laster-markak, nabigatze-historia, pantaila-argazkiak eta deskargak.
 
 
 ;Customization Features
@@ -178,11 +180,11 @@ Hedapenak
 
 # App names remain in English.
 ;Customize Firefox with thousands of extensions like LastPass, uBlock Origin, Evernote and more.
-Customize Firefox with thousands of extensions like LastPass, uBlock Origin, Evernote and more.
+Pertsonalizatu Firefox milaka hedapenekin, adibidez LastPass, uBlock Origin, Evernote eta abar.
 
 
 ;Make over Firefox to suit your mood! Choose a new look from our theme categories or create your own.
-Make over Firefox to suit your mood! Choose a new look from our theme categories or create your own.
+Makillatu Firefox zure aldartearekin bat etor dadin! Aukeratu itxura berri bat gaien kategoriak arakatuz edo sortu zeurea.
 
 
 ;Toolbar
@@ -190,7 +192,7 @@ Tresna-barra
 
 
 ;Set up Firefox your way. Drag and drop features in and out of your toolbar for easy access.
-Set up Firefox your way. Drag and drop features in and out of your toolbar for easy access.
+Konfiguratu Firefox zure erara. Arrastatu eta jaregin eginbideak tresna-barrara edo bertatik kanpora, errazago atzitzeko.
 
 
 ;Sync your devices
@@ -198,11 +200,11 @@ Sinkronizatu zure gailuak
 
 
 ;Seamlessly access passwords, bookmarks and more. Plus, use our Send Tabs feature to instantly share open tabs between desktop, mobile and tablet.
-Seamlessly access passwords, bookmarks and more. Plus, use our Send Tabs feature to instantly share open tabs between desktop, mobile and tablet.
+Izan eskura pasahitzak, laster-markak eta gehiago edonondik. Gainera, erabili Bidali fitxa eginbidea irekitako fitxak mahaigain, mugikor eta tabletan zehar partekatzeko.
 
 
 ;Image of Gif shared from desktop to mobile using the Send Tab feature.
-Image of Gif shared from desktop to mobile using the Send Tab feature.
+Bidali fitxa eginbidea erabiliz mahaigainetik mugikorrera partekatutako GIFaren irudia.
 
 
 ;Browse for good
@@ -210,12 +212,12 @@ Nabigatu benetan
 
 
 ;Firefox is made by Mozilla, the non-profit champions of a healthy internet. Mozilla also tackles issues like privacy, misinformation and trolling by investing in fellowships, campaigns and new technologies designed to make the internet healthier.
-Firefox is made by Mozilla, the non-profit champions of a healthy internet. Mozilla also tackles issues like privacy, misinformation and trolling by investing in fellowships, campaigns and new technologies designed to make the internet healthier.
+Firefox Mozillak egiten du, Internet osasuntsuaren alde borroka egiten duen irabazi-asmorik gabekoak. Mozillak beste zenbait alor ere lantzen ditu (hala nola pribatutasuna, informazio okerra eta trolling-a) Internet osasuntsua lortzeko diseinatutako ikerketak diruz lagunduz, kanpainak burutuz eta teknologia berriak garatuz.
 
 
 # String is obsolete. Do not remove.
 # "More than meets the eye" here means something greater, more significant than it seems to be.
 ;More than meets the eye. Did you know Firefox is backed by the not-for-profit Mozilla? The organization keeps the Internet healthier through programs that support tech education for girls, create trust around factual news, bring civility to the comments section and more.
-More than meets the eye. Did you know Firefox is backed by the not-for-profit Mozilla? The organization keeps the Internet healthier through programs that support tech education for girls, create trust around factual news, bring civility to the comments section and more.
+Begiak dakusana baino gehiago. Bazenekien Firefox irabazi-asmorik gabeko Mozilla erakundeak sostengatzen duela? Erakundeak Internet osasuntsuago mantentzen du hainbat programarekin: neskentzako hezkuntza teknologian, egiazko albisteei konfidantza ematea, iruzkinen atalera zibikotasuna ekartzea, eta abar.
 
 
