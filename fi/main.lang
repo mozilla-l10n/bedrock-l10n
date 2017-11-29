@@ -73,7 +73,7 @@ Tuotteet
 # A top menu navigation label that points to https://addons.mozilla.org/firefox/.
 # Will replace Add-ons once this string is localized.
 ;Extensions
-Extensions
+Laajennukset
 
 
 ;Add-ons
@@ -322,7 +322,7 @@ Auta sivuston kanssa
 
 # Used in footer, links to the source code of the page currently displayed.
 ;Source code for this page
-Source code for this page
+Tämän sivun lähdekoodi
 
 
 # Top menu item
@@ -722,17 +722,17 @@ Mobiiliselain iOS:lle
 
 # Title in a banner displayed to users of old versions of Firefox
 ;Your Firefox is out-of-date.
-Your Firefox is out-of-date.
+Firefoxisi on vanhentunut.
 
 
 # Description in a banner displayed to users of old versions of Firefox
 ;Get the most recent version to keep browsing securely.
-Get the most recent version to keep browsing securely.
+Lataa uusin versio pysyäksesi turvassa.
 
 
 # Button label in a banner displayed to users of old versions of Firefox
 ;Update Firefox
-Update Firefox
+Päivitä Firefox
 
 
 # Title for Open Graph sharing in new What's new pages
@@ -747,12 +747,12 @@ Faster, more responsive and powerfully private. Check out the latest from the br
 
 # Used on Firefox Privacy Notice landing page
 ;Show More
-Show More
+Näytä enemmän
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show Less
-Show Less
+Näytä vähemmän
 
 
 # Used on Firefox Privacy Notice landing page
@@ -762,17 +762,17 @@ Choose how you want to share this data in Firefox.
 
 # The button opens Firefox preferences, in the Data section, to select your option
 ;Choose…
-Choose…
+Valitse…
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show All
-Show All
+Näytä kaikki
 
 
 # Used on Firefox Privacy Notice landing page
 ;Hide All
-Hide All
+Piilota kaikki
 
 
 # Navigation link points to /firefox/developer
@@ -782,17 +782,17 @@ Developer Hub
 
 # Naviation link points to https://research.mozilla.org
 ;Research
-Research
+Tutkimus
 
 
 # Navigation link points to https://vr.mozilla.org
 ;Virtual Reality
-Virtual Reality
+Virtuaalitodellisuus
 
 
 # Navigation link points to https://games.mozilla.org/
 ;Games
-Games
+Pelit
 
 
 # Navigation link points to https://developer.mozilla.org
