@@ -3,20 +3,20 @@
 
 # HTML page title
 ;Use Bookmarks, Tabs and Passwords Across Devices | Firefox
-Use Bookmarks, Tabs and Passwords Across Devices | Firefox
+ഉപകരണങ്ങളിലുടനീളം ബുക്ക്മാർക്കുകൾ, ടാബുകൾ, രഹസ്യവാക്കുകൾ എന്നിവ ഉപയോഗിക്കൂ | ഫയർഫോക്സ്
 
 
 # HTML page description
 ;Bring your Firefox bookmarks, tabs, or passwords wherever you go with Firefox Sync. Share between computers and mobile devices. Get Firefox now!
-Bring your Firefox bookmarks, tabs, or passwords wherever you go with Firefox Sync. Share between computers and mobile devices. Get Firefox now!
+ഫയർഫോക്സ് സമന്വയം വഴി നിങ്ങളുടെ ഫയർഫോക്സ് ബുക്ക്മാർക്കുകൾ, ടാബുകൾ, അല്ലെങ്കിൽ രഹസ്യവാക്കുകൾ സൂക്ഷിച്ച് വെക്കൂ. കമ്പ്യൂട്ടറുകളിൽ നിന്നും മൊബൈൽ ഉപാധികളിൽ നിന്നും പരസ്പരം പങ്കിടൂ. ഇപ്പോൾ തന്നെ ഫയർഫോക്സ് സ്വന്തമാക്കൂ!
 
 
 ;Browse boldly. Connect your devices.
-Browse boldly. Connect your devices.
+ധൈര്യസമേതം ബ്രൗസ് ചെയ്യൂ. നിിൃങ്ങളുടെ ഉപകരണങ്ങൾ ബന്ധിപ്പിക്കൂ.
 
 
 ;Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
-Add Firefox on your personal devices to get your bookmarks, open tabs and passwords anywhere. Get secure access to everything you need when you sign into your Firefox Account.
+നിങ്ങളുടെ ബുക്ക്മാർക്കുകൾ, ടാബുകൾ, രഹസ്യവാക്കുകൾ എന്നിവ എവിടെനിന്നും ലഭിക്കുന്നതിന് നിങ്ങളുടെ വ്യക്തിഗത ഉപകരണങ്ങളിൽ ഫയർഫോക്സ് ചേർക്കൂ. നിങ്ങളുടെ ഫയർഫോക്സ് അക്കൌണ്ടിലേക്ക് പ്രവേശിക്കുമ്പോൾ നിങ്ങൾക്കാവശ്യമായ എല്ലാത്തിന്റെയും സുരക്ഷിത ആക്സസ് നേടൂ.
 
 
 # String is obsolete. Do NOT remove.
@@ -26,7 +26,7 @@ Add Firefox on your personal devices to get your bookmarks, open tabs and passwo
 
 # String is obsolete. Do NOT remove.
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
-You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
+നിങ്ങള്‍ അംഗത്വമെടുത്തിരിക്കുന്നു കൂടാതെ <em>നിങ്ങളുടെ</em> ഫയര്‍ഫോക്സ് ഏതുസമയത്തും എവിടെനിന്നും ഉപയോഗിക്കുന്നതിന് തയ്യാറായിരിക്കുന്നു.
 
 
 ;Your web, how you like it, everywhere
@@ -34,17 +34,17 @@ You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
 
 
 ;Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
-Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Add Firefox to your personal devices and securely connect your browsing experience everywhere. Keep everything set up how you like it, wherever you go.
+നിങ്ങളുടെ സംരക്ഷിക പാസ്വേഡുകൾ, ഓപ്പൺ ടാബുകള്‍, ബുക്ക്മാർക്കുകള്‍ തുടങ്ങിയവ ലഭിക്കാന്‍ ഫയർഫോക്സ് അക്കൗണ്ടിൽ പ്രവേശിക്കുക. നിങ്ങളുടെ വ്യക്തിഗത ഉപകരണങ്ങളിലേക്ക് ഫയർ ഫോക്സ് ചേർക്കുക, എല്ലായിടത്തും നിങ്ങളുടെ ബ്രൗസിംഗ് അനുഭവം സുരക്ഷിതമായി ബന്ധിപ്പിക്കുക. എല്ലാം നിങ്ങളുടെ ഇഷ്ടംപോലെ വിന്യസിക്കുക, എവിടെപ്പോയാലും.
 
 
 # This expression was popular on ad billboard about real estate, suggesting if one bought the house here, he or she didn't have to fight the traffic further.
 # Here it emphasizes Sync's feature of seemless integration between desktop and mobile. Feel free to come up with a different text (we're waiting for an alternative headline from copywriters).
 ;If you lived here you’d be home by now
-If you lived here you’d be home by now
+നിങ്ങള്‍ ഇവിടെ ജീവിക്കുകയായിരുന്നെങ്കില്‍ നിങ്ങള്‍ ഇപ്പോള്‍ വീട്ടിലെത്തിയേനെ
 
 
 ;Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
-Download or open Firefox to start securely connecting your browsing experience on all your personal devices. Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks. Keep everything set up how you like it, wherever you go.
+നിങ്ങളുടെ എല്ലാ വ്യക്തിഗത ഉപകരണങ്ങളിലും നിങ്ങളുടെ ബ്രൌസിംഗ് വിവരങ്ങൾ സുരക്ഷിതമായി ബന്ധിപ്പിക്കുന്നതിന് ഫയർഫോക്സ് ഡൗൺലോഡ് ചെയ്യുക അല്ലെങ്കിൽ തുറക്കുക. നിങ്ങളുടെ പരിരക്ഷിത രഹസ്യവാക്കുകളും, തുറന്ന ടാബുകളും, ബുക്ക്മാർക്കുകളും ആക്സസ്സ് ചെയ്യാൻ ഫയർഫോക്സ് അക്കൗണ്ടിൽ പ്രവേശിക്കുക. എല്ലാം നിങ്ങളുടെ ഇഷ്ടാനുസൃതം സജ്ജമാക്കൂ, നിങ്ങൾ എവിടെപ്പോവുകയാണെങ്കിലും.
 
 
 # String is obsolete. Do NOT remove.
@@ -70,7 +70,7 @@ Sync your bookmarks, passwords, tabs and more using your Firefox Account, and ac
 
 
 ;Soon you’ll be able to use Sync on your iOS device
-Soon you’ll be able to use Sync on your iOS device
+ഉടനെ നിങ്ങള്‍ക്ക് സമന്വയം നിങ്ങളുടെ ഐഒഎസ് ഉകരണത്തില്‍ ഉപയോഗിക്കാം
 
 
 ;Sync is just one of the great features you’ll only get with Firefox.
@@ -78,7 +78,7 @@ Soon you’ll be able to use Sync on your iOS device
 
 
 ;Now sync Firefox with your iOS and Android devices.
-Now sync Firefox with your iOS and Android devices.
+ഇപ്പോൾ ഫയർഫോക്സ് നിങ്ങളുടെ ഐഒഎസ്, ആൻഡ്രോയ്ഡ് ഉപകരണങ്ങളുമായി സമന്വയിപ്പിക്കൂ.
 
 
 ;Download Firefox for Android
@@ -104,7 +104,7 @@ Now sync Firefox with your iOS and Android devices.
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+ഫയർഫോക്സിന്റെ മുകളിലെ വലത്തേ അറ്റത്തെ <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">മെനു</a> തുറന്ന് “<strong>സമന്വയിപ്പിക്കുന്നതിനായി പ്രവേശിക്കുക</strong>” എന്ന ഓപ്ഷൻ തിരഞ്ഞെടുക്കുക.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -123,7 +123,7 @@ Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+നിങ്ങളുടെ ഇമെയിൽ തുറന്ന് പരിശോധനാ ലിങ്ക് ക്ലിക്ക് ചെയ്യുമ്പോൾ നിങ്ങൾ പൂർണ്ണസജ്ജമാകും! അതിനുശേഷം ഫയർ ഫോക്സ് സ്വയമേവ പിന്നണിയിൽ സമന്വയപ്പെടുന്നതാണ്.
 
 
 ;Get more detailed instructions.
@@ -147,7 +147,7 @@ After you check your email and click the verification link, you’ll be all set!
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+<strong>ക്രമീകരണങ്ങൾ</strong> തിരഞ്ഞെടുക്കുക (നിങ്ങൾ ആദ്യം <strong>കൂടുതൽ</strong> ടാപ്പു ചെയ്യേണ്ടതുണ്ട്).
 
 
 # This string is displayed on Android devices
