@@ -1,4 +1,5 @@
 ## active ##
+## disconnect_link ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/mobile/
 
 
@@ -113,7 +114,7 @@ iOS و اندروید
 
 # Links to https://disconnect.me/
 ;Built-in tracking protection and block lists provided by <a href="%(url)s">Disconnect</a>.
-Built-in tracking protection and block lists provided by <a href="%(url)s">Disconnect</a>.
+محافظت در برابر ردیابی به صورت توکار و لیست‌های انسداد ارائه شده توسط <a href="%(url)s">Disconnect</a>.
 
 
 ;Extensions & Customization
