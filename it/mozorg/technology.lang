@@ -2,6 +2,7 @@
 ## emerging_tech_links ##
 ## iot_links ##
 ## mozorg_tech_webvr ##
+## technology_quantum_section ##
 ## NOTE: Demo server is available at https://www-dev.allizom.org/technology
 
 
@@ -45,21 +46,21 @@ Visita il blog
 
 
 ;Firefox Quantum for Developers is here (and it’s fast!)
-Firefox Quantum for Developers is here (and it’s fast!)
+È disponibile la versione di Firefox Quantum dedicata agli sviluppatori (ancora più veloce!)
 
 
 ;The new Firefox Developer Edition has a new, blazingly fast CSS engine built in Rust. Get it with innovative features like CSS Grid Layout panel and framework debugging.
-The new Firefox Developer Edition has a new, blazingly fast CSS engine built in Rust. Get it with innovative features like CSS Grid Layout panel and framework debugging.
+La nuova edizione di Firefox Developer Edition ha un rivoluzionario motore per la gestione dei CSS, sviluppato in Rust ed estremamente veloce, e include caratteristiche innovative come l’analisi delle griglie CSS e supporto per il debug dei framework più popolari.
 
 
 # Links to https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/
 ;Learn about Quantum CSS
-Learn about Quantum CSS
+Scopri il motore CSS di Quantum
 
 
 # Links to https://research.mozilla.org/servo-engines/
 ;Check out Servo
-Check out Servo
+Scopri Servo
 
 
 ;Using the Web to change the game
