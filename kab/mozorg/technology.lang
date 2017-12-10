@@ -2,23 +2,24 @@
 ## emerging_tech_links ##
 ## iot_links ##
 ## mozorg_tech_webvr ##
+## technology_quantum_section ##
 ## NOTE: Demo server is available at https://www-dev.allizom.org/technology
 
 
 ;We’re opening up a whole new Internet.
-Aqlaɣ neldi akk Internet amaynut.
+Aql-aɣ neldi Internet d amaynut akk.
 
 
 ;Explore some of our latest innovations — built with open Web technologies and designed to help keep the Internet healthy and accessible forever.
-Wali isnulfuyen-nneɣ ineggura— yettwabnan s tetiknulujiyin Web yeldin yettwafeṣlen akken ad eǧǧen Internet yeǧhed udiɣ yettwakcam i yal yiwen.
+Wali isnulfuyen-nneɣ ineggura— yettwabnan s titiknulujiyin Web yeldin yettwafeṣlen akken ad ǧǧent Internet yeǧhed u yettwakcam i yal yiwen.
 
 
 ;Bringing Virtual Reality to the web platform
-Awway n tilawt tuhlist ar tɣerɣert web
+Awway n tilawt tuhlist ɣer tɣerɣert web
 
 
 ;Using WebVR, developers, designers and artists can share VR experiences on the web.
-S WebVR, ineflayen, imfeṣṣlen d inaẓuren ad izmiren ad bḍun tirmitin s tilawt tuhlist di Web.
+S WebVR, ineflayen, imfeṣṣlen d yinaẓuren ad izmiren ad bḍun tirmitin s tilawt tuhlist di Web.
 
 
 # String is obsolete. Do NOT remove.
@@ -28,7 +29,7 @@ Tigin n tilawt tuhlist VR d tilawt i yal yiwen
 
 # String is obsolete. Do NOT remove.
 ;Using A-Frame, developers, designers and artists are able to easily create accessible VR experiences.
-S usemres n A-Frame, ineflayen, wid ifeṣlen asnas akked inaẓuren zemren ad d-snulfun tirmitin n tilawt tuhlist VR yettwakcamen.
+S usemres n A-Frame, ineflayen, wid ifeṣṣlen asnas akked yinaẓuren zemren ad d-snulfun tirmitin n tilawt tuhlist VR yettwakcamen.
 
 
 ;Learn about WebVR
@@ -41,7 +42,7 @@ Snirem A-Frame
 
 # String is obsolete. Do NOT remove.
 ;Visit the blog
-Rzu ar ublug
+Rzu ɣer ublug
 
 
 ;Firefox Quantum for Developers is here (and it’s fast!)
@@ -49,7 +50,7 @@ Firefox Quantum i yineflayen yella (yerna d arurad!)
 
 
 ;The new Firefox Developer Edition has a new, blazingly fast CSS engine built in Rust. Get it with innovative features like CSS Grid Layout panel and framework debugging.
-The new Firefox Developer Edition has a new, blazingly fast CSS engine built in Rust. Get it with innovative features like CSS Grid Layout panel and framework debugging.
+Firefox Developer Edition amaynut yegber amsedday CSS amaynut arurad nezzeh yettwagen s useqdec n Rust. Yessumur timahilin timaynutin am ugalis n timezza CSS neɣ tamseɣtayt n wahilen.
 
 
 # Links to https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/
@@ -63,11 +64,11 @@ Wali Servo
 
 
 ;Using the Web to change the game
-Asemres n uẓeṭṭa Web akken ad nesnifel urar
+Asemres n uẓeṭṭa Web akken ad nbeddel urar
 
 
 ;With powerful Web technologies, pioneered by Mozilla, developers are pushing games to a new level.
-S tiknulujiyin Web tuzmirin, ay d-tessenti Mozilla, isneflayen la ssiwiḍen uraren ɣer uswir d amaynut.
+S titiknulujiyin Web tuzmirin i d-teṣṣenṭi Mozilla, isneflayen la ssawaḍen uraren ɣer uswir amaynut.
 
 
 ;See what’s new
@@ -76,11 +77,11 @@ Wali amaynut
 
 # Obsolete string, do not remove
 ;Play some demos
-Urar kra n ikayaden
+Eg kra n ikayaden
 
 
 ;Meet WebAssembly
-Mlal akked WebAssembly
+Mlil akked WebAssembly
 
 
 ;Start building
@@ -92,7 +93,7 @@ Bennu n Web n tɣawsiwin
 
 
 ;We’re working to create an open, Web of Things framework of software and services that can bridge the communication gap between connected devices.
-Aqlaɣ nxeddem akken ad nernu Web yeldin n tɣawsisin i useɣzan akked imeẓlan izemren ad eggen abrid i teywalt gar ibenkan yeqqnen.
+Aql-aɣ nxeddem akken ad nernu Web yeldin n tɣawsisin i useɣẓan akked yimeẓlan izemren ad gen abrid i teywalt gar yibenkan yeqqnen.
 
 
 # String is obsolete. Do NOT remove.
@@ -102,7 +103,7 @@ Timerniwt n teflest i Internet n Tɣawsiwin IoT
 
 # String is obsolete. Do NOT remove.
 ;Through open innovation, we’re bringing trust and transparency to networks of smart devices.
-S usnulfu yeldin, newwi-d taflest akked tisuseɣt ɣer yiẓeḍwan n wallalen imegza.
+S usnulfu yeldin, newwi-d taflest akked tisuseɣt ɣer yiẓeḍwan n wallalen uḥricen.
 
 
 ;Learn more
@@ -123,11 +124,11 @@ Bdu attekki
 
 
 ;Building a browser that gets you
-Asili n yiminig web i ken-yegzan
+Asali n yiminig web i ken-ifehmen
 
 
 ;The next generation of Web discovery is a browser that is more intuitive, useful and in tune with you.
-Tasuta i d-yemmalen n tegrut Web d iminig yugaren deg wakaz akked tanfa, yerna yemmezg-d yid-wen.
+Isnulfuyen i d-iteddun di web, d iminig iẓewren, inefɛen, yernan fell-ak.
 
 
 ;Try it now
@@ -139,7 +140,7 @@ Asnulfu n tutlayt n usihel taɣelsant
 
 
 ;Sponsored by Mozilla, Rust allows browsers, systems and more to run much faster and more safely.
-Ddaw leɛnaya n Mozilla, Rust ad isireg iminigen, inagrawen d wayen-nniḍen akken ad ttwaselkmen s wugar n urured d tɣeliist.
+Ddaw leɛnaya n Mozilla, Rust ad isireg iminigen, inagrawen d wayen-nniḍen akken ad ddun s wugar n urured d tɣeliist.
 
 
 ;Learn about Rust
@@ -164,7 +165,7 @@ Acu nniḍen?
 
 
 ;Get the Mozilla newsletter for our latest tech news and more.
-Ddu ɣer tebratt n telɣut n Mozilla akken ad tewiḍ isallen imaynuten ɣef tetiknulujit d wayen nniḍen.
+Ddu ɣer tebrat n telɣut n Mozilla akken ad tawiḍ isallen imaynuten ɣef tatiknulujit d wayen-nniḍen.
 
 
 ;Blogs
@@ -172,10 +173,10 @@ Iblugen
 
 
 ;Read the latest from Mozilla’s technology blogs.
-Γeṛ isallen ineggura seg iblugen n tetiknulujit n Mozilla.
+Γer isallen ineggura seg yiblugen n ttiknulujit n Mozilla.
 
 
 ;Continue reading
-Kemmel taɣuṛi
+Kemmel taɣuri
 
 
