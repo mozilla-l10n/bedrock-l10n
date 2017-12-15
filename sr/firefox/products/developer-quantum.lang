@@ -7,11 +7,11 @@
 
 
 ;Firefox Quantum: Developer Edition
-Firefox Quantum: Developer Edition
+Firefox Quantum: Developer Edition {ok}
 
 
 ;Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
-Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
+Добродошли у ваш нови омиљени прегледач. Прегледач са најновијим могућностима, брзим перформансама и програмерским алатима који су вам потребни за развој отвореног веба.
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
@@ -19,15 +19,15 @@ Firefox Developer Edition аутоматски шаље повратне инф�
 
 
 ;Faster Performance
-Faster Performance
+Брже перформансе
 
 
 ;A Next-Generation CSS Engine
-A Next-Generation CSS Engine
+CSS Engine следеће генерације
 
 
 ;Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
-Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
+Firefox је обновљен како би био бржи, бољи и моћнији него икад. Firefox долази са новим CSS engine-ом који има нове иновације и веома је брз.
 
 
 ;New Tools
@@ -35,60 +35,60 @@ Firefox has been rebuilt from the ground up to be faster and more powerful than 
 
 
 ;Firefox DevTools
-Firefox DevTools
+Firefox DevTools {ok}
 
 
 # Link points to http://firefox-dev.tools/
 ;Learn more about Firefox developer tools
-Learn more about Firefox developer tools
+Сазнајте више о Firefox програмерским алатима
 
 
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
-The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
+Нови Firefox DevTool је моћан, флексибилан и најбоље од свега, хакабилан. То подразумева најбољи JavaScript debugger, који може циљати више прегледача и написан је у React-у и Redux-у.
 
 
 # String is obsolete. Do not remove.
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
-The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
+Нови Firefox DevTool је моћан, флексибилан и најбоље од свега, хакабилан. То подразумева најбољи JavaScript debugger, који може циљати више прегледача и написан је у React-у и Ember-у.
 
 
 ;Innovative Features
-Innovative Features
+Иновативне могућности
 
 
 ;Master CSS Grid
-Master CSS Grid
+Усавршите CSS Grid
 
 
 # Link points to https://mozilladevelopers.github.io/playground/
 ;Learn more about CSS Grid
-Learn more about CSS Grid
+Сазнајте више о CSS Grid-у
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
-Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
+Firefox је једини прегледач са алатима направљеним специфично за развој и дизајнирање уз CSS Grid. Ови алати вам омогућују да визуелно прикажете мрежу, прикажете имена области, преглед трансформација на мрежи и још много више.
 
 
 ;Design. Code. Test. Refine.
-Design. Code. Test. Refine.
+Дизајнирај. Кодирај. Тестирај. Побољшај.
 
 
 # line break for visual formatting
 ;Build and Perfect your sites<br> with Firefox DevTools
-Build and Perfect your sites<br> with Firefox DevTools
+Побољшајте ваш сајт<br> уз Firefox DevTools
 
 
 ;Inspector
-Inspector
+Inspector {ok}
 
 
 ;Inspect and refine code to build pixel-perfect layouts.
-Inspect and refine code to build pixel-perfect layouts.
+Истражите и прилагодите код вашим потребама.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Page_Inspector
 ;Learn more about Page Inspector
-Learn more about Page Inspector
+Сазнајте више о Page Inspector-у
 
 
 ;Console
@@ -96,129 +96,129 @@ Learn more about Page Inspector
 
 
 ;Track CSS, JavaScript, security and network issues.
-Track CSS, JavaScript, security and network issues.
+Пратите CSS, JavaScript, безбедносне и мрежне проблеме.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Web_Console
 ;Learn more about Web Console
-Learn more about Web Console
+Сазнајте више о Web Console-и
 
 
 ;Debugger
-Debugger
+Debugger {ok}
 
 
 ;Powerful JavaScript debugger with support for your framework.
-Powerful JavaScript debugger with support for your framework.
+Моћни JavaScript debugger са подршком за ваш framework.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Debugger
 ;Learn more about JavaScript Debugger
-Learn more about JavaScript Debugger
+Сазнајте више о JavaScript Debugger-у
 
 
 ;Network
-Network
+Network {ok}
 
 
 ;Monitor network requests that can slow or block your site.
-Monitor network requests that can slow or block your site.
+Надгледајте захтеве на мрежи који могу успорити или блокирати ваш сајт.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Network_Monitor
 ;Learn more about Network Monitor
-Learn more about Network Monitor
+Сазнајте више о Network Monitor-у
 
 
 ;Storage panel
-Storage panel
+Storage panel {ok}
 
 
 ;Add, modify and remove cache, cookies, databases and session data.
-Add, modify and remove cache, cookies, databases and session data.
+Додавајте, мењајте и бришите кеш, колачиће и друге податке.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Storage_Inspector
 ;Learn more about Storage Panel
-Learn more about Storage Panel
+Сазнајте више о Storage panel-у
 
 
 ;Responsive Design Mode
-Responsive Design Mode
+Responsive Design Mode {ok}
 
 
 ;Test sites on emulated devices in your browser.
-Test sites on emulated devices in your browser.
+Тестирајте сајтове на емулаторима у вашем прегледачу.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Responsive_Design_View
 ;Learn more about Responsive Design View
-Learn more about Responsive Design View
+Сазнајте више о Responsive Design View-у
 
 
 ;Visual Editing
-Visual Editing
+Visual Editing {ok}
 
 
 ;Fine-tune animations, alignment and padding.
-Fine-tune animations, alignment and padding.
+Фино подешене анимације, поравнавања и ивице.
 
 
 # Link points to https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more
 ;Learn more about Visual Editing
-Learn more about Visual Editing
+Сазнајте више о Visual Editing-у
 
 
 ;Performance
-Performance
+Performance {ok}
 
 
 ;Unblock bottlenecks, streamline processes, optimize assets.
-Unblock bottlenecks, streamline processes, optimize assets.
+Одблокирајте, усмеравајте и оптимизујте процесе.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Performance
 ;Learn more about Performance Tools
-Learn more about Performance Tools
+Сазнајте више о Performance Tools
 
 
 ;Memory
-Memory
+Memory {ok}
 
 
 ;Find memory leaks and make your application zippy.
-Find memory leaks and make your application zippy.
+Пронађите где вам "цури" меморија и побољшајте вашу апликацију.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Memory
 ;Learn more about Memory Tools
-Learn more about Memory Tools
+Сазнајте више о Memory Tools
 
 
 ;Web Audio
-Web Audio
+Web Audio {ok}
 
 
 ;The only developer tool for inspecting the Web Audio API.
-The only developer tool for inspecting the Web Audio API.
+Једини програмерски алат за истраживање Web Audio API.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Web_Audio_Editor
 ;Learn more about Web Audio Editor
-Learn more about Web Audio Editor
+Сазнајте више о Web Audio Editor-у
 
 
 ;Scratchpad
-Scratchpad
+Scratchpad {ok}
 
 
 ;Edit, write, run and execute JavaScript in real time.
-Edit, write, run and execute JavaScript in real time.
+Мењајте, пишите и покрећите JavaScript у реалном времену.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Scratchpad
 ;Learn more about Scratchpad
-Learn more about Scratchpad
+Сазнајте више Scratchpad-у
 
 
 ;Style Editor
@@ -226,76 +226,76 @@ Learn more about Scratchpad
 
 
 ;Edit and manage all your CSS stylesheets in your browser.
-Edit and manage all your CSS stylesheets in your browser.
+Мењаје и управљајте свим вашим CSS датотекама у вашем прегледачу.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Style_Editor
 ;Learn more about Style Editor
-Learn more about Style Editor
+Сазнајте више о Style Editor-у
 
 
 ;Speak up
-Speak up
+Реците своје мишљење
 
 
 ;Feedback makes us better. Tell us how we can improve the browser and Developer tools.
-Feedback makes us better. Tell us how we can improve the browser and Developer tools.
+Повратне информације нас чине бољим. Кажите нам како можемо да побољшамо прегледач и Developer tools.
 
 
 # Link to https://discourse.mozilla-community.org/c/devtools
 ;Join the conversation
-Join the conversation
+Придружите се дискусији
 
 
 ;Get involved
-Get involved
+Прикључите се
 
 
 ;Help build the last independent browser. Write code, fix bugs, make add-ons, and more.
-Help build the last independent browser. Write code, fix bugs, make add-ons, and more.
+Помозите нам да направимо последњи независни прегледач. Пишите кодове, исправљајте грешке, правите додатке и више.
 
 
 # Link to https://devtools-html.github.io/
 ;Start now
-Start now
+Започните сада
 
 
 ;Download the Firefox browser made for developers
-Download the Firefox browser made for developers
+Преузмите Firefox направљен за програмере
 
 
 # First run page at https://www.mozilla.org/firefox/57.0a2/firstrun/
 ;Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
-Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
+Firefox Developer Edition је невероватно брз и пружа најновије програмерске алате и могућности као што је CSS Grid и framework debugging
 
 
 ;Welcome to the all-new Firefox Quantum: Developer Edition
-Welcome to the all-new Firefox Quantum: Developer Edition
+Добродошли у Firefox Quantum: Developer Edition
 
 
 ;Firefox has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
-Firefox has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
+Firefox је обновљен како би био бржи, бољи и моћнији него икад.
 
 
 ;Firefox Devtools
-Firefox Devtools
+Firefox Devtools {ok}
 
 
 ;Next-Gen CSS Engine
-Next-Gen CSS Engine
+CSS Engine следеће генерације
 
 
 # line break for visual formatting
 ;Get developer news, tricks and resources <br /> sent straight to your inbox.
-Get developer news, tricks and resources <br /> sent straight to your inbox.
+Добијајте новости, трикове и материјале из програмерског света <br /> право у ваше сандуче.
 
 
 ;A Next-Generation CSS Engine (hint: it’s fast)
-A Next-Generation CSS Engine (hint: it’s fast)
+CSS Engine следеће генерације (веома је брз)
 
 
 ;Firefox Quantum includes a new CSS engine, written in Rust, that has state-of-the-art innovations and is blazingly fast.
-Firefox Quantum includes a new CSS engine, written in Rust, that has state-of-the-art innovations and is blazingly fast.
+Firefox Quantum долази са новим CSS engine-ом, написаним у Rust-у, који има нове иновације и веома је брз.
 
 
 # What's new run page at https://www.mozilla.org/firefox/57.0a2/whatsnew/
@@ -308,7 +308,7 @@ Firefox Nightly receives daily updates and allows you to access features months 
 
 
 ;Congrats. You now have Firefox Quantum: Developer Edition.
-Congrats. You now have Firefox Quantum: Developer Edition.
+Честитамо. Сада имате Firefox Quantum: Developer Edition.
 
 
 ;This isn’t just an update. This is Firefox Quantum: A brand new Firefox that has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
