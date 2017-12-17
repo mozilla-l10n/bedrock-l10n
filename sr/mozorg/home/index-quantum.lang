@@ -1,4 +1,6 @@
 ## active ##
+## home-fundraiser-EOY2017 ##
+## home-update-20171116 ##
 ## mozorg-home-health-report ##
 ## mozorg-home-impact-health ##
 ## NOTE: demo server at https://www-dev.allizom.org/
@@ -15,12 +17,12 @@
 
 
 ;We all love the web. Join Mozilla in defending it.
-We all love the web. Join Mozilla in defending it.
+Сви ми волимо веб. Придружите се Mozilla-и у његовој одбрани.
 
 
 # "Cup of coffee" is meant to represent an inexpensive item that an average person would purchase daily/without hesitation. Feel free to substitute with something affordable locally.
 ;Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
-Let’s protect the world’s largest public resource for future generations. A few times a year, Mozilla asks for donations. Just chipping in the price of a cup of coffee can help us keep the web healthy, wonderful and welcoming to all.
+Заштитимо највећи светски јавни ресурс за будуће генерације. Неколико пута годишње, Mozilla тражи донације. Довољне су донације у вредности једне кафе како бисмо чували веб здравијим, бољим и доступним свима.
 
 
 # Line break below for visual formatting only
@@ -37,7 +39,7 @@ Let’s protect the world’s largest public resource for future generations. A 
 
 
 ;When you use Firefox, you help Mozilla fight misinformation online, teach digital skills and make the comments section more human. Check out what helps create a healthier internet.
-When you use Firefox, you help Mozilla fight misinformation online, teach digital skills and make the comments section more human. Check out what helps create a healthier internet.
+Када користите Firefox, помажете Mozilla-и да се бори са дезинформацијама на интернету, да дигитално описмењује друге и бори се за интернет права. Проверите шта све помаже стварању здравијег интернета.
 
 
 # String is obsolete. Do not remove.
@@ -47,17 +49,17 @@ When you use Firefox, you help Mozilla fight misinformation online, teach digita
 
 # Link points to https://blog.mozilla.org/blog/2017/08/08/mozilla-information-trust-initiative-building-movement-fight-misinformation-online/
 ;Mozilla Information Trust Initiative
-Mozilla Information Trust Initiative
+Mozilla Information Trust Initiative {ok}
 
 
 # Link points to https://learning.mozilla.org/blog/new-partnership-with-un-women-to-teach-key-digital-skills-to-women
 ;Empowering Women Online
-Empowering Women Online
+Јачање жена на интернету
 
 
 # Link points to https://blog.mozilla.org/blog/2017/09/06/mozilla-washington-post-reinventing-online-comments/
 ;The Coral Project
-The Coral Project
+The Coral Project {ok}
 
 
 # Link points to https://internethealthreport.org
@@ -94,7 +96,7 @@ The Coral Project
 
 
 ;Common Voice
-Common Voice
+Заједнички глас
 
 
 # String is obsolete. Do not remove.
@@ -179,7 +181,7 @@ Common Voice
 
 
 ;With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is the better way to browse.
-With 2x the speed, built-in privacy protection and Mozilla behind it, the new Firefox is the better way to browse.
+Са дупло већом брзином, уграђеном заштитом приватности и уз Mozilla-у, нови Firefox је бржи са разлогом.
 
 
 # String is obsolete. Do not remove.
@@ -192,7 +194,7 @@ With 2x the speed, built-in privacy protection and Mozilla behind it, the new Fi
 
 
 ;Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profit.
-Mozilla is the not-for-profit behind Firefox, the original alternative browser. We create products and policy to keep the internet in service of people, not profit.
+Mozilla је непрофитна организација која стоји иза Firefox-а, првобитни алтернативни прегледач. Направили смо производ и полису како бисмо држали интернет у служби људи, не профита.
 
 
 # String is obsolete. Do not remove.
