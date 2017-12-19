@@ -5,7 +5,7 @@
 
 
 ;You’re browsing freely with the latest version of Firefox.
-您正在使用最新版本的 Firefox 自由地浏览。
+您正在使用最新版本的 Firefox 自由浏览网络。
 
 
 # Link points to a SUMO page.
@@ -126,7 +126,7 @@
 
 
 ;Thanks for choosing Firefox. Your download should begin automatically. If not, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-感谢您选择 Firefox。您的下载将会自动开始。如果没有，<a id="%(id)s" href="%(fallback_url)s">请点击这里</a>。
+感谢您选择 Firefox。下载马上就会自动开始。如果没有的话，<a id="%(id)s" href="%(fallback_url)s">请点击这里</a>。
 
 
 ;Get Firefox for Android and iOS.
