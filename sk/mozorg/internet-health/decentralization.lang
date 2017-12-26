@@ -3,53 +3,53 @@
 
 # Used as HTML title of the page
 ;Decentralization: Vital to Internet Health
-Decentralization: Vital to Internet Health
+Decentralizácia - životne dôležitá vec pre zdravie internetu
 
 
 # Used as HTML description of the page
 ;A decentralized internet, owned by all of us, is where net neutrality, interoperability, competition, and local contribution thrive.
-A decentralized internet, owned by all of us, is where net neutrality, interoperability, competition, and local contribution thrive.
+Decentralizovaný internet, vlastnený nami všetkými, je všade tam, kde sa darí sieťovej neutralite, interoperabilite, konkurencii a miestnym prispievateľom.
 
 
 # Used as Page Title
 ;A healthy Internet is created and owned by us all
-A healthy Internet is created and owned by us all
+Zdravý internet je tvorený a vlastnený nami všetkými
 
 
 ;The Internet owes much of its success to openness: its open, shared structure has made it easy for everyone to build, surf, and thrive on it. But a few big companies are closing in, closing doors, and creating walled gardens that concentrate their ownership and control of the Web. Together, we can fight to make sure no one limits our Internet access, experience, or creation.
-The Internet owes much of its success to openness: its open, shared structure has made it easy for everyone to build, surf, and thrive on it. But a few big companies are closing in, closing doors, and creating walled gardens that concentrate their ownership and control of the Web. Together, we can fight to make sure no one limits our Internet access, experience, or creation.
+Internet vďačí za svoj úspech z veľkej časti otvorenosti - jeho otvorená, zdieľaná infraštruktúra umožňuje každému tvoriť, surfovať či dosahovať úspechy. Niekoľko veľkých spoločností sa ho však snaží uzavrieť a získať kontrolu nad jeho obsahom. Spoločne môžeme bojovať a zaistiť tak, že nikto nebude obmedzovať prístup k internetu.
 
 
 ;A healthy Internet belongs to you.
-A healthy Internet belongs to you.
+Zdravý internet patrí vám.
 
 
 ;Here are four areas where we can make a difference.
-Here are four areas where we can make a difference.
+Tu sú štyri oblasti, v ktorých môžeme niečo zmeniť.
 
 
 ;Net Neutrality
-Net Neutrality
+Sieťová neutralita
 
 
 ;Interoperability
-Interoperability
+Interoperabilita
 
 
 ;Competition and Choice
-Competition and Choice
+Konkurencia a možnosť voľby
 
 
 ;Local Contribution
-Local Contribution
+Miestne príspevky
 
 
 ;Decentralization means Net Neutrality
-Decentralization means Net Neutrality
+Decentralizácia znamená sieťovú neutralitu
 
 
 ;No one should be able to restrict our access to the Web for their own gain.
-No one should be able to restrict our access to the Web for their own gain.
+Nikto by nemal mať právo obmedzovať náš prístup na internet za účelom osobného zisku.
 
 
 ;We rely on network providers – telcos and cable companies – for access to the Internet. Which puts them in a position to restrict that access for their own business objectives, favoring their own products, blocking sites or brands, or charging different prices and offering different speeds depending on content type. Net neutrality prohibits network providers from discriminating based on content, so everyone has equal access.
@@ -57,25 +57,25 @@ We rely on network providers – telcos and cable companies – for access to th
 
 
 ;As of December 2016, 47 countries currently have laws in place to protect Net Neutrality.
-As of December 2016, 47 countries currently have laws in place to protect Net Neutrality.
+K decembru 2016 má 47 krajín zákony pre ochranu sieťovej neutrality.
 
 
 ;Source: <a href="%(accessnow)s">Access Now</a>
-Source: <a href="%(accessnow)s">Access Now</a>
+Zdroj: <a href="%(accessnow)s">Access Now</a>
 
 
 # String obsolete. Do NOT remove
 ;Source: <a href="%(wwwf)s">Access Now</a>, 2015
-Source: <a href="%(wwwf)s">Access Now</a>, 2015
+Zdroj: <a href="%(wwwf)s">Access Now</a>, 2015
 
 
 # This is used as a decorative element in a callout box.
 ;47
-47
+47 {ok}
 
 
 ;How you can support net neutrality
-How you can support net neutrality
+Ako môžete podporiť sieťovú neutralitu
 
 
 ;Keep speaking up
@@ -83,11 +83,11 @@ Keep speaking up
 
 
 ;The fight for net neutrality continues all over the world. The rules that have been adopted in the US and Europe need to be defended and enforced. Reach out to your government official wherever you live, and express your support.
-The fight for net neutrality continues all over the world. The rules that have been adopted in the US and Europe need to be defended and enforced. Reach out to your government official wherever you live, and express your support.
+Boj za sieťovú neutralitu pokračuje po celom svete. Pravidlá, ktoré boli prijaté v USA a v Európe musia byť zachované a uplatňované. Kontaktujte svojho parlamentného zástupcu a vyjadrite svoju podporu.
 
 
 ;How Mozilla is supporting net neutrality
-How Mozilla is supporting net neutrality
+Ako Mozilla podporuje sieťovú neutralitu
 
 
 ;Advocating policy change
@@ -107,7 +107,7 @@ Fostering a global community of passionate Internet users who share our vision.
 
 
 ;Decentralization means Interoperability
-Decentralization means Interoperability
+Decentralizácia znamená interoperabilitu
 
 
 ;The Web should remain open and interoperable, so we can keep our experience consistent, transparent, and full of possibility.
@@ -119,16 +119,16 @@ Interoperability is a big word with a simple result: your Web experience is basi
 
 
 ;73% of Internet users have seen someone harassed online and 40% have personally experienced it.
-73% of Internet users have seen someone harassed online and 40% have personally experienced it.
+73 % používateľov internetu bolo svedkami obťažovania na internete a 40 % obťažovanie osobne zažilo.
 
 
 ;Source: <a href="%(pew)s">Pew Research</a>, 2014
-Source: <a href="%(pew)s">Pew Research</a>, 2014
+Zdroj: <a href="%(pew)s">Pew Research</a>, 2014
 
 
 # This is used as a decorative element in a callout box.
 ;73%
-73%
+73 %
 
 
 ;How you can support interoperability
@@ -136,7 +136,7 @@ How you can support interoperability
 
 
 ;Go independent
-Go independent
+Buďte nezávislí
 
 
 ;Innovation can still come from anywhere – especially if we support it. Try out apps and products from companies you don’t already know.
@@ -180,12 +180,12 @@ In most EU member countries, Google controls more than 90 percent of the search 
 
 
 ;Source: <a href="%(atlantic)s">The Atlantic</a>, 2015
-Source: <a href="%(atlantic)s">The Atlantic</a>, 2015
+Zdroj: <a href="%(atlantic)s">The Atlantic</a>, 2015
 
 
 # This is used as a decorative element in a callout box.
 ;97%
-97%
+97 %
 
 
 ;How you can influence competition and choice
@@ -237,12 +237,12 @@ Chinese, Spanish, Arabic and Portuguese speaking internet users make up 37.5% of
 
 
 ;Source: <a href="%(wikipedia)s">Wikipedia</a>
-Source: <a href="%(wikipedia)s">Wikipedia</a>
+Zdroj: <a href="%(wikipedia)s">Wikipédia</a>
 
 
 # This is used as a decorative element in a callout box.
 ;37.5%
-37.5%
+37,5 %
 
 
 ;How you can support local contribution
@@ -282,6 +282,6 @@ Hungry for more?
 
 
 ;Read on about Decentralization in our <a href="%(healthreport)s">Internet Health Report</a>.
-Read on about Decentralization in our <a href="%(healthreport)s">Internet Health Report</a>.
+Prečítajte si o decentralizácii v našej <a href="%(healthreport)s">Správe o zdraví internetu</a>.
 
 

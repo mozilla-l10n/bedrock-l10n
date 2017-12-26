@@ -68,7 +68,7 @@ Sledovanie a súkromie
 
 
 ;Not all tracking is bad. Many services rely on user data to provide relevant content and enhance your online experience.
-Každé sledovanie nie je zlé. Mnoho služieb je závislým na údajoch používateľov, aby mohli poskytovať relevantný obsah.
+Každé sledovanie nie je zlé. Mnoho služieb je závislých na údajoch používateľov, aby mohli poskytovať relevantný obsah.
 
 
 ;But tracking can happen without the user’s knowledge.
@@ -100,7 +100,7 @@ Analyzujte svoje spojenia
 
 
 ;As your visualizations grow, you can take a closer look into the relationships between the various first and third party sites that are stored in your data. You can also reset or save your data at any time.
-As your visualizations grow, you can take a closer look into the relationships between the various first and third party sites that are stored in your data. You can also reset or save your data at any time.
+Ako sa vaša vizualizácia bude rozrastať, budete sa môcť pozrieť zblízka na vzťahy medzi rôznymi stránkami, uloženými vo vašich údajoch. Svoje údaje môžete kedykoľvek uložiť alebo obnoviť.
 
 
 ;To help us, you can contribute your data to our Lightbeam database.
@@ -159,7 +159,7 @@ Site preferences in the List view enable you to block sites from connecting to y
 
 
 ;Lightbeam also offers an information panel that provides additional details about the site you selected and the sites it has connected to.
-Lightbeam also offers an information panel that provides additional details about the site you selected and the sites it has connected to.
+Lightbeam taktiež ponúka informačný panel s ďalšími podrobnosťami o vybranej stránke a stránkach, s ktorými je prepojená.
 
 
 ;The origins of Lightbeam
@@ -171,7 +171,7 @@ Lightbeam začal v júli 2011 ako Collusion, ako osobný projekt softvérového 
 
 
 ;Inspired by the book, <em>The Filter Bubble</em>, Atul created an experimental add-on to visualize browsing behavior and data collection on the Web.
-Inspired by the book, <em>The Filter Bubble</em>, Atul created an experimental add-on to visualize browsing behavior and data collection on the Web.
+Inšpirovaný knihou <em>The Filter Bubble</em>, Atul vytvoril experimentálny doplnok zobrazujúci chovanie prehliadača a zbieranie údajov na webe.
 
 
 ;In February 2012, Gary Kovacs, Mozilla CEO at the time, introduced the Collusion add-on in a <a href="%s">TED talk</a> (now one of the most watched TED talks of all time) about exposing online tracking.
@@ -207,11 +207,11 @@ Lightbeam is one step in a larger, concerted effort by Mozilla and its partners 
 
 
 ;Learn more about online tracking and privacy
-Learn more about online tracking and privacy
+Zistite viac o sledovaní a súkromí na internete
 
 
 ;The <a href="%s">Mozilla Foundation</a> is a non-profit organization that promotes the values of an open Web to the broader world. The larger Mozilla community sees the growing relevance of online privacy and is supporting several initiatives that tackle the issue in various ways.
-The <a href="%s">Mozilla Foundation</a> is a non-profit organization that promotes the values of an open Web to the broader world. The larger Mozilla community sees the growing relevance of online privacy and is supporting several initiatives that tackle the issue in various ways.
+<a href="%s">Mozilla Foundation</a> je nezisková organizácia, ktorá propaguje hodnoty otvoreného webu. Veľká komunita Mozilly vidí rastúcu dôležitosť súkromia na internete a podporuje niekoľko iniciatív, ktoré sa tento problém snažia rôznymi spôsobmi vyriešiť.
 
 
 ;Data formats in Lightbeam
