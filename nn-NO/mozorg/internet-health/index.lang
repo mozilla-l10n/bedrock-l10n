@@ -9,7 +9,7 @@ Beskytt internetthelsa og personvern med Mozilla
 # Used as HTML description of the page
 # IRL stands for In Real Life. Here it refers to podcasts about real life stories, not fictional. In the localized string, explicitly indicate that the link takes users to tge webpage and podcasts that are in English only.
 ;Get involved by reading our latest blog posts on Internet privacy, listen to the IRL Podcast and subscribe to our newsletter.
-Get involved by reading our latest blog posts on Internet privacy, listen to the IRL Podcast and subscribe to our newsletter.
+Engasjer deg ved å lese dei siste blogginnlegga våre om personvern på nettet, høyr på podkastsendingane og abonner på nyheitsbrevet vårt.
 
 
 ;Mozilla is on a mission to keep the Internet growing and healthy. Join us!
@@ -21,11 +21,11 @@ Desentralisering
 
 
 ;Choice is a good thing
-Choice is a good thing
+Valfridom er bra
 
 
 ;Name 5 websites you visit daily. Now 10, 20 or even 30. Tricky, right? When a few big companies “own” the Internet, choice can be limited, but you don’t have to be.
-Name 5 websites you visit daily. Now 10, 20 or even 30. Tricky, right? When a few big companies “own” the Internet, choice can be limited, but you don’t have to be.
+Nemn fem nettsider du besøkjer dagleg. Prøv så med 10, 20 eller til og med 30. Vanskeleg, ikkje sant? Når nokre store selskap «eig» internett, kan valet avgrensast, men du treng ikkje å vere det. Avgrensa.
 
 
 # This is a link.
@@ -56,7 +56,7 @@ Digital inkludering
 
 # Here Internet means surf the internet, use the internet to search for something.
 ;Let’s Internet better, together
-Let’s Internet better, together
+La oss lage eit betre internett, saman
 
 
 ;More than 50% of the world is still offline. This means we have 50% more creativity and innovation to nurture. Now, how great is that!
@@ -73,7 +73,7 @@ Nettkompetanse
 
 
 ;Citizens of the Internet
-Citizens of the Internet
+Borgar av Internett
 
 
 ;Calling the creators of today’s Internet - AKA you! Learn how to protect your creativity, privacy and independence online.
@@ -82,7 +82,7 @@ Calling the creators of today’s Internet - AKA you! Learn how to protect your 
 
 # This is a link.
 ;Check out Web Literacy
-Check out Web Literacy
+Lær meir om nettkunnskap
 
 
 ;Openness
@@ -90,16 +90,16 @@ Openheit
 
 
 ;Innovation is for everyone
-Innovation is for everyone
+Nyskaping er for alle
 
 
 ;The Internet was built on the promise that any one of us might create the next big thing. Help keep the creativity flowing!
-The Internet was built on the promise that any one of us might create the next big thing. Help keep the creativity flowing!
+Internett vart bygd på løftet om at nokon av oss skulle kunne lage det neste store. Hjelp til med å la kreativiteten til å strøyme fritt!
 
 
 # This is a link.
 ;Support Internet Openness
-Support Internet Openness
+Støtt openheit på Internett
 
 
 ;Common Voice
@@ -117,7 +117,7 @@ Contribute to the world’s first crowdsourced voice library. An open, free reso
 
 # Link points to https://voice.mozilla.org/
 ;Record in Common Voice
-Record in Common Voice
+Spel inn på Common Voice
 
 
 # String is obsolete. Do not remove.
@@ -128,12 +128,12 @@ Nettnøytralitet
 
 # String is obsolete. Do not remove.
 ;Net Neutrality is under threat…again.
-Net Neutrality is under threat…again.
+Nettnøytraliteten er trua igjen.
 
 
 # String is obsolete. Do not remove.
 ;Time’s running out. Help protect an open Internet for everyone.
-Time’s running out. Help protect an open Internet for everyone.
+Tida renn ut. Hjelp til med å verne eit ope internett for alle.
 
 
 # String is obsolete. Do not remove.
@@ -151,7 +151,7 @@ Om internetthelse
 
 
 ;The Internet got a full check-up and the results are in.
-The Internet got a full check-up and the results are in.
+Internett har fått ein full gjennomgang og resultatet er her.
 
 
 # This is a link
