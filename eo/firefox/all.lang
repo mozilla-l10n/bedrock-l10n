@@ -1,4 +1,5 @@
 ## active ##
+## esr_page_desc_bug1421584 ##
 ## NOTE: The page is at https://www-dev.allizom.org/firefox/all/
 
 
@@ -38,7 +39,7 @@ Elŝutu %s en via lingvo kaj spertu la lastajn trajtojn kaj novkreaĵojn en nest
 
 # This is displayed on firefox/organizations/all/
 ;Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
-Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+Firefox ESR celas sistemajn administrantojn, kiuj instalas kaj prizorgas komputilojn en organizoj kiel lernejoj, registaroj kaj entreprenoj.
 
 
 # The string is obsolete. Do not remove.
@@ -76,7 +77,7 @@ Kontrolu la postulojn de la sistemo
 
 
 ;Release notes
-Notoj pri liverado
+Notoj pri la versio
 
 
 ;Source code
