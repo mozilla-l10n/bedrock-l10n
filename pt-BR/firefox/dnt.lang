@@ -80,7 +80,7 @@ Como eu ativo o Não Me Rastreie no Firefox?
 
 
 ;This feature is not enabled by default. You can find the Do Not Track request on the Privacy pane. <span id="%(id)s">On Windows, go to Tools &gt; Options&hellip; &gt; Privacy.</span>
-Este recurso não vem ativado por predefinição. Você pode encontrar o Não Me Rastreie no painel de Privacidade. <span id="%(id)s">No Windows, acesse Ferramentas > Opções > Privacidade.</span>
+Este recurso não vem ativado por padrão. Você pode encontrar o Não Me Rastreie no painel de Privacidade. <span id="%(id)s">No Windows, acesse Ferramentas > Opções > Privacidade.</span>
 
 
 ;On macOS, go to Firefox &gt; Preferences… &gt; Privacy. On Linux, go to Edit &gt; Preferences &gt; Privacy.
@@ -113,7 +113,7 @@ Outros trabalhos interessantes sobre o Não Me Rastreie e privacidade online:
 
 
 ;<a href="%s">Private browsing</a> in Firefox &#8212; limits saving data about which sites and pages you have visited online
-<a href="%s">Navegação privada</a> no Firefox &#8212; limite o armazenamento de dados sobre quais sites e páginas visitou
+<a href="%s">Navegação privativa</a> no Firefox &#8212; limite o armazenamento de dados sobre quais sites e páginas on-line você visitou
 
 
 ;<a href="%(url1)s">Managing cookies</a> in Firefox &#8212; lets you control how <a href="%(url2)s">cookies</a> are saved on your computer

@@ -68,7 +68,7 @@ Sua privacidade é extremamente importante para nós, e por isso o Firefox nunca
 
 
 ;By default, Firefox uses Google Location Services to determine your location by sending:
-Por predefinição, o Firefox usa o Google Location Services para determinar a sua localização enviando:
+Por padrão, o Firefox usa o Google Location Services para determinar a sua localização enviando:
 
 
 ;your computer’s IP address,
@@ -116,7 +116,7 @@ Política de privacidade do Google
 
 
 ;Am I being tracked as I browse the web?
-Estou sendo rastreado enquanto navego na internet?
+Estou sendo rastreado enquanto navego na Internet?
 
 
 ;No. Firefox only requests a location when a website makes a request, and only shares your location when the user has approved the request. Firefox does not track or remember your location as you browse.
