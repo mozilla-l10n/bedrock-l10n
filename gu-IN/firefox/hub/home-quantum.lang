@@ -1,4 +1,5 @@
 ## active ##
+## update_faster_copy ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/
 
 
@@ -59,11 +60,11 @@ Firefox Quantum ને મળો.
 
 
 ;Now 2x faster
-Now 2x faster
+હવે 2x ઝડપી
 
 
 ;Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Firefox Quantum is twice as fast as Firefox was before.
-Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Firefox Quantum is twice as fast as Firefox was before.
+ઉત્તમ <a href="%(url)s">શક્તિશાળી બ્રાઉઝર એન્જિન</a>? તપાસો. પૃષ્ઠોને લોડ થવાની રાહ જોવા માટેઓછો સમય છે? ઉપરાંત, તપાસો. Firefox Quantum એ પહેલાના Firefox કરતા બમણું ઝડપી છે.
 
 
 # String is obsolete. Do not remove.
