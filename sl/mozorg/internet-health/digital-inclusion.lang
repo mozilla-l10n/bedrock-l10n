@@ -1,3 +1,5 @@
+## active ##
+## inclusion-donate-tech ##
 ## NOTE: Demo server is available at https://www-dev.allizom.org/internet-health/digital-inclusion/
 
 
@@ -6,7 +8,7 @@ Digitalno vključevanje: ključnega pomena za zdravje interneta
 
 
 ;Digital inclusion means promoting diversity, practicing respect, and supporting universal access online.
-Digital inclusion means promoting diversity, practicing respect, and supporting universal access online.
+Digitalno vključevanje pomeni spodbujanje raznolikosti, uveljavljanje spoštovanja in spodbujanje dostopa v spletu.
 
 
 ;A Healthy Internet is Inclusive to All
@@ -32,7 +34,7 @@ Spodbujanje raznolikosti
 
 # This is a navigation link
 ;Practice Respect
-Practice Respect
+Uveljavljanje spoštovanja
 
 
 # This is a navigation link
@@ -49,7 +51,7 @@ Da bo lahko internet izpolnil svojo največjo obljubo, mora odražati raznolikos
 
 
 ;As inclusive as the Web can seem, it’s not yet an equal playing field. More than half the world is still without it; emerging economies and marginalized communities are often the last to gain access. Far fewer women are using the Internet than men. And without diversity among its creators, the Web itself will reflect unconscious biases, while personalizing algorithms can reinforce our own.
-As inclusive as the Web can seem, it’s not yet an equal playing field. More than half the world is still without it; emerging economies and marginalized communities are often the last to gain access. Far fewer women are using the Internet than men. And without diversity among its creators, the Web itself will reflect unconscious biases, while personalizing algorithms can reinforce our own.
+Zdi se nam, da je splet vključujoč, a le ni za vse popolnoma tako. Več kot polovica sveta je brez njega; države v razvoju in marginalizirane skupnosti so pogosto tiste, ki zadnje dobijo dostop. Bistveno manj žensk uporablja internet kot moški. Brez raznolikosti med ustvarjalci bo splet sam od sebe in nezavedno ustvarjal pristranskost, medtem ko lahko personalizacijski algoritmi le še okrepijo vašo lastno.
 
 
 ;In nine developing countries, women are still nearly 50% less likely to access the Internet than men.
@@ -90,31 +92,31 @@ Kako Mozilla spodbuja raznolikost
 
 
 ;Advancing accessibility
-Advancing accessibility
+Spodbujanje dostopnosti
 
 
 ;Advancing web accessibility standards, and making Firefox inclusive through efforts like our <a href="%(web_a11y)s">Accessibility</a> team.
-Advancing web accessibility standards, and making Firefox inclusive through efforts like our <a href="%(web_a11y)s">Accessibility</a> team.
+Spodbujanje standardov spletne dostopnosti in Firefoxov trud biti vključujoč tudi s pomočjo naše ekipe za <a href="%(web_a11y)s">dostopnost</a>.
 
 
 ;Building digital skills
-Building digital skills
+Razvoj digitalnih veščin
 
 
 ;<a href="%(un_women)s">Partnering with UN Women</a> to help women in Africa and across the globe build key digital skills.
-<a href="%(un_women)s">Partnering with UN Women</a> to help women in Africa and across the globe build key digital skills.
+<a href="%(un_women)s">Sodelovanje z Agencijo ZN za ženske</a>, da bi pomagali ženskam v Afriki in drugod po svetu razviti ključne digitalne veščine.
 
 
 ;Digital Inclusion means practicing respect
-Digital Inclusion means practicing respect
+Digitalno vključevanje pomeni uveljavljanje spoštovanja
 
 
 ;We should all have the ability to participate fully on the Internet, without threat to our reputations, our confidence, or our safety.
-We should all have the ability to participate fully on the Internet, without threat to our reputations, our confidence, or our safety.
+Vsi bi morali imeti možnost sodelovati na internetu, in sicer brez grožnje za naš ugled, zaupanje ali varnost.
 
 
 ;We’ve all seen our share of nasty comments sections. At times, the Web can feel like a very unfriendly place – particularly for women, minorities, and members of marginalized communities. By discouraging people from getting online, cyberbullying and cyber violence threaten not just individuals, but the Internet itself.
-We’ve all seen our share of nasty comments sections. At times, the Web can feel like a very unfriendly place – particularly for women, minorities, and members of marginalized communities. By discouraging people from getting online, cyberbullying and cyber violence threaten not just individuals, but the Internet itself.
+Vsi smo že videli kakšne zlobne komentarje. Včasih se splet zdi kot neprijazen kraj – zlasti za ženske, manjšine in pripadnike marginaliziranih skupnosti. Z odvračanjem ljudi od rabe spleta, z ustrahovanjem na spletu in kibernetskim nasiljem so ogroženi ne le posamezniki, temveč tudi sam splet.
 
 
 ;73% of Internet users have seen someone harassed online and 40% have personally experienced it.
@@ -131,7 +133,7 @@ Vir: <a href="%(pew)s">Pew Research</a>, 2014
 
 
 ;How you can practice respect
-How you can practice respect
+Kako biti spoštljiv
 
 
 ;Report bullying
@@ -151,7 +153,7 @@ Govorite o spoštovanju
 
 
 ;How Mozilla is practicing respect
-How Mozilla is practicing respect
+Kako pri Mozilli skrbimo za spoštljivost
 
 
 ;Supporting tools for safety
@@ -163,11 +165,11 @@ Podpiramo projekt <a href="%(coral)s">Coral Project</a>, ki si prizadeva izbolj�
 
 
 ;Empowering individuals
-Spodbuja posameznike
+Spodbujajte posameznike
 
 
 ;Creating open curricula that empowers people to create safe spaces online, like the <a href="%(teaching)s">Teaching Kit: Combating Cyber Violence Against Women and Girls</a>.
-Creating open curricula that empowers people to create safe spaces online, like the <a href="%(teaching)s">Teaching Kit: Combating Cyber Violence Against Women and Girls</a>.
+Ustvarjanje odprtih učnih načrtov, ki ljudem omogočajo ustvarjanje varnih mest na spletu, primer takega učnega načrta je <a href="%(teaching)s">Komplet za poučevanje: Boj proti spletnemu nasilju nad ženskami in dekleti</a>.
 
 
 ;Digital Inclusion means supporting universal access to the whole Internet
@@ -179,7 +181,7 @@ Vsi bi morali imeti možnost ugodnega, visokokakovostnega in neomejenega dostopa
 
 
 ;To participate online, you have to be able to get online. Programs have emerged that offer free or subsidized Internet access, but it is often slow or restricted, creating a ‘poor Internet for poor people.’ At its most extreme, governments worldwide are turning off all or parts of the Internet to serve their own agendas, which can threaten human rights and even the health of the global economy.
-To participate online, you have to be able to get online. Programs have emerged that offer free or subsidized Internet access, but it is often slow or restricted, creating a ‘poor Internet for poor people.’ At its most extreme, governments worldwide are turning off all or parts of the Internet to serve their own agendas, which can threaten human rights and even the health of the global economy.
+Če želite sodelovati na spletu, morate biti tam prisotni. Pojavile so se pobude, ki ponujajo brezplačen ali subvencioniran dostop do interneta, vendar je ta pogosto počasen ali omejen, kar ustvarja "reven internet za revne". Vlade po vsem svetu pa v skrajnih primerih celo onemogočijo ves internet ali pa njegove dele, da ta služi njihovim lastnim načrtom, kar lahko ogrozi človekove pravice in celo zdravje svetovnega gospodarstva.
 
 
 ;In 2016, there were 51 intentional Internet shutdowns in 18 countries.
@@ -217,7 +219,7 @@ Zagovarjajte odprtost
 
 
 ;Tell your representatives that open and affordable access to the Internet should be a policy priority.
-Tell your representatives that open and affordable access to the Internet should be a policy priority.
+Povejte svojim predstavnikom, da bi moral biti odprt in dostopen dostop do spleta prednostna usmeritev.
 
 
 ;How Mozilla is supporting universal access
@@ -229,7 +231,7 @@ Zagovarjanje nevtralnosti
 
 
 ;Championing <a href="%(neutrality)s">net neutrality</a>, so that everyone has access to the same Internet.
-Borimo se za <a href="%(neutrality)s">nevtralnost spleta</a>, da bi vsakdo imel dostop do enakega interneta.
+Borimo se za <a href="%(neutrality)s">internetno nevtralnost</a>, da bi vsakdo imel dostop do enakega interneta.
 
 
 ;Connecting the unconnected
@@ -237,7 +239,7 @@ Povezovanje nepovezanih
 
 
 ;Sponsoring the <a href="%(equalrating)s">Equal Rating Innovation Challenge</a> to find novel solutions for connecting the unconnected to the full, open Internet.
-Sponsoring the <a href="%(equalrating)s">Equal Rating Innovation Challenge</a> to find novel solutions for connecting the unconnected to the full, open Internet.
+Smo pokrovitelji pobude <a href="%(equalrating)s">Equal Rating Innovation Challenge</a>, da bi poiskali nove rešitve za povezovanje nepovezanih v poln in odprt internet.
 
 
 ;Hungry for more?
