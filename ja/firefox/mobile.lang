@@ -1,5 +1,7 @@
 ## active ##
 ## disconnect_link ##
+## focus_apk_link_012018 ##
+## headline_update_012018 ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/mobile/
 
 
@@ -14,11 +16,11 @@ iOS/Android 向けモバイルブラウザー
 
 
 ;Firefox for mobile.
-Firefox for mobile.
+モバイル向け Firefox。
 
 
 ;Fast for good.
-Fast for good.
+この速さ、どこまでも。
 
 
 # Obsolete string, DO NOT REMOVE
@@ -31,7 +33,7 @@ Fast for good.
 
 
 ;Available on iOS & Android.
-Available on iOS & Android.
+iOS & Android 向け。
 
 
 # Obsolete string, DO NOT REMOVE
@@ -212,7 +214,7 @@ QR コードをスキャンして始めましょう。
 
 
 ;Download the APK
-Download the APK
+APK をダウンロード
 
 
 ;Download on the App Store

@@ -1,5 +1,7 @@
 ## active ##
 ## disconnect_link ##
+## focus_apk_link_012018 ##
+## headline_update_012018 ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/mobile/
 
 
@@ -14,11 +16,11 @@ Transfira o Firefox e o Firefox Focus para telemóvel e tablet.
 
 
 ;Firefox for mobile.
-Firefox for mobile.
+Firefox para telemóveis.
 
 
 ;Fast for good.
-Fast for good.
+Rápido para sempre.
 
 
 # Obsolete string, DO NOT REMOVE
@@ -31,7 +33,7 @@ A velocidade que precisa, com a velocidade que pretende, em todos os seus dispos
 
 
 ;Available on iOS & Android.
-Available on iOS & Android.
+Disponível em iOS & Android.
 
 
 # Obsolete string, DO NOT REMOVE
@@ -212,7 +214,7 @@ Passe o código QR para começar.
 
 
 ;Download the APK
-Download the APK
+Transfira o APK
 
 
 ;Download on the App Store
