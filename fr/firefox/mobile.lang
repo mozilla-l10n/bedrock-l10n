@@ -1,5 +1,7 @@
 ## active ##
 ## disconnect_link ##
+## focus_apk_link_012018 ##
+## headline_update_012018 ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/mobile/
 
 
@@ -14,11 +16,11 @@ Téléchargez Firefox et Firefox Focus pour mobiles et tablettes.
 
 
 ;Firefox for mobile.
-Firefox for mobile.
+Firefox pour mobiles.
 
 
 ;Fast for good.
-Fast for good.
+Toujours plus rapide.
 
 
 # Obsolete string, DO NOT REMOVE
@@ -31,7 +33,7 @@ Rapidité et respect de la vie privée, sans compromis, sur tous vos appareils.
 
 
 ;Available on iOS & Android.
-Available on iOS & Android.
+Disponible sur iOS et Android.
 
 
 # Obsolete string, DO NOT REMOVE
@@ -160,7 +162,7 @@ Il bloque les publicités avec traqueurs, tout seul. Et en plus, cela accélère
 
 
 ;Automatic Privacy
-Le respect automatique de la vie privée
+Respect automatique de la vie privée
 
 
 ;Speed
@@ -212,7 +214,7 @@ Scannez le QR code pour démarrer.
 
 
 ;Download the APK
-Download the APK
+Télécharger le fichier APK
 
 
 ;Download on the App Store

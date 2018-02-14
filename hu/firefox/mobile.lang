@@ -1,5 +1,7 @@
 ## active ##
 ## disconnect_link ##
+## focus_apk_link_012018 ##
+## headline_update_012018 ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/mobile/
 
 
@@ -14,11 +16,11 @@ Töltse le a Firefoxot és a Firefox Focust mobiljára vagy táblagépére.
 
 
 ;Firefox for mobile.
-Firefox for mobile.
+Firefox mobilra.
 
 
 ;Fast for good.
-Fast for good.
+Gyors, a jó célért.
 
 
 # Obsolete string, DO NOT REMOVE
@@ -31,7 +33,7 @@ A sebesség, amelyre szüksége van, és az adatvédelem, amelyet szeretne az ö
 
 
 ;Available on iOS & Android.
-Available on iOS & Android.
+Elérhető iOS-en és Androidon.
 
 
 # Obsolete string, DO NOT REMOVE
@@ -212,7 +214,7 @@ Olvassa le a QR-kód, és kezdjen neki.
 
 
 ;Download the APK
-Download the APK
+Az APK letöltése
 
 
 ;Download on the App Store
