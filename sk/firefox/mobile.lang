@@ -1,5 +1,7 @@
 ## active ##
 ## disconnect_link ##
+## focus_apk_link_012018 ##
+## headline_update_012018 ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/mobile/
 
 
@@ -14,11 +16,11 @@ Prevezmite si Firefox a Firefox Focus pre svoj mobil a tablet.
 
 
 ;Firefox for mobile.
-Firefox for mobile.
+Firefox pre mobily.
 
 
 ;Fast for good.
-Fast for good.
+Neuveriteľne rýchly.
 
 
 # Obsolete string, DO NOT REMOVE
@@ -31,7 +33,7 @@ Rýchlosť, ktorú potrebujete a súkromie, ktoré chcete - na všetkých vašic
 
 
 ;Available on iOS & Android.
-Available on iOS & Android.
+Dostupný pre iOS a Android.
 
 
 # Obsolete string, DO NOT REMOVE
@@ -212,7 +214,7 @@ Naskenujte QR kód a začnite.
 
 
 ;Download the APK
-Download the APK
+Prevziať APK
 
 
 ;Download on the App Store

@@ -1,4 +1,5 @@
 ## active ##
+## update_faster_copy ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/
 
 
@@ -59,11 +60,11 @@ Captura de pantalla de la páxina nueva «Llingüeta nueva» de Firefox.
 
 
 ;Now 2x faster
-Now 2x faster
+Agora 2 vegaes más rápidu
 
 
 ;Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Firefox Quantum is twice as fast as Firefox was before.
-Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Firefox Quantum is twice as fast as Firefox was before.
+¿Un restolador con un <a href="%(url)s">motor perpoderosu</a>? Fecho. ¿Menos tiempu d'espera na carga d'imáxenes? Fecho tamién. Firefox Quantum ye'l doble de rápidu de lo que yera enantes Firefox.
 
 
 # String is obsolete. Do not remove.
