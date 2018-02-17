@@ -1,5 +1,7 @@
 ## active ##
 ## disconnect_link ##
+## focus_apk_link_012018 ##
+## headline_update_012018 ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/mobile/
 
 
@@ -14,11 +16,11 @@
 
 
 ;Firefox for mobile.
-Firefox for mobile.
+Firefox მობილურისთვის.
 
 
 ;Fast for good.
-Fast for good.
+სწრაფი და მეტად შედეგიანი.
 
 
 # Obsolete string, DO NOT REMOVE
@@ -31,7 +33,7 @@ Firefox მობილური მოწყობილობისთვი�
 
 
 ;Available on iOS & Android.
-Available on iOS & Android.
+ხელმისაწვდომია iOS-სა და Android-ზე.
 
 
 # Obsolete string, DO NOT REMOVE
@@ -212,7 +214,7 @@ iOS და Android
 
 
 ;Download the APK
-Download the APK
+ჩამოტვირთეთ APK
 
 
 ;Download on the App Store
