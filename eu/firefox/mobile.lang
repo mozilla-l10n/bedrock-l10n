@@ -1,5 +1,7 @@
 ## active ##
 ## disconnect_link ##
+## focus_apk_link_012018 ##
+## headline_update_012018 ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/mobile/
 
 
@@ -14,11 +16,11 @@ Deskargatu Firefox eta Firefox Focus mugikor eta tabletarako.
 
 
 ;Firefox for mobile.
-Firefox for mobile.
+Mugikorrerako Firefox.
 
 
 ;Fast for good.
-Fast for good.
+Benetan bizkorra.
 
 
 # Obsolete string, DO NOT REMOVE
@@ -31,7 +33,7 @@ Zure gailu guztietan behar duzun abiadura, eta nahi duzun pribatutasuna.
 
 
 ;Available on iOS & Android.
-Available on iOS & Android.
+iOS eta Androiderako eskuragarri.
 
 
 # Obsolete string, DO NOT REMOVE
@@ -212,7 +214,7 @@ Eskaneatu QR kodea ekiteko.
 
 
 ;Download the APK
-Download the APK
+Deskargatu APK
 
 
 ;Download on the App Store
