@@ -8,16 +8,16 @@ Take a quick tour
 
 # Headline in /whatsnew page
 ;Welcome to Firefox
-Welcome to Firefox
+Eg̃uahẽporãite Firefox rendápe
 
 
 # Sub-headline in /firstrun page
 ;Committed to you, your privacy and an open Web.
-Committed to you, your privacy and an open Web.
+Oĩ nendive, ne ñemigua ha ñanduti ijurujáva ndive.
 
 
 ;Learn how to customize your Firefox
-Learn how to customize your Firefox
+Eñembokatupyry emomba’ete hag̃ua nde Firefox
 
 
 ;Add and view bookmarks from the same spot
@@ -81,7 +81,7 @@ Eipuru hína Sync ymaveguaréva.
 
 
 ;Save sites with a single click
-Save sites with a single click
+Eñongatu tenda peteĩ jekutúpe
 
 
 ;There’s never been a better time for Firefox
@@ -90,7 +90,7 @@ There’s never been a better time for Firefox
 
 # This is the label for a button that closes the tour modal dialog
 ;Close tour
-Close tour
+Emboty ñepytyvõ
 
 
 # <br> tag below used for formatting only.
@@ -99,32 +99,32 @@ Thousands of ways to<br> make Firefox do more
 
 
 ;Now easier to find, use and manage
-Now easier to find, use and manage
+Ko'ág̃a ndahasýi ijuhu, ipuru ha iñangareko
 
 
 # This is the title for a door-hanger menu that shows in the browser chrome
 ;See what’s new
-See what’s new
+Ehechami mba’e pyahu oĩva
 
 
 ;Frequently asked questions
-Frequently asked questions
+Porandu py’ỹiguáva
 
 
 ;Enjoy seamless browsing between devices with Sync
-Enjoy seamless browsing between devices with Sync
+Eikundaha vy’ápe mba’e’oka mbojuehepyre pa’ũme
 
 
 ;Move or remove any button to match
-Move or remove any button to match
+Emongu’e térã eipe’a oimeraẽva votõ
 
 
 ;How you use Firefox is unique
-How you use Firefox is unique
+Nde reipuruháicha Firefox avave ndojapói
 
 
 ;Add and view bookmarks from a new location
-Add and view bookmarks from a new location
+Embojoaju ha ema’ẽ techaukaha rehe peteĩ tendaite pyahu guive
 
 
 # This is the text for a call to action that appears in the web page
@@ -137,15 +137,15 @@ It looks like you’re already using Sync
 
 
 ;Create an account from the menu panel
-Create an account from the menu panel
+Emoheñói peteĩ nemba'ete poravorã rupa guive
 
 
 ;Use the star to create bookmarks
-Use the star to create bookmarks
+Eipuru mbyja emoheñói hag̃ua techaukaha
 
 
 ;Share your vision
-Share your vision
+Emoherakuã nde rehecháva
 
 
 # This is the label for a button that delays starting the tour
@@ -155,68 +155,68 @@ Ko'ág̃a nahániri
 
 # This is the label for a button that starts the tour
 ;Let’s go
-Let’s go
+Jaha
 
 
 # This is the label that represents tour step one of four
 ;1/4
-1/4
+1/4 {ok}
 
 
 # This is the label that represents tour step three of four
 ;3/4
-3/4
+3/4 {ok}
 
 
 # This is the label that represents tour step two of four
 ;2/4
-2/4
+2/4 {ok}
 
 
 # This is the label that represents tour step four of four
 ;4/4
-4/4
+4/4 {ok}
 
 
 ;<span>Previous:</span> Customize
-<span>Previous:</span> Customize
+<span>Mboyvegua:</span> Mba'ete
 
 
 ;<span>Next:</span> Add-ons
-<span>Next:</span> Add-ons
+<span>Upeigua</span> Tembipuru'i
 
 
 ;<span>Previous:</span> Menu
-<span>Previous:</span> Menu
+<span>Mboyvegua</span> Poravorã
 
 
 ;<span>Next:</span> Bookmarks
-<span>Next:</span> Bookmarks
+<span>Upeigua</span> Techaukaha
 
 
 ;<span>Next:</span> Customize
-<span>Next:</span> Customize
+<span>Upeigua</span> Ñemomba'ete
 
 
 ;<span>Previous:</span> Add-ons
-<span>Previous:</span> Add-ons
+<span>Mboyvegua</span> Tembipuru'i
 
 
 ;Learn about the new design
-Learn about the new design
+Eikuaa moha'ãnga pyahu rehegua
 
 
 # <br> tag below used for formatting only.
 ;It starts with the new,<br> intuitive menu
-It starts with the new,<br> intuitive menu
+Eñepyrũ poravorã,<br> pyahu ndive
 
 
 ;The features you use most, all in one place
-The features you use most, all in one place
+Umi mba’e eipuruvéva, embyaty peteĩ hendápe
 
 
 ;How you use the Web is unique
-How you use the Web is unique
+Nde reipuruháicha ñanduti avave ndojapói
 
 
 ;Get started with Sync
@@ -224,49 +224,49 @@ Eñepyrũ eipuru Sync
 
 
 ;Putting your privacy first
-Putting your privacy first
+Emotenonde ne ñemigua
 
 
 ;Where did my add-on bar go?
-Where did my add-on bar go?
+¿Moõpa oho che rembipuru’i renda?
 
 
 ;Your favorite features, all in one place
-Your favorite features, all in one place
+Umi mba’e eipuruvéva, embyaty peteĩ hendápe
 
 
 ;When you use Firefox, you help shape the future of the Web.
-When you use Firefox, you help shape the future of the Web.
+Eipurúvo Firefox, eipytyvõ ñanduti renonderã ñemoambue
 
 
 ;Start browsing
-Start browsing
+Eñepyrũ eikundaha
 
 
 # <br> tag below used for formatting only.
 ;Your favorite sites<br> are closer than ever
-Your favorite sites<br> are closer than ever
+Tenda eguerohoryvéva<br> ag̃uive oĩ ndehegui ko’ág̃a
 
 
 ;Helps you do just about anything online
-Helps you do just about anything online
+Nepytyvõta ejapóvo eipotáva ñandutípe
 
 
 ;Want to connect another device?
-Want to connect another device?
+¿Embojuajusépa ambue mba’e’oka rehe?
 
 
 ;What kind of Web do you want?
-What kind of Web do you want?
+¿Mba’eichagua ñandutípa reipota?
 
 
 # <br> tag below used for formatting only.
 ;It starts with the redesigned,<br> intuitive menu
-It starts with the redesigned,<br> intuitive menu
+Emoñepyrũ poravorã,<br> ñemoha’angajeypyre ndive
 
 
 ;Easy to find, use and manage
-Easy to find, use and manage
+Ndahasýi ijuhu, ipuru ha iñangareko
 
 
 ;Keep your Firefox in Sync
@@ -274,6 +274,6 @@ Emombyta nde Firefox mbojuehépe
 
 
 ;Access your bookmarks, passwords and more from any device.
-Access your bookmarks, passwords and more from any device.
+Eike nde rechaukaha, ñe’ẽñemi ha hetavépe oimeraẽva mba’e’oka guive.
 
 
