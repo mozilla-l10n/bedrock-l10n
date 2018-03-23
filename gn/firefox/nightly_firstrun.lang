@@ -1,28 +1,29 @@
+## active ##
 ## NOTE: url is https://www-dev.allizom.org/firefox/nightly/firstrun/
 
 
 ;Firefox Nightly First Run Page
-Firefox Nightly First Run Page
+Firefox Nightly kuatiarogue jepuru ñepyrũha
 
 
 ;Thank you for using Firefox Nightly
-Thank you for using Firefox Nightly
+Aguyje eipuru haguére Firefox Nightly
 
 
 ;Choose an area to get involved below and help make Firefox better for users everywhere
-Choose an area to get involved below and help make Firefox better for users everywhere
+Eiporavo peteĩ tendavore emba’apo hag̃ua ha eipytyvõ Firefox kundaha oikoporãvévo
 
 
 ;Test
-Test
+Ñeha’ã
 
 
 ;Find and file bugs and generally make sure things work as they should.
-Find and file bugs and generally make sure things work as they should.
+Ejuhu apañuãi ha eñeha’ã toikoporãma akói.
 
 
 ;Start testing
-Start testing
+Eñepyrũ eha’ã
 
 
 # Link used for the "Start testing" button.
@@ -30,19 +31,19 @@ Start testing
 # If you don't have a community page, just add " {ok}" after the en-US link
 # Links must start with http:// or https://
 ;https://quality.mozilla.org/get-involved/
-https://quality.mozilla.org/get-involved/
+https://quality.mozilla.org/get-involved/ {ok}
 
 
 ;Code
-Code
+Ayvu
 
 
 ;File bugs and work on the building blocks of the Firefox browser.
-File bugs and work on the building blocks of the Firefox browser.
+Omomarandu apañuãi ha omba’apo Firefox ryepyetépe.
 
 
 ;Start coding
-Start coding
+Eñepyrũ embopapapy
 
 
 # Link used for the "Start coding" button.
@@ -50,19 +51,19 @@ Start coding
 # If you don't have a community page, just add " {ok}" after the en-US link
 # Links must start with http:// or https://
 ;https://developer.mozilla.org/docs/Introduction
-https://developer.mozilla.org/docs/Introduction
+https://developer.mozilla.org/docs/Introduction {ok}
 
 
 ;Localize
-Localize
+Emoñe'ẽasa
 
 
 ;Make Firefox available (and better) in more languages around the world.
-Make Firefox available (and better) in more languages around the world.
+Ojapo Firefox ojepurukuaa (ha porãve) hetave ñe’ẽme arapy tuichakue.
 
 
 ;Start localizing
-Start localizing
+Eñepyrũ emoñe'ẽasa
 
 
 # Link used for the "Start localizing" button.
@@ -70,6 +71,6 @@ Start localizing
 # If you don't have a community page, just add " {ok}" after the en-US link
 # Links must start with http:// or https://
 ;https://wiki.mozilla.org/L10n:Contribute
-https://wiki.mozilla.org/L10n:Contribute
+https://wiki.mozilla.org/L10n:Contribute {ok}
 
 

@@ -3,32 +3,32 @@
 
 # HTML page title
 ;The new, fast browser for Mac, PC and Linux
-The new, fast browser for Mac, PC and Linux
+Kundaha pyahu ha ipya’éva Mac, PC ha Linux peg̃uarã
 
 
 # HTML page description
 ;Responsive engine, less memory usage and packed with features. Download for desktop now.
-Responsive engine, less memory usage and packed with features. Download for desktop now.
+Mongu’eha iñambuekuaáva, sa’ive oipuru mandu’arenda ha heta hembiapoite. Emboguejy ne mohendahápe.
 
 
 ;The New Firefox
-The New Firefox
+Firefox ipyahúva
 
 
 ;Meet Firefox Quantum.
-Meet Firefox Quantum.
+Eikuaa Firefox Quantum.
 
 
 ;Fast for good.
-Fast for good.
+Ipya’éta tapiaite.
 
 
 ;Download now
-Download now
+Emboguejy ko'ág̃a
 
 
 ;What’s new?
-What’s new?
+¿Mba’e oĩ opyahumíva?
 
 
 ;A powerful, new engine that’s built for rapidfire performance.
@@ -49,7 +49,7 @@ Gorgeous design and smart features for intelligent browsing.
 
 # Link points to https://www.digitaltrends.com/web/firefox-quantum-hands-on-review/
 ;(Digital Trends)
-(Digital Trends)
+(Digital Trends) {ok}
 
 
 # This is an alternative text for a screenshot.
@@ -58,7 +58,7 @@ Screenshot of the redesigned Firefox new-tab page.
 
 
 ;Now 2x faster
-Now 2x faster
+Ko'ág̃a 2 jevy ipya’eve
 
 
 ;Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Firefox Quantum is twice as fast as Firefox was before.
@@ -67,7 +67,7 @@ Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting ar
 
 # String is obsolete. Do not remove.
 ;2x Faster
-2x Faster
+2 jevy ipya’eve
 
 
 # String is obsolete. Do not remove.
@@ -76,7 +76,7 @@ Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting ar
 
 
 ;30% lighter than Chrome
-30% lighter than Chrome
+30 % li ivevuive Chrome-gui
 
 
 ;<a href="%(url)s">Less memory usage</a> means more space for your computer to keep running smoothly. Your other programs will thank you.
@@ -84,7 +84,7 @@ Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting ar
 
 
 ;Smooth browsing
-Smooth browsing
+Kundaha syryry
 
 
 ;Whether you’ve opened 10 or 1000, switching between tabs is faster than ever with Firefox’s new, responsive engine.
@@ -113,35 +113,35 @@ Instantly import your online info and favorites from any other browser.
 
 
 ;Bookmarks
-Bookmarks
+Techaukaha
 
 
 ;Auto Fill
-Auto Fill
+Myanyhẽ jehegui
 
 
 ;Passwords
-Passwords
+Ñe'ẽñemi
 
 
 ;History
-History
+Tembiasakue
 
 
 ;Seriously Private Browsing
-Seriously Private Browsing
+Kundaha ñemigua. Añetete.
 
 
 ;The most powerful private browsing mode with added tracking protection.
-The most powerful private browsing mode with added tracking protection.
+Kundaha ñemigua imbaretevéva peteĩ ñemo’ã ani hag̃ua ejeheka reheve.
 
 
 ;Firefox blocks online trackers while you browse and won’t remember your history after you’re done.
-Firefox blocks online trackers while you browse and won’t remember your history after you’re done.
+Firefox ojoko jehekaha ñandutípe eikundahakuévo ha naimandu’amo’ãi ne rembiasakue rehe esẽ rire chugui.
 
 
 ;Tracking Protection
-Tracking Protection
+Ñemo’ã ani hag̃ua ejeheka
 
 
 ;Some ads have hidden trackers that follow you online. Rude. We know. That’s why our powerful tool stops them cold.
@@ -149,7 +149,7 @@ Some ads have hidden trackers that follow you online. Rude. We know. That’s wh
 
 
 ;Faster Page Loading
-Faster Page Loading
+Kuatiarogue myanyhẽ pya’eve
 
 
 ;By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages load up to 44%% faster</a>. Now that’s a win-win.
@@ -157,16 +157,16 @@ By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages
 
 
 ;Firefox Quantum features
-Firefox Quantum features
+Firefox Quantum rehegua
 
 
 # VR can be spelled out as "Virtual Reality" if clearer.
 ;Gaming & VR
-Gaming & VR
+Ñembosarái ha VR
 
 
 ;Library
-Library
+Arandukarenda
 
 
 ;Uncomplicate screenshots. Take and share them directly from Firefox. That means no more searching for mysterious file names on your computer.
@@ -187,11 +187,11 @@ Save time! Find all your favorite content like Pocket saves, bookmarks, browsing
 
 
 ;Customization Features
-Customization Features
+Tembiapoite ñemomba’ete rehegua
 
 
 ;Extensions
-Extensions
+Tembipuru'i
 
 
 # App names remain in English.
@@ -204,7 +204,7 @@ Make over Firefox to suit your mood! Choose a new look from our theme categories
 
 
 ;Toolbar
-Toolbar
+Tembipuru’i renda
 
 
 ;Set up Firefox your way. Drag and drop features in and out of your toolbar for easy access.
@@ -212,7 +212,7 @@ Set up Firefox your way. Drag and drop features in and out of your toolbar for e
 
 
 ;Sync your devices
-Sync your devices
+Embojuehe ne mba’e’oka
 
 
 ;Seamlessly access passwords, bookmarks and more. Plus, use our Send Tabs feature to instantly share open tabs between desktop, mobile and tablet.
@@ -224,7 +224,7 @@ Image of Gif shared from desktop to mobile using the Send Tab feature.
 
 
 ;Browse for good
-Browse for good
+Eikundaha mba’eporã rekávo
 
 
 ;Firefox is made by Mozilla, the non-profit champions of a healthy internet. Mozilla also tackles issues like privacy, misinformation and trolling by investing in fellowships, campaigns and new technologies designed to make the internet healthier.
