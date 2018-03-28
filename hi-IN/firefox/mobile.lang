@@ -1,5 +1,7 @@
 ## active ##
 ## disconnect_link ##
+## focus_apk_link_012018 ##
+## headline_update_012018 ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/mobile/
 
 
@@ -14,11 +16,11 @@ iOS और​ Android के लिए मोबाइल ब्राउजर
 
 
 ;Firefox for mobile.
-Firefox for mobile.
+मोबाइल के लिए Firefox ।
 
 
 ;Fast for good.
-Fast for good.
+अच्छे के लिए तेज़ ।
 
 
 # Obsolete string, DO NOT REMOVE
@@ -31,7 +33,7 @@ Fast for good.
 
 
 ;Available on iOS & Android.
-Available on iOS & Android.
+iOS और एंड्रॉयड पर उपलब्ध.
 
 
 # Obsolete string, DO NOT REMOVE
@@ -212,7 +214,7 @@ Firefox को अपने मूड के अनुरूप बनाएँ.
 
 
 ;Download the APK
-Download the APK
+APK डाउनलोड करे
 
 
 ;Download on the App Store

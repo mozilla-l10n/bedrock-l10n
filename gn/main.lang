@@ -4,7 +4,7 @@ Kundaha rendaite
 
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
-Pre-release downloads
+Ñemboguejy oĩmba’ỹva gueteri
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -73,7 +73,7 @@ Apopyre
 # A top menu navigation label that points to https://addons.mozilla.org/firefox/.
 # Will replace Add-ons once this string is localized.
 ;Extensions
-Extensions
+Jepysokue
 
 
 ;Add-ons
@@ -122,7 +122,7 @@ Eñe'ẽ orendive
 
 # Used in new footer to switch the language of the page
 ;Language
-Language
+Ñe'ẽ
 
 
 ;Other languages:
@@ -131,7 +131,7 @@ Ambue ñe'ẽnguéra:
 
 # Will replace "Other languages" for the footer's language switcher
 ;Page language:
-Page language:
+Kuatiarogue ñe'ẽ:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -322,7 +322,7 @@ Eipytyvõ ko tendápe
 
 # Used in footer, links to the source code of the page currently displayed.
 ;Source code for this page
-Source code for this page
+Ayvu reñoiha ko kuatiaroguépe g̃uarã
 
 
 # Top menu item
@@ -589,12 +589,12 @@ HTML {ok}
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Amoneĩ Mozilla-pe ohechávo che marandu oĩháicha <a href="%s">ko haipy ñemigua</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+Eikuaapáke<br> oikóva guive Firefox ryepýpe.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -609,7 +609,7 @@ NE ÑANDUTIVEVE
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+Eñemboheraguapy ko'ág̃a
 
 
 # Old newsletter subscription Button
@@ -630,11 +630,11 @@ Ore roguerahauka marandu Mozilla rehegua añónte.
 
 
 ;Thanks!
-Thanks!
+¡Aguyje!
 
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Neremoneĩriramo upe mboyve peteĩ ñemboheraguapy marandu’i rendápe Mozilla ndive ejapova’erã. Eheka ñanduti veve ore mba’évape ñanduti veve g̃uahẽháme térã spam mboguahápe.
 
 
 ;Read all about it in our <span>newsletter</span>
@@ -646,23 +646,23 @@ Eñemboheraguapy ñembohekopyahu jasyguávape ha eñemoĩ Mozilla marandu tapiá
 
 
 ;<span>Firefox</span> + You
-<span>Firefox</span> + You
+<span>Firefox</span> ha nde
 
 
 ;Get Firefox tips, tricks, news and more
-Get Firefox tips, tricks, news and more
+Og̃uahẽ ñe’ẽporã ha marandu Firefox rehegua
 
 
 # This string will be used as a navigation label in home page, pointing to /technology
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Web Innovations
-Web Innovations
+Ñanduti mba’epyahu
 
 
 # This string will be used as a navigation label in home page, pointing to /internet-health
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Internet Health
-Internet Health
+Ñanduti resãi
 
 
 # Used as title in What's new page for 50
@@ -672,140 +672,140 @@ Internet Health
 
 # Used in combination with other strings to create HTML page titles, e.g. in What's new pages
 ;Mozilla Firefox Web Browser
-Mozilla Firefox Web Browser
+Mozilla Firefox ñanduti kundaha
 
 
 # Link in the footer
 ;Android Browser
-Android Browser
+Android kundaha
 
 
 # Link in the footer
 ;iOS Browser
-iOS Browser
+iOS kundaha
 
 
 # Link in the footer
 ;Focus Browser
-Focus Browser
+Focus kundaha
 
 
 # Link in the footer
 ;Desktop Browser
-Desktop Browser
+PC kundaha
 
 
 # Link in the footer
 ;Beta, Nightly, Developer Edition
-Beta, Nightly, Developer Edition
+Beta, Nightly, mboguatahára ñembosako’i
 
 
 # Link in the footer
 ;Download Firefox Web Browser
-Download Firefox Web Browser
+Emboguejy Firefox ñanduti kundaha
 
 
 # Link in the footer
 ;Desktop Browser for Mac, Windows, Linux
-Desktop Browser for Mac, Windows, Linux
+PC kundaha Mac, Windows, Linux peg̃uarã
 
 
 # Link in the footer
 ;Mobile Browser for Android
-Mobile Browser for Android
+Pumbyry kundaha Android peg̃uarã
 
 
 # Link in the footer
 ;Mobile Browser for iOS
-Mobile Browser for iOS
+Pumbyry kundaha iOS peg̃uarã
 
 
 # Title in a banner displayed to users of old versions of Firefox
 ;Your Firefox is out-of-date.
-Your Firefox is out-of-date.
+Nde Firefox ndahekopyahúi.
 
 
 # Description in a banner displayed to users of old versions of Firefox
 ;Get the most recent version to keep browsing securely.
-Get the most recent version to keep browsing securely.
+Emboguejy tembiapo ipyahuvéva hekorosã hag̃ua ne kundaha.
 
 
 # Button label in a banner displayed to users of old versions of Firefox
 ;Update Firefox
-Update Firefox
+Firefox ñembohekopyahu
 
 
 # Title for Open Graph sharing in new What's new pages
 ;See what’s new with Firefox
-See what’s new with Firefox
+Ema’ẽmi Firefox mba’epyahúre
 
 
 # Description for Open Graph sharing in new What's new pages
 ;Faster, more responsive and powerfully private. Check out the latest from the browser that has your back.
-Faster, more responsive and powerfully private. Check out the latest from the browser that has your back.
+Ipya’e, he’ipa ha heko iñemive. Eikuaa ne kundaha pyahu omo’ã nde atukupe.
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show More
-Show More
+Ehechaukave
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show Less
-Show Less
+Ehechauka’ive
 
 
 # Used on Firefox Privacy Notice landing page
 ;Choose how you want to share this data in Firefox.
-Choose how you want to share this data in Firefox.
+Eiporavo mba’éichapa emoherakuãta ko marandu Firefox-pe.
 
 
 # The button opens Firefox preferences, in the Data section, to select your option
 ;Choose…
-Choose…
+Eiporavo…
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show All
-Show All
+Ehechaukapaite
 
 
 # Used on Firefox Privacy Notice landing page
 ;Hide All
-Hide All
+Emoñemipaite
 
 
 # Navigation link points to /firefox/developer
 ;Developer Hub
-Developer Hub
+Mboguatahára aty
 
 
 # Naviation link points to https://research.mozilla.org
 ;Research
-Research
+Jeporeka
 
 
 # Navigation link points to https://vr.mozilla.org
 ;Virtual Reality
-Virtual Reality
+Ñandutigua rechaha
 
 
 # Navigation link points to https://games.mozilla.org/
 ;Games
-Games
+Ñambosarái
 
 
 # Navigation link points to https://developer.mozilla.org
 ;Documentation
-Documentation
+Kuatiaita
 
 
 # Navigation link points to https://hacks.mozilla.org
 ;Hacks blog
-Hacks blog
+Hacks renda
 
 
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
-Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
+Emboguejy Firefox, peteĩ kundaha reiguáva ñandutípe. Firefox omoheñói peteĩ atyguasu arapyguáva viru’ỹ rehegua oñeha’ãva opavave tapicha oikundaha hag̃ua ñanduti rupi ojaposeháicha. ¡Eguerekóke Firefox Windows, macOS, Linux, Android ha iOS ko arapete!
 
 
