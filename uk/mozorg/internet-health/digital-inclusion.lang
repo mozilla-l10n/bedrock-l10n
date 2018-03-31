@@ -1,3 +1,4 @@
+## active ##
 ## inclusion-donate-tech ##
 ## NOTE: Demo server is available at https://www-dev.allizom.org/internet-health/digital-inclusion/
 
@@ -234,11 +235,11 @@
 
 
 ;Connecting the unconnected
-Connecting the unconnected
+Створення доступу
 
 
 ;Sponsoring the <a href="%(equalrating)s">Equal Rating Innovation Challenge</a> to find novel solutions for connecting the unconnected to the full, open Internet.
-Sponsoring the <a href="%(equalrating)s">Equal Rating Innovation Challenge</a> to find novel solutions for connecting the unconnected to the full, open Internet.
+Ми виступаємо спонсором <a href="%(equalrating)s">Equal Rating Innovation Challenge</a>, ініціативи, яка допомагає знайти нові можливості надання доступу до всієї мережі тим, в кого його ще нема.
 
 
 ;Hungry for more?
