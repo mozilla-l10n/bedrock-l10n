@@ -1,14 +1,16 @@
+## active ##
+## send-tabs-update-08-2017 ##
 ## NOTE: Demo server available at url: https://www-dev.allizom.org/firefox/features/send-tabs/
 
 
 # HTML page title
 ;Take your browser tabs to go
-Take your browser tabs to go
+Egueraha ne tendayke esẽramo eguata
 
 
 # HTML page description
 ;Send your desktop browser tabs to phones, tablets and more with your Firefox Account.
-Send your desktop browser tabs to phones, tablets and more with your Firefox Account.
+Emondo nde PC kundaha rendayke ne pumbyrýpe, tabléta ha hetave ne mba’ete Firefox pegua ndive.
 
 
 # This means you take the tabs with you, wherever you go
@@ -17,15 +19,15 @@ Egueraha tendaykekuéra nendive
 
 
 ;Share your open tabs seamlessly across mobile, desktop or tablet with Firefox.
-Share your open tabs seamlessly across mobile, desktop or tablet with Firefox.
+Emoherakuã ne tendayke ijurujáva Firefox-pe pumbyry oku’éva, PC térã tabléta.
 
 
 ;View your open tabs across mobile and tablet devices by signing in to your Firefox Account.
-View your open tabs across mobile and tablet devices by signing in to your Firefox Account.
+Emoherakuã ne tendayke ijurujáva pumbyry oku’éva, PC térã tabléta rupive ne mba’ete Firefox Account ndive.
 
 
 ;View your open tabs across desktop and tablet too. Just sign in or create a Firefox account.
-View your open tabs across desktop and tablet too. Just sign in or create a Firefox account.
+Eho ne tendayke ijurujáva pumbyry oku’éva, térã tablétape. Eike térã emoheñói ne mba’ete Firefox-pe.
 
 
 # Button label displayed to users of Firefox 31 and later, not signed in to Firefox Accounts
@@ -49,31 +51,31 @@ Embohekopyahu nde Firefox
 
 
 ;Free up your inbox
-Free up your inbox
+Emonandi ne ñanduti veve g̃uahẽha
 
 
 # Email is a verb here.
 ;Still email links to yourself? Send tabs between devices instead.
-Still email links to yourself? Send tabs between devices instead.
+¿Emondo gueteri ñanduti veve joajuha ndive? Iporãvéta emondóramo tendayke ambue mba’e’okápe.
 
 
 # Hop here means switch between electronic devices effortlessly.
 ;Device hop like a pro
-Device hop like a pro
+Eva peteĩ mba’e’okágui ambuépe ikatupyrývaicha
 
 
 # This describes that you start a session on a desktop, then you can continue on a mobile device at a later time.
 ;Start browsing in one place, pick up somewhere else.
-Start browsing in one place, pick up somewhere else.
+Eñepyrũ eikundaha peteĩ tendápe, ha eku’eve ambue guive.
 
 
 # Care here means worry or concern.
 ;Share without a care
-Share without a care
+Emoherakuã hekorasãva ndive
 
 
 ;Your data is secure with a Firefox Account.
-Your data is secure with a Firefox Account.
+Ne marandu hekorasã Firefox mba’ete ndive.
 
 
 # Obsolete string, do not remove
@@ -83,17 +85,17 @@ Hi'ã chéve hembiapo hína Firefox apopy itujavéva.
 
 # Obsolete string, do not remove
 ;You’re all set to start sending tabs.
-You’re all set to start sending tabs.
+Oĩmbáma eñepyrũ hag̃ua emondo ne rendayke.
 
 
 # Obsolete string, do not remove
 ;Sign in to your Firefox account to send tabs between devices.
-Sign in to your Firefox account to send tabs between devices.
+Eñepyrũ tembiapo ne mba’ete Firefox peguápe emondo hag̃ua tendayke mba’e’okakuéra pa’ũme.
 
 
 # Obsolete string, do not remove
 ;Get Firefox on your devices to get started. Then, sign into your Firefox Account to share tabs.
-Get Firefox on your devices to get started. Then, sign into your Firefox Account to share tabs.
+Emboguejy Firefox ne mba’e’okakuérape eñepyrũ hag̃ua. Upéi, eike nde Firefox mba’etépe emoherakuã hag̃ua tendayke.
 
 
 # Obsolete string, do not remove

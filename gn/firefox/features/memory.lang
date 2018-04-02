@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/features/memory
 
 
@@ -24,7 +25,7 @@ Embopya’e ne mohendaha
 
 
 ;Every computer program you run takes up some memory. When too much is used, your system can slooooowww down. Firefox aims for a balance — using enough memory to let you browse smoothly and leaving plenty of memory to keep your computer responsive.
-Every computer program you run takes up some memory. When too much is used, your system can slooooowww down. Firefox aims for a balance — using enough memory to let you browse smoothly and leaving plenty of memory to keep your computer responsive.
+Opavave mohendaha pegua tembiaporape eipurúva omomichĩ mandu’arenda. Eipuruetereíramo nde apopyvusu imbegueve. Firefox omombyte — oipurúvo oikotevẽva mandu’arenda eikundaha hag̃ua apañuãi’ỹre ha emohemby oikotevẽva ne mohendaha omba’apo porã hag̃ua.
 
 
 ;Stop running out of memory
@@ -32,7 +33,7 @@ Anive epyta mandu’arenda’ỹre
 
 
 ;<a href="%(url)s">Chrome uses up to 1.77x more memory than Firefox</a>. If your computer is already low on memory, this can cause a significant slowdown. Using Firefox’s latest version with multi-process can result in more available memory to run your favorite programs.
-<a href="%(url)s">Chrome uses up to 1.77x more memory than Firefox</a>. If your computer is already low on memory, this can cause a significant slowdown. Using Firefox’s latest version with multi-process can result in more available memory to run your favorite programs.
+<a href="%(url)s">Chrome oipuruve 1.77 jey mandu’arenda Firefox-gui</a>. Ne mohendaha imandu’arenda sa’ímarõ, ikatu omombegueterei chupe. Eipuru Firefox rembiapo ipyahuvéva taperekoeta ndive ikatúva ombotuicha mandu’arenda eipurukuaáva ne rembiaporape erohoryvévape.
 
 
 ;Browse faster, privately
@@ -40,6 +41,6 @@ Eikundaha pya’eve ha ñemiguávape
 
 
 ;Explore the web faster with <a href="%(url)s">Firefox Private Browsing</a>. Only Firefox’s private mode includes tracking protection which blocks ads with trackers from loading on pages. Decluttering sites means web pages can load faster.
-Explore the web faster with <a href="%(url)s">Firefox Private Browsing</a>. Only Firefox’s private mode includes tracking protection which blocks ads with trackers from loading on pages. Decluttering sites means web pages can load faster.
+Ehapykueho ñanduti pya’eve <a href="%(url)s">Firefox kundaha ñemigua ndive</a>. Firefox ñemigua reko oguereko tapykuere mo'ãha ojokóva ñemurã. Umi tenda ñemohendapyre henehẽ pya’eve.
 
 
