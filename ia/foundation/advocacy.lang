@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo page at https://www-dev.allizom.org/foundation/advocacy/
 
 
@@ -54,7 +55,7 @@ Le campanias.
 
 
 ;Our campaigns amplify the Mozilla community’s collective voice, in order to address the issues we believe must be tackled in the current era to build the open Internet we want. Example: <a href="%(url_encrypt_campaign)s">Encrypt</a>
-Our campaigns amplify the Mozilla community’s collective voice, in order to address the issues we believe must be tackled in the current era to build the open Internet we want. Example: <a href="%(url_encrypt_campaign)s">Encrypt</a>
+Nostre campanias publicitari amplifica le voce collective del communitate de Mozilla, pro abbordar le problemas que nos fide debe ser affrontate in le era actual pro construer le internet aperte que nos vole. Exemplo: <a href="%(url_encrypt_campaign)s">Cifrar</a>
 
 
 ;Online.
@@ -62,7 +63,7 @@ Online. {ok}
 
 
 ;Naturally, the pulse of the movement to protect the open Internet lives on the web. We nurture a strong online community with a bias toward action, and drive mass digital mobilization behind our campaigns.
-Naturally, the pulse of the movement to protect the open Internet lives on the web. We nurture a strong online community with a bias toward action, and drive mass digital mobilization behind our campaigns.
+Naturalmente le corde del movimento que protege internet aperte batte sur le web. Nos educa un forte communitate online con un predisposition al action, e duce le mobilisation digital de massa detra nostre campanias.
 
 
 ;Media.
@@ -70,7 +71,7 @@ Medios.
 
 
 ;We tell creative, compelling stories that bring the biggest challenges and opportunities facing the open Internet to life, and into the mainstream.
-We tell creative, compelling stories that bring the biggest challenges and opportunities facing the open Internet to life, and into the mainstream.
+Nos conta historias creative e ingagiante, que trahe al vita e al attention general le maxime defias e opportunitates pro internet aperte.
 
 
 ;Field.
@@ -78,7 +79,7 @@ Campo.
 
 
 ;We connect, support and amplify the work of technologists, policy wonks, artists and activists committed to helping shape and drive Mozilla’s campaigns.
-We connect, support and amplify the work of technologists, policy wonks, artists and activists committed to helping shape and drive Mozilla’s campaigns.
+Nos connecte, supporta e amplifica le labor del technologistas, expertos de politica, artistas e activistas ingagiate pro adjutar a formar e ducer le campanias publicitari de Mozilla.
 
 
 ;Infrastructure and networks.
@@ -86,6 +87,6 @@ Infrastructura e retes.
 
 
 ;The foundation that supports and drives our advocacy work, by bringing together awesome people, organizations and technology to fuel our campaigns and the wider movement. Example: <a href="%(url_owf)s">Open Web Fellows</a>
-The foundation that supports and drives our advocacy work, by bringing together awesome people, organizations and technology to fuel our campaigns and the wider movement. Example: <a href="%(url_owf)s">Open Web Fellows</a>
+Le fundation que supporta e duce nostre defensa labora, per reunir personas magnific, organisationes e technologia pro alimentar nostre campanias publicitari e le crescentia del movimento. Exemplo: <a href="%(url_owf)s">Open Web Fellows</a>
 
 
