@@ -32,7 +32,7 @@ Emboguejy ko'ág̃a
 
 
 ;A powerful, new engine that’s built for rapidfire performance.
-Peteĩ mingu’eha pyahu imbaretéva ipya’eve hag̃ua ko’ẽreíre.
+Peteĩ mongu’eha pyahu imbaretéva ipya’eve hag̃ua ko’ẽreíre.
 
 
 ;Better, faster page loading that uses less computer memory.
@@ -40,7 +40,7 @@ Kuatiarogue ñemyanyhẽ iporã ha ipya’evéva oipurúva sa’ive mandu’aren
 
 
 ;Gorgeous design and smart features for intelligent browsing.
-Gorgeous design and smart features for intelligent browsing.
+Moha’anga iporãva ha hekopyahúva eikundaha katupyry hag̃ua.
 
 
 ;“Faster and even more minimalist, Firefox Quantum makes Chrome look old.”
@@ -54,7 +54,7 @@ Gorgeous design and smart features for intelligent browsing.
 
 # This is an alternative text for a screenshot.
 ;Screenshot of the redesigned Firefox new-tab page.
-Screenshot of the redesigned Firefox new-tab page.
+Mba'erechaha japyhypyre kuatiarogue ipyahúva rehegua.
 
 
 ;Now 2x faster
@@ -62,7 +62,7 @@ Ko'ág̃a 2 jevy ipya’eve
 
 
 ;Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Firefox Quantum is twice as fast as Firefox was before.
-Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Firefox Quantum is twice as fast as Firefox was before.
+¿Peteĩ <a href="%(url)s">kundaha mongu’eha imbarete añetéva</a>? Oĩmbáma. ¿Sa’ive iñeha’arõ henyhẽ hag̃ua kuatiarogue? Oĩmbáma avei. Firefox Quantum ipya’eve mokõi jey pe Firefox itujavévagui.
 
 
 # String is obsolete. Do not remove.
@@ -72,7 +72,7 @@ Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting ar
 
 # String is obsolete. Do not remove.
 ;Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Get the best Firefox yet.
-Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Get the best Firefox yet.
+¿Peteĩ <a href="%(url)s">mongu’eha imbarete añetéva</a>? Oĩmbáma. ¿Sa’ive iñeha’arõ henyhẽ hag̃ua kuatiarogue? Oĩmbáma avei. Emboguejy oikovéva Firefox ko ára pevegua.
 
 
 ;30% lighter than Chrome
@@ -80,7 +80,7 @@ Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting ar
 
 
 ;<a href="%(url)s">Less memory usage</a> means more space for your computer to keep running smoothly. Your other programs will thank you.
-<a href="%(url)s">Less memory usage</a> means more space for your computer to keep running smoothly. Your other programs will thank you.
+<a href="%(url)s">Sa’ive oipuru mandu'arenda</a> he’ise ne mohendaha oguerekoveha pa’ũ omba’apo hag̃ua. Ambue tembiaporape oaguyjeme’ẽta ndéve.
 
 
 ;Smooth browsing
@@ -88,12 +88,12 @@ Kundaha syryry
 
 
 ;Whether you’ve opened 10 or 1000, switching between tabs is faster than ever with Firefox’s new, responsive engine.
-Whether you’ve opened 10 or 1000, switching between tabs is faster than ever with Firefox’s new, responsive engine.
+Eikérõ jepe 10 térã 1000, evárõ ambue tendayképe ipya’evevoínte ko Firefox mongueha pyahu ndive.
 
 
 # This is an alternative text for a screenshot.
 ;Firefox screenshot showing many open tabs and browser windows running simultaneously.
-Firefox screenshot showing many open tabs and browser windows running simultaneously.
+Firefox mba'erechaha japyhypyre ohechauka heta tendayke ha ovetã ijurujáva oñondivepa.
 
 
 ;Switch from Chrome to Firefox in just a few minutes
@@ -109,7 +109,7 @@ Eva hag̃ua Firefox ndive ipya’e, ndahasýi ha mba’evai’ỹre, Firefox ogu
 
 
 ;Instantly import your online info and favorites from any other browser.
-Instantly import your online info and favorites from any other browser.
+Egueru pya’e ne marandu ñandutigua ha erohoryvéva oimeraẽva ambue kundaha guive.
 
 
 ;Bookmarks
@@ -145,7 +145,7 @@ Firefox ojoko jehekaha ñandutípe eikundahakuévo ha naimandu’amo’ãi ne re
 
 
 ;Some ads have hidden trackers that follow you online. Rude. We know. That’s why our powerful tool stops them cold.
-Some ads have hidden trackers that follow you online. Rude. We know. That’s why our powerful tool stops them cold.
+Heta marandu oguereko jehekaha kañymby nde rapykuehóva eikundaha aja. Imbarete. Roikuaa. Upévare ore rembipuru ojoko chupe.
 
 
 ;Faster Page Loading
@@ -153,7 +153,7 @@ Kuatiarogue myanyhẽ pya’eve
 
 
 ;By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages load up to 44%% faster</a>. Now that’s a win-win.
-By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages load up to 44%% faster</a>. Now that’s a win-win.
+Ojejokóva heta marandu ha scripts omombegue ne kundaha, <a href="%(url)s">kuatiarogue henyhẽ 44%% pya’eve</a>. Péva iporã.
 
 
 ;Firefox Quantum features
@@ -196,7 +196,7 @@ Tembipuru'i
 
 # App names remain in English.
 ;Customize Firefox with thousands of extensions like LastPass, uBlock Origin, Evernote and more.
-Customize Firefox with thousands of extensions like LastPass, uBlock Origin, Evernote and more.
+Emomba’ete Firefox hetaiterei tembipuru’i ndive, LastPass, uBlock Origin, Evernote ha ambue.
 
 
 ;Make over Firefox to suit your mood! Choose a new look from our theme categories or create your own.
@@ -208,7 +208,7 @@ Tembipuru’i renda
 
 
 ;Set up Firefox your way. Drag and drop features in and out of your toolbar for easy access.
-Set up Firefox your way. Drag and drop features in and out of your toolbar for easy access.
+Emboheko Firefox eopotaháicha. Embosyryr ha epoi tembiapoite hyepy ha okápe tembipuru rendápe eike porã hag̃ua.
 
 
 ;Sync your devices
