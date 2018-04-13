@@ -1,71 +1,72 @@
+## active ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/facebookcontainer/
 
 
 # HTML page title
 ;Facebook Container for Firefox | Prevent Facebook from seeing what websites you visit.
-Facebook Container for Firefox | Prevent Facebook from seeing what websites you visit.
+Facebook Container para Firefox | Evita que Facebook vea los sitios que visita.
 
 
 # HTML page description
 ;Millions of people around the world trust Firefox Web browsers on Android, iOS and desktop computers. Fast. Private. Download now!
-Millions of people around the world trust Firefox Web browsers on Android, iOS and desktop computers. Fast. Private. Download now!
+Millones de personas alrededor del mundo confían en el navegador Firefox en Android, iOS y equipos de escritorio. Rápido. Privado. ¡Descargalo ahora!
 
 
 ;Facebook. Well contained. Keep the rest of your life to yourself.
-Facebook. Well contained. Keep the rest of your life to yourself.
+Facebook. Bien contenido. Mantené el resto de tu vida en privado.
 
 
 ;Download Firefox and get the Facebook Container Extension
-Download Firefox and get the Facebook Container Extension
+Descargá Firefox y obtené la extensión Facebook Container
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Get the Facebook Container Extension
-Get the Facebook Container Extension
+Obtener la extensión Facebook Container
 
 
 ;The Facebook Container Extension is not available on mobile devices.
-The Facebook Container Extension is not available on mobile devices.
+La extensión Facebook Container no está disponible para dispositivos móviles.
 
 
 # GLink points to https://www.mozilla.org/firefox/focus/; Product name in German is Firefox Klar.
 ;Try <strong>Firefox Focus</strong>, the privacy browser for Android and iOS.
-Try <strong>Firefox Focus</strong>, the privacy browser for Android and iOS.
+Probá<strong>Firefox Focus</strong>, el navegador privado para Android e iOS.
 
 
 # The video contains text in English
 ;Watch the video
-Watch the video
+Mirá el video
 
 
 ;Opt out on your terms
-Opt out on your terms
+Excluite bajo tus propios términos
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Facebook can track almost all your web activity and tie it to your Facebook identity. If that’s too much for you, the <a href="%(fbcontainer)s">Facebook Container extension</a> isolates your identity into a separate container tab, making it harder for Facebook to track you on the web outside of Facebook.
-Facebook can track almost all your web activity and tie it to your Facebook identity. If that’s too much for you, the <a href="%(fbcontainer)s">Facebook Container extension</a> isolates your identity into a separate container tab, making it harder for Facebook to track you on the web outside of Facebook.
+Facebook puede rastrear casi toda tu actividad web y vincularla a tu identidad de Facebook. Si esto te sobrepasa, la <a href="%(fbcontainer)s">extensión Firefox Container</a> aísla tu identidad dentro de una pestaña contenedora separada, haciendo que sea más difícil para Facebook rastrearte en la web fuera de Facebook.
 
 
 ;Install and contain
-Install and contain
+Instalá y contené
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Installing the <a href="%(fbcontainer)s">extension</a> is easy and, once activated, will open Facebook in a blue tab each time you use it. Use and enjoy Facebook normally. Facebook will still be able to send you advertising and recommendations on their site, but it will be much harder for Facebook to use your activity collected <strong>off Facebook</strong> to send you ads and other targeted messages.
-Installing the <a href="%(fbcontainer)s">extension</a> is easy and, once activated, will open Facebook in a blue tab each time you use it. Use and enjoy Facebook normally. Facebook will still be able to send you advertising and recommendations on their site, but it will be much harder for Facebook to use your activity collected <strong>off Facebook</strong> to send you ads and other targeted messages.
+Es fácil instalar la <a href="%(fbcontainer)s">extensión</a> y, una vez activada, Facebook se abrirá en una pestaña azul cada vez que la utiliza. Use y disfrute de Facebook normalmente. Facebook seguirá siendo capaz de enviar publicidad y recomendaciones en su sitio, pero será mucho más difícil que Facebook para use su actividad recolectada <strong>fuera de Facebook</strong> para enviarle anuncios y otros mensajes dirigidos a usted.
 
 
 ;About Firefox and Mozilla
-About Firefox and Mozilla
+Acerca de Firefox y Mozilla
 
 
 # The link points to mozilla.org
 ;We’re backed by <a href="%(mozilla)s">Mozilla</a>, the not-for-profit organization that puts people over profit to give everyone more power online. We created this extension because we believe that you should have easy-to-use tools that help you manage your privacy and security.
-We’re backed by <a href="%(mozilla)s">Mozilla</a>, the not-for-profit organization that puts people over profit to give everyone more power online. We created this extension because we believe that you should have easy-to-use tools that help you manage your privacy and security.
+Estamos respaldados por <a href="%(mozilla)s">Mozilla</a>, la organización sin fines de lucro que pone a las personas por sobre el lucro y le da a todos mucho más poder en línea. Hemos creado esta extensión porque creemos que debe tener herramientas fáciles de usar que lo ayuden a gestionar su privacidad y seguridad.
 
 
 ;Browse freely with Firefox today.
-Browse freely with Firefox today.
+Navegue libremente con Firefox hoy.
 
 

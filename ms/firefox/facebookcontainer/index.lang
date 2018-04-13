@@ -1,71 +1,72 @@
+## active ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/facebookcontainer/
 
 
 # HTML page title
 ;Facebook Container for Firefox | Prevent Facebook from seeing what websites you visit.
-Facebook Container for Firefox | Prevent Facebook from seeing what websites you visit.
+Facebook Container untuk Firefox | Menghalang Facebook daripada melihat laman web yang anda lawati.
 
 
 # HTML page description
 ;Millions of people around the world trust Firefox Web browsers on Android, iOS and desktop computers. Fast. Private. Download now!
-Millions of people around the world trust Firefox Web browsers on Android, iOS and desktop computers. Fast. Private. Download now!
+Berjuta-juta pengguna di seluruh dunia percayakan pelayar Web Firefox untuk Android, iOS dan komputer desktop. Pantas. Peribadi. Muat turun sekarang!
 
 
 ;Facebook. Well contained. Keep the rest of your life to yourself.
-Facebook. Well contained. Keep the rest of your life to yourself.
+Facebook. Berjaya dikawal. Simpan hidup anda untuk diri sendiri.
 
 
 ;Download Firefox and get the Facebook Container Extension
-Download Firefox and get the Facebook Container Extension
+Muat turun Firefox dan dapatkan Ekstensi Facebook Container
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Get the Facebook Container Extension
-Get the Facebook Container Extension
+Dapatkan Ekstensi Facebook Container
 
 
 ;The Facebook Container Extension is not available on mobile devices.
-The Facebook Container Extension is not available on mobile devices.
+Ekstensi Facebook Container tidak tersedia untuk peranti mudah alih.
 
 
 # GLink points to https://www.mozilla.org/firefox/focus/; Product name in German is Firefox Klar.
 ;Try <strong>Firefox Focus</strong>, the privacy browser for Android and iOS.
-Try <strong>Firefox Focus</strong>, the privacy browser for Android and iOS.
+Cuba <strong>Firefox Focus</strong>, browser privasi untuk Android dan iOS.
 
 
 # The video contains text in English
 ;Watch the video
-Watch the video
+Tonton video ini
 
 
 ;Opt out on your terms
-Opt out on your terms
+Ikut pilihan anda
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Facebook can track almost all your web activity and tie it to your Facebook identity. If that’s too much for you, the <a href="%(fbcontainer)s">Facebook Container extension</a> isolates your identity into a separate container tab, making it harder for Facebook to track you on the web outside of Facebook.
-Facebook can track almost all your web activity and tie it to your Facebook identity. If that’s too much for you, the <a href="%(fbcontainer)s">Facebook Container extension</a> isolates your identity into a separate container tab, making it harder for Facebook to track you on the web outside of Facebook.
+Facebook boleh mengesan hampir semua aktiviti web anda dan menghubungkannya ke identiti Facebook anda. Jika ini keterlaluan buat anda, <a href="%(fbcontainer)s"> ekstensi Facebook Container</a> memisahkan identiti anda ke tab penyimpan berasingan supaya web luar anda sukar dikesan oleh Facebook.
 
 
 ;Install and contain
-Install and contain
+Pasang dan kawal
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Installing the <a href="%(fbcontainer)s">extension</a> is easy and, once activated, will open Facebook in a blue tab each time you use it. Use and enjoy Facebook normally. Facebook will still be able to send you advertising and recommendations on their site, but it will be much harder for Facebook to use your activity collected <strong>off Facebook</strong> to send you ads and other targeted messages.
-Installing the <a href="%(fbcontainer)s">extension</a> is easy and, once activated, will open Facebook in a blue tab each time you use it. Use and enjoy Facebook normally. Facebook will still be able to send you advertising and recommendations on their site, but it will be much harder for Facebook to use your activity collected <strong>off Facebook</strong> to send you ads and other targeted messages.
+Pemasangan <a href="%(fbcontainer)s">ekstensi</a> adalah mudah dan apabila diaktifkan, Facebook akan dibuka dalam tab biru setiap kali anda menggunakannya. Gunakan dan layari Facebook secara normal. Facebook masih boleh menghantar iklan dan cadangan dalam lamannya, tapi makin sukar untuk menggunakan aktiviti anda yang dikumpul <strong>di luar Facebook</strong> untuk menghantar sasaran iklan dan mesej.
 
 
 ;About Firefox and Mozilla
-About Firefox and Mozilla
+Perihal Firefox dan Mozilla
 
 
 # The link points to mozilla.org
 ;We’re backed by <a href="%(mozilla)s">Mozilla</a>, the not-for-profit organization that puts people over profit to give everyone more power online. We created this extension because we believe that you should have easy-to-use tools that help you manage your privacy and security.
-We’re backed by <a href="%(mozilla)s">Mozilla</a>, the not-for-profit organization that puts people over profit to give everyone more power online. We created this extension because we believe that you should have easy-to-use tools that help you manage your privacy and security.
+Kami disokong oleh <a href="%(mozilla)s">Mozilla</a>, organisasi bukan untung yang mementingkan pengguna berbanding untung untuk memberikan anda lebih kuasa atas talian. Kami mencipta ekstensi ini kerana kami percaya bahawa anda perlu diberi alatan yang mudah untuk digunakan yang membantu anda menguruskan privasi dan keselamatan.
 
 
 ;Browse freely with Firefox today.
-Browse freely with Firefox today.
+Pelayaran bebas dengan Firefox.
 
 
