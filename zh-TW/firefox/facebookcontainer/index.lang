@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/facebookcontainer/
 
 
@@ -12,7 +13,7 @@ Facebook Container for Firefox | 防止 Facebook 看見您造訪哪些網站。
 
 
 ;Facebook. Well contained. Keep the rest of your life to yourself.
-Facebook. Well contained. Keep the rest of your life to yourself.
+把 Facebook 好好封裝起來，自己決定生活中的其餘部分。
 
 
 ;Download Firefox and get the Facebook Container Extension
@@ -39,21 +40,21 @@ Facebook Container 擴充套件不支援行動裝置。
 
 
 ;Opt out on your terms
-Opt out on your terms
+不受條款追蹤
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Facebook can track almost all your web activity and tie it to your Facebook identity. If that’s too much for you, the <a href="%(fbcontainer)s">Facebook Container extension</a> isolates your identity into a separate container tab, making it harder for Facebook to track you on the web outside of Facebook.
-Facebook can track almost all your web activity and tie it to your Facebook identity. If that’s too much for you, the <a href="%(fbcontainer)s">Facebook Container extension</a> isolates your identity into a separate container tab, making it harder for Facebook to track you on the web outside of Facebook.
+Facebook 可追蹤到您在網路上大部分的行為，並綁定於您的帳號。若您覺得這樣太過頭，<a href="%(fbcontainer)s">Facebook Container 擴充套件</a>可將您的帳號身分隔離於一個獨立的容器分頁中，讓 Facebook 更難追蹤您在 Facebook 之外的行為。
 
 
 ;Install and contain
-安裝後，把 Facebook 封裝起來
+隔離 Facebook
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Installing the <a href="%(fbcontainer)s">extension</a> is easy and, once activated, will open Facebook in a blue tab each time you use it. Use and enjoy Facebook normally. Facebook will still be able to send you advertising and recommendations on their site, but it will be much harder for Facebook to use your activity collected <strong>off Facebook</strong> to send you ads and other targeted messages.
-Installing the <a href="%(fbcontainer)s">extension</a> is easy and, once activated, will open Facebook in a blue tab each time you use it. Use and enjoy Facebook normally. Facebook will still be able to send you advertising and recommendations on their site, but it will be much harder for Facebook to use your activity collected <strong>off Facebook</strong> to send you ads and other targeted messages.
+安裝<a href="%(fbcontainer)s">擴充套件</a>相當簡單。啟用後，會在您每次打開 Facebook 時載入於獨立的藍色分頁。您可以如常使用 Facebook，Facebook 也還是能夠在網站上顯示廣告與推薦內容，但 Facebook 會更不容易使用您在 <strong>Facebook 之外</strong>所收集到的行為來顯示目標廣告與相關訊息。
 
 
 ;About Firefox and Mozilla
@@ -62,7 +63,7 @@ Installing the <a href="%(fbcontainer)s">extension</a> is easy and, once activat
 
 # The link points to mozilla.org
 ;We’re backed by <a href="%(mozilla)s">Mozilla</a>, the not-for-profit organization that puts people over profit to give everyone more power online. We created this extension because we believe that you should have easy-to-use tools that help you manage your privacy and security.
-We’re backed by <a href="%(mozilla)s">Mozilla</a>, the not-for-profit organization that puts people over profit to give everyone more power online. We created this extension because we believe that you should have easy-to-use tools that help you manage your privacy and security.
+我們是由將眾人的利益擺在第一位的非營利組織 <a href="%(mozilla)s">Mozilla</a> 在背後相挺，讓所有上網的個人能有更大的力量。我們打造這套擴充套件是因為我們相信，每個人都應該能透過簡單好用的工具，就可以管理自己隱私與安全。
 
 
 ;Browse freely with Firefox today.
