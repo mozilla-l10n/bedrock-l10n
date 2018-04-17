@@ -12,20 +12,20 @@ Millions of people around the world trust Firefox Web browsers on Android, iOS a
 
 
 ;Facebook. Well contained. Keep the rest of your life to yourself.
-Facebook. Well contained. Keep the rest of your life to yourself.
+ਫੇਸਬੁੱਕ। ਚੰਗੀ ਤਰ੍ਹਾਂ ਸ਼ਾਮਲ ਕੀਤੇ ਹੋਏ। ਆਪਣੇ ਜੀਵਨ ਦੇ ਬਾਕੀ ਹਿੱਸਿਆ ਨੂੰ ਤੰਦਰੁਸਤ ਰੱਖੋ।
 
 
 ;Download Firefox and get the Facebook Container Extension
-Download Firefox and get the Facebook Container Extension
+ਫਾਇਰਫਾਕਸ ਡਾਊਨਲ੍ਹੋਡ ਕਰੋ ਅਤੇ ਫੇਸਬੁੱਕ ਕੰਟੇਨਰ ਇੰਸਟੈਂਕਸ਼ਨ ਲਵੋ
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Get the Facebook Container Extension
-Get the Facebook Container Extension
+ਫੇਸਬੁੱਕ ਕੰਨਟੇਨਰ ਇੰਸਟੈਕਸ਼ਨ ਪ੍ਰਾਪਤ ਕਰੋ
 
 
 ;The Facebook Container Extension is not available on mobile devices.
-The Facebook Container Extension is not available on mobile devices.
+ਫੇਸਬੁੱਕ ਕੰਨਟੇਨਰ ਇੰਸਟੈਕਸ਼ਨ ਤੁਹਾਡੇ ਮੋਬਾਇਲ ਯੰਤਰਾਂ ਉੱਤੇ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।
 
 
 # GLink points to https://www.mozilla.org/firefox/focus/; Product name in German is Firefox Klar.
@@ -35,11 +35,11 @@ Try <strong>Firefox Focus</strong>, the privacy browser for Android and iOS.
 
 # The video contains text in English
 ;Watch the video
-Watch the video
+ਵੀਡੀਓ ਵੇਖੋ
 
 
 ;Opt out on your terms
-Opt out on your terms
+ਆਪਣੀਆਂ ਸ਼ਰਤਾਂ ਦੀ ਚੋਣ ਕਰੋ
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
@@ -48,7 +48,7 @@ Facebook can track almost all your web activity and tie it to your Facebook iden
 
 
 ;Install and contain
-Install and contain
+ਇੰਸਟਾਲ ਕਰੋ ਅਤੇ ਸ਼ਾਮਲ ਕਰੋ
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
@@ -57,7 +57,7 @@ Installing the <a href="%(fbcontainer)s">extension</a> is easy and, once activat
 
 
 ;About Firefox and Mozilla
-About Firefox and Mozilla
+ਫਾਇਰਫਾਕਸ ਅਤੇ ਮੌਜੀਲਾ ਬਾਰੇ
 
 
 # The link points to mozilla.org
@@ -66,6 +66,6 @@ We’re backed by <a href="%(mozilla)s">Mozilla</a>, the not-for-profit organiza
 
 
 ;Browse freely with Firefox today.
-Browse freely with Firefox today.
+ਹੁਣ ਫਾਇਰਫਾਕਸ ਨਾਲ ਮੁਫਤ ਵਿੱਚ ਬਰਾਊਜ ਕਰੋ।
 
 
