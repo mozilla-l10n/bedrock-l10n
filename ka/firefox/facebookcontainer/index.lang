@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/facebookcontainer/
 
 
@@ -12,60 +13,60 @@ Facebook სათავსი Firefox-ისთვის | გვერდე�
 
 
 ;Facebook. Well contained. Keep the rest of your life to yourself.
-Facebook. Well contained. Keep the rest of your life to yourself.
+Facebook. სრულად გამიჯნული. დატოვეთ თქვენი დანარჩენი ცხოვრების პირადი.
 
 
 ;Download Firefox and get the Facebook Container Extension
-Download Firefox and get the Facebook Container Extension
+ჩამოტვირთეთ Firefox და მიიღეთ Facebook Container გაფართოება
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Get the Facebook Container Extension
-Get the Facebook Container Extension
+Facebook Container გაფართოების გადმოწერა
 
 
 ;The Facebook Container Extension is not available on mobile devices.
-The Facebook Container Extension is not available on mobile devices.
+Facebook Container არაა ხელმისაწვდომი მობილურ მოწყობილობებზე.
 
 
 # GLink points to https://www.mozilla.org/firefox/focus/; Product name in German is Firefox Klar.
 ;Try <strong>Firefox Focus</strong>, the privacy browser for Android and iOS.
-Try <strong>Firefox Focus</strong>, the privacy browser for Android and iOS.
+გამოცადეთ <strong>Firefox Focus</strong>, პირადი ბრაუზერი Android და iOS მოწყობილობებისთვის.
 
 
 # The video contains text in English
 ;Watch the video
-Watch the video
+ვიდეოს ნახვა
 
 
 ;Opt out on your terms
-Opt out on your terms
+წამოაყენეთ თქვენი, საკუთარი პირობები
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Facebook can track almost all your web activity and tie it to your Facebook identity. If that’s too much for you, the <a href="%(fbcontainer)s">Facebook Container extension</a> isolates your identity into a separate container tab, making it harder for Facebook to track you on the web outside of Facebook.
-Facebook can track almost all your web activity and tie it to your Facebook identity. If that’s too much for you, the <a href="%(fbcontainer)s">Facebook Container extension</a> isolates your identity into a separate container tab, making it harder for Facebook to track you on the web outside of Facebook.
+Facebook-ს შეუძლია თვალი ადევნოს თქვენს ყველა მოქმედებას ინტერნეტში და შემდეგ დააკავშიროს თქვენს Facebook ვინაობასთან. თუ ეს თქვენთვის მეტად უსიამოვნოა, <a href="%(fbcontainer)s">Facebook Container გაფართოება</a> დაგეხმარებათ გამიჯნოთ თქვენი ანგარიში ცალკე სათავსი ჩანართით, რაც გაურთულებს Facebook-ს დანარჩენ ჩანართებში გახსნილ სხვა გვერდებზე თვალყურის მიდევნების შესაძლებლობას.
 
 
 ;Install and contain
-Install and contain
+დააყენეთ და გამიჯნეთ
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Installing the <a href="%(fbcontainer)s">extension</a> is easy and, once activated, will open Facebook in a blue tab each time you use it. Use and enjoy Facebook normally. Facebook will still be able to send you advertising and recommendations on their site, but it will be much harder for Facebook to use your activity collected <strong>off Facebook</strong> to send you ads and other targeted messages.
-Installing the <a href="%(fbcontainer)s">extension</a> is easy and, once activated, will open Facebook in a blue tab each time you use it. Use and enjoy Facebook normally. Facebook will still be able to send you advertising and recommendations on their site, but it will be much harder for Facebook to use your activity collected <strong>off Facebook</strong> to send you ads and other targeted messages.
+<a href="%(fbcontainer)s">გაფართოების</a> დაყენება მარტივია და როგორც კი ჩართავთ, Facebook გაიხსნება ცალკე ლურჯ ჩანართში, ყოველი გამოყენებისას. Facebook-ით ჩვეულებრივ შეგეძლებათ სარგებლობა. Facebook-ს, ასევე ჩვეულებრივ შეეძლება რეკლამებისა და შეტყობინებების ჩვენება თქვენთვის, თავის საიტზე, მაგრამ მეტად გაურთულდება თქვენი მოქმედებების აღრიცხვა <strong>Facebook-ის გარეთ</strong> და ამ მონაცემების საფუძველზე, თქვენთვის შერჩეული რეკლამებისა და გამიზნული შეტყობინებების ჩვენება.
 
 
 ;About Firefox and Mozilla
-About Firefox and Mozilla
+Firefox-ისა და Mozilla-ს შესახებ
 
 
 # The link points to mozilla.org
 ;We’re backed by <a href="%(mozilla)s">Mozilla</a>, the not-for-profit organization that puts people over profit to give everyone more power online. We created this extension because we believe that you should have easy-to-use tools that help you manage your privacy and security.
-We’re backed by <a href="%(mozilla)s">Mozilla</a>, the not-for-profit organization that puts people over profit to give everyone more power online. We created this extension because we believe that you should have easy-to-use tools that help you manage your privacy and security.
+ჩვენ ზურგს უკანაა <a href="%(mozilla)s">Mozilla</a>, არამომგებიანი ორგანიზაცია, რომელიც ფინანსურ მოგებაზე წინ აყენებს ხალხს, რომ თითოეულ ადამიანს გააჩნდეს მეტი შესაძლებლობები ინტერნეტში. ჩვენ ეს გაფართოება შევქმენით იმიტომ, რომ ვთვლით, თქვენ აუცილებლად უნდა გქონდეთ მარტივად გამოსაყენებელი ხელსაწყოები, რომელიც დაგეხმარებათ საკუთარი პირადი მონაცემების დაცვისა და უსაფრთხოების უზრუნველყოფაში.
 
 
 ;Browse freely with Firefox today.
-Browse freely with Firefox today.
+თავისუფლად იმოგზაურეთ ინტერნეტში Firefox-ით.
 
 
