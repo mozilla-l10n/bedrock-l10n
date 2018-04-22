@@ -4,7 +4,7 @@ Navegación
 
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
-Pre-release downloads
+Descargar versión preliminar
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -73,7 +73,7 @@ Produtos
 # A top menu navigation label that points to https://addons.mozilla.org/firefox/.
 # Will replace Add-ons once this string is localized.
 ;Extensions
-Extensions
+Extensións
 
 
 ;Add-ons
@@ -122,7 +122,7 @@ Contacta connosco
 
 # Used in new footer to switch the language of the page
 ;Language
-Language
+Idioma
 
 
 ;Other languages:
@@ -131,7 +131,7 @@ Outros idiomas:
 
 # Will replace "Other languages" for the footer's language switcher
 ;Page language:
-Page language:
+Idioma da páxina:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -322,7 +322,7 @@ Colaborar neste sitio
 
 # Used in footer, links to the source code of the page currently displayed.
 ;Source code for this page
-Source code for this page
+Código fonte desta páxina
 
 
 # Top menu item
@@ -410,7 +410,7 @@ Foros
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+Patentes
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -589,12 +589,12 @@ Vaites! Asegúrese de que introduciu un enderezo de correo electrónico correcto
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+Acepto que Mozilla xestione a miña información conforme a <a href="%s">esta política de privacidade</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+Siga a actualidade<br> de Firefox.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -609,7 +609,7 @@ AQUÍ O SEU CORREO
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+Subscríbase agora
 
 
 # Old newsletter subscription Button
@@ -630,11 +630,11 @@ Só se lle enviará información relacionada con Mozilla.
 
 
 ;Thanks!
-Thanks!
+Grazas!
 
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+Se nunca confirmou unha subscrición a algún boletín de Mozilla, é posible que teña que facelo. Comprobe se ten algunha mensaxe nosa na súa caixa de entrada ou no seu cartafol de correo lixo.
 
 
 ;Read all about it in our <span>newsletter</span>
@@ -646,23 +646,23 @@ Subscríbase ás actualizacións mensuais e mantéñase ao corrente das novas de
 
 
 ;<span>Firefox</span> + You
-<span>Firefox</span> + You
+Vostede e <span>Firefox</span>
 
 
 ;Get Firefox tips, tricks, news and more
-Get Firefox tips, tricks, news and more
+Obteña consellos, trucos, novas e máis sobre o Firefox
 
 
 # This string will be used as a navigation label in home page, pointing to /technology
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Web Innovations
-Web Innovations
+Innovacións web
 
 
 # This string will be used as a navigation label in home page, pointing to /internet-health
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Internet Health
-Internet Health
+A saúde de Internet
 
 
 # Used as title in What's new page for 50
@@ -672,140 +672,140 @@ Grazas por escoller Firefox!
 
 # Used in combination with other strings to create HTML page titles, e.g. in What's new pages
 ;Mozilla Firefox Web Browser
-Mozilla Firefox Web Browser
+Navegador web Mozilla Firefox
 
 
 # Link in the footer
 ;Android Browser
-Android Browser
+Navegador para Android
 
 
 # Link in the footer
 ;iOS Browser
-iOS Browser
+Navegador para iOS
 
 
 # Link in the footer
 ;Focus Browser
-Focus Browser
+Navegador Focus
 
 
 # Link in the footer
 ;Desktop Browser
-Desktop Browser
+Navegador de escritorio
 
 
 # Link in the footer
 ;Beta, Nightly, Developer Edition
-Beta, Nightly, Developer Edition
+Beta, Nightly, Developer Edition {ok}
 
 
 # Link in the footer
 ;Download Firefox Web Browser
-Download Firefox Web Browser
+Descargar o navegador web Firefox
 
 
 # Link in the footer
 ;Desktop Browser for Mac, Windows, Linux
-Desktop Browser for Mac, Windows, Linux
+Navegador de escritorio para Mac, Windows e Linux
 
 
 # Link in the footer
 ;Mobile Browser for Android
-Mobile Browser for Android
+Navegador móbil para Android
 
 
 # Link in the footer
 ;Mobile Browser for iOS
-Mobile Browser for iOS
+Navegador móbil para iOS
 
 
 # Title in a banner displayed to users of old versions of Firefox
 ;Your Firefox is out-of-date.
-Your Firefox is out-of-date.
+O seu Firefox non está actualizado.
 
 
 # Description in a banner displayed to users of old versions of Firefox
 ;Get the most recent version to keep browsing securely.
-Get the most recent version to keep browsing securely.
+Obteña a versión máis recente para seguir navegando de forma segura.
 
 
 # Button label in a banner displayed to users of old versions of Firefox
 ;Update Firefox
-Update Firefox
+Actualizar Firefox
 
 
 # Title for Open Graph sharing in new What's new pages
 ;See what’s new with Firefox
-See what’s new with Firefox
+Vexa as novidades de Firefox
 
 
 # Description for Open Graph sharing in new What's new pages
 ;Faster, more responsive and powerfully private. Check out the latest from the browser that has your back.
-Faster, more responsive and powerfully private. Check out the latest from the browser that has your back.
+Máis rápido, máis receptivo e extremadamente confidencial. Descubra as últimas innovacións no navegador que o protexe.
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show More
-Show More
+Amosar máis
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show Less
-Show Less
+Amosar menos
 
 
 # Used on Firefox Privacy Notice landing page
 ;Choose how you want to share this data in Firefox.
-Choose how you want to share this data in Firefox.
+Escolla como quere compartir estes datos en Firefox.
 
 
 # The button opens Firefox preferences, in the Data section, to select your option
 ;Choose…
-Choose…
+Escoller…
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show All
-Show All
+Amosar todo
 
 
 # Used on Firefox Privacy Notice landing page
 ;Hide All
-Hide All
+Agochar todo
 
 
 # Navigation link points to /firefox/developer
 ;Developer Hub
-Developer Hub
+Centro de desenvolvedores
 
 
 # Naviation link points to https://research.mozilla.org
 ;Research
-Research
+Investigación
 
 
 # Navigation link points to https://vr.mozilla.org
 ;Virtual Reality
-Virtual Reality
+Realidade virtual
 
 
 # Navigation link points to https://games.mozilla.org/
 ;Games
-Games
+Xogos
 
 
 # Navigation link points to https://developer.mozilla.org
 ;Documentation
-Documentation
+Documentación
 
 
 # Navigation link points to https://hacks.mozilla.org
 ;Hacks blog
-Hacks blog
+Blog de hacks
 
 
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
-Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
+Descargue Mozilla Firefox, un navegador web de balde. Firefox é desenvolvido por unha organizacións sen fins de lucro para pór nos individuos o control da súa vida en liña. Obteña o Firefox para Windows, macOS, Linux, Android e iOS xa!
 
 
