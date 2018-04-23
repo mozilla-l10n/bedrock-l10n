@@ -1,28 +1,29 @@
+## active ##
 ## NOTE: url is https://www-dev.allizom.org/firefox/nightly/firstrun/
 
 
 ;Firefox Nightly First Run Page
-Firefox Nightly First Run Page
+Startside første gang Firefox Nightly køres
 
 
 ;Thank you for using Firefox Nightly
-Thank you for using Firefox Nightly
+Tak for at du bruger Firefox Nightly
 
 
 ;Choose an area to get involved below and help make Firefox better for users everywhere
-Choose an area to get involved below and help make Firefox better for users everywhere
+Vælg nedenfor, hvordan du vil involvere dig og hjælpe med at gøre Firefox bedre for andre brugere
 
 
 ;Test
-Test
+Test {ok}
 
 
 ;Find and file bugs and generally make sure things work as they should.
-Find and file bugs and generally make sure things work as they should.
+Find og rapporter fejl, og hold generelt øje med at alting fungerer, som det skal.
 
 
 ;Start testing
-Start testing
+Start med at teste
 
 
 # Link used for the "Start testing" button.
@@ -30,19 +31,19 @@ Start testing
 # If you don't have a community page, just add " {ok}" after the en-US link
 # Links must start with http:// or https://
 ;https://quality.mozilla.org/get-involved/
-https://quality.mozilla.org/get-involved/
+http://mozilladanmark.dk/vaermed/
 
 
 ;Code
-Code
+Skriv kode
 
 
 ;File bugs and work on the building blocks of the Firefox browser.
-File bugs and work on the building blocks of the Firefox browser.
+Rapporter fejl og hjælp med at kode på Firefox' byggeklodser.
 
 
 ;Start coding
-Start coding
+Start med at kode
 
 
 # Link used for the "Start coding" button.
@@ -50,19 +51,19 @@ Start coding
 # If you don't have a community page, just add " {ok}" after the en-US link
 # Links must start with http:// or https://
 ;https://developer.mozilla.org/docs/Introduction
-https://developer.mozilla.org/docs/Introduction
+https://developer.mozilla.org/docs/Introduction {ok}
 
 
 ;Localize
-Localize
+Oversæt
 
 
 ;Make Firefox available (and better) in more languages around the world.
-Make Firefox available (and better) in more languages around the world.
+Gør Firefox tilgængelig (og bedre) på flere af verdens sprog.
 
 
 ;Start localizing
-Start localizing
+Start med at oversætte
 
 
 # Link used for the "Start localizing" button.
@@ -70,6 +71,6 @@ Start localizing
 # If you don't have a community page, just add " {ok}" after the en-US link
 # Links must start with http:// or https://
 ;https://wiki.mozilla.org/L10n:Contribute
-https://wiki.mozilla.org/L10n:Contribute
+http://mozilladanmark.dk/vaermed/
 
 
