@@ -3,12 +3,12 @@
 
 # HTML page title
 ;Facebook Container for Firefox | Prevent Facebook from seeing what websites you visit.
-Facebook Container for Firefox | Prevent Facebook from seeing what websites you visit.
+Firefox માટે Facebook કન્ટેઈનર| તમે કઈ વેબસાઇટ્સની મુલાકાત લો છો તે જોવાથી Facebook ને અટકાવો.
 
 
 # HTML page description
 ;Millions of people around the world trust Firefox Web browsers on Android, iOS and desktop computers. Fast. Private. Download now!
-Millions of people around the world trust Firefox Web browsers on Android, iOS and desktop computers. Fast. Private. Download now!
+વિશ્વભરમાં લાખો લોકો, Android, iOS અને ડેસ્કટૉપ કમ્પ્યુટર્સ પર ફાયરફોક્સ વેબ બ્રાઉઝ્સને વિશ્વાસ કરે છે. ઝડપી. ખાનગી. હમણાંજ ડાઉનલોડ કરો!
 
 
 ;Facebook. Well contained. Keep the rest of your life to yourself.
@@ -16,30 +16,30 @@ Facebook. Well contained. Keep the rest of your life to yourself.
 
 
 ;Download Firefox and get the Facebook Container Extension
-Download Firefox and get the Facebook Container Extension
+Firefox ડાઉનલોડ કરો અને Facebook કન્ટેઈનર એક્સ્ટેંશન મેળવો
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Get the Facebook Container Extension
-Get the Facebook Container Extension
+Facebook કન્ટેઈનર એક્સ્ટેંશન મેળવો
 
 
 ;The Facebook Container Extension is not available on mobile devices.
-The Facebook Container Extension is not available on mobile devices.
+ફેસબુક કન્ટેઈનર એક્સ્ટેંશન મોબાઇલ ઉપકરણો પર ઉપલબ્ધ નથી.
 
 
 # GLink points to https://www.mozilla.org/firefox/focus/; Product name in German is Firefox Klar.
 ;Try <strong>Firefox Focus</strong>, the privacy browser for Android and iOS.
-Try <strong>Firefox Focus</strong>, the privacy browser for Android and iOS.
+Android અને iOS માટે ગોપનીયતા બ્રાઉઝર <strong>Firefox Focus</strong>, અજમાવો.
 
 
 # The video contains text in English
 ;Watch the video
-Watch the video
+વિડિઓ જુઓ
 
 
 ;Opt out on your terms
-Opt out on your terms
+તમારી શરતોને નાપસંદ કરો
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
@@ -57,7 +57,7 @@ Installing the <a href="%(fbcontainer)s">extension</a> is easy and, once activat
 
 
 ;About Firefox and Mozilla
-About Firefox and Mozilla
+Firefox અને Mozilla વિશે
 
 
 # The link points to mozilla.org
