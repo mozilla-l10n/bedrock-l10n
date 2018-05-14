@@ -3,7 +3,7 @@
 
 # %s is replaced with Firefox.
 ;Download %s for Android in your language
-आफ्नो भाषामा एन्ड्रोइडको %s डाउनलोड गर्नुहोस् ।
+आफ्नो भाषामा Android को लागि %s डाउनलोड गर्नुहोस्
 
 
 # %s is replaced with Firefox.
@@ -71,7 +71,7 @@ Thanks to contributions of Mozilla community members around the world, Firefox i
 
 
 ;Check the system requirements
-Check the system requirements
+प्रणाली आवश्यकताहरू जाँच गर्नुहोस्
 
 
 ;Release notes
@@ -88,20 +88,20 @@ Source code {ok}
 
 
 ;Fully localized versions
-Fully localized versions
+पूर्ण रूपमा स्थानीयकृत संस्करणहरू
 
 
 ;Localized versions in testing
-Localized versions in testing
+परिक्षणमा स्थानीयकृत संस्करणहरू
 
 
 ;These localizations aren’t final. We’re waiting for more feedback from the community to perfect them.
-These localizations aren’t final. We’re waiting for more feedback from the community to perfect them.
+यी स्थानीयकरणहरु अंतिम हैनन् । हामी समुदायबाट थप प्रतिक्रियाको प्रतीक्षा गर्दैछौं तिनीहरूलाई पूर्ण गर्न ।
 
 
 # Used in Android pages like /firefox/android/beta/all/
 ;Multi-locale
-Multi-locale
+बहु-स्थानीय
 
 
 ;Search languages
@@ -117,7 +117,7 @@ No matching languages found.
 
 
 ;Download for %(platform)s in %(locale)s
-Download for %(platform)s in %(locale)s
+%(platform)s को लागि %(locale)s भाषा मा डाउनलोड गर्नुहोस्
 
 
 ;Not Yet Available
