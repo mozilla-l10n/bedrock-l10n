@@ -1,71 +1,72 @@
+## active ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/facebookcontainer/
 
 
 # HTML page title
 ;Facebook Container for Firefox | Prevent Facebook from seeing what websites you visit.
-Facebook Container for Firefox | Prevent Facebook from seeing what websites you visit.
+Firefox üçün Facebook Konteyneri | Facebook-a gəzdiyiniz saytları görməyə icazə verməyin.
 
 
 # HTML page description
 ;Millions of people around the world trust Firefox Web browsers on Android, iOS and desktop computers. Fast. Private. Download now!
-Millions of people around the world trust Firefox Web browsers on Android, iOS and desktop computers. Fast. Private. Download now!
+Dünyanın hər yerindən milyonlarca insan Android, iOS və masaüstündə Firefox Web Səyyahına güvənir. Sürətli. Məxfi. İndi endir!
 
 
 ;Facebook. Well contained. Keep the rest of your life to yourself.
-Facebook. Well contained. Keep the rest of your life to yourself.
+Facebook-u həbs edin, həyatınızı izləməyə icazə verməyin.
 
 
 ;Download Firefox and get the Facebook Container Extension
-Download Firefox and get the Facebook Container Extension
+Firefox endirin və Facebook Konteyneri Uzatmasını əldə edin
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Get the Facebook Container Extension
-Get the Facebook Container Extension
+Facebook Konteyneri Uzatmasını əldə edin
 
 
 ;The Facebook Container Extension is not available on mobile devices.
-The Facebook Container Extension is not available on mobile devices.
+Facebook Konteyneri Uzatması mobil cihazlarda yoxdur.
 
 
 # GLink points to https://www.mozilla.org/firefox/focus/; Product name in German is Firefox Klar.
 ;Try <strong>Firefox Focus</strong>, the privacy browser for Android and iOS.
-Try <strong>Firefox Focus</strong>, the privacy browser for Android and iOS.
+<strong>Firefox Focus</strong> yoxlayın, Android və iOS üçün məxfi səyyah.
 
 
 # The video contains text in English
 ;Watch the video
-Watch the video
+Videoya bax
 
 
 ;Opt out on your terms
-Opt out on your terms
+Şərtləri özünüz təyin edin
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Facebook can track almost all your web activity and tie it to your Facebook identity. If that’s too much for you, the <a href="%(fbcontainer)s">Facebook Container extension</a> isolates your identity into a separate container tab, making it harder for Facebook to track you on the web outside of Facebook.
-Facebook can track almost all your web activity and tie it to your Facebook identity. If that’s too much for you, the <a href="%(fbcontainer)s">Facebook Container extension</a> isolates your identity into a separate container tab, making it harder for Facebook to track you on the web outside of Facebook.
+Facebook bütün aktivliyinizi izləyib sizin Facebook profilinizlə əlaqələndirə bilir. Əgər bu sizin üçün də həddi aşmaq kimidirsə, <a href="%(fbcontainer)s">Facebook Konteyneri uzantısı</a> profilinizi ayrı bir konteyner vərəqinə izolə edir və beləliklə Facebook xarici saytlarda sizi izləməyi Facebook üçün çətinləşdirir.
 
 
 ;Install and contain
-Install and contain
+Qur və həbs et
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Installing the <a href="%(fbcontainer)s">extension</a> is easy and, once activated, will open Facebook in a blue tab each time you use it. Use and enjoy Facebook normally. Facebook will still be able to send you advertising and recommendations on their site, but it will be much harder for Facebook to use your activity collected <strong>off Facebook</strong> to send you ads and other targeted messages.
-Installing the <a href="%(fbcontainer)s">extension</a> is easy and, once activated, will open Facebook in a blue tab each time you use it. Use and enjoy Facebook normally. Facebook will still be able to send you advertising and recommendations on their site, but it will be much harder for Facebook to use your activity collected <strong>off Facebook</strong> to send you ads and other targeted messages.
+<a href="%(fbcontainer)s">Uzatmanı</a> qurmaq çox asandır və aktiv edildikdən sonra hər dəfə Facebook işlədəcəyinizdə fərqli mavi vərəq açacaq. Facebook-u normal işlətməyə davam edə bilərsiz. Facebook yenə də saytında sizə reklam və məsləhətlərini göstərəcək, amma <strong>Facebook xaricində</strong> olan aktivliyinizlə əlaqəli reklam və hədəflənmiş mesajları göndərməyini çətinləşdirəcək.
 
 
 ;About Firefox and Mozilla
-About Firefox and Mozilla
+Firefox və Mozilla haqqında
 
 
 # The link points to mozilla.org
 ;We’re backed by <a href="%(mozilla)s">Mozilla</a>, the not-for-profit organization that puts people over profit to give everyone more power online. We created this extension because we believe that you should have easy-to-use tools that help you manage your privacy and security.
-We’re backed by <a href="%(mozilla)s">Mozilla</a>, the not-for-profit organization that puts people over profit to give everyone more power online. We created this extension because we believe that you should have easy-to-use tools that help you manage your privacy and security.
+Arxamızda <a href="%(mozilla)s">Mozilla</a> var, hər kəsə onlayn daha çox güc vermək üçün insanları gəlirin üstündə tutan qeyri-kommersial təşkilat. Məxfilik və təhlükəsizliyinizi idarə etmək üçün asan alətlərinizin olması gərəkdiyinə inandığımız üçün bu uzatmanı yaratdıq.
 
 
 ;Browse freely with Firefox today.
-Browse freely with Firefox today.
+Firefox ilə azad gəzin.
 
 
