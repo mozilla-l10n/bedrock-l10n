@@ -66,7 +66,7 @@ We are committed to an internet that catalyzes collaboration among diverse commu
 
 
 ;Show Your Support
-Show Your Support
+ਆਪਣਾ ਸਹਿਯੋਗ ਵਿਖਾਓ
 
 
 ;An internet with these qualities will not come to life on its own. Individuals and organizations must embed these aspirations into internet technology and into the human experience with the internet. The Mozilla Manifesto and Addendum represent Mozilla’s commitment to advancing these aspirations. We aim to work together with people and organizations everywhere who share these goals to make the internet an even better place for everyone.
@@ -74,7 +74,7 @@ An internet with these qualities will not come to life on its own. Individuals a
 
 
 ;Share on Twitter
-Share on Twitter
+Twitter 'ਤੇ ਸਾਂਝਾ ਕਰੋ
 
 
 ;I support the vision of a better, healthier internet from @mozilla, will you join me?
@@ -82,16 +82,16 @@ I support the vision of a better, healthier internet from @mozilla, will you joi
 
 
 ;Learn more
-Learn more
+ਹੋਰ ਜਾਣੋ
 
 
 ;Principle 1
-Principle 1
+ਪ੍ਰਿੰਸੀਪਲ 1
 
 
 # String is obsolete. Do not remove.
 ;01
-01
+01 {ok}
 
 
 ;The internet is an integral part of modern life—a key component in education, communication, collaboration, business, entertainment and society as a whole.
@@ -104,29 +104,29 @@ The Internet is an integral part of modern life—a key component in education, 
 
 
 ;Use Open Badges to share your skills and interests
-Use Open Badges to share your skills and interests
+ਆਪਣੇ ਹੁਨਰਾਂ ਅਤੇ ਦਿਲਚਸਪੀਆਂ ਨੂੰ ਸਾਂਝਾ ਕਰਨ ਲਈ ਓਪਨ ਨਿਸ਼ਾਨਾ ਦੀ ਵਰਤੋਂ ਕਰੋ
 
 
 ;Explore how the web impacts science
-Explore how the web impacts science
+ਐਕਸਪਲੋਰ ਵੈੱਬ ਵਿਗਿਆਨ 'ਤੇ ਕਿਵੇਂ ਪ੍ਰਭਾਵ ਪਾਉਂਦਾ ਹੈ
 
 
 # String is obsolete. Do not remove.
 ;Explore how the Web impacts science
-Explore how the Web impacts science
+ਐਕਸਪਲੋਰ ਵੈੱਬ ਵਿਗਿਆਨ 'ਤੇ ਕਿਵੇਂ ਪ੍ਰਭਾਵ ਪਾਉਂਦਾ ਹੈ
 
 
 ;Learn about open source code in journalism
-Learn about open source code in journalism
+ਪੱਤਰਕਾਰੀ ਵਿੱਚ ਓਪਨ ਸੋਰਸ ਕੋਡ ਬਾਰੇ ਜਾਣੋ
 
 
 ;Principle 2
-Principle 2
+ਪ੍ਰਿੰਸੀਪਲ 2
 
 
 # String is obsolete. Do not remove.
 ;02
-02
+02 {ok}
 
 
 ;The internet is a global public resource that must remain open and accessible.
@@ -255,16 +255,16 @@ Learn about creating and curating content for the web
 
 # String is obsolete. Do not remove.
 ;Learn about creating and curating content for the Web
-Learn about creating and curating content for the Web
+ਵੈੱਬ ਲਈ ਸਮੱਗਰੀ ਬਣਾਉਣ ਅਤੇ ਕਸਰਤ ਕਰਨ ਬਾਰੇ ਜਾਣੋ
 
 
 ;Principle 6
-Principle 6
+ਪ੍ਰਿੰਸੀਪਲ 6
 
 
 # String is obsolete. Do not remove.
 ;06
-06
+06 {ok}
 
 
 ;The effectiveness of the internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
@@ -277,29 +277,29 @@ The effectiveness of the Internet as a public resource depends upon interoperabi
 
 
 ;Add new voices to open source technology
-Add new voices to open source technology
+ਸਰੋਤ ਤਕਨਾਲੋਜੀ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਨਵੀਂਆਂ ਆਵਾਜ਼ਾਂ ਜੋੜੋ
 
 
 ;Set your Do Not Track preference
-Set your Do Not Track preference
+ਆਪਣੀ ਟਰੈਕ ਪਸੰਦ ਸੈੱਟ ਨਾ ਕਰੋ
 
 
 ;Understand the web ecosystem
-Understand the web ecosystem
+ਵੈੱਬ ਈਕੋਸਿਸਟਮ ਨੂੰ ਸਮਝੋ
 
 
 # String is obsolete. Do not remove.
 ;Understand the Web ecosystem
-Understand the Web ecosystem
+ਵੈੱਬ ਈਕੋਸਿਸਟਮ ਨੂੰ ਸਮਝੋ
 
 
 ;Principle 7
-Principle 7
+ਪ੍ਰਿੰਸੀਪਲ 7
 
 
 # String is obsolete. Do not remove.
 ;07
-07
+07 {ok}
 
 
 ;Free and open source software promotes the development of the internet as a public resource.
