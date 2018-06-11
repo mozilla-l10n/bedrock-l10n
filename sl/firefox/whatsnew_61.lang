@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo page at https://bedrock-demo-craigcook.oregon-b.moz.works/firefox/61.0/whatsnew/
 ## NOTE: Page content changes based on being signed in to a Firefox Account, and if the account has mobile devices associated.
 ## NOTE: See details here https://github.com/mozilla/bedrock/pull/5758
@@ -30,7 +31,7 @@ Firefox Račun: poenostavite si spletno življenje.
 
 
 ;Send pages instantly between your devices
-Send pages instantly between your devices
+Pošiljajte strani neposredno med napravami
 
 
 ;Sync bookmarks, history and more
@@ -38,7 +39,7 @@ Sinhronizirajte zaznamke, zgodovino in drugo
 
 
 ;View content offline and anytime with Pocket
-View content offline and anytime with Pocket
+Oglejte si vsebino brez povezave, kadarkoli, s Pocketom
 
 
 ;Find out more
@@ -50,24 +51,24 @@ Prenesite Firefox za mobilne naprave
 
 
 ;Privacy minded. Packed with features. Perfect for multitasking on mobile.
-Privacy minded. Packed with features. Perfect for multitasking on mobile.
+Ustvarjen z mislijo na zasebnost. Poln odličnih funkcij. Idealen za večopravilnost na mobilnikih.
 
 
 ;All the things you love about Firefox, plus time-saving features. Sync bookmarks, passwords, and share links instantly between your devices.
-All the things you love about Firefox, plus time-saving features. Sync bookmarks, passwords, and share links instantly between your devices.
+Vse, kar imate pri Firefoxu radi, in še dodatki za prihranek časa. Sinhronizirajte svoje podatke in si pošiljajte povezave med napravami.
 
 
 # "spam" is unsolicited email, used here as a verb to mean "we won't send you spam"
 ;Send yourself a download link. We won’t store your info or spam you.
-Send yourself a download link. We won’t store your info or spam you.
+Pošljite si povezavo za prenos. Vaših podatkov ne bomo shranili ali vam pošiljali neželene pošte.
 
 
 ;Scan the QR code to download the app on your device.
-Scan the QR code to download the app on your device.
+Preberite kodo QR za prenos aplikacije na napravo.
 
 
 ;QR code
-QR code
+Koda QR
 
 
 ;Download on the App Store
@@ -81,10 +82,10 @@ Prenesite aplikacijo Firefox Focus
 
 # "monotasking" means to do one thing at a time (the opposite of multitasking). Alternative for translation: "Efficient browsing."
 ;Privacy obsessed. Automatic ad blocking. Monotasking perfected.
-Privacy obsessed. Automatic ad blocking. Monotasking perfected.
+Ustvarjen za eno stvar: zasebnost. Samodejno zavračanje oglasov. Učinkovito brskanje.
 
 
 ;Our easy-to-use mobile browser includes always-on tracking protection and erases your browsing data after every session.
-Our easy-to-use mobile browser includes always-on tracking protection and erases your browsing data after every session.
+Naš mobilni brskalnik je preprost za uporabo, opremljen z venomer vključeno zaščito pred sledenjem in po vsaki seji izbriše vaše podatke.
 
 

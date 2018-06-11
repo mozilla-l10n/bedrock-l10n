@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo page at https://bedrock-demo-craigcook.oregon-b.moz.works/firefox/61.0/whatsnew/
 ## NOTE: Page content changes based on being signed in to a Firefox Account, and if the account has mobile devices associated.
 ## NOTE: See details here https://github.com/mozilla/bedrock/pull/5758
@@ -85,6 +86,6 @@ Az adatvédelem megszállottja. Automatikus reklámblokkolás. Tökéletes konce
 
 
 ;Our easy-to-use mobile browser includes always-on tracking protection and erases your browsing data after every session.
-Our easy-to-use mobile browser includes always-on tracking protection and erases your browsing data after every session.
+A könnyen használható mobilböngésző mindig bekapcsolt követésvédelmet tartalmaz, és minden munkamenet végén törli a böngészési adatokat.
 
 
