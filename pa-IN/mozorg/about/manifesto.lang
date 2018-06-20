@@ -347,33 +347,33 @@ Transparent community-based processes promote participation, accountability and 
 
 
 ;Participate in our governance forum
-Participate in our governance forum
+ਸਾਡੇ ਗਵਰਨੈਂਸ ਫੋਰਮ ਵਿਚ ਹਿੱਸਾ ਲਓ
 
 
 ;Join us as a volunteer
-Join us as a volunteer
+ਸਾਡੇ ਨਾਲ ਵਲੰਟੀਅਰ ਵਜੋਂ ਸ਼ਾਮਲ ਹੋਵੋ
 
 
 ;Join us as a student ambassador
-Join us as a student ambassador
+ਵਿਦਿਆਰਥੀ ਅੰਬੈਸਡਰ ਦੇ ਰੂਪ ਵਿੱਚ ਸਾਡੇ ਨਾਲ ਸ਼ਾਮਲ ਹੋਵੋ
 
 
 # Obsolete string replaced by separate strings (do not remove)
 ;Join us as a <a href="%(volunteer)s">volunteer</a> or <a href="%(ambassador)s">student ambassador</a>
-Join us as a <a href="%(volunteer)s">volunteer</a> or <a href="%(ambassador)s">student ambassador</a>
+ਸਾਡੇ ਨਾਲ<a href="%(volunteer)s">ਵਾਲੰਟੀਅਰ</a> ਜਾਂ <a href="%(ambassador)s">ਵਿਦਿਆਰਥੀ ਰਾਜਦੂਤ</a> ਦੇ ਤੌਰ ਤੇ ਸ਼ਾਮਲ ਹੋਵੋ
 
 
 ;Learn how to collaborate online
-Learn how to collaborate online
+ਸਿੱਖੋ ਕਿ ਆਨਲਾਈਨ ਕਿਵੇਂ ਸਹਿਯੋਗ ਦੇਣਾ ਹੈ
 
 
 ;Principle 9
-Principle 9
+ਪ੍ਰਿਸੀਪਲ 9
 
 
 # String is obsolete. Do not remove.
 ;09
-09
+09 {ok}
 
 
 ;Commercial involvement in the development of the internet brings many benefits; a balance between commercial profit and public benefit is critical.
@@ -386,7 +386,7 @@ Commercial involvement in the development of the Internet brings many benefits; 
 
 
 ;Visualize who you interact with on the web with Lightbeam
-Visualize who you interact with on the web with Lightbeam
+ਕਲਪਨਾ ਕਰੋ ਕਿ ਤੁਸੀਂ Lightbeam ਨਾਲ ਵੈੱਬ ਤੇ ਕਿਵੇਂ ਸੰਪਰਕ ਕਰਦੇ ਹੋ
 
 
 # String is obsolete. Do not remove.

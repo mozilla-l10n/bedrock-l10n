@@ -2,7 +2,7 @@
 
 
 ;Meet Mozillians from all around the world. Learn about the projects they’ve worked on and see what they’re currently helping with.
-Meet Mozillians from all around the world. Learn about the projects they’ve worked on and see what they’re currently helping with.
+உலகம் முழுவதிலும் உள்ள மொசில்லியன்களைச் சந்தியுங்கள். அவர்கள் பணியாற்றிய திட்டங்களைப் பற்றி அறிந்துகொள்ளுங்கள், தற்போது அவர்கள் எவற்றில் உதவி செய்கிறார்கள் என்பதைப் பாருங்கள்.
 
 
 ;Meet a few more Mozillians
@@ -10,7 +10,7 @@ Meet Mozillians from all around the world. Learn about the projects they’ve wo
 
 
 ;Read their stories here and discover even more on Twitter with <a href="%(link_hashtag)s">#IAmAMozillian</a>
-Read their stories here and discover even more on Twitter with <a href="%(link_hashtag)s">#IAmAMozillian</a>
+இங்கு அவர்களின் கதைகளை வாசிக்கவும், ட்விட்டரில் இன்னும் அதிகமாக கண்டறியவும் <a href="%(link_hashtag)s">#IAmAMozillian</a>
 
 
 ;Mozillian Stories
@@ -19,11 +19,11 @@ Read their stories here and discover even more on Twitter with <a href="%(link_h
 
 # These <b>s are for formatting.
 ;Hi, I’m <b class="name">Rubén</b>, a Mozillian in <b class="country">Spain</b>
-Hi, I’m <b class="name">Rubén</b>, a Mozillian in <b class="country">Spain</b>
+வணக்கம், நான் <b class="name">ரூபன்</b>, <b class="country">ஸ்பெயின்</b> மொசில்லியன்
 
 
 ;I’ve been collaborating with the Mozilla community since 2004, helping with website localization, QA, user support and community marketing. I’ve also helped organize events in Spain and performed IT tasks within the Mozilla Hispano community.
-I’ve been collaborating with the Mozilla community since 2004, helping with website localization, QA, user support and community marketing. I’ve also helped organize events in Spain and performed IT tasks within the Mozilla Hispano community.
+நான் 2004 ஆம் ஆண்டு முதல் மொசில்லா சமூகத்திற்கு பங்களித்து வருகிறேன், வலைத்தள மொழிபெயர்ப்பு, தரக்கட்டுப்பாடு (QA), பயனர் ஆதரவு மற்றும் சமூக சந்தைப்படுத்தலில் உதவுகிறேன். நான் ஸ்பெயினில் நிகழ்ச்சி ஏற்பாடு செய்வதிலும் உதவியுள்ளேன் மேலும் மொசில்லா இசுப்பானோ சமூகத்தில் உள்ள நுட்ப பணிகளும் செய்திருக்கிறேன்.
 
 
 ;I’m currently helping with:
@@ -35,7 +35,7 @@ Mozilla.org உள்ளூர் மொழிபெயர்ப்பு
 
 
 ;Mozilla Hispano mentorship program
-Mozilla Hispano mentorship program
+மொசில்லா இசுப்பானோ வழிகாட்டல் திட்டம்
 
 
 ;Community events
