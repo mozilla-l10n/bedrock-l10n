@@ -1,3 +1,6 @@
+## active ##
+## contribute-tasks-0516 ##
+## target-links-noopener ##
 ## NOTE: File is used for the new /signup page. Demo page: https://www-dev.allizom.org/contribute/signup/
 
 
@@ -46,7 +49,7 @@ Twitterஇல் Mozillaவுடன் இணையவும்
 
 
 ;Firefox engineer Mike Conley livehacks and crushes bugs where he finds them in this unscripted, uncensored, true-to-life video series.
-Firefox engineer Mike Conley livehacks and crushes bugs where he finds them in this unscripted, uncensored, true-to-life video series.
+பயர்பாக்சின் பொறியாளர் Mike Conely ஹேக்ஸ் மற்றும் முறிவு பிழைகளை எழுத்து படிவமில்லாத தணிக்கையில்லாத உண்மையான வாழ்க்கை தொடர் காணொலியில் கண்டுபிடித்துள்ளார்.
 
 
 ;Learn a bit about coding
@@ -95,7 +98,7 @@ CSS அனிமேசனின் வலியிலிருந்து வ�
 
 
 ;There are so many ways to get involved with Mozilla and support the browser. If you’re ready to fix your first bug, tweet @StartMozilla to get connected with the perfect starting bug for you.
-There are so many ways to get involved with Mozilla and support the browser. If you’re ready to fix your first bug, tweet @StartMozilla to get connected with the perfect starting bug for you.
+மொசில்லாவுடன் சம்மந்தப்படுவதற்கும் அதன் உலாவிக்கு ஆதரவு தருவதற்கும் நிறைய வழிகள் உள்ளன. நீங்கள் உங்களின் முதல் பிழையை சரி செய்ய தயாராக இருந்தால் @StartMozillaவுக்கு கீச்சு அனுப்பி, உங்களுக்கான பொருத்ததமான துவக்க பிழையுடன் இணையுங்கள்.
 
 
 ;Tweet This
@@ -104,7 +107,7 @@ There are so many ways to get involved with Mozilla and support the browser. If 
 
 # This is a tweet, try to keep it within the 140 characters limit
 ;I’m raising my hand to contribute to Mozilla! @startmozilla tell me how I can join you to help protect the open web.
-I’m raising my hand to contribute to Mozilla! @startmozilla tell me how I can join you to help protect the open web.
+நான் மொசிலாவுக்கு பங்களிக்க தயாராகவுள்ளேன்! @startmozilla திறந்த வலையைப் பாதுகாக்க உதவுவதற்கு நான் எவ்வாறு உங்களுடன் இணைய முடியும் என்பதை கூறுங்கள்.
 
 
 ;Share on Twitter
@@ -133,7 +136,7 @@ iOS அல்லது Android கருவிக்கான பயர்பா
 
 
 ;Firefox is the independent mobile browser and by using this you’re supporting Mozilla’s mission and creating a browsing experience that is private and personal.
-Firefox is the independent mobile browser and by using this you’re supporting Mozilla’s mission and creating a browsing experience that is private and personal.
+பயர்பாக்சு என்பது ஒரு சுய கைப்பேசி உலாவி மேலும் இதனை பயன்படுத்துவதன் மூலம் நீங்கள் மொசில்லாவின் குறிக்கோளுக்கு ஆதரவுவாகவும் அந்தரங்கமாக மற்றும் தனிப்பட்டு உலாவும் அனுபவத்தை உருவாக்குகிறீர்கள்.
 
 
 ;Add Firefox to your Android and iOS devices
@@ -158,20 +161,20 @@ App Store கடையிலிருந்து பதிவிறக்கவ
 
 
 ;Encryption is how we keep our personal information safe and private. Please join us in the fight to protect it.
-Encryption is how we keep our personal information safe and private. Please join us in the fight to protect it.
+குறியாக்கம் என்பது நாம் எவ்வாறு நமது தனிபட்ட தகவல்களைப் பாதுகாப்பாகவும் அந்தரங்கமாகவும் வைத்திருக்கும் முறையாகும். அதனை பாதுகாக்கும் முயற்ச்சியில் எங்களுடன் இணையுங்கள்.
 
 
 ;<a href="%s">Learn more about encryption</a>, why it’s essential and why we need to protect it.
-<a href="%s">Learn more about encryption</a>, why it’s essential and why we need to protect it.
+<a href="%s">குறியாக்கத்தை பற்றி மேலும் அறிக</a>, ஏன் அது அத்தியாவசியமானது மற்றும் ஏன் அதை நாம் பாதுகாக்க வேண்டும்.
 
 
 # Obsolete string, do not remove
 ;<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
-<a href="%s" rel="external" target="_blank">Learn more about encryption</a>, why it’s essential and why we need to protect it.
+<a href="%s" rel="external" target="_blank">குறியாக்கத்தை பற்றி மேலும் அறிக</a>, ஏன் அது அத்தியாவசியமானது மற்றும் ஏன் அதை நாம் பாதுகாக்க வேண்டும்.
 
 
 ;Become an encryption champion
-Become an encryption champion
+ஒரு குறியாக்க வெற்றியாளராகுங்கள்
 
 
 ;Take the pledge
@@ -192,11 +195,11 @@ Become an encryption champion
 
 
 ;Watch The Joy of Coding, then discuss it with other Mozillians
-Watch The Joy of Coding, then discuss it with other Mozillians
+குறிமுறை செய்வதில் மகிழ்ச்சி எனும் காணோலியை பார்த்துவிட்டு அதைப்பற்றிப் பிற மொசிலியன்களுடன் கலந்துரையாடுங்கள்
 
 
 ;Anyone can contribute to Firefox by finding and fixing errors that people report via Bugzilla. Watch a demonstration of a Firefox engineer live hacking to see what it’s all about.
-Anyone can contribute to Firefox by finding and fixing errors that people report via Bugzilla. Watch a demonstration of a Firefox engineer live hacking to see what it’s all about.
+யாரேனும் மக்கள் பக்சீலா மூலம் அனுப்பிய புகார்களின் தவறுகளை கண்டுபிடித்து சரி செய்து பயர்பாக்சுக்கு பங்களிக்கலாம். பயர்பாக்சு பொறியாளரின் நேரலை ஹேக்கிங் செயல் விளக்கத்தை பார்த்து அவை என்ன என்பதை அறிந்து கொள்ளுங்கள்.
 
 
 ;Watch the intro.
@@ -204,20 +207,20 @@ Anyone can contribute to Firefox by finding and fixing errors that people report
 
 
 ;<a href="https://twitter.com/mike_conley" rel="external">@mike_conley</a> livehacks on real Firefox bugs while thinking out loud.
-<a href="https://twitter.com/mike_conley" rel="external">@mike_conley</a> livehacks on real Firefox bugs while thinking out loud.
+<a href="https://twitter.com/mike_conley" rel="external">@mike_conley</a> உரத்த சிந்தனையின் போது உண்மையான பயர்பாக்சு வழு மீதான ஹேக்கிங்.
 
 
 ;View more <em>Joy of Coding</em> videos on Air Mozilla
-View more <em>Joy of Coding</em> videos on Air Mozilla
+<em>குறியீட்டு செய்வதில் மகிழ்ச்சி</em> ஏர் மொசிலாவிலுள்ள காணொளிகள் மேலும் காண்க
 
 
 ;<a href="%s" id="get-involved">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
-<a href="%s" id="get-involved">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">நிரலாக்க சமூதாயத்தில் சேரவும்</a> உலகம் முழுவதிலும் உள்ள மொசில்லியர்களுடன் ஒருவர்கொருவரோடு ஒருங்கிணைப்பைத் தொடங்க வேண்டும்.
 
 
 # Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
-<a href="%s" id="get-involved" target="_blank">Join the Coding Community</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved" target="_blank">நிரலாக்க சமூதாயத்தில் சேரவும்</a> உலகம் முழுவதிலும் உள்ள மொசிலியர்களுடன் ஒருவர்கொருவர் ஒருங்கிணைப்பைத் தொடங்க வேண்டும்.
 
 
 ;Thanks for watching
@@ -234,11 +237,11 @@ View more <em>Joy of Coding</em> videos on Air Mozilla
 
 
 ;Try out our new animation editing tools in Developer Tools Challenger
-Try out our new animation editing tools in Developer Tools Challenger
+உருவாக்குனர் கருவி சவாலாளிலுள்ள எங்களின் புதிய அசைவூட்டத்தை தொகுக்கும் கருவியை முயற்சி செய்து பாருங்கள்
 
 
 ;The more you know about the web, the easier it is to make it your own. Participate in the web by testing your web literacy skills using the new tools in Firefox Developer Edition.
-The more you know about the web, the easier it is to make it your own. Participate in the web by testing your web literacy skills using the new tools in Firefox Developer Edition.
+வலைத்தளங்களைப் பற்றி அதிகமாகத் தெரிந்து கொண்டால், பயன்படுத்துவதற்குச் சுலபமாக இருக்கும். பயர்பாக்சு மேம்பாட்டுனர் பதிப்பில் புதிய கருவிகளைப் பயன்படுத்தி வலைத்தளங்களில் பங்கேற்று உங்களின் வலை எழுத்தறிவு திறன்களைப் பரிசோதிக்கலாம்.
 
 
 ;Download Firefox Dev Edition
@@ -246,7 +249,7 @@ The more you know about the web, the easier it is to make it your own. Participa
 
 
 ;Dev Tools requires Firefox Developer Edition desktop browser. To try this task, download Firefox Developer Edition first.
-Dev Tools requires Firefox Developer Edition desktop browser. To try this task, download Firefox Developer Edition first.
+பயர்பாக்சு மேம்பாட்டு பதிப்பில் மேசைக்கணினி உலாவில் உருவாக்குநர் கருவிகள் தேவைப்படுகிறது. இந்தப் பணியைப் பரிசோதிக்க, முதலில் பயர்பாக்சு உருவாக்குநர் பதிப்பைப் பதிவிறக்கம் செய்யுங்கள்.
 
 
 ;Go to Dev Tools Challenger
@@ -258,12 +261,12 @@ Dev Tools requires Firefox Developer Edition desktop browser. To try this task, 
 
 
 ;<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
-<a href="%s" id="get-involved">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved">வலைடேவ் பங்கேற்பு குழுவில் சேர்ந்து</a> உலகம் முழுவதும் உள்ள மொசிலியர்களிடம் ஒருவர்கொருவர் ஒருங்கிணைப்பைத் தொடங்க வேண்டும்.
 
 
 # Obsolete string, do not remove
 ;<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
-<a href="%s" id="get-involved" target="_blank">Join the Webdev Contribute Group</a> and start collaborating with other Mozillians around the world.
+<a href="%s" id="get-involved" target="_blank">வலைடேவ் பங்கேற்பு குழுவில் சேர்ந்து</a> உலகம் முழுவதும் உள்ள மொசிலியர்களிடம் ஒருவர்கொருவர் ஒருங்கிணைப்பைத் தொடங்க வேண்டும்.
 
 
 ;Thanks for taking the challenge
@@ -280,7 +283,7 @@ Google Play கடையில் இலவசமாகப் பெறுங்
 
 
 ;Map the wireless networks in your neighborhood.
-Map the wireless networks in your neighborhood.
+உங்கள் சுற்றுப்புறங்களில் உள்ள கம்பியில்லா இணைப்பை வரைப்படம் செய்யவும்.
 
 
 ;Install Mozilla Stumbler
@@ -288,12 +291,12 @@ Map the wireless networks in your neighborhood.
 
 
 ;<a href="%s">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
-<a href="%s">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
+<a href="%s">மொசில்லாவின் இருப்பிட சேவையைப் பற்றி மேலும் அறிக</a> மேலும் இதில் இணையவதற்கான பல வழிகளைக் கண்டறியவும்.
 
 
 # Obsolete string, do not remove
 ;<a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
-<a href="%s" target="_blank">Learn more about Mozilla Location Services</a> and discover more ways to get involved.
+<a href="%s" target="_blank">மொசில்லாவின் இருப்பிட சேவையைப் பற்றி மேலும் அறிக</a> இதில் இணைய கூடுதலாக பல வழிகளைக் கண்டறியவும்.
 
 
 ;Thank you for installing Mozilla Stumbler

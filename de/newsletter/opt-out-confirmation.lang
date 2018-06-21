@@ -1,0 +1,51 @@
+## active ##
+## NOTE: https://www-dev.allizom.org/newsletter/opt-out-confirmation/?success
+
+
+# HTML page title
+;Cool. We hear you.
+Alles gut. Wir wissen Bescheid.
+
+
+# HTML page descripiton
+;You’re now opted out of a series of emails about setting up your account.
+Du wirst künftig keine E-Mails mehr zur Einrichtung Deines Konto erhalten.
+
+
+;You’ll continue to receive other emails you’re subscribed to, along with occasional important updates about your account. To manage all your subscriptions, enter your email below — we need to make sure we’re talking to the right person.
+Falls Du noch andere E-Mails von uns abonniert hast, wirst Du diese auch weiterhin bekommen. Relevante E-Mail-Updates zu Deinem Konto inklusive. Um alle Deine E-Mail-Benachrichtigungen zu verwalten, bitten wir Dich unten Deine E-Mail-Adresse anzugeben. Um sicherzugehen, dass Du hier der richtige Ansprechpartner bist.
+
+
+# Field of a form
+;Your email address:
+Deine E-Mail-Adresse:
+
+
+# Only localize "yourname". Do not touch @example.com.
+;yourname@example.com
+deinname@example.com
+
+
+# This is a button
+;Manage Preferences
+Einstellungen verwalten
+
+
+;Prefer to get information another way?
+Du willst auf anderem Weg informiert werden?
+
+
+# Link to https://blog.mozilla.org/
+;Check out our blogs
+Kennst Du unsere Blogs?
+
+
+# Link to https://support.mozilla.org/
+;Get help
+Wende Dich an unseren Support
+
+
+;Subscribe to occasional newsletter updates from Firefox
+Abonniere unseren Firefox Newsletter
+
+
