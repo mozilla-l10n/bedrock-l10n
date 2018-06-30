@@ -19,7 +19,7 @@ Pryncypia prywatności danych
 
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Pryncypia prywatności danych Mozilli inspirują nasze zasady, które szanują i chronią osoby używające Internetu. <a href="%(faq)s">Najczęściej zadawane pytania</a> zawierają informacje o tym, jak te pryncypia kształtują Firefoksa i wszystkie nasze produkty.
 
 
 # This string is obsolete. Do not remove.
@@ -28,7 +28,7 @@ Mozilla jest projektem open source z misją doskonalenia sposobu korzystania z�
 
 
 ;Privacy Notices
-Privacy Notices
+Zasady ochrony prywatności
 
 
 # This string is obsolete. Do not remove.
@@ -37,7 +37,7 @@ Zasady prywatności
 
 
 ;Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
-Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+Nasze zasady ochrony prywatności opisują dane odbierane, udostępniane i używane przez nasze produkty i usługi, a także możliwości dostępne użytkownikom.
 
 
 # This string is obsolete. Do not remove.
@@ -54,19 +54,19 @@ Przeglądarka Firefox
 
 
 ;Firefox for Fire TV
-Firefox for Fire TV
+Firefox dla Fire TV
 
 
 ;Transparency Report
-Transparency Report
+Raport przejrzystości
 
 
 ;As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
-As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
+Jako projekt open source, przejrzystość i otwartość są kluczowymi częściami fundamentalnych zasad Mozilli. Nasz kod źródłowy jest otwarty i sprawdzalny. Nasz proces programistyczny jest otwarty. Nasz półroczny <a href="%(report)s">Raport przejrzystości</a> także pokazuje nasze przywiązanie do tych pryncypiów.
 
 
 ;To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
-To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
+Aby być na bieżąco i komentować proponowane zmiany zasad ochrony prywatności, subskrybuj <a href="%(group)s">grupę Mozilla Governance</a>.
 
 
 # This string is obsolete. Do not remove.
@@ -75,7 +75,7 @@ By być na bieżąco i komentować proponowane zmiany zasad dotyczących prywa
 
 
 ;Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
-Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
+<a href="%(blog)s">Blog „Open Policy and Advocacy” Mozilli</a> zawiera więcej informacji o trwających pracach nad publicznymi zasadami ochrony prywatności i bezpieczeństwa.
 
 
 # This string is obsolete. Do not remove.

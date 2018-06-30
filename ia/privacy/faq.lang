@@ -3,95 +3,95 @@
 
 # HTML page title
 ;Mozilla’s Data Privacy FAQ
-Mozilla’s Data Privacy FAQ
+Demandas frequente re le confidentialitate del datos de Mozilla
 
 
 # HTML page description
 ;At Mozilla we respect and protect your personal information.
-At Mozilla we respect and protect your personal information.
+A Mozilla nos respecta e protege tu informationes personal.
 
 
 ;We Stand for People Over Profit.
-We Stand for People Over Profit.
+Nos sustene le personas ultra le lucro.
 
 
 # "Under the hood" is an expression in automobile industry. Here it is a metaphor about something that exists but out of sight, behind the scenes.
 ;It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
-It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
+Il pote ser difficile pro le personas saper lo que expectar se de qualcunque software o servicios on usa hodie. Le technologia que potentia nostre vitas es complexe e le personas non ha le tempore pro excavar in le detalios. Il es ancora ver pro Firefox, ubi nos trova que le personas ha plure differente ideas del lo que occurre sub le copertura de lor navigator.
 
 
 ;At Mozilla, we respect and protect your personal information:
-At Mozilla, we respect and protect your personal information:
+A Mozilla, nos respecta e protege tu informationes personal:
 
 
 # Links to https://www.mozilla.org/privacy/principles/
 ;We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our approach to privacy in the Firefox desktop and mobile browsers.
-We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our approach to privacy in the Firefox desktop and mobile browsers.
+Nos seque un collection de <a href="%(link)s">Principios de confidentialitate del datos</a> que forma nostre approche al confidentialitate in le navigatores Firefox scriptorio e mobile.
 
 
 ;We only collect the data we need to make the best products.
-We only collect the data we need to make the best products.
+Nos solmente collige le datos que nos necessita pro render melior le productos.
 
 
 ;We put people in control of their data and online experiences.
-We put people in control of their data and online experiences.
+Nos pone le personas in controlo del lor datos e de lor experientias online.
 
 
 ;We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
-We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
+Nos adhere al principio de “nulle surprisas” , significante que nos labora dur pro garantir que le comprension de Firefox per le personas corresponde al realitate.
 
 
 ;The following questions and answers should help you understand what to expect from Mozilla and Firefox:
-The following questions and answers should help you understand what to expect from Mozilla and Firefox:
+Le sequente questiones e responsas debe adjutar te a comprender lo que expectar se ab Mozilla e Firefox:
 
 
 ;I use Firefox for almost everything on the Web. You folks at Mozilla must know a ton of stuff about me, right?
-I use Firefox for almost everything on the Web. You folks at Mozilla must know a ton of stuff about me, right?
+Io usa Firefox pro quasi toto sur le Web. Tu populos a Mozilla debe saper un tonna de cosalia circa me, correcte?
 
 
 ;Firefox, the web browser that runs on your device or computer, is your gateway to the internet. Your browser will manage a lot of information about the websites you visit, but that information stays on your device. Mozilla, the company that makes Firefox, doesn’t collect it (unless you ask us to).
-Firefox, the web browser that runs on your device or computer, is your gateway to the internet. Your browser will manage a lot of information about the websites you visit, but that information stays on your device. Mozilla, the company that makes Firefox, doesn’t collect it (unless you ask us to).
+Firefox, le navigator de web que flue sur tu dispositivo o computator, es tu porta a internet. Tu navigator gerera un lot de informationes circa le sitos web que tu visita, ma celle informationes sta sur tu apparato. Mozilla, le compania que produce Firefox, non lo collige (a minus que tu demanda nos de facer lo).
 
 
 ;Really, you don’t collect my browsing history?
-Really, you don’t collect my browsing history?
+Realmente, tu non collige mi chronologia de exploration?
 
 
 # Links to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 ;Mozilla doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, such as <a href="%(link)s">Firefox Pioneer</a>, which allows interested users to give us insight into their web browsing. If you sync your browsing history across Firefox installations, we don’t know what that history is - because it’s encrypted by your device.
-Mozilla doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, such as <a href="%(link)s">Firefox Pioneer</a>, which allows interested users to give us insight into their web browsing. If you sync your browsing history across Firefox installations, we don’t know what that history is - because it’s encrypted by your device.
+Mozilla non sape quanto tu te expectarea circa como le personas naviga le web. Como productor de navigator, illo es realmente un grande defia pro nos. Assi nos ha construite applicationes a eliger, como <a href="%(link)s">Firefox Pioneer</a>, que consenti al usatores interessate de dar nos comprension de lor exploration del web. Si tu synchronisa tu chronologia de exploration trans tu installationes de Firefox, nos non sape que chronologia es - pois que illo es cifrate per tu dispositivo.
 
 
 ;It seems like every company on the web is buying and selling my data. You’re probably no different.
-It seems like every company on the web is buying and selling my data. You’re probably no different.
+Il pare que cata compania sur le web compra e vende mi datos. Vos non es probabilemente differente.
 
 
 ;Mozilla doesn’t sell data about you, and we don’t buy data about you.
-Mozilla doesn’t sell data about you, and we don’t buy data about you.
+Mozilla non vende datos circa te, e nos non compra datos circa te.
 
 
 ;Wait, so how do you make money?
-Wait, so how do you make money?
+Attende, assi como facer tu facer moneta?
 
 
 # Links to https://www.mozilla.org/foundation/annualreport/
 ;Mozilla is not your average organization. Founded as a community open source project in 1998, Mozilla is a mission-driven organization working towards a more healthy internet. The majority of Mozilla Corporation’s revenue is from royalties earned through Firefox web browser search partnerships and distribution deals around the world. You can learn more about how we make money in our <a href="%(link)s">annual financial report</a>.
-Mozilla is not your average organization. Founded as a community open source project in 1998, Mozilla is a mission-driven organization working towards a more healthy internet. The majority of Mozilla Corporation’s revenue is from royalties earned through Firefox web browser search partnerships and distribution deals around the world. You can learn more about how we make money in our <a href="%(link)s">annual financial report</a>.
+Mozilla non es lo que tu pensa como un organisation medie. Fundate como un projecto de communitate open-source in 1998, Mozilla es un organisation orientate per un mission que labora verso un internet plus salubre. Le majoritate del renta de Mozilla Corporation es ab royalties ganiate per le societates de recerca e le accordos de distribution del navigator del web Firefox circum le mundo. Tu pote apprender plus circa como nos face moneta in nostre <a href="%(link)s">reporto financiari annual</a>.
 
 
 # "Softballs" here means questions requiring only easy or simple answers.
 ;Okay, those first few were softballs. What data do you collect?
-Okay, those first few were softballs. What data do you collect?
+De accordo, ille prime esseva poc questiones simple a responder. Que datos collige vos?
 
 
 # First URL links to https://www.mozilla.org/privacy/firefox/
 # Second URL links to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 ;Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
-Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
+Mozilla per option predefinite collige ab Firefox un serie de datos limitate, que adjuta nos pro comprender como le personas usa le navigator. Ille datos es ligate a un identificator aleatori, plus tosto que a tu nomine o a tu adresse de email. Tu pote leger plus circa illo sur nostre <a href="%(privacy)s">advertentia de confidentialitate</a> e tu pote leger le <a href="%(data)s">plen documentation pro ille collection de datos</a>.
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
-We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
+Nos rende public nostre documentation assi que quicunque pote appurar que illo que nos dice es ver, conta nos que nos necessita pro meliorar, e habe fiducia que nos non occulta ulle cosas.
 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
