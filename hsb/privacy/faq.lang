@@ -3,108 +3,108 @@
 
 # HTML page title
 ;Mozilla’s Data Privacy FAQ
-Mozilla’s Data Privacy FAQ
+Huste prašenja priwatnosće Mozilla
 
 
 # HTML page description
 ;At Mozilla we respect and protect your personal information.
-At Mozilla we respect and protect your personal information.
+My pola Mozilla waše wosobinske daty respektujemy a škitamy.
 
 
 ;We Stand for People Over Profit.
-We Stand for People Over Profit.
+Za nas ludźo nad profiltom steja.
 
 
 # "Under the hood" is an expression in automobile industry. Here it is a metaphor about something that exists but out of sight, behind the scenes.
 ;It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
-It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
+Husto ludźo newědźa, štož móža wot softwary abo słužbow wočakować, kotrež dźensa wužiwaja. Technologija, kotraž naše žiwjenje doprědka ćěri, je kompleksna a ludźo nimaja chwile, so nadrobnje z podrobnosćemi zaběrać. To tež za Firefox płaći, přetož husto widźimy, zo ludźo maja rozdźělne předstawy wo tym, štož so w jich wobhladowaku pod hawbu stawa.
 
 
 ;At Mozilla, we respect and protect your personal information:
-At Mozilla, we respect and protect your personal information:
+My pola Mozilla waše wosobinske daty respektujemy a škitamy:
 
 
 # Links to https://www.mozilla.org/privacy/principles/
 ;We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our approach to privacy in the Firefox desktop and mobile browsers.
-We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our approach to privacy in the Firefox desktop and mobile browsers.
+Sćěhujemy rjad <a href="%(link)s">zasadow priwatnosće</a>, kotrež naše wašnje přistupa k priwatnosći we Firefox za desktop a mobilne graty postajeja.
 
 
 ;We only collect the data we need to make the best products.
-We only collect the data we need to make the best products.
+Zběramy jenož daty, kotrež trjebamy, zo bychmy najlěpše produkty wuwiwali.
 
 
 ;We put people in control of their data and online experiences.
-We put people in control of their data and online experiences.
+Wostajamy ludźom kontrolu nad jich datami a dožiwjenjemi online.
 
 
 ;We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
-We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
+Za nas princip „žane překwapjenki“ płaći, to rěka, dźěłamy ćežko na tym, zo so wočakowanja ludźi na Firefox z woprawdźitosću kryja.
 
 
 ;The following questions and answers should help you understand what to expect from Mozilla and Firefox:
-The following questions and answers should help you understand what to expect from Mozilla and Firefox:
+Slědowace prašenja a wotmołwy maja wam pomhać, rozumić, štož móžeće wot Mozilla a Firefox wočakować:
 
 
 ;I use Firefox for almost everything on the Web. You folks at Mozilla must know a ton of stuff about me, right?
-I use Firefox for almost everything on the Web. You folks at Mozilla must know a ton of stuff about me, right?
+Wužiwam Firefox za nimale wšitko w interneće. Najskerje wě Mozilla tójšto wo mni, něwěrno?
 
 
 ;Firefox, the web browser that runs on your device or computer, is your gateway to the internet. Your browser will manage a lot of information about the websites you visit, but that information stays on your device. Mozilla, the company that makes Firefox, doesn’t collect it (unless you ask us to).
-Firefox, the web browser that runs on your device or computer, is your gateway to the internet. Your browser will manage a lot of information about the websites you visit, but that information stays on your device. Mozilla, the company that makes Firefox, doesn’t collect it (unless you ask us to).
+Firefox, webwobhladowak, kotryž na wašim graće abo ličaku běži, je waše wrota do interneta. Waš wobhladowak rjaduje wjele informacijow wo websydłach, kotrež wopytujeće, ale tute informacije wostawaja na wašim graće. Mozilla, organizacija, kotraž Firefox zhotowja, je njezběraja (chibazo prosyće wo to).
 
 
 ;Really, you don’t collect my browsing history?
-Really, you don’t collect my browsing history?
+Njezběraće woprawdźe moju přehladowansku historiju?
 
 
 # Links to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 ;Mozilla doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, such as <a href="%(link)s">Firefox Pioneer</a>, which allows interested users to give us insight into their web browsing. If you sync your browsing history across Firefox installations, we don’t know what that history is - because it’s encrypted by your device.
-Mozilla doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, such as <a href="%(link)s">Firefox Pioneer</a>, which allows interested users to give us insight into their web browsing. If you sync your browsing history across Firefox installations, we don’t know what that history is - because it’s encrypted by your device.
+Mozilla njewě tak wjele kaž wočakujeće wo tym, kak ludźo web přehladujeće. Jako zhotowjer wobhladowaka je to woprawdźe wulke wužadanje za nas. Tohodla smy nastroje za dobrowolne wužiwanje wuwili, na přikład <a href="%(link)s">Firefox Pioneer</a>, kotrež zajimowanym wužiwarjam zmóžnjeja, nam dohlad do jich webpřehladowanja poskićić. Jeli swoju přehladowansku historiju přez instalacije Firefox synchronizujeće, njewěmy, štož tuta historija wobsahuje - dokelž je přez waš grat zaklučowana.
 
 
 ;It seems like every company on the web is buying and selling my data. You’re probably no different.
-It seems like every company on the web is buying and selling my data. You’re probably no different.
+Zda so, kaž by kóžde předewzaće we webje moje daty kupiło a předało. Pola was to najskerje hinak njeje.
 
 
 ;Mozilla doesn’t sell data about you, and we don’t buy data about you.
-Mozilla doesn’t sell data about you, and we don’t buy data about you.
+Mozilla daty wo was njepředawa a njekupuje.
 
 
 ;Wait, so how do you make money?
-Wait, so how do you make money?
+Moment, z čim da pjenjezy zaslužiće?
 
 
 # Links to https://www.mozilla.org/foundation/annualreport/
 ;Mozilla is not your average organization. Founded as a community open source project in 1998, Mozilla is a mission-driven organization working towards a more healthy internet. The majority of Mozilla Corporation’s revenue is from royalties earned through Firefox web browser search partnerships and distribution deals around the world. You can learn more about how we make money in our <a href="%(link)s">annual financial report</a>.
-Mozilla is not your average organization. Founded as a community open source project in 1998, Mozilla is a mission-driven organization working towards a more healthy internet. The majority of Mozilla Corporation’s revenue is from royalties earned through Firefox web browser search partnerships and distribution deals around the world. You can learn more about how we make money in our <a href="%(link)s">annual financial report</a>.
+Mozilla žana wšědna organizacija njeje. Jako projekt wotewrjeneho žórła zhromadźenstwa w lěće 1998 załoženy, je Mozilla organizacija z misiju, kotraž za strowši internet dźěła. Wjetšina dochodow, kotrež předewzaće Mozilla Corporation docpě, pochadźeja z płaćenjow přez partnerstwa webwobhladowaka Firefox a rozdźělenskich dojednanja z cyłeho swěta. Móžeće w našej <a href="%(link)s">lětnej financnej rozprawje </a> wjace to tym zhonić, kak pjenjezy zasłužimy.
 
 
 # "Softballs" here means questions requiring only easy or simple answers.
 ;Okay, those first few were softballs. What data do you collect?
-Okay, those first few were softballs. What data do you collect?
+W porjadku, tute prašenja su jednore byli. Kotre daty zběraće?
 
 
 # First URL links to https://www.mozilla.org/privacy/firefox/
 # Second URL links to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 ;Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
-Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
+Mozilla zběra po standardźe wobmjezowane mnóstwo datow z Firefrox, kotrež nam pomhaja, rozumić, kak ludźo wobhladowak wužiwaja. Tute daty su na připadnym identifikatorje zwjazane a nic z wašim mjenom abo e-mejlowej adresu. Móžeće na našej <a href="%(privacy)s">zdźělence priwatnosće</a> wjace wo tym čitać, a móžeće <a href="%(data)s">dospołnu dokumentaciju za zběranje datow</a> čitać.
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
-We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
+Naša dokumentacija je zjawna, zo by kóždy móhł přepruwować, hač to, štož prajimy, je wěrne, nam zdźělić, štož dyrbimy polěpšić a na to spušćić, zo ničo njezatajamy.
 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
 ;That documentation is gobbledygook to me! Can you give it to me in plain English?
-That documentation is gobbledygook to me! Can you give it to me in plain English?
+Rěč dokumentacija so mi kaž santrapantra zda! Móžeće mi to hornjoserbsce rozjasnić?
 
 
 ;There are two categories of data that we collect by default in our release version of Firefox.
-There are two categories of data that we collect by default in our release version of Firefox.
+Stej dwě kategoriji datow, kotrejž po standardźe w našej kónčnej wersiji Firefox zběramy.
 
 
 ;The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
-The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
+Prěnju mjenujemy „techniske daty“. To su daty wo wobhladowaku samym, kaž na přikład dźěłowy system, na kotrymž běži a informacije wo zmylkach abo spadach.
 
 
 ;The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.

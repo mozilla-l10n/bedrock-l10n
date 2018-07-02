@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo page is available at https://www-dev.allizom.org/privacy/faq/
 
 
@@ -121,65 +122,65 @@ In qualque modo. In addition al datos describite supra, nos recipe reportos de c
 
 # Links to https://support.mozilla.org/kb/shield
 ;We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
-We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
+Nos pote alsi colliger altere datos in le pre-edition pro uno del nostre <a href="%(link)s">studios</a>. Per exemplo, alcun studios require lo que nos appella “datos de activitate per web” datos, que pote includer URLs e altere informationes circa certe sitos web. Isto adjuta nos a responder a specific questiones pro meliorar Firefox, per exemplo, como melio integrar le sitos web popular in locales specific.
 
 
 ;Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
-Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
+Le versiones de pre-edition de Mozilla Firefox es platteformas de disveloppamento, frequentemente actualisate con functionalitates experimental. Nos collige plus datos in pre-edition de lo que nos face in le post edition, al fin de comprender como functiona iste functionalitates experimental. Tu pote refusar de haber colligite iste datos in tu optiones.
 
 
 ;But why do you collect any data at all?
-But why do you collect any data at all?
+Ma perque vos collige datos comocunque?
 
 
 ;If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
-If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
+Si nos non sape como le navigator forni su performances o que functionalitates usa le personas, nos non pote render lo melior e livrar le grande producto que tu desira. Nos ha investite in production de utensiles de collection e analysis de datos pro poter prender decisiones intelligente circa nostre producto, durante que nos respecta le confidentialitate del personas.
 
 
 ;Data collection still bugs me. Can I turn it off?
-Data collection still bugs me. Can I turn it off?
+Le collection de datos totevia me enoia. Pote io lo disactivar?
 
 
 # First URL links to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 # Second URL links to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
 ;Yes. User control is one of our data privacy principles. We put that into practice in Firefox on our <a href="%(settings)s">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in Firefox. You can <a href="%(data)s">turn off data collection</a> there.
-Yes. User control is one of our data privacy principles. We put that into practice in Firefox on our <a href="%(settings)s">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in Firefox. You can <a href="%(data)s">turn off data collection</a> there.
+Si. La controlo del usator es uno del nostre principios de confidentialitate del datos. Nos lo pone in practica in Firefox sur nostre <a href="%(settings)s">pagina del configurationes de confidentialitate </a>, que servi como un 'fenestra unic' pro quicunque cerca de prender controlo del su confidentialitate in Firefox. Tu pote <a href="%(data)s">disactivar le collection de datos</a> ci.
 
 
 ;What about my account data?
-What about my account data?
+E circa le datos de mi conto?
 
 
 ;We are big believers of data minimization and not asking for things we don't need.
-We are big believers of data minimization and not asking for things we don't need.
+Nos es grande credentes del minimisation de datos e nos non demanda pro cosas que nos non necessita.
 
 
 ;You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
-You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
+Tu non besonia de un conto pro usar Firefox. Le contos es requirite pro synchronisar datos trans apparatos, ma nos te demanda solo un adresse de email. Nos non desira saper cosas como tu nomine, adresse, anniversario e numero de telephono.
 
 
 ;You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
-You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
+Usa vos le publicitate digital como parte de vostre mixtura de marketing. Compra vos le datos del personas pro melio destinar vostre avisos publicitari online?
 
 
 ;No, we do not buy people's data to target advertising.
-No, we do not buy people's data to target advertising.
+No, nos non compra le datos del personas pro les colpar de publicitate.
 
 
 ;We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
-We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
+Nos demanda a nostre socios de publicitate de usar solo le datos del prime parte que le sitos web e le editores sape de tote le usatores, tal como le navigator e le apparato que tu usa.
 
 
 ;Well, it seems like you really have my back on this privacy stuff.
-Well, it seems like you really have my back on this privacy stuff.
+Bon, il pare que tu realmente me ha supportate sur iste problema del confidentialitate.
 
 
 ;Yes, we do.
-Yes, we do.
+Si, nos lo face.
 
 
 # Links to https://internethealthreport.org/
 ;Find out more about how Mozilla protects the internet.
-Find out more about how Mozilla protects the internet.
+Trova plus re como Mozilla protege internet.
 
 
