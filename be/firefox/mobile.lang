@@ -1,3 +1,7 @@
+## active ##
+## disconnect_link ##
+## focus_apk_link_012018 ##
+## headline_update_012018 ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/mobile/
 
 
@@ -38,7 +42,7 @@
 
 
 ;Full-featured. Customizable. Lightning fast. Browse without compromise.
-Full-featured. Customizable. Lightning fast. Browse without compromise.
+Поўнафункцыянальны. Уладкавальны. Бліскавічна хуткі. Аглядайце без кампрамісаў.
 
 
 # mobile devices, only the App/Play Store badges will be shown.
@@ -65,7 +69,7 @@ Firefox Focus {ok}
 
 
 ;The full-featured version of Firefox with robust customization and privacy options ready to go for mobile and tablet.
-The full-featured version of Firefox with robust customization and privacy options ready to go for mobile and tablet.
+Поўнафункцыянальная версія Firefox з шырокімі магчымасцямі ўладкавання і прыватнасці гатова да працы на смартфонах і планшэтах.
 
 
 ;Firefox mobile
@@ -126,7 +130,7 @@ iOS і Android
 
 # Links to https://disconnect.me/
 ;Built-in tracking protection and block lists provided by <a href="%(url)s">Disconnect</a>.
-Built-in tracking protection and block lists provided by <a href="%(url)s">Disconnect</a>.
+Убудаваная ахова ад сачэння і спісы блакавання, прадстаўленыя <a href="%(url)s">Disconnect</a>.
 
 
 ;Extensions & Customization
@@ -138,7 +142,7 @@ Built-in tracking protection and block lists provided by <a href="%(url)s">Disco
 
 
 ;Break out of the browser box. From emojis to productivity tools, personalize Firefox to suit your style.
-Break out of the browser box. From emojis to productivity tools, personalize Firefox to suit your style.
+Аглядайце нешаблонна. Ад эматыконаў да інструментаў прадукцыйнасці, дапасоўвайце Firefox да свайго стылю.
 
 
 ;Choose from thousands of tools like ad blockers, video downloaders and password managers.
@@ -170,11 +174,11 @@ Break out of the browser box. From emojis to productivity tools, personalize Fir
 
 
 ;Browse stress free. Powerful privacy features are always on and your browsing history is wiped after every session.
-Browse stress free. Powerful privacy features are always on and your browsing history is wiped after every session.
+Аглядайце без турбот. Магутныя функцыі прыватнасці заўжды ўключаны, а ваша гісторыя аглядання знікае пасля кожнага сеансу.
 
 
 ;Automatically blocks ads that have sneaky hidden trackers that collect data.
-Automatically blocks ads that have sneaky hidden trackers that collect data.
+Аўтаматычна блакуе рэкламу з прыхаванымі хітрымі элементамі сачэння, што збіраюць пра вас звесткі.
 
 
 ;One tap erases your cookies and browsing history.
@@ -190,11 +194,11 @@ Automatically blocks ads that have sneaky hidden trackers that collect data.
 
 
 ;Save your mobile memory for the memories. Firefox Focus takes up less selfie space on your phone.
-Save your mobile memory for the memories. Firefox Focus takes up less selfie space on your phone.
+Захавайце памяць вашага смартфона для ўспамінаў. Firefox Focus забірае менш месца ў сэлфі на тэлефоне.
 
 
 ;Small, yet powerful at less than 5MB.
-Small, yet powerful at less than 5MB.
+Малы, але магутны, пры менш за 5 МБ памяці.
 
 
 ;Send Firefox to your phone and unleash your internet.
@@ -206,7 +210,7 @@ Small, yet powerful at less than 5MB.
 
 
 ;Scan the QR code to get started.
-Scan the QR code to get started.
+Скануйце QR-код, каб пачаць.
 
 
 ;Download the APK
