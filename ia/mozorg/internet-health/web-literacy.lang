@@ -3,49 +3,49 @@
 
 # Used as HTML title of the page
 ;Web Literacy: Vital to Internet Health
-Web Literacy: Vital to Internet Health
+Alphabetisation de web: vital pro le salubritate de internet
 
 
 # Used as HTML description of the page
 ;Web literacy means having the skills to read, write, and participate online. A healthy internet is yours to master.
-Web literacy means having the skills to read, write, and participate online. A healthy internet is yours to master.
+Alphabetisation del web significa poter leger, scriber, e participar online. Un internet salubre es tue a dominar.
 
 
 # Used as Page Title
 ;A healthy Internet means everyone has the skills to thrive
-A healthy Internet means everyone has the skills to thrive
+Un internet salubre significa que omnes ha le habilitates pro prosperar
 
 
 ;People everywhere should have the knowledge they need to tap into the full power of the Internet – and use it to make their lives and the world better. This means everyone needs to be able to read, write, and participate online.
-People everywhere should have the knowledge they need to tap into the full power of the Internet – and use it to make their lives and the world better. This means everyone needs to be able to read, write, and participate online.
+Le personas de tote le mundo debe saper lo que illes besonia pro fruer del plen potentia de internet – e lo usar pro render melior lor vitas e le mundo. Isto significa que omnes necessita esser habile a leger, scriber, e participar online.
 
 
 ;A healthy Internet is yours to master.
-A healthy Internet is yours to master.
+Un internet salubre es tue a dominar.
 
 
 ;Here are three areas where we can make a difference.
-Here are three areas where we can make a difference.
+Ecce tres areas ubi nos pote facer le differentia.
 
 
 ;Making Web Literacy Meaningful
-Making Web Literacy Meaningful
+Render le alphabetisation de web significative
 
 
 ;Teaching Web Literacy Effectively
-Teaching Web Literacy Effectively
+Inseniar alphabetisation de web in modo efficace
 
 
 ;Cultivating Digital Citizenship
-Cultivating Digital Citizenship
+Cultivar le citatanitate digital
 
 
 ;Making Web literacy meaningful for everyone
-Making Web literacy meaningful for everyone
+Render le alphabetisation del web significative pro omnes
 
 
 ;Web literacy should mean all the skills we need to think, create, and thrive online.
-Web literacy should mean all the skills we need to think, create, and thrive online.
+Alphabetisation del web debe significar tote le habilitates nos besonia pro pensar, crear, e prosperar online.
 
 
 ;Many people hear the term Web literacy and think it means learning to code, or <abbr>STEM</abbr> (science, technology, engineering, math) education. But Web literacy is much broader than that – it should include all the skills to be confident and competent online. To be empowered digital citizens, we all need to know how to navigate, how to share, what information to trust, and most importantly, how to expand the frontiers of our knowledge.
@@ -57,20 +57,20 @@ Many people hear the term Web literacy and think it means learning to code, or <
 
 
 ;Source: <a href="%(stanford)s">Stanford University</a>
-Source: <a href="%(stanford)s">Stanford University</a>
+Fonte: <a href="%(stanford)s">Universitate de Stanford</a>
 
 
 # This is used as a decorative element in a callout box.
 ;82%
-82%
+82% {ok}
 
 
 ;How you can develop meaningful Web literacy
-How you can develop meaningful Web literacy
+Como pote tu disveloppar significative alphabetisation del web
 
 
 ;Learn to spot fake news
-Learn to spot fake news
+Apprende a individuar false novas
 
 
 # ifla.org refers to The International Federation of Library Associations and Institutions. Currently the site is available in English, German and Spanish.
@@ -147,7 +147,7 @@ Use <a href="%(activities)s">these activities and instructions</a> to help your 
 
 
 ;Ask for it
-Ask for it
+Demanda lo
 
 
 ;Tell your school – and those of your kids – that Web literacy is essential to education, and should go beyond having computers in the classroom.
@@ -192,7 +192,7 @@ Source: <a href="%(motherboard)s">Motherboard</a>
 
 # This is used as a decorative element in a callout box. Keep it short.
 ;750K
-750K
+750K {ok}
 
 
 ;How you can cultivate your digital citizenship
@@ -200,7 +200,7 @@ How you can cultivate your digital citizenship
 
 
 ;Get informed
-Get informed
+Informa te
 
 
 ;Which aspect of your online life matters most to you? <a href="%(privacy)s">Privacy</a>? Net neutrality? <a href="%(inclusion)s">Inclusion</a>? Learn about the issues, and find your own way to take action.
