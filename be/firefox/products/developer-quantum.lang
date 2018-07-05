@@ -1,3 +1,6 @@
+## active ##
+## ember_reference_fix ##
+## quantum-firstrun-whatsnew ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/developer/
 
 
@@ -44,12 +47,12 @@ Firefox быў цалкам перабудаваны, і цяпер ён хут�
 
 
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
-The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
+Новыя інструменты распрацоўшчыка Firefox магутныя, гнуткія і адкрытыя для змянення. Сярод іх - лепшы ў сваім класе адладчык JavaScript, збудаваны на React і Redux, здольны працаваць з рознымі браўзерамі.
 
 
 # String is obsolete. Do not remove.
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
-The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
+Новыя інструменты распрацоўшчыка Firefox магутныя, гнуткія і адкрытыя для змянення. Сярод іх - лепшы ў сваім класе адладчык JavaScript, збудаваны на React і Ember, здольны працаваць з рознымі браўзерамі.
 
 
 ;Innovative Features
@@ -66,7 +69,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
-Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
+Firefox - гэта адзіны браўзер з інструментамі, створанымі адмыслова для распрацоўкі і дызайну з дапамогай CSS-сеткі. Гэтыя інструменты дазваляюць візуалізаваць сетку, паказваць звязаныя назвы абшараў, папярэдне праглядаць трансфармацыі на сетцы, і шмат іншага.
 
 
 ;Design. Code. Test. Refine.
@@ -75,7 +78,7 @@ Firefox is the only browser with tools built specifically for building and desig
 
 # line break for visual formatting
 ;Build and Perfect your sites<br> with Firefox DevTools
-Build and Perfect your sites<br> with Firefox DevTools
+Будуйце і паляпшайце свае сайты<br> інструментамі распрацоўшчыка Firefox
 
 
 ;Inspector
@@ -266,7 +269,7 @@ Build and Perfect your sites<br> with Firefox DevTools
 
 # First run page at https://www.mozilla.org/firefox/57.0a2/firstrun/
 ;Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
-Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
+Firefox Developer Edition - неверагодна хуткі браўзер, які прадстаўляе перадавыя інструменты распрацоўкі і найноўшыя магчымасці, такія як падтрымка CSS-сеткі і адладка фрэймворкаў
 
 
 ;Welcome to the all-new Firefox Quantum: Developer Edition
@@ -274,7 +277,7 @@ Firefox Developer Edition is the blazing fast browser that offers cutting edge d
 
 
 ;Firefox has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
-Firefox has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
+Firefox быў поўнасцю перабудаваны, каб быць хутчэйшым, лягчэйшым і магутнейшым, чымсьці калі-небудзь.
 
 
 ;Firefox Devtools
@@ -291,11 +294,11 @@ CSS-рухавік новага пакалення
 
 
 ;A Next-Generation CSS Engine (hint: it’s fast)
-A Next-Generation CSS Engine (hint: it’s fast)
+CSS-рухавік новага пакалення (ён хуткі)
 
 
 ;Firefox Quantum includes a new CSS engine, written in Rust, that has state-of-the-art innovations and is blazingly fast.
-Firefox Quantum includes a new CSS engine, written in Rust, that has state-of-the-art innovations and is blazingly fast.
+Firefox Quantum уключае новы CSS-рухавік, напісаны на мове Rust, які мае сучасныя інавацыі, і неверагодна хуткі.
 
 
 # What's new run page at https://www.mozilla.org/firefox/57.0a2/whatsnew/
@@ -312,6 +315,6 @@ Firefox Nightly абнаўляцца штодня і дае вам доступ 
 
 
 ;This isn’t just an update. This is Firefox Quantum: A brand new Firefox that has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
-This isn’t just an update. This is Firefox Quantum: A brand new Firefox that has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
+Гэта не проста абнаўленне. Гэта Firefox Quantum: абсалютна новы Firefox, які быў поўнасцю перабудаваны, каб быць хутчэйшым, лягчэйшым і магутнейшым, чымсьці калі-небудзь.
 
 
