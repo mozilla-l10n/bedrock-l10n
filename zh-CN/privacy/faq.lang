@@ -26,7 +26,7 @@ It can be tricky for people to know what to expect of any software or services t
 
 # Links to https://www.mozilla.org/privacy/principles/
 ;We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our approach to privacy in the Firefox desktop and mobile browsers.
-We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our approach to privacy in the Firefox desktop and mobile browsers.
+我们遵循一系列<a href="%(link)s">数据隐私原则</a>，这些原则塑造了我们在 Firefox 桌面和移动浏览器中保护隐私的方法。
 
 
 ;We only collect the data we need to make the best products.
@@ -42,36 +42,36 @@ We adhere to “no surprises” principle, meaning we work hard to ensure people
 
 
 ;The following questions and answers should help you understand what to expect from Mozilla and Firefox:
-The following questions and answers should help you understand what to expect from Mozilla and Firefox:
+以下问题和答案应该有助于你理解 Mozilla 和 Firefox 的想法：
 
 
 ;I use Firefox for almost everything on the Web. You folks at Mozilla must know a ton of stuff about me, right?
-I use Firefox for almost everything on the Web. You folks at Mozilla must know a ton of stuff about me, right?
+我在网络上几乎只使用 Firefox。 你们 Mozilla 肯定知道大量关于我的资料，对吧？
 
 
 ;Firefox, the web browser that runs on your device or computer, is your gateway to the internet. Your browser will manage a lot of information about the websites you visit, but that information stays on your device. Mozilla, the company that makes Firefox, doesn’t collect it (unless you ask us to).
-Firefox, the web browser that runs on your device or computer, is your gateway to the internet. Your browser will manage a lot of information about the websites you visit, but that information stays on your device. Mozilla, the company that makes Firefox, doesn’t collect it (unless you ask us to).
+Firefox 作为您的设备或计算机上运行的 Web 浏览器，是您通往互联网的门户。您的浏览器将管理大量关于您访问的网站的信息，但这些信息只会保留在您的设备上。 开发 Firefox 的公司 Mozilla 不会收集这些数据（除非为遵循您的要求）。
 
 
 ;Really, you don’t collect my browsing history?
-Really, you don’t collect my browsing history?
+你们真的不收集我的浏览记录？
 
 
 # Links to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 ;Mozilla doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, such as <a href="%(link)s">Firefox Pioneer</a>, which allows interested users to give us insight into their web browsing. If you sync your browsing history across Firefox installations, we don’t know what that history is - because it’s encrypted by your device.
-Mozilla doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, such as <a href="%(link)s">Firefox Pioneer</a>, which allows interested users to give us insight into their web browsing. If you sync your browsing history across Firefox installations, we don’t know what that history is - because it’s encrypted by your device.
+Mozilla 并不像您想的那样了解人们如何浏览网页。作为一家浏览器开发商，这对我们来说实际上是一个巨大的挑战。这就是我们开发有选择加入工具（例如 <a href="%(link)s">Firefox Pioneer</a>）的原因。这使得感兴趣的用户能够让我们深入了解他们的网页浏览习惯。此外，即便您选择在 Firefox 间同步浏览历史记录，我们也不会看到您的记录—因为记录是在您的设备上加密的。
 
 
 ;It seems like every company on the web is buying and selling my data. You’re probably no different.
-It seems like every company on the web is buying and selling my data. You’re probably no different.
+似乎每个公司都在购买和出售我的数据。你们可能也这样。
 
 
 ;Mozilla doesn’t sell data about you, and we don’t buy data about you.
-Mozilla doesn’t sell data about you, and we don’t buy data about you.
+Mozilla 不会出售您的数据，我们也不会购买您的数据。
 
 
 ;Wait, so how do you make money?
-Wait, so how do you make money?
+等等，那你们这样要如何赚钱呢？
 
 
 # Links to https://www.mozilla.org/foundation/annualreport/
@@ -81,69 +81,69 @@ Mozilla is not your average organization. Founded as a community open source pro
 
 # "Softballs" here means questions requiring only easy or simple answers.
 ;Okay, those first few were softballs. What data do you collect?
-Okay, those first few were softballs. What data do you collect?
+好吧，说重点。你们收集了哪些数据？
 
 
 # First URL links to https://www.mozilla.org/privacy/firefox/
 # Second URL links to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 ;Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
-Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
+默认情况下，Mozilla 的确从 Firefox 收集一组有限的数据，这有助于我们了解人们如何使用浏览器。该数据与随机标识符绑定，而不是您的姓名或电子邮件地址。您可以阅读我们的<a href="%(privacy)s">隐私声明</a>，或<a href="%(data)s">数据收集的完整文档</a>。
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
-We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
+我们公开我们的文档，任何人都可以验证我们所说真实与否、向我们提出改进建议，并确信我们没有隐瞒任何东西。
 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
 ;That documentation is gobbledygook to me! Can you give it to me in plain English?
-That documentation is gobbledygook to me! Can you give it to me in plain English?
+那个文档对我来说是天书！你们能直白些解释给我吗？
 
 
 ;There are two categories of data that we collect by default in our release version of Firefox.
-There are two categories of data that we collect by default in our release version of Firefox.
+默认情况下，我们在 Firefox 的正式版本中收集了两类数据。
 
 
 ;The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
-The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
+第一类是我们所说的“技术数据”。这是关于浏览器本身的数据，例如它运行在什么操作系统上，以及有关错误或崩溃的信息。
 
 
 ;The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
-The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
+第二类是我们所说的“交互数据”。这是关于个人与 Firefox 的交互情况的数据，例如打开的标签页数量，用户偏好设置状态或某些浏览器功能的使用次数，如屏幕截图或身份标签页。 例如，就我们收集后退按钮的数据而言（即浏览器左上角可让您回到之前浏览的网页的箭头），我们可以以某种形式看到有人点击了后退按钮，但不会知道用户访问了哪些特定网页。
 
 
 ;Do you collect more data in pre-release versions of Firefox?
-Do you collect more data in pre-release versions of Firefox?
+你们是否在 Firefox 的预发布版本中收集了更多数据？
 
 
 ;Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
-Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
+稍多一点。除上述数据外，我们还会在 Firefox 的预发布版本中默认收集崩溃和错误报告。
 
 
 # Links to https://support.mozilla.org/kb/shield
 ;We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
-We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
+我们还可能为某一<a href="%(link)s">实验</a>在预发布版本中收集额外的数据。例如，一些实验需要我们称之为“网络活动数据”的数据，其中可能包括有关某些网站的 URL 和其他信息。这有助于我们解决改进 Firefox 的特定问题，例如，如何更好地整合特定区域中的热门网站。
 
 
 ;Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
-Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
+Mozilla 的 Firefox 预发布版本是开发平台，经常更新实验性功能。我们在预发布版本收集的数据比正式版更多，以便了解这些实验功能的工作原理。您可以在偏好设置中选择不收集这些数据。
 
 
 ;But why do you collect any data at all?
-But why do you collect any data at all?
+但你们为什么要收集一些数据呢？
 
 
 ;If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
-If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
+如果我们不知道浏览器的性能如何或人们使用哪些功能，我们将无法让它变得更好，也无法提供您想要的优秀产品。我们投资建设数据收集和分析工具，使我们能够在尊重人们隐私的同时对我们的产品做出明智的决策。
 
 
 ;Data collection still bugs me. Can I turn it off?
-Data collection still bugs me. Can I turn it off?
+数据收集仍让我感到不安。我可以关闭它吗？
 
 
 # First URL links to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 # Second URL links to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
 ;Yes. User control is one of our data privacy principles. We put that into practice in Firefox on our <a href="%(settings)s">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in Firefox. You can <a href="%(data)s">turn off data collection</a> there.
-Yes. User control is one of our data privacy principles. We put that into practice in Firefox on our <a href="%(settings)s">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in Firefox. You can <a href="%(data)s">turn off data collection</a> there.
+是的。用户控制是我们的数据隐私原则之一。我们将这部分实现在<a href="%(settings)s">隐私设置页面</a>，该页面可为想要控制 Firefox 隐私的任何人提供一站式服务。您可以在那里<a href="%(data)s">关闭数据收集</a>。
 
 
 ;What about my account data?
@@ -151,35 +151,35 @@ Yes. User control is one of our data privacy principles. We put that into practi
 
 
 ;We are big believers of data minimization and not asking for things we don't need.
-We are big believers of data minimization and not asking for things we don't need.
+我们坚信数据最简化原则，绝不索取我们不需要的东西。
 
 
 ;You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
-You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
+您无需账户即可使用 Firefox。在跨设备同步数据时才需要账户，但我们只会要求您提供电子邮件地址。我们并不想知道您的姓名、地址、生日和电话号码等内容。
 
 
 ;You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
-You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
+你们使用数字广告作为你们营销组合的一部分。你们是否购买了人们的数据以更好地投放你们在线广告？
 
 
 ;No, we do not buy people's data to target advertising.
-No, we do not buy people's data to target advertising.
+不，我们不会购买人们的数据来投放广告。
 
 
 ;We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
-We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
+我们要求我们的广告合作伙伴仅使用网站和发布商了解所有用户的第一方数据，例如您使用的浏览器和您所在的设备。
 
 
 ;Well, it seems like you really have my back on this privacy stuff.
-Well, it seems like you really have my back on this privacy stuff.
+嗯，看起来你们在隐私方面真的很支持我。
 
 
 ;Yes, we do.
-Yes, we do.
+是的，我们说到做到。
 
 
 # Links to https://internethealthreport.org/
 ;Find out more about how Mozilla protects the internet.
-Find out more about how Mozilla protects the internet.
+深入了解 Mozilla 如何保护互联网。
 
 
