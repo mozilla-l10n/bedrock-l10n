@@ -8,11 +8,11 @@ Mozilla’s Data Privacy FAQ
 
 # HTML page description
 ;At Mozilla we respect and protect your personal information.
-At Mozilla we respect and protect your personal information.
+In Mozilla rispettiamo e proteggiamo i tuoi dati personali.
 
 
 ;We Stand for People Over Profit.
-We Stand for People Over Profit.
+Noi mettiamo le persone prima del profitto.
 
 
 # "Under the hood" is an expression in automobile industry. Here it is a metaphor about something that exists but out of sight, behind the scenes.
@@ -21,7 +21,7 @@ It can be tricky for people to know what to expect of any software or services t
 
 
 ;At Mozilla, we respect and protect your personal information:
-At Mozilla, we respect and protect your personal information:
+In Mozilla rispettiamo e proteggiamo i tuoi dati personali:
 
 
 # Links to https://www.mozilla.org/privacy/principles/
@@ -30,11 +30,11 @@ We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our
 
 
 ;We only collect the data we need to make the best products.
-We only collect the data we need to make the best products.
+Raccogliamo solo i dati necessari per creare i prodotti migliori.
 
 
 ;We put people in control of their data and online experiences.
-We put people in control of their data and online experiences.
+Mettiamo le persone in condizione di controllare i propri dati e la propria esperienza online.
 
 
 ;We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
@@ -54,7 +54,7 @@ Firefox, the web browser that runs on your device or computer, is your gateway t
 
 
 ;Really, you don’t collect my browsing history?
-Really, you don’t collect my browsing history?
+Veramente non raccogliete informazioni sulla mia cronologia di navigazione?
 
 
 # Links to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
@@ -67,11 +67,11 @@ It seems like every company on the web is buying and selling my data. You’re p
 
 
 ;Mozilla doesn’t sell data about you, and we don’t buy data about you.
-Mozilla doesn’t sell data about you, and we don’t buy data about you.
+Mozilla non vede le tue informazioni, e non compriamo dati su di te.
 
 
 ;Wait, so how do you make money?
-Wait, so how do you make money?
+Un momento, allora come fate i soldi?
 
 
 # Links to https://www.mozilla.org/foundation/annualreport/
@@ -81,7 +81,7 @@ Mozilla is not your average organization. Founded as a community open source pro
 
 # "Softballs" here means questions requiring only easy or simple answers.
 ;Okay, those first few were softballs. What data do you collect?
-Okay, those first few were softballs. What data do you collect?
+Va bene, ma in breve che dati raccogliete?
 
 
 # First URL links to https://www.mozilla.org/privacy/firefox/
@@ -96,7 +96,7 @@ We make our documentation public so that anyone can verify what we say is true, 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
 ;That documentation is gobbledygook to me! Can you give it to me in plain English?
-That documentation is gobbledygook to me! Can you give it to me in plain English?
+Quella documentazione è incomprensibile per me, puoi spiegarmi con parole più semplici?
 
 
 ;There are two categories of data that we collect by default in our release version of Firefox.
