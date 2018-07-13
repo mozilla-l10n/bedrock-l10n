@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo page is available at https://www-dev.allizom.org/privacy/faq/
 
 
@@ -17,7 +18,7 @@ Az embereket a profit elé helyezzük.
 
 # "Under the hood" is an expression in automobile industry. Here it is a metaphor about something that exists but out of sight, behind the scenes.
 ;It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
-It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
+Az emberek számára bonyolult megtudni, hogy mit is várhatnak egy ma használt szoftvertől vagy szolgáltatástól. A technológia, ami az életünket vezérli összetett, és az embereknek nincs idejük a részletekbe merülni. Ez a Firefoxra is igaz, ahogy úgy találjuk, hogy az embereknek számos különböző ötletük van arra, hogy mi is történik a motorháztető alatt.
 
 
 ;At Mozilla, we respect and protect your personal information:
@@ -26,7 +27,7 @@ A Mozillánál tiszteletben tartjuk és védjük a személyes információit:
 
 # Links to https://www.mozilla.org/privacy/principles/
 ;We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our approach to privacy in the Firefox desktop and mobile browsers.
-We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our approach to privacy in the Firefox desktop and mobile browsers.
+Az <a href="%(link)s">Adatvédelmi irányelveinket</a> követjük, melyek alakítják az adatvédelmi hozzáállásunk az asztali és mobil Firefox böngészőkben.
 
 
 ;We only collect the data we need to make the best products.
@@ -34,23 +35,23 @@ Csak a lehető legjobb termékek készítéséhez szükséges adatokat gyűjtjü
 
 
 ;We put people in control of their data and online experiences.
-We put people in control of their data and online experiences.
+Az emberek kezébe adjuk az irányítást az adataik és az online élményeik felett.
 
 
 ;We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
-We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
+A „nincsenek meglepetések” elvet követjük, ami azt jelenti, hogy keményen dolgozunk azon, hogy az emberek Firefoxról alkotott képe megegyezzen a valósággal.
 
 
 ;The following questions and answers should help you understand what to expect from Mozilla and Firefox:
-The following questions and answers should help you understand what to expect from Mozilla and Firefox:
+A következő kérdések és válaszok segítenek megérteni, hogy mit várhat a Mozillától és a Firefoxtól:
 
 
 ;I use Firefox for almost everything on the Web. You folks at Mozilla must know a ton of stuff about me, right?
-I use Firefox for almost everything on the Web. You folks at Mozilla must know a ton of stuff about me, right?
+Szinte mindenre a Firefoxot használom a Weben. Ti ott a Mozillánál biztos sok mindent tudtok rólam, ugye?
 
 
 ;Firefox, the web browser that runs on your device or computer, is your gateway to the internet. Your browser will manage a lot of information about the websites you visit, but that information stays on your device. Mozilla, the company that makes Firefox, doesn’t collect it (unless you ask us to).
-Firefox, the web browser that runs on your device or computer, is your gateway to the internet. Your browser will manage a lot of information about the websites you visit, but that information stays on your device. Mozilla, the company that makes Firefox, doesn’t collect it (unless you ask us to).
+A Firefox, a webböngésző, amely az eszközén vagy számítógépén fut, átjáró az internethez. A böngészője számos információt kezel a felkeresett weboldalakról, de ez az információ az Ön eszközén marad. A Mozilla, a Firefoxot készítő vállalat, nem gyűjti azokat (kivéve, ha Ön kéri).
 
 
 ;Really, you don’t collect my browsing history?
@@ -71,32 +72,32 @@ A Mozilla nem adja el az Ön adatait, és nem is veszünk adatokat Önről.
 
 
 ;Wait, so how do you make money?
-Várjunk, akkor hogyan csinálnak pénzt?
+Várjunk, akkor hogyan csináltok pénzt?
 
 
 # Links to https://www.mozilla.org/foundation/annualreport/
 ;Mozilla is not your average organization. Founded as a community open source project in 1998, Mozilla is a mission-driven organization working towards a more healthy internet. The majority of Mozilla Corporation’s revenue is from royalties earned through Firefox web browser search partnerships and distribution deals around the world. You can learn more about how we make money in our <a href="%(link)s">annual financial report</a>.
-A Mozilla nem egy átlagos szervezet. Közösségi nyílt forráskódú projektként van finanszírozva 1998 óta, a Mozilla egy küldetés-vezérelt szervezet, amely az egészségesebb internetért dolgozik. A Mozilla Corporation bevételének túlnyomó része a Firefox webböngésző keresési partnerségéből származó jogdíjakból, valamint disztribúciós üzletekből származik. Az <a href="%(link)s">éves pénzügyi jelentésünkből</a> többet tudhat meg arról, hogyan keresünk pénzt.
+A Mozilla nem egy átlagos szervezet. Közösségi nyílt forráskódú projektként finanszírozott 1998 óta, a Mozilla egy küldetés-vezérelt szervezet, amely az egészségesebb internetért dolgozik. A Mozilla Corporation bevételének túlnyomó része a Firefox webböngésző keresési partnerségéből származó jogdíjakból, valamint disztribúciós üzletekből származik. Az <a href="%(link)s">éves pénzügyi jelentésünkből</a> többet tudhat meg arról, hogyan keresünk pénzt.
 
 
 # "Softballs" here means questions requiring only easy or simple answers.
 ;Okay, those first few were softballs. What data do you collect?
-Rendben, ezek voltak a könnyű esetek. Milyen adatokat gyűjtenek?
+Rendben, ezek voltak a könnyű esetek. Milyen adatokat gyűjtötök?
 
 
 # First URL links to https://www.mozilla.org/privacy/firefox/
 # Second URL links to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 ;Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
-Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
+A Mozilla alapértelmezés szerint nagyon korlátozott adatkészletet gyűjt a Firefoxból, melyek segítenek minket megérteni, hogyan használják az emberek a böngészőt. Ezek az adatok egy véletlenszerű azonosítóhoz rendeltek, nem névhez vagy e-mail címhez. Többet olvashat erről az <a href="%(privacy)s">adatvédelmi nyilatkozatban</a>, és olvashatja az <a href="%(data)s">adatgyűjtés teljes dokumentációját is</a>.
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
-We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
+A dokumentációnkat nyilvánossá tesszük, így bárki ellenőrizheti, hogy igaz amit mondunk; mondja el ha fejlesztenünk kell, és győződjön meg róla, hogy nem rejtegetünk semmit.
 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
 ;That documentation is gobbledygook to me! Can you give it to me in plain English?
-A dokumentáció számomra halandzsa. El tudják mondani egyszerűen?
+A dokumentáció számomra halandzsa. El tudjátok mondani egyszerűen?
 
 
 ;There are two categories of data that we collect by default in our release version of Firefox.
@@ -112,7 +113,7 @@ A második kategória az „interakciós adatok”. Ez egy személy Firefoxszal 
 
 
 ;Do you collect more data in pre-release versions of Firefox?
-Több adatot gyűjtenek a Firefox előzetes kiadású verzióiban?
+Több adatot gyűjtötök a Firefox előzetes kiadású verzióiban?
 
 
 ;Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
@@ -121,19 +122,19 @@ Mondhatni igen. A fent leírt adatok mellett az összeomlási és hibajelentése
 
 # Links to https://support.mozilla.org/kb/shield
 ;We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
-We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
+További kiadási előtti információkat is gyűjthetünk a <a href="%(link)s">tanulmányainkhoz</a>. Például, néhány tanulmányhoz „webes tevékenységadatokra” van szükségünk, amelyek URL-eket és más információkat tartalmazhatnak bizonyos weboldalakról. Ez segít nekünk a Firefox fejlesztését érintő konkrét kérdések megválaszolásában, például abban, hogyan intergrálhatunk jobban népszerű weboldalakat bizonyos területi beállítások esetén.
 
 
 ;Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
-Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
+A Mozilla Firefox előzetes kiadású verziói fejlesztői platformok, gyakran frissülnek kísérleti funkciókkal. Több adatot gyűjtünk a kiadás előtti verziókban, mint a kiadás utániakban, hogy jobban megértsük hogy működnek ezek a kísérleti funkciók. Ezt az adatgyűjtést kikapcsolhatja a beállításokban.
 
 
 ;But why do you collect any data at all?
-De egyáltalán miért gyűjtenek adatokat?
+De egyáltalán miért gyűjtötök adatokat?
 
 
 ;If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
-If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
+Ha nem tudjuk hogyan teljesít a böngésző, és mely funkciókat használják az emberek, akkor nem tudunk rajta javítani sem, és nem tudunk egy olyan nagyszerű terméket szállítani, amelyet szeretne. Sokat fektettünk bele olyan adatgyűjtő- és elemzőeszközök készítésébe, amelyekkel okos döntést hozhatunk a termékről, miközben tiszteletben tartjuk az emberek adatvédelmét.
 
 
 ;Data collection still bugs me. Can I turn it off?
@@ -143,7 +144,7 @@ Az adatgyűjtés így is zavar. Kikapcsolhatom?
 # First URL links to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 # Second URL links to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
 ;Yes. User control is one of our data privacy principles. We put that into practice in Firefox on our <a href="%(settings)s">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in Firefox. You can <a href="%(data)s">turn off data collection</a> there.
-Igen. A felhasználói irányítása az egyik adatvédelmi irányelvünk. Ez a Firefox <a href="%(settings)s">adatvédelmi beállítások oldalán</a> ültetjük a gyakorlatba, mely minden adatvédelmi beállítást tartalmaz azok számára, akik a saját kezükbe vennék az adatvédelmük irányítását a Firefoxban. Ott <a href="%(data)s">kikapcsolhatja az adatgyűjtést</a>.
+Igen. A felhasználói irányítás az egyik adatvédelmi irányelvünk. Ezt a Firefox <a href="%(settings)s">adatvédelmi beállítások oldalán</a> ültetjük a gyakorlatba, mely minden adatvédelmi beállítást tartalmaz azok számára, akik a saját kezükbe vennék az adatvédelmük irányítását a Firefoxban. Ott <a href="%(data)s">kikapcsolhatja az adatgyűjtést</a>.
 
 
 ;What about my account data?
