@@ -3,42 +3,42 @@
 
 # HTML page title
 ;Mozilla’s Data Privacy FAQ
-Mozilla’s Data Privacy FAQ
+FAQ de Mozilla sur la protection des informations personnelles
 
 
 # HTML page description
 ;At Mozilla we respect and protect your personal information.
-At Mozilla we respect and protect your personal information.
+Chez Mozilla, nous respectons et protégeons vos informations personnelles.
 
 
 ;We Stand for People Over Profit.
-We Stand for People Over Profit.
+Pour nous, les gens sont plus importants que l’argent.
 
 
 # "Under the hood" is an expression in automobile industry. Here it is a metaphor about something that exists but out of sight, behind the scenes.
 ;It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
-It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
+Il peut être difficile de savoir à quoi s’attendre des logiciels ou des services utilisés de nos jours. Les technologies qui alimentent notre vie sont complexes et personne n’a le temps de les analyser en détail. Ce constat est d’ailleurs vrai pour Firefox, nous savons que certaines personnes comprennent le fonctionnement de leur navigateur de manière différente.
 
 
 ;At Mozilla, we respect and protect your personal information:
-At Mozilla, we respect and protect your personal information:
+Chez Mozilla, nous respectons et protégeons vos informations personnelles :
 
 
 # Links to https://www.mozilla.org/privacy/principles/
 ;We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our approach to privacy in the Firefox desktop and mobile browsers.
-We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our approach to privacy in the Firefox desktop and mobile browsers.
+Nous suivons une série de <a href="%(link)s">Principes de protection des informations personnelles</a> qui orientent notre approche en ce qui concerne la vie privée dans le cadre de l’utilisation des navigateurs Firefox pour les appareils mobiles et pour les ordinateurs de bureau.
 
 
 ;We only collect the data we need to make the best products.
-We only collect the data we need to make the best products.
+Nous collectons seulement les données qui sont nécessaires pour élaborer des logiciels de toute première qualité.
 
 
 ;We put people in control of their data and online experiences.
-We put people in control of their data and online experiences.
+Nous donnons aux utilisateurs et aux utilisatrices le contrôle de leur vie numérique et du partage de leurs données.
 
 
 ;We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
-We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
+Nous adhérons au principe « Aucune surprise ». Notre travail consiste donc à faire en sorte que la perception que les gens ont de Firefox colle à la réalité.
 
 
 ;The following questions and answers should help you understand what to expect from Mozilla and Firefox:
