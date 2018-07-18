@@ -1,3 +1,7 @@
+## active ##
+## disconnect_link ##
+## focus_apk_link_012018 ##
+## headline_update_012018 ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/mobile/
 
 
@@ -105,11 +109,11 @@ iOS και Android
 
 
 ;Easy access to your favorite bookmarks, saved passwords, browsing history and more.
-Easy access to your favorite bookmarks, saved passwords, browsing history and more.
+Εύκολη πρόσβαση σε σελιδοδείκτες, κωδικούς πρόσβασης, ιστορικό περιήγησης και άλλα.
 
 
 ;Send Tabs easily lets you share open tabs between mobile and desktop.
-Send Tabs easily lets you share open tabs between mobile and desktop.
+Μοιραστείτε ανοικτές καρτέλες σε όλες τις συσκευές με την "Αποστολή καρτελών".
 
 
 ;Control what you share online with the most powerful Private Browsing mode with added Tracking Protection.
@@ -117,20 +121,20 @@ Send Tabs easily lets you share open tabs between mobile and desktop.
 
 
 ;Stops ads that track and follow you around the Internet.
-Stops ads that track and follow you around the Internet.
+Διακοπή διαφημίσεων που σάς ακολουθούν στο διαδίκτυο.
 
 
 ;Won’t remember your browsing history or save cookies after you’re done.
-Won’t remember your browsing history or save cookies after you’re done.
+Διαγραφή του ιστορικού περιήγησης και των cookies μόλις τελειώσετε.
 
 
 # Links to https://disconnect.me/
 ;Built-in tracking protection and block lists provided by <a href="%(url)s">Disconnect</a>.
-Built-in tracking protection and block lists provided by <a href="%(url)s">Disconnect</a>.
+Η προστασία από καταγραφή και οι λίστες φραγής παρέχονται από το <a href="%(url)s">Disconnect</a>.
 
 
 ;Extensions & Customization
-Επεκτάσεις & Εξατομίκευση
+Επεκτάσεις & εξατομίκευση
 
 
 ;Android only
@@ -138,11 +142,11 @@ Built-in tracking protection and block lists provided by <a href="%(url)s">Disco
 
 
 ;Break out of the browser box. From emojis to productivity tools, personalize Firefox to suit your style.
-Break out of the browser box. From emojis to productivity tools, personalize Firefox to suit your style.
+Ξεφύγετε από τα συνηθισμένα. Από emojis μέχρι παραγωγικά εργαλεία, εξατομικεύστε το Firefox σύμφωνα με το στυλ σας.
 
 
 ;Choose from thousands of tools like ad blockers, video downloaders and password managers.
-Choose from thousands of tools like ad blockers, video downloaders and password managers.
+Χιλιάδες επιλογές για φραγή διαφημίσεων, λήψη βίντεο, διαχείριση συνθηματικών και άλλα.
 
 
 ;Themes
@@ -150,11 +154,11 @@ Choose from thousands of tools like ad blockers, video downloaders and password 
 
 
 ;Match Firefox to your mood. Get a new look from our theme categories or create your own.
-Match Firefox to your mood. Get a new look from our theme categories or create your own.
+Ταιριάξτε το Firefox με τη διάθεσή σας. Επιλέξτε ένα θέμα από τις κατηγορίες μας ή δημιουργήστε το δικό σας.
 
 
 ;Blocks ads with trackers. Automatically. Plus, it can even speed up page loading. Get the private browser that has your back.
-Blocks ads with trackers. Automatically. Plus, it can even speed up page loading. Get the private browser that has your back.
+Αυτόματη φραγή διαφημίσεων με ιχνηλάτες και επιτάχυνση φόρτωσης σελίδων σ' ένα ιδιωτικό πρόγραμμα περιήγησης.
 
 
 ;Automatic Privacy
@@ -170,11 +174,11 @@ Blocks ads with trackers. Automatically. Plus, it can even speed up page loading
 
 
 ;Browse stress free. Powerful privacy features are always on and your browsing history is wiped after every session.
-Browse stress free. Powerful privacy features are always on and your browsing history is wiped after every session.
+Περιήγηση χωρίς άγχος. Οι ισχυρές λειτουργίες απορρήτου είναι πάντα ενεργές και το ιστορικό περιήγησης διαγράφεται μετά από κάθε συνεδρία.
 
 
 ;Automatically blocks ads that have sneaky hidden trackers that collect data.
-Automatically blocks ads that have sneaky hidden trackers that collect data.
+Φραγή διαφημίσεων που κρύβουν ιχνηλάτες για συλλογή δεδομένων.
 
 
 ;One tap erases your cookies and browsing history.
@@ -182,7 +186,7 @@ Automatically blocks ads that have sneaky hidden trackers that collect data.
 
 
 ;Get more done. By blocking some ads and scripts, Tracking Protection can speed up your browsing.
-Get more done. By blocking some ads and scripts, Tracking Protection can speed up your browsing.
+Κάντε περισσότερα. Με τη φραγή διαφημίσεων και σεναρίων, επιταχύνεται η περιήγησή σας.
 
 
 ;Fewer elements can mean faster loading pages.
@@ -190,7 +194,7 @@ Get more done. By blocking some ads and scripts, Tracking Protection can speed u
 
 
 ;Save your mobile memory for the memories. Firefox Focus takes up less selfie space on your phone.
-Save your mobile memory for the memories. Firefox Focus takes up less selfie space on your phone.
+Εξοικονομήστε χώρο για τις αναμνήσεις σας. Το Firefox Focus καταλαμβάνει πολύ λιγότερη μνήμη.
 
 
 ;Small, yet powerful at less than 5MB.
