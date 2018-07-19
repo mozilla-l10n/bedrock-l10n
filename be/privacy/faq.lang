@@ -1,9 +1,10 @@
+## active ##
 ## NOTE: demo page is available at https://www-dev.allizom.org/privacy/faq/
 
 
 # HTML page title
 ;Mozilla’s Data Privacy FAQ
-Mozilla’s Data Privacy FAQ
+Частыя пытанні Mozilla аб прыватнасці звестак
 
 
 # HTML page description
@@ -17,7 +18,7 @@ Mozilla’s Data Privacy FAQ
 
 # "Under the hood" is an expression in automobile industry. Here it is a metaphor about something that exists but out of sight, behind the scenes.
 ;It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
-It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
+Ведаць, што чакаць ад праграм і сэрвісаў, якімі яны карыстаюцца сёння, людзям можа быць няпроста. Тэхналогіі, што паляпшаюць наша жыццё, складаныя, а людзям не стае часу паглыбляцца ў дэталі. Гэта справядліва і для Firefox, і мы бачым, што людзі маюць шмат розных версій аб тым, што адбываецца пад капотам іхняга браўзера.
 
 
 ;At Mozilla, we respect and protect your personal information:
@@ -34,11 +35,11 @@ It can be tricky for people to know what to expect of any software or services t
 
 
 ;We put people in control of their data and online experiences.
-We put people in control of their data and online experiences.
+Мы перадаём людзям кантроль над іхнімі звесткамі і сеціўным досведам.
 
 
 ;We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
-We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
+Мы прытрымліваемся прынцыпу “не здзіўлення”, што азначае, што мы ўпарта працуем над тым, каб разуменне Firefox адпавядала рэчаіснасці.
 
 
 ;The following questions and answers should help you understand what to expect from Mozilla and Firefox:
@@ -59,11 +60,11 @@ Firefox, вэб-браўзер, які вы запускаеце на сваёй
 
 # Links to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 ;Mozilla doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, such as <a href="%(link)s">Firefox Pioneer</a>, which allows interested users to give us insight into their web browsing. If you sync your browsing history across Firefox installations, we don’t know what that history is - because it’s encrypted by your device.
-Mozilla doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, such as <a href="%(link)s">Firefox Pioneer</a>, which allows interested users to give us insight into their web browsing. If you sync your browsing history across Firefox installations, we don’t know what that history is - because it’s encrypted by your device.
+Mozilla не ведае аб тым, як людзі аглядаюць сеціва, так шмат, як вы маглі б чакаць. Для нас, стваральніка браўзера, гэта сапраўднае выпрабаванне. Вось чаму мы зрабілі неабавязковыя прылады, такія як <a href="%(link)s">Firefox Pioneer</a>, што дазваляюць зацікаўленым карыстальнікам даць нам уяўленне аб іх агляданні ў сеціве. Калі вы сінхранізуеце сваю гісторыю аглядання паміж усталёўкамі Firefox, мы не ведаем, што там - таму што гісторыя зашыфравана вашай прыладай.
 
 
 ;It seems like every company on the web is buying and selling my data. You’re probably no different.
-It seems like every company on the web is buying and selling my data. You’re probably no different.
+Выглядае на тое, што кожная кампанія ў сеціве купляе і прадае мае звесткі. Вы, здаецца, не выключэнне.
 
 
 ;Mozilla doesn’t sell data about you, and we don’t buy data about you.
