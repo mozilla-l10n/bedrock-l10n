@@ -3,15 +3,15 @@
 
 # HTML page description
 ;Built for those who build the Web. The only browser made for developers like you.
-Built for those who build the Web. The only browser made for developers like you.
+Web-i yaradanlar üçün yaradıldı. Sizin kimi tərtibatçılar üçün yaradılmış tək səyyah.
 
 
 ;Firefox Quantum: Developer Edition
-Firefox Quantum: Developer Edition
+Firefox Quantum: Developer Edition {ok}
 
 
 ;Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
-Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
+Yeni sevimli səyyahınıza xoş gəldiniz. Açıq web üçün ehtiyyacınız olan bütün alətləri, sürətli məhsuldarlığı və ən son özəllikləri əldə edin.
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
@@ -19,28 +19,28 @@ Firefox Developer Edition avtomatik olaraq Mozilla-ya əks əlaqə göndərir.
 
 
 ;Faster Performance
-Faster Performance
+Daha sürətli məhsuldarlıq
 
 
 ;A Next-Generation CSS Engine
-A Next-Generation CSS Engine
+Yeni nəsil CSS Mühərrik
 
 
 ;Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
-Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
+Firefox daha sürətli və çox daha güclü olmaq üçün başdan quruldu. Buna ən son texnoloji innovasiyaları olan və çox sürətli işləyən yeni CSS mühərrik də daxildir.
 
 
 ;New Tools
-New Tools
+Yeni Alətlər
 
 
 ;Firefox DevTools
-Firefox DevTools
+Firefox Tərtibatçı Alətləri
 
 
 # Link points to http://firefox-dev.tools/
 ;Learn more about Firefox developer tools
-Learn more about Firefox developer tools
+Firefox Tərtibatçı Alətləri haqqında ətraflı öyrən
 
 
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
@@ -53,46 +53,46 @@ Yeni Firefox DevTools güclü, çevik və hər şeydən əsas hack edilə bilən
 
 
 ;Innovative Features
-Innovative Features
+Qabaqcıl Özəlliklər
 
 
 ;Master CSS Grid
-Master CSS Grid
+CSS Grid-ə Yiyələnin
 
 
 # Link points to https://mozilladevelopers.github.io/playground/
 ;Learn more about CSS Grid
-Learn more about CSS Grid
+CSS Grid haqqında ətraflı öyrən
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
-Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
+Firefox CSS Grid ilə işləmək üçün yaradılmış alətləri olan tək səyyahdır. Bu alətlər toru (grid) vizuallaşdırmağınıza, əlaqəli sahə adlarını göstərməyə, tor üzərindəki transformasiyaları görməyinizə və daha bir çox işləri asanlıqla edə biləməyiniz üçün sizə imkanlar verəcək.
 
 
 ;Design. Code. Test. Refine.
-Design. Code. Test. Refine.
+Dizaynla. Kodlaşdır. Yoxla. Təkmilləşdir.
 
 
 # line break for visual formatting
 ;Build and Perfect your sites<br> with Firefox DevTools
-Build and Perfect your sites<br> with Firefox DevTools
+Firefox Tərtibatçı Alətləri ilə<br> saytlarınızı qurun və mükəmməlləşdirin
 
 
 ;Inspector
-Inspector
+İnspektor
 
 
 ;Inspect and refine code to build pixel-perfect layouts.
-Inspect and refine code to build pixel-perfect layouts.
+Mükəmməl maketlər hazırlamaq üçün kodunuzu inspektorla yoxlayın və düzəldin.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Page_Inspector
 ;Learn more about Page Inspector
-Learn more about Page Inspector
+Səhifə İnspektoru haqqında ətraflı öyrənin
 
 
 ;Console
-Console
+Konsol
 
 
 ;Track CSS, JavaScript, security and network issues.
@@ -118,16 +118,16 @@ Learn more about JavaScript Debugger
 
 
 ;Network
-Network
+Şəbəkə
 
 
 ;Monitor network requests that can slow or block your site.
-Monitor network requests that can slow or block your site.
+Saytınızı yavaşlada və ya əngəlləyə biləcək şəbəkə sorğularını izləyin.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Network_Monitor
 ;Learn more about Network Monitor
-Learn more about Network Monitor
+Şəbəkə İzləyicisi haqqında ətraflı öyrənin
 
 
 ;Storage panel
