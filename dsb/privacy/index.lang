@@ -1,0 +1,114 @@
+## active ##
+## updates-052018 ##
+## updates-072018 ##
+## NOTE: demo page is available at https://www-dev.allizom.org/privacy/
+
+
+;Mozilla Privacy
+Priwatnosć Mozilla
+
+
+;Contact Mozilla
+Z Mozilla do zwiska stajiś
+
+
+;If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
+Jolic cośo swóje daty pórěźiś, abo maśo pšašanja wó našych pšawidłach priwatnosći, stajśo se do zwiska z:
+
+
+;Data Privacy Principles
+Principy za šćit datow
+
+
+# Links to https://www.mozilla.org/privacy/principles/
+# Links to https://www.mozilla.org/privacy/faq/
+;Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+<a href="%(principles)s">Principy za šćit datow</a> Mozilla inspirěruju našo póstupowanje, kótarež luźi respektěrujo a šćita, kótarež internet wužywaju. Zgóńśo w našych <a href="%(faq)s">CEP</a>, kak toś te principy Firefox a wšykne naše produkty wobwliwuju.
+
+
+# This string is obsolete. Do not remove.
+# Links to https://www.mozilla.org/privacy/faq/
+;Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Principy za šćit datow Mozilla inspirěruju našo póstupowanje, kótarež luźi respektěrujo a šćita, kótarež internet wužywaju. Zgóńśo w našych <a href="%(faq)s">CEP</a>, kak toś te principy Firefox a wšykne naše produkty wobwliwuju.
+
+
+# This string is obsolete. Do not remove.
+;Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
+Mozilla jo projekt wótwórjonego žrědła z misiju, wašo internetowe dožywjenje pólěpšyś. To jo pógónjujuca móc za našym póstupowanim za šćit priwatnosći. <a href="%(link)s">Dalšne informacije</a>
+
+
+;Privacy Notices
+Pokazki priwatnosći
+
+
+# This string is obsolete. Do not remove.
+;Our Privacy Notices
+Naše pokazki priwatnosći
+
+
+;Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+Naše pokazki priwatnosći wopisuju daty, kótarež naše produkty a słužby dostawaju, źěle a wužywaju ako teke opcije, kótarež su wam k dispoziciji.
+
+
+# This string is obsolete. Do not remove.
+;We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
+Smy napórali krotke a jasne pokazki priwatnosći, aby wopisowali, kak kuždy z našych produktow a słužbow daty dostawa, źěli a wužywa, a kótare opcije maśo. Zgońśo wěcej:
+
+
+;Mozilla Websites, Communications &amp; Cookies
+Websedła Mozilla, zdźělenja a cookieje
+
+
+;Firefox Browser
+Wobglědowak Firefox
+
+
+;Firefox for Fire TV
+Firefox za Fire TV
+
+
+;Transparency Report
+Rozpšawa transparency
+
+
+;As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
+Ako projekt wótwórjonego žrědła stej transparenca a wótwórjonosć wažny źěl załožeńskich principow Mozilla. Naše žrědłowe teksty su wótwórjone a pśespytujobne. Našo wuwijańske źěło jo wótwórjone. Naša połlětna <a href="%(report)s">rozpšawa transparence</a> teke naš zawězk k toś tym principam demonstrěrujo.
+
+
+;To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
+Aby se naraźone změny na našych pšawidłach priwatnosći woglědał a je komentěrował, <a href="%(group)s">aboněrujśo nawjedowańsku kupku Mozilla</a>.
+
+
+# This string is obsolete. Do not remove.
+;To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
+Aby se naraźone změny na našych pšawidłach priwatnosći woglědał a je komentěrował, <a href="%(group)s">aboněrujśo nawjedowańsku kupku Mozilla</a>.
+
+
+;Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
+Cytajśo wěcej wó našom běžnym źěle za zjawnu politiku priwatnosći a wěstoty na <a href="%(blog)s">blogu wó Open Policy a Advocacy</a>.
+
+
+# This string is obsolete. Do not remove.
+;Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
+Našo běžne źěło na priwatnosći se w <a href="%(blog)s">blogu wó priwatnosći a datowej wěstośe</a> wobjadna a informacije wó našom běžnem źěle su we <a href="%(wiki)s">wikiju teama priwatnosći Mozilla</a> k dispoziciji.
+
+
+;Outdated Policies
+Zestarjone pšawidła
+
+
+# Used at the top of the page for navigation (breadcrumbs)
+;Home
+Startowy bok
+
+
+# Used in legal docs to collapse (hide) a paragraph
+;Show Less
+Mjenjej pokazaś
+
+
+# Used in sub-pages to return to the main index https://www.mozilla.org/privacy
+;Back to Mozilla Privacy Policy
+Slědk k pšawidłam priwatnosći Mozilla
+
+

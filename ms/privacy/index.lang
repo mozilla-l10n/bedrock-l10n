@@ -1,0 +1,114 @@
+## active ##
+## updates-052018 ##
+## updates-072018 ##
+## NOTE: demo page is available at https://www-dev.allizom.org/privacy/
+
+
+;Mozilla Privacy
+Privasi Mozilla
+
+
+;Contact Mozilla
+Hubungi Mozilla
+
+
+;If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
+Jika anda mahu membuat pembetulan berkenaan maklumat anda, atau anda ada soalan mengenai dasar privasi kami, sila rujuk:
+
+
+;Data Privacy Principles
+Prinsip Privasi Data
+
+
+# Links to https://www.mozilla.org/privacy/principles/
+# Links to https://www.mozilla.org/privacy/faq/
+;Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+<a href="%(principles)s">Prinsip Privasi Data</a> Mozilla menjadi inspirasi kepada amalan kami yang menghormati dan melindungi  pengguna Internet. Ketahui cara prinsip ini membentuk Firefox dan semua produk kami di <a href="%(faq)s">FAQ</a>.
+
+
+# This string is obsolete. Do not remove.
+# Links to https://www.mozilla.org/privacy/faq/
+;Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Prinsip Privasi Data Mozilla menjadi inspirasi kepada amalan kami yang menghormati dan melindungi pengguna Internet. Ketahui cara prinsip ini membentuk Firefox dan semua produk kami di <a href="%(faq)s">FAQ</a>.
+
+
+# This string is obsolete. Do not remove.
+;Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
+Mozilla adalah projek sumber terbuka dengan misi untuk memperbaiki pengalaman Internet anda. Inilah pemacu di sebalik amalan privasi kami. <a href="%(link)s">Baca Selanjutnya</a>
+
+
+;Privacy Notices
+Notis Privasi
+
+
+# This string is obsolete. Do not remove.
+;Our Privacy Notices
+Notis Privasi Kami
+
+
+;Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+Notis Privasi Kami menghuraikan data yang kami terima, kongsi dan gunakan untuk produk dan perkhidmatan kami, serta pilihan yang disediakan untuk anda.
+
+
+# This string is obsolete. Do not remove.
+;We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
+Kami cipta Notis Privasi yang ringkas dan jelas untuk menghuraikan data yang kami terima, kongsi dan gunakan untuk produk dan perkhidmatan kami, serta pilihan untuk anda. Ketahui selanjutnya:
+
+
+;Mozilla Websites, Communications &amp; Cookies
+Laman web Mozilla, Komunikasi &amp; Kuki
+
+
+;Firefox Browser
+Pelayar Firefox
+
+
+;Firefox for Fire TV
+Firefox untuk Fire TV
+
+
+;Transparency Report
+Laporan Ketelusan
+
+
+;As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
+Sebagai projek sumber terbuka, unsur penting dalam prinsip asas Mozilla ialah ketelusan dan keterbukaan. Pangkalan kod kami terbuka dan boleh diaudit. Kerja pembangunan kami juga terbuka. <a href="%(report)s">Laporan Ketelusan</a> dwi tahunan kami juga membuktikan komitmen kami terhadap prinsip ini.
+
+
+;To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
+Untuk mengkaji dan mencadangkan perubahan kepada dasar privasi kami, <a href="%(group)s"> rujuki kumpulan tadbir urus Mozilla</a>.
+
+
+# This string is obsolete. Do not remove.
+;To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
+Untuk mengkaji dan mencadangkan perubahan kepada dasar privasi kami, <a href="%(group)s"> rujuki Kumpulan Tadbir Urus Mozilla</a>.
+
+
+;Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
+Ketahui selanjutnya perihal usaha berterusan yang kami laksanakan untuk polisi privasi dan keselamatan awam di <a href="%(blog)s">Blog Polisi Keterbukaan dan Blog Perakuan Mozilla</a>.
+
+
+# This string is obsolete. Do not remove.
+;Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
+Usaha berterusan berkaitan privasi yang kami usahakan ada dinyatakan dalam <a href="%(blog)s">Blog Privasi &amp; Keselamatan Data</a> dan maklumat berkenaan boleh dirujuk di <a href="%(wiki)s">wiki pasukan privasi Mozilla</a>.
+
+
+;Outdated Policies
+Privasi Luput
+
+
+# Used at the top of the page for navigation (breadcrumbs)
+;Home
+Laman
+
+
+# Used in legal docs to collapse (hide) a paragraph
+;Show Less
+Papar Minima
+
+
+# Used in sub-pages to return to the main index https://www.mozilla.org/privacy
+;Back to Mozilla Privacy Policy
+Kembali ke Polisi Privasi Mozilla
+
+
