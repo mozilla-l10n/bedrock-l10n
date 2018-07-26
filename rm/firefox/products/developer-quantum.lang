@@ -1,3 +1,6 @@
+## active ##
+## ember_reference_fix ##
+## quantum-firstrun-whatsnew ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/developer/
 
 
@@ -19,206 +22,206 @@ Firefox per sviluppaders trametta automaticamain resuns a Mozilla.
 
 
 ;Faster Performance
-Faster Performance
+Meglra prestaziun
 
 
 ;A Next-Generation CSS Engine
-A Next-Generation CSS Engine
+In motor CSS da la pli nova generaziun
 
 
 ;Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
-Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
+Firefox è vegnì reconstruì da fund ensi per esser pli svelt e pli pussant che mai. Quai includa in nov motor CSS superspert cun las ultimas innovaziuns tecnologicas.
 
 
 ;New Tools
-New Tools
+Novs utensils
 
 
 ;Firefox DevTools
-Firefox DevTools
+Utensils da Firefox per sviluppaders
 
 
 # Link points to http://firefox-dev.tools/
 ;Learn more about Firefox developer tools
-Learn more about Firefox developer tools
+Ulteriuras infurmaziuns davart ils utensils da Firefox per sviluppaders
 
 
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
-The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
+Ils novs utensils da Firefox per sviluppaders èn pussants, flexibels e surtut extensibels tenor tes giavischs. Els includan in debugadi da JavaScript extraordinari che s'adatta a differents navigaturs, sviluppà cun agid da React e Redux.
 
 
 # String is obsolete. Do not remove.
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
-The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
+Ils novs utensils da Firefox per sviluppaders èn pussants, flexibels e surtut extensibels tenor tes giavischs. Els includan in debugadi da JavaScript extraordinari che s'adatta a differents navigaturs, sviluppà cun agid da React ed Ember.
 
 
 ;Innovative Features
-Innovative Features
+Funcziuns innovativas
 
 
 ;Master CSS Grid
-Master CSS Grid
+Dumogna las griglias CSS
 
 
 # Link points to https://mozilladevelopers.github.io/playground/
 ;Learn more about CSS Grid
-Learn more about CSS Grid
+Ulteriuras infurmaziuns davart griglias CSS
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
-Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
+Firefox è l'unic navigatur cun utensils fatgs aposta per la concepziun e la creaziun cun agid da griglias CSS. Quests utensils ta permettan da visualisar ina griglia, da mussar il num da las zonas associadas, da generar previstas da transfurmaziuns sin la griglia e bler auter.
 
 
 ;Design. Code. Test. Refine.
-Design. Code. Test. Refine.
+Planisar. Programmar. Testar. Meglierar.
 
 
 # line break for visual formatting
 ;Build and Perfect your sites<br> with Firefox DevTools
-Build and Perfect your sites<br> with Firefox DevTools
+Realisescha e perfecziunescha tias websites<br> cun ils utensils da Firefox per sviluppaders
 
 
 ;Inspector
-Inspector
+Inspectur
 
 
 ;Inspect and refine code to build pixel-perfect layouts.
-Inspect and refine code to build pixel-perfect layouts.
+Inspectescha e optimescha il code per crear impaginaziuns exactas fin a l'ultim pixel.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Page_Inspector
 ;Learn more about Page Inspector
-Learn more about Page Inspector
+Ulteriuras infurmaziuns davart l'inspectur da pagina
 
 
 ;Console
-Console
+Consola
 
 
 ;Track CSS, JavaScript, security and network issues.
-Track CSS, JavaScript, security and network issues.
+Identifitgescha problems da CSS, JavaScript, segirezza e rait.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Web_Console
 ;Learn more about Web Console
-Learn more about Web Console
+Ulteriuras infurmaziuns davart la consola web
 
 
 ;Debugger
-Debugger
+Debugadi
 
 
 ;Powerful JavaScript debugger with support for your framework.
-Powerful JavaScript debugger with support for your framework.
+In debugadi da JavaScript potent, cumpatibel cun tia infrastructura.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Debugger
 ;Learn more about JavaScript Debugger
-Learn more about JavaScript Debugger
+Ulteriuras infurmaziuns davart il debugadi da JavaScript
 
 
 ;Network
-Network
+Rait
 
 
 ;Monitor network requests that can slow or block your site.
-Monitor network requests that can slow or block your site.
+Identifitgescha las dumondas da rait che pon ralentar u bloccar tia website.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Network_Monitor
 ;Learn more about Network Monitor
-Learn more about Network Monitor
+Ulteriuras infurmaziuns davart il monitur da rait
 
 
 ;Storage panel
-Storage panel
+Panela da memoria
 
 
 ;Add, modify and remove cache, cookies, databases and session data.
-Add, modify and remove cache, cookies, databases and session data.
+Agiuntescha, modifitgescha e stizza il cache, cookies, bancas da datas u datas da sesida.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Storage_Inspector
 ;Learn more about Storage Panel
-Learn more about Storage Panel
+Ulteriuras infurmaziuns davart la panela da memoria
 
 
 ;Responsive Design Mode
-Responsive Design Mode
+Modus da responsive design
 
 
 ;Test sites on emulated devices in your browser.
-Test sites on emulated devices in your browser.
+Testescha paginas cun emular differents apparats en il navigatur.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Responsive_Design_View
 ;Learn more about Responsive Design View
-Learn more about Responsive Design View
+Ulteriuras infurmaziuns davart il modus da responsive design
 
 
 ;Visual Editing
-Visual Editing
+Modificaziun visuala
 
 
 ;Fine-tune animations, alignment and padding.
-Fine-tune animations, alignment and padding.
+Optimescha animaziuns, l'alingiament ed ils urs.
 
 
 # Link points to https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more
 ;Learn more about Visual Editing
-Learn more about Visual Editing
+Ulteriuras infurmaziuns davart la modificaziun visuala
 
 
 ;Performance
-Performance
+Prestaziun
 
 
 ;Unblock bottlenecks, streamline processes, optimize assets.
-Unblock bottlenecks, streamline processes, optimize assets.
+Eliminescha stretgas, simplifitgescha process ed optimescha resursas.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Performance
 ;Learn more about Performance Tools
-Learn more about Performance Tools
+Ulteriuras infurmaziuns davart l'analisa da performanza
 
 
 ;Memory
-Memory
+Memoria
 
 
 ;Find memory leaks and make your application zippy.
-Find memory leaks and make your application zippy.
+Chatta largias en la memoria e meglierescha la performanza da tia applicaziun.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Memory
 ;Learn more about Memory Tools
-Learn more about Memory Tools
+Ulteriuras infurmaziuns davart ils utensils d'analisa da la memoria
 
 
 ;Web Audio
-Web Audio
+Web Audio {ok}
 
 
 ;The only developer tool for inspecting the Web Audio API.
-The only developer tool for inspecting the Web Audio API.
+L'unic utensil per sviluppaders che pussibilitescha dad inspectar l'API Web Audio.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Web_Audio_Editor
 ;Learn more about Web Audio Editor
-Learn more about Web Audio Editor
+Ulteriuras infurmaziuns davart l'editur Web Audio
 
 
 ;Scratchpad
-Scratchpad
+Scratchpad {ok}
 
 
 ;Edit, write, run and execute JavaScript in real time.
-Edit, write, run and execute JavaScript in real time.
+Scriver, testar ed exequir JavaScript en temp real.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Scratchpad
 ;Learn more about Scratchpad
-Learn more about Scratchpad
+Ulteriuras infurmaziuns davart Scratchpad
 
 
 ;Style Editor
@@ -226,92 +229,92 @@ Editur da styles
 
 
 ;Edit and manage all your CSS stylesheets in your browser.
-Edit and manage all your CSS stylesheets in your browser.
+Modifitgescha e gestiunescha tut tes CSS stylesheets en il navigatur.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Style_Editor
 ;Learn more about Style Editor
-Learn more about Style Editor
+Ulteriuras infurmaziuns davart l'editur da styles
 
 
 ;Speak up
-Speak up
+Ta fa udir
 
 
 ;Feedback makes us better. Tell us how we can improve the browser and Developer tools.
-Feedback makes us better. Tell us how we can improve the browser and Developer tools.
+Cun tes resun ans pudain nus meglierar. Ans di co nus pudain perfecziunar il navigatur ed ils utensils per sviluppaders.
 
 
 # Link to https://discourse.mozilla-community.org/c/devtools
 ;Join the conversation
-Join the conversation
+Ta participescha a la discussiun
 
 
 ;Get involved
-Get involved
+Ta participescha
 
 
 ;Help build the last independent browser. Write code, fix bugs, make add-ons, and more.
-Help build the last independent browser. Write code, fix bugs, make add-ons, and more.
+Ans gida a sviluppar l'unic navigatur independent. Programmescha, curregia sbagls, creescha supplements e dapli.
 
 
 # Link to https://devtools-html.github.io/
 ;Start now
-Start now
+Cumenza subit
 
 
 ;Download the Firefox browser made for developers
-Download the Firefox browser made for developers
+Telechargia la versiun da Firefox fatga aposta per ils sviluppaders
 
 
 # First run page at https://www.mozilla.org/firefox/57.0a2/firstrun/
 ;Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
-Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
+Firefox Developer Edition è il navigatur superspert che dispona dad utensils innovativs per sviluppaders e da novas funcziuns sco il sustegn da griglias CSS u il debugadi da frameworks
 
 
 ;Welcome to the all-new Firefox Quantum: Developer Edition
-Welcome to the all-new Firefox Quantum: Developer Edition
+Bainvegni en il Firefox Quantum resch nov: Developer Edition
 
 
 ;Firefox has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
-Firefox has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
+Firefox è vegnì reconstruì da fund ensi per esser pli svelt, pli elegant e pli pussant che mai.
 
 
 ;Firefox Devtools
-Firefox Devtools
+Utensils da Firefox per sviluppaders
 
 
 ;Next-Gen CSS Engine
-Next-Gen CSS Engine
+In motor CSS da la pli nova generaziun
 
 
 # line break for visual formatting
 ;Get developer news, tricks and resources <br /> sent straight to your inbox.
-Get developer news, tricks and resources <br /> sent straight to your inbox.
+Retschaiva novitads, trics e resursas per sviluppaders <br /> directamain en tia chascha da posta entrada dad e-mail.
 
 
 ;A Next-Generation CSS Engine (hint: it’s fast)
-A Next-Generation CSS Engine (hint: it’s fast)
+In motor CSS da la pli nova generaziun (che fila)
 
 
 ;Firefox Quantum includes a new CSS engine, written in Rust, that has state-of-the-art innovations and is blazingly fast.
-Firefox Quantum includes a new CSS engine, written in Rust, that has state-of-the-art innovations and is blazingly fast.
+Firefox Quantum includa in nov motor CSS supersvelt ch'è programmà cun il linguatg Rust e profitescha da las tecnologicas las pli avanzadas.
 
 
 # What's new run page at https://www.mozilla.org/firefox/57.0a2/whatsnew/
 ;Want to be on the cutting-edge?
-Want to be on the cutting-edge?
+Vuls esser avantgarda?
 
 
 ;Firefox Nightly receives daily updates and allows you to access features months before they go mainstream.
-Firefox Nightly receives daily updates and allows you to access features months before they go mainstream.
+Firefox Nightly vegn actualisà mintga di e ta dat access a novas funcziuns – plirs mais avant ch'ellas stattan a disposiziun als utilisaders da la versiun normala.
 
 
 ;Congrats. You now have Firefox Quantum: Developer Edition.
-Congrats. You now have Firefox Quantum: Developer Edition.
+Gratulaziun. Ti has ussa Firefox Quantum: Developer Edition.
 
 
 ;This isn’t just an update. This is Firefox Quantum: A brand new Firefox that has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
-This isn’t just an update. This is Firefox Quantum: A brand new Firefox that has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
+Quai n'è betg mo ina actualisaziun. Quai è Firefox Quantum: in Firefox dal tuttafatg nov ch'è vegnì reconstruì da fund ensi per esser pli svelt, pli elegant e pli pussant che mai.
 
 
