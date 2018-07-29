@@ -1,3 +1,6 @@
+## active ##
+## updates-052018 ##
+## updates-072018 ##
 ## NOTE: demo page is available at https://www-dev.allizom.org/privacy/
 
 
@@ -20,13 +23,13 @@ Məlumat Məxfiliyi Prinsipləri
 # Links to https://www.mozilla.org/privacy/principles/
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Mozillanın <a href="%(principles)s">Məlumat Məxfiliyi Prinsipləri</a> İnterneti işlədən insanların məlumatlarınına hörmət etmə və qoruma təcrübələrimizi ilhamlandırır. Bu prinsiplərin Firefox və digər bütün məhsullarımızı necə şəkilləndirdiklərini <a href="%(faq)s">ÇSS</a>-dan öyrənin.
 
 
 # This string is obsolete. Do not remove.
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Mozillanın Məlumat Məxfiliyi Prinsipləri İnterneti işlədən insanların məlumatlarınına hörmət etmə və qoruma təcrübələrimizi ilhamlandırır. Bu prinsiplərin Firefox və digər bütün məhsullarımızı necə şəkilləndirdiklərini <a href="%(faq)s">ÇSS</a>-dan öyrənin.
 
 
 # This string is obsolete. Do not remove.
@@ -44,12 +47,12 @@ Məxfilik Bildirişlərimiz
 
 
 ;Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
-Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+Məxfilik Bildirişimiz məhsullarımızın və xidmətlərimizin aldığı, paylaşdığı və işlətdiyi məlumatları və sizə verilən seçimləri izah edir.
 
 
 # This string is obsolete. Do not remove.
 ;We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
-We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
+Məhsul və xidmətlərimizin məlumatları necə aldıqlarını, paylaşdıqlarını və işlətdiklərini, həmçinin sizin seçimlərinizi izah edən qısa və aydın Məxfilik Bildirişi yaratdıq. Ətraflı öyrən:
 
 
 ;Mozilla Websites, Communications &amp; Cookies
@@ -69,7 +72,7 @@ Fire TV üçün Firefox
 
 
 ;As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
-As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
+Açıq Qaynaqlı proyekt olaraq şəffaflıq və açıqlıq Mozillanın bünövrə prinsiplərinin əsasıdır. Kodlarımız açıq və təftişlənəbiləndir. Tərtibat mərhələlərimiz açıqdır. Həmçinin, ikihəftəlik <a href="%(report)s">Şəffaflıq Hesabatımız</a> bu prinsiplərə olan bağlılığımızı göstərir.
 
 
 ;To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
@@ -87,7 +90,7 @@ Davamlı olan məxfilik və ictimai təhlükəsizlik siyasəti işlərimiz haqq�
 
 # This string is obsolete. Do not remove.
 ;Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
-Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
+Davam edən məxfilik işlərimiz <a href="%(blog)s">Məxfilik və Məlumat Təhlükəsizliyi Bloqu</a> ilə izah edilib və ətraflı məlumat <a href="%(wiki)s">Mozillanın məxfilik komandası wikisi</a>ndə verilib.
 
 
 ;Outdated Policies
