@@ -1,3 +1,6 @@
+## active ##
+## firefox-features-57-update ##
+## firefox-features-send-tabs ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/features/
 
 
@@ -30,31 +33,31 @@
 
 
 ;Firefox Test Pilot
-Firefox Test Pilot
+ਫਾਇਰਫਾਕਸ ਟੈਸਟ ਪਾਇਲਟ
 
 
 ;Tabs that travel
-Tabs that travel
+ਟੈਬਸ ਜੋ ਯਾਤਰਾ ਕਰਦਾ ਹੈ
 
 
 ;Better bookmarks
-Better bookmarks
+ਬਿਹਤਰ ਬੁੱਕਮਾਰਕ
 
 
 ;More powerful Private Browsing
-More powerful Private Browsing
+ਹੋਰ ਮਜ਼ਬੂਤ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
 
 
 ;Ad tracker blocking
-Ad tracker blocking
+ਵਿਗਿਆਪਨ ਟਰੈਕਰ ਬਲਾਕਿੰਗ
 
 
 ;Password Manager
-Password Manager
+ਪਾਸਵਰਡ ਪ੍ਰਬੰਧਕ
 
 
 ;Balanced memory usage
-Balanced memory usage
+ਸੰਤੁਲਿਤ ਮੈਮੋਰੀ ਦੀ ਵਰਤੋਂ
 
 
 ;Browse faster
@@ -62,71 +65,71 @@ Balanced memory usage
 
 
 ;Firefox Product Benefits
-Firefox Product Benefits
+ਫਾਇਰਫਾਕਸ ਉਤਪਾਦ ਲਾਭ
 
 
 ;Open source
-Open source
+ਓਪਨ ਸੋਰਸ
 
 
 ;We’re always transparent.
-We’re always transparent.
+ਅਸੀਂ ਹਮੇਸ਼ਾ ਪਾਰਦਰਸ਼ੀ ਹਾਂ।
 
 
 # Link to /firefox/features/independent
 ;See what makes us different
-See what makes us different
+ਦੇਖੋ ਕਿ ਸਾਨੂੰ ਕਿਹੜਾ ਵੱਖਰਾ ਬਣਾਉਂਦਾ ਹੈ
 
 
 ;By non-profit, Mozilla
-By non-profit, Mozilla
+ਗ਼ੈਰ-ਮੁਨਾਫ਼ਾ, ਮੋਜ਼ੀਲਾ ਦੁਆਰਾ
 
 
 ;Protecting the health of the internet.
-Protecting the health of the internet.
+ਇੰਟਰਨੈਟ ਦੀ ਸਿਹਤ ਦੀ ਸੁਰੱਖਿਆ ਕਰਨਾ।
 
 
 # https://www.mozilla.org/mission/
 ;Read Mozilla’s mission
-Read Mozilla’s mission
+ਮੋਜ਼ੀਲਾ ਦਾ ਮਕਸਦ ਪੜ੍ਹੋ
 
 
 ;Protect your rights
-Protect your rights
+ਆਪਣੇ ਅਧਿਕਾਰਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ
 
 
 ;We help keep corporate powers in check.
-We help keep corporate powers in check.
+ਅਸੀਂ ਕਾਰਪੋਰੇਟ ਸ਼ਕਤੀਆਂ ਨੂੰ ਚੈਕ ਵਿੱਚ ਰੱਖਣ ਵਿੱਚ ਮਦਦ ਕਰਦੇ ਹਾਂ।
 
 
 # Link to /firefox/features/independent
 ;Choose independence
-Choose independence
+ਅਜ਼ਾਦੀ ਚੁਣੋ
 
 
 ;Limited data collection
-Limited data collection
+ਸੀਮਿਤ ਡਾਟਾ ਇਕੱਠਾ ਕਰੋ
 
 
 ;Opted-in to privacy, so you can browse freely.
-Opted-in to privacy, so you can browse freely.
+ਪਰਦੇਦਾਰੀ ਲਈ ਔਪਟ-ਇਨ ਕਰੋ, ਤਾਂ ਜੋ ਤੁਸੀਂ ਅਜ਼ਾਦ ਰੂਪ ਨਾਲ ਬ੍ਰਾਊਜ਼ ਕਰ ਸਕੋ।
 
 
 # Link to https://www.mozilla.org/privacy/. It is localized in a few languages.
 ;Read our privacy policy
-Read our privacy policy
+ਸਾਡੀ ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਪੜ੍ਹੋ
 
 
 ;More private
-More private
+ਹੋਰ ਪਰਦੇਦਾਰੀ
 
 
 ;We don’t sell access to your online data. Period.
-We don’t sell access to your online data. Period.
+ਅਸੀਂ ਤੁਹਾਡੇ ਔਨਲਾਈਨ ਡਾਟਾ ਤਕ ਐਕਸੈਸ ਨਹੀਂ ਵੇਚਦੇ। ਸਮਾਂ।
 
 
 # Link to /firefox/features/private-browsing
 ;Get Firefox for privacy
-Get Firefox for privacy
+ਪਰਦੇਦਾਰੀ ਲਈ ਫਾਇਰਫਾਕਸ ਲਵੋ
 
 
