@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo page is available at https://www-dev.allizom.org/privacy/faq/
 
 
@@ -8,178 +9,178 @@ Mozilla のデータプライバシー FAQ
 
 # HTML page description
 ;At Mozilla we respect and protect your personal information.
-At Mozilla we respect and protect your personal information.
+Mozilla は、あなたの個人情報を尊重し保護します。
 
 
 ;We Stand for People Over Profit.
-We Stand for People Over Profit.
+私たちは利益よりも人々を大切にします。
 
 
 # "Under the hood" is an expression in automobile industry. Here it is a metaphor about something that exists but out of sight, behind the scenes.
 ;It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
-It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
+皆さんが今使っているソフトウェアやサービスに対して何を期待できるか知るのは簡単なことではないでしょう。私たちの生活を支えているテクノロジーは複雑で、ユーザーはその詳細について調べている時間もありません。これは Firefox についても当てはまることで、ブラウザーの中で何が起きているのか皆さんが様々な考えを持っていることを私たちは認識しています。
 
 
 ;At Mozilla, we respect and protect your personal information:
-At Mozilla, we respect and protect your personal information:
+Mozilla は、以下のように、あなたの個人情報を尊重し保護します。
 
 
 # Links to https://www.mozilla.org/privacy/principles/
 ;We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our approach to privacy in the Firefox desktop and mobile browsers.
-We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our approach to privacy in the Firefox desktop and mobile browsers.
+私たちは、デスクトップやモバイル向け Firefox ブラウザーにおける私たちのプライバシーへの取り組みを具体化する、一連の <a href="%(link)s">データプライバシー指針</a> に従います。
 
 
 ;We only collect the data we need to make the best products.
-We only collect the data we need to make the best products.
+私たちは最高の製品を作るために必要なデータのみ収集します。
 
 
 ;We put people in control of their data and online experiences.
-We put people in control of their data and online experiences.
+私たちは皆さんが自分のデータとオンライン体験を自ら管理できるようにします。
 
 
 ;We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
-We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
+私たちは「意外と受け取られることはしない」原則に従って、Firefox への皆さんの理解が現実に沿うよう努力しています。
 
 
 ;The following questions and answers should help you understand what to expect from Mozilla and Firefox:
-The following questions and answers should help you understand what to expect from Mozilla and Firefox:
+以下に挙げる質問と答えは、皆さんが Mozilla と Firefox に期待できることを理解する助けとなるでしょう。
 
 
 ;I use Firefox for almost everything on the Web. You folks at Mozilla must know a ton of stuff about me, right?
-I use Firefox for almost everything on the Web. You folks at Mozilla must know a ton of stuff about me, right?
+私はウェブ上でほとんどすべてのことに Firefox を使っています。Mozilla の社員は私についてあらゆることを知っているんでしょう？
 
 
 ;Firefox, the web browser that runs on your device or computer, is your gateway to the internet. Your browser will manage a lot of information about the websites you visit, but that information stays on your device. Mozilla, the company that makes Firefox, doesn’t collect it (unless you ask us to).
-Firefox, the web browser that runs on your device or computer, is your gateway to the internet. Your browser will manage a lot of information about the websites you visit, but that information stays on your device. Mozilla, the company that makes Firefox, doesn’t collect it (unless you ask us to).
+Firefox は、お使いの端末やコンピューター上で動くウェブブラウザーで、あなたのインターネットへの入口です。ブラウザーはあなたが訪れたサイトについて多くの情報を管理しますが、そうした情報はお使いの端末上に留まります。Mozilla は、Firefox を作っている企業ですが、(あなたが求めない限り) それを収集することはありません。
 
 
 ;Really, you don’t collect my browsing history?
-Really, you don’t collect my browsing history?
+本当に私の閲覧履歴を収集していないのですか？
 
 
 # Links to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 ;Mozilla doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, such as <a href="%(link)s">Firefox Pioneer</a>, which allows interested users to give us insight into their web browsing. If you sync your browsing history across Firefox installations, we don’t know what that history is - because it’s encrypted by your device.
-Mozilla doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, such as <a href="%(link)s">Firefox Pioneer</a>, which allows interested users to give us insight into their web browsing. If you sync your browsing history across Firefox installations, we don’t know what that history is - because it’s encrypted by your device.
+Mozilla は、皆さんがどうウェブを閲覧しているかについて、皆さんが考えているほど多くのことを知りません。ブラウザーメーカーとして、これは実のところ大きな課題です。そのため私たちは、関心のあるユーザーが自分のウェブブラウジングについて Mozilla が洞察を得ることを可能にする <a href="%(link)s">Firefox Pioneer</a> といった任意参加型のツールを開発しています。あなたが複数の Firefox 間で閲覧履歴を同期する場合、その情報は端末上で暗号化されるため、私たちがその内容を知ることはできません。
 
 
 ;It seems like every company on the web is buying and selling my data. You’re probably no different.
-It seems like every company on the web is buying and selling my data. You’re probably no different.
+ウェブ上ではすべての企業が私のデータを売買しているようです。Mozilla も恐らくそうでしょう。
 
 
 ;Mozilla doesn’t sell data about you, and we don’t buy data about you.
-Mozilla doesn’t sell data about you, and we don’t buy data about you.
+Mozilla はあなたに関するデータを売りませんし、買ったりもしません。
 
 
 ;Wait, so how do you make money?
-Wait, so how do you make money?
+では、どうやってお金を稼いでいるのですか？
 
 
 # Links to https://www.mozilla.org/foundation/annualreport/
 ;Mozilla is not your average organization. Founded as a community open source project in 1998, Mozilla is a mission-driven organization working towards a more healthy internet. The majority of Mozilla Corporation’s revenue is from royalties earned through Firefox web browser search partnerships and distribution deals around the world. You can learn more about how we make money in our <a href="%(link)s">annual financial report</a>.
-Mozilla is not your average organization. Founded as a community open source project in 1998, Mozilla is a mission-driven organization working towards a more healthy internet. The majority of Mozilla Corporation’s revenue is from royalties earned through Firefox web browser search partnerships and distribution deals around the world. You can learn more about how we make money in our <a href="%(link)s">annual financial report</a>.
+Mozilla は一般的な企業ではありません。1998 年にコミュニティのオープンソースプロジェクトとして設立され、より健全なインターネットに向けて活動している使命重視の組織です。Mozilla Corporation の収益の大半は、全世界での Firefox ウェブブラウザーの検索パートナーシップや配布契約を通じて得られた使用料によるものです。私たちがどのようにして収益を上げているかについては <a href="%(link)s">年次財務報告書</a> で詳しく知ることができます。
 
 
 # "Softballs" here means questions requiring only easy or simple answers.
 ;Okay, those first few were softballs. What data do you collect?
-Okay, those first few were softballs. What data do you collect?
+分かりました。ここまでいくつかの質問は平凡なものでしたが、具体的にどんなデータを収集しているのでしょう？
 
 
 # First URL links to https://www.mozilla.org/privacy/firefox/
 # Second URL links to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 ;Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
-Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
+Mozilla は、皆さんがどのようにブラウザーを使っているか理解を深めるため、Firefox から初期設定で若干のデータを収集しています。このデータは、あなたの名前やメールアドレスなどではなく、無作為な識別子に紐付けられます。詳しくは <a href="%(privacy)s">プライバシー通知</a> をご覧ください。<a href="%(data)s">データ収集に関する詳細な説明</a> も公開しています。
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
-We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
+私たちは、私たちの説明が正しいことを皆さんが検証したり、改善が必要であればそれを提案したり、私たちが何も隠していないことを信頼したりできるよう、文書を公開しています。
 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
 ;That documentation is gobbledygook to me! Can you give it to me in plain English?
-That documentation is gobbledygook to me! Can you give it to me in plain English?
+その文章は難しくてさっぱり分かりません。もっと簡単な言葉で説明してもらえますか？
 
 
 ;There are two categories of data that we collect by default in our release version of Firefox.
-There are two categories of data that we collect by default in our release version of Firefox.
+Firefox のリリース版において初期設定で私たちが収集するデータには 2 種類あります。
 
 
 ;The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
-The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
+1 つ目は「技術データ」と呼ばれるものです。これは、使用されている OS や、エラーあるいはクラッシュといった情報など、ブラウザー自体に関するデータを指します。
 
 
 ;The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
-The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
+2 つ目は「インタラクションデータ」と呼ばれるものです。これは、開かれているタブの数、ユーザー設定の状態、スクリーンショットやコンテナーといった特定のブラウザー機能の使用回数など、個人の Firefox との関わりについてのデータを指します。例えば、直前に見たウェブページへ戻れるようにする、ブラウザーの左上にある矢印アイコンの「戻る」ボタンに関して言えば、誰かがそのボタンを使ったことを示すようなデータを収集することはありますが、具体的にどのページが見られたかという情報はこれに含まれません。
 
 
 ;Do you collect more data in pre-release versions of Firefox?
-Do you collect more data in pre-release versions of Firefox?
+プレリリース版 Firefox ではより多くのデータを収集しているのですか？
 
 
 ;Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
-Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
+はい。プレリリース版 Firefox では、上で説明したデータに加えて、初期設定でクラッシュやエラー報告を送信するようになっています。
 
 
 # Links to https://support.mozilla.org/kb/shield
 ;We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
-We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
+プレリリース版では、<a href="%(link)s">研究目的</a> で追加のデータを収集することもあります。例えば、一部の研究は「ウェブアクティビティデータ」と呼ばれるデータを必要とし、これには一部のサイトに関する URL その他の情報が含まれる可能性があります。これは、あるロケールで人気のサイトをどのように統合強化できるかといった、私たちが Firefox を改善するため特定の質問への答えを得るのに役立ちます。
 
 
 ;Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
-Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
+Mozilla が提供するプレリリース版 Firefox は、開発プラットフォームで、実験的機能を含めて頻繁に更新されます。プレリリース版では、そうした実験的機能の動作状況を理解するため、通常版よりも多くのデータを収集します。このデータ収集は設定画面で無効化できます。
 
 
 ;But why do you collect any data at all?
-But why do you collect any data at all?
+しかし、そもそもなぜデータを収集しているのですか？
 
 
 ;If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
-If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
+ブラウザーのパフォーマンス状況や皆さんに使われている機能について知らなければ、それを改善して皆さんが求めるような優れた製品を提供することはできません。私たちは、皆さんのプライバシーを尊重しつつ製品に関する賢明な判断を行えるようなデータ収集解析ツールの開発に投資してきました。
 
 
 ;Data collection still bugs me. Can I turn it off?
-Data collection still bugs me. Can I turn it off?
+それでもデータ収集は気掛かりです。無効化することは可能ですか？
 
 
 # First URL links to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 # Second URL links to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
 ;Yes. User control is one of our data privacy principles. We put that into practice in Firefox on our <a href="%(settings)s">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in Firefox. You can <a href="%(data)s">turn off data collection</a> there.
-Yes. User control is one of our data privacy principles. We put that into practice in Firefox on our <a href="%(settings)s">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in Firefox. You can <a href="%(data)s">turn off data collection</a> there.
+はい。ユーザーの自己管理は私たちのデータプライバシー指針に含まれています。私たちはこれを <a href="%(settings)s">プライバシー設定ページ</a> 上で Firefox における実践に組み入れています。ここでは、Firefox における自分のプライバシーを管理したいユーザーが 1 か所ですべての設定を変更し、<a href="%(data)s">データ収集を無効化</a> することも可能となっています。
 
 
 ;What about my account data?
-What about my account data?
+私のアカウントデータについては？
 
 
 ;We are big believers of data minimization and not asking for things we don't need.
-We are big believers of data minimization and not asking for things we don't need.
+私たちはデータの最小化を強く信じており、必要ない情報を尋ねることはありません。
 
 
 ;You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
-You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
+Firefox を使うのにアカウントは必要ありません。複数の端末間でデータを同期する際にはアカウントが必要となりますが、私たちが尋ねるのはメールアドレスだけです。あなたの名前、住所、誕生日、電話番号といった情報を知りたくはありません。
 
 
 ;You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
-You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
+マーケティング活動の一環としてデジタル広告を使っていますね。オンライン広告のターゲットを最適化するために人々のデータを購入しているのですか？
 
 
 ;No, we do not buy people's data to target advertising.
-No, we do not buy people's data to target advertising.
+いいえ、私たちは広告を最適化するために皆さんのデータを購入することはしていません。
 
 
 ;We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
-We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
+その代わり私たちは、広告パートナーに対して、皆さんが使っているブラウザーや端末といった、サイトやコンテンツ提供者がユーザー全員について知っている第一者データのみ使用するよう求めています。
 
 
 ;Well, it seems like you really have my back on this privacy stuff.
-Well, it seems like you really have my back on this privacy stuff.
+なるほど、Mozilla はプライバシーに関して本当に私の味方になってくれるようですね。
 
 
 ;Yes, we do.
-Yes, we do.
+はい、その通りです。
 
 
 # Links to https://internethealthreport.org/
 ;Find out more about how Mozilla protects the internet.
-Find out more about how Mozilla protects the internet.
+Mozilla がどのようにインターネットを守っているか、詳しくはこちらをご覧ください。
 
 
