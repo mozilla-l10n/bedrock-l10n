@@ -1,3 +1,7 @@
+## active ##
+## disconnect_link ##
+## focus_apk_link_012018 ##
+## headline_update_012018 ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/mobile/
 
 
@@ -113,20 +117,20 @@ iOS ਅਤੇ ਐਂਡਰਾਈਡ
 
 
 ;Control what you share online with the most powerful Private Browsing mode with added Tracking Protection.
-Control what you share online with the most powerful Private Browsing mode with added Tracking Protection.
+ਜੋੜੇ ਗਏ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਦੇ ਨਾਲ ਵਧੇਰੇ ਸ਼ਕਤੀਸ਼ਾਲੀ ਨਿੱਜੀ ਬ੍ਰਾਊਜ਼ਿੰਗ ਮੋਡ ਦੇ ਨਾਲ ਜੋ ਤੁਸੀਂ ਔਨਲਾਈਨ ਸ਼ੇਅਰ ਕਰਦੇ ਹੋ ਉਸ 'ਤੇ ਨਿਯੰਤਰਣ ਕਰੋ।
 
 
 ;Stops ads that track and follow you around the Internet.
-Stops ads that track and follow you around the Internet.
+ਉਹਨਾਂ ਵਿਗਿਆਪਨਾਂ ਨੂੰ ਰੋਕਦਾ ਹੈ ਜੋ ਇੰਟਰਨੈਟ ਤੇ ਤੁਹਾਨੂੰ ਟਰੈਕ ਅਤੇ ਅਨੁਸਰਣ ਕਰਦੇ ਹਨ।
 
 
 ;Won’t remember your browsing history or save cookies after you’re done.
-Won’t remember your browsing history or save cookies after you’re done.
+ਤੁਹਾਡੇ ਬ੍ਰਾਉਜ਼ਿੰਗ ਇਤਿਹਾਸ ਨੂੰ ਯਾਦ ਨਹੀਂ ਰੱਖੇਗਾ ਜਾਂ ਤੁਹਾਡਾ ਕੰਮ ਪੂਰਾ ਹੋਣ ਦੇ ਬਾਆਦ ਕੂਕੀਜ਼ ਨੂੰ ਸੰਭਾਲ ਨਹੀਂ ਸਕੋਗੇ।
 
 
 # Links to https://disconnect.me/
 ;Built-in tracking protection and block lists provided by <a href="%(url)s">Disconnect</a>.
-Built-in tracking protection and block lists provided by <a href="%(url)s">Disconnect</a>.
+ਬਿਲਟ-ਇਨ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਅਤੇ ਬਲਾਕ ਸੂਚੀਆ <a href="%(url)s">ਡਿਸਕਨੈਕਟ</a>ਦੁਆਰਾ ਦਿੱਤੀਆਂ ਗਈਆਂ ਹਨ।
 
 
 ;Extensions & Customization
@@ -138,11 +142,11 @@ Built-in tracking protection and block lists provided by <a href="%(url)s">Disco
 
 
 ;Break out of the browser box. From emojis to productivity tools, personalize Firefox to suit your style.
-Break out of the browser box. From emojis to productivity tools, personalize Firefox to suit your style.
+ਬਰਾਊਜ਼ਰ ਬੋਕਸ ਤੋਂ ਬਾਹਰ ਤੋੜੋ। ਈਮੌਜ਼ ਤੋਂ ਉਤਪਾਦਕਤਾ ਦੇ ਸਾਧਨ ਤੱਕ, ਆਪਣੀ ਸ਼ੈਲੀ ਦੇ ਅਨੁਕੂਲ ਫਾਇਰਫਾਕਸ ਨੂੰ ਨਿੱਜੀ ਬਣਾਓ।
 
 
 ;Choose from thousands of tools like ad blockers, video downloaders and password managers.
-Choose from thousands of tools like ad blockers, video downloaders and password managers.
+ਵਿਗਿਆਪਨ ਬਲੌਕਰਜ਼, ਵੀਡੀਓ ਡਾਉਨਲੋਡਰ ਅਤੇ ਪਾਸਵਰਡ ਪ੍ਰਬੰਧਕਾਂ ਜਿਹੇ ਹਜ਼ਾਰਾਂ ਯੰਤਰਾਂ ਤੋਂ ਚੁਣੋ।
 
 
 ;Themes
@@ -150,11 +154,11 @@ Choose from thousands of tools like ad blockers, video downloaders and password 
 
 
 ;Match Firefox to your mood. Get a new look from our theme categories or create your own.
-Match Firefox to your mood. Get a new look from our theme categories or create your own.
+ਆਪਣੇ ਮੂਡ 'ਤੇ ਫਾਇਰਫਾਕਸ ਮੈਚ ਕਰੋ। ਸਾਡੇ ਥੀਮ ਸ਼੍ਰੇਣੀਆਂ ਤੋਂ ਇੱਕ ਨਵਾਂ ਰੂਪ ਲਵੋ ਜਾਂ ਆਪਣੇ ਆਪ ਬਣਾਉ।
 
 
 ;Blocks ads with trackers. Automatically. Plus, it can even speed up page loading. Get the private browser that has your back.
-Blocks ads with trackers. Automatically. Plus, it can even speed up page loading. Get the private browser that has your back.
+ਟਰੈਕਰਾਂ ਦੇ ਨਾਲ ਬਲਾਕ ਵਿਗਿਆਪਨ। ਆਪਣੇ-ਆਪ। ਨਾਲ ਹੀ, ਇਹ ਪੰਨੇ ਦੀ ਲੋਡਿੰਗ ਨੂੰ ਤੇਜ਼ ਕਰ ਸਕਦਾ ਹੈ। ਉਹ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਰ ਪ੍ਰਾਪਤ ਕਰੋ ਜਿਸਦੇ ਕੋਲ ਤੁਹਾਡੀ ਪਿੱਠ ਹੈ।
 
 
 ;Automatic Privacy
@@ -170,31 +174,31 @@ Blocks ads with trackers. Automatically. Plus, it can even speed up page loading
 
 
 ;Browse stress free. Powerful privacy features are always on and your browsing history is wiped after every session.
-Browse stress free. Powerful privacy features are always on and your browsing history is wiped after every session.
+ਤਣਾਅ ਮੁਕਤ ਬਰਾਊਜ਼ ਕਰੋ। ਸ਼ਕਤੀਸ਼ਾਲੀ ਪਰਦੇਦਾਰੀ ਵਿਸ਼ੇਸ਼ਤਾ ਹਮੇਸ਼ਾ ਚਾਲੂ ਹੁੰਦੀ ਹੈ ਅਤੇ ਹਰ ਸੈਸ਼ਨ ਦੇ ਬਾਅਦ ਤੁਹਾਡੇ ਬ੍ਰਾਊਜ਼ਿੰਗ ਇਤਿਹਾਸ ਨੂੰ ਮਿਟਾ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ।
 
 
 ;Automatically blocks ads that have sneaky hidden trackers that collect data.
-Automatically blocks ads that have sneaky hidden trackers that collect data.
+ਆਟੋਮੈਟਿਕ ਤੌਰ ਤੇ ਉਹ ਵਿਗਿਆਪਨਾਂ ਨੂੰ ਬਲੌਕ ਕਰੋ ਜਿਸ ਵਿੱਚ ਡਾਟਾ ਇਕੱਠਾ ਕਰਨ ਵਾਲੇ ਓਹਲੇ ਟਰੈਕਰ ਹਨ।
 
 
 ;One tap erases your cookies and browsing history.
-One tap erases your cookies and browsing history.
+ਇੱਕ ਟੈਪ ਤੁਹਾਡੇ ਕੂਕੀਜ਼ ਅਤੇ ਬ੍ਰਾਉਜ਼ਿੰਗ ਇਤਿਹਾਸ ਮਿਟਾਉਂਦਾ ਹੈ।
 
 
 ;Get more done. By blocking some ads and scripts, Tracking Protection can speed up your browsing.
-Get more done. By blocking some ads and scripts, Tracking Protection can speed up your browsing.
+ਹੋਰ ਪੂਰਾ ਕਰੋ । ਕੁਝ ਇਸ਼ਤਿਹਾਰ ਅਤੇ ਸਕ੍ਰਿਪਟਾਂ ਨੂੰ ਰੋਕ ਕੇ, ਟ੍ਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਤੁਹਾਡੀ ਬ੍ਰਾਊਜ਼ਿੰਗ ਨੂੰ ਤੇਜ਼ ਕਰ ਸਕਦਾ ਹੈ।
 
 
 ;Fewer elements can mean faster loading pages.
-Fewer elements can mean faster loading pages.
+ਘੱਟ ਤੱਤ ਤੇਜ਼ ਹੋ ਰਹੇ ਪੰਨਿਆਂ ਨੂੰ ਵਧਾ ਸਕਦੇ ਹਨ।
 
 
 ;Save your mobile memory for the memories. Firefox Focus takes up less selfie space on your phone.
-Save your mobile memory for the memories. Firefox Focus takes up less selfie space on your phone.
+ਯਾਦਾਂ ਲਈ ਆਪਣੀ ਮੋਬਾਈਲ ਮੈਮੋਰੀ ਸੁਰੱਖਿਅਤ ਕਰੋ। ਫਾਇਰਫਾੱਕਸ ਫੋਕਸ ਤੁਹਾਡੇ ਫੋਨ ਤੇ ਘੱਟ ਸੇਲਫੀ ਜਗ੍ਹਾ ਲੈਂਦਾ ਹੈ।
 
 
 ;Small, yet powerful at less than 5MB.
-Small, yet powerful at less than 5MB.
+5MB ਤੋਂ ਘੱਟ ਤੇ ਛੋਟਾ, ਪਰ ਸ਼ਕਤੀਸ਼ਾਲੀ।
 
 
 ;Send Firefox to your phone and unleash your internet.
