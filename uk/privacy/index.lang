@@ -1,111 +1,114 @@
+## active ##
+## updates-052018 ##
+## updates-072018 ##
 ## NOTE: demo page is available at https://www-dev.allizom.org/privacy/
 
 
 ;Mozilla Privacy
-Mozilla Privacy
+Приватність Mozilla
 
 
 ;Contact Mozilla
-Contact Mozilla
+Зв'язатися з Mozilla
 
 
 ;If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
-If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
+Якщо ви хочете змінити свою інформацію, або маєте будь-які питання щодо правил приватності, зв'яжіться з:
 
 
 ;Data Privacy Principles
-Data Privacy Principles
+Принципи приватності
 
 
 # Links to https://www.mozilla.org/privacy/principles/
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+<a href="%(principles)s">Принципи приватності даних</a> Mozilla надихають нашу роботу, що цінує та захищає людей, які користуються Інтернетом. Дізнайтеся, як ці принципи впливають на Firefox та всі наші продукти, переглянувши <a href="%(faq)s">ЧаП</a>.
 
 
 # This string is obsolete. Do not remove.
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Принципи приватності даних Mozilla надихають нашу роботу, що цінує та захищає людей, які користуються Інтернетом. Дізнайтеся, як ці принципи впливають на Firefox та всі наші продукти, переглянувши <a href="%(faq)s">ЧаП</a>.
 
 
 # This string is obsolete. Do not remove.
 ;Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
-Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
+Mozilla є відкритим проектом з місією покращити вашу роботу в Інтернеті. Це рушійна сила, яка стоїть за нашими принципами приватності. <a href="%(link)s">Дізнайтеся більше</a>
 
 
 ;Privacy Notices
-Privacy Notices
+Примітки про приватність
 
 
 # This string is obsolete. Do not remove.
 ;Our Privacy Notices
-Our Privacy Notices
+Наші примітки про приватність
 
 
 ;Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
-Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+Наші примітки про приватність описують те, як наші продукти і сервіси використовують отримані дані, а також ваші можливості керування ними.
 
 
 # This string is obsolete. Do not remove.
 ;We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
-We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
+Ми створили стислі й зрозумілі примітки про приватність, щоб описати, як наші продукти і сервіси отримують та використовують отримані дані, а також ваші можливості вибору. Докладніше:
 
 
 ;Mozilla Websites, Communications &amp; Cookies
-Mozilla Websites, Communications &amp; Cookies
+Веб-сайти, комунікації та куки Mozilla
 
 
 ;Firefox Browser
-Firefox Browser
+Браузер Firefox
 
 
 ;Firefox for Fire TV
-Firefox for Fire TV
+Firefox для Fire TV
 
 
 ;Transparency Report
-Transparency Report
+Звіт про прозорість
 
 
 ;As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
-As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
+Відкритість і прозорість є найважливішою частиною принципів роботи проекту Mozilla. Наша кодова база є відкритою та доступною для аудиту. Наш процес розробки є відкритим. Наш <a href="%(report)s">Звіт про прозорість</a>, що виходить кожні півроку, також відображає нашу відданість цим принципам.
 
 
 ;To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
-To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
+Щоб перевірити й залишити коментарі з пропозиціями про зміни для нашої політики приватності, <a href="%(group)s"> підпишіться на групу управління Mozilla</a>.
 
 
 # This string is obsolete. Do not remove.
 ;To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
-To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
+Щоб перевірити й залишити коментарі з пропозиціями про зміни для нашої політики приватності, <a href="%(group)s"> підпишіться на Групу Управління Mozilla</a>.
 
 
 ;Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
-Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
+Читайте більше про нашу поточну роботу над політикою приватності та безпеки в <a href="%(blog)s">Блозі про політику відкритості й захист</a>.
 
 
 # This string is obsolete. Do not remove.
 ;Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
-Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
+Наша поточна робота над приватністю описується в <a href="%(blog)s">Блозі приватності й безпеки даних</a>, а також з інформацією про нашу поточну роботу можна ознайомитись на <a href="%(wiki)s"> Вікі-сторінці команди приватності Mozilla</a>.
 
 
 ;Outdated Policies
-Outdated Policies
+Попередні версії
 
 
 # Used at the top of the page for navigation (breadcrumbs)
 ;Home
-Home
+Домівка
 
 
 # Used in legal docs to collapse (hide) a paragraph
 ;Show Less
-Show Less
+Показати менше
 
 
 # Used in sub-pages to return to the main index https://www.mozilla.org/privacy
 ;Back to Mozilla Privacy Policy
-Back to Mozilla Privacy Policy
+Повернутися до політики приватності Mozilla
 
 
