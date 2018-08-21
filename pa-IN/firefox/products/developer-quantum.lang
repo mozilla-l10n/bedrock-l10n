@@ -3,7 +3,7 @@
 
 # HTML page description
 ;Built for those who build the Web. The only browser made for developers like you.
-Built for those who build the Web. The only browser made for developers like you.
+ਉਨ੍ਹਾਂ ਲੋਕਾਂ ਲਈ ਬਣਾਇਆ ਗਿਆ ਜੋ ਵੈਬ ਤਿਆਰ ਕਰਦੇ ਹਨ। ਤੁਹਾਡੇ ਵਰਗੇ ਡਿਵੈਲਪਰਾਂ ਲਈ ਬਣਾਇਆ ਗਿਆ ਇੱਕਲਾ ਬਰਾਊਜ਼ਰ।
 
 
 ;Firefox Quantum: Developer Edition
@@ -11,11 +11,11 @@ Built for those who build the Web. The only browser made for developers like you
 
 
 ;Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
-Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
+ਤੁਹਾਡੇ ਨਵੇਂ ਪਸੰਦੀਦਾ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ। ਓਪਨ ਵੈਬ ਲਈ ਨਵੀਨਤਮ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ, ਤੇਜ਼ ਕਾਰਗੁਜ਼ਾਰੀ ਅਤੇ ਵਿਕਾਸ ਸੰਦਾਂ ਜਿਨ੍ਹਾਂ ਨੂੰ ਬਣਾਉਣ ਦੀ ਤੁਹਾਨੂੰ ਲੋੜ ਹੈ ਉਹਨਾਂ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰੋ।
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
-Firefox Developer Edition automatically sends feedback to Mozilla.
+ਫਾਇਰਫਾਕਸ ਡਿਵੈਲਪਰ ਐਡੀਸ਼ਨ ਆਪਣੇ-ਆਪ ਫੀਡਬੈਕ ਮੌਜ਼ੀਲਾ ਨੂੰ ਭੇਜਦਾ ਹੈ।
 
 
 ;Faster Performance
@@ -27,7 +27,7 @@ Firefox Developer Edition automatically sends feedback to Mozilla.
 
 
 ;Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
-Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
+ਫਾਇਰਫਾਕਸ ਨੂੰ ਗਰਾਉਂਡ ਤੋਂ ਮੁੜ ਬਣਾਇਆ ਗਿਆ ਹੈ ਤਾਂ ਜੋ ਪਹਿਲਾਂ ਨਾਲੋਂ ਵੱਧ ਤੇਜ਼ੀ ਅਤੇ ਸ਼ਕਤੀਸ਼ਾਲੀ ਹੋ ਸਕੇ। ਇਸ ਵਿੱਚ ਇੱਕ ਨਵਾਂ CSS ਇੰਜਣ ਸ਼ਾਮਲ ਹੈ ਜਿਸ ਵਿੱਚ ਅਤਿ ਆਧੁਨਿਕ ਨਵੀਨਤਾਵਾਂ ਹਨ ਅਤੇ ਇਹ ਤੇਜ਼ੀ ਤੋਂ ਤੇਜ਼ ਹੈ।
 
 
 ;New Tools
@@ -44,12 +44,12 @@ Firefox has been rebuilt from the ground up to be faster and more powerful than 
 
 
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
-The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
+ਨਵਾਂ ਫਾਇਰਫਾਕਸ DevTools ਸ਼ਕਤੀਸ਼ਾਲੀ, ਲਚਕੀਲਾ ਅਤੇ ਸਭ ਤੋਂ ਵਧੀਆ, ਹੈਟੇਬਲ ਹੈ ਇਸ ਵਿੱਚ ਇੱਕ ਸਭ ਤੋਂ ਵਧੀਆ ਕਲਾਸ ਜਾਵਾਸਕ੍ਰਿਪਟ ਡੀਬਗਰ ਸ਼ਾਮਲ ਹੈ, ਜਿਸਨੂੰ ਬਹੁਤ ਸਾਰੇ ਬ੍ਰਾਉਜ਼ਰਾਂ ਲਈ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ ਅਤੇ ਰੀਐਕਟ ਅਤੇ ਰੀਡਕਸ ਵਿੱਚ ਬਣਾਇਆ ਗਿਆ ਹੈ।
 
 
 # String is obsolete. Do not remove.
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
-The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Ember.
+ਨਵਾਂ ਫਾਇਰਫਾਕਸ DevTools ਸ਼ਕਤੀਸ਼ਾਲੀ, ਲਚਕੀਲਾ ਅਤੇ ਸਭ ਤੋਂ ਵਧੀਆ, ਹੈਟੇਬਲ ਹੈ ਇਸ ਵਿੱਚ ਇੱਕ ਸਭ ਤੋਂ ਵਧੀਆ ਕਲਾਸ ਜਾਵਾਸਕ੍ਰਿਪਟ ਡੀਬਗਰ ਸ਼ਾਮਲ ਹੈ, ਜਿਸਨੂੰ ਬਹੁਤੇ ਬ੍ਰਾਉਜ਼ਰਸ ਲਈ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ ਅਤੇ ਰੀਐਕਟ ਅਤੇ ਐਮਬਰ ਵਿੱਚ ਬਣਾਇਆ ਗਿਆ ਹੈ।
 
 
 ;Innovative Features

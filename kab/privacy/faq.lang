@@ -17,7 +17,7 @@ Di mozilla nettqadeṛ daɣen nemmestan isefka-ik udmawanen.
 
 # "Under the hood" is an expression in automobile industry. Here it is a metaphor about something that exists but out of sight, behind the scenes.
 ;It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
-It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
+D ayen ẓẓayen i yemdanen akken ad issinen ayen zemren ad rǧun seg iseɣẓan neɣ tanfiwin seqdacen ass-a. Tatiknulujit d tukrist, imdanen ur sɛin ara akud akken ad selḍen talqayt. Aya d ameɣtu ula i Firefox, anida nettaf d akken imdanen sɛan deqs n tiktiwin yemgaraden ɣef wamek itteddu uminig Web-nsen.
 
 
 ;At Mozilla, we respect and protect your personal information:
@@ -46,11 +46,11 @@ Isteqsiyen d tririyin id-iteddun ad k-ɛawnen ad tegzuḍ ayen tzemreḍ ad ter�
 
 
 ;I use Firefox for almost everything on the Web. You folks at Mozilla must know a ton of stuff about me, right?
-I use Firefox for almost everything on the Web. You folks at Mozilla must know a ton of stuff about me, right?
+Seqdaceɣ Firefox i yal taɣawsa di Web. Di Mozilla, ad tilim tesnem aṭas fell-i, d tidet?
 
 
 ;Firefox, the web browser that runs on your device or computer, is your gateway to the internet. Your browser will manage a lot of information about the websites you visit, but that information stays on your device. Mozilla, the company that makes Firefox, doesn’t collect it (unless you ask us to).
-Firefox, the web browser that runs on your device or computer, is your gateway to the internet. Your browser will manage a lot of information about the websites you visit, but that information stays on your device. Mozilla, the company that makes Firefox, doesn’t collect it (unless you ask us to).
+Firefox, iminig Web yellan ɣef ibenk-inek neɣ uselkim-inek, d tiqenteṛt-k ɣer internet. Iminig-inek ad isefrek aṭas n telɣut ɣef ismal web i tettwaliḍ, dacu talɣut-agi ad teqqim deg ibenk-inek. Mozilla, takebbanit id-isnulfan Firefox, ur tleqqeḍ ara talɣut-agi (arama ma tsutreḍ-d aya).
 
 
 ;Really, you don’t collect my browsing history?
@@ -63,7 +63,7 @@ Mozilla doesn’t know as much as you’d expect about how people browse the web
 
 
 ;It seems like every company on the web is buying and selling my data. You’re probably no different.
-It seems like every company on the web is buying and selling my data. You’re probably no different.
+Ittban-d dakken akk tikebbaniyin web ttaɣent u znuzuyent isefka-inu. Ula d kunwi ahat ur temgaradem ara fell-asent.
 
 
 ;Mozilla doesn’t sell data about you, and we don’t buy data about you.
@@ -91,7 +91,7 @@ Mozilla does collect a limited set of data by default from Firefox that helps us
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
-We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
+Tasemlit-nneɣ d tazayezt akken yal yiwen ad yizmir ad isenqed dakken ayen id-neqqar d tidet, ini-aɣ-id ayen ilaq ad nesnerni, tzemreḍ ad twaliḍ ur neffir kra.
 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
@@ -100,11 +100,11 @@ That documentation is gobbledygook to me! Can you give it to me in plain English
 
 
 ;There are two categories of data that we collect by default in our release version of Firefox.
-There are two categories of data that we collect by default in our release version of Firefox.
+Llant snat n taggayin n isefka i nleqqeḍ s wudem amezwer di lqem uzwir n Firefow.
 
 
 ;The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
-The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
+Tamenzut d ayen i wumi qqaren " Isefka itiknikayen."D isefka-agi ɣef iminig, am unagraw n wammud iteddun akked d talɣut ɣef tuccḍiwin neɣ iɣelluyen.
 
 
 ;The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
@@ -151,15 +151,15 @@ I yisefka n umiḍan-iw?
 
 
 ;We are big believers of data minimization and not asking for things we don't need.
-We are big believers of data minimization and not asking for things we don't need.
+Numen ɣef usemẓi n ulqaḍ n isefka u ur nsutur ara ayen ur nesri.
 
 
 ;You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
-You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
+Ur tesriḍ ara amiḍan akken ad tesqedceḍ Firefox. Imiḍanen ttwasran i umtawi n isefka deg yibenkan, ad nsuter kan tansa imayl-ik. Ur nettqellib ara ɣef tɣawsiwin am issem, tansa, azemz n tlalit akked uṭṭun n tiliɣri.
 
 
 ;You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
-You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
+Tseqdacem adellel umḍin deg telzuzit-nwen. Tettaɣem isefka n yemdanen i usaḍas n idellilen di Web?
 
 
 ;No, we do not buy people's data to target advertising.
