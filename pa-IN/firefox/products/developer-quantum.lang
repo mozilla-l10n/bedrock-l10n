@@ -66,7 +66,7 @@ CSS ਗਰਿੱਡ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
-Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
+ਫਾਇਰਫਾਕਸ ਸਿਰਫ ਇਕ ਅਜਿਹਾ ਬਰਾਊਜ਼ਰ ਹੈ ਜਿਸ ਵਿਚ ਖਾਸ ਤੌਰ ਤੇ ਸੀਐਸਐਸ ਗਰਿੱਡ ਦੇ ਬਣਾਉਣ ਅਤੇ ਡਿਜ਼ਾਇਨ ਕਰਨ ਲਈ ਬਣਾਏ ਗਏ ਔਜ਼ਾਰ ਹਨ। ਇਹ ਟੂਲ ਤੁਹਾਨੂੰ ਗਰਿੱਡ ਦੀ ਕਲਪਨਾ ਕਰਨ, ਸਬੰਧਿਤ ਖੇਤਰ ਦੇ ਨਾਮ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ, ਗਰਿੱਡ ਤੇ ਪੂਰਵ ਪਰਿਵਰਤਨ ਅਤੇ ਹੋਰ ਬਹੁਤ ਕੁਝ ਕਰਨ ਦੀ ਇਜ਼ਾਜਤ ਦਿੰਦੇ ਹਨ।
 
 
 ;Design. Code. Test. Refine.
@@ -75,7 +75,7 @@ Firefox is the only browser with tools built specifically for building and desig
 
 # line break for visual formatting
 ;Build and Perfect your sites<br> with Firefox DevTools
-Build and Perfect your sites<br> with Firefox DevTools
+ਫਾਇਰਫਾਕਸ DevTools ਨਾਲ ਆਪਣੀਆਂ ਸਾਈਟਾਂ <br> ਬਣਾਓ ਅਤੇ ਬਿਲਕੁਲ ਸਹੀ ਕਰੋ
 
 
 ;Inspector
@@ -83,7 +83,7 @@ Build and Perfect your sites<br> with Firefox DevTools
 
 
 ;Inspect and refine code to build pixel-perfect layouts.
-Inspect and refine code to build pixel-perfect layouts.
+ਪਿਕਸਲ-ਸੰਪੂਰਣ ਲੇਆਉਟ ਬਣਾਉਣ ਲਈ ਕੋਡ ਦੀ ਜਾਂਚ ਕਰੋ ਅਤੇ ਸੁਧਾਰੋ।
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Page_Inspector
@@ -114,111 +114,111 @@ Inspect and refine code to build pixel-perfect layouts.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Debugger
 ;Learn more about JavaScript Debugger
-Learn more about JavaScript Debugger
+JavaScript ਡੀਬੱਗਰ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 
 
 ;Network
-Network
+ਨੈੱਟਵਰਕ
 
 
 ;Monitor network requests that can slow or block your site.
-Monitor network requests that can slow or block your site.
+ਨੈਟਵਰਕ ਬੇਨਤੀਆਂ ਦੀ ਨਿਗਰਾਨੀ ਕਰੋ ਜੋ ਤੁਹਾਡੀ ਸਾਈਟ ਨੂੰ ਹੌਲੀ ਜਾਂ ਬਲੌਕ ਕਰ ਸਕਦਾ ਹੈ।
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Network_Monitor
 ;Learn more about Network Monitor
-Learn more about Network Monitor
+ਨੈੱਟਵਰਕ ਮਾਨੀਟਰ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 
 
 ;Storage panel
-Storage panel
+ਸਟੋਰੇਜ਼ ਪੈਨਲ
 
 
 ;Add, modify and remove cache, cookies, databases and session data.
-Add, modify and remove cache, cookies, databases and session data.
+ਕੈਚੇ, ਕੂਕੀਜ਼, ਡੇਟਾਬੇਸ ਅਤੇ ਸ਼ੈਸ਼ਨ ਡੇਟਾ ਨੂੰ ਜੋੜੋ, ਸੋਧ ਕਰੋ ਅਤੇ ਹਟਾਓ।
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Storage_Inspector
 ;Learn more about Storage Panel
-Learn more about Storage Panel
+ਸਟੋਰੇਜ਼ ਪੈਨਲ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 
 
 ;Responsive Design Mode
-Responsive Design Mode
+ਜਵਾਬਦੇਹ ਡਿਜ਼ਾਇਨ ਮੋਡ
 
 
 ;Test sites on emulated devices in your browser.
-Test sites on emulated devices in your browser.
+ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਵਿਚ ਇਮੂਲੇਟਡ ਜੰਤਰਾਂ ਦੀਆਂ ਸਾਈਟਾਂ ਦੀ ਜਾਂਚ ਕਰੋ।
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Responsive_Design_View
 ;Learn more about Responsive Design View
-Learn more about Responsive Design View
+ਸੰਵੇਦਨਸ਼ੀਲ ਡਿਜਾਇਨ ਵੇਖਣ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 
 
 ;Visual Editing
-Visual Editing
+ਦ੍ਰਿਸ਼ਟੀ ਸੋਧ ਕਰਨਾ
 
 
 ;Fine-tune animations, alignment and padding.
-Fine-tune animations, alignment and padding.
+ਜੁਰਮਾਨਾ-ਟਿਊਨ ਐਨੀਮੇਸ਼ਨ, ਅਲਾਈਨਮੈਂਟ ਅਤੇ ਪੈਡਿੰਗ।
 
 
 # Link points to https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more
 ;Learn more about Visual Editing
-Learn more about Visual Editing
+ਦ੍ਰਿਸ਼ਟੀ ਸੋਧਕ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 
 
 ;Performance
-Performance
+ਕਾਰਗੁਜ਼ਾਰੀ
 
 
 ;Unblock bottlenecks, streamline processes, optimize assets.
-Unblock bottlenecks, streamline processes, optimize assets.
+ਰੁਕਾਵਟਾਂ ਨੂੰ ਅਨਬਲੌਕ ਕਰੋ, ਪ੍ਰਕਿਰਿਆ ਨੂੰ ਸੁਚਾਰੂ ਕਰੋ, ਜਾਇਦਾਦ ਅਨੁਕੂਲਿਤ ਕਰੋ।
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Performance
 ;Learn more about Performance Tools
-Learn more about Performance Tools
+ਕਾਰਗੁਜਾਰੀ ਟੂਲ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 
 
 ;Memory
-Memory
+ਮੈਮਰੀ
 
 
 ;Find memory leaks and make your application zippy.
-Find memory leaks and make your application zippy.
+ਮੈਮੋਰੀ ਲੀਕ ਲੱਭੋ ਅਤੇ ਆਪਣੀ ਅਰਜ਼ੀ ਜ਼ਿਪੀ ਬਣਾਓ।
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Memory
 ;Learn more about Memory Tools
-Learn more about Memory Tools
+ਮੈਮਰੀ ਟੂਲ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 
 
 ;Web Audio
-Web Audio
+ਵੈੱਬ ਆਡੀਓ
 
 
 ;The only developer tool for inspecting the Web Audio API.
-The only developer tool for inspecting the Web Audio API.
+ਵੈਬ ਔਡੀਓ API ਦੀ ਜਾਂਚ ਕਰਨ ਲਈ ਸਿਰਫ ਡਿਵੈਲਪਰ ਟੂਲ ਹੈ।
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Web_Audio_Editor
 ;Learn more about Web Audio Editor
-Learn more about Web Audio Editor
+ਵੈੱਬ ਆਡੀਓ ਐਡੀਟਰ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 
 
 ;Scratchpad
-Scratchpad
+ਸਕਰੈਚਪੈਡ
 
 
 ;Edit, write, run and execute JavaScript in real time.
-Edit, write, run and execute JavaScript in real time.
+ਅਸਲ ਟਾਈਮ ਵਿੱਚ JavaScript ਨੂੰ ਸੰਪਾਦਿਤ ਕਰੋ, ਲਿਖੋ, ਚਲਾਓ ਅਤੇ ਲਾਗੂ ਕਰੋ।
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Scratchpad
 ;Learn more about Scratchpad
-Learn more about Scratchpad
+ਸਕਰੈਚਪੈਡ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 
 
 ;Style Editor
@@ -226,29 +226,29 @@ Learn more about Scratchpad
 
 
 ;Edit and manage all your CSS stylesheets in your browser.
-Edit and manage all your CSS stylesheets in your browser.
+ਆਪਣੇ ਬ੍ਰਾਊਜ਼ਰ ਵਿਚ ਆਪਣੀਆਂ ਸਾਰੀਆਂ CSS ਸਟਾਇਲਸ਼ੀਟਾਂ ਨੂੰ ਸੰਪਾਦਿਤ ਅਤੇ ਪ੍ਰਬੰਧਿਤ ਕਰੋ।
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Style_Editor
 ;Learn more about Style Editor
-Learn more about Style Editor
+ਸਟਾਈਲ ਐਡੀਟਰ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 
 
 ;Speak up
-Speak up
+ਬੋਲੋ
 
 
 ;Feedback makes us better. Tell us how we can improve the browser and Developer tools.
-Feedback makes us better. Tell us how we can improve the browser and Developer tools.
+ਫੀਡਬੈਕ ਸਾਨੂੰ ਬਿਹਤਰ ਬਣਾਉਂਦਾ ਹੈ। ਸਾਨੂੰ ਦੱਸੋ ਕਿ ਅਸੀਂ ਬ੍ਰਾਉਜ਼ਰ ਅਤੇ ਵਿਕਾਸਕਾਰ ਟੂਲ ਕਿਵੇਂ ਸੁਧਾਰ ਸਕਦੇ ਹਾਂ।
 
 
 # Link to https://discourse.mozilla-community.org/c/devtools
 ;Join the conversation
-Join the conversation
+ਗੱਲਬਾਤ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਵੋ
 
 
 ;Get involved
-Get involved
+ਹਿੱਸਾ ਲਵੋ
 
 
 ;Help build the last independent browser. Write code, fix bugs, make add-ons, and more.
@@ -257,7 +257,7 @@ Help build the last independent browser. Write code, fix bugs, make add-ons, and
 
 # Link to https://devtools-html.github.io/
 ;Start now
-Start now
+ਹੁਣ ਸ਼ੁਰੂ ਕਰੋ
 
 
 ;Download the Firefox browser made for developers
