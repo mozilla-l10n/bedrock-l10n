@@ -1,4 +1,5 @@
 ## active ##
+## disconnect_link ##
 ## focus_apk_link_012018 ##
 ## headline_update_012018 ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/mobile/
@@ -129,7 +130,7 @@ iOS आणि Android
 
 # Links to https://disconnect.me/
 ;Built-in tracking protection and block lists provided by <a href="%(url)s">Disconnect</a>.
-Built-in tracking protection and block lists provided by <a href="%(url)s">Disconnect</a>.
+अंतर्गत ट्रॅकिंग सुरक्षा आणि <a href="%(url)s">Disconnect</a> द्वारा पुरवलेल्या ब्लॉक याद्या.
 
 
 ;Extensions & Customization

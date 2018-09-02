@@ -1,6 +1,7 @@
 ## active ##
 ## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_201602 ##
+## tp_tour_firefox_201809 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
@@ -38,11 +39,11 @@
 
 
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable For This Session.”
-It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable For This Session.”
+તમે જે વેબસાઇટ પર છો તેની ટ્રેકિંગ સુરક્ષાને “આ સત્ર નિષ્ક્રીય કરો” પર ક્લિક કરીને સહેલાઇથી બંધ કરી શકાય છે.
 
 
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable For This Site.”
-It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable For This Site.”
+તમે જે વેબસાઇટ પર છો તેની ટ્રેકિંગ સુરક્ષાને “આ સાઇટ માટે નિષ્ક્રીય કરો” પર ક્લિક કરીને સહેલાઇથી બંધ કરી શકાય છે.
 
 
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this site.”
