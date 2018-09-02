@@ -1,4 +1,5 @@
 ## active ##
+## developer_page_desc_082018 ##
 ## mozilla_newsletter_2017 ##
 ## mozilla_newsletter_copy ##
 ## newsletter_confirm_2016 ##
@@ -61,7 +62,7 @@ Milujete web? My také!
 
 
 ;Unlock the world of web development with our weekly Mozilla Developer Newsletter. Each edition brings you coding techniques and best practices, MDN updates, info about emerging technologies, developer tools tips, and more.
-Unlock the world of web development with our weekly Mozilla Developer Newsletter. Each edition brings you coding techniques and best practices, MDN updates, info about emerging technologies, developer tools tips, and more.
+Nahlédněte do světa vývoje webu s naším týdenním zpravodajem Mozilla Developer. Každé vydání přináší informace a technikách programování a ověřených postupech, novinkách na MDN, informace o nových technologiích, tipy na vývojářské nástroje a další.
 
 
 # String is obsolete. Do not remove.
@@ -676,11 +677,11 @@ Přihlaste se ke zpravodaji Mozilly a nechte se informovat o zdraví internetu a
 
 
 ;Your email address
-Your email address
+Vaše e-mailová adresa
 
 
 # Only localize "yourname". Do not touch @example.com.
 ;yourname@example.com
-yourname@example.com
+vase-adresa@example.com
 
 
