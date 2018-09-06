@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo page is available at https://www-dev.allizom.org/privacy/faq/
 
 
@@ -87,99 +88,99 @@ Man relik ta chi moloj ri Mozilla. Xtz'uk achi'el jun runimasamaj tinamital rich
 # First URL links to https://www.mozilla.org/privacy/firefox/
 # Second URL links to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 ;Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
-Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
+Mozilla yerumöl jujun taq tzij pa Firefox, ja ri yojkito' richin niqetamaj achike rub'eyal nikokisaj ri qokik'amaya'l ri okisanela'. Ri taq tzij nikixïm ki' rik'in jun kamulunel k'utub'äl, man rik'in ta ri ab'i' o rochochib'al ataqoya'l. Yatikïr nawïl ch'aqa' chik we nasik'ij ri <a href="%(privacy)s">ichinan qatzijol</a> chuqa' ri <a href="%(data)s"> tz'aqät wujinem pa ruwi' kimolik taq tzij</a>.
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
-We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
+Ronojel wujil konojel winaqi' yetz'eto richin, richin chi ri okisanela' yetikïr nikotojtob'ej we qitzij ri niqab'ij ronojel q'ij, ruma ri' ütz nikitzijoj chi qe rub'eyal niqutzilaj qi' chuqa' tiketamaj chi majun niqewaj.
 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
 ;That documentation is gobbledygook to me! Can you give it to me in plain English?
-That documentation is gobbledygook to me! Can you give it to me in plain English?
+¡Man ninq'ax ta pa nuwi' la wujinem la'! ¿La k'o chik jun rub'eyal tz'ib'an?
 
 
 ;There are two categories of data that we collect by default in our release version of Firefox.
-There are two categories of data that we collect by default in our release version of Firefox.
+Toq nelesäx jun k'ak'ak' ruwäch Firefox, ka'i' ruwäch tzij yeqamöl.
 
 
 ;The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
-The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
+Ri nab'ey ja ri qab'ina'am "samajel taq tzij." Etamab'äl chi rij ri okik'amaya'l, achi'el ri samajel q'inoj chuqa' etamab'äl chi rij sachoj chuqa' chupuj.
 
 
 ;The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
-The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
+Ri ruka'n ja ri qab'ina'am "b'eyal tzij." Ja ri etamab'äl chi rij rub'eyal kik'amon ki' ri okisanela' rik'in ri Firefox, achi'el janipe' taq ruwi' e jaqäl, ri rajowab'al okisanel o jarupe' mul ye'okisäx jujun taq samaj, achi'el ri chapoj ruwäch o ri taq k'wayöl. Achi'el, niqamöl tzij chi rij ri Chi rij pitz'b'äl, ri ch'ab' k'o pan ajsik ajkiq'a' rutz'ik okik'amaya'l, ri nuya' q'ij chawe richin yatzolin pa ri ruxaq chupam, po man niqetamaj ta achike ruxaq k'amaya'l yekitzu' ri okisanela'.
 
 
 ;Do you collect more data in pre-release versions of Firefox?
-Do you collect more data in pre-release versions of Firefox?
+¿La k'o k'ïy taq tzij yemol pa ri nab'ey taq ruwäch Firefox?
 
 
 ;Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
-Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
+Ke b'a ri'. Kitz'aqat ri taq tzij xechol qa, k'o wi chi yeqak'ül ri taq kitzijol sachoj chuqa' chupuj pa ri nab'ey taq ruwäch Firefox.
 
 
 # Links to https://support.mozilla.org/kb/shield
 ;We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
-We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
+Chuqa' yojtikïr yeqamöl kitz'aqat taq tzij pa ri nab'ey ruwäch richin jun chi ke ri <a href="%(link)s">qatijonik</a>. Achi'el, pa jujun taq tijonïk najowäx ri nib'ix “rutzij rusamaj ajk'amaya'l chi re, ri nutz'aqatisaj URLs chuqa' ch'aqa' chik etamab'äl chi kij jujun taq ajk'amaya'l ruxaq. Re re' yojruto' richin yeqatzolij tzij chi kij jujun taq k'utunïk richin nutziläx ri Firefox, achi'el, achike rub'eyal ninuk' ütz ajk'amaya'l ruxaq, ri k'o kiwinaq pa jikïl taq k'ojlib'äl.
 
 
 ;Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
-Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
+Ri nab'ey ruwäch Firefox richin Mozilla e runuk'uche'el k'iyirisanem, ri jutaqil yek'ex kik'in tojtob'el taq samaj. Yeqamöl k'ïy taq tzij pa ri nab'ey ruwäch chuwäch ri niqab'än chi rij ri relesaxik richin nino' pan qawi' achike rub'eyal yesamäj ri tojtob'el taq samaj ri'. Yatikïr nachüp kimolik re taq tzij re' pa taq ajowab'äl.
 
 
 ;But why do you collect any data at all?
-But why do you collect any data at all?
+¿Po achike ruma toq namöl ronojel ri tzij ri'?
 
 
 ;If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
-If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
+We man qetaman ta rub'eyal nisamäj ri okik'amaya'l o achike taq samaj yekokisaj ri okisanela', man yojtikïr ta niqutzilaj ni xa ta niqasüj utziläj taq tikomal. Xqatz'aqatisaj taq samajib'äl richin yemol taq tzij richin na'owinäq taq nojib'al yeqasamajij chi kij ri taq qatikomal; ja ri' chi junelïk niqakamelaj ri kichinanem okisanela'.
 
 
 ;Data collection still bugs me. Can I turn it off?
-Data collection still bugs me. Can I turn it off?
+Toq ke ri', man ütz ta nintz'ët ri kimolik tzij. ¿La yitikïr ninchüp?
 
 
 # First URL links to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 # Second URL links to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
 ;Yes. User control is one of our data privacy principles. We put that into practice in Firefox on our <a href="%(settings)s">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in Firefox. You can <a href="%(data)s">turn off data collection</a> there.
-Yes. User control is one of our data privacy principles. We put that into practice in Firefox on our <a href="%(settings)s">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in Firefox. You can <a href="%(data)s">turn off data collection</a> there.
+Ja'. Tik'oje' ronoej pa ruqa' ri okisanel ja ri jun ruk'u'x qatzij richin richinanem tzij. Niqasamajij pa Firefox pa <a href="%(settings)s">richinaxik runuk'ulem ruxaq</a>, ri nisamäj achi'el ruk'u'x ri nukanoj chi ronojel tik'oje' pa ruq'a' rik'in ri richinaxik pa Firefox. Yatikïr <a href="%(data)s">nachüp ri kimolik tzij</a> chila'.
 
 
 ;What about my account data?
-What about my account data?
+¿Achike pa ruwi' rutzij rub'i' nutaqoya'l?
 
 
 ;We are big believers of data minimization and not asking for things we don't need.
-We are big believers of data minimization and not asking for things we don't need.
+Niqarayib'ej ri kich'utinirisaxik taq tzij chuqa' man yeqak'utuj ta taq wachinäq ri man yek'atzin ta chi qe.
 
 
 ;You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
-You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
+Man k'atzinel ta jun rub'i' ataqoya'l richin nawokisaj Firefox. Nik'atzin rub'i' ataqoya'l richin ye'axïm tzij pa taq okisab'äl, xa xe jun rochochib'al ataqoya'l niqak'utuj. Man niqajo' ta niqetamaj ab'i', awochochib'al, q'ij xataläx o rajilab'al awoyonib'al.
 
 
 ;You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
-You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
+Nikokisax kematz'ib'il eltzijol achi'el ruch'akulal ri ruk'ayb'alil. ¿La niloq' kitzij winaqi' richin nisamajij ütz ri eltzijol pa k'amab'ey?
 
 
 ;No, we do not buy people's data to target advertising.
-No, we do not buy people's data to target advertising.
+Manäq, man yeqalöq' ta taq kitzij okisanela' richin niqajäch ri eltzijol.
 
 
 ;We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
-We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
+Niqak'utuj chi ke ri ajtaluy qawinaq chi xa xe tikokisaj ri taq tzij richin nab'ey peraj, ke ri ajk'amaya'l ruxaq chuqa' ri nuk'unela' ketaman chi kij ri okisanela', achi'el ri okik'amaya'l nrokisaj o ri okisab'äl at k'o wi.
 
 
 ;Well, it seems like you really have my back on this privacy stuff.
-Well, it seems like you really have my back on this privacy stuff.
+Ütz, achi'el chi achajin pa ruwi' re ichinanem re'.
 
 
 ;Yes, we do.
-Yes, we do.
+Ja', ke ri'.
 
 
 # Links to https://internethealthreport.org/
 ;Find out more about how Mozilla protects the internet.
-Find out more about how Mozilla protects the internet.
+Tawila' ch'aqa' chik chi rij rub'eyal nuchajij ri k'amaya'l ri Mozilla.
 
 

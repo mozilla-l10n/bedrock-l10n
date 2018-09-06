@@ -1,111 +1,114 @@
+## active ##
+## updates-052018 ##
+## updates-072018 ##
 ## NOTE: demo page is available at https://www-dev.allizom.org/privacy/
 
 
 ;Mozilla Privacy
-Mozilla Privacy
+Mozilla Ichinanem
 
 
 ;Contact Mozilla
-Contact Mozilla
+Katzijon rik'in Mozilla
 
 
 ;If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
-If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
+We nawajo' nachojmirisaj ri awetamab'al o k'o ak'utunik chi rij ri runa'ojil qichinanem, katzijon pe qik'in:
 
 
 ;Data Privacy Principles
-Data Privacy Principles
+Ruk'u'x taq Tzij chi kij Ichinaxïk
 
 
 # Links to https://www.mozilla.org/privacy/principles/
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Ri <a href="%(principles)s">Ruk'u'x taq Tzij chi kij Ichinaxïk</a> richin Mozilla, nuyäk qak'u'x chi rij qasamaj, ri yerukamelaj chuqa' yeruchajij  ri winaqi' nikokisaj ri K'amaya'l. Tawetamaj achike rub'eyal re ruk'ux' tzij nib'it ri Firefox chuqa' taq qatikojil pa <a href="%(faq)s">Jutaqil K'utunïk</a>.
 
 
 # This string is obsolete. Do not remove.
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Ri Ruk'u'x taq Tzij chi kij Ichinaxïk</a> richin Mozilla, nuyäk qak'u'x chi rij qasamaj, ri yerukamelaj chuqa' yeruchajij  ri winaqi' nikokisaj ri K'amaya'l. Tawetamaj achike rub'eyal re ruk'ux' tzij nib'it ri Firefox chuqa' taq qatikojil pa <a href="%(faq)s">Jutaqil K'utunïk</a>.
 
 
 # This string is obsolete. Do not remove.
 ;Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
-Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
+Ri Mozilla jun nuk'samaj chi rij jaqäl chi tzij, ri nrajo' chi nub'än rutzil ri awetamab'al pa k'amaya'l. Re re' jun achike ri nuyäk qak'u'x ruk'amon ri qasamaj chi rij ri richinaxik taq tzij. <a href="%(link)s">Tisik'ïx Ch'aqa' chik</a>
 
 
 ;Privacy Notices
-Privacy Notices
+Taq Rutzijol Ichinanem
 
 
 # This string is obsolete. Do not remove.
 ;Our Privacy Notices
-Our Privacy Notices
+Taq Rutzijol Qichinanem
 
 
 ;Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
-Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+Ri Taq Rutzijol Qichinanem nuchol ri etamab'äl nikik'uül, nikikomonij chuqa' yekokisaj ri taq qatikojil chuqa' taq qasamaj, ke ri' chuqa' ri taq cha'oj e k'o pan aq'a'.
 
 
 # This string is obsolete. Do not remove.
 ;We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
-We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
+Xqanük' jun ko'öl chuqa' jikïl Taq Rutzijol Ichinanem richin niqachöl achike rub'eyal yesamajïx, yekomonïx chuqa' ye'okisäx ri taq tzij kuma ri taq qatikojil chuqa' taq qasamaj, ke ri' chuqa' ri cha'oj e k'o pan aq'a'. Tawetamaj ch'aqa' chik:
 
 
 ;Mozilla Websites, Communications &amp; Cookies
-Mozilla Websites, Communications &amp; Cookies
+Ajk'amaya'l Ruxaq, Taq Rutzijob'al &amp; taq Rukaxlanway Mozilla
 
 
 ;Firefox Browser
-Firefox Browser
+Firefox Okik'amaya'l
 
 
 ;Firefox for Fire TV
-Firefox for Fire TV
+Firefox richin Fire TV
 
 
 ;Transparency Report
-Transparency Report
+Rutzijol Ch'ajch'ojil
 
 
 ;As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
-As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
+Achi'el ajjaqäl b'itz'ib' nimasamaj, ri ch'ajch'ojil chuqa' tikirib'äl e ruk'u'x kich'akul nïm ruk'u'x tzij Mozilla. Ri kixe'el qab'itz'ib' ja chi e jaqäl chuqa' e tz'etel. Ri qasamaj richin nimirisanem e jaqäl, ri <a href="%(report)s">Rutzijol Ch'ajch'ojil</a> kajuna' nuk'üt ri qatzij kik'in re ruk'u'x taq tzij re'.
 
 
 ;To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
-To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
+Richin yenik'öx chuqa' nitzijöx kij ri taq jaloj nik'ut pa runa'ojil qichinanem, <a href="%(group)s"> tatz'ib'aj ab'i' pa ri Chanpomanel qamoloj richin Mozilla</a>.
 
 
 # This string is obsolete. Do not remove.
 ;To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
-To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
+Richin yenik'öx chuqa' nitzijöx kij ri taq jaloj nik'ut pa runa'ojil qichinanem, <a href="%(group)s"> tatz'ib'aj ab'i' pa ri Chanpomanel Qamoloj richin Mozilla</a>.
 
 
 ;Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
-Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
+Tisik'ïx ch'aqa' chik chi rij ri ichinanem chuqa' jikomal aj winäq na'ojil pa <a href="%(blog)s">Jaqäl Na'ojil chuqa' To'ïk Ichinya'l</a>.
 
 
 # This string is obsolete. Do not remove.
 ;Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
-Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
+Ri niqasamajij chi rij ri ichinanem nisol pa <a href="%(blog)s">Ichinanem &amp; Data Safety Ichinya'l</a> chuqa' ri etamab'äl pa ruwi' ri niqasamajij k'o pa <a href="%(wiki)s"> ruwiki ri rumolaj richinanem Mozilla</a>.
 
 
 ;Outdated Policies
-Outdated Policies
+Ojer taq Na'ojil
 
 
 # Used at the top of the page for navigation (breadcrumbs)
 ;Home
-Home
+Tikirib'äl
 
 
 # Used in legal docs to collapse (hide) a paragraph
 ;Show Less
-Show Less
+Tik'ut pe Jub'a'
 
 
 # Used in sub-pages to return to the main index https://www.mozilla.org/privacy
 ;Back to Mozilla Privacy Policy
-Back to Mozilla Privacy Policy
+Titzolin pa ri Ichinan Runa'oj Mozilla
 
 
