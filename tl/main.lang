@@ -122,7 +122,7 @@ Makipag-ugnayan sa amin
 
 # Used in new footer to switch the language of the page
 ;Language
-Language
+Wika
 
 
 ;Other languages:
@@ -157,7 +157,7 @@ Patakarang Pangpribado
 
 
 ;Release Notes
-Release Notes
+Release Notes {ok}
 
 
 ;Other Systems and Languages
@@ -210,7 +210,7 @@ FAQ {ok}
 
 
 ;Videos
-Videos
+Mga bidyo
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
@@ -222,12 +222,12 @@ Report Trademark Abuse
 
 
 ;Free Upgrade
-Free Upgrade
+Linge Upgrade
 
 
 # social networks such as Facebook and Twitter
 ;Follow us on:
-Follow us on:
+Sundan kami sa:
 
 
 ;Customize with Add-ons
@@ -245,7 +245,7 @@ Karagdagang kaalaman
 
 # Link used to play again an animation or a video
 ;Replay
-Replay
+Ulitin
 
 
 ;Watch the video
@@ -265,7 +265,7 @@ WebM format {ok}
 
 
 ;Ogg Theora format
-Ogg Theora format
+Ogg Theora format {ok}
 
 
 ;MPEG-4 format
@@ -277,7 +277,7 @@ Mobile {ok}
 
 
 ;View Full Site
-View Full Site
+Tingnan ang Buong Site
 
 
 ;Desktop
@@ -352,7 +352,7 @@ Android Add-ons
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Themes
-Themes
+Mga tema
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -380,42 +380,42 @@ Get Mozilla updates
 
 # share button for social networks
 ;Share
-Share
+Ibahagi
 
 
 # footer link
 ;Mozilla on Twitter
-Mozilla on Twitter
+Mozilla sa Twitter
 
 
 # footer link
 ;Firefox on Twitter
-Firefox on Twitter
+Firefox sa Twitter
 
 
 # footer link
 ;Mozilla on Facebook
-Mozilla on Facebook
+Mozilla sa Facebook
 
 
 # footer link
 ;Firefox on Facebook
-Firefox on Facebook
+Firefox sa Facebook
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
-Forums
+Mga forum
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+Mga patent
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Leadership
-Leadership
+Pamunuan
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -445,7 +445,7 @@ Become a volunteer contributor in a number of different areas.
 
 # This is a non-visible string for blind people to indicate where the menu is
 ;Menu
-Menu
+Menu {ok}
 
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
@@ -517,51 +517,51 @@ Disyembre
 
 
 ;<abbr>Jan</abbr>
-<abbr>Jan</abbr>
+<abbr>Jan</abbr> {ok}
 
 
 ;<abbr>Feb</abbr>
-<abbr>Feb</abbr>
+<abbr>Feb</abbr> {ok}
 
 
 ;<abbr>Mar</abbr>
-<abbr>Mar</abbr>
+<abbr>Mar</abbr> {ok}
 
 
 ;<abbr>Apr</abbr>
-<abbr>Apr</abbr>
+<abbr>Apr</abbr> {ok}
 
 
 ;<abbr>May</abbr>
-<abbr>May</abbr>
+<abbr>May</abbr> {ok}
 
 
 ;<abbr>Jun</abbr>
-<abbr>Jun</abbr>
+<abbr>Jun</abbr> {ok}
 
 
 ;<abbr>Jul</abbr>
-<abbr>Jul</abbr>
+<abbr>Jul</abbr> {ok}
 
 
 ;<abbr>Aug</abbr>
-<abbr>Aug</abbr>
+<abbr>Aug</abbr> {ok}
 
 
 ;<abbr>Sep</abbr>
-<abbr>Sep</abbr>
+<abbr>Sep</abbr> {ok}
 
 
 ;<abbr>Oct</abbr>
-<abbr>Oct</abbr>
+<abbr>Oct</abbr> {ok}
 
 
 ;<abbr>Nov</abbr>
-<abbr>Nov</abbr>
+<abbr>Nov</abbr> {ok}
 
 
 ;<abbr>Dec</abbr>
-<abbr>Dec</abbr>
+<abbr>Dec</abbr> {ok}
 
 
 ;Congrats. You’re up to date!
@@ -604,7 +604,7 @@ Get Firefox news
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-YOUR EMAIL HERE
+YOUR EMAIL HERE {ok}
 
 
 # Newsletter subscription Button
@@ -656,13 +656,13 @@ Get Firefox tips, tricks, news and more
 # This string will be used as a navigation label in home page, pointing to /technology
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Web Innovations
-Web Innovations
+Web Innovations {ok}
 
 
 # This string will be used as a navigation label in home page, pointing to /internet-health
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Internet Health
-Internet Health
+Internet Health {ok}
 
 
 # Used as title in What's new page for 50
@@ -672,57 +672,57 @@ Salamat sa pagpili ng Firefox!
 
 # Used in combination with other strings to create HTML page titles, e.g. in What's new pages
 ;Mozilla Firefox Web Browser
-Mozilla Firefox Web Browser
+Mozilla Firefox Web Browser {ok}
 
 
 # Link in the footer
 ;Android Browser
-Android Browser
+Android Browser {ok}
 
 
 # Link in the footer
 ;iOS Browser
-iOS Browser
+iOS Browser {ok}
 
 
 # Link in the footer
 ;Focus Browser
-Focus Browser
+Focus Browser {ok}
 
 
 # Link in the footer
 ;Desktop Browser
-Desktop Browser
+Desktop Browser {ok}
 
 
 # Link in the footer
 ;Beta, Nightly, Developer Edition
-Beta, Nightly, Developer Edition
+Beta, Nightly, Developer Edition {ok}
 
 
 # Link in the footer
 ;Download Firefox Web Browser
-Download Firefox Web Browser
+I-download ang Firefox Web Browser
 
 
 # Link in the footer
 ;Desktop Browser for Mac, Windows, Linux
-Desktop Browser for Mac, Windows, Linux
+Desktop Browser para sa Mac, Windows, Linux
 
 
 # Link in the footer
 ;Mobile Browser for Android
-Mobile Browser for Android
+Mobile Browser para sa Android
 
 
 # Link in the footer
 ;Mobile Browser for iOS
-Mobile Browser for iOS
+Mobile Browser para sa iOS
 
 
 # Title in a banner displayed to users of old versions of Firefox
 ;Your Firefox is out-of-date.
-Your Firefox is out-of-date.
+Luma na ang iyong Firefox.
 
 
 # Description in a banner displayed to users of old versions of Firefox
@@ -762,17 +762,17 @@ Choose how you want to share this data in Firefox.
 
 # The button opens Firefox preferences, in the Data section, to select your option
 ;Choose…
-Choose…
+Mamili…
 
 
 # Used on Firefox Privacy Notice landing page
 ;Show All
-Show All
+Ipakita Lahat
 
 
 # Used on Firefox Privacy Notice landing page
 ;Hide All
-Hide All
+Itago Lahat
 
 
 # Navigation link points to /firefox/developer
@@ -792,7 +792,7 @@ Virtual Reality
 
 # Navigation link points to https://games.mozilla.org/
 ;Games
-Games
+Mga Laro
 
 
 # Navigation link points to https://developer.mozilla.org
@@ -832,6 +832,6 @@ By proceeding, you agree to the <a href="%(url1)s">Terms of Service</a> and <a h
 
 
 ;Continue
-Continue
+Ipagpatuloy
 
 
