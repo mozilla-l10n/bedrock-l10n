@@ -70,7 +70,7 @@
 
 
 ;Firefox OS devices will launch in early 2013 through <a href="%(telefonica_url)s" rel="external">Telefónica</a>, establishing HTML5 as a viable platform for the mobile industry. The Web as the platform will free developers to create groundbreaking new apps that work seamlessly across all devices, spurring a new era of innovation and creativity for the ubiquitous Web.
-Firefox OS devices will launch in early 2013 through <a href="%(telefonica_url)s" rel="external">Telefónica</a>, establishing HTML5 as a viable platform for the mobile industry. The Web as the platform will free developers to create groundbreaking new apps that work seamlessly across all devices, spurring a new era of innovation and creativity for the ubiquitous Web.
+ਫਾਇਰਫਾਕਸ ਓਸ ਡਿਵਾਈਸਸ 2013 ਦੀ ਸ਼ੁਰੂਆਤ ਵਿੱਚ <a href="%(telefonica_url)s" rel="external"> ਟੈਲੀਫ਼ੋਨਿਕਾ </a> ਦੁਆਰਾ, ਮੋਬਾਈਲ ਉਦਯੋਗ ਲਈ ਇੱਕ ਸਮਰੱਥ ਪਲੇਟਫਾਰਮ ਵਜੋਂ HTML5 ਦੀ ਸਥਾਪਨਾ ਕਰੇਗਾ। ਪਲੇਟਫਾਰਮ ਦੇ ਤੌਰ ਤੇ ਵੈਬ ਡਿਵੈਲਪਰਾਂ ਨੂੰ ਫਰੈਂਚੂਰੇਟਿੰਗ ਨਵੇਂ ਐਪਸ ਬਣਾਉਣ ਲਈ ਮੁਫ਼ਤ ਪ੍ਰਦਾਨ ਕਰੇਗਾ ਜੋ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਤੇ ਸਹਿਜੇ-ਸਹਿਜੇ ਕੰਮ ਕਰਦੇ ਹਨ, ਜੋ ਕਿ ਸਰਵਵਿਆਪਕ ਵੈਬ ਲਈ ਨਵੀਨਤਾ ਅਤੇ ਸਿਰਜਣਾਤਮਕਤਾ ਦੇ ਨਵੇਂ ਯੁੱਗ ਨੂੰ ਵਧਾਉਂਦੇ ਹਨ।
 
 
 # Fast. Smart. Safe." is a slogan for Firefox for Android. It appears here as three separate strings for styling and layout purposes.
@@ -103,7 +103,7 @@ Firefox OS devices will launch in early 2013 through <a href="%(telefonica_url)s
 
 
 ;Recently, we have been experimenting with ways to integrate social functionality into Firefox. Firefox will support a new Social API that lets developers integrate social services directly into the browser. The Social API will support multiple providers and has endless potential for integrating social networks, e-mail, finance, news and other applications into your Firefox experience. Our first experimental provider is Facebook.
-Recently, we have been experimenting with ways to integrate social functionality into Firefox. Firefox will support a new Social API that lets developers integrate social services directly into the browser. The Social API will support multiple providers and has endless potential for integrating social networks, e-mail, finance, news and other applications into your Firefox experience. Our first experimental provider is Facebook.
+ਹਾਲ ਹੀ ਵਿੱਚ, ਅਸੀਂ ਫਾਇਰਫਾਕਸ ਵਿੱਚ ਸਮਾਜਿਕ ਕਾਰਜਸ਼ੀਲਤਾ ਨੂੰ ਇਕਸਾਰ ਕਰਨ ਦੇ ਤਰੀਕੇ ਨਾਲ ਪ੍ਰਯੋਗ ਕਰ ਰਹੇ ਹਾਂ। ਫਾਇਰਫਾਕਸ ਇੱਕ ਨਵਾਂ ਸੋਸ਼ਲ ਏਪੀਆਈ ਦੇਵੇਗਾ ਜੋ ਡਿਵੈਲਪਰਸ ਸੋਸ਼ਲ ਸਰਵਿਸਿਜ਼ ਨੂੰ ਸਿੱਧਾ ਬ੍ਰਾਊਜ਼ਰ ਵਿੱਚ ਜੋੜਦਾ ਹੈ। ਸੋਸ਼ਲ ਐਮਪੀ ਬਹੁਤ ਸਾਰੇ ਪ੍ਰਦਾਤਾਵਾਂ ਦਾ ਸਮਰਥਨ ਕਰੇਗਾ ਅਤੇ ਤੁਹਾਡੇ ਫਾਇਰਫਾਕਸ ਤਜਰਬੇ ਵਿੱਚ ਸੋਸ਼ਲ ਨੈਟਵਰਕ, ਈ-ਮੇਲ, ਵਿੱਤ, ਖ਼ਬਰਾਂ ਅਤੇ ਹੋਰ ਐਪਲੀਕੇਸ਼ਨਾਂ ਨੂੰ ਜੋੜਨ ਦੀ ਬੇਅੰਤ ਸੰਭਾਵਨਾ ਹੈ। ਸਾਡਾ ਪਹਿਲਾ ਪ੍ਰਯੋਗਾਤਮਕ ਪ੍ਰਦਾਤਾ ਫੇਸਬੁੱਕ ਹੈ।
 
 
 ;Webmaker: Teaching the world the Web
@@ -119,7 +119,7 @@ Recently, we have been experimenting with ways to integrate social functionality
 
 
 ;Webmaker tools, projects and events help educators, youth, media-makers and everyday consumers around the world move from using the Web to making the Web. In 2013, Webmaker will mobilize a global community of mentors, instructors and youth to teach and learn together; advance revolutionary Webmaker software tools like <a href="%(popcorn_url)s" rel="external">Popcorn</a> and <a href="%(thimble_url)s" rel="external">Thimble</a>; and work together to build a more Web-literate planet.
-Webmaker tools, projects and events help educators, youth, media-makers and everyday consumers around the world move from using the Web to making the Web. In 2013, Webmaker will mobilize a global community of mentors, instructors and youth to teach and learn together; advance revolutionary Webmaker software tools like <a href="%(popcorn_url)s" rel="external">Popcorn</a> and <a href="%(thimble_url)s" rel="external">Thimble</a>; and work together to build a more Web-literate planet.
+ਵੈਬਮੇਕਰ ਦੇ ਸਾਧਨ, ਪ੍ਰੋਜੈਕਟਾਂ ਅਤੇ ਸਮਾਗਮਾਂ ਸੰਸਾਰ ਭਰ ਵਿਚ ਸਿੱਖਿਅਕ, ਨੌਜਵਾਨ, ਮੀਡੀਆ-ਨਿਰਮਾਤਾ ਅਤੇ ਰੋਜ਼ਾਨਾ ਦੇ ਗ੍ਰਾਹਕਾਂ ਨੂੰ ਵੈੱਬ ਬਣਾਉਣ ਲਈ ਵੈੱਬ ਦੀ ਵਰਤੋਂ ਕਰਨ ਵਿਚ ਮਦਦ ਕਰਦੇ ਹਨ। 2013 ਵਿੱਚ, ਵੈਬਮੇਟਰ ਇੱਕੱਠੇ ਸਿਖਾਉਣ ਅਤੇ ਸਿੱਖਣ ਦੇ ਲਈ ਸਹਾਹਕਾਰਾਂ,ਸਿੱਖਿਅਕ ਅਤੇ ਯੁਵਕਾਂ ਦੇ ਵਿਸ਼ਵਵਿਆਪੀ ਕਮਿਉਨਟੀ ਨੂੰ ਸੰਗਠਿਤ ਕਰੇਗਾ; ਅਗਾਉਂ ਇਨਕਲਾਬੀ ਵੈਬਮੈਮਰ ਸਾਫਟਵੇਅਰ ਟੂਲ ਜਿਵੇਂ ਕਿ <a href="%(popcorn_url)s" rel="external"> ਪੋਪਕਾਰਨ </a> ਅਤੇ <a href="%(thimble_url)s" rel="external"> ਥਿੰਬਲ </ a >; ਅਤੇ ਇੱਕ ਹੋਰ ਵੈਬ-ਸਿੱਖਿਅਤ ਗ੍ਰਹਿ ਬਣਾਉਣ ਲਈ ਮਿਲ ਕੇ ਕੰਮ ਕਰਦੇ ਹਾਂ।
 
 
 ;Webmaker: Video
@@ -139,11 +139,11 @@ Webmaker tools, projects and events help educators, youth, media-makers and ever
 
 
 ;Mozilla has always contributed to Web standards, going back as far as the start of the project, and we will continue to do that moving forward. We <a href="%(cofound_url)s" rel="external">co-founded</a> the <a href="%(whatwg_url)s" rel="external">WHAT-WG</a> to kick off <a href="%(html5_url)s" rel="external">HTML5</a>. We are a leader in <a href="%(javascript_url)s" rel="external">JavaScript standardization</a>. We have some of the top <a href="%(dbaron_url)s" rel="external">CSS</a> and <a href="%(ocallahan_url)s" rel="external">layout</a> experts in the world.
-Mozilla has always contributed to Web standards, going back as far as the start of the project, and we will continue to do that moving forward. We <a href="%(cofound_url)s" rel="external">co-founded</a> the <a href="%(whatwg_url)s" rel="external">WHAT-WG</a> to kick off <a href="%(html5_url)s" rel="external">HTML5</a>. We are a leader in <a href="%(javascript_url)s" rel="external">JavaScript standardization</a>. We have some of the top <a href="%(dbaron_url)s" rel="external">CSS</a> and <a href="%(ocallahan_url)s" rel="external">layout</a> experts in the world.
+ਮੋਜ਼ੀਲਾ ਨੇ ਹਮੇਸ਼ਾਂ ਵੈਬ ਮਾਪਦੰਡਾਂ ਵਿੱਚ ਯੋਗਦਾਨ ਪਾਇਆ ਹੈ, ਜਿੱਥੇ ਪ੍ਰੋਜੈਕਟ ਦੀ ਸ਼ੁਰੂਆਤ ਤੱਕ ਵਾਪਸ ਜਾ ਰਿਹਾ ਹੈ, ਅਤੇ ਅਸੀਂ ਅੱਗੇ ਵਧਣ ਨਾਲ ਅੱਗੇ ਵਧਾਂਗੇ। ਅਸੀਂ <a href="%(cofound_url)s" rel="external"> <a href="%(whatwg_url)s" rel="external"> WHAT-WG </a> ਸਹਿ ਸੰਗਠਿਤ </a> <a href="%(html5_url)s" rel="external"> HTML5 </a> ਨੂੰ ਜਗਾਉਣ ਲਈ। ਅਸੀਂ <a href="%(javascript_url)s" rel="external"> ਜਾਵਾਸਕਰਿਪਟ ਮਿਆਰੀਕਰਨ</a> ਵਿੱਚ ਇੱਕ ਆਗੂ ਹਾਂ। ਸਾਡੇ ਕੋਲ ਕੁਝ ਕੁ ਉੱਚਿਤ <a href="%(dbaron_url)s" rel="external"> CSS </a> ਅਤੇ <a href="%(ocallahan_url)s" rel="external">ਲੇਆਉਟ ਹੈ </ a > ਦੁਨੀਆ ਵਿਚ ਮਾਹਿਰ।
 
 
 ;Standards are a multi-vendor effort, but Mozilla is proud of the many technologies we have pioneered and submitted to standards bodies to make them interoperable for the Web as a whole. Some examples of these include geolocation, WebGL, the Gamepad API, Web Telephony and IndexedDB.
-Standards are a multi-vendor effort, but Mozilla is proud of the many technologies we have pioneered and submitted to standards bodies to make them interoperable for the Web as a whole. Some examples of these include geolocation, WebGL, the Gamepad API, Web Telephony and IndexedDB.
+ਮਿਆਰ ਇੱਕ ਬਹੁ-ਵਿਕਰੇਤਾ ਯਤਨ ਹਨ, ਪਰ ਮੋਜ਼ੀਲਾ ਨੂੰ ਉਨ੍ਹਾਂ ਕਈ ਤਕਨੀਕਾਂ 'ਤੇ ਮਾਣ ਹੈ ਜਿਨ੍ਹਾਂ ਦੀ ਅਸੀਂ ਪਾਇਨੀਅਰੀ ਕੀਤੀ ਹੈ ਅਤੇ ਮਿਆਰਾਂ ਵਾਲੇ ਸਮੂਹਾਂ ਨੂੰ ਵੈਬ ਲਈ ਪੂਰੀ ਤਰਾਂ ਇੰਟਰਓਪਰੇਬਲ ਕਰਨ ਲਈ ਪੇਸ਼ ਕੀਤੀਆਂ ਹਨ। ਇਹਨਾਂ ਦੀਆਂ ਕੁਝ ਉਦਾਹਰਨਾਂ ਵਿੱਚ ਭੂਗੋਲਿਕੇਸ਼ਨ, ਵੈਬਜੀਐਲ, ਗੇਪਪੈਡ API, ਵੈੱਬ ਟੈਲੀਫੋਨੀ ਅਤੇ ਸੂਚੀਬੱਧ ਡੀ.ਬੀ. ਸ਼ਾਮਲ ਹਨ।
 
 
 ;Fighting for you: Standing up for your security, privacy and freedom
@@ -151,7 +151,7 @@ Standards are a multi-vendor effort, but Mozilla is proud of the many technologi
 
 
 ;Mozilla is proudly non-profit and answers to no one but you. That means we're uniquely able to fight for users at a critical moment in the Web's history. Looking forward, we will mobilize millions of people to stand up for privacy, security and online freedom. We will take on new threats to the Web's future — from locked down proprietary platforms, to would-be censors and gatekeepers, to short-sighted government legislation. Together we will set the mobile Web free, reassert the vital importance of privacy and user sovereignty, and join others in building a more Web-literate world.
-Mozilla is proudly non-profit and answers to no one but you. That means we're uniquely able to fight for users at a critical moment in the Web's history. Looking forward, we will mobilize millions of people to stand up for privacy, security and online freedom. We will take on new threats to the Web's future — from locked down proprietary platforms, to would-be censors and gatekeepers, to short-sighted government legislation. Together we will set the mobile Web free, reassert the vital importance of privacy and user sovereignty, and join others in building a more Web-literate world.
+ਮੋਜ਼ੀਲਾ ਮਾਣ ਨਾਲ ਗ਼ੈਰ-ਮੁਨਾਫ਼ਾ ਹੈ ਅਤੇ ਤੁਹਾਡੇ ਇਲਾਵਾ ਕਿਸੇ ਦਾ ਜਵਾਬ ਨਹੀਂ ਹੈ। ਇਸ ਦਾ ਮਤਲਬ ਹੈ ਕਿ ਅਸੀਂ ਵੈਬ ਦੇ ਇਤਿਹਾਸ ਵਿੱਚ ਮਹੱਤਵਪੂਰਨ ਸਮੇਂ ਵਿੱਚ ਉਪਭੋਗਤਾਵਾਂ ਲਈ ਲੜਨ ਦੇ ਲਈ ਵਿਲੱਖਣ ਰੂਪ ਨਾਲ ਸਮਰੱਥ ਹਾਂ। ਅੱਗੇ ਵੇਖਦੇ ਹੋਏ, ਅਸੀਂ ਲੱਖਾਂ ਲੋਕਾਂ ਨੂੰ ਗੋਪਨੀਯ, ਸੁਰੱਖਿਆ ਅਤੇ ਔਨਲਾਈਨ ਆਜ਼ਾਦੀ ਲਈ ਖੜ੍ਹੇ ਹੋਣ ਲਈ ਲਾਮਬੰਦ ਕਰਾਂਗੇ। ਅਸੀਂ ਵੈਬ ਦੇ ਭਵਿੱਖ ਲਈ ਨਵੀਆਂ ਧਮਕੀਆਂ ਲਏ – ਮਲਕੀਅਤ ਵਾਲੇ ਪਲੇਟਫਾਰਮ ਨੂੰ ਲਾੱਕ ਕਰਨ ਤੋਂ, ਸੈਂਸਰ ਅਤੇ ਗੇਟਕੀਪਰ ਹੋਣ ਦੇ ਲਈ, ਛੋਟੇ-ਛੋਟੇ ਸਰਕਾਰੀ ਕਾਨੂੰਨਾਂ ਦੇ ਲਈ। ਇਕੱਠੇ ਮਿਲ ਕੇ ਅਸੀਂ ਮੋਬਾਈਲ ਵੈਬ ਨੂੰ ਮੁਫ਼ਤ ਸੈਟ ਕਰਾਂਗੇ, ਗੋਪਨੀਯਤਾ ਅਤੇ ਉਪਭੋਗਤਾ ਸੰਪ੍ਰਭੂ ਦੇ ਮਹੱਤਵਪੂਰਣ ਮਹੱਤਤਾ ਨੂੰ ਮੁੜ ਜਾਇਜ਼ ਬਣਾਵਾਂਗੇ, ਅਤੇ ਹੋਰ ਵਧੇਰੇ ਵੈਬ-ਸਾਖਰਤ ਸੰਸਾਰ ਬਣਾਉਣ ਵਿਚ ਦੂਸਰਿਆਂ ਨਾਲ ਜੁੜਾਂਗੇ।
 
 
 ;Do Not Track
@@ -159,7 +159,7 @@ Mozilla is proudly non-profit and answers to no one but you. That means we're un
 
 
 ;Our Internet experiences involve more of our personal data, which forms a picture or profile of who we are online. The ability for organizations to monitor, log, store, use, correlate and sell information about who we are and what we do has huge implications for individuals and for society.
-Our Internet experiences involve more of our personal data, which forms a picture or profile of who we are online. The ability for organizations to monitor, log, store, use, correlate and sell information about who we are and what we do has huge implications for individuals and for society.
+ਸਾਡੇ ਇੰਟਰਨੈਟ ਅਨੁਭਵਾਂ ਵਿੱਚ ਸਾਡਾ ਜਿਆਦਾ ਨਿੱਜੀ ਡੇਟਾ ਸ਼ਾਮਲ ਹੁੰਦਾ ਹੈ, ਜੋ ਕਿ ਸਾਨੂੰ ਔਨਲਾਈਨ ਹੋਣ ਦੀ ਇੱਕ ਤਸਵੀਰ ਜਾਂ ਪ੍ਰੋਫਾਈਲ ਬਣਾਉਂਦਾ ਹੈ। ਸੰਗਠਨਾਂ ਦੀ ਨਿਗਰਾਨੀ ਕਰਨ, ਲੌਗ, ਸਟੋਰ ਕਰਨ, ਇਸਤੇਮਾਲ ਕਰਨ, ਸਬੰਧ ਬਣਾਉਣ ਅਤੇ ਜਾਣਕਾਰੀ ਵੇਚਣ ਦੀ ਸਮਰੱਥਾ ਇਹ ਹੈ ਕਿ ਅਸੀਂ ਕੌਣ ਹਾਂ ਅਤੇ ਅਸੀਂ ਕੀ ਕਰਦੇ ਹਾਂ ਵਿਅਕਤੀਆਂ ਲਈ ਅਤੇ ਸਮਾਜ ਲਈ ਬਹੁਤ ਜਿਆਦਾ ਪ੍ਰਭਾਵ ਪੈਂਦਾ ਹੈ।
 
 
 ;In an effort to give users more control over their Web experiences, we developed the <a href="%(dnt_url)s" rel="external">Do Not Track</a> feature in Firefox. We also became the first browser manufacturer to offer it on multiple platforms, including Windows, Mac, Linux and Android. <a href="%(dntfxos_url)s" rel="external">Do Not Track is even available for Firefox OS</a> so that user privacy settings can be controlled on a system-wide level to ensure that every third-party application on a user's device respects their choice.
