@@ -1,5 +1,6 @@
 ## active ##
 ## ember_reference_fix ##
+## new_features_20180830 ##
 ## quantum-firstrun-whatsnew ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/developer/
 
@@ -73,27 +74,27 @@ Firefox - гэта адзіны браўзер з інструментамі, с
 
 
 ;Convenient Features
-Convenient Features
+Зручныя магчымасці
 
 
 ;Shapes Editor
-Shapes Editor
+Рэдактар фігур
 
 
 ;Firefox DevTools has a brand new shape path editor that takes the guesswork out of fine-tuning your shadow-outside and clip-path shapes by allowing you to very easily fine-tune your adjustments with a visual editor.
-Firefox DevTools has a brand new shape path editor that takes the guesswork out of fine-tuning your shadow-outside and clip-path shapes by allowing you to very easily fine-tune your adjustments with a visual editor.
+Інструменты распрацоўшчыка Firefox маюць цалкам новы рэдактар шляхоў фігур, які прымае працу па здагадках з дакладнай наладкі вашых вонкавых ценяў і шляхоў абрэзкі фігур, дазваляючы з лёгкасцю дакладна наладжваць вашы дапасаванні ў візуальным рэдактары.
 
 
 ;Faster Information
-Faster Information
+Хутчэйшая інфармацыя
 
 
 ;Fonts Panel
-Fonts Panel
+Панэль шрыфтоў
 
 
 ;The new fonts panel in Firefox DevTools gives developers quick access to all of the information they need about the fonts being used in an element. It also includes valuable information such as the font source, weight, style and more.
-The new fonts panel in Firefox DevTools gives developers quick access to all of the information they need about the fonts being used in an element. It also includes valuable information such as the font source, weight, style and more.
+Новая панэль шрыфтоў у інструментах распрацоўшчыка Firefox дае хуткі доступ да ўсёй неабходнай інфармацыі аб шрыфтах, выкарыстаных у элеменце. Яна таксама ўключае цэнныя звесткі кшталту крыніцы шрыфту, памеру, стылю і іншае.
 
 
 ;Design. Code. Test. Refine.

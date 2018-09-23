@@ -1,111 +1,112 @@
+## active ##
 ## NOTE: demo page is available at https://www-dev.allizom.org/privacy/
 
 
 ;Mozilla Privacy
-Mozilla Privacy
+Privatumas „Mozilloje“
 
 
 ;Contact Mozilla
-Contact Mozilla
+Susisiekite su „Mozilla“
 
 
 ;If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
-If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
+Jeigu norite patikslinti savo duomenis arba turite klausimų dėl mūsų privatumo nuostatų, susisiekite su mumis:
 
 
 ;Data Privacy Principles
-Data Privacy Principles
+Duomenų privatumo principai
 
 
 # Links to https://www.mozilla.org/privacy/principles/
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+„Mozillos“ <a href="%(principles)s">Duomenų privatumo principai</a> įkvepia praktikas, kurias taikome, gerbdami ir saugodami interneto naudotojų privatumą. Sužinokite, kaip šie principai įtakoja „Firefox“ ir kitus mūsų produktus – paskaitykite <a href="%(faq)s">klausimus ir atsakymus</a> šia tema.
 
 
 # This string is obsolete. Do not remove.
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+„Mozillos“ Duomenų privatumo principai įkvepia praktikas, kurias taikome, gerbdami ir saugodami interneto naudotojų privatumą. Sužinokite, kaip šie principai įtakoja „Firefox“ ir kitus mūsų produktus – paskaitykite <a href="%(faq)s">klausimus ir atsakymus</a> šia tema.
 
 
 # This string is obsolete. Do not remove.
 ;Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
-Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
+„Mozilla“ yra atvirojo kodo projektas, kurio misija – siekti geresnio interneto. Tai – pagrindinė mūsų duomenų privatumo principus formuojanti jėga. <a href="%(link)s">Sužinokite daugiau</a>
 
 
 ;Privacy Notices
-Privacy Notices
+Privatumo pranešimai
 
 
 # This string is obsolete. Do not remove.
 ;Our Privacy Notices
-Our Privacy Notices
+Mūsų privatumo pranešimai
 
 
 ;Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
-Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+Privatumo pranešimuose aprašome, kokius duomenis mūsų produktai ir paslaugos siunčia, gauna, kaupia ir naudoja, o taip pat kokius jūs turite svertus tam valdyti.
 
 
 # This string is obsolete. Do not remove.
 ;We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
-We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
+Privatumo pranešimuose aprašėme, kokius duomenis mūsų produktai ir paslaugos siunčia, gauna, kaupia ir naudoja, o taip pat kokius jūs turite svertus tam valdyti. Sužinokite daugiau:
 
 
 ;Mozilla Websites, Communications &amp; Cookies
-Mozilla Websites, Communications &amp; Cookies
+„Mozillos“ svetainės, komunikacijos priemonės ir slapukai
 
 
 ;Firefox Browser
-Firefox Browser
+„Firefox“ naršyklė
 
 
 ;Firefox for Fire TV
-Firefox for Fire TV
+„Firefox“ naršyklė „Fire TV“ įrenginiams
 
 
 ;Transparency Report
-Transparency Report
+Skaidrumo ataskaita
 
 
 ;As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
-As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
+Skaidrumas ir atvirumas „Mozillai“, kaip atvirojo kodo projektui, yra vieni kertinių principų. Mūsų kūrinių pirminiai tekstai atviri ir visiems prieinami. Produktus vystome irgi atvirai. Kas dvejus metus parengiame <a href="%(report)s">Skaidrumo ataskaitą</a>, kuri taip pat iliustruoja mūsų atsidavimą šiems principams.
 
 
 ;To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
-To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
+Jeigu norite dalyvauti aptariant siūlomus mūsų privatumo nuostatų pakeitimus, <a href="%(group)s">prisijunkite prie valdymo el. pašto grupės</a>.
 
 
 # This string is obsolete. Do not remove.
 ;To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
-To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
+Jeigu norite dalyvauti aptariant siūlomus mūsų privatumo nuostatų pakeitimus, <a href="%(group)s">prisijunkite prie valdymo el. pašto grupės</a>.
 
 
 ;Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
-Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
+Sužinokite daugiau apie mūsų veiklą privatumo ir saugumo viešosios politikos srityje – skaitykite „Mozillos“ <a href="%(blog)s">„Open Policy & Advocacy“ tinklaraštį</a> (anglų k.)
 
 
 # This string is obsolete. Do not remove.
 ;Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
-Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
+Mūsų veikla privatumo ir saugumo nuostatų srityje aprašoma <a href="%(blog)s">privatumo ir duomenų saugos tinklaraštyje</a> (anglų k.), o išsami informacija apie šią veiklą prieinama <a href="%(wiki)s">„Mozillos“ privatumo komandos vikyje</a>.
 
 
 ;Outdated Policies
-Outdated Policies
+Anksčiau taikyti privatumo nuostatai
 
 
 # Used at the top of the page for navigation (breadcrumbs)
 ;Home
-Home
+Pradžia
 
 
 # Used in legal docs to collapse (hide) a paragraph
 ;Show Less
-Show Less
+Suskleisti aprašymą
 
 
 # Used in sub-pages to return to the main index https://www.mozilla.org/privacy
 ;Back to Mozilla Privacy Policy
-Back to Mozilla Privacy Policy
+Grįžti į „Mozillos“ privatumo nuostatus
 
 
