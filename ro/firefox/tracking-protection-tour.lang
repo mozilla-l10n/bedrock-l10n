@@ -7,15 +7,15 @@
 
 
 ;When you see the shield, Firefox is blocking parts of the page that can slow your browsing or track you online.
-When you see the shield, Firefox is blocking parts of the page that can slow your browsing or track you online.
+Când vezi scutul, Firefox blochează părți din pagină care îți pot încetini navigarea sau te pot urmări online.
 
 
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily” in this panel.
-If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily” in this panel.
+Dacă blocarea de conținut împiedică utilizarea unui site în care ai încredere, poți selecta „Dezactivează temporar blocarea” în acest panou.
 
 
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site” in this panel.
-If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site” in this panel.
+Dacă blocarea de conținut împiedică utilizarea unui site în care ai încredere, poți selecta „Dezactivează blocarea pentru acest site” în acest panou.
 
 
 ;How Tracking Protection works
@@ -27,15 +27,15 @@ Când vezi scutul, Firefox blochează unele părți din pagină care ar putea ur
 
 
 ;It’s easy to turn off Tracking Protection for the website you’re on. Just select “Disable Blocking Temporarily.”
-It’s easy to turn off Tracking Protection for the website you’re on. Just select “Disable Blocking Temporarily.”
+Poți dezactiva ușor protecția împotriva urmăririi pe site-ul pe care te afli. Pur și simplu selectează „Dezactivează temporar blocarea”.
 
 
 ;It’s easy to turn off Tracking Protection for the website you’re on. Just select “Disable Blocking For This Site.”
-It’s easy to turn off Tracking Protection for the website you’re on. Just select “Disable Blocking For This Site.”
+Poți dezactiva ușor protecția împotriva urmăririi pe site-ul pe care te afli. Pur și simplu selectează „Dezactivează blocarea pentru acest site”.
 
 
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable Blocking For This Site.”
-It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable Blocking For This Site.”
+Poți activa ușor protecția împotriva urmăririi pentru site-ul pe care te afli prin clic pe „Activează blocarea pentru acest site”.
 
 
 ;1 of 3
@@ -63,20 +63,20 @@ Vrei să faci schimbări?
 
 
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable For This Session.”
-Poți dezactiva ușor protecția față de urmărire pentru site-ul pe care te afli printr-un clic pe „Dezactivează pentru această sesiune.”
+Poți dezactiva ușor protecția împotriva urmăririi pentru site-ul pe care te afli prin clic pe „Dezactivează pentru această sesiune”.
 
 
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable For This Site.”
-Poți dezactiva ușor protecția față de urmărire pentru site-ul pe care te afli printr-un clic pe „Dezactivează pentru acest site”.
+Poți dezactiva ușor protecția împotriva urmăririi pentru site-ul pe care te afli prin clic pe „Dezactivează pentru acest site”.
 
 
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this site.”
-Este ușor de dezactivat protecția față de urmărire pentru site-ul vizitat printr-un clic pe „Dezactivează protecția față de urmărire pentru acest site”.
+Poți dezactiva ușor protecția împotriva urmăririi pentru site-ul pe care te afli prin clic pe „Dezactivează protecția pentru acest site”.
 
 
 # Obsolete string (do not remove)
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
-Este ușor de dezactivat protecția față de urmărire pentru site-ul actual printr-un clic pe „Dezactivează protecția pentru această sesiune”.
+Poți dezactiva ușor protecția împotriva urmăririi pentru site-ul pe care te afli prin clic pe „Dezactivează protecția pentru această sesiune”.
 
 
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
@@ -92,7 +92,7 @@ Am priceput!
 
 
 ;Firefox Tracking Protection
-Firefox Tracking Protection
+Protecție împotriva urmăririi în Firefox
 
 
 ;Tracking Protection
@@ -109,44 +109,44 @@ Vrei să oprești această funcție? <a href="%s">Vizitează preferințele de co
 
 
 ;Thanks for learning about Tracking Protection.
-Îți mulțumim că ai învățat despre protecția față de urmărire.
+Îți mulțumim că te-ai informat despre protecția împotriva urmăririi.
 
 
 ;Thanks for learning about the new Private Browsing with Tracking Protection.
-Mulțumim pentru că ai aflat despre noile funcții „Navigare privată” și „Protecție față de urmărire”.
+Îți mulțumim că te-ai informat despre noua navigare privată cu protecție împotriva urmăririi.
 
 
 # Link points to https://support.mozilla.org/kb/tracking-protection-pbm
 ;Learn more about how it works by visiting the <a rel="external" href="%s">FAQ page</a>.
-Află mai multe despre modul cum funcționează vizitând <a rel="external" href="%s">pagina cu întrebări adresate frecvent</a>.
+Află mai multe despre cum funcționează de pe <a rel="external" href="%s">pagina cu întrebări adresate frecvent</a>.
 
 
 ;Firefox Content Blocking
-Firefox Content Blocking
+Blocare de conținut în Firefox
 
 
 ;New in Firefox: Content Blocking
-New in Firefox: Content Blocking
+Nou în Firefox: blocarea de conținut
 
 
 ;Turn off blocking for trusted sites
-Turn off blocking for trusted sites
+Dezactivează blocarea de conținut pentru site-urile în care ai încredere
 
 
 ;To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
-To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
+Ca să reactivezi blocarea de conținut pentru un site, selectează „Activează blocarea pentru acest site” din panoul centrului de control.
 
 
 ;Content Blocking
-Content Blocking
+Blocare de conținut
 
 
 ;Content blocking can help pages load faster, but it can also keep parts of pages or entire pages from loading.
-Content blocking can help pages load faster, but it can also keep parts of pages or entire pages from loading.
+Blocarea de conținut poate ajuta la încărcarea mai rapidă a paginilor, dar poate și împiedica încărcarea unor părți de pagini sau a unor pagini întregi.
 
 
 ;Thanks for learning about Content Blocking.
-Thanks for learning about Content Blocking.
+Îți mulțumim că vrei să afli despre blocarea de conținut.
 
 
 ;Restart tour
@@ -154,22 +154,22 @@ Repornește turul
 
 
 ;The privacy benefits of Tracking Protection are now just one part of content blocking. When you see the shield, content blocking is on.
-The privacy benefits of Tracking Protection are now just one part of content blocking. When you see the shield, content blocking is on.
+Beneficiile pentru confidențialitatea datelor oferite de protecția împotriva urmăririi reprezintă acum doar o parte din blocarea de conținut. Când vezi scutul, blocarea de conținut este activă.
 
 
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily“ in this panel.
-If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily“ in this panel.
+Dacă blocarea de conținut împiedică utilizarea unui site în care ai încredere, poți selecta „Dezactivează temporar blocarea” în acest panou.
 
 
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site“ in this panel.
-If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site“ in this panel.
+Dacă blocarea de conținut împiedică utilizarea unui site în care ai încredere, poți selecta „Dezactivează blocarea pentru acest site” în acest panou.
 
 
 ;Choose the independent browser
-Choose the independent browser
+Alege browserul independent
 
 
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox este nonprofit, necorporatist și fără compromisuri. Cu Firefox nu alegi doar un browser. Este un vot pentru libertate personală.
 
 
