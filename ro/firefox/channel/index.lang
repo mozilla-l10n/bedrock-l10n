@@ -106,7 +106,7 @@ Firefox Beta trimite automat feedback la Mozilla.
 
 
 ;<a rel="external" href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
-<a rel="external" href="%(feedback)s">Trimite-me feedback</a> pentru a ne ajuta să facem ultimele reglaje de performanță și funcționalitate într-un mediu stabil.
+<a rel="external" href="%(feedback)s">Trimite-ne feedback</a> pentru a ne ajuta să facem ultimele reglaje de performanță și funcționalitate într-un mediu stabil.
 
 
 # HTML page title, on the desktop page only.
