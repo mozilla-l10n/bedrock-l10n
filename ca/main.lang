@@ -589,7 +589,7 @@ Assegureu-vos que introduïu una adreça electrònica vàlida.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-Accepto que Mozilla gestioni la meva informació en els termes descrits en <a href="%s">la política de privadesa</a>
+Accepto que Mozilla gestioni la meva informació en els termes descrits en l'<a href="%s">avís de privadesa</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -811,27 +811,27 @@ Baixeu el Mozilla Firefox, un navegador web lliure i gratuït. El Firefox està 
 
 # Used in a Firefox Account widget, button label to create an account
 ;Create account
-Create account
+Crea un compte
 
 
 # Used in a Firefox Account widget, button label to download a mobile app
 ;Get the app
-Get the app
+Baixa l'aplicació
 
 
 ;<strong>Enter your email</strong> to access Firefox Accounts.
-<strong>Enter your email</strong> to access Firefox Accounts.
+<strong>Escriviu la vostra adreça electrònica</strong> per accedir al compte del Firefox.
 
 
 ;Email address
-Email address
+Adreça electrònica
 
 
 ;By proceeding, you agree to the <a href="%(url1)s">Terms of Service</a> and <a href="%(url2)s">Privacy Notice</a>.
-By proceeding, you agree to the <a href="%(url1)s">Terms of Service</a> and <a href="%(url2)s">Privacy Notice</a>.
+En continuar, accepteu les <a href="%(url1)s">condicions d'ús del servei</a> i l'<a href="%(url2)s">avís de privadesa</a>.
 
 
 ;Continue
-Continue
+Continua
 
 
