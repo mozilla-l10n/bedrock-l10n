@@ -1,5 +1,6 @@
 ## active ##
 ## ember_reference_fix ##
+## new_features_20180830 ##
 ## quantum-firstrun-whatsnew ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/developer/
 
@@ -93,7 +94,7 @@ Teñoiha rupa
 
 
 ;The new fonts panel in Firefox DevTools gives developers quick access to all of the information they need about the fonts being used in an element. It also includes valuable information such as the font source, weight, style and more.
-The new fonts panel in Firefox DevTools gives developers quick access to all of the information they need about the fonts being used in an element. It also includes valuable information such as the font source, weight, style and more.
+Firefox DevTools tai’aty rupa pyahu ome’ẽ mboguatahárape jeike pya’e opaite marandúpe oikotevẽva tai’aty ojepurúva mba’epurúpe. Avei ome’ẽ marandu oikoitéva tai’aty reñoihápe, pohyikue, mba’eichagua ha hetave.
 
 
 ;Design. Code. Test. Refine.
