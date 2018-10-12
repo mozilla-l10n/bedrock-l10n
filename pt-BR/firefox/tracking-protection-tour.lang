@@ -1,20 +1,21 @@
 ## active ##
 ## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_201602 ##
+## tp_tour_firefox_201809 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/42.0/tracking-protection/start/
 ## NOTE: see testing instructions here https://groups.google.com/d/msg/mozilla.dev.l10n.web/UWF2gx09Hwc/sOcOjdF_CAAJ
 
 
 ;When you see the shield, Firefox is blocking parts of the page that can slow your browsing or track you online.
-When you see the shield, Firefox is blocking parts of the page that can slow your browsing or track you online.
+Quando você ver o escudo, o Firefox estará bloqueando partes da página que podem reduzir a velocidade de navegação ou rastrear você.
 
 
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily” in this panel.
-If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily” in this panel.
+Caso o bloqueio de conteúdo impeça o uso de um site que você confia, selecione neste painel “Desativar bloqueio temporariamente”.
 
 
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site” in this panel.
-If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site” in this panel.
+Caso o bloqueio de conteúdo impeça o uso de um site que você confia, selecione neste painel “Desativar bloqueio neste site”.
 
 
 ;How Tracking Protection works
@@ -22,19 +23,19 @@ Como a proteção contra rastreamento funciona
 
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
-Quando visualizar o escudo, o Firefox está bloqueando algumas partes da página que podem rastrear sua atividade de navegação.
+Quando você ver o escudo, o Firefox estará bloqueando algumas partes da página que podem rastrear sua atividade de navegação.
 
 
 ;It’s easy to turn off Tracking Protection for the website you’re on. Just select “Disable Blocking Temporarily.”
-It’s easy to turn off Tracking Protection for the website you’re on. Just select “Disable Blocking Temporarily.”
+É fácil desativar a proteção contra rastreamento no site em que você está. Basta selecionar “Desativar bloqueio temporariamente”.
 
 
 ;It’s easy to turn off Tracking Protection for the website you’re on. Just select “Disable Blocking For This Site.”
-It’s easy to turn off Tracking Protection for the website you’re on. Just select “Disable Blocking For This Site.”
+É fácil desativar a proteção contra rastreamento no site em que você está. Basta selecionar “Desativar bloqueio neste site”.
 
 
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable Blocking For This Site.”
-It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable Blocking For This Site.”
+É fácil ativar a proteção contra rastreamento no site em que você está, clicando em “Ativar bloqueio neste site”.
 
 
 ;1 of 3
@@ -50,7 +51,7 @@ Diferenças esperadas
 
 
 ;Some page areas may be missing, because they could allow third parties to track you across different websites.
-Algumas áreas da página podem estar ausentes porque elas permitem que terceiros rastreiem você em vários sites.
+Algumas áreas da página podem estar ausentes porque elas permitem que terceiros rastreiem você de um site para outro.
 
 
 ;2 of 3
@@ -62,24 +63,24 @@ Quer fazer alterações?
 
 
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable For This Session.”
-It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable For This Session.”
+É fácil desligar a proteção contra rastreamento no site em que você está, clicando em “Desativar nesta sessão”.
 
 
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable For This Site.”
-It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable For This Site.”
+É fácil desligar a proteção contra rastreamento no site em que você está, clicando em “Desativar neste site”.
 
 
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this site.”
-É fácil desligar a Proteção Contra Rastreamento no site que você está clicando em “Desativar bloqueio para este site.”
+É fácil desligar a proteção contra rastreamento no site em que você está, clicando em “Desativar proteção neste site”.
 
 
 # Obsolete string (do not remove)
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this session.”
-É fácil desativar a proteção contra rastreamento no site que entrar, clicando em “Desativar proteção para esta sessão.”
+É fácil desativar a proteção contra rastreamento no site em que você está, clicando em “Desativar proteção nesta sessão”.
 
 
 ;It’s easy to turn on Tracking Protection for the website you’re on by clicking “Enable protection.”
-É fácil ligar a proteção contra rastreamento no site que você está clicando em “Habilitar proteção.”
+É fácil ligar a proteção contra rastreamento no site em que você está, clicando em “Ativar proteção”.
 
 
 ;3 of 3
@@ -91,7 +92,7 @@ Entendi!
 
 
 ;Firefox Tracking Protection
-Firefox Tracking Protection
+Proteção contra rastreamento do Firefox
 
 
 ;Tracking Protection
@@ -121,31 +122,31 @@ Saiba mais sobre como funciona visitando a <a rel="external" href="%s">página d
 
 
 ;Firefox Content Blocking
-Firefox Content Blocking
+Bloqueio de conteúdo do Firefox
 
 
 ;New in Firefox: Content Blocking
-New in Firefox: Content Blocking
+Novo no Firefox: bloqueio de conteúdo
 
 
 ;Turn off blocking for trusted sites
-Turn off blocking for trusted sites
+Desligar o bloqueio para sites de confiança
 
 
 ;To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
-To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
+Para restaurar o bloqueio de conteúdo em um site, selecione “Ativar bloqueio neste site“ no painel do centro de controle.
 
 
 ;Content Blocking
-Content Blocking
+Bloqueio de conteúdo
 
 
 ;Content blocking can help pages load faster, but it can also keep parts of pages or entire pages from loading.
-Content blocking can help pages load faster, but it can also keep parts of pages or entire pages from loading.
+O bloqueio de conteúdo pode ajudar as páginas a carregar mais rápido, mas também pode impedir que partes de páginas ou páginas inteiras sejam carregadas.
 
 
 ;Thanks for learning about Content Blocking.
-Thanks for learning about Content Blocking.
+Obrigado por aprender sobre bloqueio de conteúdo.
 
 
 ;Restart tour
@@ -153,22 +154,22 @@ Reiniciar o tour
 
 
 ;The privacy benefits of Tracking Protection are now just one part of content blocking. When you see the shield, content blocking is on.
-The privacy benefits of Tracking Protection are now just one part of content blocking. When you see the shield, content blocking is on.
+Os benefícios de privacidade da proteção contra rastreamento são agora apenas uma parte do bloqueio de conteúdo. Quando você ver o escudo, o bloqueio de conteúdo estará ativado.
 
 
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily“ in this panel.
-If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily“ in this panel.
+Se o bloqueio de conteúdo impedir o uso de um site que você confia, você pode selecionar “Desativar bloqueio temporariamente“ neste painel.
 
 
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site“ in this panel.
-If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site“ in this panel.
+Se o bloqueio de conteúdo impedir o uso de um site que você confia, você pode selecionar neste painel “Desativar bloqueio neste site“.
 
 
 ;Choose the independent browser
-Choose the independent browser
+Escolha o navegador independente
 
 
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+O Firefox é sem fins lucrativos, não corporativo, sem comprometimentos. Optar pelo Firefox não é apenas escolher um navegador. É um voto por liberdade pessoal.
 
 
