@@ -1,4 +1,5 @@
 ## active ##
+## remove_fastblock_1499589 ##
 ## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_201602 ##
 ## tp_tour_firefox_201809 ##
@@ -7,7 +8,7 @@
 
 
 ;When you see the shield, Firefox is blocking parts of the page that can track you online.
-When you see the shield, Firefox is blocking parts of the page that can track you online.
+Pan fyddwch yn gweld y darian, mae Firefox yn rhwystro rhannau o'r dudalen sy'n gallu eich tracio ar-lein.
 
 
 # String is obsolete, do not remove
@@ -147,7 +148,7 @@ Rhwystro Cynnwys
 
 
 ;Content blocking can keep parts of pages or entire pages from loading.
-Content blocking can keep parts of pages or entire pages from loading.
+Mae rhwystro cynnwys yn gallu cadw rhannau o dudalennau neu dudalennau cyfan rhag llwytho.
 
 
 # String is obsolete, do not remove
