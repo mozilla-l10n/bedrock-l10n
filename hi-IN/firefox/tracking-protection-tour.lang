@@ -1,4 +1,5 @@
 ## active ##
+## remove_fastblock_1499589 ##
 ## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_201602 ##
 ## tp_tour_firefox_201809 ##
@@ -135,28 +136,28 @@ Firefox में नया: सामग्री ब्लॉकिंग
 
 
 ;Turn off blocking for trusted sites
-Turn off blocking for trusted sites
+भरोसेमंद साइटों के लिए ब्लॉकिंग बंद करें
 
 
 ;To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
-To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
+किसी साइट के लिए सामग्री ब्लॉकिंग पुनःप्राप्त करने के लिए, कण्ट्रोल सेंटर पैनल में “इस साइट हेतु ब्लॉकिंग सक्षम करें“ को चुनें।
 
 
 ;Content Blocking
-Content Blocking
+सामग्री ब्लॉकिंग
 
 
 ;Content blocking can keep parts of pages or entire pages from loading.
-Content blocking can keep parts of pages or entire pages from loading.
+सामग्री ब्लॉकिंग पृष्ठ के कुछ हिस्सों को या पुरे पृष्ठ को लोड होने से रोक सकता है।
 
 
 # String is obsolete, do not remove
 ;Content blocking can help pages load faster, but it can also keep parts of pages or entire pages from loading.
-Content blocking can help pages load faster, but it can also keep parts of pages or entire pages from loading.
+सामग्री ब्लॉकिंग पृष्ठ को तीव्रता से लोड होने में मदद कर सकता है, पर यह पृष्ठ के कुछ हिस्सों को या पुरे पृष्ठ को लोड होने से रोक सकता है।
 
 
 ;Thanks for learning about Content Blocking.
-Thanks for learning about Content Blocking.
+सामग्री ब्लॉकिंग के बारे में जानने के लिए धन्यवाद।
 
 
 ;Restart tour
