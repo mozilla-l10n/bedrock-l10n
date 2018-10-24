@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo pages at https://www-dev.allizom.org/firefox/profile-downgrade/ and https://www-dev.allizom.org/firefox/profile-migrate/
 ## NOTE: Pages to explain new changes in profile management to users with multiple installs
 ## NOTE: See details https://bugzilla.mozilla.org/show_bug.cgi?id=1474285
@@ -48,22 +49,22 @@ Firefox फाइलों के एक सेट में बुकमार�
 
 
 ;While profiles are now connected to each installation of Firefox, you can use your Firefox Account to keep them in sync. If you would like all of your profile data to be the same on all installations of Firefox, we recommend you sync all of your profiles with a Firefox Account.
-While profiles are now connected to each installation of Firefox, you can use your Firefox Account to keep them in sync. If you would like all of your profile data to be the same on all installations of Firefox, we recommend you sync all of your profiles with a Firefox Account.
+अब जबकि प्रोफाइलें प्रत्येक Firefox के इंनस्टॉलेशन के साथ जुड़ चुकी हैं, आप इन्हें सिंक करने के लिए अपने Firefox खाते का उपयोग कर सकते हैं। यदि आप चाहते हैं कि Firefox के प्रत्येक इंनस्टॉलेशन पर एक ही प्रकार के प्रोफाइल डेटा हो, तो हम आपको अपने सभी प्रोफाइल को एक ही Firefox खाते से सिंक करने की सलाह देते हैं।
 
 
 ;A Firefox Account is the easiest way to make your profiles consistent on all of your versions of Firefox. You also get additional benefits like sending tabs and secure password storage.
-A Firefox Account is the easiest way to make your profiles consistent on all of your versions of Firefox. You also get additional benefits like sending tabs and secure password storage.
+Firefox खाता आपके Firefox के सभी संस्करणों पर अपने प्रोफाइलों को अनुकूल बनाने का आसान तरीका है। साथ ही आप टैब भेजना और सुरक्षित पासवर्ड स्टोरेज जैसी अतिरिक्त सुविधायें भी पाते हैं।
 
 
 ;You’re signed in and ready to start using Sync.
-You’re signed in and ready to start using Sync.
+आपने साइन इन किया हुआ है तथा सिंक का उपयोग करने के लिए तैयार हैं।
 
 
 ;We detected that you have installed and opened an older version of Firefox on your computer. You may need to take action.
-We detected that you have installed and opened an older version of Firefox on your computer. You may need to take action.
+हमने पाया है कि आपने अपने कंप्यूटर पर Firefox के एक पुराने संस्करण को इनस्टॉल किया है और उसे खोला है। आपको कारवाही करनी पड़ सकती है।
 
 
 ;We detected more than one version of Firefox on your computer. You may need to take action.
-We detected more than one version of Firefox on your computer. You may need to take action.
+हमने आपके कंप्यूटर पर Firefox के एक से अधिक संस्करण का पता लगाया है। आपको कार्रवाई करनी पड़ सकती है।
 
 
