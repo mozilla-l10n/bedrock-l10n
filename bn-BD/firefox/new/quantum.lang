@@ -37,7 +37,7 @@ The new <strong>Firefox</strong>
 
 # Link points to /firefox/new/?scene=2
 ;Download Now
-Download Now
+এখন ডাউনলোড করুন
 
 
 # Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings
@@ -154,7 +154,7 @@ Sync up with Firefox on mobile:
 
 # HTML page title prefix
 ;Download Firefox
-Download Firefox
+Firefox ডাউনলোড করুন
 
 
 # HTML page title
@@ -172,7 +172,7 @@ Download the fastest Firefox ever
 
 
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-Faster page loading, less memory usage and packed with features, the new Firefox is here.
+দ্রুততর পাতা লোডিং, কম মেমরির ব্যবহার এবং নতুন নতুন বৈশিষ্ট্যে ভরপুর, নতুন Firefox এখানে।
 
 
 ;2x Faster
@@ -184,7 +184,7 @@ Faster page loading, less memory usage and packed with features, the new Firefox
 
 
 ;Lightweight
-Lightweight
+হালকা
 
 
 ;Uses 30% less memory than Chrome
@@ -196,7 +196,7 @@ Powerfully private
 
 
 ;Truly Private Browsing with Tracking Protection
-Truly Private Browsing with Tracking Protection
+সত্যিই ট্র্যাকিং সুরক্ষার সাথে ব্যক্তিগত ব্রাউজিং
 
 
 # These strings are used in /firstrun, e.g. https://www-dev.allizom.org/firefox/56.0/firstrun/

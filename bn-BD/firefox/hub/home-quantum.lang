@@ -16,7 +16,7 @@ Responsive engine, less memory usage and packed with features. Download for desk
 
 
 ;Meet Firefox Quantum.
-Meet Firefox Quantum.
+Firefox Quantum দেখুন।
 
 
 ;Fast for good.
@@ -36,11 +36,11 @@ A powerful, new engine that’s built for rapidfire performance.
 
 
 ;Better, faster page loading that uses less computer memory.
-Better, faster page loading that uses less computer memory.
+আরও ভালো, দ্রুততর পেজ লোডিং যা কম মেমোরি ব্যাবহার করে।
 
 
 ;Gorgeous design and smart features for intelligent browsing.
-Gorgeous design and smart features for intelligent browsing.
+চমৎকার ডিজাইন এবং স্মার্ট বৈশিষ্ট্য বুদ্ধিমান ব্রাউজিং এর জন্য।
 
 
 ;“Faster and even more minimalist, Firefox Quantum makes Chrome look old.”
@@ -49,16 +49,16 @@ Gorgeous design and smart features for intelligent browsing.
 
 # Link points to https://www.digitaltrends.com/web/firefox-quantum-hands-on-review/
 ;(Digital Trends)
-(Digital Trends)
+(ডিজিটাল প্রবণতা)
 
 
 # This is an alternative text for a screenshot.
 ;Screenshot of the redesigned Firefox new-tab page.
-Screenshot of the redesigned Firefox new-tab page.
+Firefox নতুনভাবে ডিজাইনকৃত ট্যাব পাতার স্ক্রীনশট।
 
 
 ;Now 2x faster
-Now 2x faster
+এখন দ্বিগুণ দ্রুততর
 
 
 ;Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Firefox Quantum is twice as fast as Firefox was before.
@@ -67,7 +67,7 @@ Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting ar
 
 # String is obsolete. Do not remove.
 ;2x Faster
-2গুন দ্রুত
+দ্বিগুণ দ্রুততর
 
 
 # String is obsolete. Do not remove.
@@ -76,7 +76,7 @@ Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting ar
 
 
 ;30% lighter than Chrome
-30% হালকা Chrome এর তুলনায়
+Chrome এর তুলনায় 30% হালকা
 
 
 ;<a href="%(url)s">Less memory usage</a> means more space for your computer to keep running smoothly. Your other programs will thank you.
@@ -84,16 +84,16 @@ Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting ar
 
 
 ;Smooth browsing
-Smooth browsing
+নিরবিচ্ছিন্ন ব্রাউজিং
 
 
 ;Whether you’ve opened 10 or 1000, switching between tabs is faster than ever with Firefox’s new, responsive engine.
-Whether you’ve opened 10 or 1000, switching between tabs is faster than ever with Firefox’s new, responsive engine.
+আপনি 10 বা 1000 যতগুলো ট্যাব ই ওপেন করে থাকুন না কেন, ট্যাব পরিবর্তন এখন সর্বাপেক্ষা দ্রুততর Firefox এর নতুন এবং সংবেদনশীল engine এ।
 
 
 # This is an alternative text for a screenshot.
 ;Firefox screenshot showing many open tabs and browser windows running simultaneously.
-Firefox screenshot showing many open tabs and browser windows running simultaneously.
+Firefox স্ক্রীনশটটিতে দেখা যাচ্ছে অনেক ট্যাব এবং ব্রাউজার উইন্ডো খোলা রয়েছে এবং তা একযোগে চলছে।
 
 
 ;Switch from Chrome to Firefox in just a few minutes
@@ -133,11 +133,11 @@ Instantly import your online info and favorites from any other browser.
 
 
 ;The most powerful private browsing mode with added tracking protection.
-The most powerful private browsing mode with added tracking protection.
+সবচেয়ে শক্তিশালী প্রাইভেট ব্রাউজিং মোড সাথে বাড়তি ট্র্যাকিং সুরক্ষা।
 
 
 ;Firefox blocks online trackers while you browse and won’t remember your history after you’re done.
-Firefox blocks online trackers while you browse and won’t remember your history after you’re done.
+আপনি যখন ব্রাউজ করেন Firefox অনলাইন ট্র্যাকারদের ব্লক করে এবং আপনি ব্রাউজ শেষ করার পর আর তা মনে রাখে না।
 
 
 ;Tracking Protection
@@ -145,11 +145,11 @@ Firefox blocks online trackers while you browse and won’t remember your histor
 
 
 ;Some ads have hidden trackers that follow you online. Rude. We know. That’s why our powerful tool stops them cold.
-Some ads have hidden trackers that follow you online. Rude. We know. That’s why our powerful tool stops them cold.
+কিছু বিজ্ঞাপনে গুপ্ত ট্র্যাকার থাকে যারা অনলাইনে আপনাকে অনুসরণ করে। এটা অভদ্রতা। আমরা জানি। এ কারনে আমাদের শক্তিশালী টুল এদের নিস্ক্রিয় রাখে।
 
 
 ;Faster Page Loading
-দ্রুততর পেজ লোডিং
+দ্রুততর পাতা লোডিং
 
 
 ;By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages load up to 44%% faster</a>. Now that’s a win-win.
@@ -162,7 +162,7 @@ Firefox Quantum বৈশিষ্ট্যসমূহ
 
 # VR can be spelled out as "Virtual Reality" if clearer.
 ;Gaming & VR
-Gaming & VR
+গেমিং ও ভার্চুয়াল রিয়ালিটি
 
 
 ;Library
@@ -220,11 +220,11 @@ Seamlessly access passwords, bookmarks and more. Plus, use our Send Tabs feature
 
 
 ;Image of Gif shared from desktop to mobile using the Send Tab feature.
-Image of Gif shared from desktop to mobile using the Send Tab feature.
+ডেস্কটপ থেকে মোবাইলে Gif চিত্র শেয়ার করতে ট্যাব পাঠাও বৈশিষ্ট্য ব্যবহার করুন।
 
 
 ;Browse for good
-Browse for good
+মঙ্গলের জন্য ব্রাউজ করুন
 
 
 ;Firefox is made by Mozilla, the non-profit champions of a healthy internet. Mozilla also tackles issues like privacy, misinformation and trolling by investing in fellowships, campaigns and new technologies designed to make the internet healthier.

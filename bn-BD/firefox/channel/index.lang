@@ -1,13 +1,16 @@
 ## active ##
 ## android_nightly_copy ##
 ## firefox_channel_bug1387466 ##
+## firefox_title_meta_bug1345338 ##
+## firefox_title_meta_bug1357373 ##
 ## nightly_description_bug1375100 ##
+## privacy_201806 ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
 # Main page heading. In case the text is too hard to translate, here's an alternative text: "Take the future for a test run."
 ;Take a browse on the wild side.
-Take a browse on the wild side.
+ভবিষ্যতকে পরখ করুন।
 
 
 ;Be among the first to explore future releases of Firefox for desktop, Android and iOS.
@@ -62,13 +65,13 @@ Test Pilot সম্পর্কে আরও জানুন
 
 # HTML Description, on the Android page only.
 ;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta and Firefox Nightly. Install now!
-Experience cutting-edge features in a pre-release browser for Android: Firefox Beta and Firefox Nightly. Install now!
+Android এর জন্য প্রাক-রিলিজ ব্রাউজারে নতুন ও উন্নত বৈশিষ্ট্যগুলো উপভোগ করুন: Firefox Beta এবং Firefox Nightly। এখনই ইন্সটল করুন!
 
 
 # String is obsolete. Do not remove.
 # HTML Description, on the Android page only.
 ;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
-Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
+Android এর জন্য প্রাক-রিলিজ ব্রাউজারে নতুন ও উন্নত বৈশিষ্ট্যগুলো উপভোগ করুন: Firefox Beta, Firefox Aurora এবং Firefox Nightly। এখনই ইন্সটল করুন!
 
 
 # String is obsolete. Do not remove.
@@ -94,7 +97,7 @@ Firefox Aurora স্বয়ংক্রিয়ভাবে Mozilla কে ফি�
 
 
 ;Beta is an unstable testing and development platform. By default, Beta sends data to Mozilla — and sometimes our partners — to help us handle problems and try ideas. <a href="%(link)s">Learn what is shared</a>.
-Beta is an unstable testing and development platform. By default, Beta sends data to Mozilla — and sometimes our partners — to help us handle problems and try ideas. <a href="%(link)s">Learn what is shared</a>.
+Beta একটি পরিবর্তনশীল পরীক্ষামূলক ও ডেভলপমেন্ট প্লাটফর্ম। সমস্যা মোকাবেলায় এবং নতুন ধারণাগুলো পরীক্ষা করতে — পূর্বনির্ধারিতভাবে, বেটা Mozilla — ও অনেক ক্ষেত্রে অংশীদারদের কাছে তথ্য প্রেরণ করে। <a href="%(link)s">জানুন কি পাঠানো হয়</a>।
 
 
 # The string is obsolete. Do not remove.
@@ -108,12 +111,12 @@ Firefox Beta স্বয়ংক্রিয়ভাবে Mozilla কে ফিড
 
 # HTML page title, on the desktop page only.
 ;Try New Browser Features in Pre-Release Versions | Firefox
-Try New Browser Features in Pre-Release Versions | Firefox
+প্রি-রিলিজ সংস্করণে ব্রাউজারের নতুন বৈশিষ্ট্যগুলো পরখ করুন | Firefox
 
 
 # HTML page description, on the desktop page only.
 ;Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
-Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
+প্রি-রিলিজ সংস্করণে নতুন ও উন্নত ব্রাউজার বৈশিষ্ট্যগুলো উপভোগ করুন: Firefox Developer Edition, Firefox Beta এবং Firefox Nightly। এখনই ডাউনলোড করুন!
 
 
 # String is obsolete. Do not remove.
@@ -140,7 +143,7 @@ Developer Edition, Beta এবং Nightly বিল্ডসমূহে, ডে
 
 
 ;Developer Edition is an unstable testing and development platform. By default, Developer Edition sends data to Mozilla — and sometimes our partners — to help us handle problems and try ideas. <a href="%(link)s">Learn what is shared</a>.
-Developer Edition is an unstable testing and development platform. By default, Developer Edition sends data to Mozilla — and sometimes our partners — to help us handle problems and try ideas. <a href="%(link)s">Learn what is shared</a>.
+Developer Edition একটি পরিবর্তনশীল পরীক্ষামূলক ও ডেভলপমেন্ট প্লাটফর্ম। সমস্যা মোকাবেলায় এবং নতুন ধারণাগুলো পরীক্ষা করতে — পূর্বনির্ধারিতভাবে, বেটা Mozilla — ও অনেক ক্ষেত্রে অংশীদারদের কাছে তথ্য প্রেরণ করে। <a href="%(link)s">জানুন কি পাঠানো হয়</a>।
 
 
 # The string is obsolete. Do not remove.
@@ -162,7 +165,7 @@ Android এর নতুন ফিচারগুলো প্রাথমিক
 
 
 ;Nightly is an unstable testing and development platform. By default, Nightly sends data to Mozilla — and sometimes our partners — to help us handle problems and try ideas. <a href="%(link)s">Learn what is shared</a>.
-Nightly is an unstable testing and development platform. By default, Nightly sends data to Mozilla — and sometimes our partners — to help us handle problems and try ideas. <a href="%(link)s">Learn what is shared</a>.
+Nightly একটি পরিবর্তনশীল পরীক্ষামূলক ও ডেভলপমেন্ট প্লাটফর্ম। সমস্যা মোকাবেলায় এবং নতুন ধারণাগুলো পরীক্ষা করতে — পূর্বনির্ধারিতভাবে, বেটা Mozilla — ও অনেক ক্ষেত্রে অংশীদারদের কাছে তথ্য প্রেরণ করে। <a href="%(link)s">জানুন কি পাঠানো হয়</a>।
 
 
 # The string is obsolete. Do not remove.
@@ -176,13 +179,13 @@ Nightly ব্লগ
 
 # HTML page title, on the iOS page only.
 ;Try New Features in a Pre-Release iOS Browser | Firefox
-Try New Features in a Pre-Release iOS Browser | Firefox
+iOS ব্রাউজারের প্রাক-রিলিজের নতুন বৈশিষ্ট্যগুলো দেখুন | Firefox
 
 
 # HTML page description, on the iOS page only.
 # Don't translate TestFlight
 ;Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
-Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
+Apple এর TestFlight প্রোগ্রামে iOS এর জন্য প্রাক-রিলিজ ব্রাউজারে নতুন ও উন্নত বৈশিষ্ট্যগুলো উপভোগ করুন। এখনই ইন্সটল করুন!
 
 
 # String is obsolete. Do not remove.
