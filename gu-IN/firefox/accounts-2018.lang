@@ -3,49 +3,49 @@
 
 # Used as part of HTML title
 ;Get a Firefox Account – Keep your data private, safe and synced
-Get a Firefox Account – Keep your data private, safe and synced
+Firefox એકાઉન્ટ મેળવો - તમારો ખાનગી ડેટા, સલામત અને સમન્વયિત રાખો
 
 
 # Used as HTML description
 ;Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox Account now – One log-in – Power and privacy everywhere.
-Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox Account now – One log-in – Power and privacy everywhere.
+તમારા પાસવર્ડ્સ, બુકમાર્ક્સ અને ટૅબ્સ સુરક્ષિત રીતે તમારા બધાં ઉપકરણો પર સમન્વયિત કરો. હવે Firefox એકાઉન્ટ મેળવો - એક લૉગ ઇન - શક્તિ અને ગોપનીયતા સર્વત્ર.
 
 
 ;One log-in. Power and privacy everywhere.
-One log-in. Power and privacy everywhere.
+એક લૉગ ઇન. શક્તિ અને ગોપનીયતા સર્વત્ર.
 
 
 # CTA: https://accounts.firefox.com/signup
 ;Create a Firefox Account
-Create a Firefox Account
+Firefox એકાઉન્ટ બનાવો
 
 
 ;Download Firefox App
-Download Firefox App
+Firefox એપ્લિકેશન ડાઉનલોડ કરો
 
 
 ;Own your life on every device with a Firefox Account.
-Own your life on every device with a Firefox Account.
+Firefox એકાઉન્ટ સાથે દરેક ઉપકરણ પર તમારું જીવન બાંધો.
 
 
 ;Send tabs instantly to your devices
-Send tabs instantly to your devices
+તમારા ઉપકરણો પર તાત્કાલિક ટૅબ્સ મોકલો
 
 
 ;Send an open tab on one device to all your others with a single tap. Much easier than texting or emailing yourself those links.
-Send an open tab on one device to all your others with a single tap. Much easier than texting or emailing yourself those links.
+એક જ ટેપથી તમારા અન્ય બધા ઉપકરણ પર ખુલ્લી ટૅબ મોકલો. જે‌ લિંક્સને ટેક્સ્ટિંગ અથવા ઇમેઇલ કરવામાં સરળ બનાવશે.
 
 
 ;Remember your passwords in Lockbox
-Remember your passwords in Lockbox
+Lockboxમાં તમારા પાસવર્ડ્સ યાદ રાખો
 
 
 ;No more getting locked out of apps and websites. Lockbox secures all the passwords you’ve saved in Firefox and gives you easy access across all your iOS devices.
-No more getting locked out of apps and websites. Lockbox secures all the passwords you’ve saved in Firefox and gives you easy access across all your iOS devices.
+હવે એપ્લિકેશન્સ અને વેબસાઇટ્સથી લૉક થઈ જવાશે નહીં. Lockbox તમે Firefoxમાં સાચવેલા બધા પાસવર્ડોને સુરક્ષિત કરે છે અને તમને તમારા બધા iOS ઉપકરણો પર સરળ ઍક્સેસ આપે છે.
 
 
 ;Sync your bookmarks everywhere
-Sync your bookmarks everywhere
+દરેક જગ્યાએ તમારા બુકમાર્ક્સ સમન્વયિત કરો
 
 
 ;Bookmark a recipe at home. Check it at the market from your phone. Every bookmark you save is instantly added to all your synced devices.
@@ -53,7 +53,7 @@ Bookmark a recipe at home. Check it at the market from your phone. Every bookmar
 
 
 ;Put quality content in your Pocket
-Put quality content in your Pocket
+તમારી Pocketમાં ગુણવત્તા સામગ્રી મૂકો
 
 
 ;Discover the web’s best content, and absorb it anytime – even offline – on any device. Pocket’s listen feature will even read any article aloud to you. All from the Firefox toolbar.
@@ -69,41 +69,41 @@ Your ideas and inspiration are secure and encrypted with Notes – and when you�
 
 
 ;Scan the QR Code to download the Pocket App on your mobile device.
-Scan the QR Code to download the Pocket App on your mobile device.
+તમારા મોબાઇલ ઉપકરણ પર pocket એપ્લિકેશનને ડાઉનલોડ કરવા માટે QR કોડ સ્કેન કરો.
 
 
 ;Scan the QR Code to download the Lockbox App on your mobile device.
-Scan the QR Code to download the Lockbox App on your mobile device.
+તમારા મોબાઇલ ઉપકરણ પર Lockbox એપ્લિકેશનને ડાઉનલોડ કરવા માટે QR કોડ સ્કેન કરો.
 
 
 ;Scan the QR Code to download the Notes App on your mobile device.
-Scan the QR Code to download the Notes App on your mobile device.
+તમારા મોબાઇલ ઉપકરણ પર Notes એપ્લિકેશનને ડાઉનલોડ કરવા માટે QR કોડ સ્કેન કરો.
 
 
 ;Scan the QR Code to download the Firefox App on your mobile device.
-Scan the QR Code to download the Firefox App on your mobile device.
+તમારા મોબાઇલ ઉપકરણ પર Firefox એપ્લિકેશનને ડાઉનલોડ કરવા માટે QR કોડ સ્કેન કરો.
 
 
 ;You deserve peace of mind everywhere.
-You deserve peace of mind everywhere.
+તમે દરેક જગ્યાએ મનની શાંતિ માટે હકદાર છો.
 
 
 ;Already have an account?
-Already have an account?
+પહેલેથી જ એક એકાઉન્ટ છે?
 
 
 ;Sign In
-Sign In
+સાઇન ઇન કરો
 
 
 # Link to https://support.mozilla.org/kb/sync-firefox-bookmarks-and-browsing-history-iOS
 ;Set up Sync for iOS
-Set up Sync for iOS
+iOS માટે સમન્વયન સેટ કરો
 
 
 # Line break below for visual formatting only.
 # https://support.mozilla.org/kb/sync-bookmarks-tabs-history-and-passwords-android
 ;Set up Sync on your <br>Android device
-Set up Sync on your <br>Android device
+તમારા <br>Android ઉપકરણ પર સમન્વયન સેટ કરો
 
 
