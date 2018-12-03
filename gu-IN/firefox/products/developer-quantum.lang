@@ -1,5 +1,7 @@
 ## active ##
 ## ember_reference_fix ##
+## new_features_20180830 ##
+## new_features_shape_outside ##
 ## quantum-firstrun-whatsnew ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/developer/
 
@@ -81,12 +83,12 @@ Firefox એ ફક્ત એક જ બ્રાઉઝર છે જે CSS ગ�
 
 
 ;Firefox DevTools has a brand new shape path editor that takes the guesswork out of fine-tuning your shape-outside and clip-path shapes by allowing you to very easily fine-tune your adjustments with a visual editor.
-Firefox DevTools has a brand new shape path editor that takes the guesswork out of fine-tuning your shape-outside and clip-path shapes by allowing you to very easily fine-tune your adjustments with a visual editor.
+Firefox DevTools પાસે એક નવું shape path સંપાદક છે જે વિઝ્યુઅલ સંપાદક સાથે તમારી ગોઠવણને સરળતાથી ગોઠવવાની મંજૂરી આપીને તમારા આકાર-બાહ્ય અને ક્લિપ-પાથ આકારને સુંદર-ટ્યુન કરવાના અનુમાનને બહાર કાઢે છે.
 
 
 # String is obsolete, do not remove
 ;Firefox DevTools has a brand new shape path editor that takes the guesswork out of fine-tuning your shadow-outside and clip-path shapes by allowing you to very easily fine-tune your adjustments with a visual editor.
-Firefox DevTools has a brand new shape path editor that takes the guesswork out of fine-tuning your shadow-outside and clip-path shapes by allowing you to very easily fine-tune your adjustments with a visual editor.
+Firefox DevTools એક નવું આકાર પાથ એડિટર છે જે તમારા પ્રતિબિંબ-બાહ્ય અને ક્લિપ-પાથ આકારને સારી રીતે ટ્યુન કરવાથી અનુમાનિત કાર્ય કરે છે જે તમને વિઝ્યુઅલ એડિટર સાથે તમારા એડજસ્ટમેન્ટ્સને સરળતાથી સુલભ બનાવવા દે છે.
 
 
 ;Faster Information
@@ -98,7 +100,7 @@ Firefox DevTools has a brand new shape path editor that takes the guesswork out 
 
 
 ;The new fonts panel in Firefox DevTools gives developers quick access to all of the information they need about the fonts being used in an element. It also includes valuable information such as the font source, weight, style and more.
-The new fonts panel in Firefox DevTools gives developers quick access to all of the information they need about the fonts being used in an element. It also includes valuable information such as the font source, weight, style and more.
+Firefox DevTools નાં નવા ફોન્ટ્સ પેનલ, વિકાસકર્તાઓને તત્વમાં ઉપયોગમાં લેવાતા ફોન્ટ્સ વિશેની બધી માહિતીની ઝડપી ઍક્સેસ આપે છે. તેમાં ફૉન્ટ સ્રોત, વજન, સ્ટાઇલ વગેરે જેવી મૂલ્યવાન માહિતી શામેલ છે.
 
 
 ;Design. Code. Test. Refine.
