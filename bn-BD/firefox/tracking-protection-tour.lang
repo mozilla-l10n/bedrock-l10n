@@ -27,7 +27,7 @@ If content blocking prevents you from using a site you trust, you can select “
 
 
 ;When you see the shield, Firefox is blocking some parts of the page that could track your browsing activity.
-যখনই সুরক্ষা ঢাল দেখতে পাবেন, ফায়ারফক্স আপনার ব্রাউজকৃত পাতার কোন কোন অংশ যা আপনার ব্রাউজিং কর্মকান্ড ট্র্যাক করছে তা ব্লগ করছে।
+যখনই সুরক্ষা ঢাল দেখতে পাবেন, Firefox আপনার ব্রাউজকৃত পাতার কোন কোন অংশ যা আপনার ব্রাউজিং কর্মকান্ড ট্র্যাক করছে তা ব্লগ করছে।
 
 
 ;It’s easy to turn off Tracking Protection for the website you’re on. Just select “Disable Blocking Temporarily.”
@@ -126,15 +126,15 @@ Firefox Tracking Protection
 
 
 ;Firefox Content Blocking
-Firefox Content Blocking
+Firefox কন্টেন্ট ব্লকিং
 
 
 ;New in Firefox: Content Blocking
-New in Firefox: Content Blocking
+Firefox এ নতুন: কন্টেন্ট ব্লকিং
 
 
 ;Turn off blocking for trusted sites
-Turn off blocking for trusted sites
+বিশস্ত সাইটের জন্য ব্লকিং বন্ধ করুন
 
 
 ;To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
@@ -142,7 +142,7 @@ To restore content blocking for a site, select “Enable Blocking For This Site�
 
 
 ;Content Blocking
-Content Blocking
+কন্টেন্ট ব্লকিং
 
 
 ;Content blocking can keep parts of pages or entire pages from loading.
@@ -179,10 +179,10 @@ If content blocking prevents you from using a site you trust, you can select “
 
 
 ;Choose the independent browser
-Choose the independent browser
+স্বাধীন ব্রাউজার বেছে নিন
 
 
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox অলাভজনক, আপোষহীন, কর্পোরেটের বাইরে রয়েছে। Firefox বেছে নেওয়া শুধু একটি ব্রাউজার বেছে নেওয়া নয়। এটি ব্যক্তি স্বাধীনতার পক্ষে একটি ভোট।
 
 

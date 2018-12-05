@@ -101,7 +101,7 @@ Firefox অলাভজনক, আপোষহীন, কর্পোরেট�
 
 
 ;About Mozilla
-মোজিলা পরিচিতি
+Mozilla পরিচিতি
 
 
 ;Get Involved
@@ -351,7 +351,7 @@ Visit Mozilla Corporation’s not-for-profit parent, the <a href="%(url)s" data-
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-অ্যান্ড্রয়েড অ্যাড-অন
+Android অ্যাড-অন
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -366,7 +366,7 @@ Visit Mozilla Corporation’s not-for-profit parent, the <a href="%(url)s" data-
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-অ্যান্ড্রয়েড সাপোর্ট
+Android সাপোর্ট
 
 
 ;Releases
@@ -379,7 +379,7 @@ Visit Mozilla Corporation’s not-for-profit parent, the <a href="%(url)s" data-
 
 # Newsletter subscription form above footer on some pages
 ;Get Mozilla updates
-মজিলার আপডেটসমুহ পান
+Mozilla এর আপডেটসমুহ পান
 
 
 # share button for social networks
@@ -389,7 +389,7 @@ Visit Mozilla Corporation’s not-for-profit parent, the <a href="%(url)s" data-
 
 # footer link
 ;Mozilla on Twitter
-টুইটারে মোজিলা
+টুইটারে Mozilla
 
 
 # footer link
@@ -399,12 +399,12 @@ Visit Mozilla Corporation’s not-for-profit parent, the <a href="%(url)s" data-
 
 # footer link
 ;Mozilla on Facebook
-ফেসবুকে মোজিলা
+Facebook এ Mozilla
 
 
 # footer link
 ;Firefox on Facebook
-ফেসবুকে Firefox
+Facebook এ Firefox
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -593,7 +593,7 @@ HTML {ok}
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-মজিলা আমার তথ্যাদি কিভাবে ব্যবহার করে <a href="%s">গোপনীয়তা নোটিশে</a> দেওয়া সে সম্পর্কিত ব্যাখ্যায় আমি সন্তুষ্ট।
+Mozilla আমার তথ্যাদি কিভাবে ব্যবহার করে <a href="%s">গোপনীয়তা নোটিশে</a> দেওয়া সে সম্পর্কিত ব্যাখ্যায় আমি সন্তুষ্ট।
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -630,7 +630,7 @@ Firefox এর খবর জানুন
 
 
 ;We will only send you Mozilla-related information.
-আমরা কেবল আপনাকে মোজিলা সম্পর্কিত তথ্য পাঠাবো।
+আমরা কেবল আপনাকে Mozilla সম্পর্কিত তথ্য পাঠাবো।
 
 
 ;Thanks!
@@ -646,7 +646,7 @@ Firefox এর খবর জানুন
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-মাসিক হালনাগাদ এবং সাম্প্রতিক মজিলার খবর রাখতে, সর্বশেষ পরামর্শ এবং কৌশল সহ ব্রাউজারের সকল কিছু পেতে সাবস্ক্রাইব করুন। সব সময় যোগাযোগ রাখতে এটাই আমাদের জন্য সঠিক উপায়!
+মাসিক হালনাগাদ এবং সাম্প্রতিক Mozilla এর খবর রাখতে, সর্বশেষ পরামর্শ এবং কৌশল সহ ব্রাউজারের সকল কিছু পেতে সাবস্ক্রাইব করুন। সব সময় যোগাযোগ রাখতে এটাই আমাদের জন্য সঠিক উপায়!
 
 
 ;<span>Firefox</span> + You
@@ -828,7 +828,7 @@ Download Mozilla Firefox, a free Web browser. Firefox is created by a global non
 
 
 ;Email address
-Email address
+ইমেইল ঠিকানা
 
 
 ;By proceeding, you agree to the <a href="%(url1)s">Terms of Service</a> and <a href="%(url2)s">Privacy Notice</a>.
@@ -836,6 +836,6 @@ By proceeding, you agree to the <a href="%(url1)s">Terms of Service</a> and <a h
 
 
 ;Continue
-Continue
+চালিয়ে যান
 
 
