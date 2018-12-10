@@ -22,7 +22,7 @@ You’re using an insecure, outdated operating system <a href="%(url)s">no longe
 
 
 ;Fast for good.
-Nhanh hơn.
+Nhanh và tốt hơn.
 
 
 # String is obsolete. Do note remove.
@@ -53,16 +53,16 @@ Xin làm theo <a href="%(url)s">những hướng dẫn sau</a> để cài đặt
 # Title displayed in the modal window for advanced options.
 # The different case is to let localizers use a different translation (or case) from the link, if needed
 ;Advanced Install Options & Other Platforms
-Tùy chọn Cài đặt Nâng cao và các Nền tảng khác
+Tùy chọn cài đặt nâng cao & các nền tảng khác
 
 
 # Link to display the advanced install panel
 ;Advanced install options & other platforms
-Tùy chọn cài đặt nâng cao và các nền tảng khác
+Tùy chọn cài đặt nâng cao & các nền tảng khác
 
 
 ;Keep up with<br> all things Firefox.
-Theo kịp<br> mọi thứ với Firefox.
+Theo kịp mọi thứ<br> với Firefox.
 
 
 # Link Span is for visual formatting and line break.
@@ -192,11 +192,11 @@ Sử dụng bộ nhớ ít hơn 30% so với Chrome
 
 
 ;Powerfully private
-Powerfully private
+Riêng tư mạnh mẽ
 
 
 ;Truly Private Browsing with Tracking Protection
-Truly Private Browsing with Tracking Protection
+Duyệt web riêng tư thực sự với Trình chống theo dõi
 
 
 # These strings are used in /firstrun, e.g. https://www-dev.allizom.org/firefox/56.0/firstrun/

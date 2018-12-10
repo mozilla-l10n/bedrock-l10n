@@ -1,12 +1,15 @@
+## active ##
+## updates-052018 ##
+## updates-072018 ##
 ## NOTE: demo page is available at https://www-dev.allizom.org/privacy/
 
 
 ;Mozilla Privacy
-Sa hua huì 'iaj Mozilla
+Sa huā huì 'iaj Mozilla
 
 
 ;Contact Mozilla
-Riña ga'ue ga'mint nga Mozilla
+Riña ga'ue ga'mint ngà Mozilla
 
 
 ;If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
@@ -20,92 +23,92 @@ Nuguan' nikaj ñu'unj rayi'î nej sa hua huì 'iaj dâto
 # Links to https://www.mozilla.org/privacy/principles/
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Si'iaj Mozilla <a href="%(principles)s">Nuguan' narán rayi'î si nuguàn't</a> 'iaj sun ñûnj da' gā hue'ê nī gā huì riña internet garasunt. Gini'in doj rayi'î nej nuguan' 'iaj hua Firefox ngà a'ngô nej si rasunj riña <a href="%(faq)s">FAQ</a>.
 
 
 # This string is obsolete. Do not remove.
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Si'iaj Mozilla Nuguan' narán rayi'î si nuguàn't nī 'iaj sun ñûnj da' gā hue'ê nī gā huì riña internet garasunt. Gini'in doj rayi'î nej nuguan' 'iaj hua Firefox ngà a'ngô nej si rasunj riña <a href="%(faq)s">FAQ</a>.
 
 
 # This string is obsolete. Do not remove.
 ;Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
-Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
+'Ngo kodigô hua ni'nïnj ïn nikaj Mozilla da' ga'ue gache nu hue'êt riña internet. Ni 'i huaj da' gi'iaj tuu nej si nej nuguan' a'min rayi'ît. <a href="%(link)s">Gahuin chrūn Doj</a>
 
 
 ;Privacy Notices
-Privacy Notices
+Notisiâ huìi
 
 
 # This string is obsolete. Do not remove.
 ;Our Privacy Notices
-Our Privacy Notices
+Notisiâ huì huā 'iô'
 
 
 ;Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
-Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+Nej nuguan' atāj snan'ānj yi'î sa huā huì 'iaj ñûnj guendâ nej si rasūn ñûnj nī duyinga' nej man, atāj snan'ānj man nī araj sun nej man dàj 'iaj sun sa huā dan, da' ga'ue gi'iaj sun hue'ê rè'.
 
 
 # This string is obsolete. Do not remove.
 ;We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
-We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
+Giri ñûnj nuguan' nata' dàj hua rayi'î nej si rasūn ñûnj nī dàj ga'ue gi'iaj sunt ngà nej man nī nùhuin si arâj sun nej man da' gachē nu hue'êt. Gahuin chrūn doj:
 
 
 ;Mozilla Websites, Communications &amp; Cookies
-Mozilla Websites, Communications &amp; Cookies
+Nej si sitiô Mozilla, Nuguan' yinga'a &amp; nej kôki
 
 
 ;Firefox Browser
-Firefox Browser
+Si nabegadôr Firefox
 
 
 ;Firefox for Fire TV
-Firefox for Fire TV
+Firefox guendâ Fire TV
 
 
 ;Transparency Report
-Transparency Report
+Nuguan' a'min rayi'î sun huā nikā
 
 
 ;As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
-As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
+'Ngō sa da'ui gā ni'nïnj riña daran' guìi huin si sūn ñûnj nī, Mozilla ga'ue natà' dàj hua riña daran' sa 'iaj sun ngàj. Huā ni'nïnj nī ga'ue natsít riña nej si kodigô ñûnj. Huā ni'nïnj riña sun huā akuan' nïn. Nuguan' <a href="%(report)s">naga'ui' ñûnj</a> da' guatàn' ahuii nadigân si 'iaj sun hue'ê ñûnj.
 
 
 ;To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
-To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
+Da' ga'ue natsít y narikīt 'ngō si nuguàn't rayi'î nej chrēj nikò' ñûnj 'iaj sun ñûnj, <a href="%(group)s"> gutà' si yuguît riña yi'nïn' a'nïn' riña Mozilla</a>.
 
 
 # This string is obsolete. Do not remove.
 ;To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
-To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
+Da' ga'ue natsít y narikīt 'ngō si nuguàn't rayi'î nej chrēj nikò' ñûnj 'iaj sun ñûnj, <a href="%(group)s"> gutà' si yuguît riña Yi'nïn' A'nïn' riña Mozilla</a>.
 
 
 ;Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
-Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
+Gahiā doj rayi'î si sūn ñûnj dàj tna'uej ñûnj rayi'ît riña <a href="%(blog)s">Blog 'na' si nuguàn' Mozilla</a>.
 
 
 # This string is obsolete. Do not remove.
 ;Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
-Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
+Si sūn ñunj akuan' nïn rayi'î nuguan' tna'uēj ñûnj rayi'ît nī sa gu'nàj <a href="%(blog)s">Sa huìi &amp; Blog 'na' Nuguan' tna'uēj</a> nī nej nuguan' nū riña <a href="%(wiki)s"> Si Wiki Mozilla riña 'na' nuguan' tna'uēj e</a>.
 
 
 ;Outdated Policies
-Outdated Policies
+Chrēj ganikò' ñûnj nī nitāj si ni'ñan ngà'
 
 
 # Used at the top of the page for navigation (breadcrumbs)
 ;Home
-Home
+Riña yi'ìi
 
 
 # Used in legal docs to collapse (hide) a paragraph
 ;Show Less
-Show Less
+Nadigân Dòj
 
 
 # Used in sub-pages to return to the main index https://www.mozilla.org/privacy
 ;Back to Mozilla Privacy Policy
-Back to Mozilla Privacy Policy
+Gūij riña nù nej nuguan' tna'uēj rayi'î Mozilla
 
 
