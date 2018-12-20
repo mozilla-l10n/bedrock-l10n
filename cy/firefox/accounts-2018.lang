@@ -1,4 +1,5 @@
 ## active ##
+## accounts_2018_qrcodes ##
 ## NOTE: https://www-demo3.allizom.org/firefox/accounts/
 
 
@@ -22,7 +23,7 @@ Crëwch Gyfrif Firefox
 
 
 ;Download the Firefox App
-Download the Firefox App
+LLwytho'r Ap Firefox i Lawr
 
 
 ;Own your life on every device with a Firefox Account.
@@ -42,7 +43,7 @@ Cofio eich cyfrineiriau yn Lockbox
 
 
 ;Get the Lockbox App
-Get the Lockbox App
+Estyn yr Ap Lockerbox
 
 
 ;No more getting locked out of apps and websites. Lockbox secures all the passwords you’ve saved in Firefox and gives you easy access across all your iOS devices.
@@ -62,7 +63,7 @@ Rhowch gynnwys o ansawdd yn eich Pocket
 
 
 ;Get the Pocket App
-Get the Pocket App
+Estyn yr Ap Pocket
 
 
 ;Discover the web’s best content, and absorb it anytime – even offline – on any device. Pocket’s listen feature will even read any article aloud to you. All from the Firefox toolbar.
@@ -74,7 +75,7 @@ Ailgychwyn o le roeddech chi ddiwethaf gyda Notes
 
 
 ;Get the Notes App
-Get the Notes App
+Estyn yr Ap Notes
 
 
 ;Your ideas and inspiration are secure and encrypted with Notes – and when you’re signed into your Account, they sync from your desktop to your Android devices.
@@ -86,7 +87,7 @@ Sganiwch y cod QR i lwythoi'r ap Pocket i lawr ar eich dyfais symudol.
 
 
 ;Scan the QR Code to download the Lockbox App on your Apple device.
-Scan the QR Code to download the Lockbox App on your Apple device.
+Sganiwch y Code QR i lwytho i lawr yr Ap Lockerbox ar eich dyfais Apple.
 
 
 # String is obsolete. Do not remove.
@@ -94,13 +95,13 @@ Scan the QR Code to download the Lockbox App on your Apple device.
 Sganiwch y cod QR i lwythoi'r ap Lockboxi lawr ar eich dyfais symudol.
 
 
+;Scan the QR Code to download the Notes App on your Android device.
+Sganiwch y cod QR i lwythoi'r Ap Notes i lawr ar eich dyfais Android.
+
+
 # String is obsolete. Do not remove.
 ;Scan the QR Code to download the Notes App on your mobile device.
 Sganiwch y cod QR i lwythoi'r ap Notes i lawr ar eich dyfais symudol.
-
-
-;Scan the QR Code to download the Notes App on your Android device.
-Scan the QR Code to download the Notes App on your Android device.
 
 
 ;Scan the QR Code to download the Firefox App on your mobile device.
@@ -112,7 +113,7 @@ Rydych yn haeddu tawelwch meddwl ym mhobman.
 
 
 ;Create an Account
-Create an Account
+Creu Cyfrif
 
 
 ;Already have an account?

@@ -1,4 +1,5 @@
 ## active ##
+## accounts_2018_qrcodes ##
 ## NOTE: https://www-demo3.allizom.org/firefox/accounts/
 
 
@@ -22,7 +23,7 @@ Opret en Firefox-konto
 
 
 ;Download the Firefox App
-Download the Firefox App
+Hent Firefox-appen
 
 
 ;Own your life on every device with a Firefox Account.
@@ -42,7 +43,7 @@ Gem dine adgangskoder i Lockbox
 
 
 ;Get the Lockbox App
-Get the Lockbox App
+Hent Lockbox-appen
 
 
 ;No more getting locked out of apps and websites. Lockbox secures all the passwords you’ve saved in Firefox and gives you easy access across all your iOS devices.
@@ -62,7 +63,7 @@ Gem kvalitetsindhold i Pocket
 
 
 ;Get the Pocket App
-Get the Pocket App
+Hent Pocket-appen
 
 
 ;Discover the web’s best content, and absorb it anytime – even offline – on any device. Pocket’s listen feature will even read any article aloud to you. All from the Firefox toolbar.
@@ -74,7 +75,7 @@ Fortsæt hvor du slap med Notes
 
 
 ;Get the Notes App
-Get the Notes App
+Hent Notes-appen
 
 
 ;Your ideas and inspiration are secure and encrypted with Notes – and when you’re signed into your Account, they sync from your desktop to your Android devices.
@@ -86,7 +87,7 @@ Scan QR-koden for at hente Pocket-appen på din mobile enhed.
 
 
 ;Scan the QR Code to download the Lockbox App on your Apple device.
-Scan the QR Code to download the Lockbox App on your Apple device.
+Scan QR-koden for at hente Lockbox-appen på din Apple-enhed.
 
 
 # String is obsolete. Do not remove.
@@ -94,13 +95,13 @@ Scan the QR Code to download the Lockbox App on your Apple device.
 Scan QR-koden for at hente Lockbox-appen på din mobile enhed.
 
 
+;Scan the QR Code to download the Notes App on your Android device.
+Scan QR-koden for at hente Notes-appen på din Android-enhed.
+
+
 # String is obsolete. Do not remove.
 ;Scan the QR Code to download the Notes App on your mobile device.
 Scan QR-koden for at hente Notes-appen på din mobile enhed.
-
-
-;Scan the QR Code to download the Notes App on your Android device.
-Scan the QR Code to download the Notes App on your Android device.
 
 
 ;Scan the QR Code to download the Firefox App on your mobile device.
@@ -112,7 +113,7 @@ Du fortjener ro i sindet overalt.
 
 
 ;Create an Account
-Create an Account
+Opret en konto
 
 
 ;Already have an account?
