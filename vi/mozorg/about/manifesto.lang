@@ -1,4 +1,6 @@
 ## active ##
+## addendum_032018 ##
+## addendum_title_042018 ##
 ## join-us ##
 ## manifesto_landing ##
 ## NOTE: Page is available at https://www-dev.allizom.org/about/manifesto/
@@ -6,7 +8,7 @@
 
 # Page title
 ;The Mozilla Manifesto Addendum
-The Mozilla Manifesto Addendum
+Phụ lục Tuyên ngôn Mozilla
 
 
 # String is obsolete. Do not remove.
@@ -49,23 +51,23 @@ Internet toàn cầu mở là nguồn tài nguyên cộng tác và giao tiếp m
 
 
 ;Over the last decade we have seen this promise fulfilled in many ways. We have also seen the power of the internet used to magnify divisiveness, incite violence, promote hatred, and intentionally manipulate fact and reality. We have learned that we should more explicitly set out our aspirations for the human experience of the internet. We do so now.
-Over the last decade we have seen this promise fulfilled in many ways. We have also seen the power of the internet used to magnify divisiveness, incite violence, promote hatred, and intentionally manipulate fact and reality. We have learned that we should more explicitly set out our aspirations for the human experience of the internet. We do so now.
+Trong thập kỷ qua, chúng ta đã thấy những lời hứa này được thực hiện theo nhiều cách. Chúng tôi cũng đã tìm hiểu về mặt trái của Internet, đó là mở rộng sự chia rẽ, kích động bạo lực, khuyến khích sự thù hận và cố ý thao túng sự thật và thực tế. Do đó, chúng tôi học hỏi và hứa rằng chúng ta nên nói rõ nguyện vọng của mình về trải nghiệm của mọi người trên Internet. Bây giờ chúng tôi sẽ làm như vậy.
 
 
 ;We are committed to an internet that includes all the peoples of the earth — where a person’s demographic characteristics do not determine their online access, opportunities, or quality of experience.
-We are committed to an internet that includes all the peoples of the earth — where a person’s demographic characteristics do not determine their online access, opportunities, or quality of experience.
+Chúng tôi cam kết với một internet bao gồm tất cả các dân tộc trên trái đất — nơi một đặc điểm nhân khẩu học của một người không xác định truy cập trực tuyến, cơ hội hoặc chất lượng kinh nghiệm của họ.
 
 
 ;We are committed to an internet that promotes civil discourse, human dignity, and individual expression.
-We are committed to an internet that promotes civil discourse, human dignity, and individual expression.
+Chúng tôi cam kết với một internet thúc đẩy diễn ngôn dân sự, nhân phẩm và biểu hiện cá nhân.
 
 
 ;We are committed to an internet that elevates critical thinking, reasoned argument, shared knowledge, and verifiable facts.
-We are committed to an internet that elevates critical thinking, reasoned argument, shared knowledge, and verifiable facts.
+Chúng tôi cam kết với một internet nâng cao tư duy phê phán, lập luận các lý luận, kiến thức được chia sẻ và các sự kiện có thể kiểm chứng.
 
 
 ;We are committed to an internet that catalyzes collaboration among diverse communities working together for the common good.
-We are committed to an internet that catalyzes collaboration among diverse communities working together for the common good.
+Chúng tôi sẽ tập trung vào việc định hình Internet để thúc đẩy sự hợp tác giữa các cộng đồng đa dạng hợp tác vì lợi ích công cộng.
 
 
 ;Show Your Support
@@ -73,7 +75,7 @@ Thể hiện sự ủng hộ của bạn
 
 
 ;An internet with these qualities will not come to life on its own. Individuals and organizations must embed these aspirations into internet technology and into the human experience with the internet. The Mozilla Manifesto and Addendum represent Mozilla’s commitment to advancing these aspirations. We aim to work together with people and organizations everywhere who share these goals to make the internet an even better place for everyone.
-An internet with these qualities will not come to life on its own. Individuals and organizations must embed these aspirations into internet technology and into the human experience with the internet. The Mozilla Manifesto and Addendum represent Mozilla’s commitment to advancing these aspirations. We aim to work together with people and organizations everywhere who share these goals to make the internet an even better place for everyone.
+Một internet với những phẩm chất này sẽ không đi vào cuộc sống của chính nó. Các cá nhân và tổ chức phải nhúng những khát vọng này vào công nghệ internet và vào trải nghiệm của con người với internet. Tuyên ngôn và Phụ lục của Mozilla thể hiện cam kết của Mozilla, nhằm thúc đẩy những khát vọng này. Chúng tôi mong muốn hợp tác với mọi người và các tổ chức ở khắp mọi nơi, những người chia sẻ những mục tiêu này để biến internet thành một nơi thậm chí tốt hơn cho mọi người.
 
 
 ;Share on Twitter
@@ -244,7 +246,7 @@ Các cá nhân phải có khả năng định hình Internet và kinh nghiệm r
 
 
 ;Use these free tools to teach the web
-Use these free tools to teach the web
+Sử dụng những công cụ miễn phí này để đào tạo web
 
 
 # String is obsolete. Do not remove.
@@ -271,7 +273,7 @@ Nguyên tắc 6
 
 
 ;The effectiveness of the internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
-The effectiveness of the internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
+Hiệu ứng của internet với tư cách là tài nguyên công cộng dựa trên tính tương kết (giao thức, định dạng dữ liệu, nội dung), tính sáng tạo và sự tham gia toàn cầu.
 
 
 # String is obsolete. Do not remove.
@@ -288,7 +290,7 @@ Thiết lập tùy chọn không theo dõi
 
 
 ;Understand the web ecosystem
-Understand the web ecosystem
+Hiểu về hệ sinh thái web
 
 
 # String is obsolete. Do not remove.
@@ -315,7 +317,7 @@ Phần mềm tự do nguồn mở thúc đẩy sự phát triển của Internet
 
 
 ;Explore how open practices keep the web accessible
-Explore how open practices keep the web accessible
+Khám phá các lý thuyết mở để giữ web dễ dàng tiếp cận
 
 
 # String is obsolete. Do not remove.
@@ -328,7 +330,7 @@ Tìm hiểu cách trộn nội dung để tạo ra nội dung mới
 
 
 ;Learn how to maximize the interactive potential of the web
-Learn how to maximize the interactive potential of the web
+Học cách tối đa hóa khả năng tương tác của web
 
 
 # String is obsolete. Do not remove.
@@ -380,7 +382,7 @@ Nguyên tắc 9
 
 
 ;Commercial involvement in the development of the internet brings many benefits; a balance between commercial profit and public benefit is critical.
-Commercial involvement in the development of the internet brings many benefits; a balance between commercial profit and public benefit is critical.
+Sự tham gia có tính thương mại trong việc phát triển internet mang đến nhiều lợi ích; sự cân bằng giữa lợi nhuận và lợi ích công cộng là quan trọng.
 
 
 # String is obsolete. Do not remove.
@@ -420,7 +422,7 @@ Nguyên tắc 10
 
 
 ;Magnifying the public benefit aspects of the internet is an important goal, worthy of time, attention and commitment.
-Magnifying the public benefit aspects of the internet is an important goal, worthy of time, attention and commitment.
+Mở rộng khía cạnh lợi ích công cộng của internet là một mục đích quan trọng, xứng đáng với thời gian, sự chú ý và cam kết.
 
 
 # String is obsolete. Do not remove.
@@ -441,7 +443,7 @@ Tìm hiểu cách xây dựng kỹ năng làm việc trực tuyến
 
 
 ;Love the web?
-Love the web?
+Yêu thích web?
 
 
 ;Get the Mozilla newsletter and help us keep it open and free.

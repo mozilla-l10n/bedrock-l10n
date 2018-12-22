@@ -21,7 +21,7 @@
 
 # This is displayed on firefox/beta/all/.
 ;Download Firefox Beta in your language and experience cutting edge features before they make it to final release. Provide feedback to help us refine and polish the next version of Firefox.
-Download Firefox Beta in your language and experience cutting edge features before they make it to final release. Provide feedback to help us refine and polish the next version of Firefox.
+Firefox Beta اپنی زبان میں ڈاِئونلوڈ  کریں اور بہترین تجربہ اور بے جد بہترین فیچرز کا تجربہ حتمی فراہمی سے پہلے جاصل کریں۔ ہماری مدد اور Firefox کے اگ؛ے ورزن کی بہتری کے لیئے اپنی رائے دیں۔
 
 
 # %s is replaced with Firefox.
@@ -37,17 +37,17 @@ Are you a power-user comfortable installing pre-alpha software? Install Nightly 
 
 # This is displayed on firefox/organizations/all/
 ;Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
-Firefox ESR is intended for system administrators who deploy and maintain the desktop environment in organizations such as schools, governments and businesses.
+Firefox ESR ان نظام کے منتظمین کے لئے ہے جو تنظیموں، اسکولوں، حکومتوں اور کاروباروں جیسے ڈیسک ٹاپ ماحول کو تعینات اور برقرار رکھتے ہیں۔
 
 
 # The string is obsolete. Do not remove.
 # This is displayed on firefox/organizations/all/
 ;Firefox ESR is intended for groups who deploy and maintain the desktop environment in large organizations. <a href="%s">Learn more.</a>
-Firefox ESR is intended for groups who deploy and maintain the desktop environment in large organizations. <a href="%s">Learn more.</a>
+Firefox ESR ان گروپوں کے لئے ہے جو بڑے تنظیموں میں ڈیسک ٹاپ ماحول کو تعینات اور برقرار رکھتے ہیں۔ <a href="%s">مزید جانیں۔</a>
 
 
 ;Firefox is made in large part by volunteers around the world. That’s why we offer it in 90 languages (and why there’s heart and soul in every piece of code).
-Firefox is made in large part by volunteers around the world. That’s why we offer it in 90 languages (and why there’s heart and soul in every piece of code).
+Firefox دنیا بھر میں رضا کاروں کے ذریعہ بنا دیا جاتا ہے. لہاذا ہم اسے 90 زبانوں میں پیش کرتے ہیں (اور کوڈ کے ہر ٹکڑے میں کیں دل اور روح ہے)۔
 
 
 # Product name is hard coded inside the product, thus not localizable.
@@ -62,7 +62,7 @@ Firefox Nightly {ok}
 
 # Used as a tweet, make sure to keep it under 116 characters
 ;Thanks to contributions of Mozilla community members around the world, Firefox is available in 90 languages:
-Thanks to contributions of Mozilla community members around the world, Firefox is available in 90 languages:
+دنیا بھر میں Mozilla کمیونٹی ممبروں کی شراکت کے لئے شکریہ، Firefox 90 زبانوں میں دستیاب ہے:
 
 
 # This is displayed on firefox/nightly/all/.
@@ -96,12 +96,12 @@ Thanks to contributions of Mozilla community members around the world, Firefox i
 
 
 ;These localizations aren’t final. We’re waiting for more feedback from the community to perfect them.
-These localizations aren’t final. We’re waiting for more feedback from the community to perfect them.
+یہ ترجمہ حتمی نہیں ہیں۔ہم بہترین بنانے کے  لیئے کمیونٹی کی جانب سے مزید رائے کا انتظار کر رہے ہیں۔
 
 
 # Used in Android pages like /firefox/android/beta/all/
 ;Multi-locale
-Multi-locale
+کثیر-زبان
 
 
 ;Search languages

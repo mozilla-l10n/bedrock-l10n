@@ -6,32 +6,32 @@ Mozilla رازداری
 
 
 ;Contact Mozilla
-Contact Mozilla
+Mozilla سے رابطہ کریں
 
 
 ;If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
-If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
+اگر آپ اپنی معلومات کے بارے میں اصلاح کرنا چاہتے ہیں، یا ہماری رازداری کی پالیسیوں کے بارے میں کوئی سوالات ہیں تو، براہ کرم رابطا کریں:
 
 
 ;Data Privacy Principles
-Data Privacy Principles
+کوائف کی رازداری کے اصول
 
 
 # Links to https://www.mozilla.org/privacy/principles/
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Mozilla کے <a href="%(principles)s">کوائف کی رازداری کے اصول</a> ہمارے ان طریقوں کی حوصلہ افزائی کرتے ہیں جو انٹرنیٹ کا استعمال کرنے والو کی حفاظت کرتے ہیں.<a href="%(faq)s">FAQ</a> میں جانیں کہ یہ اصول کس طرح Firefox اور ہمارے سبھی مصنوعات کو شکل دیتی ہے۔
 
 
 # This string is obsolete. Do not remove.
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Mozilla کے <a href="%(principles)s">کوائف کی رازداری کے اصول</a> ہمارے ان طریقوں کی حوصلہ افزائی کرتے ہیں جو انٹرنیٹ کا استعمال کرنے والو کی حفاظت کرتے ہیں.<a href="%(faq)s">FAQ</a> میں جانیں کہ یہ اصول کس طرح Firefox اور ہمارے سبھی مصنوعات کو شکل دیتی ہے۔
 
 
 # This string is obsolete. Do not remove.
 ;Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
-Mozilla is an open source project with a mission to improve your Internet experience. This is a driving force behind our data privacy practices. <a href="%(link)s">Read More</a>
+Mozilla آپ کے انٹرنیٹ کے تجربے کو بہتر کرنے کے لئے ایک مشن کے ساتھ ایک اوپن سورس منصوبہ ہے۔ یہ ہماری رازداری کے طرز عمل کے پیچھے اصل طاقت ہے۔ <a href="%(link)s"> مزید پڑھیں</a>
 
 
 ;Privacy Notices
@@ -44,16 +44,16 @@ Mozilla is an open source project with a mission to improve your Internet experi
 
 
 ;Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
-Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+ہماری رازداری کی اطلاعات ہمارے ڈیٹا اور خدمات کو حاصل کرنے، اشتراک، اور استعمال کے اعداد و شمار کے ساتھ ساتھ آپ کے لئے انتخاب کی وضاحت کرتے ہیں۔
 
 
 # This string is obsolete. Do not remove.
 ;We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
-We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
+ہم نے مختصر اور واضح رازداری کی اطلاعیں بنائی ہے، اس بات کا اندازہ کرنے کے لئے کہ ہماری مصنوعات اور خدمات میں سے کس طرح، حصص، اور ڈیٹا استعمال کیا جاتا ہے اور آپ کی پسند کیا ہے. اورجانیے:
 
 
 ;Mozilla Websites, Communications &amp; Cookies
-Mozilla Websites, Communications &amp; Cookies
+Mozilla ویب سائٹس، مواصلات اور &amp; کوکیز
 
 
 ;Firefox Browser
@@ -65,33 +65,33 @@ Firefox برائے Fire TV
 
 
 ;Transparency Report
-Transparency Report
+شفافیت کی رپورٹ
 
 
 ;As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
-As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
+ایک کھلی منبع پروجیکٹ کے طور پر، رواداری اور شفافیت Mozilla کے بنیاد پرست اصولوں کا ایک لازمی حصہ ہے. ہماری کوڈ بیسز کھلی اور آڈٹ ہوتے ہیں. ہماری ڈیولپمنٹ  کا کام کھلا ہے. ہماری باہمی سالانہ <a href="%(report)s">شفافیت کی رپورٹ</a> بھی ان اصولوں سے ہمارا عزم ظاہر کرتی ہے۔
 
 
 ;To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
-To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
+ہماری رازداری کی پالیسیوں میں پیش کردہ تبدیلیوں پر نظر ثانی اور تبصرہ کرنے کے لئے، <a href="%(group)s"> Mozilla کےگورننس گروپ کو سبسکرائب کریں </a>۔
 
 
 # This string is obsolete. Do not remove.
 ;To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
-To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
+ہماری رازداری کی پالیسیوں میں پیش کردہ تبدیلیوں پر نظر ثانی اور تبصرہ کرنے کے لئے، <a href="%(group)s"> Mozilla گورننس گروپ کو سبسکرائب کریں </a>۔
 
 
 ;Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
-Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
+<a href="%(blog)s"> Mozilla کی اوپن پالیسی اور ایڈووکیسی بلاگ</a> پر ہماری جاری رازداری اور سیکیورٹی عوامی پالیسی کے کام کے بارے میں مزید پڑھیں۔
 
 
 # This string is obsolete. Do not remove.
 ;Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
-Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
+رازداری پر ہماری جاری کام<a href="%(blog)s"> ڈیٹا سیفٹی &amp; پرائیویسی بلاگ</a> پر محفوز ہیں اور ہمارے موجودہ کام کے بارے میں معلومات <a href="%(wiki)s">Mozilla کی پرائیویسی ٹیم ویکی</a> پر دستیاب ہے۔
 
 
 ;Outdated Policies
-Outdated Policies
+پرانی پالیسیاں
 
 
 # Used at the top of the page for navigation (breadcrumbs)
@@ -106,6 +106,6 @@ Outdated Policies
 
 # Used in sub-pages to return to the main index https://www.mozilla.org/privacy
 ;Back to Mozilla Privacy Policy
-Back to Mozilla Privacy Policy
+Mozilla رازداری کی پالیسی پر واپس جائیں
 
 

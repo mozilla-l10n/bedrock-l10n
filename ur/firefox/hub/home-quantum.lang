@@ -1,14 +1,17 @@
+## active ##
+## switch_cta_021218 ##
+## update_faster_copy ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/
 
 
 # HTML page title
 ;The new, fast browser for Mac, PC and Linux
-The new, fast browser for Mac, PC and Linux
+Mac, PC اور Linux کے لئے نیا، تیز براؤزر
 
 
 # HTML page description
 ;Responsive engine, less memory usage and packed with features. Download for desktop now.
-Responsive engine, less memory usage and packed with features. Download for desktop now.
+رسپونسو انجن، کمتر میموری استعمال اور خصوصیات کے ساتھ پیک۔ ڈیسکٹوپ کے لئے ابھی ڈاؤن لوڈ کرے۔
 
 
 ;The New Firefox
@@ -20,7 +23,7 @@ Responsive engine, less memory usage and packed with features. Download for desk
 
 
 ;Fast for good.
-Fast for good.
+اچھے کے لئے تیز۔
 
 
 ;Download now
@@ -32,37 +35,37 @@ Fast for good.
 
 
 ;A powerful, new engine that’s built for rapidfire performance.
-A powerful, new engine that’s built for rapidfire performance.
+ایک طاقتور، نیا انجن جو کی بہت بہترین کارگردگی دینے کے لئے بنا ہے۔
 
 
 ;Better, faster page loading that uses less computer memory.
-Better, faster page loading that uses less computer memory.
+بہتر، تیزی سے صفحہ لوڈنگ جو کم کمپیوٹر میموری کا استعمال کرتا ہے۔
 
 
 ;Gorgeous design and smart features for intelligent browsing.
-Gorgeous design and smart features for intelligent browsing.
+شاندار براؤزنگ کے لئے خوبصورت ڈیزائن اور ہوشیار خصوصیات۔
 
 
 ;“Faster and even more minimalist, Firefox Quantum makes Chrome look old.”
-“Faster and even more minimalist, Firefox Quantum makes Chrome look old.”
+“تیز اور اس سے بھی زیادہ کم سے کم، Firefox Quantum کی وجہ سے Chrome پرانا دکھتا ہے۔”
 
 
 # Link points to https://www.digitaltrends.com/web/firefox-quantum-hands-on-review/
 ;(Digital Trends)
-(Digital Trends)
+(ڈیجیٹل تحریک)
 
 
 # This is an alternative text for a screenshot.
 ;Screenshot of the redesigned Firefox new-tab page.
-Screenshot of the redesigned Firefox new-tab page.
+Firefox کے نئے ٹیب کا دوبارہ ڈیزائن کیا ہوا سکرن شاٹ۔
 
 
 ;Now 2x faster
-اب 2 گنا تیز
+اب دوگنا تیز
 
 
 ;Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Firefox Quantum is twice as fast as Firefox was before.
-Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Firefox Quantum is twice as fast as Firefox was before.
+بہترین <a href="%(url)s"> طاقتور براؤزر انجن </a>؟ پٹتال کرے۔ صفحات کو لوڈ کرنے میں کم وقت؟ اور بھی، دیکھیں۔ Firefox Quantum پچھلے Firefox سے دوگنہ تیز ہے۔
 
 
 # String is obsolete. Do not remove.
@@ -72,7 +75,7 @@ Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting ar
 
 # String is obsolete. Do not remove.
 ;Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Get the best Firefox yet.
-Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Get the best Firefox yet.
+بہترین <a href="%(url)s"> طاقتور براؤزر انجن </a>؟ پٹتال کرے۔ صفحات کو لوڈ کرنے میں کم وقت؟ اور بھی، دیکھیں۔ ابھی تک بہترین Firefox حاصل کریں۔
 
 
 ;30% lighter than Chrome
@@ -80,7 +83,7 @@ Chrome کے مقابلے 30% ہلکا
 
 
 ;<a href="%(url)s">Less memory usage</a> means more space for your computer to keep running smoothly. Your other programs will thank you.
-<a href="%(url)s">Less memory usage</a> means more space for your computer to keep running smoothly. Your other programs will thank you.
+<a href="%(url)s"> کم میموری کا استعمال </a> کا مطلب آپ کے کمپیوٹر کے لئے آسانی سے چلا سکتے ہے۔ جسسےآپ کو دیگر پروگرام کو چلانے میں اسانی ہوگی۔
 
 
 ;Smooth browsing
@@ -88,28 +91,28 @@ Chrome کے مقابلے 30% ہلکا
 
 
 ;Whether you’ve opened 10 or 1000, switching between tabs is faster than ever with Firefox’s new, responsive engine.
-Whether you’ve opened 10 or 1000, switching between tabs is faster than ever with Firefox’s new, responsive engine.
+چاہے آپ نے 10 یا 1000 تیب کھولیں ہو، Firefox کے نئے، بہترین انجن کے ساتھ ٹیب کے درمیاں تبدیلی کہیں زیادہ    تیزی سے کر سکتے ہے۔
 
 
 # This is an alternative text for a screenshot.
 ;Firefox screenshot showing many open tabs and browser windows running simultaneously.
-Firefox screenshot showing many open tabs and browser windows running simultaneously.
+Firefox اسکرین شاٹ بہت ساری ٹیب اور ونڈوں ایک ہی وقت پر چلتے ہوئے دکھاتے ہوئے۔
 
 
 ;Switch from Chrome to Firefox in just a few minutes
-Switch from Chrome to Firefox in just a few minutes
+صرف چند منٹ میں Chrome سے Firefox پر سوئچ کریں
 
 
 ;Switching to Firefox is fast, easy and risk-free. Firefox imports your bookmarks, autofills, passwords and preferences from Chrome.
-Switching to Firefox is fast, easy and risk-free. Firefox imports your bookmarks, autofills, passwords and preferences from Chrome.
+Firefox پر سوئچنگ تیز، آسان اور خطرہ مفت ہے۔ Firefox آپ کے بک مارک، آٹوں فل، پاس ورڈ اور ترجیحات کو Chrome سے درآمد کرتا ہے۔
 
 
 ;Moving browsers? We got you.
-Moving browsers? We got you.
+براؤزر تبدیل کر رہے ہے؟ ہم آپکی خدمت میں حاظر ہے۔
 
 
 ;Instantly import your online info and favorites from any other browser.
-Instantly import your online info and favorites from any other browser.
+کسی دوسرے براؤزر سے اپنی آن لائن معلومات اور پسندیدہ ویب سائٹ کو فوری طور پر درآمد کریں۔
 
 
 ;Bookmarks
@@ -117,7 +120,7 @@ Instantly import your online info and favorites from any other browser.
 
 
 ;Auto Fill
-Auto Fill
+آٹوں فل
 
 
 ;Passwords
@@ -133,11 +136,11 @@ Auto Fill
 
 
 ;The most powerful private browsing mode with added tracking protection.
-The most powerful private browsing mode with added tracking protection.
+سب سے زیادہ طاقتور نجی براؤزنگ موڈ مع ٹریکنگ تحفظ۔
 
 
 ;Firefox blocks online trackers while you browse and won’t remember your history after you’re done.
-Firefox blocks online trackers while you browse and won’t remember your history after you’re done.
+Firefox آن لائن ٹریکرز کو روکتا ہے اور حسٹری کو یاد نہیں رکھتا جب آپ براؤز کرتے ہے۔
 
 
 ;Tracking Protection
@@ -145,24 +148,24 @@ Firefox blocks online trackers while you browse and won’t remember your histor
 
 
 ;Some ads have hidden trackers that follow you online. Rude. We know. That’s why our powerful tool stops them cold.
-Some ads have hidden trackers that follow you online. Rude. We know. That’s why our powerful tool stops them cold.
+کچھ اشتھارات کے ساتھ چھپے ہوئے ٹریکر ہوتے ہیں جو آپ کو آن لائن نظر رکھتے ہیں۔ صحیح نہیں ہے۔ ہم جانتے ہیں۔ لہذا ہمارے طاقتور ٹول انہے اسی وقت روکتے ہے۔
 
 
 ;Faster Page Loading
-Faster Page Loading
+تیزی سے صفحہ لوڈ ہو رہا ہے
 
 
 ;By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages load up to 44%% faster</a>. Now that’s a win-win.
-By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages load up to 44%% faster</a>. Now that’s a win-win.
+کچھ اشتھارات اور اسکرپٹ بلاک کرنے سے جو کی براؤزنگ کو سست کر دیتے ہے، <a href="%(url)s"> صفحات 44 ٪٪ تیزی تک لوڈ ہو سکتے ہے </a>۔ جو کی ایک اچھی خصوصیت ہے۔
 
 
 ;Firefox Quantum features
-Firefox Quantum features
+Firefox Quantum خصوصیات
 
 
 # VR can be spelled out as "Virtual Reality" if clearer.
 ;Gaming & VR
-Gaming & VR
+گیمنگ اور وی آر
 
 
 ;Library
@@ -170,24 +173,24 @@ Gaming & VR
 
 
 ;Uncomplicate screenshots. Take and share them directly from Firefox. That means no more searching for mysterious file names on your computer.
-Uncomplicate screenshots. Take and share them directly from Firefox. That means no more searching for mysterious file names on your computer.
+غیر پیچیدہ اسکرین شاٹ۔ جسے فائر فاکس سے براہ راست شیئر کریں۔ اس کا مطلب یہ ہے کہ آپ کو کمپیوٹر پر فائل تلاش کرنے کی زحمت نہیں اٹھانی پڈیگی۔
 
 
 ;Built right into the toolbar, it’s the ultimate save-for-later feature. View your articles, videos and pages across any device.
-Built right into the toolbar, it’s the ultimate save-for-later feature. View your articles, videos and pages across any device.
+سیدھا ٹول بار میں بنایا گیا، یہ ایک بہترن خصوصیت ہے. کسی بھی آلات میں اپنے مضامین، ویڈیوز اور صفحات دیکھیں۔
 
 
 # WASM is short for WebAssembly
 ;Engineered for next-gen gaming, Firefox has built-in support for WASM and WebVR. No additional installation needed!
-Engineered for next-gen gaming, Firefox has built-in support for WASM and WebVR. No additional installation needed!
+اگلی نسل گیمنگ کے لئے انجینئر کیا گیا، Firefox میں WASM اور WebVR کے لئے بلٹ ان حمایت ہے۔ کوئی اضافی تنصیب کی ضرورت نہیں!
 
 
 ;Save time! Find all your favorite content like Pocket saves, bookmarks, browsing history, screenshots and downloads in one spot.
-Save time! Find all your favorite content like Pocket saves, bookmarks, browsing history, screenshots and downloads in one spot.
+وقت کو بچائے! اپنی تمام پسندیدہ مواد ایک جگہ پے تلاش کریں جیسے Pocket save، بک مارکس، براؤزنگ کی تاریخ، اسکرین شاٹ اور ڈاؤن لوڈ۔
 
 
 ;Customization Features
-Customization Features
+حسب ضرورت کی خصوصیات
 
 
 ;Extensions
@@ -196,11 +199,11 @@ Customization Features
 
 # App names remain in English.
 ;Customize Firefox with thousands of extensions like LastPass, uBlock Origin, Evernote and more.
-Customize Firefox with thousands of extensions like LastPass, uBlock Origin, Evernote and more.
+ہزاروں ایکسٹینشن جیسے LastPass، uBlock Origin، Evernote اور مزید کے زریع Firefox کو اپنی زرورت کے مطابک بنائے۔
 
 
 ;Make over Firefox to suit your mood! Choose a new look from our theme categories or create your own.
-Make over Firefox to suit your mood! Choose a new look from our theme categories or create your own.
+Firefox کو اپنے مزاج کے مطابق بنائیں! ہمارے تھیم زمرے سے ایک نئی تھیم منتخب کریں یا اپنی خود بنائیں۔
 
 
 ;Toolbar
@@ -208,19 +211,19 @@ Make over Firefox to suit your mood! Choose a new look from our theme categories
 
 
 ;Set up Firefox your way. Drag and drop features in and out of your toolbar for easy access.
-Set up Firefox your way. Drag and drop features in and out of your toolbar for easy access.
+Firefox کو اپنے حصاب سے سیٹ کرے۔ آسان رسائی کے لۓ آپ کے ٹول بار میں اندر اور باہر ڈریگ اور ڈراپ کریں۔
 
 
 ;Sync your devices
-Sync your devices
+اپنے آلات کی ہم وقت ساز کریں
 
 
 ;Seamlessly access passwords, bookmarks and more. Plus, use our Send Tabs feature to instantly share open tabs between desktop, mobile and tablet.
-Seamlessly access passwords, bookmarks and more. Plus, use our Send Tabs feature to instantly share open tabs between desktop, mobile and tablet.
+آسانی سے پاس ورڈ، بک مارک اور مزید تک رسائی حاصل کریں۔ مزید، ڈیسک ٹاپ، موبائل اور ٹیبلٹ کے درمیان کھلی ٹیبز کو فوری طور پر شیئر کرنے کے لئے ہمارے بھیجیں ٹیبس کی خصوصیت کا استعمال کریں۔
 
 
 ;Image of Gif shared from desktop to mobile using the Send Tab feature.
-Image of Gif shared from desktop to mobile using the Send Tab feature.
+ڈیسکٹوپ سے موبائل پر بھیجیں ٹیبس کی خصوصیت سے Gif تصویر شیئر کرے۔
 
 
 ;Browse for good
@@ -228,6 +231,6 @@ Image of Gif shared from desktop to mobile using the Send Tab feature.
 
 
 ;Firefox is made by Mozilla, the non-profit champions of a healthy internet. Mozilla also tackles issues like privacy, misinformation and trolling by investing in fellowships, campaigns and new technologies designed to make the internet healthier.
-Firefox is made by Mozilla, the non-profit champions of a healthy internet. Mozilla also tackles issues like privacy, misinformation and trolling by investing in fellowships, campaigns and new technologies designed to make the internet healthier.
+Firefox Mozilla کی طرف سے بنایا گیا ہے، ایک صحت مند انٹرنیٹ کے غیر منافع بخش چیمپئنز۔ انٹرنیٹ کو صحت مند بنانے کے لئے ، رازداری، غلط معلومات اور بدبختی جیسے دوسریں مسائل سے نمٹنیں کے لئے Mozilla ہمسایہات، مہمات اور نئی ٹیکنالوجی ڈیزائن میں سرمایہ کاری کرتا ہے۔
 
 
