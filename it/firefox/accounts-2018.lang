@@ -1,4 +1,5 @@
 ## active ##
+## accounts_2018_qrcodes ##
 ## NOTE: https://www-demo3.allizom.org/firefox/accounts/
 
 
@@ -22,7 +23,7 @@ Crea un account Firefox
 
 
 ;Download the Firefox App
-Download the Firefox App
+Scarica l’app Firefox
 
 
 ;Own your life on every device with a Firefox Account.
@@ -42,7 +43,7 @@ Memorizza le tue password in Lockbox
 
 
 ;Get the Lockbox App
-Get the Lockbox App
+Scarica l’app Lockbox
 
 
 ;No more getting locked out of apps and websites. Lockbox secures all the passwords you’ve saved in Firefox and gives you easy access across all your iOS devices.
@@ -62,7 +63,7 @@ Salva contenuti di qualità su Pocket
 
 
 ;Get the Pocket App
-Get the Pocket App
+Scarica l’app Pocket
 
 
 ;Discover the web’s best content, and absorb it anytime – even offline – on any device. Pocket’s listen feature will even read any article aloud to you. All from the Firefox toolbar.
@@ -74,7 +75,7 @@ Riprendi da dove avevi interrotto con Notes
 
 
 ;Get the Notes App
-Get the Notes App
+Scarica l’app Notes
 
 
 ;Your ideas and inspiration are secure and encrypted with Notes – and when you’re signed into your Account, they sync from your desktop to your Android devices.
@@ -86,7 +87,7 @@ Scansiona il codice QR e scarica Pocket sul tuo dispositivo.
 
 
 ;Scan the QR Code to download the Lockbox App on your Apple device.
-Scan the QR Code to download the Lockbox App on your Apple device.
+Scansiona il codice QR per scaricare Lockbox sul tuo dispositivo Apple.
 
 
 # String is obsolete. Do not remove.
@@ -95,7 +96,7 @@ Scansiona il codice QR e scarica Lockbox sul tuo dispositivo.
 
 
 ;Scan the QR Code to download the Notes App on your Android device.
-Scan the QR Code to download the Notes App on your Android device.
+Scansiona il codice QR per scaricare Notes sul tuo dispositivo Apple.
 
 
 # String is obsolete. Do not remove.
@@ -112,7 +113,7 @@ Ti meriti tranquillità ovunque tu sia.
 
 
 ;Create an Account
-Create an Account
+Crea un account
 
 
 ;Already have an account?
