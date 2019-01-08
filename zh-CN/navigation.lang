@@ -3,19 +3,19 @@
 
 
 ;Menu
-Menu
+菜单
 
 
 ;Download Firefox
-Download Firefox
+下载 Firefox
 
 
 ;About
-About
+关于
 
 
 ;Close About menu
-Close About menu
+关闭关于菜单
 
 
 ;Meet the technology company that puts people before profit.
@@ -23,27 +23,27 @@ Meet the technology company that puts people before profit.
 
 
 ;Leadership
-Leadership
+领导层
 
 
 ;Mozilla Foundation
-Mozilla Foundation
+Mozilla 基金会
 
 
 ;Mission
-Mission
+使命
 
 
 ;Press Center
-Press Center
+媒体中心
 
 
 ;Contact
-Contact
+联系我们
 
 
 ;Careers
-Careers
+招贤纳士
 
 
 ;Work for a mission-driven organization that builds purpose-driven products.
@@ -51,7 +51,7 @@ Work for a mission-driven organization that builds purpose-driven products.
 
 
 ;Get involved
-Get involved
+参与进来
 
 
 ;Join the fight for a healthy internet.
@@ -59,39 +59,39 @@ Join the fight for a healthy internet.
 
 
 ;Events
-Events
+活动
 
 
 ;Donate
-Donate
+捐赠
 
 
 ;Mozilla Manifesto
-Mozilla Manifesto
+Mozilla 宣言
 
 
 ;Your right to security and privacy on the internet is fundamental – never optional.
-Your right to security and privacy on the internet is fundamental – never optional.
+您在互联网上的安全和隐私保护权是基本要求 – 永远不可忽视。
 
 
 ;Developers
-Developers
+开发者
 
 
 ;Close Developers menu
-Close Developers menu
+关闭开发者菜单
 
 
 ;Firefox Developer Edition
-Firefox Developer Edition
+Firefox 开发者版本
 
 
 ;Firefox, built just for developers.
-Firefox, built just for developers.
+专为开发者打造的 Firefox。
 
 
 ;Test soon-to-be-released features in our most stable pre-release build.
-Test soon-to-be-released features in our most stable pre-release build.
+在我们最稳定的预览版本中测试即将发布的功能。
 
 
 ;Preview the latest build of Firefox and help us make it the best.
@@ -99,7 +99,7 @@ Preview the latest build of Firefox and help us make it the best.
 
 
 ;Developer Innovations
-Developer Innovations
+开发者创新
 
 
 ;Projects that help keep the internet open and accessible for all.
@@ -107,55 +107,55 @@ Projects that help keep the internet open and accessible for all.
 
 
 ;Web Assembly
-Web Assembly
+Web Assembly {ok}
 
 
 ;Gaming
-Gaming
+游戏
 
 
 ;Mixed Reality
-Mixed Reality
+混合现实（MR）
 
 
 ;Resources
-Resources
+资源
 
 
 ;Resources for developers, by developers.
-Resources for developers, by developers.
+源于开发者，服务开发者。
 
 
 ;MDN Web Docs
-MDN Web Docs
+MDN Web 文档
 
 
 ;Firefox Playground
-Firefox Playground
+Firefox Playground {ok}
 
 
 ;CSS Grid
-CSS Grid
+CSS 网格
 
 
 ;Developer Blog
-Developer Blog
+开发者博客
 
 
 ;Mozilla Open Source Support (MOSS)
-Mozilla Open Source Support (MOSS)
+Mozilla 开源支持（MOSS）
 
 
 ;Build, test, scale and more with the only browser built just for developers.
-Build, test, scale and more with the only browser built just for developers.
+使用专为开发者打造的浏览器进行构建、测试和测量。
 
 
 ;Close Firefox menu
-Close Firefox menu
+关闭 Firefox 菜单
 
 
 ;Firefox Quantum Desktop Browser
-Firefox Quantum Desktop Browser
+Firefox Quantum 桌面浏览器
 
 
 ;Get the browser that gives more power to you on Windows, macOS or Linux.
@@ -163,27 +163,27 @@ Get the browser that gives more power to you on Windows, macOS or Linux.
 
 
 ;Download
-Download
+下载
 
 
 ;New Features
-New Features
+新功能
 
 
 ;Extensions
-Extensions
+扩展
 
 
 ;Support
-Support
+用户支持
 
 
 ;Privacy
-Privacy
+隐私权
 
 
 ;Firefox Mobile Browsers
-Firefox Mobile Browsers
+Firefox 移动浏览器
 
 
 ;Take Firefox and Firefox Focus with you. For Android and iOS.
@@ -191,35 +191,35 @@ Take Firefox and Firefox Focus with you. For Android and iOS.
 
 
 ;Get Firefox
-Get Firefox
+下载 Firefox
 
 
 ;Get Firefox Focus
-Get Firefox Focus
+下载 Firefox Focus
 
 
 ;Android Extensions
-Android Extensions
+Android 扩展
 
 
 ;iOS Support
-iOS Support
+iOS 版技术支持
 
 
 ;Android Support
-Android Support
+Android 版技术支持
 
 
 ;Pocket by Firefox
-Pocket by Firefox
+Pocket by Firefox {ok}
 
 
 ;Save content. Absorb knowledge.
-Save content. Absorb knowledge.
+保存内容，吸收知识。
 
 
 ;Your Firefox Account
-Your Firefox Account
+您的 Firefox 账户
 
 
 ;Make the most of your Firefox experience, across every device.
@@ -227,7 +227,7 @@ Make the most of your Firefox experience, across every device.
 
 
 ;Firefox for Enterprise
-Firefox for Enterprise
+Firefox 企业版
 
 
 ;Same speed and safety you trust, designed just for business.
@@ -235,7 +235,7 @@ Same speed and safety you trust, designed just for business.
 
 
 ;Firefox for Fire TV
-Firefox for Fire TV
+Firefox for Fire TV {ok}
 
 
 ;Watch videos and browse the internet on your Amazon Fire TV.
@@ -243,19 +243,19 @@ Watch videos and browse the internet on your Amazon Fire TV.
 
 
 ;Add-ons
-Add-ons
+附加组件
 
 
 ;Learn how to customize the way Firefox works.
-Learn how to customize the way Firefox works.
+学习如何定制 Firefox 的工作方式。
 
 
 ;Projects
-Projects
+项目
 
 
 ;Close Projects menu
-Close Projects menu
+关闭项目菜单
 
 
 ;Donate your voice to help make voice recognition open to everyone.
@@ -263,11 +263,11 @@ Donate your voice to help make voice recognition open to everyone.
 
 
 ;Experience augmented and virtual reality with Firefox.
-Experience augmented and virtual reality with Firefox.
+使用 Firefox 体验增强现实（AR）和虚拟现实（VR）。
 
 
 ;Web of Things (IoT)
-Web of Things (IoT)
+物联网（IoT）
 
 
 ;Make devices connected to the internet safe, secure and interoperable.
@@ -283,10 +283,10 @@ Meet people in experimental Mixed Reality chatrooms with Firefox.
 
 
 ;Mozilla WebVR
-Mozilla WebVR
+Mozilla WebVR {ok}
 
 
 ;Mozilla brings Firefox to augmented and virtual reality.
-Mozilla brings Firefox to augmented and virtual reality.
+Mozilla 将 Firefox 带入增强现实（AR）和虚拟现实（VR）。
 
 
