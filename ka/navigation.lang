@@ -3,290 +3,290 @@
 
 
 ;Menu
-Menu
+მენიუ
 
 
 ;Download Firefox
-Download Firefox
+ჩამოტვირთეთ Firefox
 
 
 ;About
-About
+ჩვენ შესახებ
 
 
 ;Close About menu
-Close About menu
+ჩვენ შესახებ მენიუს დახურვა
 
 
 ;Meet the technology company that puts people before profit.
-Meet the technology company that puts people before profit.
+გაეცანით ტექნოლოგიურ დაწესებულებას, რომელიც მოგებაზე წინ, ხალხს აყენებს.
 
 
 ;Leadership
-Leadership
+ხელმძღვანელობა
 
 
 ;Mozilla Foundation
-Mozilla Foundation
+Mozilla-ს ფონდი
 
 
 ;Mission
-Mission
+მიზანი
 
 
 ;Press Center
-Press Center
+პრესცენტრი
 
 
 ;Contact
-Contact
+დაკავშირება
 
 
 ;Careers
-Careers
+დასაქმება
 
 
 ;Work for a mission-driven organization that builds purpose-driven products.
-Work for a mission-driven organization that builds purpose-driven products.
+იმუშავეთ დაწესებულებაში, რომელიც ისწრაფვის განსაზღვრული მიზნისკენ და ქმნის განსაზღვრული დანიშნულების მქონე პროდუქტებს.
 
 
 ;Get involved
-Get involved
+შემოგვიერთდით
 
 
 ;Join the fight for a healthy internet.
-Join the fight for a healthy internet.
+ჩაერთეთ ინტერნეტის სიჯანსაღისთვის ბრძოლაში.
 
 
 ;Events
-Events
+ღონისძიებები
 
 
 ;Donate
-Donate
+შემოწირულობა
 
 
 ;Mozilla Manifesto
-Mozilla Manifesto
+Mozilla-ს დებულებები
 
 
 ;Your right to security and privacy on the internet is fundamental – never optional.
-Your right to security and privacy on the internet is fundamental – never optional.
+ინტერნეტში უსაფრთხოება და პირადი ინფორმაციის ხელშეუხებლობა თქვენი ძირითადი უფლებაა – ვერასდროს გახდება მეორეხარისხოვანი.
 
 
 ;Developers
-Developers
+შემმუშავებლები
 
 
 ;Close Developers menu
-Close Developers menu
+შემმუშავებლების მენიუს დახურვა
 
 
 ;Firefox Developer Edition
-Firefox Developer Edition
+Firefox Developer Edition {ok}
 
 
 ;Firefox, built just for developers.
-Firefox, built just for developers.
+Firefox, შექმნილი საგანგებოდ შემმუშავებლებისთვის
 
 
 ;Test soon-to-be-released features in our most stable pre-release build.
-Test soon-to-be-released features in our most stable pre-release build.
+გამოცადეთ უახლესი შესაძლებლობები წინასწარი გამოშვებების ყველაზე მდგრად ანაწყობზე.
 
 
 ;Preview the latest build of Firefox and help us make it the best.
-Preview the latest build of Firefox and help us make it the best.
+გადახედეთ Firefox-ის უახლეს ანაწყობს და დაგვეხმარეთ მის სრულყოფაში.
 
 
 ;Developer Innovations
-Developer Innovations
+დანერგილი სიახლეები
 
 
 ;Projects that help keep the internet open and accessible for all.
-Projects that help keep the internet open and accessible for all.
+პროექტები, რომლებიც დაგვეხმარება ინტერნეტის გახსნილობისა და საყოველთაო ხელმისაწვდომობის შენარჩუნებაში.
 
 
 ;Web Assembly
-Web Assembly
+Web Assembly {ok}
 
 
 ;Gaming
-Gaming
+თამაშები
 
 
 ;Mixed Reality
-Mixed Reality
+შერეული სინამდვილე
 
 
 ;Resources
-Resources
+მასალები
 
 
 ;Resources for developers, by developers.
-Resources for developers, by developers.
+მასალები შემმუშავებლებისთვის, შემმუშავებლებისგან.
 
 
 ;MDN Web Docs
-MDN Web Docs
+MDN ვებმასალა
 
 
 ;Firefox Playground
-Firefox Playground
+Firefox Playground {ok}
 
 
 ;CSS Grid
-CSS Grid
+CSS ბადე
 
 
 ;Developer Blog
-Developer Blog
+შემმუშავებლის სვეტი
 
 
 ;Mozilla Open Source Support (MOSS)
-Mozilla Open Source Support (MOSS)
+Mozilla – თავისუფალი კოდის მხარდაჭერა (MOSS)
 
 
 ;Build, test, scale and more with the only browser built just for developers.
-Build, test, scale and more with the only browser built just for developers.
+შეიმუშავეთ, შეამოწმეთ, გამოიკვლიეთ და ა.შ. ერთადერთი ბრაუზერით, რომელიც შექმნილია საგანგებოდ შემმუშავებლებისთვის.
 
 
 ;Close Firefox menu
-Close Firefox menu
+Firefox-ის მენიუს დახურვა
 
 
 ;Firefox Quantum Desktop Browser
-Firefox Quantum Desktop Browser
+Firefox Quantum კომპიუტერისთვის
 
 
 ;Get the browser that gives more power to you on Windows, macOS or Linux.
-Get the browser that gives more power to you on Windows, macOS or Linux.
+გამოიყენეთ ბრაუზერი, რომელიც მოგანიჭებთ მეტ შესაძლებლობებს Windows, macOS ან Linux-სისტემაზე.
 
 
 ;Download
-Download
+ჩამოტვირთვა
 
 
 ;New Features
-New Features
+სიახლეები
 
 
 ;Extensions
-Extensions
+გაფართოებები
 
 
 ;Support
-Support
+მხარდაჭერა
 
 
 ;Privacy
-Privacy
+პირადულობა
 
 
 ;Firefox Mobile Browsers
-Firefox Mobile Browsers
+Firefox ბრაუზერები მობილურისთვის
 
 
 ;Take Firefox and Firefox Focus with you. For Android and iOS.
-Take Firefox and Firefox Focus with you. For Android and iOS.
+თან წაიყოლეთ Firefox და Firefox Focus. Android-სა და iOS-ზე.
 
 
 ;Get Firefox
-Get Firefox
+გადმოწერეთ Firefox
 
 
 ;Get Firefox Focus
-Get Firefox Focus
+გადმოწერეთ Firefox Focus
 
 
 ;Android Extensions
-Android Extensions
+გაფართოებები Android-ზე
 
 
 ;iOS Support
-iOS Support
+მხარდაჭერა iOS-ზე
 
 
 ;Android Support
-Android Support
+მხარდაჭერა Android-ზე
 
 
 ;Pocket by Firefox
-Pocket by Firefox
+Pocket-ი Firefox-ში
 
 
 ;Save content. Absorb knowledge.
-Save content. Absorb knowledge.
+შეინახეთ გვერდები. შთანთქეთ ცოდნა.
 
 
 ;Your Firefox Account
-Your Firefox Account
+თქვენი Firefox-ანგარიში
 
 
 ;Make the most of your Firefox experience, across every device.
-Make the most of your Firefox experience, across every device.
+სრულყოფილად გამოიყენეთ Firefox, ყველა თქვენს მოწყობილობაზე.
 
 
 ;Firefox for Enterprise
-Firefox for Enterprise
+Firefox დაწესებულებებისთვის
 
 
 ;Same speed and safety you trust, designed just for business.
-Same speed and safety you trust, designed just for business.
+იგივე სიჩქარე და უსაფრთხოება რომელსაც ენდობით, უბრალოდ მორგებული ბიზნესზე.
 
 
 ;Firefox for Fire TV
-Firefox for Fire TV
+Firefox - Fire TV
 
 
 ;Watch videos and browse the internet on your Amazon Fire TV.
-Watch videos and browse the internet on your Amazon Fire TV.
+უყურეთ ვიდეოებს და იმოგზაურეთ ინტერნეტში თქვენი Amazon Fire TV-ით.
 
 
 ;Add-ons
-Add-ons
+დამატებები
 
 
 ;Learn how to customize the way Firefox works.
-Learn how to customize the way Firefox works.
+გაეცანით, Firefox-ის უკეთ მორგების ხერხებს.
 
 
 ;Projects
-Projects
+პროექტები
 
 
 ;Close Projects menu
-Close Projects menu
+პროექტების მენიუს დახურვა
 
 
 ;Donate your voice to help make voice recognition open to everyone.
-Donate your voice to help make voice recognition open to everyone.
+შემოგვწირეთ თქვენი ხმის ჩანაწერები, რომ გავხადოთ ხმის ამოცნობის საშუალებები საყოველთაოდ ხელმისაწვდომი.
 
 
 ;Experience augmented and virtual reality with Firefox.
-Experience augmented and virtual reality with Firefox.
+გამოცადეთ დამატებითი და წარმოსახვითი სინამდვილე Firefox-ით.
 
 
 ;Web of Things (IoT)
-Web of Things (IoT)
+საგნების ქსელი (IoT)
 
 
 ;Make devices connected to the internet safe, secure and interoperable.
-Make devices connected to the internet safe, secure and interoperable.
+გახადეთ მოწყობილობების ინტერნეტკავშირი მეტად უსაფრთხო, დაცული და ურთიერთქმედითი.
 
 
 ;Hubs
-Hubs
+Hubs {ok}
 
 
 ;Meet people in experimental Mixed Reality chatrooms with Firefox.
-Meet people in experimental Mixed Reality chatrooms with Firefox.
+შეხვდით ხალხს, შერეული სინამდვილის საცდელ სასაუბრო ოთახებში Firefox-ით.
 
 
 ;Mozilla WebVR
-Mozilla WebVR
+Mozilla WebVR {ok}
 
 
 ;Mozilla brings Firefox to augmented and virtual reality.
-Mozilla brings Firefox to augmented and virtual reality.
+Mozilla-ს შემოაქვს Firefox დამატებით და წარმოსახვით სინამდვილეში.
 
 
