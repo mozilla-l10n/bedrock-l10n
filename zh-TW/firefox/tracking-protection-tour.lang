@@ -1,4 +1,5 @@
 ## active ##
+## content_blocking_65_1511420 ##
 ## remove_fastblock_1499589 ##
 ## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_201602 ##
@@ -18,7 +19,7 @@
 
 
 ;If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
-If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+若內容封鎖功能造成您無法正常開啟某個可信任的網站，可選擇「暫時關閉封鎖功能」。
 
 
 # String is obsolete. Do not remove.
@@ -27,7 +28,7 @@ If content blocking prevents you from using a site you trust, select “Turn off
 
 
 ;If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
-If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+若內容封鎖功能造成您無法正常開啟某個可信任的網站，可選擇「對此網站關閉封鎖功能」。
 
 
 # String is obsolete. Do not remove.
@@ -135,7 +136,7 @@ Firefox 追蹤保護
 
 # Link points to https://support.mozilla.org/en-US/kb/content-blocking/
 ;<a rel="external" href="%s">Learn more</a> about how it works.
-<a rel="external" href="%s">Learn more</a> about how it works.
+<a rel="external" href="%s">了解更多</a>工作原理的相關資訊。
 
 
 # String is obsolete. Do not remove.
@@ -156,7 +157,7 @@ Firefox 全新功能: 內容封鎖
 
 
 ;To restore content blocking for a site, select “Turn on Blocking for This Site.“
-To restore content blocking for a site, select “Turn on Blocking for This Site.“
+要恢復對某網站進行內容封鎖，選擇「對此網站開啟封鎖功能」。
 
 
 # String is obsolete. Do not remove.
