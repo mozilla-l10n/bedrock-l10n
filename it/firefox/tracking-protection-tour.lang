@@ -1,4 +1,5 @@
 ## active ##
+## content_blocking_65_1511420 ##
 ## remove_fastblock_1499589 ##
 ## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_201602 ##
@@ -18,7 +19,7 @@ Quando viene visualizzato lo scudo, Firefox sta bloccando parti della pagina che
 
 
 ;If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
-If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+Seleziona “Disattiva blocco temporaneamente” se il blocco contenuti ti impedisce di utilizzare un sito che consideri affidabile.
 
 
 # String is obsolete. Do not remove.
@@ -27,7 +28,7 @@ Se il blocco contenuti ti impedisce di utilizzare un sito che consideri affidabi
 
 
 ;If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
-If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+Seleziona “Disattiva blocco per questo sito” se il blocco contenuti ti impedisce di utilizzare un sito che consideri affidabile.
 
 
 # String is obsolete. Do not remove.
@@ -135,7 +136,7 @@ Grazie per aver seguito questa guida introduttiva alla nuova funzione di protezi
 
 # Link points to https://support.mozilla.org/en-US/kb/content-blocking/
 ;<a rel="external" href="%s">Learn more</a> about how it works.
-<a rel="external" href="%s">Learn more</a> about how it works.
+<a rel="external" href="%s">Scopri di più</a> su come funziona.
 
 
 # String is obsolete. Do not remove.
@@ -156,7 +157,7 @@ Disattiva il blocco contenuti per i siti affidabili
 
 
 ;To restore content blocking for a site, select “Turn on Blocking for This Site.“
-To restore content blocking for a site, select “Turn on Blocking for This Site.“
+Seleziona “Attiva blocco per questo sito” per ripristinare il blocco contenuti per un sito.
 
 
 # String is obsolete. Do not remove.
