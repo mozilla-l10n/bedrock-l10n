@@ -1,4 +1,5 @@
 ## active ##
+## content_blocking_65_1511420 ##
 ## remove_fastblock_1499589 ##
 ## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_201602 ##
@@ -18,7 +19,7 @@ Gaž šćit wiźiśo, Firefox źěle boka blokěrujo, kótarež mógu wašo pśe
 
 
 ;If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
-If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+Jolic blokěrowanje wopśimjeśa wam wužywanje sedła zawoborujo, kótaremuž dowěriśo, wubjeŕśo “Blokěrowanje nachylu znjemóžniś.”
 
 
 # String is obsolete. Do not remove.
@@ -27,7 +28,7 @@ Jolic blokěrowanje wopśimjeśa wužywanjeju dowěry gódnego sedła zajźujo, 
 
 
 ;If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
-If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+Jolic blokěrowanje wopśimjeśa wam wužywanje sedła zawoborujo, kótaremuž dowěriśo, wubjeŕśo “Blokěrowanje za toś to sedło znjemóžniś.”
 
 
 # String is obsolete. Do not remove.
@@ -135,7 +136,7 @@ Cośo toś tu funkciju znjemóžniś? <a href="%s">Woglědajśo k nastajenjam pr
 
 # Link points to https://support.mozilla.org/en-US/kb/content-blocking/
 ;<a rel="external" href="%s">Learn more</a> about how it works.
-<a rel="external" href="%s">Learn more</a> about how it works.
+<a rel="external" href="%s">Zgóńśo wěcej</a> wó tom, kak funkcioněrujo.
 
 
 # String is obsolete. Do not remove.
@@ -156,7 +157,7 @@ Blokěrowanje za dowěry gódne sedła znjemóžniś
 
 
 ;To restore content blocking for a site, select “Turn on Blocking for This Site.“
-To restore content blocking for a site, select “Turn on Blocking for This Site.“
+Aby blokěrowanje wopśimjeśa za sedło wótnowił, wubjeŕśo “Blokěrowanje za toś to sedło zmóžniś“.
 
 
 # String is obsolete. Do not remove.
