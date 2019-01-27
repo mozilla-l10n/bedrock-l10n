@@ -1,4 +1,6 @@
 ## active ##
+## content_blocking_65_1511420 ##
+## remove_fastblock_1499589 ##
 ## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_201602 ##
 ## tp_tour_firefox_201809 ##
@@ -8,7 +10,7 @@
 
 
 ;When you see the shield, Firefox is blocking parts of the page that can track you online.
-When you see the shield, Firefox is blocking parts of the page that can track you online.
+Kai matote šį skydą, jis reiškia, jog „Firefox“ blokuoja kai kuriuos atverto tinklalapio išteklius, galinčius stebėti jūsų naršymą.
 
 
 # String is obsolete, do not remove
@@ -17,7 +19,7 @@ Kai matote šį skydą, jis reiškia, jog „Firefox“ blokuoja kai kuriuos atv
 
 
 ;If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
-If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+Jeigu turinio blokavimo funkcija trukdo naudotis svetaine, kuria pasitikite, galite šiame skydelyje spustelėti mygtuką „Laikinai išjungti blokavimą“.
 
 
 # String is obsolete. Do not remove.
@@ -26,7 +28,7 @@ Jeigu turinio blokavimo funkcija trukdo naudotis svetaine, kuria pasitikite, gal
 
 
 ;If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
-If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+Jeigu turinio blokavimo funkcija trukdo naudotis svetaine, kuria pasitikite, galite šiame skydelyje spustelėti mygtuką „Išjungti blokavimą šioje svetainėje“.
 
 
 # String is obsolete. Do not remove.
@@ -134,7 +136,7 @@ Džiaugiamės, jog susidomėjote atnaujintu privačiuoju naršymu su apsauga nuo
 
 # Link points to https://support.mozilla.org/en-US/kb/content-blocking/
 ;<a rel="external" href="%s">Learn more</a> about how it works.
-<a rel="external" href="%s">Learn more</a> about how it works.
+<a rel="external" href="%s"> Sužinokite daugiau </a> apie tai, kaip jis veikia.
 
 
 # String is obsolete. Do not remove.
@@ -155,7 +157,7 @@ Išjungti blokavimą patikimose svetainėse
 
 
 ;To restore content blocking for a site, select “Turn on Blocking for This Site.“
-To restore content blocking for a site, select “Turn on Blocking for This Site.“
+Turinio blokavimą svetainėje vėl įjungsite, spustelėję „Įjungti blokavimą šioje svetainėje“.
 
 
 # String is obsolete. Do not remove.
@@ -168,7 +170,7 @@ Turinio blokavimas
 
 
 ;Content blocking can keep parts of pages or entire pages from loading.
-Content blocking can keep parts of pages or entire pages from loading.
+Turinio blokavimas kartais gali sutrukdyti įkelti tinklalapius ar jų dalis tinkamai.
 
 
 # String is obsolete, do not remove
