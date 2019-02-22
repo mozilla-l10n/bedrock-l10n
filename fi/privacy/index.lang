@@ -1,3 +1,7 @@
+## active ##
+## privacy_email_2019 ##
+## updates-052018 ##
+## updates-072018 ##
 ## NOTE: demo page is available at https://www-dev.allizom.org/privacy/
 
 
@@ -14,7 +18,7 @@ Jos haluat tehdä muutoksia tietoihisi, tai jos sinulla on mitä tahansa kysytt�
 
 
 ;<a href="%(dsar)s">See here for Data Subject Access Requests.</a>
-<a href="%(dsar)s">See here for Data Subject Access Requests.</a>
+<a href="%(dsar)s">Katso tästä Rekisteröidyn oikeus saada pääsy tietoihin -tietopyynnöt.</a>
 
 
 ;Data Privacy Principles
@@ -24,13 +28,13 @@ Tietosuojan periaatteet
 # Links to https://www.mozilla.org/privacy/principles/
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Mozillan <a href="%(principles)s">tietosuojaperiaatteet</a> ohjaavat käytäntöjämme kunnioittamaan ja suojaamaan Internetiä käyttäviä henkilöitä. Lue <a href="%(faq)s">usein kysytyistä kysymyksistä</a>, miten nämä periaatteet muovaavat Firefoxia ja kaikkia tuotteitamme.
 
 
 # This string is obsolete. Do not remove.
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Mozillan tietosuojaperiaatteet ohjaavat käytäntöjämme kunnioittamaan ja suojaamaan Internetiä käyttäviä henkilöitä. Lue <a href="%(faq)s">usein kysytyistä kysymyksistä</a>, miten nämä periaatteet muovaavat Firefoxia ja kaikkia tuotteitamme.
 
 
 # This string is obsolete. Do not remove.
@@ -39,16 +43,16 @@ Mozilla on avoimen lähdekoodin projekti, jonka missio on parantaa verkon käytt
 
 
 ;Privacy Notices
-Privacy Notices
+Tietosuojakäytännöt
 
 
 # This string is obsolete. Do not remove.
 ;Our Privacy Notices
-Our Privacy Notices
+Tietosuojakäytäntömme
 
 
 ;Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
-Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+Tietosuojakäytäntömme kuvailevat miten ja millaista tietoa tuotteemme ja palvelumme vastaanottavat, jakavat ja käyttävät, sekä käytettävissäsi olevat tietosuojavalinnat.
 
 
 # This string is obsolete. Do not remove.
@@ -57,7 +61,7 @@ Loimme lyhyet ja selkeät tietosuojakäytännöt, jotka kuvailevat kuinka tuotte
 
 
 ;Mozilla Websites, Communications &amp; Cookies
-Mozilla Websites, Communications &amp; Cookies
+Mozillan verkkosivustot, viestintä &amp; evästeet
 
 
 ;Firefox Browser
@@ -73,7 +77,7 @@ Läpinäkyvyysraportti
 
 
 ;As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
-As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
+Avoimen lähdekoodin projektina läpinäkyvyys ja avoimuus ovat olennainen osa Mozillan perustamisperiaatteita. Meidän koodikantamme ovat avoimia ja auditoitavissa. Kehitystyömme on avointa. Kaksi kertaa vuodessa tuotettava <a href="%(report)s">avoimuusraportti</a> osoittaa myös sitoutumisemme näihin periaatteisiin.
 
 
 ;To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
@@ -82,11 +86,11 @@ Voit tarkastella ja kommentoida tietosuojakäytäntöihimme ehdotettuja muutoksi
 
 # This string is obsolete. Do not remove.
 ;To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
-To review and comment on proposed changes to our privacy policies <a href="%(group)s"> subscribe to Mozilla’s Governance Group</a>.
+Voit tarkastella ja kommentoida tietosuojakäytäntöihimme ehdotettuja muutoksia kirjautumalla <a href="%(group)s">Mozillan Governance Groupiin</a>.
 
 
 ;Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
-Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
+Lue lisää käynnissä olevasta yksityisyydensuojan ja tietoturvan edistämisen julkishallinnon työstä <a href="%(blog)s">Mozilla Open Policy and Advocacy -blogista</a>.
 
 
 # This string is obsolete. Do not remove.
@@ -100,7 +104,7 @@ Vanhentuneet käytännöt
 
 # Used at the top of the page for navigation (breadcrumbs)
 ;Home
-Home
+Etusivu
 
 
 # Used in legal docs to collapse (hide) a paragraph
