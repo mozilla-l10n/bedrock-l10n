@@ -1,4 +1,5 @@
 ## active ##
+## download_thanks_newsletter_092018 ##
 ## firefox_new_platform_link_text ##
 ## firefox_new_try_again_link_020818 ##
 ## firefox_quantum_new_headline ##
@@ -122,7 +123,7 @@ Miten Mozilla käyttää sähköpostiosoitettani?
 
 
 ;Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
+Mozilla ei vain arvosta sähköpostisi yksityisyyttä ja tietoturvaa - se on osa <a href="%(manifesto)s">Manifestiamme</a>: “Yksilöiden turvallisuus ja yksityisyys internetissä ovat olennaisia ja niitä ei saa käsitellä valinnaisina.” <a href="%(principles)s">Lue lisää tietosuojaperiaatteistamme</a>.
 
 
 ;What we want you to know:
@@ -134,11 +135,11 @@ Sähköpostiosoitetta ei tarvita Firefoxin lataamiseen ja käyttämiseen.
 
 
 ;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
+Pyysimme sähköpostiosoitettasi, koska tutkimuksemme osoittavat, että johdannon saaneet henkilöt saavat enemmän ja paremmin aikaan Firefoxin kanssa.
 
 
 ;You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
+Tulet saamaan sähköpostiviestejä, joiden avulla voit optimoida Firefoxin omiin tarpeisiisi parhaaksi, oppia lisää tietosuojasta ja tietoturvasta ja selvittää, miten voit parhaiten hyödyntää aikaasi verkossa.
 
 
 ;You can unsubscribe anytime, for any reason.
