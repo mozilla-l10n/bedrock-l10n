@@ -4,6 +4,8 @@
 ## firefox_new_try_again_link_020818 ##
 ## firefox_quantum_new_headline ##
 ## firstrun_email_only_form ##
+## fxnew_account_032019 ##
+## truly_removal_2019 ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/new/
 
 
@@ -67,9 +69,10 @@
 Пашыраныя магчымасці ўсталявання і іншыя платформы
 
 
+## TAG: fxnew_account_032019
 # Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings?
 ;Fix a problem
-Fix a problem
+Выправіць праблему
 
 
 ;Keep up with<br> all things Firefox.
@@ -91,28 +94,34 @@ Fix a problem
 Сцягнуць Firefox <span>для Linux</span>
 
 
+## TAG: fxnew_account_032019
 ;You’ve already got the Firefox browser. Now get everything else Firefox.
-You’ve already got the Firefox browser. Now get everything else Firefox.
+У вас ужо ёсць браўзер Firefox. Цяпер атрымайце ўсё астатняе Firefox.
 
 
+## TAG: fxnew_account_032019
 ;Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
-Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
+Сінхранізуйце закладкі, перасылайце карткі, захоўвайце ў Pocket і іншае з уліковым запісам Firefox.
 
 
+## TAG: fxnew_account_032019
 ;Get a Firefox Account
-Get a Firefox Account
+Атрымаць уліковы запіс Firefox
 
 
+## TAG: fxnew_account_032019
 ;Already have an account?
-Already have an account?
+Ужо маеце ўліковы запіс?
 
 
+## TAG: fxnew_account_032019
 ;Sign In
-Sign In
+Увайсці
 
 
+## TAG: fxnew_account_032019
 ;Download Anyway
-Download Anyway
+Сцягнуць усё роўна
 
 
 # Link points to /firefox/all/
@@ -230,8 +239,9 @@ Mozilla не толькі цэніць прыватнасць і бяспеку 
 Магутна прыватны
 
 
+## TAG: truly_removal_2019
 ;Private Browsing with Tracking Protection
-Private Browsing with Tracking Protection
+Прыватнае агляданне з аховай ад сачэння
 
 
 # String is obsolete. Do not remove.
@@ -273,5 +283,3 @@ Private Browsing with Tracking Protection
 # Old firstrun page
 ;Chart your own course
 Вызначайце ўласны курс
-
-

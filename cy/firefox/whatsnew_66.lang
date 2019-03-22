@@ -1,4 +1,5 @@
 ## active ##
+## wnp66_log_in ##
 ## NOTE: https://bedrock-demo-achurchwell.oregon-b.moz.works/firefox/66.0/whatsnew/
 
 
@@ -25,7 +26,7 @@ Cael awgrymiadau i fyw eich bywyd ar-lein gorau yn eich blwch post.
 
 
 ;One log-in. Power and security everywhere.
-Un mewngofnod. Pŵer a phreifatrwydd ymhobman.
+Un mewngofnod. Pŵer a phreifatrwydd ym mhobman.
 
 
 ;Remember your passwords in Lockbox
@@ -85,13 +86,9 @@ Rhoi cynnig ar Firefox Send
 Crëwch Gyfrif Firefox
 
 
-<<<<<<< HEAD
-;Already have an account?
-Oes gennych gyfrif y barod?
-=======
+## TAG: wnp66_log_in
 ;Have an account? <a %s >Log in</a>
-Have an account? <a %s >Log in</a>
->>>>>>> 8add1ae... update file per PRs 6917, 6941 (#283)
+Mae gennych chi gyfrif? <a %s >Mewngofnodwch</a>
 
 
 # This string is obsolete. Do not remove.
@@ -105,5 +102,3 @@ Dylai ddim fod yn anodd i fod yn berchen eich bywyd ar-lein.
 
 ;That’s why Firefox gives more power to you with every update.
 Dyna pam mae Firefox yn rhoi mwy o bŵer i chi gyda phob diweddariad.
-
-
