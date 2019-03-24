@@ -4,6 +4,7 @@
 ## firefox_new_try_again_link_020818 ##
 ## firefox_quantum_new_headline ##
 ## firstrun_email_only_form ##
+## truly_removal_2019 ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/new/
 
 
@@ -69,7 +70,7 @@ Gelişmiş yükleme seçenekleri ve diğer platformlar
 
 # Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings?
 ;Fix a problem
-Fix a problem
+Sorunları çözün
 
 
 ;Keep up with<br> all things Firefox.
@@ -100,19 +101,19 @@ Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
 
 
 ;Get a Firefox Account
-Get a Firefox Account
+Firefox Hesabı açın
 
 
 ;Already have an account?
-Already have an account?
+Zaten hesabınız var mı?
 
 
 ;Sign In
-Sign In
+Giriş yapın
 
 
 ;Download Anyway
-Download Anyway
+Yine de indir
 
 
 # Link points to /firefox/all/
@@ -231,7 +232,7 @@ Sapasağlam gizlilik
 
 
 ;Private Browsing with Tracking Protection
-Private Browsing with Tracking Protection
+İzlenme Koruması ile Gizli Gezinti
 
 
 # String is obsolete. Do not remove.

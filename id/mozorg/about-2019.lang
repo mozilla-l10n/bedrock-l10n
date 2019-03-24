@@ -3,7 +3,7 @@
 
 # HTML page title
 ;Learn About Mozilla
-Learn About Mozilla
+Pelajari tentang Mozilla
 
 
 # HTML page description
@@ -16,30 +16,30 @@ Mozilla makes browsers, apps, code and tools that put people before profit.
 
 
 ;Our mission: Keep the internet open and accessible to all.
-Our mission: Keep the internet open and accessible to all.
+Misi kami: Menjaga internet tetap terbuka dan dapat diakses oleh semua.
 
 
 # Link points to https://www.mozilla.org/mission/
 ;Read Our Mission
-Read Our Mission
+Baca Misi Kami
 
 
 ;Our Mission in Action
-Our Mission in Action
+Misi Kami dalam Tindakan
 
 
 # Link points to https://www.mozilla.org/about/leadership/
 ;Pioneers of The Open Web
-Pioneers of The Open Web
+Pelopor Web Terbuka
 
 
 ;Our leadership has been at the forefront of building a healthier internet since Day 1. What began as an alternative to corporate domination has grown into a global force for good online.
-Our leadership has been at the forefront of building a healthier internet since Day 1. What began as an alternative to corporate domination has grown into a global force for good online.
+Kepemimpinan kami telah berada di garis depan dalam membangun internet yang lebih sehat sejak Hari Pertama. Apa yang dimulai sebagai alternatif bagi dominasi korporasi telah tumbuh menjadi kekuatan global untuk kebaikan daring.
 
 
 # Link points to https://www.mozilla.org/firefox/
 ;Firefox: Fast for Good
-Firefox: Fast for Good
+Firefox: Cepat untuk Kebaikan
 
 
 ;When you use the new Firefox, you get a blazing fast experience while supporting Mozilla’s mission to keep the internet healthy, weird and welcoming to all.
@@ -61,16 +61,16 @@ Talking Internet Issues IRL
 
 
 ;In Mozilla’s IRL podcast, host Manoush Zomorodi shares real stories of life online and real talk about the future of the Web.
-In Mozilla’s IRL podcast, host Manoush Zomorodi shares real stories of life online and real talk about the future of the Web.
+Di siniar IRL Mozilla, pembawa acara Manoush Zomorodi berbagi kisah nyata kehidupan daring dan perbincangan nyata tentang masa depan Web.
 
 
 ;Corporation. Foundation. Not-for-profit.
-Corporation. Foundation. Not-for-profit.
+Perusahaan. Yayasan. Tidak untuk Laba.
 
 
 # Link Points to https://foundation.mozilla.org/
 ;Learn about the Mozilla Foundation
-Learn about the Mozilla Foundation
+Pelajari tentang Mozilla Foundation
 
 
 ;Mozilla puts people over profit in everything we say, build and do. In fact, there’s a non-profit Foundation at the heart of our enterprise.
@@ -78,7 +78,7 @@ Mozilla puts people over profit in everything we say, build and do. In fact, the
 
 
 ;The Mozilla Manifesto
-The Mozilla Manifesto
+Manifesto Mozilla
 
 
 ;The principles we wrote in 1998 still guide us today. And in 2018, we created an addendum to emphasize inclusion, privacy and safety for everyone online.
@@ -87,30 +87,30 @@ The principles we wrote in 1998 still guide us today. And in 2018, we created an
 
 # Link points to https://www.mozilla.org/about/manifesto/
 ;Read The Manifesto
-Read The Manifesto
+Baca Manifesto
 
 
 ;A Global View
-A Global View
+Pandangan Global
 
 
 # Link points to https://www.mozilla.org/contact/spaces/
 ;With <a href="%(url)s">offices all over the world</a>, we consider the internet from multiple cultures and contexts.
-With <a href="%(url)s">offices all over the world</a>, we consider the internet from multiple cultures and contexts.
+Dengan <a href="%(url)s">kantor di seluruh dunia</a>, kami mempertimbangkan internet dari berbagai budaya dan konteks.
 
 
 # Link points to https://www.mozilla.org/contact/spaces/san-francisco/
 ;San Francisco
-San Francisco
+San Fransisco
 
 
 ;<strong>2000</strong> non-employee guests welcomed each year
-<strong>2000</strong> non-employee guests welcomed each year
+<strong>2000</strong> tamu nonkaryawan disambut setiap tahun
 
 
 # Link points to https://www.mozilla.org/contact/spaces/berlin/
 ;Berlin
-Berlin
+Berlin {ok}
 
 
 ;<strong>500</strong> annual attendees to the Berlin speaker series
@@ -119,25 +119,25 @@ Berlin
 
 # Link points to https://www.mozilla.org/contact/spaces/taipei/
 ;Taipei
-Taipei
+Taipei {ok}
 
 
 ;<strong>400</strong> collaborative visits with Mozilla employees each year.
-<strong>400</strong> collaborative visits with Mozilla employees each year.
+<strong>400</strong> kunjungan kolaboratif dengan karyawan Mozilla setiap tahun.
 
 
 # Link points to https://www.mozilla.org/contact/spaces/toronto/
 ;Toronto
-Toronto
+Toronto {ok}
 
 
 ;<strong>800</strong> bottles of cold brew coffee consumed yearly.
-<strong>800</strong> bottles of cold brew coffee consumed yearly.
+<strong>800</strong> botol kopi seduh dingin dikonsumsi setiap tahun.
 
 
 # https://careers.mozilla.org/
 ;Work at Mozilla
-Work at Mozilla
+Bekerja di Mozilla
 
 
 ;Join a mission-driven organization that builds purpose-driven products.
@@ -146,25 +146,25 @@ Join a mission-driven organization that builds purpose-driven products.
 
 # Link points to https://careers.mozilla.org/
 ;Mozilla Careers
-Mozilla Careers
+Karier Mozilla
 
 
 # Link points to https://www.mozilla.org/contribute/
 ;How You Can Help
-How You Can Help
+Bagaimana Anda Dapat Membantu
 
 
 ;Your voice. Your code. Your support. There are so many ways to join the fight for a healthy internet.
-Your voice. Your code. Your support. There are so many ways to join the fight for a healthy internet.
+Suara Anda. Kode Anda. Dukungan Anda. Ada begitu banyak cara untuk ikut memperjuangkan internet yang sehat.
 
 
 # Link points to https://www.mozilla.org/contribute/
 ;Get Involved
-Get Involved
+Mari Berperan
 
 
 ;Get The Mozilla Newsletter
-Get The Mozilla Newsletter
+Dapatkan Nawala Mozilla
 
 
 ;Stay informed about the issues affecting the internet, and learn how you can get involved in protecting the world’s newest public resource.
@@ -173,6 +173,6 @@ Stay informed about the issues affecting the internet, and learn how you can get
 
 # CTA button
 ;Subscribe
-Subscribe
+Berlangganan
 
 

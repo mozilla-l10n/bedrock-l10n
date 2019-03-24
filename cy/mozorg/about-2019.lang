@@ -1,178 +1,179 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/about/
 
 
 # HTML page title
 ;Learn About Mozilla
-Learn About Mozilla
+Dysgu am Mozilla
 
 
 # HTML page description
 ;Mozilla makes browsers, apps, code and tools that put people before profit. Our mission: Keep the internet open and accessible to all.
-Mozilla makes browsers, apps, code and tools that put people before profit. Our mission: Keep the internet open and accessible to all.
+Mae Mozilla yn gwneud porwyr, apiau, cod ac offer sy'n gosod pobl cyn elw. Ein cenhadaeth: Cadw'r rhyngrwyd yn agored ac yn hygyrch i bawb.
 
 
 ;Mozilla makes browsers, apps, code and tools that put people before profit.
-Mozilla makes browsers, apps, code and tools that put people before profit.
+Mae Mozilla yn gwneud porwyr, apiau, cod ac offer sy'n gosod pobl cyn elw.
 
 
 ;Our mission: Keep the internet open and accessible to all.
-Our mission: Keep the internet open and accessible to all.
+Ein cenhadaeth: Cadw'r rhyngrwyd yn agored ac yn hygyrch i bawb.
 
 
 # Link points to https://www.mozilla.org/mission/
 ;Read Our Mission
-Read Our Mission
+Darllenwch ein Cenhadaeth
 
 
 ;Our Mission in Action
-Our Mission in Action
+Ein Cenhadaeth ar Waith
 
 
 # Link points to https://www.mozilla.org/about/leadership/
 ;Pioneers of The Open Web
-Pioneers of The Open Web
+Arloeswyr y We Agored
 
 
 ;Our leadership has been at the forefront of building a healthier internet since Day 1. What began as an alternative to corporate domination has grown into a global force for good online.
-Our leadership has been at the forefront of building a healthier internet since Day 1. What began as an alternative to corporate domination has grown into a global force for good online.
+Mae ein harweinyddiaeth wedi bod ar flaen y gad o ran adeiladu rhyngrwyd iachach ers y cychwyn. Mae'r hyn a ddechreuodd fel dewis amgen i oruchafiaeth gorfforaethol wedi tyfu'n rym byd-eang ar gyfer daioni ar-lein.
 
 
 # Link points to https://www.mozilla.org/firefox/
 ;Firefox: Fast for Good
-Firefox: Fast for Good
+Firefox: Cyflym am Byth
 
 
 ;When you use the new Firefox, you get a blazing fast experience while supporting Mozilla’s mission to keep the internet healthy, weird and welcoming to all.
-When you use the new Firefox, you get a blazing fast experience while supporting Mozilla’s mission to keep the internet healthy, weird and welcoming to all.
+Pan fyddwch yn defnyddio'r Firefox newydd, rydych chi'n cael profiad cyflym ac yn cefnogi cenhadaeth Mozilla i gadw'r rhyngrwyd yn iach, yn rhyfedd ac yn groesawgar i bawb.
 
 
 # Link points to https://blog.mozilla.org/Internetcitizen/2018/06/06/the-today-show-mozilla-firefox-facebook-container/
 ;Walking Our Privacy Talk
-Walking Our Privacy Talk
+Cyflawni ein Addewidion Preifatrwydd
 
 
 ;When the Facebook breach was revealed, Mozilla had an immediate response – and a Firefox product to support user privacy.
-When the Facebook breach was revealed, Mozilla had an immediate response – and a Firefox product to support user privacy.
+Pan ddatgelwyd tor-data Facebook, roedd gan Mozilla ymateb uniongyrchol - a chynnyrch Firefox i gadw preifatrwydd defnyddwyr.
 
 
 # Link points to https://irlpodcast.org/
 ;Talking Internet Issues IRL
-Talking Internet Issues IRL
+Trafod Materion Rhyngrwyd IRL
 
 
 ;In Mozilla’s IRL podcast, host Manoush Zomorodi shares real stories of life online and real talk about the future of the Web.
-In Mozilla’s IRL podcast, host Manoush Zomorodi shares real stories of life online and real talk about the future of the Web.
+Ym mhodlediadau IRL Mozilla, mae Manoush Zomorodi yn rhannu straeon go iawn am fywyd ar-lein ac yn cynnal sgyrsiau creiddiol am ddyfodol y We.
 
 
 ;Corporation. Foundation. Not-for-profit.
-Corporation. Foundation. Not-for-profit.
+Gorfforaeth. Sefydliad. Dim-er-elw.
 
 
 # Link Points to https://foundation.mozilla.org/
 ;Learn about the Mozilla Foundation
-Learn about the Mozilla Foundation
+Dysgu am y Mozilla Foundation
 
 
 ;Mozilla puts people over profit in everything we say, build and do. In fact, there’s a non-profit Foundation at the heart of our enterprise.
-Mozilla puts people over profit in everything we say, build and do. In fact, there’s a non-profit Foundation at the heart of our enterprise.
+Mae Mozilla yn rhoi pobl o flaen elw ym mhopeth rydym yn ei ddweud, ei adeiladu a'i wneud. Yn wir, mae sefydliad dim-er-elw wrth wraidd ein menter.
 
 
 ;The Mozilla Manifesto
-The Mozilla Manifesto
+Maniffesto Mozilla
 
 
 ;The principles we wrote in 1998 still guide us today. And in 2018, we created an addendum to emphasize inclusion, privacy and safety for everyone online.
-The principles we wrote in 1998 still guide us today. And in 2018, we created an addendum to emphasize inclusion, privacy and safety for everyone online.
+Mae'r egwyddorion a ysgrifennwyd gennym ym 1998 yn dal i'n harwain ni heddiw. Ac yn 2018, gwnaethom greu atodiad i bwysleisio cynhwysiant, preifatrwydd a diogelwch i bawb ar-lein.
 
 
 # Link points to https://www.mozilla.org/about/manifesto/
 ;Read The Manifesto
-Read The Manifesto
+Darllen ein Maniffesto
 
 
 ;A Global View
-A Global View
+Golwg Fyd-eang
 
 
 # Link points to https://www.mozilla.org/contact/spaces/
 ;With <a href="%(url)s">offices all over the world</a>, we consider the internet from multiple cultures and contexts.
-With <a href="%(url)s">offices all over the world</a>, we consider the internet from multiple cultures and contexts.
+Gyda <a href="%(url)s">swyddfeydd ledled y byd</a>, rydym yn ystyried y rhyngrwyd o safbwynt ddiwylliannau a chyd-destunau lluosog.
 
 
 # Link points to https://www.mozilla.org/contact/spaces/san-francisco/
 ;San Francisco
-San Francisco
+San Francisco {ok}
 
 
 ;<strong>2000</strong> non-employee guests welcomed each year
-<strong>2000</strong> non-employee guests welcomed each year
+<strong>2000</strong> o westeion nad ydynt yn gyflogedig yn cael eu croesawu bob blwyddyn
 
 
 # Link points to https://www.mozilla.org/contact/spaces/berlin/
 ;Berlin
-Berlin
+Berlin {ok}
 
 
 ;<strong>500</strong> annual attendees to the Berlin speaker series
-<strong>500</strong> annual attendees to the Berlin speaker series
+<strong>500</strong> yn mynychu cyfres siaradwyr Berlin yn flynyddol
 
 
 # Link points to https://www.mozilla.org/contact/spaces/taipei/
 ;Taipei
-Taipei
+Taipei {ok}
 
 
 ;<strong>400</strong> collaborative visits with Mozilla employees each year.
-<strong>400</strong> collaborative visits with Mozilla employees each year.
+<strong>400</strong> o ymweliadau cydweithredol â chyflogeion Mozilla bob blwyddyn.
 
 
 # Link points to https://www.mozilla.org/contact/spaces/toronto/
 ;Toronto
-Toronto
+Toronto {ok}
 
 
 ;<strong>800</strong> bottles of cold brew coffee consumed yearly.
-<strong>800</strong> bottles of cold brew coffee consumed yearly.
+<strong>800</strong> o boteli o goffi bragu oer yn cael eu hyfed bob blwyddyn.
 
 
 # https://careers.mozilla.org/
 ;Work at Mozilla
-Work at Mozilla
+Gweithio yn Mozilla
 
 
 ;Join a mission-driven organization that builds purpose-driven products.
-Join a mission-driven organization that builds purpose-driven products.
+Ymuno â sefydliad sy'n cael ei yrru gan genhadaeth sy'n adeiladu cynnyrch pwrpasol.
 
 
 # Link points to https://careers.mozilla.org/
 ;Mozilla Careers
-Mozilla Careers
+Gyrfaoedd Mozilla
 
 
 # Link points to https://www.mozilla.org/contribute/
 ;How You Can Help
-How You Can Help
+Sut y Gallwch chi Helpu
 
 
 ;Your voice. Your code. Your support. There are so many ways to join the fight for a healthy internet.
-Your voice. Your code. Your support. There are so many ways to join the fight for a healthy internet.
+Eich llais. Eich cod. Eich cefnogaeth chi. Mae llawer o ffyrdd i ymuno â'r frwydr dros rhyngrwyd iach.
 
 
 # Link points to https://www.mozilla.org/contribute/
 ;Get Involved
-Get Involved
+Ymunwch
 
 
 ;Get The Mozilla Newsletter
-Get The Mozilla Newsletter
+Derbyn Cylchlythyr Mozilla
 
 
 ;Stay informed about the issues affecting the internet, and learn how you can get involved in protecting the world’s newest public resource.
-Stay informed about the issues affecting the internet, and learn how you can get involved in protecting the world’s newest public resource.
+Cadw'n wybodus am y materion sy'n effeithio ar y rhyngrwyd, a dysgu sut y gallwch chi gymryd rhan wrth ddiogelu adnodd cyhoeddus mwyaf diweddar y byd.
 
 
 # CTA button
 ;Subscribe
-Subscribe
+Tanysgrifio
 
 

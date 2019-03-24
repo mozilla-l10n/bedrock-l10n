@@ -1,59 +1,60 @@
+## active ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/facebookcontainer/
 
 
 # HTML page title
 ;Facebook Container for Firefox | Prevent Facebook from seeing what websites you visit.
-Facebook Container for Firefox | Prevent Facebook from seeing what websites you visit.
+Facebook Container za Firefox | Spriječite Facebook da vas prati na drugim web stranicama.
 
 
 # HTML page description
 ;Millions of people around the world trust Firefox Web browsers on Android, iOS and desktop computers. Fast. Private. Download now!
-Millions of people around the world trust Firefox Web browsers on Android, iOS and desktop computers. Fast. Private. Download now!
+Milijuni ljudi širom svijeta vjeruju Firefox preglednicima za Android, iOS i osobna računala. Brz. Privatan. Preuzmite odmah!
 
 
 ;Facebook. Well contained. Keep the rest of your life to yourself.
-Facebook. Well contained. Keep the rest of your life to yourself.
+Facebook. Dobro ograničen. Zadržite ostatak svoga života za sebe.
 
 
 ;Download Firefox and get the Facebook Container Extension
-Download Firefox and get the Facebook Container Extension
+Preuzmite Firefox i Facebook Container dodatak
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Get the Facebook Container Extension
-Get the Facebook Container Extension
+Preuzmite Facebook Container dodatak
 
 
 ;The Facebook Container Extension is not available on mobile devices.
-The Facebook Container Extension is not available on mobile devices.
+Dodatak Facebook Container nije dostupan na mobilnim uređajima.
 
 
 # GLink points to https://www.mozilla.org/firefox/focus/; Product name in German is Firefox Klar.
 ;Try <strong>Firefox Focus</strong>, the privacy browser for Android and iOS.
-Try <strong>Firefox Focus</strong>, the privacy browser for Android and iOS.
+Isprobajte <strong>Firefox Focus</strong>, privatni preglednik za Android i iOS.
 
 
 # The video contains text in English
 ;Watch the video
-Watch the video
+Pogledajte video
 
 
 ;Opt out on your terms
-Opt out on your terms
+Isključite se po svojim uvjetima
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Facebook can track almost all your web activity and tie it to your Facebook identity. If that’s too much for you, the <a href="%(fbcontainer)s">Facebook Container extension</a> isolates your identity into a separate container tab, making it harder for Facebook to track you on the web outside of Facebook.
-Facebook can track almost all your web activity and tie it to your Facebook identity. If that’s too much for you, the <a href="%(fbcontainer)s">Facebook Container extension</a> isolates your identity into a separate container tab, making it harder for Facebook to track you on the web outside of Facebook.
+Facebook može pratiti gotovo sve vaše web aktivnosti i vezati ih za vaš Facebook identitet. Ukoliko mislite da je to previše za vas, <a href="%(fbcontainer)s">dodatak Facebook Container</a> izolira vaš identitet u zasebnu karticu, što Facebooku otežava praćenje na ostalim web stranicama izvan Facebooka.
 
 
 ;Install and contain
-Install and contain
+Instaliraj i ograniči
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Installing the <a href="%(fbcontainer)s">extension</a> is easy and, once activated, will open Facebook in a blue tab each time you use it. Use and enjoy Facebook normally. Facebook will still be able to send you advertising and recommendations on their site, but it will be much harder for Facebook to use your activity collected <strong>off Facebook</strong> to send you ads and other targeted messages.
-Installing the <a href="%(fbcontainer)s">extension</a> is easy and, once activated, will open Facebook in a blue tab each time you use it. Use and enjoy Facebook normally. Facebook will still be able to send you advertising and recommendations on their site, but it will be much harder for Facebook to use your activity collected <strong>off Facebook</strong> to send you ads and other targeted messages.
+Instaliranje <a href="%(fbcontainer)s">dodatka</a> je lagano i jednom kada je aktivan, Facebook će se otvarati u plavoj kartici svaki puta kada ga koristite. Koristite ga i uživajte normalno u Facebooku. Facebooku će i dalje biti moguće slati vam reklame i preporuke na njihovoj stranici, ali će mu biti mnogo teže prikupljati vašu aktivnost <strong>izvan Facebooka</strong> kako bi vam slali reklame i druge ciljane poruke.
 
 
 ;About Firefox and Mozilla
@@ -62,10 +63,10 @@ O Firefoxu i Mozilli
 
 # The link points to mozilla.org
 ;We’re backed by <a href="%(mozilla)s">Mozilla</a>, the not-for-profit organization that puts people over profit to give everyone more power online. We created this extension because we believe that you should have easy-to-use tools that help you manage your privacy and security.
-We’re backed by <a href="%(mozilla)s">Mozilla</a>, the not-for-profit organization that puts people over profit to give everyone more power online. We created this extension because we believe that you should have easy-to-use tools that help you manage your privacy and security.
+Podržani smo od <a href="%(mozilla)s">Mozille</a>, neprofitne organizacije koja stavlja ljude ispred profita kako bi svima dala više moći na Internetu. Stvorili smo ovaj dodatak iz razloga što vjerujemo da trebate imati alate koji su lagani za korištenje i koji će vam pomoći da upravljate svojom privatnosti i sigurnosti.
 
 
 ;Browse freely with Firefox today.
-Browse freely with Firefox today.
+Slobodno surfajte s Firefoxom danas.
 
 

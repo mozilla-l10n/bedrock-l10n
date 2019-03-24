@@ -4,6 +4,8 @@
 ## firefox_new_try_again_link_020818 ##
 ## firefox_quantum_new_headline ##
 ## firstrun_email_only_form ##
+## fxnew_account_032019 ##
+## truly_removal_2019 ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/new/
 
 
@@ -69,7 +71,7 @@ Andre installationsmuligheder og platforme
 
 # Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings?
 ;Fix a problem
-Fix a problem
+Løs et problem
 
 
 ;Keep up with<br> all things Firefox.
@@ -92,27 +94,27 @@ Hent Firefox <span>til Linux</span>
 
 
 ;You’ve already got the Firefox browser. Now get everything else Firefox.
-You’ve already got the Firefox browser. Now get everything else Firefox.
+Du har allerede Firefox. Udnyt den bedre med en Firefox-konto!
 
 
 ;Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
-Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
+Med en Firefox-konto kan du bl.a. synkronisere bogmærker, sende faneblade og gemme til Pocket.
 
 
 ;Get a Firefox Account
-Get a Firefox Account
+Få en Firefox-konto
 
 
 ;Already have an account?
-Already have an account?
+Har du allerede en konto?
 
 
 ;Sign In
-Sign In
+Log ind
 
 
 ;Download Anyway
-Download Anyway
+Hent Firefox igen
 
 
 # Link points to /firefox/all/
@@ -231,7 +233,7 @@ Bedre beskyttelse af dit privatliv
 
 
 ;Private Browsing with Tracking Protection
-Private Browsing with Tracking Protection
+Privat browsing med beskyttelse mod sporing
 
 
 # String is obsolete. Do not remove.
