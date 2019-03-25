@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/about/
 
 
@@ -8,15 +9,15 @@ Eikuaa Mozilla rehegua
 
 # HTML page description
 ;Mozilla makes browsers, apps, code and tools that put people before profit. Our mission: Keep the internet open and accessible to all.
-Mozilla makes browsers, apps, code and tools that put people before profit. Our mission: Keep the internet open and accessible to all.
+Mozilla omoheñói kundaha, tembipuru’i, ayvu ha tembipuru omomba’evéva ava viru renondépe. Ore rembipota: ñanduti ijurujáva ha opavavépe g̃uarãva
 
 
 ;Mozilla makes browsers, apps, code and tools that put people before profit.
-Mozilla makes browsers, apps, code and tools that put people before profit.
+Mozilla omoheñói kundaha, tembipuru’i, ayvu ha tembipuru omomba’evéva ava viru renondépe.
 
 
 ;Our mission: Keep the internet open and accessible to all.
-Our mission: Keep the internet open and accessible to all.
+Ore rembipota: ñanduti ijurujáva ha opavavépe g̃uarãva.
 
 
 # Link points to https://www.mozilla.org/mission/
@@ -34,7 +35,7 @@ Ore rembipota oikóma
 
 
 ;Our leadership has been at the forefront of building a healthier internet since Day 1. What began as an alternative to corporate domination has grown into a global force for good online.
-Our leadership has been at the forefront of building a healthier internet since Day 1. What began as an alternative to corporate domination has grown into a global force for good online.
+Ore ñemotenonde opa ára oĩ yvate ñanduti hesãiva mboguatápe ñepyrũete guive. Oñe ñepyrũva’ekue mokõiháramo ambue atyguasu renondépe oiko chugui imbarete añetéva ñandutiguávape g̃uarã.
 
 
 # Link points to https://www.mozilla.org/firefox/
@@ -43,7 +44,7 @@ Firefox: ipya’éta tapiaite
 
 
 ;When you use the new Firefox, you get a blazing fast experience while supporting Mozilla’s mission to keep the internet healthy, weird and welcoming to all.
-When you use the new Firefox, you get a blazing fast experience while supporting Mozilla’s mission to keep the internet healthy, weird and welcoming to all.
+Eipuru vove Firefox ipyahúva, ehechakuaáma ipya’eveha opavavégui ha péicha avei eipytyvõ Mozilla rembipota ñanduti resãirã, iñambuéva ha opavavetépe g̃uarãva.
 
 
 # Link points to https://blog.mozilla.org/Internetcitizen/2018/06/06/the-today-show-mozilla-firefox-facebook-container/
@@ -61,7 +62,7 @@ Roñe’ẽhína IRL ñanduti rehegua
 
 
 ;In Mozilla’s IRL podcast, host Manoush Zomorodi shares real stories of life online and real talk about the future of the Web.
-In Mozilla’s IRL podcast, host Manoush Zomorodi shares real stories of life online and real talk about the future of the Web.
+Pe Mozilla podcast IRL, mbohupaha Manoush Zomorodi omoherakuã tembiasakue oikopyréva ñandutípe ha oñemoñe’ẽ ñanduti renonderã rehe.
 
 
 ;Corporation. Foundation. Not-for-profit.
@@ -74,7 +75,7 @@ Eikuaa Fundación Mozilla rehegua
 
 
 ;Mozilla puts people over profit in everything we say, build and do. In fact, there’s a non-profit Foundation at the heart of our enterprise.
-Mozilla puts people over profit in everything we say, build and do. In fact, there’s a non-profit Foundation at the heart of our enterprise.
+Mozilla ryepýpe oñemomba’eve avápe viru renondépe je’e, ñemopu’ã ha jejapóva guivépe. Upevarã, oĩ peteĩ aty viru’ỹguáva atyguasu ñe’ãkuápe.
 
 
 ;The Mozilla Manifesto
@@ -82,7 +83,7 @@ Mozilla he’ipyre
 
 
 ;The principles we wrote in 1998 still guide us today. And in 2018, we created an addendum to emphasize inclusion, privacy and safety for everyone online.
-The principles we wrote in 1998 still guide us today. And in 2018, we created an addendum to emphasize inclusion, privacy and safety for everyone online.
+Umi mba’eporã ojehaiva’ekue 1998 jave oremboguata gueteri ag̃aite peve. Ha 2018-pe romoheñói peteĩ ñembojuaju romomba’eve hag̃ua jeikepa, ñemigua ha tekorosã opavavépe ñanduti ryepýpe.
 
 
 # Link points to https://www.mozilla.org/about/manifesto/
@@ -96,7 +97,7 @@ Jehecha tuichaháicha
 
 # Link points to https://www.mozilla.org/contact/spaces/
 ;With <a href="%(url)s">offices all over the world</a>, we consider the internet from multiple cultures and contexts.
-With <a href="%(url)s">offices all over the world</a>, we consider the internet from multiple cultures and contexts.
+<a href="%(url)s">oficina arapy tuichakuépe</a> ndive, rohecha ñanduti mba’ekuaaita ha jeregua guive.
 
 
 # Link points to https://www.mozilla.org/contact/spaces/san-francisco/
@@ -155,7 +156,7 @@ Mba’éichapa ikatu eipytyvõ
 
 
 ;Your voice. Your code. Your support. There are so many ways to join the fight for a healthy internet.
-Your voice. Your code. Your support. There are so many ways to join the fight for a healthy internet.
+Ne ñe’ẽ. Nde ayvu. Ne pytyvõ. Oĩ heta hendáicha eñemboja ha ñamba’apo ñanduti hesãi hag̃ua.
 
 
 # Link points to https://www.mozilla.org/contribute/
@@ -168,7 +169,7 @@ Ejapyhy Mozilla marandu’i
 
 
 ;Stay informed about the issues affecting the internet, and learn how you can get involved in protecting the world’s newest public resource.
-Stay informed about the issues affecting the internet, and learn how you can get involved in protecting the world’s newest public resource.
+Eikuaa meméke apañuãi oguerekóva ñanduti ha eikuaa mba’eichaitépa ikatu eipytyvõ emo’ã hag̃ua ko arapygua mba’éva ramoite guive.
 
 
 # CTA button
