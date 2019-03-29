@@ -1,4 +1,5 @@
 ## active ##
+## wnp66_log_in ##
 ## NOTE: https://bedrock-demo-achurchwell.oregon-b.moz.works/firefox/66.0/whatsnew/
 
 
@@ -86,7 +87,7 @@
 
 
 ;Have an account? <a %s >Log in</a>
-Have an account? <a %s >Log in</a>
+Маєте обліковий запис? <a %s >Увійдіть</a>
 
 
 # This string is obsolete. Do not remove.

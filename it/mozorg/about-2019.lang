@@ -3,7 +3,7 @@
 
 # HTML page title
 ;Learn About Mozilla
-Learn About Mozilla
+Informazioni su Mozilla
 
 
 # HTML page description
@@ -21,16 +21,16 @@ Our mission: Keep the internet open and accessible to all.
 
 # Link points to https://www.mozilla.org/mission/
 ;Read Our Mission
-Read Our Mission
+Scopri la nostra missione
 
 
 ;Our Mission in Action
-Our Mission in Action
+La nostra missione in azione
 
 
 # Link points to https://www.mozilla.org/about/leadership/
 ;Pioneers of The Open Web
-Pioneers of The Open Web
+Pionieri del Web aperto
 
 
 ;Our leadership has been at the forefront of building a healthier internet since Day 1. What began as an alternative to corporate domination has grown into a global force for good online.
@@ -70,7 +70,7 @@ Corporation. Foundation. Not-for-profit.
 
 # Link Points to https://foundation.mozilla.org/
 ;Learn about the Mozilla Foundation
-Learn about the Mozilla Foundation
+Scopri la fondazione Mozilla
 
 
 ;Mozilla puts people over profit in everything we say, build and do. In fact, there’s a non-profit Foundation at the heart of our enterprise.
@@ -78,20 +78,20 @@ Mozilla puts people over profit in everything we say, build and do. In fact, the
 
 
 ;The Mozilla Manifesto
-The Mozilla Manifesto
+Il manifesto Mozilla
 
 
 ;The principles we wrote in 1998 still guide us today. And in 2018, we created an addendum to emphasize inclusion, privacy and safety for everyone online.
-The principles we wrote in 1998 still guide us today. And in 2018, we created an addendum to emphasize inclusion, privacy and safety for everyone online.
+Il principi da noi scritti nel 1998 ci continuano a guidare oggi. E nel 2018 abbiamo creato un addendum per mettere in rilievo inclusione, privacy e sicurezza per tutti in rete.
 
 
 # Link points to https://www.mozilla.org/about/manifesto/
 ;Read The Manifesto
-Read The Manifesto
+Leggi il nostro Manifesto
 
 
 ;A Global View
-A Global View
+Una visione globale
 
 
 # Link points to https://www.mozilla.org/contact/spaces/
@@ -101,16 +101,16 @@ With <a href="%(url)s">offices all over the world</a>, we consider the internet 
 
 # Link points to https://www.mozilla.org/contact/spaces/san-francisco/
 ;San Francisco
-San Francisco
+San Francisco {ok}
 
 
 ;<strong>2000</strong> non-employee guests welcomed each year
-<strong>2000</strong> non-employee guests welcomed each year
+<strong>2000</strong> ospiti non dipendenti accolti ogni anno
 
 
 # Link points to https://www.mozilla.org/contact/spaces/berlin/
 ;Berlin
-Berlin
+Berlino
 
 
 ;<strong>500</strong> annual attendees to the Berlin speaker series
@@ -119,20 +119,20 @@ Berlin
 
 # Link points to https://www.mozilla.org/contact/spaces/taipei/
 ;Taipei
-Taipei
+Taipei {ok}
 
 
 ;<strong>400</strong> collaborative visits with Mozilla employees each year.
-<strong>400</strong> collaborative visits with Mozilla employees each year.
+<strong>400</strong> visite di collaborazione con i dipendenti di Mozilla ogni anno.
 
 
 # Link points to https://www.mozilla.org/contact/spaces/toronto/
 ;Toronto
-Toronto
+Toronto {ok}
 
 
 ;<strong>800</strong> bottles of cold brew coffee consumed yearly.
-<strong>800</strong> bottles of cold brew coffee consumed yearly.
+<strong>800</strong> bottiglie di caffè freddo consumate ogni anno.
 
 
 # https://careers.mozilla.org/
@@ -141,17 +141,17 @@ Work at Mozilla
 
 
 ;Join a mission-driven organization that builds purpose-driven products.
-Join a mission-driven organization that builds purpose-driven products.
+Unisciti a un’organizzazione fondata su una missione, che sviluppa i suoi prodotti con uno scopo.
 
 
 # Link points to https://careers.mozilla.org/
 ;Mozilla Careers
-Mozilla Careers
+Opportunità di lavoro in Mozilla
 
 
 # Link points to https://www.mozilla.org/contribute/
 ;How You Can Help
-How You Can Help
+Come partecipare
 
 
 ;Your voice. Your code. Your support. There are so many ways to join the fight for a healthy internet.
@@ -160,7 +160,7 @@ Your voice. Your code. Your support. There are so many ways to join the fight fo
 
 # Link points to https://www.mozilla.org/contribute/
 ;Get Involved
-Get Involved
+Collabora con noi
 
 
 ;Get The Mozilla Newsletter
@@ -173,6 +173,6 @@ Stay informed about the issues affecting the internet, and learn how you can get
 
 # CTA button
 ;Subscribe
-Subscribe
+Iscriviti
 
 

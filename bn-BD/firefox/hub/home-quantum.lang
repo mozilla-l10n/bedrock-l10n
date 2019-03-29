@@ -8,7 +8,7 @@ Mac, PC এবং Linux এর জন্য নতুন ও দ্রুতগ�
 
 # HTML page description
 ;Responsive engine, less memory usage and packed with features. Download for desktop now.
-Responsive engine, less memory usage and packed with features. Download for desktop now.
+প্রতিক্রিয়াশীল ইঞ্জিন, কম মেমরি ব্যবহার এবং বৈশিষ্ট্য সঙ্গে বস্তাবন্দী। এখন ডেস্কটপের জন্য ডাউনলোড করুন।
 
 
 ;The New Firefox
@@ -44,7 +44,7 @@ Firefox Quantum দেখুন।
 
 
 ;“Faster and even more minimalist, Firefox Quantum makes Chrome look old.”
-“Faster and even more minimalist, Firefox Quantum makes Chrome look old.”
+“দ্রুততর এবং এমনকি আরও কমপক্ষে, Firefox Quantum Chrome কে পুরনো দেখায়।”
 
 
 # Link points to https://www.digitaltrends.com/web/firefox-quantum-hands-on-review/
@@ -62,7 +62,7 @@ Firefox নতুনভাবে ডিজাইনকৃত ট্যাব প
 
 
 ;Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Firefox Quantum is twice as fast as Firefox was before.
-Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Firefox Quantum is twice as fast as Firefox was before.
+ক্রেজি <a href="%(url)s">শক্তিশালী ব্রাউজার ইঞ্জিন</a>? পরীক্ষা করে দেখুন। পৃষ্ঠা লোড জন্য অপেক্ষা কম সময়? এছাড়াও, চেক করুন। Firefox Quantum আগের চেয়ে দ্বিগুণ দ্রুত Firefox।
 
 
 # String is obsolete. Do not remove.
@@ -72,7 +72,7 @@ Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting ar
 
 # String is obsolete. Do not remove.
 ;Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Get the best Firefox yet.
-Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting around for pages to load? Also, check. Get the best Firefox yet.
+পাগলাটে <a href="%(url)s">শক্তিশালী ব্রাউজার ইঞ্জিন</a>? পরীক্ষা করে দেখুন। পৃষ্ঠা লোড হওয়ার জন্য কম সময় অপেক্ষা করতে হচ্ছে? এছাড়াও, চেক করুন। এখনও সেরা Firefox ব্যবহার করুন।
 
 
 ;30% lighter than Chrome
@@ -80,7 +80,7 @@ Chrome এর তুলনায় 30% হালকা
 
 
 ;<a href="%(url)s">Less memory usage</a> means more space for your computer to keep running smoothly. Your other programs will thank you.
-<a href="%(url)s">Less memory usage</a> means more space for your computer to keep running smoothly. Your other programs will thank you.
+<a href="%(url)s">কম মেমরি ব্যবহার</a> এর অর্থ আপনার কম্পিউটার নিরবিচ্ছিন্নভাবে চলতে আরও জায়গা। আপনার অন্য প্রোগ্রামগুলো আপনাকে এর জন্য ধন্যবাদ দিবে।
 
 
 ;Smooth browsing
@@ -101,7 +101,7 @@ Chrome থেকে Firefox এ বদল হোন মাত্র কয়েক
 
 
 ;Switching to Firefox is fast, easy and risk-free. Firefox imports your bookmarks, autofills, passwords and preferences from Chrome.
-Switching to Firefox is fast, easy and risk-free. Firefox imports your bookmarks, autofills, passwords and preferences from Chrome.
+Firefox এ বদল এখন দ্রুত, সহজ ও ঝুঁকিমুক্ত। Firefox আপনার বুকমার্ক, অটোফিল, পাসওয়ার্ড এবং ক্রোম থেকে পছন্দগুলো ইম্পোর্ট করে।
 
 
 ;Moving browsers? We got you.
@@ -109,7 +109,7 @@ Switching to Firefox is fast, easy and risk-free. Firefox imports your bookmarks
 
 
 ;Instantly import your online info and favorites from any other browser.
-Instantly import your online info and favorites from any other browser.
+তাৎক্ষণিকভাবে অন্য ব্রাউজারে আপনার অনলাইন তথ্য এবং প্রিয় জিনিসগুলো ইম্পোর্ট করুন।
 
 
 ;Bookmarks
@@ -153,7 +153,7 @@ Instantly import your online info and favorites from any other browser.
 
 
 ;By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages load up to 44%% faster</a>. Now that’s a win-win.
-By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages load up to 44%% faster</a>. Now that’s a win-win.
+কিছু বিজ্ঞাপন ও স্ক্রিপ্ট ব্লক করায় এই নিরাশাজনক ব্রাউজিং এ, <a href="%(url)s">পাতা 44%% দ্রুততায় লোড </a>হয়। এখন সবার জয়।
 
 
 ;Firefox Quantum features
@@ -220,7 +220,7 @@ Take your privacy, passwords, and bookmarks with you wherever you go.
 
 
 ;Learn more about Firefox Accounts
-Learn more about Firefox Accounts
+Firefox Accounts সম্পর্কে আরও জানুন
 
 
 # String is obsolete. Do not remove.
