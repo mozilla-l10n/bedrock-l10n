@@ -3,34 +3,34 @@
 
 # HTML page title
 ;Learn About Mozilla
-Learn About Mozilla
+Læs om Mozilla
 
 
 # HTML page description
 ;Mozilla makes browsers, apps, code and tools that put people before profit. Our mission: Keep the internet open and accessible to all.
-Mozilla makes browsers, apps, code and tools that put people before profit. Our mission: Keep the internet open and accessible to all.
+Mozilla laver browsere, apps, kode og værktøj, der sætter mennesker over profit. Vores mission er: Hold internettet åbent og tilgængeligt for alle.
 
 
 ;Mozilla makes browsers, apps, code and tools that put people before profit.
-Mozilla makes browsers, apps, code and tools that put people before profit.
+Mozilla laver browsere, apps, kode og værktøj, der sætter mennesker over profit.
 
 
 ;Our mission: Keep the internet open and accessible to all.
-Our mission: Keep the internet open and accessible to all.
+Vores mission er: Hold internettet åbent og tilgængeligt for alle.
 
 
 # Link points to https://www.mozilla.org/mission/
 ;Read Our Mission
-Read Our Mission
+Læs mere om vores mission
 
 
 ;Our Mission in Action
-Our Mission in Action
+Vores mission i praksis
 
 
 # Link points to https://www.mozilla.org/about/leadership/
 ;Pioneers of The Open Web
-Pioneers of The Open Web
+Det åbne internets pionerer
 
 
 ;Our leadership has been at the forefront of building a healthier internet since Day 1. What began as an alternative to corporate domination has grown into a global force for good online.
@@ -39,7 +39,7 @@ Our leadership has been at the forefront of building a healthier internet since 
 
 # Link points to https://www.mozilla.org/firefox/
 ;Firefox: Fast for Good
-Firefox: Fast for Good
+Firefox: Den hurtigste browser
 
 
 ;When you use the new Firefox, you get a blazing fast experience while supporting Mozilla’s mission to keep the internet healthy, weird and welcoming to all.
@@ -52,7 +52,7 @@ Walking Our Privacy Talk
 
 
 ;When the Facebook breach was revealed, Mozilla had an immediate response – and a Firefox product to support user privacy.
-When the Facebook breach was revealed, Mozilla had an immediate response – and a Firefox product to support user privacy.
+Da Facebooks datalæk blev afsløret reagerede Mozilla med det samme. Og vi udviklede en ny udvidelse til Firefox for at beskytte dit privatliv på nettet.
 
 
 # Link points to https://irlpodcast.org/
@@ -61,7 +61,7 @@ Talking Internet Issues IRL
 
 
 ;In Mozilla’s IRL podcast, host Manoush Zomorodi shares real stories of life online and real talk about the future of the Web.
-In Mozilla’s IRL podcast, host Manoush Zomorodi shares real stories of life online and real talk about the future of the Web.
+I Mozillas IRL-podcast fortæller værten Manoush Zomodori historier fra det virkelige liv på internettet og diskuterer internettets fremtid.
 
 
 ;Corporation. Foundation. Not-for-profit.
@@ -70,7 +70,7 @@ Corporation. Foundation. Not-for-profit.
 
 # Link Points to https://foundation.mozilla.org/
 ;Learn about the Mozilla Foundation
-Learn about the Mozilla Foundation
+Læs mere om Mozilla Foundation
 
 
 ;Mozilla puts people over profit in everything we say, build and do. In fact, there’s a non-profit Foundation at the heart of our enterprise.
@@ -78,7 +78,7 @@ Mozilla puts people over profit in everything we say, build and do. In fact, the
 
 
 ;The Mozilla Manifesto
-The Mozilla Manifesto
+Mozillas manifest
 
 
 ;The principles we wrote in 1998 still guide us today. And in 2018, we created an addendum to emphasize inclusion, privacy and safety for everyone online.
@@ -87,30 +87,30 @@ The principles we wrote in 1998 still guide us today. And in 2018, we created an
 
 # Link points to https://www.mozilla.org/about/manifesto/
 ;Read The Manifesto
-Read The Manifesto
+Læs vores manifest
 
 
 ;A Global View
-A Global View
+Et globalt overblik
 
 
 # Link points to https://www.mozilla.org/contact/spaces/
 ;With <a href="%(url)s">offices all over the world</a>, we consider the internet from multiple cultures and contexts.
-With <a href="%(url)s">offices all over the world</a>, we consider the internet from multiple cultures and contexts.
+Vi har <a href="%(url)s">kontorer over hele verden</a>, hvilket giver os mulighed for at forstå internettet ud fra mange forskellige kulturer og sammenhænge.
 
 
 # Link points to https://www.mozilla.org/contact/spaces/san-francisco/
 ;San Francisco
-San Francisco
+San Francisco {ok}
 
 
 ;<strong>2000</strong> non-employee guests welcomed each year
-<strong>2000</strong> non-employee guests welcomed each year
+<strong>2000</strong> ikke-ansatte gæster besøger os hvert år
 
 
 # Link points to https://www.mozilla.org/contact/spaces/berlin/
 ;Berlin
-Berlin
+Berlin {ok}
 
 
 ;<strong>500</strong> annual attendees to the Berlin speaker series
@@ -119,7 +119,7 @@ Berlin
 
 # Link points to https://www.mozilla.org/contact/spaces/taipei/
 ;Taipei
-Taipei
+Taipei {ok}
 
 
 ;<strong>400</strong> collaborative visits with Mozilla employees each year.
@@ -128,7 +128,7 @@ Taipei
 
 # Link points to https://www.mozilla.org/contact/spaces/toronto/
 ;Toronto
-Toronto
+Toronto {ok}
 
 
 ;<strong>800</strong> bottles of cold brew coffee consumed yearly.
@@ -137,42 +137,42 @@ Toronto
 
 # https://careers.mozilla.org/
 ;Work at Mozilla
-Work at Mozilla
+Arbejd hos Mozilla
 
 
 ;Join a mission-driven organization that builds purpose-driven products.
-Join a mission-driven organization that builds purpose-driven products.
+Arbejd for en visionær organisation, der laver målrettede produkter.
 
 
 # Link points to https://careers.mozilla.org/
 ;Mozilla Careers
-Mozilla Careers
+Muligheder hos Mozilla
 
 
 # Link points to https://www.mozilla.org/contribute/
 ;How You Can Help
-How You Can Help
+Hvordan du kan hjælpe
 
 
 ;Your voice. Your code. Your support. There are so many ways to join the fight for a healthy internet.
-Your voice. Your code. Your support. There are so many ways to join the fight for a healthy internet.
+Din stemme. Din kode. Din hjælp. Der er mange måder, du kan bidrage til kampen for et bedre internet.
 
 
 # Link points to https://www.mozilla.org/contribute/
 ;Get Involved
-Get Involved
+Vær med
 
 
 ;Get The Mozilla Newsletter
-Get The Mozilla Newsletter
+Få nyhedsbreve fra Mozilla
 
 
 ;Stay informed about the issues affecting the internet, and learn how you can get involved in protecting the world’s newest public resource.
-Stay informed about the issues affecting the internet, and learn how you can get involved in protecting the world’s newest public resource.
+Hold dig opdateret om emner, der er relevante for kampen for et bedre internet - og læs om, hvordan du selv kan være med til at beskytte verdens nyeste fælles ressource.
 
 
 # CTA button
 ;Subscribe
-Subscribe
+Abonner
 
 
