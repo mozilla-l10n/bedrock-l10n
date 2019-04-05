@@ -1,178 +1,179 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/about/
 
 
 # HTML page title
 ;Learn About Mozilla
-Learn About Mozilla
+Poznaj Mozillę
 
 
 # HTML page description
 ;Mozilla makes browsers, apps, code and tools that put people before profit. Our mission: Keep the internet open and accessible to all.
-Mozilla makes browsers, apps, code and tools that put people before profit. Our mission: Keep the internet open and accessible to all.
+Mozilla tworzy przeglądarki, aplikacje, kod i narzędzia, które stawiają ludzi ponad zysk. Nasza misja: Internet otwarty i dostępny dla wszystkich.
 
 
 ;Mozilla makes browsers, apps, code and tools that put people before profit.
-Mozilla makes browsers, apps, code and tools that put people before profit.
+Mozilla tworzy przeglądarki, aplikacje, kod i narzędzia, które stawiają ludzi ponad zysk.
 
 
 ;Our mission: Keep the internet open and accessible to all.
-Our mission: Keep the internet open and accessible to all.
+Nasza misja: Internet otwarty i dostępny dla wszystkich.
 
 
 # Link points to https://www.mozilla.org/mission/
 ;Read Our Mission
-Read Our Mission
+Nasza misja
 
 
 ;Our Mission in Action
-Our Mission in Action
+Nasza misja w działaniu
 
 
 # Link points to https://www.mozilla.org/about/leadership/
 ;Pioneers of The Open Web
-Pioneers of The Open Web
+Pionierzy otwartego Internetu
 
 
 ;Our leadership has been at the forefront of building a healthier internet since Day 1. What began as an alternative to corporate domination has grown into a global force for good online.
-Our leadership has been at the forefront of building a healthier internet since Day 1. What began as an alternative to corporate domination has grown into a global force for good online.
+Nasze kierownictwo przoduje w budowaniu zdrowszego Internetu od samego początku. To, co zaczęło się jako alternatywa dla dominacji korporacji urosło w globalną siłę na rzecz dobra w sieci.
 
 
 # Link points to https://www.mozilla.org/firefox/
 ;Firefox: Fast for Good
-Firefox: Fast for Good
+Firefox: szybki, już na dobre
 
 
 ;When you use the new Firefox, you get a blazing fast experience while supporting Mozilla’s mission to keep the internet healthy, weird and welcoming to all.
-When you use the new Firefox, you get a blazing fast experience while supporting Mozilla’s mission to keep the internet healthy, weird and welcoming to all.
+Kiedy używasz nowego Firefoksa, korzystasz z superszybkiej przeglądarki i jednocześnie wspierasz misję Mozilli na rzecz zdrowego, dziwnego i przyjaznego Internetu dla wszystkich.
 
 
 # Link points to https://blog.mozilla.org/Internetcitizen/2018/06/06/the-today-show-mozilla-firefox-facebook-container/
 ;Walking Our Privacy Talk
-Walking Our Privacy Talk
+Bierzemy prywatność na serio
 
 
 ;When the Facebook breach was revealed, Mozilla had an immediate response – and a Firefox product to support user privacy.
-When the Facebook breach was revealed, Mozilla had an immediate response – and a Firefox product to support user privacy.
+Kiedy ujawniono wyciek danych z Facebooka, Mozilla natychmiast miała odpowiedź — i Firefoksa wspierającego prywatność użytkowników.
 
 
 # Link points to https://irlpodcast.org/
 ;Talking Internet Issues IRL
-Talking Internet Issues IRL
+Problemy Internetu także „w realu”
 
 
 ;In Mozilla’s IRL podcast, host Manoush Zomorodi shares real stories of life online and real talk about the future of the Web.
-In Mozilla’s IRL podcast, host Manoush Zomorodi shares real stories of life online and real talk about the future of the Web.
+W podcaście Mozilli, IRL, prowadząca Manoush Zomorodi dzieli się prawdziwymi historiami o życiu w sieci i prowadzi dyskusje o przyszłości Internetu.
 
 
 ;Corporation. Foundation. Not-for-profit.
-Corporation. Foundation. Not-for-profit.
+Korporacja. Fundacja. Non-profit.
 
 
 # Link Points to https://foundation.mozilla.org/
 ;Learn about the Mozilla Foundation
-Learn about the Mozilla Foundation
+Poznaj Fundację Mozilli
 
 
 ;Mozilla puts people over profit in everything we say, build and do. In fact, there’s a non-profit Foundation at the heart of our enterprise.
-Mozilla puts people over profit in everything we say, build and do. In fact, there’s a non-profit Foundation at the heart of our enterprise.
+Mozilla stawia ludzi ponad zyskiem we wszystkim co mówimy, budujemy i robimy. Sercem naszego przedsięwzięcia jest fundacja non-profit.
 
 
 ;The Mozilla Manifesto
-The Mozilla Manifesto
+Manifest Mozilli
 
 
 ;The principles we wrote in 1998 still guide us today. And in 2018, we created an addendum to emphasize inclusion, privacy and safety for everyone online.
-The principles we wrote in 1998 still guide us today. And in 2018, we created an addendum to emphasize inclusion, privacy and safety for everyone online.
+Te zasady zapisane w 1998 roku nadal wskazują nam drogę. A w 2018 roku dodaliśmy aneks, aby podkreślić integrację, prywatność i bezpieczeństwo każdego użytkownika Internetu.
 
 
 # Link points to https://www.mozilla.org/about/manifesto/
 ;Read The Manifesto
-Read The Manifesto
+Przeczytaj manifest
 
 
 ;A Global View
-A Global View
+Widzimy cały świat
 
 
 # Link points to https://www.mozilla.org/contact/spaces/
 ;With <a href="%(url)s">offices all over the world</a>, we consider the internet from multiple cultures and contexts.
-With <a href="%(url)s">offices all over the world</a>, we consider the internet from multiple cultures and contexts.
+Dzięki <a href="%(url)s">biurom na całym świecie</a> patrzymy na Internet z punktu widzenia wielu kultur i kontekstów.
 
 
 # Link points to https://www.mozilla.org/contact/spaces/san-francisco/
 ;San Francisco
-San Francisco
+San Francisco
 
 
 ;<strong>2000</strong> non-employee guests welcomed each year
-<strong>2000</strong> non-employee guests welcomed each year
+<strong>2000</strong> gości niebędących pracownikami każdego roku
 
 
 # Link points to https://www.mozilla.org/contact/spaces/berlin/
 ;Berlin
-Berlin
+Berlin {ok}
 
 
 ;<strong>500</strong> annual attendees to the Berlin speaker series
-<strong>500</strong> annual attendees to the Berlin speaker series
+<strong>500</strong> uczestników corocznej serii wykładów w Berlinie
 
 
 # Link points to https://www.mozilla.org/contact/spaces/taipei/
 ;Taipei
-Taipei
+Tajpej
 
 
 ;<strong>400</strong> collaborative visits with Mozilla employees each year.
-<strong>400</strong> collaborative visits with Mozilla employees each year.
+<strong>400</strong> wspólnych wizyt z pracownikami Mozilli każdego roku
 
 
 # Link points to https://www.mozilla.org/contact/spaces/toronto/
 ;Toronto
-Toronto
+Toronto {ok}
 
 
 ;<strong>800</strong> bottles of cold brew coffee consumed yearly.
-<strong>800</strong> bottles of cold brew coffee consumed yearly.
+<strong>800</strong> butelek kawy mrożonej spożywanych rocznie
 
 
 # https://careers.mozilla.org/
 ;Work at Mozilla
-Work at Mozilla
+Pracuj w Mozilli
 
 
 ;Join a mission-driven organization that builds purpose-driven products.
-Join a mission-driven organization that builds purpose-driven products.
+Dołącz do organizacji z misją, budującą produkty ukierunkowane na cel.
 
 
 # Link points to https://careers.mozilla.org/
 ;Mozilla Careers
-Mozilla Careers
+Praca w Mozilli
 
 
 # Link points to https://www.mozilla.org/contribute/
 ;How You Can Help
-How You Can Help
+Jak możesz pomóc
 
 
 ;Your voice. Your code. Your support. There are so many ways to join the fight for a healthy internet.
-Your voice. Your code. Your support. There are so many ways to join the fight for a healthy internet.
+Twój głos. Twój kod. Twoje wsparcie. Są niezliczone sposoby dołączenia do walki o zdrowy Internet.
 
 
 # Link points to https://www.mozilla.org/contribute/
 ;Get Involved
-Get Involved
+Dołącz do nas
 
 
 ;Get The Mozilla Newsletter
-Get The Mozilla Newsletter
+Biuletyn Mozilli
 
 
 ;Stay informed about the issues affecting the internet, and learn how you can get involved in protecting the world’s newest public resource.
-Stay informed about the issues affecting the internet, and learn how you can get involved in protecting the world’s newest public resource.
+Bądź na bieżąco z problemami mającymi wpływ na Internet i dowiedz się, jak można pomóc chronić najnowszy zasób publiczny świata.
 
 
 # CTA button
 ;Subscribe
-Subscribe
+Subskrybuj
 
 
