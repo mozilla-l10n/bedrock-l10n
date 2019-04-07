@@ -4,6 +4,8 @@
 ## firefox_new_try_again_link_020818 ##
 ## firefox_quantum_new_headline ##
 ## firstrun_email_only_form ##
+## fxnew_account_032019 ##
+## truly_removal_2019 ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/new/
 
 
@@ -69,7 +71,7 @@ Opziuns d'installaziun avanzadas & autras plattafurmas
 
 # Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings?
 ;Fix a problem
-Fix a problem
+Schliar in problem
 
 
 ;Keep up with<br> all things Firefox.
@@ -93,27 +95,27 @@ Telechargiar Firefox <span>per Linux</span>
 
 # The phrase “Now get everything else Firefox” is in specific reference to a Firefox account, which unlocks access to all our new products and services.
 ;You’ve already got the Firefox browser. Now get everything else Firefox.
-You’ve already got the Firefox browser. Now get everything else Firefox.
+Ti has gia il navigatur Firefox. Va ussa per tut quai che Firefox porscha era anc.
 
 
 ;Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
-Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
+Sincronisescha segnapaginas, trametta tabs, memorisescha en Pocket ed anc dapli cun in conto da Firefox.
 
 
 ;Get a Firefox Account
-Get a Firefox Account
+Va per in conto da Firefox
 
 
 ;Already have an account?
-Already have an account?
+Ti has gia in conto?
 
 
 ;Sign In
-Sign In
+S'annunziar
 
 
 ;Download Anyway
-Download Anyway
+Tuttina telechargiar
 
 
 # Link points to /firefox/all/
@@ -232,7 +234,7 @@ Propi privat
 
 
 ;Private Browsing with Tracking Protection
-Private Browsing with Tracking Protection
+Modus privat cun protecziun cunter il fastizar
 
 
 # String is obsolete. Do not remove.
