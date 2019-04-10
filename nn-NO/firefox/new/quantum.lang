@@ -4,6 +4,8 @@
 ## firefox_new_try_again_link_020818 ##
 ## firefox_quantum_new_headline ##
 ## firstrun_email_only_form ##
+## fxnew_account_032019 ##
+## truly_removal_2019 ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/new/
 
 
@@ -69,7 +71,7 @@ Avanserte installasjonsalternativ og andre plattformer
 
 # Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings?
 ;Fix a problem
-Fix a problem
+Løys eit problem
 
 
 ;Keep up with<br> all things Firefox.
@@ -93,27 +95,27 @@ Last ned Firefox <span>for Linux</span>
 
 # The phrase “Now get everything else Firefox” is in specific reference to a Firefox account, which unlocks access to all our new products and services.
 ;You’ve already got the Firefox browser. Now get everything else Firefox.
-You’ve already got the Firefox browser. Now get everything else Firefox.
+Du har allereie Firefox. Bruk han betre med ein Firefox-konto.
 
 
 ;Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
-Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
+Med ein Firefox-konto kan du mellom anna synkronisere bokmerke, sende faner, og lagre til Pocket.
 
 
 ;Get a Firefox Account
-Get a Firefox Account
+Få deg ein Firefox-konto
 
 
 ;Already have an account?
-Already have an account?
+Har du allereie ein konto?
 
 
 ;Sign In
-Sign In
+Logg inn
 
 
 ;Download Anyway
-Download Anyway
+Last ned likevel
 
 
 # Link points to /firefox/all/
@@ -232,7 +234,7 @@ Tek vare å personvernet ditt
 
 
 ;Private Browsing with Tracking Protection
-Private Browsing with Tracking Protection
+Privat nettlesing med sporingsvern
 
 
 # String is obsolete. Do not remove.
