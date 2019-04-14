@@ -1,190 +1,192 @@
+## active ##
+## firefox-accounts-112018 ##
 ## NOTE: demo page is available at https://www-dev.allizom.org/privacy/faq/
 
 
 # HTML page title
 ;Mozilla’s Data Privacy FAQ
-Mozilla’s Data Privacy FAQ
+Najczęściej zadawane pytania o ochronę prywatności danych Mozilli
 
 
 # HTML page description
 ;At Mozilla we respect and protect your personal information.
-At Mozilla we respect and protect your personal information.
+W Mozilli szanujemy i chronimy Twoje dane osobowe.
 
 
 ;We Stand for People Over Profit.
-We Stand for People Over Profit.
+Stawiamy ludzi ponad zyskiem.
 
 
 # "Under the hood" is an expression in automobile industry. Here it is a metaphor about something that exists but out of sight, behind the scenes.
 ;It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
-It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
+Czasami ciężko wiedzieć, czego się spodziewać po używanym oprogramowaniu lub usłudze. Technologia wspierająca nasze życie jest skomplikowana i nie każdy ma czas, aby zgłębiać się w szczegóły. To dotyczy także Firefoksa — okazuje się, że różni ludzie mają różne rozumienie tego, co dzieje się pod maską ich przeglądarki.
 
 
 ;At Mozilla, we respect and protect your personal information:
-At Mozilla, we respect and protect your personal information:
+W Mozilli szanujemy i chronimy Twoje dane osobowe:
 
 
 # Links to https://www.mozilla.org/privacy/principles/
 ;We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our approach to privacy in the Firefox desktop and mobile browsers.
-We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our approach to privacy in the Firefox desktop and mobile browsers.
+Działamy zgodnie z <a href="%(link)s">pryncypiami prywatności danych</a>, które kształtują nasze podejście do prywatności w przeglądarkach Firefox dla komputerów i telefonów.
 
 
 ;We only collect the data we need to make the best products.
-We only collect the data we need to make the best products.
+Zbieramy tylko te dane, których potrzebujemy do tworzenia najlepszych produktów.
 
 
 ;We put people in control of their data and online experiences.
-We put people in control of their data and online experiences.
+Dajemy ludziom kontrolę nad ich danymi i życiem w Internecie.
 
 
 ;We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
-We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
+Trzymamy się zasady „żadnych niespodzianek”, co oznacza, że ciężko pracujemy aby zapewnić, że wszyscy rozumieją, jaki Firefox jest w rzeczywistości.
 
 
 ;The following questions and answers should help you understand what to expect from Mozilla and Firefox:
-The following questions and answers should help you understand what to expect from Mozilla and Firefox:
+Poniższe pytania i odpowiedzi pomogą w zrozumieniu, czego można oczekiwać od Mozilli i Firefoksa.
 
 
 ;I use Firefox for almost everything on the Web. You folks at Mozilla must know a ton of stuff about me, right?
-I use Firefox for almost everything on the Web. You folks at Mozilla must know a ton of stuff about me, right?
+Używam Firefoksa do prawie wszystkiego, co robię w Internecie. Mozilla i jej pracownicy muszą wiedzieć o mnie mnóstwo rzeczy, co nie?
 
 
 ;Firefox, the web browser that runs on your device or computer, is your gateway to the internet. Your browser will manage a lot of information about the websites you visit, but that information stays on your device. Mozilla, the company that makes Firefox, doesn’t collect it (unless you ask us to).
-Firefox, the web browser that runs on your device or computer, is your gateway to the internet. Your browser will manage a lot of information about the websites you visit, but that information stays on your device. Mozilla, the company that makes Firefox, doesn’t collect it (unless you ask us to).
+Firefox, przeglądarka działająca na Twoim urządzeniu lub komputerze, to Twoja brama do Internetu. Zarządza ona wieloma informacjami o odwiedzanych stronach, ale te informacje pozostają na Twoim urządzeniu. Mozilla, firma tworząca Firefoksa, ich nie zbiera (chyba że nas o to poprosisz).
 
 
 ;Really, you don’t collect my browsing history?
-Really, you don’t collect my browsing history?
+Naprawdę nie zbieracie mojej historii przeglądania?
 
 
 # Links to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 ;Mozilla doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, such as <a href="%(link)s">Firefox Pioneer</a>, which allows interested users to give us insight into their web browsing. If you sync your browsing history across Firefox installations, we don’t know what that history is - because it’s encrypted by your device.
-Mozilla doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, such as <a href="%(link)s">Firefox Pioneer</a>, which allows interested users to give us insight into their web browsing. If you sync your browsing history across Firefox installations, we don’t know what that history is - because it’s encrypted by your device.
+Mozilla nie wie tyle, ile możesz się spodziewać o tym, jak ludzie przeglądają Internet. Tak naprawdę jako producenta przeglądarki to dla nas duże wyzwanie. Dlatego stworzyliśmy opcjonalne narzędzia, takie jak <a href="%(link)s">Firefox Pioneer</a>, umożliwiające zainteresowanym użytkownikom przekazanie nam wglądu w ich sposób przeglądania Internetu. Jeśli synchronizujesz swoją historię przeglądania między instalacjami Firefoksa, to my jej nie znamy, ponieważ jest zaszyfrowana przez Twoje urządzenie.
 
 
 ;It seems like every company on the web is buying and selling my data. You’re probably no different.
-It seems like every company on the web is buying and selling my data. You’re probably no different.
+Wygląda na to, że każda firma w Internecie kupuje i sprzedaje moje dane. Wy pewnie nie jesteście lepsi.
 
 
 ;Mozilla doesn’t sell data about you, and we don’t buy data about you.
-Mozilla doesn’t sell data about you, and we don’t buy data about you.
+Mozilla nie sprzedaje ani nie kupuje danych o Tobie.
 
 
 ;Wait, so how do you make money?
-Wait, so how do you make money?
+No to w jaki sposób zarabiacie pieniądze?
 
 
 # Links to https://www.mozilla.org/foundation/annualreport/
 ;Mozilla is not your average organization. Founded as a community open source project in 1998, Mozilla is a mission-driven organization working towards a more healthy internet. The majority of Mozilla Corporation’s revenue is from royalties earned through Firefox web browser search partnerships and distribution deals around the world. You can learn more about how we make money in our <a href="%(link)s">annual financial report</a>.
-Mozilla is not your average organization. Founded as a community open source project in 1998, Mozilla is a mission-driven organization working towards a more healthy internet. The majority of Mozilla Corporation’s revenue is from royalties earned through Firefox web browser search partnerships and distribution deals around the world. You can learn more about how we make money in our <a href="%(link)s">annual financial report</a>.
+Mozilla nie jest typową organizacją. Założona jako społeczny projekt open source w 1998 roku, Mozilla jest organizacją z misją, działającą na rzecz zdrowszego Internetu. Większość przychodów Mozilla Corporation pochodzi z należności uzyskanych przez partnerstwa z wyszukiwarkami w przeglądarce Firefox i umowy dystrybucyjne na całym świecie. Więcej informacji o tym, jak zarabiamy pieniądze znajduje się w naszym <a href="%(link)s">corocznym sprawozdaniu finansowym</a>.
 
 
 # "Softballs" here means questions requiring only easy or simple answers.
 ;Okay, those first few were softballs. What data do you collect?
-Okay, those first few were softballs. What data do you collect?
+No dobra, pierwsze pytania były łatwizną. Jakie dane zbieracie?
 
 
 # First URL links to https://www.mozilla.org/privacy/firefox/
 # Second URL links to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 ;Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
-Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
+Mozilla domyślnie zbiera ograniczony zbiór danych z Firefoksa, który pomaga nam zrozumieć, jak ludzie używają przeglądarki. Te dane są powiązane z losowym identyfikatorem, a nie z Twoim nazwiskiem lub adresem e-mail. Możesz przeczytać o tym więcej w naszych <a href="%(privacy)s">zasadach ochrony prywatności</a>. Dostępna jest także <a href="%(data)s">pełna dokumentacja tego zbioru danych</a>.
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
-We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
+Upubliczniamy naszą dokumentację, aby każdy mógł sprawdzić, że mówimy prawdę, powiedzieć nam, czy musimy coś poprawić i mieć pewność, że niczego nie ukrywamy.
 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
 ;That documentation is gobbledygook to me! Can you give it to me in plain English?
-That documentation is gobbledygook to me! Can you give it to me in plain English?
+Ta dokumentacja to jakiś bełkot! Nie możecie mi tego powiedzieć po polsku?
 
 
 ;There are two categories of data that we collect by default in our release version of Firefox.
-There are two categories of data that we collect by default in our release version of Firefox.
+Są dwie kategorie danych, które domyślnie zbieramy w ostatecznym wydaniu Firefoksa.
 
 
 ;The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
-The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
+Pierwszą nazywamy „danymi technicznymi”. To dane o samej przeglądarce, takie jak używany system operacyjny oraz informacje o błędach i awariach.
 
 
 ;The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
-The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
+Drugą nazywamy „danymi o interakcjach z programem”. Są to dane o korzystaniu danej osoby z Firefoksa, takie jak liczba otwartych kart, stan preferencji użytkownika czy ile razy użyto pewnych funkcji przeglądarki, takich jak zrzuty ekranu lub kontenery. Na przykład zbieramy te dane w kontekście przycisku wstecz, tej strzałki w lewym górnym rogu przeglądarki umożliwiającej powrót do poprzedniej strony w sposób, który mówi nam, że ktoś jej użył, ale nie mówi nam, jakie strony odwiedzał.
 
 
 ;Do you collect more data in pre-release versions of Firefox?
-Do you collect more data in pre-release versions of Firefox?
+Czy zbieracie więcej danych w testowych wydaniach Firefoksa?
 
 
 ;Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
-Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
+Tak jakby. Poza danymi opisanymi powyżej w testowych wydaniach Firefoksa otrzymujemy także zgłoszenia awarii i błędów.
 
 
 # Links to https://support.mozilla.org/kb/shield
 ;We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
-We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
+Możemy także zbierać dodatkowe dane w testowym wydaniu w ramach jednego z naszych <a href="%(link)s">badań</a>. Na przykład niektóre badania wymagają tak zwanych „danych o aktywności internetowej”, które mogą obejmować adresy URL i inne informacje o pewnych stronach. Pomaga to nam znaleźć odpowiedzi na konkretne pytania, aby ulepszyć Firefoksa, na przykład jak lepiej zintegrować popularne witryny w określonych lokalizacjach.
 
 
 ;Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
-Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
+Testowe wydania Firefoksa od Mozilli to platformy rozwojowe, często aktualizowane o eksperymentalne funkcje. Zbieramy w nich więcej danych niż w wydaniach ostatecznych, aby zrozumieć jak te funkcje się sprawdzają. W preferencjach można wyłączyć zbieranie tych danych.
 
 
 ;But why do you collect any data at all?
-But why do you collect any data at all?
+Ale dlaczego w ogóle zbieracie jakiekolwiek dane?
 
 
 ;If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
-If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
+Jeśli nie wiemy, jak przeglądarka się sprawuje czy jakie funkcje są używane, to nie możemy jej ulepszyć i spełnić waszych oczekiwań. Zainwestowaliśmy w zbudowanie narzędzi do zbierania i analizy danych, które umożliwiają nam podejmowanie właściwych decyzji o naszym produkcie, jednocześnie szanując prywatność użytkowników.
 
 
 ;Data collection still bugs me. Can I turn it off?
-Data collection still bugs me. Can I turn it off?
+Zbieranie danych nadal mnie niepokoi. Czy mogę je wyłączyć?
 
 
 # First URL links to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 # Second URL links to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
 ;Yes. User control is one of our data privacy principles. We put that into practice in Firefox on our <a href="%(settings)s">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in Firefox. You can <a href="%(data)s">turn off data collection</a> there.
-Yes. User control is one of our data privacy principles. We put that into practice in Firefox on our <a href="%(settings)s">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in Firefox. You can <a href="%(data)s">turn off data collection</a> there.
+Tak. Kontrola użytkownika to jeden z naszych pryncypiów prywatności danych. Wprowadzamy to w praktyce na <a href="%(settings)s">stronie ustawień prywatności</a>, służącej jako jedno miejsce do kontroli prywatności w Firefoksie. Można na niej <a href="%(data)s">wyłączyć zbieranie danych</a>.
 
 
 ;What about my account data?
-What about my account data?
+Co z danymi na moim koncie?
 
 
 ;We are big believers of data minimization and not asking for things we don't need.
-We are big believers of data minimization and not asking for things we don't need.
+Głęboko wierzymy w zasadę minimalizacji danych i nie prosimy o nic, czego nie potrzebujemy.
 
 
 ;You don't need an account to use Firefox. <a href="%(accounts)s">Accounts</a> are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
-You don't need an account to use Firefox. <a href="%(accounts)s">Accounts</a> are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
+Do używania Firefoksa nie potrzebujesz konta. <a href="%(accounts)s">Konto</a> jest wymagane do synchronizacji danych między urządzeniami, ale prosimy tylko o adres e-mail. Nie chcemy znać Twojego nazwiska, adresu, daty urodzenia czy numeru telefonu.
 
 
 # String is obsolete. Do not remove.
 ;You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
-You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
+Do używania Firefoksa nie potrzebujesz konta. Konto jest wymagane do synchronizacji danych między urządzeniami, ale prosimy tylko o adres e-mail. Nie chcemy znać Twojego nazwiska, adresu, daty urodzenia czy numeru telefonu.
 
 
 ;You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
-You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
+Używacie reklam internetowych w ramach swoich działań marketingowych. Czy kupujecie dane o ludziach, aby lepiej ukierunkowywać swoje reklamy w Internecie?
 
 
 ;No, we do not buy people's data to target advertising.
-No, we do not buy people's data to target advertising.
+Nie, nie kupujemy danych ludzi do reklamy ukierunkowanej.
 
 
 ;We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
-We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
+Zwracamy się do naszych partnerów reklamowych, aby używali wyłącznie danych, które strony i wydawcy znają o wszystkich swoich użytkownikach, takich jak używana przeglądarka i urządzenie.
 
 
 ;Well, it seems like you really have my back on this privacy stuff.
-Well, it seems like you really have my back on this privacy stuff.
+No cóż, wygląda na to, że naprawdę jesteście po mojej stronie w sprawach prywatności.
 
 
 ;Yes, we do.
-Yes, we do.
+Tak, naprawdę jesteśmy.
 
 
 # Links to https://internethealthreport.org/
 ;Find out more about how Mozilla protects the internet.
-Find out more about how Mozilla protects the internet.
+Więcej informacji o tym, jak Mozilla chroni Internet.
 
 
