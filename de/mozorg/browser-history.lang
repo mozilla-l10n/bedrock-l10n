@@ -1,106 +1,107 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/technology/browser-history/
 
 
 # HTML title tag
 ;Browser History: Epic power struggles that brought us modern browsers
-Browser History: Epic power struggles that brought us modern browsers
+Geschichte der Internet-Browser: Die monumentalen Machtkämpfe, aus denen die Browser von heute entstanden
 
 
 # HTML description tag
 ;The browser wars, underdogs vs giants, and moments that changed the world. Read about the history of the web browser.
-The browser wars, underdogs vs giants, and moments that changed the world. Read about the history of the web browser.
+Browser-Kriege, Underdogs gegen Giganten und Momente, die die Welt veränderten. Hier erfährst du mehr zur Geschichte der Internet-Browser.
 
 
 # Page heading
 ;The History of Web Browsers
-The History of Web Browsers
+Die Geschichte der Internet-Browser
 
 
 ;World history is rife with epic power struggles, world-conquering tyrants, and heroic underdogs. The history of web browsers isn’t very different. University pioneers wrote simple software that sparked an information revolution, and battle for browser superiority and internet users.
-World history is rife with epic power struggles, world-conquering tyrants, and heroic underdogs. The history of web browsers isn’t very different. University pioneers wrote simple software that sparked an information revolution, and battle for browser superiority and internet users.
+Die Weltgeschichte ist voll von monumentalen Machtkämpfen, Tyrannen, die die Welt eroberten, und heroischen Underdogs. Davon unterscheidet sich die Geschichte der Internet-Browser nicht wesentlich. Pioniere an Universitäten generierten eine einfache Software. Das löste eine Informationsrevolution, einen Kampf um überlegene Browser und die Gunst der Internet-User aus.
 
 
 ;Before Web Era
-Before Web Era
+Vor der Zeit des Internets
 
 
 ;In 1950, computers took up whole rooms and were dumber than today’s pocket calculators. But progress was swift, and by 1960 they were able to run complex programs. Governments and universities across the globe thought it would be great if the machines could talk, nurturing collaboration and scientific breakthroughs.
-In 1950, computers took up whole rooms and were dumber than today’s pocket calculators. But progress was swift, and by 1960 they were able to run complex programs. Governments and universities across the globe thought it would be great if the machines could talk, nurturing collaboration and scientific breakthroughs.
+1950 füllten Computer ganze Räume und waren weniger intelligent als die heutigen Taschenrechner. Aber der Fortschritt war rasant. 1960 war es bereits möglich, komplexe Programme auszuführen. Regierungen und Universitäten in der ganzen Welt gingen davon aus, dass es toll wäre, wenn die Maschinen miteinander kommunizieren könnten und man so die Zusammenarbeit und wissenschaftliche Durchbrüche fördern könnte.
 
 
 ;<a href="%(arpanet)s">ARPANET</a> was the first successful networking project and in 1969 the first message was sent from the computer science lab at University of California, Los Angeles (UCLA) to Stanford Research Institute (SRI), also in California.
-<a href="%(arpanet)s">ARPANET</a> was the first successful networking project and in 1969 the first message was sent from the computer science lab at University of California, Los Angeles (UCLA) to Stanford Research Institute (SRI), also in California.
+<a href="%(arpanet)s">ARPANET</a> war das erste erfolgreiche Networking-Projekt. 1969 wurde die erste Nachricht vom IT-Labor der University of California in Los Angeles (UCLA) an das Stanford Research Institute (SRI), ebenfalls in Kalifornien, gesendet.
 
 
 ;That sparked a revolution in computer networking. New networks formed, connecting universities and research centers across the globe. But for the next 20 years, the internet wasn’t accessible to the public. It was restricted to university and government researchers, students, and private corporations. There were dozens of programs that could trade information over telephone lines, but none of them were easy to use. The real open internet, and the first web browser, wasn’t created until 1990.
-That sparked a revolution in computer networking. New networks formed, connecting universities and research centers across the globe. But for the next 20 years, the internet wasn’t accessible to the public. It was restricted to university and government researchers, students, and private corporations. There were dozens of programs that could trade information over telephone lines, but none of them were easy to use. The real open internet, and the first web browser, wasn’t created until 1990.
+Das löste eine Revolution in Bezug auf die Vernetzung von Computern untereinander aus. Neue Netzwerke bildeten sich und verknüpften Universitäten und Forschungszentren in der ganzen Welt miteinander. Doch in den nächsten 20 Jahren war das Internet für die Öffentlichkeit noch unzugänglich. Es beschränkte sich auf Forscher an Universitäten und auf Regierungsstellen sowie auf Studenten und private Firmen. Es gab Dutzende von Programmen, die Informationen über Telefonleitungen miteinander austauschen konnten, aber sie waren alle nicht zu leicht zu bedienen. Das echte öffentlich zugängliche Internet und der erste Internet-Browser entstanden erst 1990.
 
 
 ;Web Era
-Web Era
+Die Internet-Ära
 
 
 ;British computer scientist Tim Berners-Lee created the first web server and graphical web browser in 1990 while <a href="%(cern)s">working at CERN</a>, the European Organization for Nuclear Research, in Switzerland. He called his new window into the internet “WorldWideWeb.” It was an easy-to-use graphical interface created for the NeXT computer. For the first time, text documents were linked together over a public network—the web as we know it.
-British computer scientist Tim Berners-Lee created the first web server and graphical web browser in 1990 while <a href="%(cern)s">working at CERN</a>, the European Organization for Nuclear Research, in Switzerland. He called his new window into the internet “WorldWideWeb.” It was an easy-to-use graphical interface created for the NeXT computer. For the first time, text documents were linked together over a public network—the web as we know it.
+Der britische Informatiker Tim Berners-Lee entwickelte 1990 den ersten Internetserver und den ersten graphischen Internet-Browser, als er <a href="%(cern)s">bei CERN</a>, der Europäischen Organisation für Nuklearforschung, in der Schweiz arbeitete. Er nannte seinen neuen Zugang zum Internet „WorldWideWeb“. Dabei handelte es sich um eine einfach zu bedienende graphische Schnittstelle, die für NeXT-Computer generiert worden war. Zum ersten Mal konnten Textdokumente über ein öffentlich zugängliches Netzwerk miteinander verbunden werden – über das Internet, wie wir es heute kennen.
 
 
 ;A year later, Berners-Lee asked CERN math student Nicola Pellow to write the Line Mode Browser, a program for basic computer terminals.
-A year later, Berners-Lee asked CERN math student Nicola Pellow to write the Line Mode Browser, a program for basic computer terminals.
+Ein Jahr später bat Berners-Lee die Mathematikstudentin Nicola Pellow, die ebenfalls für CERN tätig war, den Line Mode Browser zu schreiben. Dabei handelte es sich um ein Programm für grundlegende Computerterminals.
 
 
 ;By 1993, the web exploded. Universities, governments, and private corporations all saw opportunity in the open internet. Everyone needed new computer programs to access it. That year, Mosaic was created at the National Center for Supercomputing Applications (NCSA) at the University of Illinois Urbana-Champaign by computer scientist Marc Andreessen. It was the very first popular web browser and the early ancestor of <a href="%(firefox)s">Mozilla Firefox</a>.
-By 1993, the web exploded. Universities, governments, and private corporations all saw opportunity in the open internet. Everyone needed new computer programs to access it. That year, Mosaic was created at the National Center for Supercomputing Applications (NCSA) at the University of Illinois Urbana-Champaign by computer scientist Marc Andreessen. It was the very first popular web browser and the early ancestor of <a href="%(firefox)s">Mozilla Firefox</a>.
+1993 war das Internet bereits der große Renner. Universitäten, Regierungen und Privatfirmen sahen alle die Möglichkeiten, die das öffentlich zugängliche Internet bot. Jeder benötigte neue Computerprogramme, um auf das Internet zuzugreifen. In diesem Jahr erfand der Informatiker Marc Andreessen Mosaic am National Center for Supercomputing Applications (NCSA) an der University of Illinois Urbana-Champaign. Mosaic war der allererste populäre Internet-Browser und der frühe Vorläufer von <a href="%(firefox)s">Mozilla Firefox</a>.
 
 
 ;NSCA Mosaic ran on Windows computers, was easy to use, and gave anyone with a PC access to early web pages, chat rooms, and image libraries. The next year (1994), Andreessen founded <a href="%(netscape)s">Netscape</a> and released Netscape Navigator to the public. It was wildly successful, and the first browser for the people. It was also the first move in a new kind of war for internet users.
-NSCA Mosaic ran on Windows computers, was easy to use, and gave anyone with a PC access to early web pages, chat rooms, and image libraries. The next year (1994), Andreessen founded <a href="%(netscape)s">Netscape</a> and released Netscape Navigator to the public. It was wildly successful, and the first browser for the people. It was also the first move in a new kind of war for internet users.
+Der NSCA Mosaic konnte auf Windows-Computern ausgeführt werden, war einfach zu bedienen und ermöglichte allen Leuten mit einem PC den Zugriff auf die damaligen Internetseiten, Bildbibliotheken und Chatrooms. Im nächsten Jahr (1994) entwickelte Andreessen <a href="%(netscape)s">Netscape</a> und gab den Netscape Navigator für die Benutzung durch die Öffentlichkeit frei. Es war der erste Browser, den alle Menschen nutzen konnten – und er war äußerst erfolgreich. Diese Entwicklung war auch der erste Schachzug in einer neuen Art des Kampfs um Internet-User.
 
 
 ;The Browser Wars
-The Browser Wars
+Die Browser-Kriege
 
 
 ;By 1995, Netscape Navigator wasn’t the only way to get online. Computer software giant Microsoft licensed the old Mosaic code and built its own window to the web, <a href="%(ie)s">Internet Explorer</a>. The release sparked a war. Netscape and Microsoft worked feverishly to make new versions of their programs, each attempting to outdo the other with faster, better products.
-By 1995, Netscape Navigator wasn’t the only way to get online. Computer software giant Microsoft licensed the old Mosaic code and built its own window to the web, <a href="%(ie)s">Internet Explorer</a>. The release sparked a war. Netscape and Microsoft worked feverishly to make new versions of their programs, each attempting to outdo the other with faster, better products.
+1995 war der Netscape Navigator nicht mehr die einzige Möglichkeit, online zu gehen. Der Computer-Software-Gigant Microsoft lizensierte den alten Mosaic-Code und entwickelte mit dem <a href="%(ie)s">Internet Explorer</a> einen eigenen Zugang zum Netz. Diese Neuerscheinung löste geradezu einen Krieg aus. Netscape und Microsoft arbeiteten fieberhaft daran, neue Versionen ihrer Programme herzustellen, wobei beide Firmen versuchten, einander gegenseitig mit schnelleren, besseren Produkten zu übertrumpfen.
 
 
 ;Netscape created and released JavaScript, which gave websites powerful computing capabilities they never had before. (They also made the infamous <a href="%(blink)s">&lt;blink&gt; tag</a>.) Microsoft countered with Cascading Style Sheets (CSS), which became the standard for web page design.
-Netscape created and released JavaScript, which gave websites powerful computing capabilities they never had before. (They also made the infamous <a href="%(blink)s">&lt;blink&gt; tag</a>.) Microsoft countered with Cascading Style Sheets (CSS), which became the standard for web page design.
+Netscape brachte JavaScript auf den Markt. Das erhöhte die Leistungsfähigkeit von Computern in Bezug auf Webseiten so stark  wie noch nie zuvor. (Netscape stellte auch den berühmt-berüchtigten <a href="%(blink)s">&lt;blink&gt;-Tag </a> her.) Microsoft reagierte darauf mit den Cascading Style Sheets (CSS), die zum Standard im Bereich Webseiten-Design wurden.
 
 
 ;Things got a little out of hand in 1997 when Microsoft released Internet Explorer 4.0. The team built a giant letter “e” and snuck it on the lawn of Netscape headquarters. The Netscape team promptly knocked the giant “e” over and <a href="%(dino)s">put their own Mozilla dinosaur mascot on top of it</a>.
-Things got a little out of hand in 1997 when Microsoft released Internet Explorer 4.0. The team built a giant letter “e” and snuck it on the lawn of Netscape headquarters. The Netscape team promptly knocked the giant “e” over and <a href="%(dino)s">put their own Mozilla dinosaur mascot on top of it</a>.
+1997 liefen die Dinge etwas aus dem Ruder, als Microsoft den Internet Explorer 4.0 auf den Markt brachte. Das Team baute ein riesiges „E“ und schlich sich auf das Gelände der Zentrale von Netscape, um es dort auf dem Rasen aufzustellen. Das Team von Netscape stürzte das gigantische „E“ sofort um und <a href="%(dino)s">stellte sein eigenes Maskottchen, nämlich den Mozilla Dinosaurier, darüber</a>.
 
 
 ;Then Microsoft began shipping Internet Explorer with their Windows operating system. Within 4 years, it had 75%% of the market and by 1999 it had 99%% of the market. The company faced antitrust litigation over the move, and Netscape decided to open source its codebase and created the not-for-profit <a href="%(mozilla)s">Mozilla</a>, which went on to create and release Firefox in 2002. Realizing that having a browser monopoly wasn’t in the best interests of users and the open web, Firefox was created to provide choice for web users. By 2010, Mozilla Firefox and others had <a href="%(marketshare)s">reduced Internet Explorer’s market share to 50%%</a>.
-Then Microsoft began shipping Internet Explorer with their Windows operating system. Within 4 years, it had 75%% of the market and by 1999 it had 99%% of the market. The company faced antitrust litigation over the move, and Netscape decided to open source its codebase and created the not-for-profit <a href="%(mozilla)s">Mozilla</a>, which went on to create and release Firefox in 2002. Realizing that having a browser monopoly wasn’t in the best interests of users and the open web, Firefox was created to provide choice for web users. By 2010, Mozilla Firefox and others had <a href="%(marketshare)s">reduced Internet Explorer’s market share to 50%%</a>.
+Dann begann Microsoft, zusammen mit seinem Windows-Betriebssystem auch den Internet Explorer zu liefern. Innerhalb von 4 Jahren hatte die Firma 75 %% des Marktes erobert. 1999 waren es bereits 99 %%. Microsoft wurde wegen dieser Entwicklung aufgrund der Kartellgesetze verklagt. Die Firma Netscape beschloss, ihre Codebasis auf Open Source umzustellen, und sie entwickelte <a href="%(mozilla)s">Mozilla</a> auf Non-Profit-Grundlage, bevor sie 2002 Firefox auf den Markt brachte. Firefox wurde entwickelt, um Internet-Usern eine Wahlmöglichkeit zur Verfügung zu stellen. Mozilla hatte nämlich verstanden, dass ein Browser-Monopol nicht im Interesse der User und des öffentlich zugänglichen Internets liegen konnte. 2010 hatten Mozilla Firefox und weitere Firmen den <a href="%(marketshare)s">den Marktanteil von Internet Explorer auf 50%% reduziert</a>
 
 
 ;Other competitors emerged during the late ‘90s and early 2000s, including Opera, Safari, and Google Chrome. Microsoft Edge replaced Internet Explorer with the release of Windows 10 in 2015.
-Other competitors emerged during the late ‘90s and early 2000s, including Opera, Safari, and Google Chrome. Microsoft Edge replaced Internet Explorer with the release of Windows 10 in 2015.
+In den späten 90ern und frühen 2000ern tauchten weitere Konkurrenten auf, darunter Opera, Safari und Google Chrome. Als Windows 10 im Jahr 2015 auf den Markt kam, ersetzte Microsoft Edge den Internet Explorer.
 
 
 ;Browsing the Web Today
-Browsing the Web Today
+So surfen wir heutzutage im Netz
 
 
 ;Today there are just a handful of ways to access the internet. Firefox, Google Chrome, Microsoft Edge, Safari and Opera are the main competitors. Mobile devices have emerged during the past decade as the preferred way to access the internet. Today, most internet users only use mobile browsers and <a href="%(applications)s">applications</a> to get online. Mobile versions of the major browsers are available for iOS and Android devices. While these apps are very useful for specific purposes, they only provide limited access to the web.
-Today there are just a handful of ways to access the internet. Firefox, Google Chrome, Microsoft Edge, Safari and Opera are the main competitors. Mobile devices have emerged during the past decade as the preferred way to access the internet. Today, most internet users only use mobile browsers and <a href="%(applications)s">applications</a> to get online. Mobile versions of the major browsers are available for iOS and Android devices. While these apps are very useful for specific purposes, they only provide limited access to the web.
+Heute gibt es nur wenige Möglichkeiten, auf das Internet zuzugreifen. Die Hauptkonkurrenten sind Firefox, Google Chrome, Microsoft Edge, Safari und Opera. Im letzten Jahrzehnt hat sich herauskristallisiert, dass bevorzugt Mobilgeräte zum Zugriff auf das Internet genutzt werden. Heutzutage verwenden die meisten Internet-User lediglich mobile Browser und <a href="%(applications)s">Apps</a>, um online zu gehen. Für iOS- und Android-Geräte sind mobile Versionen der wichtigsten Browser verfügbar. Diese Apps sind zwar für bestimmte Zwecke sehr nützlich, aber sie ermöglichen nur einen eingeschränkten Zugang zum Internet.
 
 
 ;In the future, the web will likely stray further from its hypertext roots to become a vast sea of interactive experiences. Virtual reality has been on the horizon for decades (at least since the release of Lawnmower Man in 1992 and the Nintendo Virtual Boy in 1995), but the web may finally bring it to the masses. Firefox now has support for <a href="%(vr)s">WebVR and A-Frame</a>, which let developers quickly and easily build virtual reality websites. Most modern mobile devices support <a href="%(vr)s">WebVR</a>, and can easily be used as headsets with simple cardboard cases. A 3D virtual reality web like the one imagined by science fiction author Neal Stephenson may be just around the corner. If that’s the case, the web browser itself may completely disappear and become a true window into another world.
-In the future, the web will likely stray further from its hypertext roots to become a vast sea of interactive experiences. Virtual reality has been on the horizon for decades (at least since the release of Lawnmower Man in 1992 and the Nintendo Virtual Boy in 1995), but the web may finally bring it to the masses. Firefox now has support for <a href="%(vr)s">WebVR and A-Frame</a>, which let developers quickly and easily build virtual reality websites. Most modern mobile devices support <a href="%(vr)s">WebVR</a>, and can easily be used as headsets with simple cardboard cases. A 3D virtual reality web like the one imagined by science fiction author Neal Stephenson may be just around the corner. If that’s the case, the web browser itself may completely disappear and become a true window into another world.
+In Zukunft wird sich das Netz wahrscheinlich noch weiter von seinen Hypertext-Wurzeln entfernen und weitaus mehr interaktive Erlebnisse ermöglichen. Schon seit Jahrzehnten zeichnet sich die virtuelle Realität am Horizont ab. (Dies ist spätestens seit der Markteinführung von Lawnmower Man im Jahr 1992 und von Nintendo Virtual Boy im Jahr 1995 der Fall.) Aber das Internet eröffnet möglicherweise letztendlich auch der Masse die virtuelle Realität. Firefox verfügt jetzt schon über Unterstützung im Bereich <a href="%(vr)s">WebVR und A-Frame</a>. Damit können Entwickler schnell und auf einfache Weise Virtual-Reality-Webseiten bauen. Die meisten modernen Mobilgeräte unterstützen <a href="%(vr)s">WebVR</a> und können problemlos als Headsets mit einfachen Pappkarton-Computergehäusen eingesetzt werden. Möglicherweise steht uns ein 3D-Virtual-Reality-Netz wie in den Vorstellungen des Science Fiction-Autors Neal Stephenson bevor. Wenn das der Fall ist, könnte es sein, dass Internet-Browser selbst komplett verschwinden und zu einem echten Fenster in eine andere Welt werden.
 
 
 ;Whatever the future of the web holds, Mozilla and Firefox will be there for users, ensuring that they have powerful tools to experience the web and all it has to offer. The web is for everyone, and everyone should have control of their online experience. That’s why we give Firefox tools to protect user privacy and we never sell user data to advertisers.
-Whatever the future of the web holds, Mozilla and Firefox will be there for users, ensuring that they have powerful tools to experience the web and all it has to offer. The web is for everyone, and everyone should have control of their online experience. That’s why we give Firefox tools to protect user privacy and we never sell user data to advertisers.
+Was auch immer die Zukunft des Internets bereithält, Mozilla und Firefox werden auch künftig für die User da sein und dafür sorgen, dass ihnen leistungsstarke Tools zur Verfügung stehen, mit denen sie das Web und seinen Möglichkeiten erkunden können. Das Internet ist für alle da und jeder sollte die Kontrolle über sein Online-Erlebnis behalten können. Daher geben wir unseren Usern Tools und Möglichkeiten ihre Privatsphäre zu schützen und verkaufen niemals ihre User-Daten an Werbetreibende.
 
 
 ;Resources
-Resources
+Quellen
 
 
 ;Take control of your browser.
-Take control of your browser.
+Hol dir die Kontrolle über deinen Browser.
 
 
