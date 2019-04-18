@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: https://www-demo5.allizom.org/firefox/67.0/whatsnew/
 
 
@@ -8,7 +9,7 @@ Ustvarite Firefox Račun – Ohranite svoje podatke zasebne, varne in sinhronizi
 
 # HTML page description
 ;Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox Account now – One login – Power and privacy everywhere.
-Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox Account now – One login – Power and privacy everywhere.
+Varno sinhronizirajte gesla, zaznamke in zavihke med svojimi napravami. Izberite Firefox Račun zdaj – ena prijava, moč in zasebnost povsod.
 
 
 ;Congrats! You’re using the latest version of Firefox.
@@ -27,7 +28,7 @@ Prejmite najnovejše novice iz sveta Mozille in Firefoxa naravnost v nabiralnik.
 
 # "More power to you" is an American English idiom wishing someone success in their endeavors, and here is also a play on words saying Firefox gives users more power and control over their web experience. A more literal alternative would be "You have more power with every update"
 ;More power to you with every update
-More power to you with every update
+Z vsako posodobitvijo postanete močnejši
 
 
 ;New to your browser
@@ -36,7 +37,7 @@ Novo v vašem brskalniku
 
 # "upped" means increased or improved
 ;Now you have the power to block video ads that autoplay when you open articles and links. Plus, Firefox has upped your protection against ad trackers.
-Now you have the power to block video ads that autoplay when you open articles and links. Plus, Firefox has upped your protection against ad trackers.
+Zdaj lahko zavrnete samodejno predvajanje video oglasov ob odpiranju člankov in povezav. Poleg tega je Firefox izboljšal zaščito pred sledilci oglasov.
 
 
 ;Now with your Firefox Account
@@ -45,16 +46,16 @@ Zdaj z vašim Firefox Računom
 
 # "Lockbox" is a proper name; it should be capitalized and should not be translated.
 ;Take your passwords everywhere with Lockbox
-Take your passwords everywhere with Lockbox
+Vzemite gesla s seboj z aplikacijo Lockbox
 
 
 ;Securely access passwords you save to your Firefox Account from any device, everywhere you go – now available for both Android and iOS.
-Securely access passwords you save to your Firefox Account from any device, everywhere you go – now available for both Android and iOS.
+Varno dostopajte do gesel, ki jih shranite v svoj račun Firefox, s katerekoli naprave, kamorkoli greste. Zdaj na voljo za Android in iOS.
 
 
 # CTA button
 ;Get the Lockbox App
-Get the Lockbox App
+Prenesite Lockbox
 
 
 ;Put quality content in your Pocket
@@ -62,7 +63,7 @@ Opremite Pocket s kakovostno vsebino
 
 
 ;Read the articles you care about anytime, anywhere (even offline). And try Pocket’s listen feature so you can absorb great content on the go.
-Read the articles you care about anytime, anywhere (even offline). And try Pocket’s listen feature so you can absorb great content on the go.
+Berite članke, ki vas zanimajo, kadarkoli in kjerkoli (tudi brez povezave). Preskusite tudi Pocketovo možnost predvajanja, s katero lahko vsebino poslušate tudi na poti.
 
 
 # CTA button
@@ -76,7 +77,7 @@ Bodite obveščeni o krajah podatkov s storitvijo Monitor
 
 
 ;Find out if your information has been compromised by a data breach – and now you can sign up for alerts about future breaches with a Firefox Account.
-Find out if your information has been compromised by a data breach – and now you can sign up for alerts about future breaches with a Firefox Account.
+Preverite, ali so vaši podatki ogroženi zaradi kraje podatkov – zdaj se lahko s Firefox Računom prijavite na opozorila o prihodnjih krajah.
 
 
 # CTA link points to https://monitor.firefox.com
@@ -90,7 +91,7 @@ Varno delite velike datoteke s storitvijo Send
 
 
 ;Use an encrypted link to safely share large files – up to 2.5GB with a Firefox Account. And you can set when your link expires, so your info doesn’t live in the cloud forever.
-Use an encrypted link to safely share large files – up to 2.5GB with a Firefox Account. And you can set when your link expires, so your info doesn’t live in the cloud forever.
+Za varno deljenje velikih datotek uporabite šifrirano povezavo - do 2,5 GB z računom Firefox. Nastavite lahko, kdaj bo povezava potekla, tako da vaši podatki ne bodo za vedno v oblaku.
 
 
 # CTA link points to https://send.firefox.com
