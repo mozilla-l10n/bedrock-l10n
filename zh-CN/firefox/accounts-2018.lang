@@ -1,5 +1,6 @@
 ## active ##
 ## accounts_2018_qrcodes ##
+## firefox_send_20190420 ##
 ## NOTE: https://www-dev.allizom.org/firefox/accounts/
 
 
@@ -10,7 +11,7 @@
 
 # Used as HTML description
 ;Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox Account now – One login – Power and privacy everywhere.
-Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox Account now – One login – Power and privacy everywhere.
+安全地在不同设备间同步您的密码、书签与标签页。立即注册 Firefox 账号 — 一次登录，强大能力与隐私保护随身相伴。
 
 
 # String is obsolete. Do not remove.
@@ -20,7 +21,7 @@ Securely sync your passwords, bookmarks and tabs across all your devices. Get a 
 
 
 ;One login. Power and privacy everywhere.
-One login. Power and privacy everywhere.
+一次登录，强大能力与隐私保护随身相伴。
 
 
 # String is obsolete. Do not remove.
@@ -58,7 +59,7 @@ One login. Power and privacy everywhere.
 
 
 ;No more getting locked out of apps and websites. Lockbox secures all the passwords you’ve saved in Firefox and gives you easy access across all your Android and iOS devices.
-No more getting locked out of apps and websites. Lockbox secures all the passwords you’ve saved in Firefox and gives you easy access across all your Android and iOS devices.
+不再被应用程序或网站拒之门外。 Lockbox 可保护您保存在 Firefox 的所有密码，并可让您在 Android 和 iOS 设备上轻松访问。
 
 
 # String is obsolete. Do not remove.
@@ -147,18 +148,18 @@ No more getting locked out of apps and websites. Lockbox secures all the passwor
 
 
 ;Share files safely – and privately
-Share files safely – and privately
+安全而私密地分享文件
 
 
 ;Send docs and videos — anything up to 2.5 GB — with a private, encrypted link that ‘self-destructs’ when you say so. And since your large files get deleted from the cloud when you’re done sharing, your stuff doesn’t hang around online forever.
-Send docs and videos — anything up to 2.5 GB — with a private, encrypted link that ‘self-destructs’ when you say so. And since your large files get deleted from the cloud when you’re done sharing, your stuff doesn’t hang around online forever.
+使用加密链接安全地发送文档和视频 - 登录 Firefox 账户最多可达 2.5GB，并可到期自焚。分享完成后文件自动从云中删除，如此您的资料将不会永远存于云端。
 
 
 ;Try Firefox Send
-Try Firefox Send
+试用 Firefox Send
 
 
 ;Only in Firefox.
-Only in Firefox.
+只在 Firefox。
 
 
