@@ -1,4 +1,5 @@
 ## active ##
+## content_blocking_65_1511420 ##
 ## remove_fastblock_1499589 ##
 ## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_201602 ##
@@ -18,21 +19,21 @@
 
 
 ;If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
-If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+Αν η φραγή περιεχομένου σάς εμποδίζει να χρησιμοποιήσετε μια αξιόπιστη ιστοσελίδα, επιλέξτε το “Προσωρινή απενεργοποίηση φραγής”.
 
 
 # String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily” in this panel.
-If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily” in this panel.
+Αν η φραγή περιεχομένου σάς εμποδίζει να χρησιμοποιήσετε μια αξιόπιστη ιστοσελίδα, μπορείτε να επιλέξετε το “Προσωρινή απενεργοποίηση φραγής” σε αυτό το παράθυρο.
 
 
 ;If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
-If content blocking prevents you from using a site you trust, select “Turn off Blocking for This Site.”
+Αν η φραγή περιεχομένου σάς εμποδίζει να χρησιμοποιήσετε μια αξιόπιστη ιστοσελίδα, επιλέξτε το “Απενεργοποίηση φραγής για αυτή την ιστοσελίδα”.
 
 
 # String is obsolete. Do not remove.
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site” in this panel.
-If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site” in this panel.
+Αν η φραγή περιεχομένου σάς εμποδίζει να χρησιμοποιήσετε μια αξιόπιστη ιστοσελίδα, μπορείτε να επιλέξετε το “Απενεργοποίηση φραγής για αυτή την ιστοσελίδα” σε αυτό το παράθυρο.
 
 
 ;How Tracking Protection works
@@ -156,12 +157,12 @@ If content blocking prevents you from using a site you trust, you can select “
 
 
 ;To restore content blocking for a site, select “Turn on Blocking for This Site.“
-To restore content blocking for a site, select “Turn on Blocking for This Site.“
+Για να επαναφέρετε τη φραγή περιεχομένου σε μια ιστοσελίδα, επιλέξτε το “Ενεργοποίηση φραγής για αυτή την ιστοσελίδα“.
 
 
 # String is obsolete. Do not remove.
 ;To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
-To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
+Για να επαναφέρετε τη φραγή περιεχομένου σε μια ιστοσελίδα, επιλέξτε το “Ενεργοποίηση φραγής για αυτή την ιστοσελίδα“ στο παράθυρο πίνακα ελέγχου.
 
 
 ;Content Blocking
@@ -174,7 +175,7 @@ To restore content blocking for a site, select “Enable Blocking For This Site�
 
 # String is obsolete, do not remove
 ;Content blocking can help pages load faster, but it can also keep parts of pages or entire pages from loading.
-Content blocking can help pages load faster, but it can also keep parts of pages or entire pages from loading.
+Η φραγή περιεχομένου μπορεί να επιταχύνει τη φόρτωση των σελίδων, αλλά μπορεί επίσης να εμποδίσει τη φόρτωση μερικών ή όλων των μερών μιας σελίδας.
 
 
 ;Thanks for learning about Content Blocking.
@@ -194,11 +195,11 @@ Content blocking can help pages load faster, but it can also keep parts of pages
 
 
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily“ in this panel.
-If content blocking prevents you from using a site you trust, you can select “Disable Blocking Temporarily“ in this panel.
+Αν η φραγή περιεχομένου σάς εμποδίζει να χρησιμοποιήσετε μια αξιόπιστη ιστοσελίδα, μπορείτε να επιλέξετε το “Προσωρινή απενεργοποίηση φραγής“ σε αυτό το παράθυρο.
 
 
 ;If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site“ in this panel.
-If content blocking prevents you from using a site you trust, you can select “Disable Blocking For This Site“ in this panel.
+Αν η φραγή περιεχομένου σάς εμποδίζει να χρησιμοποιήσετε μια αξιόπιστη ιστοσελίδα, μπορείτε να επιλέξετε το “Απενεργοποίηση φραγής για αυτή την ιστοσελίδα“ σε αυτό το παράθυρο.
 
 
 # HTML page title

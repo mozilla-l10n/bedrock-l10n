@@ -1,8 +1,11 @@
 ## active ##
+## download_thanks_newsletter_092018 ##
 ## firefox_new_platform_link_text ##
 ## firefox_new_try_again_link_020818 ##
 ## firefox_quantum_new_headline ##
 ## firstrun_email_only_form ##
+## fxnew_account_032019 ##
+## truly_removal_2019 ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/new/
 
 
@@ -19,7 +22,7 @@ Koristite beta verziju Firefoxa.
 
 
 ;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
+Koristite nesiguran, zastarjeli operativni sistem <a href="%(url)s">koji više ne podržava Firefox</a>.
 
 
 ;The new <strong>Firefox</strong>
@@ -68,7 +71,7 @@ Napredne opcije instalacije i druge platforme
 
 # Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings?
 ;Fix a problem
-Fix a problem
+Riješi problem
 
 
 ;Keep up with<br> all things Firefox.
@@ -92,27 +95,27 @@ Preuzmite Firefox <span>za Linux</span>
 
 # The phrase “Now get everything else Firefox” is in specific reference to a Firefox account, which unlocks access to all our new products and services.
 ;You’ve already got the Firefox browser. Now get everything else Firefox.
-You’ve already got the Firefox browser. Now get everything else Firefox.
+Već imate Firefox. Sada nabavite druge Firefox usluge.
 
 
 ;Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
-Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
+Sinhronizirajte zabilješke, šaljite tabove, sačuvajte u Pocket i još mnogo toga sa Firefox računom.
 
 
 ;Get a Firefox Account
-Get a Firefox Account
+Napravite Firefox račun
 
 
 ;Already have an account?
-Already have an account?
+Već imate račun?
 
 
 ;Sign In
-Sign In
+Prijavi se
 
 
 ;Download Anyway
-Download Anyway
+Preuzmi svakako
 
 
 # Link points to /firefox/all/
@@ -136,47 +139,47 @@ Vaše preuzimanje treba automatski započeti. Ako se to ne desi, <a id="%(id)s" 
 
 
 ;Learn how to make Firefox even smarter, faster and more secure.
-Learn how to make Firefox even smarter, faster and more secure.
+Saznajte kako da učinite Firefox još pametnijim, bržim i sigurnijim.
 
 
 ;Get informative tips, tricks and product announcements delivered to your inbox.
-Get informative tips, tricks and product announcements delivered to your inbox.
+Nabavite informativne savjete, trikove i obavijesti o proizvodima isporučene u vašu pristiglu poštu.
 
 
 ;Enter your email address
-Enter your email address
+Unesite vašu email adresu
 
 
 ;How will Mozilla use my email?
-How will Mozilla use my email?
+Kako će Mozilla koristiti moj email?
 
 
 ;Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
+Mozilla ne samo da cijeni vašu privatnost i sigurnost emaila – to je dio našeg <a href="%(manifesto)s">Manifesta</a>: “Sigurnost i privatnost pojedinaca na internetu su temeljni i ne smiju se tretirati kao neobavezno.” <a href="%(principles)s">O principima privatnosti podataka možete saznati ovdje</a>.
 
 
 ;What we want you to know:
-What we want you to know:
+Šta želimo da znate:
 
 
 ;You don’t need to give us your email to download and use Firefox.
-You don’t need to give us your email to download and use Firefox.
+Ne morate nam slati email da biste preuzeli i koristili Firefox.
 
 
 ;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
+Tražili smo vaš email jer naše istraživanje pokazuje da ljudi koji dobiju uvodno iskustvo čine više i bolje sa Firefoxom.
 
 
 ;You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
+Možete očekivati email osmišljen da vam pomogne da optimizujete Firefox da radi najbolje za vas, saznate više o privatnosti i sigurnosti i saznate kako najbolje iskoristiti svoje vrijeme na webu.
 
 
 ;You can unsubscribe anytime, for any reason.
-You can unsubscribe anytime, for any reason.
+Možete se odjaviti bilo kada, iz bilo kojeg razloga.
 
 
 ;We will not share, sell or use your email for any other purposes.
-We will not share, sell or use your email for any other purposes.
+Nećemo dijeliti, prodavati ili koristiti vaš email za bilo koju drugu svrhu.
 
 
 ;Let’s do this!
@@ -231,7 +234,7 @@ Snažna privatnost
 
 
 ;Private Browsing with Tracking Protection
-Private Browsing with Tracking Protection
+Privatno pretraživanje sa zaštitom od praćenja
 
 
 # String is obsolete. Do not remove.
