@@ -5,6 +5,7 @@
 ## firefox_quantum_new_headline ##
 ## firstrun_email_only_form ##
 ## fxnew_account_032019 ##
+## platform_strings_04232019 ##
 ## truly_removal_2019 ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/new/
 
@@ -265,17 +266,17 @@ Mozilla не толькі цэніць прыватнасць і бяспеку 
 
 # /firefox/windows/ social sharing description
 ;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
-Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+Хутчэйшая загрузка старонак, меншае спажыванне памяці, і мноства функцый, новы Firefox для Windows ужо тут.
 
 
 # /firefox/mac/ social sharing description
 ;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
-Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+Хутчэйшая загрузка старонак, меншае спажыванне памяці, і мноства функцый, новы Firefox для Mac ужо тут.
 
 
 # /firefox/linux/ social sharing description
 ;Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
-Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+Хутчэйшая загрузка старонак, меншае спажыванне памяці, і мноства функцый, новы Firefox для Linux ужо тут.
 
 
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
@@ -283,11 +284,11 @@ Faster page loading, less memory usage and packed with features, the new Firefox
 
 
 ;Privacy comes first
-Privacy comes first
+Прыватнасць на першым месцы
 
 
 ;Privacy - more than a policy
-Privacy - more than a policy
+Прыватнасць — больш, чым проста палітыка
 
 
 ;2x Faster
@@ -295,15 +296,15 @@ Privacy - more than a policy
 
 
 ;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
-Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+Firefox не шпіёніць за пошукам. Мы затрымліваем трэцебаковыя кукі сачэння і даем вам поўны кантроль.
 
 
 ;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
-Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+Firefox працуе хутка і дбае пра вашы дадзеныя — ніякіх рэкламных трэкераў, ніякага запаволення.
 
 
 ;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
-Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+Ваша жыццё, ваш справа. Firefox блакуе трэцебаковыя кукі сачэння на Linux.
 
 
 ;The best Firefox ever
@@ -311,7 +312,7 @@ Your life, your business. Firefox blocks third-party tracking cookies on Linux.
 
 
 ;Common sense privacy
-Common sense privacy
+Здаровасэнсавая прыватнасць
 
 
 ;Lightweight
@@ -319,15 +320,15 @@ Common sense privacy
 
 
 ;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
-Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+Атрымайце хуткасць і бяспеку. Firefox хуткі на Mac, таму што не асочвае вашы рухі.
 
 
 ;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
-Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+Жывіце па-свойму, Firefox не падглядвае. Выбірайце, чым дзяліцца, і калі абагульваць.
 
 
 ;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
-Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+Хуткасць, сустракай бяспеку. Firefox удвая хутчэйшы і спажывае на 30% менш памяці, чым Chrome.
 
 
 ;Uses 30% less memory than Chrome
@@ -335,15 +336,15 @@ Speed, meet security. Firefox is two times faster with 30% less memory than Chro
 
 
 ;Block trackers
-Block trackers
+Блакуйце трэкеры
 
 
 ;Open source
-Open source
+Адкрыты зыходны код
 
 
 ;Seamless setup
-Seamless setup
+Бязшвовае ўсталяванне
 
 
 ;Powerfully private
@@ -351,15 +352,15 @@ Seamless setup
 
 
 ;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
-Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+Будзь гаспадаром у сваёй вобласці з строгім блакаваннем змесціва. Прыбяры ўсе кукі і трэкеры.
 
 
 ;Look under the hood. Like Linux, Firefox features are open source.
-Look under the hood. Like Linux, Firefox features are open source.
+Зазірніце пад капот. Як і Linux, Firefox мае адкрыты зыходны код.
 
 
 ;Easy migration of preferences and bookmarks when you download Firefox for Windows.
-Easy migration of preferences and bookmarks when you download Firefox for Windows.
+Лёгкі перанос пераваг і закладак, калі вы сцягваеце Firefox для Windows.
 
 
 ;Private Browsing with Tracking Protection

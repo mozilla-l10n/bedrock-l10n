@@ -4,7 +4,7 @@ Navigare
 
 # Footer link points to https://www.mozilla.org/privacy/websites/
 ;Website Privacy Notice
-Website Privacy Notice
+Informare despre confidențialitate a site-ului web
 
 
 # Used for the navigation menu, points to /firefox/channel
@@ -316,12 +316,12 @@ Vizitează organizația-mamă nonprofit a Corporației Mozilla, <a href="%(url)s
 
 # New footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
-Porțiuni din acest conținut sunt scrise între ©1998–%(current_year)s de colaboratori individuali mozilla.org. Conținut disponibil sub o <a rel="license" href="%(url)s">licență Creative Commons</a>.
+Porțiuni din acest conținut sunt ©1998–%(current_year)s de colaboratori individuali mozilla.org. Conținut disponibil sub o <a rel="license" href="%(url)s">licență Creative Commons</a>.
 
 
 # Previous footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Porțiuni din acest conținut sunt scrise între ©1998–%(current_year)s de colaboratori individuali mozilla.org. Conținut disponibil sub o <a href="%(url)s">licență Creative Commons</a>.
+Porțiuni din acest conținut sunt ©1998–%(current_year)s de colaboratori individuali mozilla.org. Conținut disponibil sub o <a href="%(url)s">licență Creative Commons</a>.
 
 
 # Footer string
@@ -331,7 +331,7 @@ Contribuie la acest site
 
 # Used in footer, links to the source code of the page currently displayed.
 ;Source code for this page
-Cod sursă pentru această pagină
+Cod-sursă pentru această pagină
 
 
 # Top menu item
@@ -598,7 +598,7 @@ Ups! Asigură-te că ai introdus o adresă de e-mail validă.
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-Sunt de acord ca Mozilla să îmi prelucreze informațiile, conform explicațiilor din <a href="%s">această Politică de confidențialitate</a>
+Sunt de acord ca Mozilla să îmi gestioneze informațiile, conform explicațiilor din <a href="%s">această Politică de confidențialitate</a>
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
@@ -786,7 +786,7 @@ Ascunde-le pe toate
 
 # Navigation link points to /firefox/developer
 ;Developer Hub
-Hubul dezvoltatorilor
+Centrul dezvoltatorilor
 
 
 # Naviation link points to https://research.mozilla.org
