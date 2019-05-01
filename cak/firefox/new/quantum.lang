@@ -37,7 +37,7 @@ Firefox respects <span>your privacy on Mac.</span>
 
 # /firefox/linux/ main page title.
 ;Firefox for Linux
-Firefox for Linux
+Firefox richin Linux
 
 
 ;The new <strong>Firefox</strong>
@@ -45,7 +45,7 @@ Ri k'ak'a' <strong>Firefox</strong>
 
 
 ;Own your online life.
-Own your online life.
+Katok rajaw ak'aslem pa k'amab'ey.
 
 
 ;Fast for good.
@@ -201,17 +201,17 @@ Tixim rik'in ri Firefox pan oyonib'äl:
 
 # /firefox/windows/ HTML page title
 ;Download Mozilla Firefox for Windows
-Download Mozilla Firefox for Windows
+Taqasaj Mozilla Firefox richin Windows
 
 
 # /firefox/mac/ HTML page title
 ;Download Mozilla Firefox for Mac
-Download Mozilla Firefox for Mac
+Taqasaj Mozilla Firefox richin Mac
 
 
 # /firefox/linux/ HTML page title
 ;Download Mozilla Firefox for Linux
-Download Mozilla Firefox for Linux
+Taqasaj Mozilla Firefox richin Linux
 
 
 # HTML page title prefix
@@ -226,17 +226,17 @@ Sipan chi Ajk'amaya'l Okik'amaya'l
 
 # /firefox/windows/ HTML page description
 ;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
-Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+Taqasaj Mozilla Firefox richin Windows, jun sipan okik'amaya'l. Firefox nuk'un ruma jun ajronojel moloj ri majun ch'akoj rutzeqelib'en, ri nusamajij rij chi ri winaqi' tik'oje' kiq'ij pa ri k'amab'ey. ¡Tak'ulu' Firefox richin Windows wakami!
 
 
 # /firefox/mac/ HTML page description
 ;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
-Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+Taqasaj Mozilla Firefox richin Mac, jun sipan okik'amaya'l. Firefox nuk'un ruma jun ajronojel moloj ri majun ch'akoj rutzeqelib'en, ri nusamajij rij chi ri winaqi' tik'oje' kiq'ij pa ri k'amab'ey. ¡Tak'ulu' Firefox richin Mac wakami!
 
 
 # /firefox/linux/ HTML page description
 ;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
-Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+Taqasaj Mozilla Firefox richin Linux, jun sipan okik'amaya'l. Firefox nuk'un ruma jun ajronojel moloj ri majun ch'akoj rutzeqelib'en, ri nusamajij rij chi ri winaqi' tik'oje' kiq'ij pa ri k'amab'ey. ¡Tak'ulu' Firefox richin Linux wakami!
 
 
 # HTML page description
@@ -246,17 +246,17 @@ Taqasaj Mozilla Firefox, jun sipan okik'amaya'l. Firefox nuk'un ruma jun ajronoj
 
 # /firefox/windows/ social sharing title
 ;Download the fastest Firefox for Windows ever
-Download the fastest Firefox for Windows ever
+Tiqasäx ri Firefox richin Windows, ri janila aninäq chuqa' majub'ey titz'et
 
 
 # /firefox/mac/ social sharing title
 ;Download the fastest Firefox for Mac ever
-Download the fastest Firefox for Mac ever
+Tiqasäx ri Firefox richin Mac, ri janila aninäq majub'ey titz'et
 
 
 # /firefox/linux/ social sharing title
 ;Download the fastest Firefox for Linux ever
-Download the fastest Firefox for Linux ever
+Tiqasäx ri Firefox richin Linux, ri janila aninäq majub'ey titz'et
 
 
 ;Download the fastest Firefox ever
@@ -265,17 +265,17 @@ Tiqasäx ri Firefox, ri janila chi aninäq majub'ey titz'et
 
 # /firefox/windows/ social sharing description
 ;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
-Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+Ri rusamajib'exik ri aninäq ruxaq, rokisaxik jub'a' tzatzq'ob'äl chuqa' nojinäq chi b'anikil, wawe' k'o wi ri k'ak'a' Firefox richin Windows.
 
 
 # /firefox/mac/ social sharing description
 ;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
-Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+Ri rusamajib'exik ri aninäq ruxaq, rokisaxik jub'a' tzatzq'ob'äl chuqa' nojinäq chi b'anikil, wawe' k'o wi ri k'ak'a' Firefox richin Mac.
 
 
 # /firefox/linux/ social sharing description
 ;Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
-Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+Ri rusamajib'exik ri aninäq ruxaq, rokisaxik jub'a' tzatzq'ob'äl chuqa' nojinäq chi b'anikil, wawe' k'o wi ri k'ak'a' Firefox richin Linux.
 
 
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
@@ -283,11 +283,11 @@ Ri rusamajib'exik ri aninäq ruxaq, rokisaxik jub'a' tzatzq'ob'äl chuqa' nojin�
 
 
 ;Privacy comes first
-Privacy comes first
+Nab'ey ri ichinanem
 
 
 ;Privacy - more than a policy
-Privacy - more than a policy
+Ichinanem - nïm chuwäch ri na'ojil
 
 
 ;2x Faster
@@ -335,11 +335,11 @@ Nrokisaj 30% jub'a' tzatzq'ob'äl chuwäch Chrome
 
 
 ;Block trackers
-Block trackers
+Keq'at ojqanela'
 
 
 ;Open source
-Open source
+Jaqäl xe'el
 
 
 ;Seamless setup
