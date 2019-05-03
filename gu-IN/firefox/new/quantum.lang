@@ -35,7 +35,7 @@ Firefox respects <span>your privacy on Mac.</span>
 
 # /firefox/linux/ main page title.
 ;Firefox for Linux
-Firefox for Linux
+Linux માટે Firefox
 
 
 ;The new <strong>Firefox</strong>
@@ -118,11 +118,11 @@ Already have an account?
 
 
 ;Sign In
-Sign In
+સાઇન ઇન કરો
 
 
 ;Download Anyway
-Download Anyway
+કોઈપણ રીતે ડાઉનલોડ કરો
 
 
 # Link points to /firefox/all/
@@ -199,17 +199,17 @@ Mozilla ફક્ત તમારી ઇમેઇલ ગોપનીયતા �
 
 # /firefox/windows/ HTML page title
 ;Download Mozilla Firefox for Windows
-Download Mozilla Firefox for Windows
+Windows માટે Mozilla Firefox ડાઉનલોડ કરો
 
 
 # /firefox/mac/ HTML page title
 ;Download Mozilla Firefox for Mac
-Download Mozilla Firefox for Mac
+Mac માટે Mozilla Firefox ડાઉનલોડ કરો
 
 
 # /firefox/linux/ HTML page title
 ;Download Mozilla Firefox for Linux
-Download Mozilla Firefox for Linux
+Linux માટે Mozilla Firefox ડાઉનલોડ કરો
 
 
 # HTML page title prefix
@@ -249,12 +249,12 @@ Download the fastest Firefox for Windows ever
 
 # /firefox/mac/ social sharing title
 ;Download the fastest Firefox for Mac ever
-Download the fastest Firefox for Mac ever
+Mac માટે સૌથી ઝડપી Firefox ડાઉનલોડ કરો
 
 
 # /firefox/linux/ social sharing title
 ;Download the fastest Firefox for Linux ever
-Download the fastest Firefox for Linux ever
+Linux માટે સૌથી ઝડપી Firefox ડાઉનલોડ કરો
 
 
 ;Download the fastest Firefox ever
@@ -281,11 +281,11 @@ Faster page loading, less memory usage and packed with features, the new Firefox
 
 
 ;Privacy comes first
-Privacy comes first
+ગોપનીયતા પ્રથમ આવે છે
 
 
 ;Privacy - more than a policy
-Privacy - more than a policy
+ગોપનીયતા - નીતિ કરતાં વધુ
 
 
 ;2x Faster
@@ -301,7 +301,7 @@ Firefox moves fast and treats your data with care - no ad tracking and no slowdo
 
 
 ;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
-Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+તમારું જીવન, તમારો વ્યવસાય. Firefox Linux પર તૃતીય પક્ષ ટ્રેકિંગ કુકીઝને અવરોધિત કરે છે.
 
 
 ;The best Firefox ever
