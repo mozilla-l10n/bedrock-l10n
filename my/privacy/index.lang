@@ -1,3 +1,7 @@
+## active ##
+## privacy_email_2019 ##
+## updates-052018 ##
+## updates-072018 ##
 ## NOTE: demo page is available at https://www-dev.allizom.org/privacy/
 
 
@@ -14,7 +18,7 @@ Mozilla ကို ဆက်သွယ်ရန်
 
 
 ;<a href="%(dsar)s">See here for Data Subject Access Requests.</a>
-<a href="%(dsar)s">See here for Data Subject Access Requests.</a>
+<a href="%(dsar)s">Data Subject Access Requests အတွက် ဒီနေရာတွင် ကြည့်ပါ။</a>
 
 
 ;Data Privacy Principles
@@ -24,13 +28,13 @@ Mozilla ကို ဆက်သွယ်ရန်
 # Links to https://www.mozilla.org/privacy/principles/
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Mozilla ၏ <a href="%(principles)s">Data Privacy Principles</a> သည် အင်တာနက်အသုံးပြုသူတိုင်းကို လေးစားကာကွယ်သည့် ကျွန်ုပ်တို့၏ ဆောင်ရွက်ချက်များကို လှုံဆော်လမ်းညွှန်မှုပေးသည်။ ၎င်းအခြေခံသဘောတရားများက Firefox နှင့် ကျွန်ုပ်တို့၏ ထုတ်ကုန်အားလုံးကို မည်သို့ ပုံဖော်သည်ဆိုတာကို ယခု <a href="%(faq)s">FAQ</a> တွင် ကြည့်ရှုပါ။
 
 
 # This string is obsolete. Do not remove.
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Mozilla ၏ Data Privacy Principles သည် အင်တာနက်အသုံးပြုသူတိုင်းကို လေးစားကာကွယ်သည့် ကျွန်ုပ်တို့၏ ဆောင်ရွက်ချက်များကို လှုံဆော်လမ်းညွှန်မှုပေးသည်။ ၎င်းအခြေခံသဘောတရားများက Firefox နှင့် ကျွန်ုပ်တို့၏ ထုတ်ကုန်အားလုံးကို မည်သို့ ပုံဖော်သည်ဆိုတာကို ယခု <a href="%(faq)s">FAQ</a> တွင် ကြည့်ရှုပါ။
 
 
 # This string is obsolete. Do not remove.
@@ -48,7 +52,7 @@ Mozilla သည် သင့်အင်တာနက်အတွေ့အကြ�
 
 
 ;Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
-Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+ကျွန်ုပ်တို့၏ ကိုယ်ရေးလုံခြုံမှုဆိုင်ရာ အသိပေးချက်များက ဖော်ပြပါသည်၊ အချက်အလက်ကို ထုတ်ကုန်များနှင့် ဝန်ဆောင်မှုများက လက်ခံခြင်း၊ မျှဝေခြင်းနှင့် အသုံးပြုခြင်း တို့အပြင် သင့်ထံတွင် ရွေးချယ်ခွင့်များ ရှိစေခြင်း။
 
 
 # This string is obsolete. Do not remove.
@@ -73,11 +77,11 @@ Fire TV အတွက် Firefox
 
 
 ;As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
-As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
+ပွင့်လင်းရင်းမြစ်စီမံကိန်း တစ်ခု ဖြစ်သောကြောင့် မြင်သာမှုနှင့် ပွင့်လင်းမှုတို့သည် Mozilla ၏ အခြေခံသဘောတရားများ၏ မရှိမဖြစ်အစိတ်အပိုင်း ဖြစ်ကြသည်။ ကျွန်ုပ်တို့၏ codebases သည် ပွင့်လင်းပြီး စာရင်းစစ်ဝင်နိုင်သည်။ ကျွန်ုပ်တို့၏ development work သည် ပွင့်လင်းသည်။ ကျွန်ုပ်တို့၏ နှစ်နှစ်တစ်ကြိမ် ထုတ်ပြန်သော <a href="%(report)s">Transparency Report</a> သည် ၎င်းအခြေခံသဘောတရားတို့အပေါ် ကျွန်ုပ်တို့၏ တစိုက်မတ်မတ် ဆောင်ရွက်ချက်ကို ဖော်ပြနေသည်။
 
 
 ;To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
-To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
+ကိုယ်ရေးလုံခြုံမှုမူဝါဒများအတွက် လျာထားသော ပြုပြင်ပြောင်းလဲမှုများကို ပြန်လှန်စစ်ဆေးရန်နှင့် မှတ်ချက်ပေးရန် <a href="%(group)s"> Mozilla စီမံအဖွဲ့ သို့ စာရင်းသွင်းပါ</a>။
 
 
 # This string is obsolete. Do not remove.
@@ -86,7 +90,7 @@ To review and comment on proposed changes to our privacy policies, <a href="%(gr
 
 
 ;Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
-Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
+လက်ရှိ ဆောင်ရွက်နေသော ကိုယ်ရေးလုံခြုံမှုနှင့် လုံခြုံရေးဆိုင်ရာ အများဆိုင်မူဝါဒ အကြောင်း <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a> တွင် ဖတ်ရှုပါ။
 
 
 # This string is obsolete. Do not remove.
