@@ -24,17 +24,17 @@
 
 # /firefox/windows/ main page title. Span is for visually formatting.
 ;Firefox fights for you <span>on Windows.</span>
-Firefox fights for you <span>on Windows.</span>
+Firefox आपल्यासाठी <span>Windows वर</span> लढा देत आहे.
 
 
 # /firefox/mac/ main page title. Span is for visually formatting.
 ;Firefox respects <span>your privacy on Mac.</span>
-Firefox respects <span>your privacy on Mac.</span>
+Firefox आपल्या गोपनीयतेचा आदर <span>Mac वर</span> करते.
 
 
 # /firefox/linux/ main page title.
 ;Firefox for Linux
-Firefox for Linux
+Linux साठी Firefox
 
 
 ;The new <strong>Firefox</strong>
@@ -42,7 +42,7 @@ Firefox for Linux
 
 
 ;Own your online life.
-Own your online life.
+आपल्या ऑनलाइन आयुष्याचे मालक व्हा.
 
 
 ;Fast for good.
@@ -77,7 +77,7 @@ FIrefox प्रस्थापित करण्यासाठी <a href="%
 
 # Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings?
 ;Fix a problem
-Fix a problem
+एक समस्या निराकरण करा
 
 
 ;Keep up with<br> all things Firefox.
@@ -101,7 +101,7 @@ Firefox च्या सर्व गोष्टींसोबत<br> जा�
 
 # The phrase “Now get everything else Firefox” is in specific reference to a Firefox account, which unlocks access to all our new products and services.
 ;You’ve already got the Firefox browser. Now get everything else Firefox.
-You’ve already got the Firefox browser. Now get everything else Firefox.
+आपल्याकडे आधीपासूनच Firefox ब्राउझर आहे. आता सर्वकाही Firefox मिळवा.
 
 
 ;Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
@@ -332,11 +332,11 @@ Chrome पेक्षा 30% कमी मेमरी वापरतो
 
 
 ;Block trackers
-Block trackers
+ट्रॅकर ब्लॉक करा
 
 
 ;Open source
-Open source
+मुक्त स्रोत
 
 
 ;Seamless setup
