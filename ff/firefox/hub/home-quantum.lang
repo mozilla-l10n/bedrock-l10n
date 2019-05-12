@@ -12,7 +12,7 @@ Responsive engine, less memory usage and packed with features. Download for desk
 
 
 ;The New Firefox
-Firefox keso oo
+Firefox keso pul
 
 
 ;Meet Firefox Quantum.
@@ -20,7 +20,7 @@ Hawru e Firefox Quantum.
 
 
 ;Fast for good.
-Yaawii hankadi.
+Yaawii haa cay.
 
 
 ;Download now
@@ -80,7 +80,7 @@ Crazy <a href="%(url)s">powerful browser engine</a>? Check. Less time waiting ar
 
 
 ;<a href="%(url)s">Less memory usage</a> means more space for your computer to keep running smoothly. Your other programs will thank you.
-<a href="%(url)s">Less memory usage</a> means more space for your computer to keep running smoothly. Your other programs will thank you.
+<a href="%(url)s">Kuutoragol seeɗa teskorde</a> firti ko ordinateer maa jojoto boowal jaajngal ngam dogde no ɓuri teeyrude. Jaaɓnirɗe maa goɗɗe ɗee maa njaar-ma.
 
 
 ;Smooth browsing
@@ -97,11 +97,11 @@ Firefox screenshot showing many open tabs and browser windows running simultaneo
 
 
 ;Switch from Chrome to Firefox in just a few minutes
-Switch from Chrome to Firefox in just a few minutes
+Lomtin Chrome faade e Firefox e hojomaaji seeɗa tan
 
 
 ;Switching to Firefox is fast, easy and risk-free. Firefox imports your bookmarks, autofills, passwords and preferences from Chrome.
-Switching to Firefox is fast, easy and risk-free. Firefox imports your bookmarks, autofills, passwords and preferences from Chrome.
+Faatude to Firefox ena yaawi, weeɓi tee alaa caɗe. Firefox jiggitto maantore maa, binndi jaaji maa, finndeeji maa e cuɓoraaɗe gonɗe to Chrome.
 
 
 ;Moving browsers? We got you.
@@ -129,7 +129,7 @@ Aslol
 
 
 ;Seriously Private Browsing
-Seriously Private Browsing
+Banngagol Suturo Nuunungol
 
 
 ;The most powerful private browsing mode with added tracking protection.
@@ -153,7 +153,7 @@ Loowtugol hello ɓurngol yaawde
 
 
 ;By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages load up to 44%% faster</a>. Now that’s a win-win.
-By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages load up to 44%% faster</a>. Now that’s a win-win.
+So falaade won e ɓaŋŋe a dokkore buggooje banngagol, <a href="%(url)s">loowagol kelle ɓeydiima yaawde 44%</a>. Wadde ko ngañaari baŋ-yoo-baŋ.
 
 
 ;Firefox Quantum features
@@ -212,20 +212,20 @@ Set up Firefox your way. Drag and drop features in and out of your toolbar for e
 
 
 ;Sync all your devices with a Firefox Account
-Sync all your devices with a Firefox Account
+Sanngoɗin kaɓirɗi maa fof huutoraade Konte Firefox
 
 
 ;Take your privacy, passwords, and bookmarks with you wherever you go.
-Take your privacy, passwords, and bookmarks with you wherever you go.
+Nawor suturo maa, finndeeji e maantore kala ɗo njahataa.
 
 
 ;Learn more about Firefox Accounts
-Learn more about Firefox Accounts
+Ɓeydu humpito baɗte Konte Firefox
 
 
 # String is obsolete. Do not remove.
 ;Sync your devices
-Yahdin masiŋon maa
+Sanngoɗin kaɓirɗi maa
 
 
 # String is obsolete. Do not remove.
@@ -238,7 +238,7 @@ Image of Gif shared from desktop to mobile using the Send Tab feature.
 
 
 ;Browse for good
-Wanngo hankadi
+Wanngo haa cay
 
 
 ;Firefox is made by Mozilla, the non-profit champions of a healthy internet. Mozilla also tackles issues like privacy, misinformation and trolling by investing in fellowships, campaigns and new technologies designed to make the internet healthier.
