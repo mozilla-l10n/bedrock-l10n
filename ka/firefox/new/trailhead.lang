@@ -1,128 +1,129 @@
+## active ##
 ## NOTE: Demo page at https://www-demo1.allizom.org/firefox/new/
 
 
 # HTML page title prefix
 ;Download Firefox
-Download Firefox
+ჩამოტვირთეთ Firefox
 
 
 # HTML page title
 ;Free Web Browser
-Free Web Browser
+უფასო ბრაუზერი
 
 
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
-Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
+ჩამოტვირთეთ Mozilla Firefox, უფასო ბრაუზერი. Firefox შექმნილია საერთაშორისო არამომგებიანი დაწესებულების მიერ, რომელსაც სურს ხალხს დაუბრუნოს, თავიანთი ინტერნეტცხოვრების სრულად განკარგვის უფლება. გადმოწერეთ Firefox Windows-ზე, macOS-ზე, Linux-ზე, Android-სა და iOS-ზე ახლავე!
 
 
 # Page heading
 ;Download the fastest Firefox ever
-Download the fastest Firefox ever
+ჩამოტვირთეთ უსწრაფესი Firefox
 
 
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-Faster page loading, less memory usage and packed with features, the new Firefox is here.
+გვერდების მეტად სწრაფი გახსნა, მეხსიერების ნაკლები მოხმარება, უამრავ დამატებით შესაძლებლობებთან ერთად, ახალი Firefox გელოდებათ.
 
 
 ;Get the latest Firefox browser.
-Get the latest Firefox browser.
+გადმოწერეთ უახლესი Firefox.
 
 
 ;And start getting the respect you deserve with our family of privacy-first products.
-And start getting the respect you deserve with our family of privacy-first products.
+და მიიღეთ ღირსეული პატივისცემა, პირადულობის უწინარესობის უზრუნველმყოფი ჩვენი პროდუქტების ნაკრებით სარგებლობით.
 
 
 ;Download Now
-Download Now
+ჩამოტვირთვა ახლავე
 
 
 ;Advanced install options & other platforms
-Advanced install options & other platforms
+დაყენების დამატებითი პარამეტრები და სხვა სისტემები
 
 
 ;Download in another language
-Download in another language
+ჩამოტვირთვა სხვა ენაზე
 
 
 ;Fix a problem
-Fix a problem
+ხარვეზის მოგვარება
 
 
 ;Need help?
-Need help?
+დახმარება გესაჭიროებათ?
 
 
 ;Join Firefox
-Join Firefox
+შემოუერთდით Firefox-ს
 
 
 ;Connect to a whole family of respectful products, plus all the knowledge you need to protect yourself online.
-Connect to a whole family of respectful products, plus all the knowledge you need to protect yourself online.
+მიიღეთ წვდომა ყველა იმ პროდუქტზე, რომელიც პატივს სცემს ადამიანის უფლებებს და ამასთან იმ ცოდნაზე, რომელიც გამოგადგებათ ინტერნეტში უსაფრთხოებისთვის.
 
 
 ;Passwords made portable
-Passwords made portable
+პაროლების ადვილად გადატანა
 
 
 ;<strong>Firefox Lockwise</strong> makes the passwords you save in Firefox available on all your devices.
-<strong>Firefox Lockwise</strong> makes the passwords you save in Firefox available on all your devices.
+<strong>Firefox Lockwise</strong> პაროლებს, რომლებიც Firefox-შია შენახული, ხელმისაწვდომს გახდის ყველა თქვენს მოწყობილობაზე.
 
 
 ;Protect your privacy
-Protect your privacy
+დაიცავით პირადი მონაცემები
 
 
 ;<strong>Private Browsing</strong> clears your history to keep it secret from anyone who uses your computer.
-<strong>Private Browsing</strong> clears your history to keep it secret from anyone who uses your computer.
+<strong>პირადი თვალიერების რეჟიმი</strong> გაასუფთავებს თქვენ მიერ მონახულებული გვერდების ჩანაწერებს და საიდუმლოდ დატოვებს, კომპიუტერის დანარჩენი მომხმარებლებისგან.
 
 
 ;Advanced Install Options & Other Platforms
-Advanced Install Options & Other Platforms
+დაყენების დამატებითი პარამეტრები და სხვა სისტემები
 
 
 ;Download on the App Store
-Download on the App Store
+ჩამოტვირთეთ App Store-დან
 
 
 # span's below are for visual formatting and line break.
 ;Download Firefox <br>for Windows
-Download Firefox <br>for Windows
+ჩამოტვირთეთ Firefox <br>Windows-ზე
 
 
 ;Download Firefox <br>for macOS
-Download Firefox <br>for macOS
+ჩამოტვირთეთ Firefox <br>macOS-ზე
 
 
 ;Download Firefox <br>for Linux
-Download Firefox <br>for Linux
+ჩამოტვირთეთ Firefox <br>Linux-ზე
 
 
 ;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
+თქვენ გიყენიათ დაუცველი, მოძველებული საოპერაციო სისტემა, რომელსაც <a href="%(url)s">აღარ უჭერს მხარს Firefox</a>.
 
 
 ;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+თქვენი ჩამოტვირთვა თავისით დაიწყება. არ იმუშავა? <a id="%(id)s" href="%(fallback_url)s">სცადეთ ჩამოტვირთვა ხელახლა</a>.
 
 
 ;Firefox is more than a browser.
-Firefox is more than a browser.
+Firefox მეტია, ვიდრე უბრალოდ ბრაუზერი.
 
 
 ;It’s <strong>privacy and peace of mind</strong> on mobile, too.
-It’s <strong>privacy and peace of mind</strong> on mobile, too.
+იგი <strong>პირადულობა და სიმშვიდეა,</strong> მათ შორის მობილურზეც.
 
 
 ;It’s a <strong>family of products</strong> that treat your personal data with respect.
-It’s a <strong>family of products</strong> that treat your personal data with respect.
+იგი <strong>პროდუქტების ნაკრებია,</strong> რომელიც ღირსეულ პატივს სცემს თქვენს პირად მონაცემებს.
 
 
 ;It’s everything you need to know about <strong>staying safe online</strong>.
-It’s everything you need to know about <strong>staying safe online</strong>.
+იგი ყველაფერია, რაც უნდა იცოდეთ, <strong>ინტერნეტში უსაფრთხოების უზრუნველყოფაზე</strong>.
 
 
 ;It’s <strong>a community</strong> that believes tech can do better.
-It’s <strong>a community</strong> that believes tech can do better.
+იგი <strong>დიდი ერთობაა,</strong> რომელსაც მიაჩნია, რომ ტექნოლოგიები მეტად უნდა გაუმჯობესდეს.
 
 
