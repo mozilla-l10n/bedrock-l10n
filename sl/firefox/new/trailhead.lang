@@ -3,30 +3,30 @@
 
 # HTML page title prefix
 ;Download Firefox
-Download Firefox
+Prenesite Firefox
 
 
 # HTML page title
 ;Free Web Browser
-Free Web Browser
+Brezplačen brskalnik
 
 
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
-Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
+Prenesite brezplačni brskalnik Mozilla Firefox. Ustvarila ga je globalna neprofitna organizacija, ki želi, da imajo posamezniki priložnost nadzora v spletu. Prenesite si Firefox za Windows, macOS, Linux, Android ali iOS!
 
 
 # Page heading
 ;Download the fastest Firefox ever
-Download the fastest Firefox ever
+Prenesite najhitrejši Firefox vseh časov
 
 
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-Faster page loading, less memory usage and packed with features, the new Firefox is here.
+Hitrejše nalaganje strani, manjša poraba pomnilnika in kopica novih zmožnosti – novi Firefox je tu.
 
 
 ;Get the latest Firefox browser.
-Get the latest Firefox browser.
+Prenesite najnovejši brskalnik Firefox.
 
 
 ;And start getting the respect you deserve with our family of privacy-first products.
@@ -34,27 +34,27 @@ And start getting the respect you deserve with our family of privacy-first produ
 
 
 ;Download Now
-Download Now
+Prenesi zdaj
 
 
 ;Advanced install options & other platforms
-Advanced install options & other platforms
+Napredne možnosti namestitve & druge platforme
 
 
 ;Download in another language
-Download in another language
+Prenesite v drugem jeziku
 
 
 ;Fix a problem
-Fix a problem
+Reševanje težav
 
 
 ;Need help?
-Need help?
+Potrebujete pomoč?
 
 
 ;Join Firefox
-Join Firefox
+Pridružite se Firefoxu
 
 
 ;Connect to a whole family of respectful products, plus all the knowledge you need to protect yourself online.
@@ -70,7 +70,7 @@ Passwords made portable
 
 
 ;Protect your privacy
-Protect your privacy
+Zaščitite svojo zasebnost
 
 
 ;<strong>Private Browsing</strong> clears your history to keep it secret from anyone who uses your computer.
@@ -78,36 +78,36 @@ Protect your privacy
 
 
 ;Advanced Install Options & Other Platforms
-Advanced Install Options & Other Platforms
+Napredne možnosti namestitve & druge platforme
 
 
 ;Download on the App Store
-Download on the App Store
+Prenesite z App Stora
 
 
 # span's below are for visual formatting and line break.
 ;Download Firefox <br>for Windows
-Download Firefox <br>for Windows
+Prenesite Firefox <br>za Windows
 
 
 ;Download Firefox <br>for macOS
-Download Firefox <br>for macOS
+Prenesite Firefox <br>za macOS
 
 
 ;Download Firefox <br>for Linux
-Download Firefox <br>for Linux
+Prenesite Firefox <br>za Linux
 
 
 ;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
+Uporabljate zastarel operacijski sistem, ki ni več varen in ga <a href="%(url)s">Firefox več ne podpira</a>.
 
 
 ;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+Prenos bi se moral začeti samodejno. Ne deluje? <a id="%(id)s" href="%(fallback_url)s">Poskusite znova začeti prenos</a>.
 
 
 ;Firefox is more than a browser.
-Firefox is more than a browser.
+Firefox je več kot le brskalnik.
 
 
 ;It’s <strong>privacy and peace of mind</strong> on mobile, too.
@@ -115,14 +115,14 @@ It’s <strong>privacy and peace of mind</strong> on mobile, too.
 
 
 ;It’s a <strong>family of products</strong> that treat your personal data with respect.
-It’s a <strong>family of products</strong> that treat your personal data with respect.
+Je <strong>družina izdelkov</strong>, ki z vašimi podatki ravna spoštljivo.
 
 
 ;It’s everything you need to know about <strong>staying safe online</strong>.
-It’s everything you need to know about <strong>staying safe online</strong>.
+Je vse, kar morate vedeti o <strong>varnosti na spletu</strong>.
 
 
 ;It’s <strong>a community</strong> that believes tech can do better.
-It’s <strong>a community</strong> that believes tech can do better.
+Je <strong>skupnost</strong>, ki verjame, da je tehnologija lahko še boljša.
 
 

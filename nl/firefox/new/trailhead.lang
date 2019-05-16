@@ -1,128 +1,129 @@
+## active ##
 ## NOTE: Demo page at https://www-demo1.allizom.org/firefox/new/
 
 
 # HTML page title prefix
 ;Download Firefox
-Download Firefox
+Firefox downloaden
 
 
 # HTML page title
 ;Free Web Browser
-Free Web Browser
+Gratis webbrowser
 
 
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
-Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
+Download Mozilla Firefox, een gratis webbrowser. Firefox wordt gemaakt door een wereldwijde non-profitorganisatie die zich inzet om gebruikers online de controle te laten houden. Download Firefox nu voor Windows, macOS, Linux, Android en iOS!
 
 
 # Page heading
 ;Download the fastest Firefox ever
-Download the fastest Firefox ever
+Download de snelste Firefox ooit
 
 
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-Faster page loading, less memory usage and packed with features, the new Firefox is here.
+Sneller pagina’s laden, minder geheugengebruik en boordevol functies, de nieuwe Firefox is er.
 
 
 ;Get the latest Firefox browser.
-Get the latest Firefox browser.
+Download de nieuwste Firefox-browser.
 
 
 ;And start getting the respect you deserve with our family of privacy-first products.
-And start getting the respect you deserve with our family of privacy-first products.
+En krijg het respect dat u verdient met onze familie van privacy-eerstproducten.
 
 
 ;Download Now
-Download Now
+Nu downloaden
 
 
 ;Advanced install options & other platforms
-Advanced install options & other platforms
+Geavanceerde installatieopties & andere platformen
 
 
 ;Download in another language
-Download in another language
+Downloaden in een andere taal
 
 
 ;Fix a problem
-Fix a problem
+Een probleem oplossen
 
 
 ;Need help?
-Need help?
+Hulp nodig?
 
 
 ;Join Firefox
-Join Firefox
+Doe mee met Firefox
 
 
 ;Connect to a whole family of respectful products, plus all the knowledge you need to protect yourself online.
-Connect to a whole family of respectful products, plus all the knowledge you need to protect yourself online.
+Maak verbinding met een hele familie van respectvolle producten, plus alle kennis die u nodig hebt om uzelf online te beschermen.
 
 
 ;Passwords made portable
-Passwords made portable
+Wachtwoorden om mee te nemen
 
 
 ;<strong>Firefox Lockwise</strong> makes the passwords you save in Firefox available on all your devices.
-<strong>Firefox Lockwise</strong> makes the passwords you save in Firefox available on all your devices.
+<strong>Firefox Lockwise</strong> zorgt ervoor dat de wachtwoorden die u in Firefox opslaat, beschikbaar zijn op al uw apparaten.
 
 
 ;Protect your privacy
-Protect your privacy
+Uw privacy beschermen
 
 
 ;<strong>Private Browsing</strong> clears your history to keep it secret from anyone who uses your computer.
-<strong>Private Browsing</strong> clears your history to keep it secret from anyone who uses your computer.
+<strong>Privénavigatie</strong> wist uw geschiedenis om dit geheim te houden voor iedereen die uw computer gebruikt.
 
 
 ;Advanced Install Options & Other Platforms
-Advanced Install Options & Other Platforms
+Geavanceerde installatieopties & andere platformen
 
 
 ;Download on the App Store
-Download on the App Store
+Downloaden in de App Store
 
 
 # span's below are for visual formatting and line break.
 ;Download Firefox <br>for Windows
-Download Firefox <br>for Windows
+Download Firefox <br>voor Windows
 
 
 ;Download Firefox <br>for macOS
-Download Firefox <br>for macOS
+Download Firefox <br>voor macOS
 
 
 ;Download Firefox <br>for Linux
-Download Firefox <br>for Linux
+Download Firefox <br>voor Linux
 
 
 ;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
+U gebruikt een onveilig, verouderd besturingssysteem dat <a href="%(url)s">niet meer door Firefox wordt ondersteund</a>.
 
 
 ;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+Uw download begint automatisch. Werkt het niet? <a id="%(id)s" href="%(fallback_url)s">Probeer nogmaals te downloaden</a>.
 
 
 ;Firefox is more than a browser.
-Firefox is more than a browser.
+Firefox is meer dan een browser.
 
 
 ;It’s <strong>privacy and peace of mind</strong> on mobile, too.
-It’s <strong>privacy and peace of mind</strong> on mobile, too.
+Het is <strong>privacy en rustgevend</strong>, ook op mobiel.
 
 
 ;It’s a <strong>family of products</strong> that treat your personal data with respect.
-It’s a <strong>family of products</strong> that treat your personal data with respect.
+Het is een <strong>productfamilie</strong> die uw persoonlijke gegevens met respect behandelt.
 
 
 ;It’s everything you need to know about <strong>staying safe online</strong>.
-It’s everything you need to know about <strong>staying safe online</strong>.
+Het is alles wat u moet weten over <strong>veilig online blijven</strong>.
 
 
 ;It’s <strong>a community</strong> that believes tech can do better.
-It’s <strong>a community</strong> that believes tech can do better.
+Het is <strong>een gemeenschap</strong> die gelooft dat technologie beter kan functioneren.
 
 
