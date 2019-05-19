@@ -7,7 +7,7 @@
 
 
 ;When you see the shield, Firefox is blocking parts of the page that can track you online.
-When you see the shield, Firefox is blocking parts of the page that can track you online.
+เมื่อคุณเห็นโล่ Firefox กำลังปิดกั้นบางส่วนของหน้าที่สามารถติดตามคุณออนไลน์
 
 
 # String is obsolete, do not remove
@@ -16,7 +16,7 @@ When you see the shield, Firefox is blocking parts of the page that can slow you
 
 
 ;If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
-If content blocking prevents you from using a site you trust, select “Turn off Blocking Temporarily.”
+ถ้าการปิดกั้นเนื้อหาขัดขวางคุณจากการใช้ไซต์ที่คุณเชื่อถือ เลือก “ปิดการปิดกั้นชั่วคราว”
 
 
 # String is obsolete. Do not remove.
@@ -107,7 +107,7 @@ It’s easy to turn off Tracking Protection for the website you’re on by click
 
 
 ;Firefox Tracking Protection
-Firefox Tracking Protection
+การป้องกันการติดตามของ Firefox
 
 
 ;Tracking Protection
@@ -133,7 +133,7 @@ Firefox Tracking Protection
 
 # Link points to https://support.mozilla.org/en-US/kb/content-blocking/
 ;<a rel="external" href="%s">Learn more</a> about how it works.
-<a rel="external" href="%s">Learn more</a> about how it works.
+<a rel="external" href="%s">เรียนรู้เพิ่มเติม</a> เกี่ยวกับการทำงาน
 
 
 # String is obsolete. Do not remove.
@@ -154,7 +154,7 @@ Firefox Tracking Protection
 
 
 ;To restore content blocking for a site, select “Turn on Blocking for This Site.“
-To restore content blocking for a site, select “Turn on Blocking for This Site.“
+ถ้าต้องการคืนค่าการปิดกั้นเนื้อหาสำหรับเว็บไซต์ เลือก “เปิดการปิดกั้นสำหรับไซต์นี้“
 
 
 # String is obsolete. Do not remove.
@@ -176,7 +176,7 @@ Content blocking can help pages load faster, but it can also keep parts of pages
 
 
 ;Thanks for learning about Content Blocking.
-Thanks for learning about Content Blocking.
+ขอบคุณที่เรียนรู้เกี่ยวกับการปิดกั้นเนื้อหา
 
 
 ;Restart tour
