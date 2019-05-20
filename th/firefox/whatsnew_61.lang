@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo page at https://bedrock-demo-craigcook.oregon-b.moz.works/firefox/61.0/whatsnew/
 ## NOTE: Page content changes based on being signed in to a Firefox Account, and if the account has mobile devices associated.
 ## NOTE: See details here https://github.com/mozilla/bedrock/pull/5758
@@ -81,7 +82,7 @@
 
 # "monotasking" means to do one thing at a time (the opposite of multitasking). Alternative for translation: "Efficient browsing."
 ;Privacy obsessed. Automatic ad blocking. Monotasking perfected.
-Privacy obsessed. Automatic ad blocking. Monotasking perfected.
+หลงใหลในความเป็นส่วนตัว การปิดกั้นโฆษณาอัตโนมัติ สมาธิตั้งมั่น
 
 
 ;Our easy-to-use mobile browser includes always-on tracking protection and erases your browsing data after every session.
