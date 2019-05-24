@@ -268,7 +268,7 @@ Internetes egészségi jelentés
 
 # Description for the newsletter in Newsletter subscription page (Internet Health Report)
 ;Keep up with our annual compilation of research and stories on the issues of privacy &amp; security, openness, digital inclusion, decentralization, and web literacy.
-Keep up with our annual compilation of research and stories on the issues of privacy &amp; security, openness, digital inclusion, decentralization, and web literacy.
+Tartson lépést az éves adatvédelemmel és -biztonsággal, nyíltsággal, digitális bevonással, decentralizálással és webes írástudással kapcsolatos kutatási és történeti összeállításunkkal.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -278,7 +278,7 @@ A tudás hatalom
 
 # Description for the newsletter in Newsletter subscription page (Knowledge is Power)
 ;Get all the knowledge you need to stay safer and smarter online.
-Get all the knowledge you need to stay safer and smarter online.
+Szerezzen meg minden ahhoz szükséges tudást, hogy nagyobb biztonságban legyen, és okosabb legyen online.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -750,14 +750,14 @@ Az üzenetekre feliratkozók évente két levelet kapnak, hogy megerősítsék a
 
 
 ;Many of our communications are related to an account you’ve signed up for, such as Firefox Accounts, MDN Web Docs, or Add-on Developer. To manage one of your accounts or see a list of all the accounts visit our <a href="%s">account management support page</a>.
-Many of our communications are related to an account you’ve signed up for, such as Firefox Accounts, MDN Web Docs, or Add-on Developer. To manage one of your accounts or see a list of all the accounts visit our <a href="%s">account management support page</a>.
+Számos kommunikációnk ahhoz a fiókhoz kapcsolódik, amelyre feliratkozott, például a Firefox-fiókhoz, az MDN Webes dokumentumokhoz és a kiegészítőfejlesztői fiókhoz. A fiókjai kezeléséhez vagy a fiókjainak listájának megtekintéséhez keresse fel a <a href="%s">fiókkezelési támogatás oldalunkat</a>.
 
 
 ;To get access to the whole world of Firefox products, knowledge and services in one account, join us! Learn more about the benefits <a href="%s">here</a>.
-To get access to the whole world of Firefox products, knowledge and services in one account, join us! Learn more about the benefits <a href="%s">here</a>.
+Csatlakozzon hozzánk és érje el a Firefox termékeinek, tudásának és szolgáltatásainak világát, egyetlen fiókkal. További információk az előnyökről <a href="%s">itt</a>.
 
 
 ;There are many ways to engage with Mozilla and Firefox. If you didn’t find what you were looking for here, check out our <a href="%s">community pages</a>.
-There are many ways to engage with Mozilla and Firefox. If you didn’t find what you were looking for here, check out our <a href="%s">community pages</a>.
+Számos módja van a Mozilla és a Firefox használatának. Ha nem találta meg, amit keresett itt, nézze meg a <a href="%s">közösségi oldalainkat</a>.
 
 
