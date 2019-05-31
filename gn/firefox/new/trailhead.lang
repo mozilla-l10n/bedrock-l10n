@@ -3,12 +3,12 @@
 
 # HTML page title prefix
 ;Download Firefox
-Download Firefox
+Emboguejy Firefox
 
 
 # HTML page title
 ;Free Web Browser
-Free Web Browser
+Ñanduti kundaha reigua
 
 
 # HTML page description
@@ -18,7 +18,7 @@ Download Mozilla Firefox, a free Web browser. Firefox is created by a global non
 
 # Page heading
 ;Download the fastest Firefox ever
-Download the fastest Firefox ever
+Emboguejy Firefox ipya’evéva opavavégui
 
 
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
@@ -26,7 +26,7 @@ Faster page loading, less memory usage and packed with features, the new Firefox
 
 
 ;Get the latest Firefox browser.
-Get the latest Firefox browser.
+Eguereko Firefox kundaha ipyahuvéva.
 
 
 ;And start getting the respect you deserve with our family of privacy-first products.
@@ -34,11 +34,11 @@ And start getting the respect you deserve with our family of privacy-first produ
 
 
 ;Download Now
-Download Now
+Emboguejy ko’ág̃a
 
 
 ;Advanced install options & other platforms
-Advanced install options & other platforms
+Ñemohenda poravorã hu’ãpotámava ha ambue jehechaukaha
 
 
 ;Download in another language
@@ -58,60 +58,60 @@ Ejuaju Firefox rehe
 
 
 ;Connect to a whole family of respectful products, plus all the knowledge you need to protect yourself online.
-Connect to a whole family of respectful products, plus all the knowledge you need to protect yourself online.
+Ehechakuaa apopyre oikóva ha opamba’e eikuaava’erã eikundaha hag̃ua ñandutípe tekorosãme.
 
 
 ;Passwords made portable
-Passwords made portable
+Ñe’ẽñemi nendiveguáva
 
 
 ;<strong>Firefox Lockwise</strong> makes the passwords you save in Firefox available on all your devices.
-<strong>Firefox Lockwise</strong> makes the passwords you save in Firefox available on all your devices.
+<strong>Firefox Lockwise</strong> rupive ne ñe’ẽñemi ñongatupyre Firefox pegua eipurukuaa opaite ne mba’e’okápe.
 
 
 ;Protect your privacy
-Protect your privacy
+Emo’ã nde rekorosãrã
 
 
 ;<strong>Private Browsing</strong> clears your history to keep it secret from anyone who uses your computer.
-<strong>Private Browsing</strong> clears your history to keep it secret from anyone who uses your computer.
+Pe <strong>Kundaha ñemigua</strong> embogue ne rembiasakue hekoñemi hag̃ua oimeraẽvagui oipurúva ne mohendaha.
 
 
 ;Advanced Install Options & Other Platforms
-Advanced Install Options & Other Platforms
+Ñemohenda poravorã hu’ãpotámava ha ambue jehechaukaha
 
 
 ;Download on the App Store
-Download on the App Store
+Emboguejy App Store rupive
 
 
 # span's below are for visual formatting and line break.
 ;Download Firefox <br>for Windows
-Download Firefox <br>for Windows
+Emboguejy Firefox <br>Windows peg̃uarã
 
 
 ;Download Firefox <br>for macOS
-Download Firefox <br>for macOS
+Emboguejy Firefox <br>macOS peg̃uarã
 
 
 ;Download Firefox <br>for Linux
-Download Firefox <br>for Linux
+Emboguejy Firefox <br>Linux peg̃uarã
 
 
 ;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
+Eipupuruhína apopyvusu oku'éva hetekorosã’ỹva ha avei hekopyahu’ỹva <a href="%(url)s">ndoguerekovéimava Firefox pytyvõ</a>.
 
 
 ;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+Ko ñemboguejy oñepyrũva’erã ijehegui. ¿Ndojapói? <a id="%(id)s" href="%(fallback_url)s">Eha’ã jey emboguejy</a>.
 
 
 ;Firefox is more than a browser.
-Firefox is more than a browser.
+Firefox ndaha’éi kundaha año.
 
 
 ;It’s <strong>privacy and peace of mind</strong> on mobile, too.
-It’s <strong>privacy and peace of mind</strong> on mobile, too.
+Avei <strong>ñemigua ha py’aguapy</strong> ne pumbyry popeguápe.
 
 
 ;It’s a <strong>family of products</strong> that treat your personal data with respect.

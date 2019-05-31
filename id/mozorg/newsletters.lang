@@ -89,12 +89,12 @@ Langganan nawala Anda telah dikonfirmasi.
 
 # Name for the newsletter in Newsletter subscription page
 ;Firefox News
-Firefox News
+Berita Firefox
 
 
 # Description for the newsletter in Newsletter subscription page (Firefox News)
 ;Get how-tos, advice and news to make your Firefox experience work best for you.
-Get how-tos, advice and news to make your Firefox experience work best for you.
+Dapatkan petunjuk, saran dan berita terbaru untuk menjadikan pengalaman Firefox Anda bekerja prima untuk Anda.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -149,7 +149,7 @@ Nawala bulanan agar Anda selalu mendapatkan kabar terbaru tentang program Firefo
 
 # Name for the newsletter in Newsletter subscription page
 ;Developer Newsletter
-Developer Newsletter
+Nawala Pengembang
 
 
 # Description for the newsletter in Newsletter subscription page (Mozilla Developer Newsletter)
@@ -159,7 +159,7 @@ Panduan pengembang untuk menyorot inovasi, praktik terbaik, dokumentasi baru dan
 
 # Name for the newsletter in Newsletter subscription page
 ;Mozillians
-Mozillians {ok}
+Mozillian
 
 
 # Description for the newsletter in Newsletter subscription page
@@ -233,12 +233,12 @@ Berita Beta
 
 # Name for the newsletter in Newsletter subscription page
 ;Mozilla News
-Mozilla News
+Berita Mozilla
 
 
 # Description for the newsletter in Newsletter subscription page (Mozilla News)
 ;Regular updates to keep you informed and active in our fight for a better internet.
-Regular updates to keep you informed and active in our fight for a better internet.
+Pembaruan rutin agar Anda terus terbarui dan aktif dalam perjuangan kami untuk internet yang lebih baik.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -253,42 +253,42 @@ Berita dan informasi yang terkait dengan kesehatan Web.
 
 # Name for the newsletter in Newsletter subscription page
 ;Mozilla Community
-Mozilla Community
+Komunitas Mozilla
 
 
 # Description for the newsletter in Newsletter subscription page (Mozilla Community)
 ;Join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission.
-Join Mozillians all around the world and learn about impactful opportunities to support Mozilla’s mission.
+Bergabunglah dengan Mozillian di seluruh dunia dan pelajari tentang peluang yang berdampak untuk mendukung misi Mozilla.
 
 
 # Name for the newsletter in Newsletter subscription page
 ;Internet Health Report
-Internet Health Report
+Internet Health Report {ok}
 
 
 # Description for the newsletter in Newsletter subscription page (Internet Health Report)
 ;Keep up with our annual compilation of research and stories on the issues of privacy &amp; security, openness, digital inclusion, decentralization, and web literacy.
-Keep up with our annual compilation of research and stories on the issues of privacy &amp; security, openness, digital inclusion, decentralization, and web literacy.
+Ikuti perkembangan kompilasi penelitian dan cerita tahunan kami tentang masalah privasi &amp; keamanan, keterbukaan, inklusi digital, desentralisasi, dan literasi web.
 
 
 # Name for the newsletter in Newsletter subscription page
 ;Knowledge is Power
-Knowledge is Power
+Pengetahuan adalah Kekuatan
 
 
 # Description for the newsletter in Newsletter subscription page (Knowledge is Power)
 ;Get all the knowledge you need to stay safer and smarter online.
-Get all the knowledge you need to stay safer and smarter online.
+Dapatkan semua pengetahuan yang Anda butuhkan untuk tetap aman dan lebih bijak saat daring.
 
 
 # Name for the newsletter in Newsletter subscription page
 ;Mozilla Labs
-Mozilla Labs
+Mozilla Labs {ok}
 
 
 # Description for the newsletter in Newsletter subscription page (Mozilla Labs)
 ;We're building the technology of the future. Come explore with us.
-We're building the technology of the future. Come explore with us.
+Kami sedang membangun teknologi masa depan. Ayo jelajahi bersama kami.
 
 
 # Name for the newsletter in Newsletter subscription page
@@ -298,17 +298,17 @@ Take Action for the Internet
 
 # Description for the newsletter in Newsletter subscription page (Take Action for the Internet)
 ;Add your voice to petitions, events and initiatives that fight for the future of the web.
-Add your voice to petitions, events and initiatives that fight for the future of the web.
+Suarakan pendapat Anda melalui petisi, acara, dan inisiatif yang memperjuangkan masa depan web.
 
 
 # Name for the newsletter in Newsletter subscription page
 ;New Product Testing
-New Product Testing
+Pengujian Produk Baru
 
 
 # Description for the newsletter in Newsletter subscription page (New Product Testing)
 ;Help us make a better Firefox for you by test-driving our latest products and features.
-Help us make a better Firefox for you by test-driving our latest products and features.
+Bantu kami membuat Firefox yang lebih baik untuk Anda dengan menguji coba produk dan fitur terbaru kami.
 
 
 ;Firefox OS
@@ -404,7 +404,7 @@ Firefox {ok}
 
 
 ;Desktop
-Desktop
+Desktop {ok}
 
 
 ;We’re sorry to see you go.
@@ -480,7 +480,7 @@ Berhasil! Surel telah dikirimkan kepada Anda yang berisi tautan ke pusat pengatu
 
 
 ;Remove me from all the subscriptions on this page
-Remove me from all the subscriptions on this page
+Hapus surel saya dari semua langganan dalam laman ini
 
 
 ;Thanks for telling us why you’re leaving.
@@ -738,26 +738,26 @@ Alamat surel Anda
 
 # Only localize "yourname". Do not touch @example.com.
 ;yourname@example.com
-yourname@example.com {ok}
+namaanda@example.com
 
 
 ;Not all subscriptions are supported in all the languages listed. Almost all are offered in English, German and French.
-Not all subscriptions are supported in all the languages listed. Almost all are offered in English, German and French.
+Tidak semua langganan didukung dalam semua bahasa yang terdaftar. Hampir semua ditawarkan dalam bahasa Inggris, Jerman, dan Prancis.
 
 
 ;Text subscribers will receive an email twice a year to confirm continuation of the subscription. Those emails may include HTML.
-Text subscribers will receive an email twice a year to confirm continuation of the subscription. Those emails may include HTML.
+Pelanggan teks akan menerima surel dua kali setahun untuk mengkonfirmasi kelanjutan berlangganan. Surel tersebut mungkin termasuk HTML.
 
 
 ;Many of our communications are related to an account you’ve signed up for, such as Firefox Accounts, MDN Web Docs, or Add-on Developer. To manage one of your accounts or see a list of all the accounts visit our <a href="%s">account management support page</a>.
-Many of our communications are related to an account you’ve signed up for, such as Firefox Accounts, MDN Web Docs, or Add-on Developer. To manage one of your accounts or see a list of all the accounts visit our <a href="%s">account management support page</a>.
+Banyak dari komunikasi kami terkait dengan akun yang telah Anda daftarkan, seperti Firefox Account, MDN Web Documents, atau Add-on Developer. Untuk mengelola salah satu akun Anda atau melihat daftar semua akun, kunjungi <a href="%s">akun laman dukungan manajemen</a> kami.
 
 
 ;To get access to the whole world of Firefox products, knowledge and services in one account, join us! Learn more about the benefits <a href="%s">here</a>.
-To get access to the whole world of Firefox products, knowledge and services in one account, join us! Learn more about the benefits <a href="%s">here</a>.
+Untuk mendapatkan akses ke semua produk, pengetahuan, dan layanan Firefox dalam satu akun, bergabunglah dengan kami! Pelajari lebih lanjut tentang manfaatnya <a href="%s">di sini</a>.
 
 
 ;There are many ways to engage with Mozilla and Firefox. If you didn’t find what you were looking for here, check out our <a href="%s">community pages</a>.
-There are many ways to engage with Mozilla and Firefox. If you didn’t find what you were looking for here, check out our <a href="%s">community pages</a>.
+Ada banyak cara untuk terlibat dengan Mozilla dan Firefox. Jika Anda tidak menemukan apa yang Anda cari di sini, lihat <a href="%s">laman komunitas</a> kami.
 
 
