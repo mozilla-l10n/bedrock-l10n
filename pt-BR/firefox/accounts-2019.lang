@@ -1,143 +1,146 @@
+## active ##
+## accounts-metadata-072019 ##
+## accounts-signed-in-06132019 ##
 ## NOTE: https://www-dev.allizom.org/firefox/accounts/
 
 
 # HTML page title
 ;There is a way to protect your privacy. Join Firefox.
-There is a way to protect your privacy. Join Firefox.
+Existe um meio de proteger sua privacidade. Use o Firefox.
 
 
 # String is obsolete. Do not remove.
 ;Get a Firefox Account – Keep your data private, safe and synced
-Get a Firefox Account – Keep your data private, safe and synced
+Crie uma Conta Firefox – Mantenha seus dados privativos, seguros e sincronizados
 
 
 # HTML page description
 ;Take your stand against an industry that’s selling your data to third parties. Stay smart and safe online with technology that fights for you.
-Take your stand against an industry that’s selling your data to third parties. Stay smart and safe online with technology that fights for you.
+Tome uma atitude contra uma indústria que está vendendo seus dados para terceiros. Fique esperto e seguro online com uma tecnologia que luta por você.
 
 
 # String is obsolete. Do not remove.
 ;Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox Account now – One login – Power and privacy everywhere.
-Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox Account now – One login – Power and privacy everywhere.
+Sincronize com segurança suas senhas, favoritos e abas em todos os seus dispositivos. Crie uma Conta Firefox agora – Uma única conta – Poder e privacidade em todo lugar.
 
 
 # the span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 ;There is a way to protect your privacy. <span>Join Firefox.</span>
-There is a way to protect your privacy. <span>Join Firefox.</span>
+Existe um meio de proteger sua privacidade. <span>Use o Firefox.</span>
 
 
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
 ;Take your stand against an industry that’s making you the product.
-Take your stand against an industry that’s making you the product.
+Tome uma atitude contra uma indústria que tenta fazer de você um produto.
 
 
 ;Join Firefox
-Join Firefox
+Junte-se ao Firefox
 
 
 ;Enter your email address to get started.
-Enter your email address to get started.
+Digite seu endereço de e-mail para começar.
 
 
 ;Already have an account?
-Already have an account?
+Já tem uma conta?
 
 
 ;Sign In
-Sign In
+Entre
 
 
 # the span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 ;You’re signed <br>in to Firefox. <br><span>Now try Firefox Monitor.</span>
-You’re signed <br>in to Firefox. <br><span>Now try Firefox Monitor.</span>
+Você entrou <br>no Firefox. <br><span>Agora experimente o Firefox Monitor.</span>
 
 
 ;See if you’ve been involved in an online data breach.
-See if you’ve been involved in an online data breach.
+Veja se você esteve envolvido em um vazamento de dados online.
 
 
 ;Sign In to Monitor
-Sign In to Monitor
+Entre no Monitor
 
 
 ;Firefox is technology that fights for you.
-Firefox is technology that fights for you.
+Firefox é tecnologia que luta por você.
 
 
 # String is obsolete. Do not remove.
 ;Get technology that fights for you.
-Get technology that fights for you.
+Escolha uma tecnologia que luta por você.
 
 
 # This is not a complete proper name; "Firefox" is a proper name that shouldn't be translated, but you can choose to translate "browser". Span for formatting.
 ;Firefox <span>browser</span>
-Firefox <span>browser</span>
+<span>Navegador</span> Firefox
 
 
 ;Travel the internet with protection, on every device.
-Travel the internet with protection, on every device.
+Viaje pela internet com proteção, em qualquer dispositivo.
 
 
 ;Keep your passwords protected and portable.
-Keep your passwords protected and portable.
+Mantenha suas senhas protegidas e portáveis.
 
 
 ;Get a lookout for data breaches.
-Get a lookout for data breaches.
+Fique atento a violações de dados.
 
 
 ;Share large files without prying eyes.
-Share large files without prying eyes.
+Compartilhe arquivos grandes, livre de intrometidos.
 
 
 ;Get it all on every device, without feeling trapped in a single operating system.
-Get it all on every device, without feeling trapped in a single operating system.
+Tenha tudo isso em qualquer dispositivo, sem se sentir amarrado a um único sistema operacional.
 
 
 # String is obsolete. Do not remove.
 ;And get it all on every device, without feeling trapped in a single operating system.
-And get it all on every device, without feeling trapped in a single operating system.
+Tenha tudo isso em qualquer dispositivo, sem se sentir amarrado a um único sistema operacional.
 
 
 ;Get the respect you deserve.
-Get the respect you deserve.
+Tenha o respeito que merece.
 
 
 ;You’ll always get the truth from us. Everything we make and do honors our <a href="%(promise)s">Personal Data Promise</a>:
-You’ll always get the truth from us. Everything we make and do honors our <a href="%(promise)s">Personal Data Promise</a>:
+Você sempre terá de nós a verdade. Tudo o que criamos e fazemos honra nossa <a href="%(promise)s">Promessa de como lidar com dados pessoais</a>:
 
 
 # Line breaks for formatting.
 ;Take less.<br> Keep it safe.<br> No secrets.
-Take less.<br> Keep it safe.<br> No secrets.
+Coletar pouco.<br> Manter seguro.<br> Sem segredos.
 
 
 ;Get the knowledge to keep you safe.
-Get the knowledge to keep you safe.
+Tenha o conhecimento para se manter seguro.
 
 
 ;Learn everything you need to know (but don’t yet) about staying smart and safe online, from some of the world’s foremost experts.
-Learn everything you need to know (but don’t yet) about staying smart and safe online, from some of the world’s foremost experts.
+Aprenda tudo o que precisa saber sobre como ficar esperto e seguro online, de alguns dos principais especialistas mundiais.
 
 
 ;And be part of protecting the internet for future generations.
-And be part of protecting the internet for future generations.
+Faça sua parte em proteger a internet para as futuras gerações.
 
 
 ;Help us build a better Firefox for all.
-Help us build a better Firefox for all.
+Ajude-nos a construir um Firefox melhor para todos.
 
 
 ;Get into the open source spirit by test-driving upcoming products.
-Get into the open source spirit by test-driving upcoming products.
+Entre no espírito do código aberto testando produtos em desenvolvimento.
 
 
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 ;Help us keep Big Tech in check.
-Help us keep Big Tech in check.
+Ajude-nos a manter as gigantes de tecnologia sob controle.
 
 
 ;We support communities all over the world standing up for a healthier internet. Add your voice to the fight.
-We support communities all over the world standing up for a healthier internet. Add your voice to the fight.
+Apoiamos comunidades do mundo todo que defendem uma internet mais saudável. Junte sua voz à luta.
 
 

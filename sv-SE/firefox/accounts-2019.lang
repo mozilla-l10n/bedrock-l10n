@@ -1,143 +1,146 @@
+## active ##
+## accounts-metadata-072019 ##
+## accounts-signed-in-06132019 ##
 ## NOTE: https://www-dev.allizom.org/firefox/accounts/
 
 
 # HTML page title
 ;There is a way to protect your privacy. Join Firefox.
-There is a way to protect your privacy. Join Firefox.
+Det finns ett sätt att skydda din integritet. Bli en del av Firefox.
 
 
 # String is obsolete. Do not remove.
 ;Get a Firefox Account – Keep your data private, safe and synced
-Get a Firefox Account – Keep your data private, safe and synced
+Skapa ett Firefox-konto – Håll dina data privata, säkra och synkroniserade
 
 
 # HTML page description
 ;Take your stand against an industry that’s selling your data to third parties. Stay smart and safe online with technology that fights for you.
-Take your stand against an industry that’s selling your data to third parties. Stay smart and safe online with technology that fights for you.
+Ta ställning mot en bransch som säljer dina uppgifter till tredje part. Bli smart och säker på nätet med teknik som kämpar för dig.
 
 
 # String is obsolete. Do not remove.
 ;Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox Account now – One login – Power and privacy everywhere.
-Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox Account now – One login – Power and privacy everywhere.
+Synkronisera säkert dina lösenord, bokmärken och flikar mellan dina enheter. Skapa ett Firefox-konto nu – En inloggning – Styrka och integritet överallt.
 
 
 # the span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 ;There is a way to protect your privacy. <span>Join Firefox.</span>
-There is a way to protect your privacy. <span>Join Firefox.</span>
+Det finns ett sätt att skydda din integritet. <span>Bli en del av Firefox.</span>
 
 
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
 ;Take your stand against an industry that’s making you the product.
-Take your stand against an industry that’s making you the product.
+Ta ställning mot en industri som gör dig till produkten.
 
 
 ;Join Firefox
-Join Firefox
+Bli en del av Firefox
 
 
 ;Enter your email address to get started.
-Enter your email address to get started.
+Ange din e-postadress för att komma igång.
 
 
 ;Already have an account?
-Already have an account?
+Har du redan ett konto?
 
 
 ;Sign In
-Sign In
+Logga in
 
 
 # the span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 ;You’re signed <br>in to Firefox. <br><span>Now try Firefox Monitor.</span>
-You’re signed <br>in to Firefox. <br><span>Now try Firefox Monitor.</span>
+Du är inloggad <br>på Firefox. <br><span>Prova Firefox Monitor.</span>
 
 
 ;See if you’ve been involved in an online data breach.
-See if you’ve been involved in an online data breach.
+Se om du har varit inblandad i ett dataintrång online.
 
 
 ;Sign In to Monitor
-Sign In to Monitor
+Logga in på Monitor
 
 
 ;Firefox is technology that fights for you.
-Firefox is technology that fights for you.
+Firefox är teknik som kämpar för dig.
 
 
 # String is obsolete. Do not remove.
 ;Get technology that fights for you.
-Get technology that fights for you.
+Hämta teknik som kämpar för dig.
 
 
 # This is not a complete proper name; "Firefox" is a proper name that shouldn't be translated, but you can choose to translate "browser". Span for formatting.
 ;Firefox <span>browser</span>
-Firefox <span>browser</span>
+Firefox <span>webbläsare</span>
 
 
 ;Travel the internet with protection, on every device.
-Travel the internet with protection, on every device.
+Surfa på internet med skydd, på alla enheter.
 
 
 ;Keep your passwords protected and portable.
-Keep your passwords protected and portable.
+Skydda dina lösenord och ta dem överallt.
 
 
 ;Get a lookout for data breaches.
-Get a lookout for data breaches.
+Håll koll på dataintrång.
 
 
 ;Share large files without prying eyes.
-Share large files without prying eyes.
+Dela stora filer utan övervakande ögon.
 
 
 ;Get it all on every device, without feeling trapped in a single operating system.
-Get it all on every device, without feeling trapped in a single operating system.
+Få allt på alla enheter, oavsett vilket operativsystem du använder.
 
 
 # String is obsolete. Do not remove.
 ;And get it all on every device, without feeling trapped in a single operating system.
-And get it all on every device, without feeling trapped in a single operating system.
+Och få allt på alla enheter, oavsett vilket operativsystem du använder.
 
 
 ;Get the respect you deserve.
-Get the respect you deserve.
+Få respekten du förtjänar.
 
 
 ;You’ll always get the truth from us. Everything we make and do honors our <a href="%(promise)s">Personal Data Promise</a>:
-You’ll always get the truth from us. Everything we make and do honors our <a href="%(promise)s">Personal Data Promise</a>:
+Du kommer alltid att få sanningen från oss. Allt vi gör och skapar hedrar vårt <a href="%(promise)s">löfte om personlig data</a>:
 
 
 # Line breaks for formatting.
 ;Take less.<br> Keep it safe.<br> No secrets.
-Take less.<br> Keep it safe.<br> No secrets.
+Ta mindre.<br> Håll det säkert.<br> Inga hemligheter.
 
 
 ;Get the knowledge to keep you safe.
-Get the knowledge to keep you safe.
+Få kunskapen för att hålla dig säker.
 
 
 ;Learn everything you need to know (but don’t yet) about staying smart and safe online, from some of the world’s foremost experts.
-Learn everything you need to know (but don’t yet) about staying smart and safe online, from some of the world’s foremost experts.
+Lär dig allt du behöver veta om att vara smart och säker på nätet, från några av världens främsta experter.
 
 
 ;And be part of protecting the internet for future generations.
-And be part of protecting the internet for future generations.
+Och vara en del av att skydda internet för kommande generationer.
 
 
 ;Help us build a better Firefox for all.
-Help us build a better Firefox for all.
+Hjälp oss att bygga en bättre Firefox för alla.
 
 
 ;Get into the open source spirit by test-driving upcoming products.
-Get into the open source spirit by test-driving upcoming products.
+Komma in i andan av öppen källkod genom att test kommande produkter.
 
 
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 ;Help us keep Big Tech in check.
-Help us keep Big Tech in check.
+Hjälp oss att hålla stora teknikföretag under kontroll.
 
 
 ;We support communities all over the world standing up for a healthier internet. Add your voice to the fight.
-We support communities all over the world standing up for a healthier internet. Add your voice to the fight.
+Vi stöder gemenskaper över hela världen och står upp för ett hälsosammare internet. Lägg till din röst i kampen.
 
 

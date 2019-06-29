@@ -1,143 +1,146 @@
+## active ##
+## accounts-metadata-072019 ##
+## accounts-signed-in-06132019 ##
 ## NOTE: https://www-dev.allizom.org/firefox/accounts/
 
 
 # HTML page title
 ;There is a way to protect your privacy. Join Firefox.
-There is a way to protect your privacy. Join Firefox.
+加入 Firefox，了解保護您的隱私的方法。
 
 
 # String is obsolete. Do not remove.
 ;Get a Firefox Account – Keep your data private, safe and synced
-Get a Firefox Account – Keep your data private, safe and synced
+註冊 Firefox 帳號 - 保持資料隱私、安全、同步
 
 
 # HTML page description
 ;Take your stand against an industry that’s selling your data to third parties. Stay smart and safe online with technology that fights for you.
-Take your stand against an industry that’s selling your data to third parties. Stay smart and safe online with technology that fights for you.
+採取行動，反對產業中將您的資料賣給第三方的行為。使用為您而戰的技術，在網路上確保聰明與安全。
 
 
 # String is obsolete. Do not remove.
 ;Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox Account now – One login – Power and privacy everywhere.
-Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox Account now – One login – Power and privacy everywhere.
+安全地在不同裝置間同步您的密碼、書籤與分頁。立即註冊 Firefox 帳號: 一次登入，隨處都有強大威力與隱私保護功能。
 
 
 # the span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 ;There is a way to protect your privacy. <span>Join Firefox.</span>
-There is a way to protect your privacy. <span>Join Firefox.</span>
+<span>加入 Firefox</span>，了解保護您的隱私的方法。
 
 
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
 ;Take your stand against an industry that’s making you the product.
-Take your stand against an industry that’s making you the product.
+採取行動，反對產業中將您變成產品銷售的行為。
 
 
 ;Join Firefox
-Join Firefox
+加入 Firefox
 
 
 ;Enter your email address to get started.
-Enter your email address to get started.
+輸入您的電子郵件地址，即可開始使用。
 
 
 ;Already have an account?
-Already have an account?
+已經有帳號了嗎？
 
 
 ;Sign In
-Sign In
+登入
 
 
 # the span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 ;You’re signed <br>in to Firefox. <br><span>Now try Firefox Monitor.</span>
-You’re signed <br>in to Firefox. <br><span>Now try Firefox Monitor.</span>
+您已登入<br>Firefox。<br><span>現在也試試 Firefox Monitor 吧。</span>
 
 
 ;See if you’ve been involved in an online data breach.
-See if you’ve been involved in an online data breach.
+看您是否身處於網站資料外洩事件中。
 
 
 ;Sign In to Monitor
-Sign In to Monitor
+登入 Monitor
 
 
 ;Firefox is technology that fights for you.
-Firefox is technology that fights for you.
+Firefox 使用的是為您而戰的技術。
 
 
 # String is obsolete. Do not remove.
 ;Get technology that fights for you.
-Get technology that fights for you.
+獲得為您而戰的技術。
 
 
 # This is not a complete proper name; "Firefox" is a proper name that shouldn't be translated, but you can choose to translate "browser". Span for formatting.
 ;Firefox <span>browser</span>
-Firefox <span>browser</span>
+Firefox <span>瀏覽器</span>
 
 
 ;Travel the internet with protection, on every device.
-Travel the internet with protection, on every device.
+在每一台裝置都提供隱私保護功能。
 
 
 ;Keep your passwords protected and portable.
-Keep your passwords protected and portable.
+保護密碼，又可隨身攜帶。
 
 
 ;Get a lookout for data breaches.
-Get a lookout for data breaches.
+檢查是否發生資料外洩事件。
 
 
 ;Share large files without prying eyes.
-Share large files without prying eyes.
+安全地分享大檔案。
 
 
 ;Get it all on every device, without feeling trapped in a single operating system.
-Get it all on every device, without feeling trapped in a single operating system.
+在所有裝置上都可以下載，不會讓您覺得被困在單一作業系統中。
 
 
 # String is obsolete. Do not remove.
 ;And get it all on every device, without feeling trapped in a single operating system.
-And get it all on every device, without feeling trapped in a single operating system.
+且在所有裝置上都可以下載，不會讓您覺得被困在單一作業系統中。
 
 
 ;Get the respect you deserve.
-Get the respect you deserve.
+得回您應受到的尊重。
 
 
 ;You’ll always get the truth from us. Everything we make and do honors our <a href="%(promise)s">Personal Data Promise</a>:
-You’ll always get the truth from us. Everything we make and do honors our <a href="%(promise)s">Personal Data Promise</a>:
+我們說的都是真話。我們做的每件事、打造的每套產品，都遵從我們對<a href="%(promise)s">個人資料的承諾</a>：
 
 
 # Line breaks for formatting.
 ;Take less.<br> Keep it safe.<br> No secrets.
-Take less.<br> Keep it safe.<br> No secrets.
+資料拿得越少越好。<br>確保資料安全。<br>絕不祕而不宣。
 
 
 ;Get the knowledge to keep you safe.
-Get the knowledge to keep you safe.
+獲得能保護您的線上安全的相關知識。
 
 
 ;Learn everything you need to know (but don’t yet) about staying smart and safe online, from some of the world’s foremost experts.
-Learn everything you need to know (but don’t yet) about staying smart and safe online, from some of the world’s foremost experts.
+從世界上最重要的專家，了解如何在網路上保持聰明與安全，而您卻還不知道的知識。
 
 
 ;And be part of protecting the internet for future generations.
-And be part of protecting the internet for future generations.
+也成為為下一代保護網際網路環境的一份子。
 
 
 ;Help us build a better Firefox for all.
-Help us build a better Firefox for all.
+幫助我們，為所有人打造更好的 Firefox。
 
 
 ;Get into the open source spirit by test-driving upcoming products.
-Get into the open source spirit by test-driving upcoming products.
+測試即將新推出的產品，參與體驗開源精神。
 
 
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 ;Help us keep Big Tech in check.
-Help us keep Big Tech in check.
+幫助我們，確保大型科技公司不會不受控制。
 
 
 ;We support communities all over the world standing up for a healthier internet. Add your voice to the fight.
-We support communities all over the world standing up for a healthier internet. Add your voice to the fight.
+對世界上所有要讓網際網路變得更健康的社群，我們全力相挺。也歡迎您於這場對抗中，參與獻聲。
 
 

@@ -1,143 +1,146 @@
+## active ##
+## accounts-metadata-072019 ##
+## accounts-signed-in-06132019 ##
 ## NOTE: https://www-dev.allizom.org/firefox/accounts/
 
 
 # HTML page title
 ;There is a way to protect your privacy. Join Firefox.
-There is a way to protect your privacy. Join Firefox.
+გზა, თქვენი პირადულობის დასაცავად. შემოუერთდით Firefox-ს.
 
 
 # String is obsolete. Do not remove.
 ;Get a Firefox Account – Keep your data private, safe and synced
-Get a Firefox Account – Keep your data private, safe and synced
+შექმენით Firefox-ანგარიში – შეინახეთ და გააზიარეთ პირადი მონაცემები უსაფრთხოდ
 
 
 # HTML page description
 ;Take your stand against an industry that’s selling your data to third parties. Stay smart and safe online with technology that fights for you.
-Take your stand against an industry that’s selling your data to third parties. Stay smart and safe online with technology that fights for you.
+წინ აღუდექით კომპანიებს, რომლებიც ყიდიან თქვენს მონაცემებს სხვებზე. მოხერხებულად და უსაფრთხოდ გამოიყენეთ ინტერნეტი ტექნოლოგიით, რომელიც თქვენთვის იბრძვის.
 
 
 # String is obsolete. Do not remove.
 ;Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox Account now – One login – Power and privacy everywhere.
-Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox Account now – One login – Power and privacy everywhere.
+უსაფრთხოდ დაასინქრონეთ პაროლები, სანიშნები და ჩანართები ყველა თქვენს მოწყობილობაზე. შექმენით Firefox-ანგარიში ახლავე – მხოლოდ ერთი შესვლა – მძლავრი შესაძლებლობები და პირადულობა ყველგან.
 
 
 # the span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 ;There is a way to protect your privacy. <span>Join Firefox.</span>
-There is a way to protect your privacy. <span>Join Firefox.</span>
+გზა, თქვენი პირადულობის დასაცავად. <span>შემოუერთდით Firefox-ს.</span>
 
 
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
 ;Take your stand against an industry that’s making you the product.
-Take your stand against an industry that’s making you the product.
+წინ აღუდექით კომპანიებს და აჩვენეთ, რომ არ ხართ მათი პროდუქტის ნაწილი.
 
 
 ;Join Firefox
-Join Firefox
+შემოუერთდით Firefox-ს
 
 
 ;Enter your email address to get started.
-Enter your email address to get started.
+შეიყვანეთ თქვენი ელფოსტა დასაწყებად.
 
 
 ;Already have an account?
-Already have an account?
+უკვე გაქვთ ანგარიში?
 
 
 ;Sign In
-Sign In
+შესვლა
 
 
 # the span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 ;You’re signed <br>in to Firefox. <br><span>Now try Firefox Monitor.</span>
-You’re signed <br>in to Firefox. <br><span>Now try Firefox Monitor.</span>
+თქვენ უკვე შესული ხართ <br>Firefox-ში. <br><span>ახლა კი გამოცადეთ Firefox Monitor.</span>
 
 
 ;See if you’ve been involved in an online data breach.
-See if you’ve been involved in an online data breach.
+გაარკვიეთ, თქვენი ანგარიშიც არის თუ არა, მიტაცებულ მონაცემებში.
 
 
 ;Sign In to Monitor
-Sign In to Monitor
+შედით Monitor-ის ანგარიშზე
 
 
 ;Firefox is technology that fights for you.
-Firefox is technology that fights for you.
+Firefox არის ტექნოლოგია, რომელიც თქვენთვის იბრძვის.
 
 
 # String is obsolete. Do not remove.
 ;Get technology that fights for you.
-Get technology that fights for you.
+ისარგებლეთ ტექნოლოგიით, რომლიც თქვენთვის იბრძვის.
 
 
 # This is not a complete proper name; "Firefox" is a proper name that shouldn't be translated, but you can choose to translate "browser". Span for formatting.
 ;Firefox <span>browser</span>
-Firefox <span>browser</span>
+Firefox <span>ბრაუზერი</span>
 
 
 ;Travel the internet with protection, on every device.
-Travel the internet with protection, on every device.
+იმოგზაურეთ ინტერნეტში უსაფრთხოდ, ნებისმიერი მოწყობილობით.
 
 
 ;Keep your passwords protected and portable.
-Keep your passwords protected and portable.
+უზრუნველყავით თქვენი პაროლების უსაფრთხოება და მარტივი ხელმისაწვდომობა.
 
 
 ;Get a lookout for data breaches.
-Get a lookout for data breaches.
+თვალი ადევნეთ მონაცემების მიტაცების შემთხვევებს.
 
 
 ;Share large files without prying eyes.
-Share large files without prying eyes.
+გააზიარეთ დიდი ზომის ფაილები, ცნობისმოყვარეების გარეშე.
 
 
 ;Get it all on every device, without feeling trapped in a single operating system.
-Get it all on every device, without feeling trapped in a single operating system.
+ეს ყველაფერი მიიღეთ ნებისმიერ მოწყობილობაზე, საოპერაციო სისტემის განურჩევლად.
 
 
 # String is obsolete. Do not remove.
 ;And get it all on every device, without feeling trapped in a single operating system.
-And get it all on every device, without feeling trapped in a single operating system.
+და მიიღეთ ეს ყველაფერი ნებისმიერ მოწყობილობაზე, საოპერაციო სისტემის განურჩევლად.
 
 
 ;Get the respect you deserve.
-Get the respect you deserve.
+მიიღეთ ღირსეული პატივსცემა, რომელსაც იმსახურებთ.
 
 
 ;You’ll always get the truth from us. Everything we make and do honors our <a href="%(promise)s">Personal Data Promise</a>:
-You’ll always get the truth from us. Everything we make and do honors our <a href="%(promise)s">Personal Data Promise</a>:
+ჩვენგან ყოველთვის სიმართლეს მოისმენთ. ყველაფერი რასაც ვაკეთებთ, ექვემდებარება ჩვენი <a href="%(promise)s">პირადი მონაცემების დაცვის პირობას</a>:
 
 
 # Line breaks for formatting.
 ;Take less.<br> Keep it safe.<br> No secrets.
-Take less.<br> Keep it safe.<br> No secrets.
+ნაკლები აღრიცხვა.<br> უსაფრთხო შენახვა.<br> არანაირი საიდუმლოებები.
 
 
 ;Get the knowledge to keep you safe.
-Get the knowledge to keep you safe.
+მიიღეთ ცოდნა, რომ იყოთ დაცული.
 
 
 ;Learn everything you need to know (but don’t yet) about staying smart and safe online, from some of the world’s foremost experts.
-Learn everything you need to know (but don’t yet) about staying smart and safe online, from some of the world’s foremost experts.
+შეისწავლეთ ყველაფერი, რაც საჭიროა იცოდეთ (მაგრამ ჯერ არ იცით), რომ შეძლოთ ინტერნეტის მოხერხებულად და უსაფრთხოდ გამოყენება, ამ საქმის მოწინავე სპეციალისტებისგან მთელი მსოფლიოდან.
 
 
 ;And be part of protecting the internet for future generations.
-And be part of protecting the internet for future generations.
+და მიიღეთ მონაწილეობა მომავალი თაობის ინტერნეტის უსაფრთხოების გაუმჯობესებაში.
 
 
 ;Help us build a better Firefox for all.
-Help us build a better Firefox for all.
+დაგვეხმარეთ, გავხადოთ Firefox უფრო უკეთესი ყველასთვის.
 
 
 ;Get into the open source spirit by test-driving upcoming products.
-Get into the open source spirit by test-driving upcoming products.
+ჩაწვდით ღია წყაროს არსს, სამომავლოდ გამოსაშვები პროდუქტების გამოცდით.
 
 
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 ;Help us keep Big Tech in check.
-Help us keep Big Tech in check.
+დაგვეხმარეთ, რომ შევძლოთ ტექგიგანტების კონტროლი.
 
 
 ;We support communities all over the world standing up for a healthier internet. Add your voice to the fight.
-We support communities all over the world standing up for a healthier internet. Add your voice to the fight.
+ჩვენ მხარს ვუჭერთ ყველა გაერთიანებას მთელ მსოფლიოში, რომელიც იღწვის ინტერნეტის სიჯანსაღისთვის. შეიტანეთ თქვენი წვლილი ამ ბრძოლაში.
 
 
