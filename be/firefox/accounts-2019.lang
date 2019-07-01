@@ -1,9 +1,10 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/accounts/
 
 
 # HTML page title
 ;There is a way to protect your privacy. Join Firefox.
-There is a way to protect your privacy. Join Firefox.
+Ёсць спосаб абараніць вашу прыватнасць. Далучайцеся да Firefox.
 
 
 # String is obsolete. Do not remove.
@@ -13,7 +14,7 @@ There is a way to protect your privacy. Join Firefox.
 
 # HTML page description
 ;Take your stand against an industry that’s selling your data to third parties. Stay smart and safe online with technology that fights for you.
-Take your stand against an industry that’s selling your data to third parties. Stay smart and safe online with technology that fights for you.
+Выступіце супраць прамысловасці, якая прадае вашы дадзеныя трэцім асобам. Будзьце разумныя і бяспечныя ў інтэрнэце з дапамогай тэхналогій, якія змагаюцца за вас.
 
 
 # String is obsolete. Do not remove.
@@ -23,12 +24,12 @@ Take your stand against an industry that’s selling your data to third parties.
 
 # the span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 ;There is a way to protect your privacy. <span>Join Firefox.</span>
-There is a way to protect your privacy. <span>Join Firefox.</span>
+Ёсць спосаб абараніць вашу прыватнасць. <span>Далучайцеся да Firefox.</span>
 
 
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
 ;Take your stand against an industry that’s making you the product.
-Take your stand against an industry that’s making you the product.
+Выступіце супраць прамысловасці, якая робіць вас таварам.
 
 
 ;Join Firefox
@@ -49,7 +50,7 @@ Take your stand against an industry that’s making you the product.
 
 # the span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 ;You’re signed <br>in to Firefox. <br><span>Now try Firefox Monitor.</span>
-You’re signed <br>in to Firefox. <br><span>Now try Firefox Monitor.</span>
+Вы ўвайшлі <br>ў Firefox. <br><span>Цяпер паспрабуйце Firefox Monitor.</span>
 
 
 ;See if you’ve been involved in an online data breach.
@@ -91,53 +92,53 @@ Firefox - гэта тэхналогія, якая змагаецца за вас
 
 
 ;Get it all on every device, without feeling trapped in a single operating system.
-Get it all on every device, without feeling trapped in a single operating system.
+Атрымайце доступ да іх на кожнай прыладзе, не адчуваючы сябе ў пастцы адной аперацыйнай сістэмы.
 
 
 # String is obsolete. Do not remove.
 ;And get it all on every device, without feeling trapped in a single operating system.
-And get it all on every device, without feeling trapped in a single operating system.
+І атрымлівайце доступ да іх на кожнай прыладзе, не адчуваючы сябе ў пастцы адной аперацыйнай сістэмы.
 
 
 ;Get the respect you deserve.
-Get the respect you deserve.
+Атрымайце павагу, якой вы вартыя.
 
 
 ;You’ll always get the truth from us. Everything we make and do honors our <a href="%(promise)s">Personal Data Promise</a>:
-You’ll always get the truth from us. Everything we make and do honors our <a href="%(promise)s">Personal Data Promise</a>:
+Вы заўсёды атрымаеце праўду ад нас. Ва ўсім, што мы робім, мы шануем наша <a href="%(promise)s">Абяцанне па асабістых дадзеных</a>:
 
 
 # Line breaks for formatting.
 ;Take less.<br> Keep it safe.<br> No secrets.
-Take less.<br> Keep it safe.<br> No secrets.
+Збіраць менш.<br> Захоўваць у бяспецы.<br> Ніякіх сакрэтаў.
 
 
 ;Get the knowledge to keep you safe.
-Get the knowledge to keep you safe.
+Атрымайце веды, каб заставацца ў бяспецы.
 
 
 ;Learn everything you need to know (but don’t yet) about staying smart and safe online, from some of the world’s foremost experts.
-Learn everything you need to know (but don’t yet) about staying smart and safe online, from some of the world’s foremost experts.
+Даведайцеся аб усім, што вам трэба ведаць (але вы яшчэ не ведаеце), пра тое, як заставацца разумным і бяспечным у сеціве, ад некалькіх вядучых сусветных спецыялістаў.
 
 
 ;And be part of protecting the internet for future generations.
-And be part of protecting the internet for future generations.
+І будзьце часткай абароны інтэрнэту для будучых пакаленняў.
 
 
 ;Help us build a better Firefox for all.
-Help us build a better Firefox for all.
+Дапамажыце нам стварыць лепшы Firefox для ўсіх.
 
 
 ;Get into the open source spirit by test-driving upcoming products.
-Get into the open source spirit by test-driving upcoming products.
+Прычыніцеся да духу праграм з адкрытым зыходным кодам, тэстуючы новыя прадукты.
 
 
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 ;Help us keep Big Tech in check.
-Help us keep Big Tech in check.
+Дапамажыце нам стрымліваць тэхналагічныя карпарацыі.
 
 
 ;We support communities all over the world standing up for a healthier internet. Add your voice to the fight.
-We support communities all over the world standing up for a healthier internet. Add your voice to the fight.
+Мы падтрымліваем суполкі ва ўсім свеце, якія выступаюць за больш здаровы Інтэрнэт. Падтрымайце нашу барацьбу.
 
 
