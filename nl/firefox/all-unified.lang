@@ -16,36 +16,36 @@ Choose which Firefox Browser to download in your language
 
 
 ;Check the system requirements
-Check the system requirements
+Controleer de systeemvereisten
 
 
 ;Release notes
-Release notes
+Uitgaveopmerkingen
 
 
 ;Source code
-Source code
+Broncode
 
 
 ;Firefox Privacy Notice
-Firefox Privacy Notice
+Firefox-privacyverklaring
 
 
 ;Need help?
-Need help?
+Hulp nodig?
 
 
 ;Which browser would you like to download?
-Which browser would you like to download?
+Welke browser wilt u downloaden?
 
 
 ;Learn about Firefox browsers
-Learn about Firefox browsers
+Meer informatie over Firefox-browsers
 
 
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 ;Get help
-Get help
+Hulp verkrijgen
 
 
 ;You are about to download:
@@ -53,15 +53,15 @@ You are about to download:
 
 
 ;Browser:
-Browser:
+Browser: {ok}
 
 
 ;Platform:
-Platform:
+Platform: {ok}
 
 
 ;Language:
-Language:
+Taal:
 
 
 ;Sorry, we couldn’t find the download you’re looking for. Please try again, or select a download from the list below.
@@ -69,11 +69,11 @@ Sorry, we couldn’t find the download you’re looking for. Please try again, o
 
 
 ;Download Now
-Download Now
+Nu downloaden
 
 
 ;Menu
-Menu
+Menu {ok}
 
 
 ;The standard Firefox browser — fast and private. If you’re not sure which Firefox to choose, choose this.
@@ -121,7 +121,7 @@ Windows installers for corporate IT that simplify the configuration, deployment 
 
 
 ;Which version would you like?
-Which version would you like?
+Welke versie wilt u?
 
 
 ;Select your preferred installer

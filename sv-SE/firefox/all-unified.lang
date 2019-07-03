@@ -1,143 +1,144 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/all/
 
 
 # HTML page title. Replace "English (US)" with your local language.
 ;Download the Firefox Browser in English (US) and more than 90 other languages
-Download the Firefox Browser in English (US) and more than 90 other languages
+Ladda ner Firefox webbläsaren på Engelska (USA) eller på mer än 90 andra språk
 
 
 # HTML page description, also used as the introductory text.
 ;Everyone deserves access to the internet — your language should never be a barrier. That’s why — with the help of dedicated volunteers around the world — we make the Firefox Browser available in more than 90 languages.
-Everyone deserves access to the internet — your language should never be a barrier. That’s why — with the help of dedicated volunteers around the world — we make the Firefox Browser available in more than 90 languages.
+Alla förtjänar tillgång till internet - ditt språk ska aldrig vara ett hinder. Därför gör vi Firefox-webbläsaren tillgänglig på mer än 90 språk med hjälp av dedikerade volontärer runt om i världen.
 
 
 ;Choose which Firefox Browser to download in your language
-Choose which Firefox Browser to download in your language
+Välj vilken Firefox-webbläsare du vill ladda ner på ditt språk
 
 
 ;Check the system requirements
-Check the system requirements
+Kontrollera systemkraven
 
 
 ;Release notes
-Release notes
+Versionsfakta
 
 
 ;Source code
-Source code
+Källkod
 
 
 ;Firefox Privacy Notice
-Firefox Privacy Notice
+Firefox Sekretesspolicy
 
 
 ;Need help?
-Need help?
+Behöver du hjälp?
 
 
 ;Which browser would you like to download?
-Which browser would you like to download?
+Vilken webbläsare vill du ladda ner?
 
 
 ;Learn about Firefox browsers
-Learn about Firefox browsers
+Lär dig om Firefox-webbläsare
 
 
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 ;Get help
-Get help
+Få hjälp
 
 
 ;You are about to download:
-You are about to download:
+Du håller på att ladda ner:
 
 
 ;Browser:
-Browser:
+Webbläsare:
 
 
 ;Platform:
-Platform:
+Plattform:
 
 
 ;Language:
-Language:
+Språk:
 
 
 ;Sorry, we couldn’t find the download you’re looking for. Please try again, or select a download from the list below.
-Sorry, we couldn’t find the download you’re looking for. Please try again, or select a download from the list below.
+Tyvärr kunde vi inte hitta den nedladdning du letar efter. Vänligen försök igen, eller välj en nedladdning från listan nedan.
 
 
 ;Download Now
-Download Now
+Ladda ner nu
 
 
 ;Menu
-Menu
+Meny
 
 
 ;The standard Firefox browser — fast and private. If you’re not sure which Firefox to choose, choose this.
-The standard Firefox browser — fast and private. If you’re not sure which Firefox to choose, choose this.
+Standard Firefox-webbläsare - snabb och privat. Om du inte är säker på vilken Firefox du ska välja väljer du den här.
 
 
 ;Get a sneak peek at the latest Firefox browser features before they’re released.
-Get a sneak peek at the latest Firefox browser features before they’re released.
+Ta en smygtitt på de senaste Firefox-webbläsarfunktionerna innan de släpps.
 
 
 ;Test your sites against soon-to-be-released Firefox browser features with powerful, flexible DevTools that are on by default.
-Test your sites against soon-to-be-released Firefox browser features with powerful, flexible DevTools that are on by default.
+Testa dina webbplatser mot snart utgivna Firefox-webbläsarfunktioner med kraftfulla, flexibla DevTools som är aktiverade som standard.
 
 
 ;The pre-alpha version for power users who like to hunt crashes and test new features as they’re coded.
-The pre-alpha version for power users who like to hunt crashes and test new features as they’re coded.
+Pre-alpha-versionen för mer erfarna användare som gillar att jaga kraschar och testa nya funktioner medans dom blir programmerade.
 
 
 ;Count on stability and ease of use with this Firefox browser built for enterprise.
-Count on stability and ease of use with this Firefox browser built for enterprise.
+Räkna med stabilitet och användarvänlighet med denna Firefox-webbläsare byggd för företag.
 
 
 ;64-bit installers
-64-bit installers
+64-bitars installerare
 
 
 ;Choose a 64-bit installer for computers with 64-bit processors, which allow them to allocate more RAM to individual programs — particularly important for games and other demanding applications.
-Choose a 64-bit installer for computers with 64-bit processors, which allow them to allocate more RAM to individual programs — particularly important for games and other demanding applications.
+Välj ett 64-bitars installationsprogram för datorer med 64-bitars processorer, vilket gör det möjligt för dem att fördela mer RAM till enskilda program - särskilt viktigt för spel och andra krävande applikationer.
 
 
 ;32-bit installers
-32-bit installers
+32-bitars installerare
 
 
 ;Choose a 32-bit installer for computers with 32-bit processors — or for older or less powerful computers. <a href="%(url)s">If you aren’t sure</a> whether to choose a 64-bit or 32-bit installer, we recommend you go with 32-bit.
-Choose a 32-bit installer for computers with 32-bit processors — or for older or less powerful computers. <a href="%(url)s">If you aren’t sure</a> whether to choose a 64-bit or 32-bit installer, we recommend you go with 32-bit.
+Välj ett 32-bitars installationsprogram för datorer med 32-bitars processorer - eller för äldre eller mindre kraftfulla datorer. <a href="%(url)s">Om du inte är säker</a> om du vill välja ett 64-bitars eller 32-bitars installationsprogram rekommenderar vi att du väljer 32-bitars.
 
 
 ;MSI installers
-MSI installers
+MSI installerare
 
 
 ;Windows installers for corporate IT that simplify the configuration, deployment and management of the Firefox Browser.
-Windows installers for corporate IT that simplify the configuration, deployment and management of the Firefox Browser.
+Windows installerare för företags IT miljöer som förenklar konfigurationen, distributionen och hanteringen av Firefox webbläsaren.
 
 
 ;Which version would you like?
-Which version would you like?
+Vilken version vill du ha?
 
 
 ;Select your preferred installer
-Select your preferred installer
+Välj önskat installationsprogram
 
 
 ;Learn about installers
-Learn about installers
+Läs mer om installationsprogram
 
 
 ;Select your preferred language
-Select your preferred language
+Välj ditt önskade språk
 
 
 # %(product_label)s is replaced with the product name e.g "Firefox", %(platform)s with the platform name e.g. "Windows", and %(locale)s with the language name e.g. "German".
 ;Download %(product_label)s for %(platform)s in %(locale)s
-Download %(product_label)s for %(platform)s in %(locale)s
+Ladda ner %(product_label)s för %(platform)s på %(locale)s
 
 

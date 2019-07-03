@@ -4,6 +4,8 @@
 ## firefox_new_try_again_link_020818 ##
 ## firefox_quantum_new_headline ##
 ## firstrun_email_only_form ##
+## fxnew_account_032019 ##
+## truly_removal_2019 ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/new/
 
 
@@ -25,12 +27,12 @@
 
 # /firefox/windows/ main page title. Span is for visually formatting.
 ;Firefox fights for you <span>on Windows.</span>
-Firefox fights for you <span>on Windows.</span>
+<span>Windows</span> પર Firefox તમારા માટે લડે છે.
 
 
 # /firefox/mac/ main page title. Span is for visually formatting.
 ;Firefox respects <span>your privacy on Mac.</span>
-Firefox respects <span>your privacy on Mac.</span>
+Firefox <span>Mac પર તમારી ગોપનીયતાને</span> માન આપે છે.
 
 
 # /firefox/linux/ main page title.
@@ -43,7 +45,7 @@ Linux માટે Firefox
 
 
 ;Own your online life.
-Own your online life.
+તમે તમારા ઑનલાઇન જીવનની માલિકી રાખો.
 
 
 ;Fast for good.
@@ -102,11 +104,11 @@ Own your online life.
 
 # The phrase “Now get everything else Firefox” is in specific reference to a Firefox account, which unlocks access to all our new products and services.
 ;You’ve already got the Firefox browser. Now get everything else Firefox.
-You’ve already got the Firefox browser. Now get everything else Firefox.
+તમે પહેલાથી જ Firefox બ્રાઉઝર મેળવ્યું છે. હવે Firefox પર બીજું બધું મેળવો.
 
 
 ;Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
-Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
+એક Firefox એકાઉન્ટ સાથે બુકમાર્ક્સને સમન્વયિત કરો, ટૅબ્સ મોકલો, Pocket પર સાચવો અને ઘણું બધુ કરો.
 
 
 ;Get a Firefox Account
@@ -244,7 +246,7 @@ Mozilla Firefox ડાઉનલોડ કરો, એક મફત વેબ બ�
 
 # /firefox/windows/ social sharing title
 ;Download the fastest Firefox for Windows ever
-Download the fastest Firefox for Windows ever
+Windows માટે સૌથી ઝડપી Firefox ડાઉનલોડ કરો
 
 
 # /firefox/mac/ social sharing title
@@ -263,7 +265,7 @@ Linux માટે સૌથી ઝડપી Firefox ડાઉનલોડ ક�
 
 # /firefox/windows/ social sharing description
 ;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
-Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+ઝડપી પૃષ્ઠ લોડ કરવું, ઓછું મેમરી વપરાશ અને સુવિધાઓ વાળું, Windows માટેનું નવું Firefox અહીં છે.
 
 
 # /firefox/mac/ social sharing description
@@ -309,7 +311,7 @@ Firefox moves fast and treats your data with care - no ad tracking and no slowdo
 
 
 ;Common sense privacy
-Common sense privacy
+સામાન્ય અર્થમાં ગોપનીયતા
 
 
 ;Lightweight
@@ -337,11 +339,11 @@ Chrome કરતાં 30% અોછી મેમરીનો ઉપયોગ �
 
 
 ;Open source
-Open source
+Open source {ok}
 
 
 ;Seamless setup
-Seamless setup
+સીમલેસ સેટઅપ
 
 
 ;Powerfully private
@@ -357,11 +359,11 @@ Look under the hood. Like Linux, Firefox features are open source.
 
 
 ;Easy migration of preferences and bookmarks when you download Firefox for Windows.
-Easy migration of preferences and bookmarks when you download Firefox for Windows.
+જ્યારે તમે Windows માટે Firefox ડાઉનલોડ કરો ત્યારે પસંદગીઓ અને બુકમાર્ક્સનો સરળતાથી સ્થળાંતર કરી શકશો.
 
 
 ;Private Browsing with Tracking Protection
-Private Browsing with Tracking Protection
+ટ્રેકિંગ સુરક્ષા સાથે ખાનગી બ્રાઉઝિંગ
 
 
 # String is obsolete. Do not remove.
