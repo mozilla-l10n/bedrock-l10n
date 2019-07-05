@@ -1,4 +1,5 @@
 ## active ##
+## accounts-metadata-072019 ##
 ## NOTE: https://www-dev.allizom.org/firefox/accounts/
 
 
@@ -14,7 +15,7 @@ Créez votre compte Firefox – Vos données restent synchronisées, sécurisée
 
 # HTML page description
 ;Take your stand against an industry that’s selling your data to third parties. Stay smart and safe online with technology that fights for you.
-Take your stand against an industry that’s selling your data to third parties. Stay smart and safe online with technology that fights for you.
+Opposez-vous à une industrie qui vend vos données à des tiers. En ligne, garantissez votre sécurité grâce à une technologie qui se bat pour vous.
 
 
 # String is obsolete. Do not remove.
@@ -50,7 +51,7 @@ Connectez-vous
 
 # the span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 ;You’re signed <br>in to Firefox. <br><span>Now try Firefox Monitor.</span>
-You’re signed <br>in to Firefox. <br><span>Now try Firefox Monitor.</span>
+Connexion à Firefox <br>effectuée. <br><span>Essayez Firefox Monitor maintenant.</span>
 
 
 ;See if you’ve been involved in an online data breach.
@@ -62,7 +63,7 @@ Connectez-vous à Monitor
 
 
 ;Firefox is technology that fights for you.
-Firefox is technology that fights for you.
+Firefox est une technologie qui lutte pour vos droits.
 
 
 # String is obsolete. Do not remove.
