@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo page at https://bedrock-demo-achurchwell.oregon-b.moz.works/firefox/best-browser/
 
 
@@ -48,11 +49,11 @@
 
 
 ;A browser is still a tool, so it makes sense that you’ll want to pick the best one for the job. If you’re a human who needs to work to survive, you’ll need a fast internet browser. One thing to keep in mind is a browser that runs third-party trackers is more likely to be slower than a browser that doesn’t. Third-party trackers are cookies, and while you can’t see them, they are running in the background of the site, taking up precious time. The more third-party trackers a browser blocks, the faster it can run.
-A browser is still a tool, so it makes sense that you’ll want to pick the best one for the job. If you’re a human who needs to work to survive, you’ll need a fast internet browser. One thing to keep in mind is a browser that runs third-party trackers is more likely to be slower than a browser that doesn’t. Third-party trackers are cookies, and while you can’t see them, they are running in the background of the site, taking up precious time. The more third-party trackers a browser blocks, the faster it can run.
+浏览器仍是一种工具，因此您应该挑选最适合自己的一款。如果你的工作需要处理很多事务，就需要一个快速的网页浏览器。请记住一点：运行第三方跟踪器的浏览器比不运行第三方跟踪器的浏览器更慢。第三方跟踪器是 Cookie，虽然您看不到它们，但它们在站点的后台运行，占用您宝贵的时间。浏览器拦截的第三方跟踪器越多，运行速度就越快。
 
 
 ;This is one of the many reasons to choose the Firefox browser: Firefox blocks third-party trackers by default. We have other reasons and we’ll get into those later.
-This is one of the many reasons to choose the Firefox browser: Firefox blocks third-party trackers by default. We have other reasons and we’ll get into those later.
+这就是许多人选择 Firefox 浏览器的理由之一：Firefox 会默认拦截第三方跟踪器。后面还有更多理由，我们接下来会提到。
 
 
 ;A browser that puts safety first.
@@ -60,55 +61,55 @@ This is one of the many reasons to choose the Firefox browser: Firefox blocks th
 
 
 ;Remember the last massive data breach? If not, it’s probably because it happens so often. Companies hold on to customer data, like their personal or financial information, and hackers steal it. If you’re making safety a priority, then a secure internet browser is the best browser for you.
-Remember the last massive data breach? If not, it’s probably because it happens so often. Companies hold on to customer data, like their personal or financial information, and hackers steal it. If you’re making safety a priority, then a secure internet browser is the best browser for you.
+还记得上次发生的大规模数据外泄事件是什么吗？如果已经不记得了，大概是太常发生了。有各种各样的公司会收集各种客户数据，当中包括个人或财务信息，那是黑客窃取的目标。若您将安全放在首位，那么安全的浏览器对您来说就至关重要。
 
 
 ;There are a few ways a browser can help its users stay secure. A browser that is up to date with the latest security tech can help protect your computer and websites from unwanted visitors, such as malware or computer viruses.
-There are a few ways a browser can help its users stay secure. A browser that is up to date with the latest security tech can help protect your computer and websites from unwanted visitors, such as malware or computer viruses.
+浏览器有许多方法可以确保用户的安全。使用最新安全技术的浏览器，可帮助保护您的计算机和网站免受恶意软件或计算机病毒等不受欢迎的侵入者的攻击。
 
 
 ;The second is not storing too much user data. Hackers can’t steal what’s not there, which is why Firefox keeps a minimum amount of information about its users. <a href="%(data)s">Firefox knows</a> if you use the browser and your general location <a href="%(privacy)s">but not the name of your childhood pet or your favorite color.</a>
-The second is not storing too much user data. Hackers can’t steal what’s not there, which is why Firefox keeps a minimum amount of information about its users. <a href="%(data)s">Firefox knows</a> if you use the browser and your general location <a href="%(privacy)s">but not the name of your childhood pet or your favorite color.</a>
+再者是不存储太多用户数据。不存在的东西黑客就偷不走，这也是为什么 Firefox 尽可能少地收集与用户相关的数据的原因。<a href="%(data)s">Firefox 会知道</a>您使用了浏览器，以及您的大略位置，<a href="%(privacy)s">但不会收集您童年宠物的名字，或是您最喜欢的颜色。</a>
 
 
 ;Last but not least, a safe browser should offer tools to help you keep an eye on your accounts. Think of alerts that go straight to your email if any of your accounts get breached or icons that tell you whether a website is encrypted, (i.e., if it’s a good idea to enter your credit number on a shopping site).
-Last but not least, a safe browser should offer tools to help you keep an eye on your accounts. Think of alerts that go straight to your email if any of your accounts get breached or icons that tell you whether a website is encrypted, (i.e., if it’s a good idea to enter your credit number on a shopping site).
+最后同样重要的是，一款安全的浏览器应提供可让您检查账号安全性的工具，想想如果您的任何账号信息外泄，可直接收到警报邮件，或是有图标能告知您网页连接是否经过加密，这样在网页上刷卡时才能安心。
 
 
 ;Firefox is offering something new to keep you safe: <a href="%(monitor)s">Firefox Monitor</a>. It’s a free service that will alert you if there are any public hacks on your accounts and let you know if your accounts got hacked in the past. Another neat feature is the Green Lock. It looks like a small green icon at the top left side of the browser window. If you’re on Firefox and see the green lock, it means the website is encrypted and secure. If the lock is grey, you might want to think twice about entering any sensitive information.
-Firefox is offering something new to keep you safe: <a href="%(monitor)s">Firefox Monitor</a>. It’s a free service that will alert you if there are any public hacks on your accounts and let you know if your accounts got hacked in the past. Another neat feature is the Green Lock. It looks like a small green icon at the top left side of the browser window. If you’re on Firefox and see the green lock, it means the website is encrypted and secure. If the lock is grey, you might want to think twice about entering any sensitive information.
+Firefox 提供能让您确保安全的新功能：<a href="%(monitor)s">Firefox Monitor </a>。这是一个可在与您相关的数据外泄事件公开时，向您发出警报的免费服务。你也可以使用此服务检查您在各个网站账号是否曾经遭窃。另一个很棒的功能是“小绿锁”，它出现于浏览器窗口的左上角。当您使用 Firefox 时若看到这把锁，就代表与该网站间的连接经过加密，可以确保安全。若小锁是灰色的，那么在输入任何敏感信息前最好三思。
 
 
 ;We visit hundreds or even thousands of websites each day, and you can’t expect users to make security and privacy decisions for each of these sites. That is why a browser that gives you more control is so important - because it offers real, meaningful protection.
-We visit hundreds or even thousands of websites each day, and you can’t expect users to make security and privacy decisions for each of these sites. That is why a browser that gives you more control is so important - because it offers real, meaningful protection.
+我们每天都会访问成百上千的网站，您不能指望用户为每个网站做出兼顾安全隐私的决定，这就是为什么提供更多控制权的浏览器非常重要：因为它提供了真正有意义的保护。
 
 
 ;A browser that minds its business.
-A browser that minds its business.
+一心做自己的浏览器。
 
 
 ;Privacy on the web is a hot button issue. If privacy is number one on your list of priorities, you want to look for a browser that takes that seriously. When choosing the best private browser for you, look at the tracking policy and how a browser handles your data. These seem like technical questions, but they’re the reason some browsers are more private than others.
-Privacy on the web is a hot button issue. If privacy is number one on your list of priorities, you want to look for a browser that takes that seriously. When choosing the best private browser for you, look at the tracking policy and how a browser handles your data. These seem like technical questions, but they’re the reason some browsers are more private than others.
+网络隐私是个很热门的议题。。若隐私对您来说是最重要的，那您就该使用会严肃看待用户隐私的浏览器。当选择最适合您的浏览器时，检查它的跟踪政策，以及如何处理您的数据。这听起来是很技术性的问题，但它们也是一些浏览器比其它浏览器更能保护隐私的原因。
 
 
 ;Trackers are all those annoying “cookies” messages you get on airline sites. These third-party trackers know where you click and can be used to analyze your behavior. A private browser should give users the option to turn off third-party trackers, but ideally, turn them off by default.
-Trackers are all those annoying “cookies” messages you get on airline sites. These third-party trackers know where you click and can be used to analyze your behavior. A private browser should give users the option to turn off third-party trackers, but ideally, turn them off by default.
+跟踪器就是你在航空公司网站订票时会看到的“Cookie”相关信息。这些第三方跟踪器会知道您点击了哪些链接、按钮，并分析您的行为。一款隐私浏览器应该给予用户选项关闭第三方跟踪器，更理想的是，默认关掉这些跟踪器。
 
 
 ;Another way to stop trackers from tracking is using private mode to browse. Any browser that claims to be private should offer browsing in private mode.
-Another way to stop trackers from tracking is using private mode to browse. Any browser that claims to be private should offer browsing in private mode.
+另一个可阻止跟踪器跟踪的方法就是使用隐私模式浏览。任何宣称保护用户隐私的浏览器，都应提供该模式。
 
 
 ;One easy way to check is to visit a browser’s content setting page and privacy policy. The privacy webpage should outline if your data is shared and why. It’s why the <a href="%(privacy)s">Firefox privacy notice</a> is easy to read and easy to find.
-One easy way to check is to visit a browser’s content setting page and privacy policy. The privacy webpage should outline if your data is shared and why. It’s why the <a href="%(privacy)s">Firefox privacy notice</a> is easy to read and easy to find.
+一种简单的方法就是检查浏览器的内容设置页面，以及隐私政策。隐私政策页面应阐明您的数据是否会分享给第三方，以及为何要分享。这也是为什么我们把 <a href="%(privacy)s">Firefox 隐私声明页</a>写得通俗易懂且位置显眼的原因。
 
 
 ;Choosing the best browser for you is a lot like choosing a home. You want to explore your options, do some research and make a decision based on what’s important to you.
-Choosing the best browser for you is a lot like choosing a home. You want to explore your options, do some research and make a decision based on what’s important to you.
+选择您的最佳浏览器，就像挑选新房一样。仔细研究，货比三家，然后根据对您来说最重要的事情做出决定。
 
 
 ;At <a href="%(firefox)s">Firefox</a>, we’ve worked hard to build a browser that is twice as fast as before and gives users more control over their online life.
-At <a href="%(firefox)s">Firefox</a>, we’ve worked hard to build a browser that is twice as fast as before and gives users more control over their online life.
+在 <a href="%(firefox)s">Firefox</a>，我们努力构建一款速度翻倍，可让用户掌控自己在线生活的浏览器。
 
 
 ;Take control of your browser.

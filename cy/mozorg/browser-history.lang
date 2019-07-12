@@ -1,0 +1,107 @@
+## active ##
+## NOTE: https://www-dev.allizom.org/technology/browser-history/
+
+
+# HTML title tag
+;Browser History: Epic power struggles that brought us modern browsers
+Hanes y Porwr: Y brwydrau pŵer epig sydd wedi creu'r porwyr modern
+
+
+# HTML description tag
+;The browser wars, underdogs vs giants, and moments that changed the world. Read about the history of the web browser.
+Rhyfeloedd y porwyr, y distadl yn erbyn y cewri, ac eiliadau sy'n newid y byd. Darllenwch am hanes y porwr gwe.
+
+
+# Page heading
+;The History of Web Browsers
+Hanes Porwyr Gwe
+
+
+;World history is rife with epic power struggles, world-conquering tyrants, and heroic underdogs. The history of web browsers isn’t very different. University pioneers wrote simple software that sparked an information revolution, and battle for browser superiority and internet users.
+Mae hanes y byd yn llawn o frwydrau pŵer epig, gormeswyr byd-eang, a'r distadl arwrol. Nid yw hanes porwyr gwe yn wahanol iawn. Ysgrifennodd arloeswyr prifysgolion feddalwedd syml a sbardunodd chwyldro gwybodaeth, a brwydr dros ragoriaeth porwyr a defnyddwyr rhyngrwyd.
+
+
+;Before Web Era
+Cyn Oes y We
+
+
+;In 1950, computers took up whole rooms and were dumber than today’s pocket calculators. But progress was swift, and by 1960 they were able to run complex programs. Governments and universities across the globe thought it would be great if the machines could talk, nurturing collaboration and scientific breakthroughs.
+Ym 1950, roedd cyfrifiaduron mor fawr ag ystafelloedd cyfan ac yn llai galluog na chyfrifianellau poced heddiw. Ond bu'r cynnydd yn un cyflym, ac erbyn 1960 roedden nhw'n gallu rhedeg rhaglenni cymhleth. Roedd llywodraethau a phrifysgolion ar draws y byd o'r farn y byddai'n wych pe gallai'r peiriannau siarad, gan feithrin cydweithrediad a datblygiadau gwyddonol.
+
+
+;<a href="%(arpanet)s">ARPANET</a> was the first successful networking project and in 1969 the first message was sent from the computer science lab at University of California, Los Angeles (UCLA) to Stanford Research Institute (SRI), also in California.
+<a href="%(arpanet)s">ARPANET</a> oedd y prosiect rhwydweithio llwyddiannus cyntaf ac yn 1969 anfonwyd y neges gyntaf o'r labordy gwyddoniaeth gyfrifiadurol ym Mhrifysgol California, Los Angeles (UCLA) i Stanford Research Institute (SRI), hefyd yng Nghaliffornia.
+
+
+;That sparked a revolution in computer networking. New networks formed, connecting universities and research centers across the globe. But for the next 20 years, the internet wasn’t accessible to the public. It was restricted to university and government researchers, students, and private corporations. There were dozens of programs that could trade information over telephone lines, but none of them were easy to use. The real open internet, and the first web browser, wasn’t created until 1990.
+Arweiniodd hynny at chwyldro mewn rhwydweithio cyfrifiadurol. Ffurfiwyd rhwydweithiau newydd, gan gysylltu prifysgolion a chanolfannau ymchwil ledled y byd. Ond am yr 20 mlynedd nesaf, nid oedd y rhyngrwyd ar gael i'r cyhoedd. Roedd wedi'i gyfyngu i ymchwilwyr prifysgol, llywodraeth a myfyrwyr, a chorfforaethau preifat. Roedd dwsinau o raglenni a allai fasnachu gwybodaeth dros linellau ffôn, ond nid oedd yr un ohonynt yn hawdd i'w defnyddio. Nid oedd y rhyngrwyd agored go iawn a'r porwr gwe cyntaf, wedi'i greu tan 1990.
+
+
+;Web Era
+Oes y We
+
+
+;British computer scientist Tim Berners-Lee created the first web server and graphical web browser in 1990 while <a href="%(cern)s">working at CERN</a>, the European Organization for Nuclear Research, in Switzerland. He called his new window into the internet “WorldWideWeb.” It was an easy-to-use graphical interface created for the NeXT computer. For the first time, text documents were linked together over a public network—the web as we know it.
+Creodd y gwyddonydd cyfrifiadurol o Brydain, Tim Berners-Lee, y gweinydd gwe cyntaf a'r porwr gwe graffigol yn 1990 tra'n <a href="%(cern)s">gweithio yn CERN</a>, y Sefydliad Ewropeaidd ar gyfer Ymchwil Niwclear, yn y Swistir. Galwodd ei ffenestr newydd i'r rhyngrwyd, y “WorldWideWeb.” Roedd yn rhyngwyneb graffigol hawdd ei ddefnyddio a grëwyd ar gyfer cyfrifiadur NXT. Am y tro cyntaf, cysylltwyd dogfennau testun gyda'i gilydd dros rwydwaith cyhoeddus — y we fel rydym ni yn ei adnabod.
+
+
+;A year later, Berners-Lee asked CERN math student Nicola Pellow to write the Line Mode Browser, a program for basic computer terminals.
+Flwyddyn yn ddiweddarach, gofynnodd Berners-Lee i Nicola Pellow, myfyriwr mathemateg yn CERN, i ysgrifennu'r Line Mode Browser, rhaglen ar gyfer terfynellau cyfrifiadur sylfaenol.
+
+
+;By 1993, the web exploded. Universities, governments, and private corporations all saw opportunity in the open internet. Everyone needed new computer programs to access it. That year, Mosaic was created at the National Center for Supercomputing Applications (NCSA) at the University of Illinois Urbana-Champaign by computer scientist Marc Andreessen. It was the very first popular web browser and the early ancestor of <a href="%(firefox)s">Mozilla Firefox</a>.
+Erbyn 1993, ffrwydrodd y we. Gwelodd prifysgolion, llywodraethau, a chorfforaethau preifat gyfle yn y rhyngrwyd agored. Roedd angen rhaglenni cyfrifiadurol newydd ar bawb i'w ddefnyddio. Y flwyddyn honno, crëwyd Mosaic yn y National Center for Supercomputing Applications (NCSA) ym Mhrifysgol Illinois Urbana-Champaign gan y gwyddonydd cyfrifiadurol Marc Andreessen. Hwn oedd y porwr gwe poblogaidd cyntaf a hynafiad cynnar <a href="%(firefox)s">Mozilla Firefox</a>.
+
+
+;NSCA Mosaic ran on Windows computers, was easy to use, and gave anyone with a PC access to early web pages, chat rooms, and image libraries. The next year (1994), Andreessen founded <a href="%(netscape)s">Netscape</a> and released Netscape Navigator to the public. It was wildly successful, and the first browser for the people. It was also the first move in a new kind of war for internet users.
+Roedd NSCA Mosaic yn rhedeg ar gyfrifiaduron Windows ac yn hawdd ei ddefnyddio, a rhoddodd fynediad i unrhyw un â chyfrifiadur i dudalennau gwe cynnar, ystafelloedd sgwrsio a llyfrgelloedd delweddau. Y flwyddyn nesaf (1994), sefydlodd Andreessen <a href="%(netscape)s">Netscape</a> a rhyddhaodd Netscape Navigator i'r cyhoedd. Roedd yn hynod lwyddiannus, a'r porwr cyntaf ar gyfer y bobl. Hwn hefyd oedd y cam cyntaf mewn math newydd o ryfel i ddefnyddwyr y rhyngrwyd.
+
+
+;The Browser Wars
+Rhyfeloedd y Porwyr
+
+
+;By 1995, Netscape Navigator wasn’t the only way to get online. Computer software giant Microsoft licensed the old Mosaic code and built its own window to the web, <a href="%(ie)s">Internet Explorer</a>. The release sparked a war. Netscape and Microsoft worked feverishly to make new versions of their programs, each attempting to outdo the other with faster, better products.
+Erbyn 1995, nid Netscape Navigator oedd yr unig ffordd i fynd ar-lein. Trwyddedodd y cawr meddalwedd Microsoft hen god Mosaic ac adeiladu ei ffenestr ei hun i'r we, <a href="%(ie)s">Internet Explorer</a>. Ysgogodd y ryddhad ryfel. Gweithiodd Netscape a Microsoft yn ffyrnig i wneud fersiynau newydd o'u rhaglenni, gyda phob un yn ceisio gwneud yn well na'r llall gyda chynnyrch cyflymach a gwell.
+
+
+;Netscape created and released JavaScript, which gave websites powerful computing capabilities they never had before. (They also made the infamous <a href="%(blink)s">&lt;blink&gt; tag</a>.) Microsoft countered with Cascading Style Sheets (CSS), which became the standard for web page design.
+Creodd a rhyddhaodd Netscape JavaScript, a roddodd i wefannau cyfrifiadura alluoedd pwerus nad oeddent erioed wedi'u cael o'r blaen. (Nhw hefyd greodd y tag <a href="%(blink)s">&lt;blink&gt;</a> anenwog.) Cyflwynodd Microsoft Cascading Style Sheets (CSS), a ddaeth yn safon ar gyfer dylunio tudalennau gwe.
+
+
+;Things got a little out of hand in 1997 when Microsoft released Internet Explorer 4.0. The team built a giant letter “e” and snuck it on the lawn of Netscape headquarters. The Netscape team promptly knocked the giant “e” over and <a href="%(dino)s">put their own Mozilla dinosaur mascot on top of it</a>.
+Aeth pethau bach yn flêr 1997 pan ryddhaodd Microsoft Internet Explorer 4.0. Adeiladodd y tîm lythyr mawr “e” a'i osod ar lawnt pencadlys Netscape. Dymchwelodd y tîm Netscape y “e” yn reit handi a <a href="%(dino)s">rhoi eu masgot dinosor Mozilla eu hunain ar ei ben</a>.
+
+
+;Then Microsoft began shipping Internet Explorer with their Windows operating system. Within 4 years, it had 75%% of the market and by 1999 it had 99%% of the market. The company faced antitrust litigation over the move, and Netscape decided to open source its codebase and created the not-for-profit <a href="%(mozilla)s">Mozilla</a>, which went on to create and release Firefox in 2002. Realizing that having a browser monopoly wasn’t in the best interests of users and the open web, Firefox was created to provide choice for web users. By 2010, Mozilla Firefox and others had <a href="%(marketshare)s">reduced Internet Explorer’s market share to 50%%</a>.
+Yna cychwynnodd Microsoft ddarparu Internet Explorer gyda'u system weithredu Windows. O fewn 4 blynedd, roedd ganddo 75 %% o'r farchnad ac erbyn 1999 99 %% o'r farchnad. Roedd y cwmni'n wynebu ymgyfreitha gwrth-ymddiriedaeth oherwydd y weithred, a phenderfynodd Netscape agor eu cod ffynhonnell a chreu y corff dim-er-elw <a href="%(mozilla)s">Mozilla</a>, a aeth ymlaen i greu a rhyddhau Firefox yn 2002. Gan sylweddoli nad oedd cael monopoli porwr er lles defnyddwyr a'r we agored, crëwyd Firefox i roi dewis i ddefnyddwyr y we. Erbyn 2010, roedd gan Mozilla Firefox ac eraill <a href="%(marketshare)s">wedi lleihau cyfran marchnad Internet Explorer i 50 %%</a>.
+
+
+;Other competitors emerged during the late ‘90s and early 2000s, including Opera, Safari, and Google Chrome. Microsoft Edge replaced Internet Explorer with the release of Windows 10 in 2015.
+Daeth cystadleuwyr eraill i'r amlwg yn ystod y ‘90au hwyr a dechrau'r 2000au, gan gynnwys Opera, Safari, a Google Chrome. Disodlodd Microsoft Edge Internet Explorer yn 2015 gyda ryddhau Windows 10.
+
+
+;Browsing the Web Today
+Pori'r We Heddiw
+
+
+;Today there are just a handful of ways to access the internet. Firefox, Google Chrome, Microsoft Edge, Safari and Opera are the main competitors. Mobile devices have emerged during the past decade as the preferred way to access the internet. Today, most internet users only use mobile browsers and <a href="%(applications)s">applications</a> to get online. Mobile versions of the major browsers are available for iOS and Android devices. While these apps are very useful for specific purposes, they only provide limited access to the web.
+Heddiw, dim ond llond dwrn o ffyrdd sydd ar gael i gael mynediad i'r rhyngrwyd. Firefox, Google Chrome, Microsoft Edge, Safari ac Opera yw'r prif gystadleuwyr. Mae dyfeisiau symudol wedi dod i'r amlwg yn ystod y degawd diwethaf fel y ffordd orau o gael mynediad i'r rhyngrwyd. Heddiw, mae'r rhan fwyaf o ddefnyddwyr y rhyngrwyd yn defnyddio porwyr symudol a <a href="%(applications)s">rhaglenni </a> i fynd ar-lein. Mae fersiynau symudol o'r prif borwyr ar gael ar gyfer dyfeisiau iOS ac Android. Er bod yr apiau hyn yn ddefnyddiol iawn at ddibenion penodol, dim ond mynediad cyfyngedig i'r we ydynt.
+
+
+;In the future, the web will likely stray further from its hypertext roots to become a vast sea of interactive experiences. Virtual reality has been on the horizon for decades (at least since the release of Lawnmower Man in 1992 and the Nintendo Virtual Boy in 1995), but the web may finally bring it to the masses. Firefox now has support for <a href="%(vr)s">WebVR and A-Frame</a>, which let developers quickly and easily build virtual reality websites. Most modern mobile devices support <a href="%(vr)s">WebVR</a>, and can easily be used as headsets with simple cardboard cases. A 3D virtual reality web like the one imagined by science fiction author Neal Stephenson may be just around the corner. If that’s the case, the web browser itself may completely disappear and become a true window into another world.
+Yn y dyfodol, mae'n debygol y bydd y we yn crwydro ymhellach o'i wreiddiau hyperdestun i ddod yn fôr enfawr o brofiadau rhyngweithiol. Mae realiti rhithwir wedi bod ar y gorwel ers degawdau (o leiaf ers i Lawnmower Man gael ei ryddhau yn 1992 a'r Nintendo Virtual Boy ym 1995), ond efallai y bydd y we yn dod ag ef i'r dyrfa. Erbyn hyn mae gan Firefox gefnogaeth ar gyfer <a href="%(vr)s">WebVR ac A-Frame</a>, sy'n gadael i ddatblygwyr adeiladu gwefannau rhith-realiti yn gyflym ac yn hawdd. Mae'r rhan fwyaf o gefnogaeth dyfeisiau symudol modern <a href="%(vr)s">WebVR</a>, a gellir eu defnyddio'n hawdd fel clustffonau gydag chas gardfwrdd syml. Gall gwe rhith-realiti 3D fel yr un sy'n cael ei dychmygu gan yr awdur ffuglen wyddonol Neal Stephenson fod rownd y gornel. Os felly, gall y porwr gwe ei hun ddiflannu'n llwyr a dod yn wir ffenestr i fyd arall.
+
+
+;Whatever the future of the web holds, Mozilla and Firefox will be there for users, ensuring that they have powerful tools to experience the web and all it has to offer. The web is for everyone, and everyone should have control of their online experience. That’s why we give Firefox tools to protect user privacy and we never sell user data to advertisers.
+Beth bynnag yw dyfodol y we, bydd Mozilla a Firefox ar gael ar gyfer defnyddwyr, gan sicrhau bod ganddyn nhw offer pwerus i brofi'r we a'r cyfan sydd ganddo i'w gynnig. Mae'r we ar gyfer pawb, a dylai pawb fod â rheolaeth dros eu profiad ar-lein. Dyna pam rydym yn gosod offer Firefox i ddiogelu preifatrwydd defnyddwyr ac nid ydym byth yn gwerthu data defnyddwyr i hysbysebwyr.
+
+
+;Resources
+Adnoddau
+
+
+;Take control of your browser.
+Cymerwch reolaeth o'ch porwr.
+
+

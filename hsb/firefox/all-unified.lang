@@ -65,7 +65,7 @@ Rěč:
 
 
 ;Sorry, we couldn’t find the download you’re looking for. Please try again, or select a download from the list below.
-Sorry, we couldn’t find the download you’re looking for. Please try again, or select a download from the list below.
+Bohužel njejsmy sćehnjenje namakali, za kotrymž pytaće. Prošu spytajće hišće raz abo wubjerće sćehnjenje ze slědowaceje lisćiny.
 
 
 ;Download Now
@@ -77,23 +77,23 @@ Meni
 
 
 ;The standard Firefox browser — fast and private. If you’re not sure which Firefox to choose, choose this.
-The standard Firefox browser — fast and private. If you’re not sure which Firefox to choose, choose this.
+Standardny wobhladowak Firefox - spěšny a priwatny. Jeli sej wěsty njejsće, kotry Firefox maće wubrać, wubjerće tutón Firefox.
 
 
 ;Get a sneak peek at the latest Firefox browser features before they’re released.
-Get a sneak peek at the latest Firefox browser features before they’re released.
+Pohladajće na najnowše funkcije wobhladowaka Firefox, prjedy hač so wozjewja.
 
 
 ;Test your sites against soon-to-be-released Firefox browser features with powerful, flexible DevTools that are on by default.
-Test your sites against soon-to-be-released Firefox browser features with powerful, flexible DevTools that are on by default.
+Testujće planowane funkcije wobhladowaka Firefox noweho wozjewjenja z mócnymi, fleksibelnymi wuwiwarskimi nastrojemi, kotrež su zmóžnjene po standardźe.
 
 
 ;The pre-alpha version for power users who like to hunt crashes and test new features as they’re coded.
-The pre-alpha version for power users who like to hunt crashes and test new features as they’re coded.
+Wersija předalfa za wobhonjenych wužiwarjow, kotřiž za spadami slědźa a nowe funkcije testuja, mjeztym zo so programuja.
 
 
 ;Count on stability and ease of use with this Firefox browser built for enterprise.
-Count on stability and ease of use with this Firefox browser built for enterprise.
+Spušćće so na stabilnosć a lochke wužiwanje z tutym wobhladowakom Firefox za předewzaća.
 
 
 ;64-bit installers
@@ -117,7 +117,7 @@ MSI-instalowaki
 
 
 ;Windows installers for corporate IT that simplify the configuration, deployment and management of the Firefox Browser.
-Windows installers for corporate IT that simplify the configuration, deployment and management of the Firefox Browser.
+Instalowaki Windows za IT předewzaćow, kotrež konfiguraciju, přewostajenje a rjadowanje wobhladowaka Firefox wosnadnjeja.
 
 
 ;Which version would you like?
@@ -138,6 +138,6 @@ Wubjerće swoju preferowanu rěč
 
 # %(product_label)s is replaced with the product name e.g "Firefox", %(platform)s with the platform name e.g. "Windows", and %(locale)s with the language name e.g. "German".
 ;Download %(product_label)s for %(platform)s in %(locale)s
-%(product_label)s za %(platform)s w hornjoserbšćinje sćahnyć
+%(product_label)s za platformu %(platform)s w rěči %(locale)s sćahnyć
 
 
