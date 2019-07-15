@@ -36,94 +36,94 @@ Találja meg a megfelelő reklámblokkolót
 
 
 ;There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
-There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
+Ott van az <a href="%(url)s">AdBlocker Ultimate</a>, amely minden reklámtól megszabadul, de figyeljen. A kedvenc hírlapjai és magazinjai a hirdetésekre támaszkodhatnak. Ha túl sok ember blokkolja a reklámjaikat, akkor csődbe is mehetnek.
 
 
 ;Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
-Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
+A felugró hirdetések a legrosszabbak. Blokkolja őket a <a href="%(url)s">Popup Blocker</a> segítségével, és sose foglalkozzon többé a bosszantó felugró ablakokkal.
 
 
 ;One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
-One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
+Az egyik legnépszerűbb reklámblokkoló Chrome-hoz, Safarihoz és Firefoxhoz az <a href="%(url)s">AdBlock</a>. Használja arra, hogy blokkolja a hirdetéseket a Facebookon, a YouTube-on és a Hulun.
 
 
 # A tracker-free zone means a no tracker zone.
 ;Create a tracker-free zone with Content Blocking
-Create a tracker-free zone with Content Blocking
+Hozzon létre egy követőmentes zónát a tartalomblokkolással
 
 
 ;On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
-On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
+A Firefoxban használhatja az <a href="%(privacy)s">adatvédelmi</a> vagy <a href="%(blocking)s">tartalomblokkolási</a> beállításokat, hogy még nagyobb irányítása legyen a hirdetéseket kiszolgáló reklámkövetők felett.
 
 
 ;Choose your level of protection
-Choose your level of protection
+Válassza ki a védelem szintjét
 
 
 ;To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
-To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
+A kezdéshez kattintson a képernyő jobb felső sarkában található Firefox menüre. Úgy néz ki, mint három egymásra helyezett vonal. A legördülő menüben kattintson a Tartalomblokkolásra. Egy kék felugró ablakot kell látnia, amely különböző választási lehetőségeket tartalmaz.
 
 
 ;Go easy with Standard mode
-Go easy with Standard mode
+Legyen engedékeny a Szokásos móddal
 
 
 ;If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
-If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
+Ha a hirdetések nem zavarják Önt, és nem bánja, hogy nyomkövetők és a harmadik féltől származó sütik követik Önt, akkor a Szokásos beállítás megfelelő lesz az Ön számára. Ha a Szokásos módban akarja letiltani a nyomkövetőket, akkor használjon <a href="%(url)s">privát böngészési</a> ablakot.
 
 
 ;Get tough with Strict mode
-Get tough with Strict mode
+Keményítsen be a Szigorú móddal
 
 
 ;If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
-If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
+Ha a túl sok hirdetés elrontja a napját, akkor a Szigorú mód jobban illik Önhöz. Ez az üzemmód minden Firefox ablakban blokkolja az ismert harmadik féltől származó nyomkövetőket és sütiket.
 
 
 ;Do-it-yourself Custom mode
-Do-it-yourself Custom mode
+Csináld magad az Egyéni móddal
 
 
 ;The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
-The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
+Az Egyéni beállítás az Ön kezébe adja a a választást. Eldöntheti, hogy mit blokkol, beleértve a nyomkövetőket, sütiket és így tovább. Ha engedélyezi a sütiket egy webhelyről, akkor automatikusan Egyéni módba vált.
 
 
 # ’Cover your trail’ means cover your browsing history.
 ;Cover your trail, block trackers
-Cover your trail, block trackers
+Fedje el a nyomait, blokkolja a nyomkövetőket
 
 
 ;Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
-Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
+Kattintson a követők mezőre, és ekkor kétféleképpen blokkolhatja a követőket. Az egyik lehetőség, hogy csak privát ablakokban teszi meg. A másik pedig, hogy az összes ablakban blokkolja a követőket. Ne feledje, hogy a követők mindenkori blokkolása egyes oldalak hibás betöltését okozhatja.
 
 
 ;Take a bite out of cookies
-Take a bite out of cookies
+Harapjon bele a sütikbe
 
 
 ;<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
-<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
+A <a href="%(url)s">sütiket</a> a felkeresett weboldalak küldik el. A számítógépén élnek, és követik, hogy mit csinált az oldalon. Ha egy légitársaság megemeli az árakat, mert minden nap nézegeti a repülőjegyeket, akkor ezt egy süti teszi lehetővé.
 
 
 ;In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
-In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
+A Firefoxban blokkolhatja az összes harmadik féltől származó sütit, vagy csak azokat, amelyeket a követők állítanak be. Ne feledje, hogy a sütik blokkolása hibát okozhat az egyes webhelyeken.
 
 
 ;Send a Do Not Track signal
-Send a Do Not Track signal
+„Ne kövessenek” jelzés küldése
 
 
 # ’Thanks but no thanks’ here means to reject ads.
 ;If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
-If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
+Ha nem szeretné, hogy az online tevékenységét reklámokhoz használnák fel, akkor egy udvarias „köszönöm, nem” jelzést küldhet a webhelyeknek a Firefox <a href="%(url)s">Ne kövessenek</a> beállításával. A részvétel önkéntes, de a résztvevő weboldalak leállítják a követést.
 
 
 ;Speed up thanks to ad blockers
-Speed up thanks to ad blockers
+Gyorsítson fel a reklámblokkolóknak köszönhetően
 
 
 ;In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
-In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
+Bizonyos esetekben egy reklámblokkoló segíthet a böngésző felgyorsításában. Ha egy hirdetés betöltődik, az lassíthatja a webhelyet. Ezzel egyidejűleg hosszabb időt vesz igénybe, hogy megkeresse azt, amit keres, ha a reklámok bezárásával tölti az idejét.
 
 
 ;If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for Firefox and other browsers. If want to try out the ad blockers Firefox uses, <a href="%(url)s">click here to download</a> a browser that puts privacy first.

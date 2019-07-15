@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/features/adblocker
 
 
@@ -8,27 +9,27 @@
 
 # HTML page description
 ;How to stop seeing too many ads and keep companies from following you around online. An ad blocker guide from the Firefox web browser.
-How to stop seeing too many ads and keep companies from following you around online. An ad blocker guide from the Firefox web browser.
+来自 Firefox 网页浏览器的广告屏蔽指南，如何减少看到广告的数量，并阻止各个公司在网络上跟踪您。
 
 
 ;The ad blocker – a secret weapon against annoying ads.
-The ad blocker – a secret weapon against annoying ads.
+广告拦截器 - 对付恼人广告的秘密武器。
 
 
 ;So many ads, so little patience… It’s time to stop the madness.
-So many ads, so little patience… It’s time to stop the madness.
+广告太多了，我的耐心是有限的......是时候干掉这些广告了。
 
 
 ;The average person sees an average of 4,000 ads a day. If you think that’s too many, an ad blocker is your new best friend.
-The average person sees an average of 4,000 ads a day. If you think that’s too many, an ad blocker is your new best friend.
+人们平均一天会看到 4,000 条广告。如果您觉得这个数字太多了，广告拦截器会是您的好朋友。
 
 
 ;An ad blocker is a piece of software that can be used to block ads, and they work in two ways. The first way is when an ad blocker blocks the signal from an advertiser’s server, so the ad never shows up on your page. Another way ad blockers work is by blocking out sections of a website that could be ads.
-An ad blocker is a piece of software that can be used to block ads, and they work in two ways. The first way is when an ad blocker blocks the signal from an advertiser’s server, so the ad never shows up on your page. Another way ad blockers work is by blocking out sections of a website that could be ads.
+广告拦截器是一种可用于屏蔽广告的软件，其以两种方式工作。第一种是直接拦截来自广告商服务器的流量，因此广告就不会显示在您的网页上。另一种方式是屏蔽网页中可能是广告的内容。
 
 
 ;These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
-These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
+这些广告可能是嘈杂的视频广告，并会以跟踪器、第三方Cookie 等型态在网络上的各个角落跟踪你。若要使用广告拦截器，可直接搜索您的浏览器所适用的附加组件。例如，<a href="%(firefox)s">Firefox</a>就有<a href="%(addons)s">这些经过审核的广告拦截附加组件</a>。看看有哪个符合您的需求。
 
 
 ;Find the right ad blocker for you
@@ -36,24 +37,24 @@ These ads might be loud video ads, ads that follow you around the web, trackers,
 
 
 ;There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
-There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
+<a href="%(url)s">AdBlocker Ultimate</a>可以让您摆脱所有广告，但消费者也要注意。某些您喜爱的报纸跟杂志的生存依赖于广告，若太多人屏蔽广告可能会使他们经营困难。
 
 
 ;Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
-Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
+弹出式广告是最糟的。可以使用 <a href="%(url)s">Popup Blocker</a> 来拦截，这样就再也不会看到恼人的窗口跳出来了。
 
 
 ;One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
-One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
+<a href="%(url)s">AdBlock</a> 是 Chrome、Safari 和 Firefox 上最受欢迎的广告拦截器之一。可用来屏蔽 Facebook、YouTube 和 Hulu上的广告。
 
 
 # A tracker-free zone means a no tracker zone.
 ;Create a tracker-free zone with Content Blocking
-Create a tracker-free zone with Content Blocking
+使用内容拦截，创造无跟踪器空间
 
 
 ;On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
-On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
+您可以在 Firefox 使用<a href="%(privacy)s">隐私</a>或<a href="%(blocking)s">内容拦截</a>设置来更有效地控制广告跟踪器。
 
 
 ;Choose your level of protection
@@ -61,52 +62,52 @@ On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking
 
 
 ;To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
-To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
+首先，请点击屏幕右上角的 Firefox 菜单按钮，它看起来像是三条线堆叠在一起。在下拉菜单中单击“内容拦截”。您应该会看到有不同选项的蓝色窗口。
 
 
 ;Go easy with Standard mode
-Go easy with Standard mode
+使用标准模式轻松完成
 
 
 ;If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
-If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
+如果广告不大干扰您，您也不介意被跟踪器或第三方 Cookie 跟踪，那么标准设置应该适合您。要在标准模式下关闭跟踪器，请使用<a href="%(url)s">隐私浏览</a>窗口。
 
 
 ;Get tough with Strict mode
-Get tough with Strict mode
+严格模式，万无一失
 
 
 ;If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
-If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
+若您觉得一天当中看到太多广告很烦人，那么严格模式更合适。此模式将拦截所有 Firefox 窗口中的所有已知第三方跟踪器和 Cookie。
 
 
 ;Do-it-yourself Custom mode
-Do-it-yourself Custom mode
+牛刀小试，自定义拦截模式
 
 
 ;The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
-The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
+自定义模式为您提供最佳选择。您可以自行决定要拦截哪些跟踪器、Cookie 等。若您允许来自某网站的跟踪器，将自动进入自定义模式。
 
 
 # ’Cover your trail’ means cover your browsing history.
 ;Cover your trail, block trackers
-Cover your trail, block trackers
+拦截跟踪器，清除数字足迹
 
 
 ;Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
-Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
+点击“跟踪器”选框，即可用两种方式来拦截跟踪器。第一种方式是只在隐私窗口中拦截跟踪器。另一种是在所有窗口中都拦截。请记住，若您选择拦截所有跟踪器，某些页面可能无法正确加载。
 
 
 ;Take a bite out of cookies
-Take a bite out of cookies
+咬一口饼干
 
 
 ;<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
-<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
+<a href="%(url)s">Cookie</a> 由您访问的网站发出。其存储在你的计算机上，监视你在网站上的行为。当一家航空公司因那天你看过飞机票而提高你的票价时，那是 Cookie 的“杰作”。
 
 
 ;In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
-In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
+在 Firefox 中，您可以拦截所有第三方 Cookie 或只拦截跟踪器的 Cookie。请注意若拦截所有 Cookie 可能导致某些网站异常。
 
 
 ;Send a Do Not Track signal
@@ -115,19 +116,19 @@ In Firefox, you can block all third-party cookies or just those set by trackers.
 
 # ’Thanks but no thanks’ here means to reject ads.
 ;If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
-If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
+若您不希望您的在线行为用于广告，可以勾选 Firefox 的<a href="%(url)s">请勿跟踪</a>选项来礼貌地告诉网站：“谢了，请不要跟踪我”。虽然是否有效视网站而定，但同意该机制的网站会立刻停止跟踪您。
 
 
 ;Speed up thanks to ad blockers
-Speed up thanks to ad blockers
+使用广告拦截器加速上网
 
 
 ;In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
-In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
+某些情况下，广告拦截器可加快您的浏览速度。加载广告时可能会拖慢网站。同时可能也会让您花更多时间才能找到想找的东西。
 
 
 ;If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for Firefox and other browsers. If want to try out the ad blockers Firefox uses, <a href="%(url)s">click here to download</a> a browser that puts privacy first.
-If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for Firefox and other browsers. If want to try out the ad blockers Firefox uses, <a href="%(url)s">click here to download</a> a browser that puts privacy first.
+若您想详细了解广告拦截器，这里有数百款适用于 Firefox 和其他浏览器的广告拦截扩展可用。若您想在 Firefox 中试用广告拦截器，请<a href="%(url)s">点击此处下载</a>隐私优先的浏览器。
 
 
 ;Take control of your browser.
