@@ -3,7 +3,7 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 ;Download the Firefox Browser in English (US) and more than 90 other languages
-Download the Firefox Browser in English (US) and more than 90 other languages
+Emboguejy Firefox kundaha inglés (EE.UU.) guápe ha hetave 90 ñe’ẽme
 
 
 # HTML page description, also used as the introductory text.
@@ -12,11 +12,11 @@ Everyone deserves access to the internet — your language should never be a bar
 
 
 ;Choose which Firefox Browser to download in your language
-Choose which Firefox Browser to download in your language
+Eiporavo mba’e Firefox kundahápa emboguejýta ne ñe’ẽme
 
 
 ;Check the system requirements
-Check the system requirements
+Ehechajey apopyvusu jerurepy
 
 
 ;Release notes
@@ -65,7 +65,7 @@ Jehechaukaha:
 
 
 ;Sorry, we couldn’t find the download you’re looking for. Please try again, or select a download from the list below.
-Sorry, we couldn’t find the download you’re looking for. Please try again, or select a download from the list below.
+Rombyasy, ndaikatúi rojuhu ñemboguejyrã ehekáva. Ikatúpa eha’ãjey térã eiporavo ñemboguejyrã tysýi yvy gotyoguápe.
 
 
 ;Download Now
@@ -125,7 +125,7 @@ Windows installers for corporate IT that simplify the configuration, deployment 
 
 
 ;Select your preferred installer
-Select your preferred installer
+Eiporavo ne ñemohendaha ehayhuvéva
 
 
 ;Learn about installers
@@ -133,11 +133,11 @@ Eikuaa mohendaha
 
 
 ;Select your preferred language
-Select your preferred language
+Eiporavo ne ñe’ẽ ehayhuvéva
 
 
 # %(product_label)s is replaced with the product name e.g "Firefox", %(platform)s with the platform name e.g. "Windows", and %(locale)s with the language name e.g. "German".
 ;Download %(product_label)s for %(platform)s in %(locale)s
-Download %(product_label)s for %(platform)s in %(locale)s
+Emboguejy %(product_label)s %(platform)s peg̃uarã %(locale)s rupive
 
 

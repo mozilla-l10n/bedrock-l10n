@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo page at https://bedrock-demo-achurchwell.oregon-b.moz.works/firefox/best-browser/
 
 
@@ -60,27 +61,27 @@ Un navigateur qui met la sécurité au premier plan.
 
 
 ;Remember the last massive data breach? If not, it’s probably because it happens so often. Companies hold on to customer data, like their personal or financial information, and hackers steal it. If you’re making safety a priority, then a secure internet browser is the best browser for you.
-Remember the last massive data breach? If not, it’s probably because it happens so often. Companies hold on to customer data, like their personal or financial information, and hackers steal it. If you’re making safety a priority, then a secure internet browser is the best browser for you.
+Vous rappelez-vous de la dernière importante fuite de données ? Probablement pas, car cela arrive beaucoup trop souvent. Les entreprises retiennent les données de leurs clients, telles que leurs informations personnelles et financières, et les hackers les piratent. Si la sécurité est une de vos priorités, un navigateur sécurisé est le meilleur navigateur pour vous.
 
 
 ;There are a few ways a browser can help its users stay secure. A browser that is up to date with the latest security tech can help protect your computer and websites from unwanted visitors, such as malware or computer viruses.
-There are a few ways a browser can help its users stay secure. A browser that is up to date with the latest security tech can help protect your computer and websites from unwanted visitors, such as malware or computer viruses.
+Un navigateur peut protéger ses utilisateurs de plusieurs manières. Premièrement, un navigateur mis à jour avec toutes les dernières technologies de sécurité peut protéger votre ordinateur et les sites contre les visites indésirables de la part de virus et de logiciels malveillants.
 
 
 ;The second is not storing too much user data. Hackers can’t steal what’s not there, which is why Firefox keeps a minimum amount of information about its users. <a href="%(data)s">Firefox knows</a> if you use the browser and your general location <a href="%(privacy)s">but not the name of your childhood pet or your favorite color.</a>
-The second is not storing too much user data. Hackers can’t steal what’s not there, which is why Firefox keeps a minimum amount of information about its users. <a href="%(data)s">Firefox knows</a> if you use the browser and your general location <a href="%(privacy)s">but not the name of your childhood pet or your favorite color.</a>
+Deuxièmement, il est important de ne pas stocker trop de données d'utilisateur. En effet, les hackers ne peuvent pas pirater ce qui n'est pas là, c'est la raison pour laquelle Firefox retient le moins d'informations possibles sur ses utilisateurs. <a href="%(data)s">Firefox sait</a> lorsque vous utilisez le navigateur et connaît votre localisation <a href="%(privacy)s">mais ne connait pas le nom de votre animal de compagnie ni votre couleur préférée.</a>
 
 
 ;Last but not least, a safe browser should offer tools to help you keep an eye on your accounts. Think of alerts that go straight to your email if any of your accounts get breached or icons that tell you whether a website is encrypted, (i.e., if it’s a good idea to enter your credit number on a shopping site).
-Last but not least, a safe browser should offer tools to help you keep an eye on your accounts. Think of alerts that go straight to your email if any of your accounts get breached or icons that tell you whether a website is encrypted, (i.e., if it’s a good idea to enter your credit number on a shopping site).
+Enfin, un navigateur sécurisé doit offrir les outils qui vous permettent de surveiller vos comptes. Par exemple, des alertes e-mail si un de vos comptes est concerné par une fuite de données, ou encore des pictogrammes qui indiquent qu'un site est chiffré (c'est-à-dire que vous pouvez entrer votre numéro de carte bancaire sur un site marchand en toute sécurité).
 
 
 ;Firefox is offering something new to keep you safe: <a href="%(monitor)s">Firefox Monitor</a>. It’s a free service that will alert you if there are any public hacks on your accounts and let you know if your accounts got hacked in the past. Another neat feature is the Green Lock. It looks like a small green icon at the top left side of the browser window. If you’re on Firefox and see the green lock, it means the website is encrypted and secure. If the lock is grey, you might want to think twice about entering any sensitive information.
-Firefox is offering something new to keep you safe: <a href="%(monitor)s">Firefox Monitor</a>. It’s a free service that will alert you if there are any public hacks on your accounts and let you know if your accounts got hacked in the past. Another neat feature is the Green Lock. It looks like a small green icon at the top left side of the browser window. If you’re on Firefox and see the green lock, it means the website is encrypted and secure. If the lock is grey, you might want to think twice about entering any sensitive information.
+Firefox a plus d'un tour dans son sac pour vous protéger. <a href="%(monitor)s">Firefox Monitor</a>, c'est un service gratuit qui vous alerte en cas de fuite de données et vous informe si votre compte a déjà été piraté auparavant. Une autre fonction bien pratique est le petit verrou vert. Ce petit pictogramme situé dans le coin supérieur gauche du navigateur indique que le site visité est sécurisé et chiffré. S'il est gris, pensez-y à deux fois avant de soumettre vos informations personnelles.
 
 
 ;We visit hundreds or even thousands of websites each day, and you can’t expect users to make security and privacy decisions for each of these sites. That is why a browser that gives you more control is so important - because it offers real, meaningful protection.
-We visit hundreds or even thousands of websites each day, and you can’t expect users to make security and privacy decisions for each of these sites. That is why a browser that gives you more control is so important - because it offers real, meaningful protection.
+Chaque jour, vous visitez des centaines de sites internet. Vous n'avez donc pas la capacité de régler les paramètres de sécurité et de respect de la vie privée pour chacun de ces sites. C'est pour ça qu'il est essentiel que votre navigateur vous donne plus de contrôle. Ainsi seulement peut-il vous offrir une véritable protection.
 
 
 ;A browser that minds its business.
@@ -88,27 +89,27 @@ Un navigateur qui ne se mêle pas de vos affaires.
 
 
 ;Privacy on the web is a hot button issue. If privacy is number one on your list of priorities, you want to look for a browser that takes that seriously. When choosing the best private browser for you, look at the tracking policy and how a browser handles your data. These seem like technical questions, but they’re the reason some browsers are more private than others.
-Privacy on the web is a hot button issue. If privacy is number one on your list of priorities, you want to look for a browser that takes that seriously. When choosing the best private browser for you, look at the tracking policy and how a browser handles your data. These seem like technical questions, but they’re the reason some browsers are more private than others.
+Le respect de la vie privée sur le Web est un sujet à la mode. Si pour vous le respect de la vie privée est une priorité, il faut vous tourner vers un navigateur qui vous prend au sérieux. Quand vous faites le choix du meilleur navigateur pour le respect de la vie privée, il est important de regarder la politique concernant le pistage et comment le navigateur gère vos données. Ça peut paraître très technique, mais c'est vraiment ce qui distingue un navigateur confidentiel d'un qui ne l'est pas.
 
 
 ;Trackers are all those annoying “cookies” messages you get on airline sites. These third-party trackers know where you click and can be used to analyze your behavior. A private browser should give users the option to turn off third-party trackers, but ideally, turn them off by default.
-Trackers are all those annoying “cookies” messages you get on airline sites. These third-party trackers know where you click and can be used to analyze your behavior. A private browser should give users the option to turn off third-party trackers, but ideally, turn them off by default.
+Les traqueurs, ce sont ces fameux cookies, et tous ces messages agaçants qui vont avec à chaque fois que vous visitez un site. Ces traqueurs tiers servent à pister votre activité et sont utilisés pour analyser votre comportement. Un navigateur qui respecte votre vie privée doit non seulement donner aux utilisateurs la possibilité de désactiver les traqueurs tiers, mais idéalement les désactiver par défaut.
 
 
 ;Another way to stop trackers from tracking is using private mode to browse. Any browser that claims to be private should offer browsing in private mode.
-Another way to stop trackers from tracking is using private mode to browse. Any browser that claims to be private should offer browsing in private mode.
+Une autre façon d'empêcher les traqueurs de vous suivre est d'utiliser la navigation privée. Un navigateur qui respecte votre vie privée doit offrir la navigation en mode privé.
 
 
 ;One easy way to check is to visit a browser’s content setting page and privacy policy. The privacy webpage should outline if your data is shared and why. It’s why the <a href="%(privacy)s">Firefox privacy notice</a> is easy to read and easy to find.
-One easy way to check is to visit a browser’s content setting page and privacy policy. The privacy webpage should outline if your data is shared and why. It’s why the <a href="%(privacy)s">Firefox privacy notice</a> is easy to read and easy to find.
+Pour savoir si votre navigateur respecte votre vie privée, il est important de consulter sa politique de confidentialité. Celle-ci doit indiquer clairement dans quels cas et pour quelles raisons vos données sont utilisées. C'est pour ça que <a href="%(privacy)s">la politique de confidentialité de Firefox</a> est à la fois facile à trouver et facile à lire.
 
 
 ;Choosing the best browser for you is a lot like choosing a home. You want to explore your options, do some research and make a decision based on what’s important to you.
-Choosing the best browser for you is a lot like choosing a home. You want to explore your options, do some research and make a decision based on what’s important to you.
+Choisir le meilleur navigateur, c'est comme choisir un nouvel appartement. Il est important d'explorer toutes les options, de faire des recherches et de prendre une décision basée sur ce qui est vraiment important pour vous.
 
 
 ;At <a href="%(firefox)s">Firefox</a>, we’ve worked hard to build a browser that is twice as fast as before and gives users more control over their online life.
-At <a href="%(firefox)s">Firefox</a>, we’ve worked hard to build a browser that is twice as fast as before and gives users more control over their online life.
+Chez <a href="%(firefox)s">Firefox</a>, nous travaillons sans relâche pour vous offrir le meilleur navigateur qui soit. Celui-ci est désormais deux fois plus rapide qu'auparavant et vous donne plus de contrôle sur votre vie numérique.
 
 
 ;Take control of your browser.

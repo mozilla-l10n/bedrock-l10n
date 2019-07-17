@@ -1,9 +1,12 @@
 ## active ##
+## download_thanks_newsletter_092018 ##
 ## firefox_new_platform_link_text ##
 ## firefox_new_try_again_link_020818 ##
 ## firefox_quantum_new_headline ##
 ## firstrun_email_only_form ##
 ## fxnew_account_032019 ##
+## platform_strings_04232019 ##
+## truly_removal_2019 ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/new/
 
 
@@ -43,7 +46,7 @@ Linux용 Firefox
 
 
 ;Own your online life.
-Own your online life.
+온라인 생활을 소유하세요.
 
 
 ;Fast for good.
@@ -174,11 +177,11 @@ Firefox를 다운로드하고 사용하기 위해 이메일을 제공할 필요�
 
 
 ;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
+소개 내용을 경험한 사용자들이 Firefox에 대해 더 많이 활용한다는 연구 결과가 있기 때문에 이메일을 요청드립니다.
 
 
 ;You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
+이메일을 통해서 Firefox를 사용자에게 최적화하고 개인 정보 보호와 보안에 대해 더 많이 알 수 있으며 웹을 최대한 활용하는 방법에 대해 도움을 받을 수 있습니다.
 
 
 ;You can unsubscribe anytime, for any reason.
@@ -224,37 +227,37 @@ Firefox 다운로드
 
 # /firefox/windows/ HTML page description
 ;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
-Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+무료 웹 브라우저, Windows용 Mozilla Firefox를 내려받으세요. Firefox는 개개인이 온라인에서 독립적인 제어권을 갖도록 추구하는 전세계적인 비영리 단체가 제작했습니다. 오늘 Windows용 Firefox를 사용해 보세요!
 
 
 # /firefox/mac/ HTML page description
 ;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
-Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+무료 웹 브라우저, Mac용 Mozilla Firefox를 내려받으세요. Firefox는 개개인이 온라인에서 독립적인 제어권을 갖도록 추구하는 전세계적인 비영리 단체가 제작했습니다. 오늘 Mac용 Firefox를 사용해 보세요!
 
 
 # /firefox/linux/ HTML page description
 ;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
-Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+무료 웹 브라우저, Linux용 Mozilla Firefox를 내려받으세요. Firefox는 개개인이 온라인에서 독립적인 제어권을 갖도록 추구하는 전세계적인 비영리 단체가 제작했습니다. 오늘 Linux용 Firefox를 사용해 보세요!
 
 
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
-자유로운 웹 브라우저인 Mozilla Firefox를 다운로드하세요. Firefox는 글로벌 비영리 조직에서 개발 중이며, 온라인 정보 통제 및 제어로 부터 개인의 자유를 위해 노력합니다. 윈도, macOS, 리눅스 및 안드로이드, iOS 등 다양한 운영 체제를 지원합니다.
+무료 웹 브라우저, Mozilla Firefox를 내려받으세요. Firefox는 개개인이 온라인에서 독립적인 제어권을 갖도록 추구하는 전세계적인 비영리 단체가 제작했습니다. 오늘 Linux용, macOS용, Linux용, Android용, iOS용 Firefox를 사용해 보세요!
 
 
 # /firefox/windows/ social sharing title
 ;Download the fastest Firefox for Windows ever
-Download the fastest Firefox for Windows ever
+이제까지 가장 빠른 Windows용 Firefox 다운로드
 
 
 # /firefox/mac/ social sharing title
 ;Download the fastest Firefox for Mac ever
-Download the fastest Firefox for Mac ever
+이제까지 가장 빠른 Mac용 Firefox 다운로드
 
 
 # /firefox/linux/ social sharing title
 ;Download the fastest Firefox for Linux ever
-Download the fastest Firefox for Linux ever
+이제까지 가장 빠른 Linux용 Firefox 다운로드
 
 
 ;Download the fastest Firefox ever
@@ -263,29 +266,29 @@ Download the fastest Firefox for Linux ever
 
 # /firefox/windows/ social sharing description
 ;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
-Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+더 빠른 페이지 로딩, 더 적은 메모리 사용량, 다양한 기능 탑재, 새로운 Windows용 Firefox가 여기 있습니다.
 
 
 # /firefox/mac/ social sharing description
 ;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
-Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+더 빠른 페이지 로딩, 더 적은 메모리 사용량, 다양한 기능 탑재, 새로운 Mac용 Firefox가 여기 있습니다.
 
 
 # /firefox/linux/ social sharing description
 ;Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
-Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+더 빠른 페이지 로딩, 더 적은 메모리 사용량, 다양한 기능 탑재, 새로운 Linux용 Firefox가 여기 있습니다.
 
 
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-더 빠른 페이지 로딩, 더 적은 메모리 사용량, 다양한 기능 탑재, 새로운 Firefox가 있습니다.
+더 빠른 페이지 로딩, 더 적은 메모리 사용량, 다양한 기능 탑재, 새로운 Firefox가 여기 있습니다.
 
 
 ;Privacy comes first
-Privacy comes first
+사생활이 가장 중요합니다
 
 
 ;Privacy - more than a policy
-Privacy - more than a policy
+사생활 - 정책 이상의 것
 
 
 ;2x Faster
@@ -293,15 +296,15 @@ Privacy - more than a policy
 
 
 ;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
-Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+Firefox는 검색 기록을 훔치지 않습니다. 제 3자 추적 쿠키를 막고 모든 권한을 사용자가 가질 수 있도록 합니다.
 
 
 ;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
-Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+Firefox는 빠르게 움직이며 사용자 데이터를 주의깊게 다룹니다 - 광고 추적도, 속도 저하도 없습니다.
 
 
 ;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
-Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+사용자의 삶, 사용자의 일. Firefox는 Linux에서 제 3자 추적 쿠키를 차단합니다.
 
 
 ;The best Firefox ever
@@ -309,7 +312,7 @@ Your life, your business. Firefox blocks third-party tracking cookies on Linux.
 
 
 ;Common sense privacy
-Common sense privacy
+사생활 상식
 
 
 ;Lightweight
@@ -317,15 +320,15 @@ Common sense privacy
 
 
 ;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
-Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+속도와 보안을 확보하세요. Firefox는 사용자의 움직임을 추적하지 않기 때문에 Mac에서 빠릅니다.
 
 
 ;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
-Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+삶을 만끽하세요. Firefox는 감시하지 않습니다. 무엇을 언제 공유할지 선택하세요.
 
 
 ;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
-Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+속도가 보안을 만났습니다. Firefox는 Chrome보다 2배 빠르며 30% 적게 메모리를 사용합니다.
 
 
 ;Uses 30% less memory than Chrome
@@ -333,15 +336,15 @@ Chrome보다 30% 더 적은 메모리 사용
 
 
 ;Block trackers
-Block trackers
+추적기 차단
 
 
 ;Open source
-Open source
+오픈소스
 
 
 ;Seamless setup
-Seamless setup
+깔끔한 설정
 
 
 ;Powerfully private
@@ -349,19 +352,19 @@ Seamless setup
 
 
 ;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
-Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+엄격한 콘텐츠 차단 기능을 사용하여 사생활을 보호하세요. 모든 쿠키와 추적기를 차단하세요.
 
 
 ;Look under the hood. Like Linux, Firefox features are open source.
-Look under the hood. Like Linux, Firefox features are open source.
+안을 보세요. Linux처럼 Firefox 기능은 오픈 소스입니다.
 
 
 ;Easy migration of preferences and bookmarks when you download Firefox for Windows.
-Easy migration of preferences and bookmarks when you download Firefox for Windows.
+Windows용 Firefox를 다운 받을 때 설정과 즐겨찾기를 쉽게 옮겨 오세요.
 
 
 ;Private Browsing with Tracking Protection
-Private Browsing with Tracking Protection
+추적 방지된 사생활 보호 브라우징
 
 
 # String is obsolete. Do not remove.
