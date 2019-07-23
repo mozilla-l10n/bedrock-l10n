@@ -3,81 +3,81 @@
 
 # HTML page title
 ;How to block annoying ads using an ad blocker
-How to block annoying ads using an ad blocker
+Як заблокувати надокучливу рекламу за допомогою блокувальника
 
 
 # HTML page description
 ;How to stop seeing too many ads and keep companies from following you around online. An ad blocker guide from the Firefox web browser.
-How to stop seeing too many ads and keep companies from following you around online. An ad blocker guide from the Firefox web browser.
+Як припинити бачити надто багато реклами і не дозволяти компаніям переслідувати вас в Інтернеті. Посібник з блокування реклами від браузера Firefox.
 
 
 ;The ad blocker – a secret weapon against annoying ads.
-The ad blocker – a secret weapon against annoying ads.
+Блокувальник реклами – секретна зброя проти надокучливої реклами.
 
 
 ;So many ads, so little patience… It’s time to stop the madness.
-So many ads, so little patience… It’s time to stop the madness.
+Так багато реклами, так мало спокою… Час припинити цей безлад.
 
 
 ;The average person sees an average of 4,000 ads a day. If you think that’s too many, an ad blocker is your new best friend.
-The average person sees an average of 4,000 ads a day. If you think that’s too many, an ad blocker is your new best friend.
+Пересічний користувач щодня бачить в середньому 4000 рекламних оголошення. Якщо ви вважаєте, що це забагато, в такому разі блокувальник реклами є вашим найкращим другом.
 
 
 ;An ad blocker is a piece of software that can be used to block ads, and they work in two ways. The first way is when an ad blocker blocks the signal from an advertiser’s server, so the ad never shows up on your page. Another way ad blockers work is by blocking out sections of a website that could be ads.
-An ad blocker is a piece of software that can be used to block ads, and they work in two ways. The first way is when an ad blocker blocks the signal from an advertiser’s server, so the ad never shows up on your page. Another way ad blockers work is by blocking out sections of a website that could be ads.
+Блокувальник реклами - це програмне забезпечення, яке може використовуватись для блокування реклами. Такі блокувальники працюють двома способами. Перший спосіб - блокується сигнал від сервера рекламодавця, таким чином він ніколи не з'являється на вашій сторінці. Інший спосіб - блокування ділянок веб-сайту, які можуть бути рекламою.
 
 
 ;These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
-These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
+Ці оголошення можуть бути гучною відео-рекламою, рекламою, що переслідує вас в Інтернеті, стеженням, сторонніми куками та іншим. Щоб скористатися блокувальником реклами, ви можете пошукати його серед додатків, підтримуваних вашим браузером. <a href="%(firefox)s">Firefox</a>, наприклад, має <a href="%(addons)s">цей список схвалених додатків для блокування реклами</a>. Відкрийте цей список та оберіть той, що вам підходить.
 
 
 ;Find the right ad blocker for you
-Find the right ad blocker for you
+Знайдіть для себе правильний засіб для блокування реклами
 
 
 ;There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
-There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
+<a href="%(url)s">AdBlocker Ultimate</a> прибирає кожне рекламне оголошення, але слід пам'ятати. Деякі з ваших улюблених веб-сайтів покладаються на прибуток від реклами. Якщо надто багато користувачів блокуватимуть їхню рекламу, це може зашкодити їхньому бізнесу.
 
 
 ;Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
-Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
+Виринаючі оголошення найгірші. Блокуйте їх за допомогою <a href="%(url)s">Popup Blocker</a> і ніколи більше не стикайтеся з ними.
 
 
 ;One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
-One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
+Одним з найпопулярніших блокувальників реклами для Chrome, Safari і Firefox є <a href="%(url)s">AdBlock</a>. Використовуйте його для блокування реклами на Facebook, YouTube та Hulu.
 
 
 # A tracker-free zone means a no tracker zone.
 ;Create a tracker-free zone with Content Blocking
-Create a tracker-free zone with Content Blocking
+Створіть вільну від стеження зону за допомогою блокування вмісту
 
 
 ;On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
-On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
+В Firefox ви можете використовувати <a href="%(privacy)s">Приватність</a> або <a href="%(blocking)s">Блокування вмісту</a> в налаштуваннях, щоб отримати ще більше контролю над стеженням, яке відбувається під час показу рекламних оголошень.
 
 
 ;Choose your level of protection
-Choose your level of protection
+Оберіть свій рівень захисту
 
 
 ;To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
-To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
+Щоб розпочати, відкрийте меню Firefox в правому верхньому кутку вашого браузера, натиснувши на елемент у вигляді трьох горизонтальних ліній. Після цього оберіть Блокування вмісту. Має з'явитися вікно відповідного розділу налаштувань з підсвіченими блакитним кольором елементами для вибору.
 
 
 ;Go easy with Standard mode
-Go easy with Standard mode
+Спокійний перегляд в Звичайному режимі
 
 
 ;If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
-If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
+Якщо реклама вас не дратує і ви не проти стеження та сторонніх куків, тоді для вас найкраще підійде Звичайний режим. Щоб позбутися стеження в цьому режимі, вам слід використовувати режим <a href="%(url)s">Приватного перегляду</a>.
 
 
 ;Get tough with Strict mode
-Get tough with Strict mode
+Позбавтеся всього зайвого з використанням Суворого режиму
 
 
 ;If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
-If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
+Якщо надмірна кількість реклами псує вам настрій, в такому разі вам підійде Суворий режим. В цьому режимі блокуватимуться відомі сторонні елементи стеження й куки в усіх вікнах і вкладках Firefox.
 
 
 ;Do-it-yourself Custom mode
