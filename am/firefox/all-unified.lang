@@ -1,143 +1,144 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/all/
 
 
 # HTML page title. Replace "English (US)" with your local language.
 ;Download the Firefox Browser in English (US) and more than 90 other languages
-Download the Firefox Browser in English (US) and more than 90 other languages
+ፋየርፎክስ ድረ-ገፅ ማሰሻን በአማርኛ (am) አና በሌሎች 90 የተለያዩ ቋንቋዎች ይጫኑ
 
 
 # HTML page description, also used as the introductory text.
 ;Everyone deserves access to the internet — your language should never be a barrier. That’s why — with the help of dedicated volunteers around the world — we make the Firefox Browser available in more than 90 languages.
-Everyone deserves access to the internet — your language should never be a barrier. That’s why — with the help of dedicated volunteers around the world — we make the Firefox Browser available in more than 90 languages.
+ሁሉም ሰው የኢንተርኔት አገልግሎት ማግኘት ይገባዋል - ቋንቋ መሰናክል ሊሆን አይገባውም። ለዛ ነው - በአለም ዙሪያ ባሉ በጎ ፈቃደኛ ሰዎች እርዳታ - ፋየርፎክስ የድረ-ገፅ ማሰሻን በ90 የተለያዩ ቋንቋዎች ያቀረብነው።
 
 
 ;Choose which Firefox Browser to download in your language
-Choose which Firefox Browser to download in your language
+በራስዋ ቋንቋ ለመጫን የፈለጉትን አይነት የፋየርፎክስ ድረ-ገፅ ማሰሻ ይምረጡ
 
 
 ;Check the system requirements
-Check the system requirements
+የአሰራር ስርዓቱ የሚፈልገውን ያረጋግጡ
 
 
 ;Release notes
-Release notes
+የተለቀቀ ማስታወሻ
 
 
 ;Source code
-Source code
+የደንብ ምንጭ
 
 
 ;Firefox Privacy Notice
-Firefox Privacy Notice
+ሰለ ግላዊነት የፋየርፎክስ ማስታወቂያ
 
 
 ;Need help?
-Need help?
+እርዳታ ይፈልጋሉ?
 
 
 ;Which browser would you like to download?
-Which browser would you like to download?
+የትኛውን ድረ-ገፅ ማሰሻ ለመጫን ይፈልጋሉ?
 
 
 ;Learn about Firefox browsers
-Learn about Firefox browsers
+ስለ ፋየርፎክስ ድረ-ገፅ ማሰሻ የበለጠ ይወቁ
 
 
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 ;Get help
-Get help
+እርዳታ ያግኙ
 
 
 ;You are about to download:
-You are about to download:
+አሁን ለመጫን ተቃርበዋል:
 
 
 ;Browser:
-Browser:
+ድረ-ገፅ ማሰሻ:
 
 
 ;Platform:
-Platform:
+የአወቃቀር ስርአት:
 
 
 ;Language:
-Language:
+ቋንቋ:
 
 
 ;Sorry, we couldn’t find the download you’re looking for. Please try again, or select a download from the list below.
-Sorry, we couldn’t find the download you’re looking for. Please try again, or select a download from the list below.
+ይቅርታ፥ ለመጫን የሚፈልጉትን ነገር ማግኘት አልቻልንም። እባክዎ እንደገና ይሞክሩ ወይም የሚጭኑትን ከሚከተሉት ዝርዝሮች ይምረጡ።
 
 
 ;Download Now
-Download Now
+አሁን ይጫኑ
 
 
 ;Menu
-Menu
+ዝርዝር
 
 
 ;The standard Firefox browser — fast and private. If you’re not sure which Firefox to choose, choose this.
-The standard Firefox browser — fast and private. If you’re not sure which Firefox to choose, choose this.
+ደረጃውን የጠበቀ የፋየርፎክስ ድረ-ገፅ ማሰሻ - ፈጣን እና አስተማማኝ። የትኛውን ፋየርፎክስ እንደሚመርጡ እርግጠኛ ካልሆኑ፤ ይኼን ይምረጡ።
 
 
 ;Get a sneak peek at the latest Firefox browser features before they’re released.
-Get a sneak peek at the latest Firefox browser features before they’re released.
+የቅርቡን ፋየርፎክስ ድረ-ገፅ ማሰሻ ዘመናዊ ገፅታዎች፤ በይፋ ከመለቁ በፊት በመጠኑ ይቃኙት።
 
 
 ;Test your sites against soon-to-be-released Firefox browser features with powerful, flexible DevTools that are on by default.
-Test your sites against soon-to-be-released Firefox browser features with powerful, flexible DevTools that are on by default.
+በቅርቡ የሚለቀቀውን ፋየርፎክስ ድረ-ገፅ ማሰሻ ገፅታዎች፤ ከፍተኛ አቅም እና ተስማሚ የዴቭቱል ግብአቶቹ ጋር በቀላሉ ድረ-ገፅዎ ላይ ይሞክሩት።
 
 
 ;The pre-alpha version for power users who like to hunt crashes and test new features as they’re coded.
-The pre-alpha version for power users who like to hunt crashes and test new features as they’re coded.
+የቅድመ-አልፋ ስሪት ሰርጎ-ገቦችን አድኖ መያዝ ለሚፈልጉ በልዩ ሁኔታ የተቀረፀ ነው - ይሞክሩት።
 
 
 ;Count on stability and ease of use with this Firefox browser built for enterprise.
-Count on stability and ease of use with this Firefox browser built for enterprise.
+ለድርጅቶች ታስቦ የተቀረፀው ፋየርፎክስ ድረ-ገፅ ማሰሻ፤ ወጥነት ያለው እና በቀላሉ መጠቀም የሚያስችል ነው።
 
 
 ;64-bit installers
-64-bit installers
+ባለ 64-ቢት ማቀናጃዎች
 
 
 ;Choose a 64-bit installer for computers with 64-bit processors, which allow them to allocate more RAM to individual programs — particularly important for games and other demanding applications.
-Choose a 64-bit installer for computers with 64-bit processors, which allow them to allocate more RAM to individual programs — particularly important for games and other demanding applications.
+ባለ 64-ቢት ማቀናጃን ለባለ 64-ቢት መከወኛ ይምረጡ፣ ይኼም እያንዳንዱ ኘሮግራም ተጨማሪ RAM መጠቀም እንዲችል ይረዳል - በተለይ ለጨዋታ እና ይኼን ለሚፈልጉ መተግበሪያዎች ይጠቅማል።
 
 
 ;32-bit installers
-32-bit installers
+ባለ 32-ቢት ማቀናጃዎች
 
 
 ;Choose a 32-bit installer for computers with 32-bit processors — or for older or less powerful computers. <a href="%(url)s">If you aren’t sure</a> whether to choose a 64-bit or 32-bit installer, we recommend you go with 32-bit.
-Choose a 32-bit installer for computers with 32-bit processors — or for older or less powerful computers. <a href="%(url)s">If you aren’t sure</a> whether to choose a 64-bit or 32-bit installer, we recommend you go with 32-bit.
+ባለ 32-ቢት ማቀናጃን ለባለ 32-ቢት መከወኛ ኮምፒውተሮች - ወይም ለቀድሞዎቹ እና አነስተኛ አቅም ላላቸው ኮምፒውተሮች ይምረጡ። <a href="%(url)s">እርግጠኛ ካልሆኑ ግን</a> ባለ 64-ቢት ወይስ ባለ 32-ቢት ማቀናጃ እንደሚሻልዎት፤ ባለ 32-ቢት ቢጠቀሙ የተሻለ ነው።
 
 
 ;MSI installers
-MSI installers
+MSI ማቀናጃዎች
 
 
 ;Windows installers for corporate IT that simplify the configuration, deployment and management of the Firefox Browser.
-Windows installers for corporate IT that simplify the configuration, deployment and management of the Firefox Browser.
+ዊንዶውስ ማቀናጃ ለIT ድርጅቶች፤ የፋየርፎክስ ድረ-ገፅ ማሰሻን ሲጠቀሙ ቅንጅትን፣ ስርጭትን እና አስተዳደርን ያቀልላቸዋል።
 
 
 ;Which version would you like?
-Which version would you like?
+የትኛውን የምርት ስሪት ይፈልጋሉ?
 
 
 ;Select your preferred installer
-Select your preferred installer
+የሚፈልጉትን ማቀናጃ ይምረጡ
 
 
 ;Learn about installers
-Learn about installers
+ሰለ ማቀናጃዎች ይወቁ
 
 
 ;Select your preferred language
-Select your preferred language
+የሚፈልጉትን ቋንቋ ይምረጡ
 
 
 # %(product_label)s is replaced with the product name e.g "Firefox", %(platform)s with the platform name e.g. "Windows", and %(locale)s with the language name e.g. "German".
 ;Download %(product_label)s for %(platform)s in %(locale)s
-Download %(product_label)s for %(platform)s in %(locale)s
+%(product_label)s ለ %(platform)s በ %(locale)s ጫን
 
 
