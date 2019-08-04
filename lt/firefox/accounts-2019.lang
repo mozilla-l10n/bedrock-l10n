@@ -1,3 +1,6 @@
+## active ##
+## accounts-metadata-072019 ##
+## accounts-signed-in-06132019 ##
 ## NOTE: https://www-dev.allizom.org/firefox/accounts/
 
 
@@ -66,78 +69,78 @@ Prisijungti prie „Monitor“
 
 # String is obsolete. Do not remove.
 ;Get technology that fights for you.
-Get technology that fights for you.
+Naudokitės technologija, kovojančia už jus.
 
 
 # This is not a complete proper name; "Firefox" is a proper name that shouldn't be translated, but you can choose to translate "browser". Span for formatting.
 ;Firefox <span>browser</span>
-Firefox <span>browser</span>
+Firefox <span>naršyklė</span>
 
 
 ;Travel the internet with protection, on every device.
-Travel the internet with protection, on every device.
+Naršykite internetą saugiai. Bet kuriame įrenginyje.
 
 
 ;Keep your passwords protected and portable.
-Keep your passwords protected and portable.
+Laikykite savo slaptažodžius saugiai. Turėkite juos su savimi.
 
 
 ;Get a lookout for data breaches.
-Get a lookout for data breaches.
+Būkite informuoti apie duomenų pažeidimus.
 
 
 ;Share large files without prying eyes.
-Share large files without prying eyes.
+Dalinkitės dideliais failais. Be pašalinių akių.
 
 
 ;Get it all on every device, without feeling trapped in a single operating system.
-Get it all on every device, without feeling trapped in a single operating system.
+Naudokitės ja visuose įrenginiuose, nepriklausomai nuo juose veikiančios operacinės sistemos.
 
 
 # String is obsolete. Do not remove.
 ;And get it all on every device, without feeling trapped in a single operating system.
-And get it all on every device, without feeling trapped in a single operating system.
+Ir naudokitės ja visuose įrenginiuose, nepriklausomai nuo juose veikiančios operacinės sistemos.
 
 
 ;Get the respect you deserve.
-Get the respect you deserve.
+Susilaukite pagarbos, kurios nusipelnėte.
 
 
 ;You’ll always get the truth from us. Everything we make and do honors our <a href="%(promise)s">Personal Data Promise</a>:
-You’ll always get the truth from us. Everything we make and do honors our <a href="%(promise)s">Personal Data Promise</a>:
+Iš mūsų visada galite tikėtis tiesos. Kurdami visus savo produktus, vadovaujamės <a href="%(promise)s">Asmeninių duomenų pažadu</a>:
 
 
 # Line breaks for formatting.
 ;Take less.<br> Keep it safe.<br> No secrets.
-Take less.<br> Keep it safe.<br> No secrets.
+Prašome mažiau.<br> Viską akylai saugome.<br> Nieko neslepiame.
 
 
 ;Get the knowledge to keep you safe.
-Get the knowledge to keep you safe.
+Gaukite žinių, kurios padės išlikti saugiems.
 
 
 ;Learn everything you need to know (but don’t yet) about staying smart and safe online, from some of the world’s foremost experts.
-Learn everything you need to know (but don’t yet) about staying smart and safe online, from some of the world’s foremost experts.
+Sužinokite viską, ką derėtų žinoti apie išmanų ir saugų naudojimąsi internetu – iš bene geriausių šios srities ekspertų.
 
 
 ;And be part of protecting the internet for future generations.
-And be part of protecting the internet for future generations.
+Ir prisidėkite prie interneto išsaugojimo ateities kartoms.
 
 
 ;Help us build a better Firefox for all.
-Help us build a better Firefox for all.
+Padėkite mums kurti „Firefox“, tinkamą visiems.
 
 
 ;Get into the open source spirit by test-driving upcoming products.
-Get into the open source spirit by test-driving upcoming products.
+Įsitraukite į atvirojo kodo judėjimą, testuodami dar neišleistus produktus ir jų versijas.
 
 
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 ;Help us keep Big Tech in check.
-Help us keep Big Tech in check.
+Padėkite mums sutvardyti technologijų milžines.
 
 
 ;We support communities all over the world standing up for a healthier internet. Add your voice to the fight.
-We support communities all over the world standing up for a healthier internet. Add your voice to the fight.
+Mes remiame bendruomenes visame pasaulyje, pasisakančias už sveikesnį internetą. Prisidėkite ir jūs savo balsu.
 
 
