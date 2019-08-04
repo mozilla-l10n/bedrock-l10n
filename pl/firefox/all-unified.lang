@@ -1,143 +1,144 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/all/
 
 
 # HTML page title. Replace "English (US)" with your local language.
 ;Download the Firefox Browser in English (US) and more than 90 other languages
-Download the Firefox Browser in English (US) and more than 90 other languages
+Pobierz przeglądarkę Firefox w języku polskim i ponad 90 innych językach
 
 
 # HTML page description, also used as the introductory text.
 ;Everyone deserves access to the internet — your language should never be a barrier. That’s why — with the help of dedicated volunteers around the world — we make the Firefox Browser available in more than 90 languages.
-Everyone deserves access to the internet — your language should never be a barrier. That’s why — with the help of dedicated volunteers around the world — we make the Firefox Browser available in more than 90 languages.
+Wszyscy zasługują na dostęp do Internetu — Twój język nigdy nie powinien być przeszkodą. Właśnie dlatego — z pomocą oddanych wolontariuszy z całego świata — udostępniamy przeglądarkę Firefox w ponad 90 językach.
 
 
 ;Choose which Firefox Browser to download in your language
-Choose which Firefox Browser to download in your language
+Wybierz przeglądarkę Firefox do pobrania w swoim języku
 
 
 ;Check the system requirements
-Check the system requirements
+Wymagania systemowe
 
 
 ;Release notes
-Release notes
+Informacje o wydaniu
 
 
 ;Source code
-Source code
+Kod źródłowy
 
 
 ;Firefox Privacy Notice
-Firefox Privacy Notice
+Zasady ochrony prywatności Firefoksa
 
 
 ;Need help?
-Need help?
+Potrzebujesz pomocy?
 
 
 ;Which browser would you like to download?
-Which browser would you like to download?
+Którą przeglądarkę chcesz pobrać?
 
 
 ;Learn about Firefox browsers
-Learn about Firefox browsers
+Więcej informacji o przeglądarkach Firefox
 
 
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 ;Get help
-Get help
+Pomoc
 
 
 ;You are about to download:
-You are about to download:
+Pobierzesz:
 
 
 ;Browser:
-Browser:
+Przeglądarka:
 
 
 ;Platform:
-Platform:
+System:
 
 
 ;Language:
-Language:
+Język:
 
 
 ;Sorry, we couldn’t find the download you’re looking for. Please try again, or select a download from the list below.
-Sorry, we couldn’t find the download you’re looking for. Please try again, or select a download from the list below.
+Przepraszamy, nie możemy odnaleźć pliku, którego szukasz. Prosimy spróbować ponownie lub wybrać plik do pobrania z poniższej listy.
 
 
 ;Download Now
-Download Now
+Pobierz teraz
 
 
 ;Menu
-Menu
+Menu {ok}
 
 
 ;The standard Firefox browser — fast and private. If you’re not sure which Firefox to choose, choose this.
-The standard Firefox browser — fast and private. If you’re not sure which Firefox to choose, choose this.
+Standardowa przeglądarka Firefox — szybka i prywatna. Jeśli nie masz pewności, którego Firefoksa wybrać, wybierz tego.
 
 
 ;Get a sneak peek at the latest Firefox browser features before they’re released.
-Get a sneak peek at the latest Firefox browser features before they’re released.
+Zapoznaj się z najnowszymi funkcjami przeglądarki Firefox, zanim zostaną wydane.
 
 
 ;Test your sites against soon-to-be-released Firefox browser features with powerful, flexible DevTools that are on by default.
-Test your sites against soon-to-be-released Firefox browser features with powerful, flexible DevTools that are on by default.
+Testuj, jak działają Twoje strony z nowymi funkcjami przeglądarki Firefox tuż przed ich wydaniem za pomocą potężnych, elastycznych narzędzi dla programistów, które są domyślnie włączone.
 
 
 ;The pre-alpha version for power users who like to hunt crashes and test new features as they’re coded.
-The pre-alpha version for power users who like to hunt crashes and test new features as they’re coded.
+Wersja niestabilna dla zaawansowanych użytkowników, którzy lubią polować na awarie i testować nowe funkcje w trakcie ich powstawania.
 
 
 ;Count on stability and ease of use with this Firefox browser built for enterprise.
-Count on stability and ease of use with this Firefox browser built for enterprise.
+Możesz liczyć na stabilność i łatwość obsługi dzięki przeglądarce Firefox stworzonej dla firm.
 
 
 ;64-bit installers
-64-bit installers
+Instalatory 64-bitowe
 
 
 ;Choose a 64-bit installer for computers with 64-bit processors, which allow them to allocate more RAM to individual programs — particularly important for games and other demanding applications.
-Choose a 64-bit installer for computers with 64-bit processors, which allow them to allocate more RAM to individual programs — particularly important for games and other demanding applications.
+Wybierz 64-bitowy instalator dla komputerów z procesorami 64-bitowymi, które umożliwiają przydzielenie większej ilości pamięci RAM dla poszczególnych programów — co jest szczególnie ważne w przypadku gier i innych wymagających aplikacji.
 
 
 ;32-bit installers
-32-bit installers
+Instalatory 32-bitowe
 
 
 ;Choose a 32-bit installer for computers with 32-bit processors — or for older or less powerful computers. <a href="%(url)s">If you aren’t sure</a> whether to choose a 64-bit or 32-bit installer, we recommend you go with 32-bit.
-Choose a 32-bit installer for computers with 32-bit processors — or for older or less powerful computers. <a href="%(url)s">If you aren’t sure</a> whether to choose a 64-bit or 32-bit installer, we recommend you go with 32-bit.
+Wybierz 32-bitowy instalator dla komputerów z procesorami 32-bitowymi — lub dla starszych albo słabszych komputerów. <a href="%(url)s">Jeśli nie masz pewności</a>, który instalator wybrać, to zalecamy skorzystanie z 32-bitowego.
 
 
 ;MSI installers
-MSI installers
+Instalatory MSI
 
 
 ;Windows installers for corporate IT that simplify the configuration, deployment and management of the Firefox Browser.
-Windows installers for corporate IT that simplify the configuration, deployment and management of the Firefox Browser.
+Instalatory systemu Windows dla firmowych rozwiązań informatycznych, które upraszczają konfigurację, wdrażanie i zarządzanie przeglądarką Firefox.
 
 
 ;Which version would you like?
-Which version would you like?
+Którą wersję chcesz?
 
 
 ;Select your preferred installer
-Select your preferred installer
+Wybierz preferowany instalator
 
 
 ;Learn about installers
-Learn about installers
+Więcej informacji o instalatorach
 
 
 ;Select your preferred language
-Select your preferred language
+Wybierz preferowany język
 
 
 # %(product_label)s is replaced with the product name e.g "Firefox", %(platform)s with the platform name e.g. "Windows", and %(locale)s with the language name e.g. "German".
 ;Download %(product_label)s for %(platform)s in %(locale)s
-Download %(product_label)s for %(platform)s in %(locale)s
+Pobierz przeglądarkę %(product_label)s dla systemu %(platform)s w języku: %(locale)s
 
 
