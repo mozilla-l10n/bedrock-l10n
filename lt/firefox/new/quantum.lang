@@ -5,6 +5,7 @@
 ## firefox_quantum_new_headline ##
 ## firstrun_email_only_form ##
 ## fxnew_account_032019 ##
+## platform_strings_04232019 ##
 ## truly_removal_2019 ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/new/
 
@@ -351,7 +352,7 @@ Privatesnė nei kitos
 
 
 ;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
-Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+Griežto turinio blokavimo dėka visuomet jausitės savo kompiuterio šeimininkais. Jums netrukdys nepageidaujami slapukai ir sekliai.
 
 
 ;Look under the hood. Like Linux, Firefox features are open source.
@@ -359,7 +360,7 @@ Pažiūrėkite po gaubtu. „Firefox“, kaip ir „Linux“, yra atvirojo kodo 
 
 
 ;Easy migration of preferences and bookmarks when you download Firefox for Windows.
-Easy migration of preferences and bookmarks when you download Firefox for Windows.
+Į „Firefox“ be vargo perkelsite savo parametrus ir adresyną iš kitos naršyklės.
 
 
 ;Private Browsing with Tracking Protection
