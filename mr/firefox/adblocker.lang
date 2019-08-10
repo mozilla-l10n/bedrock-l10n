@@ -28,7 +28,7 @@
 
 
 ;These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
-These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
+या जाहिराती मोठ्या आवाजातील व्हिडिओ जाहिराती, आपल्या वेबवरुन येणार्‍या जाहिराती, ट्रॅकर्स, तृतीय-पक्षाच्या कुकीज आणि बरेच काही असू शकतात. जाहिरात ब्लॉकर वापरण्यासाठी, आपण आपल्या ब्राउझरमध्ये उपलब्ध असलेल्या ब्लॉगर अ‍ॅड-ऑन शोधू शकता. उदाहरणार्थ, <a href="%(firefox)s">Firefox</a> कडे जाहिरात विरोधक अ‍ॅड-ऑनची <a href="%(addons)s">ही मंजूर सूची आहे</a>. या सूचीवर (किंवा आपल्या ब्राउझरसाठी मंजूर झालेल्या जाहिरात विरोधकावर) क्लिक करा आणि आपल्या गरजेनुसार निवडा.
 
 
 ;Find the right ad blocker for you
@@ -36,24 +36,24 @@ These ads might be loud video ads, ads that follow you around the web, trackers,
 
 
 ;There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
-There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
+एक <a href="%(url)s">सर्वोच्च जाहिरातविरोधक</a> पण आहे जे सर्व जाहिरातींपासून मुक्त करते, पण ग्राहकांनो सावधान. आपली काही आवडती वर्तमानपत्रे आणि नियतकालिके जाहिरातींवर अवलंबून असतात. खूप लोकांनी जर त्यांच्या जाहिराती अडवल्या, तर त्यांचा व्यवसाय बंद पडू शकतो.
 
 
 ;Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
-Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
+पॉपअप जाहिराती सर्वात वाईट असतात. त्यांना <a href="%(url)s">पॉपअप विरोधकासह</a> अवरोधित करा आणि पुन्हा कधीही त्रास देणार्‍या पॉपअपच्या नादी लागू नका.
 
 
 ;One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
-One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
+Chrome, Safari आणि Firefox साठी सर्वाधिक लोकप्रिय जाहिरात विरोधकांपैकी एक <a href="%(url)s">AdBlock</a> आहे. याचा वापर Facebook, YouTube आणि Hulu वर जाहिराती अडवण्यासाठी करा.
 
 
 # A tracker-free zone means a no tracker zone.
 ;Create a tracker-free zone with Content Blocking
-Create a tracker-free zone with Content Blocking
+मजकूर अवरोधनासह ट्रॅकर-मुक्त क्षेत्र तयार करा
 
 
 ;On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
-On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
+Firefox वर आपण <a href="%(privacy)s">गोपनीयता</a> किंवा <a href="%(blocking)s">मजकूर अवरोधन</a> सेटिंग वापरून जाहिरात देणाऱ्या ट्रॅकरवर अजून नियंत्रण मिळवू शकता.
 
 
 ;Choose your level of protection
@@ -61,11 +61,11 @@ On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking
 
 
 ;To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
-To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
+सुरु करण्यासाठी वरील बाजूस, उजव्या कोपऱ्यातील, Firefox मेनू वर क्लिक करा. हे बटन एकावर एक ठेवलेल्या तीन रेषांसारखे दिसते. खाली उघडलेल्या यादीमधून मजकूर अवरोधन निवडा. आपल्याला निळा पॉप-अप वेगवेगळ्या पर्यायांसह दिसेल.
 
 
 ;Go easy with Standard mode
-Go easy with Standard mode
+सुलभतेसाठी स्टॅंडर्ड मोड निवडा
 
 
 ;If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
@@ -98,7 +98,7 @@ Click on the Trackers box and you’ll be able to block trackers in two ways. On
 
 
 ;Take a bite out of cookies
-Take a bite out of cookies
+कुकीज मधून तुकडा तोडा
 
 
 ;<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
@@ -119,7 +119,7 @@ If you don’t want your online behavior used for ads, you can send websites a p
 
 
 ;Speed up thanks to ad blockers
-Speed up thanks to ad blockers
+जाहिरात अवरोधकामुळे जलद
 
 
 ;In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
