@@ -1,136 +1,137 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/features/adblocker
 
 
 # HTML page title
 ;How to block annoying ads using an ad blocker
-How to block annoying ads using an ad blocker
+Jak blokować irytujące reklamy za pomocą narzędzia do blokowania reklam
 
 
 # HTML page description
 ;How to stop seeing too many ads and keep companies from following you around online. An ad blocker guide from the Firefox web browser.
-How to stop seeing too many ads and keep companies from following you around online. An ad blocker guide from the Firefox web browser.
+Jak zmniejszyć liczbę reklam na stronach i uniemożliwić firmom śledzenie Cię w Internecie. Poradnik blokowania reklam od przeglądarki internetowej Firefox.
 
 
 ;The ad blocker – a secret weapon against annoying ads.
-The ad blocker – a secret weapon against annoying ads.
+Bloker reklam — tajna broń przeciwko irytującym reklamom.
 
 
 ;So many ads, so little patience… It’s time to stop the madness.
-So many ads, so little patience… It’s time to stop the madness.
+Tyle reklam, tak mało cierpliwości… Czas zatrzymać to szaleństwo.
 
 
 ;The average person sees an average of 4,000 ads a day. If you think that’s too many, an ad blocker is your new best friend.
-The average person sees an average of 4,000 ads a day. If you think that’s too many, an ad blocker is your new best friend.
+Przeciętny człowiek widzi średnio cztery tysiące reklam dziennie. Jeśli sądzisz, że to za dużo, to bloker reklam jest Twoim nowym najlepszym przyjacielem.
 
 
 ;An ad blocker is a piece of software that can be used to block ads, and they work in two ways. The first way is when an ad blocker blocks the signal from an advertiser’s server, so the ad never shows up on your page. Another way ad blockers work is by blocking out sections of a website that could be ads.
-An ad blocker is a piece of software that can be used to block ads, and they work in two ways. The first way is when an ad blocker blocks the signal from an advertiser’s server, so the ad never shows up on your page. Another way ad blockers work is by blocking out sections of a website that could be ads.
+Bloker reklam to oprogramowanie, którego można używać do blokowania reklam, działające na dwa sposoby. Pierwszy polega na tym, że bloker blokuje sygnał z serwera reklamodawcy, więc reklama nigdy nie pojawia się na stronie. Drugi sposób blokuje części stron, które mogą być reklamami.
 
 
 ;These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
-These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
+Mogą to być głośne reklamy wideo, reklamy śledzące Cię w Internecie, elementy śledzące, ciasteczka zewnętrznych witryn i wiele więcej. Aby używać blokera reklam, możesz wyszukać dodatki blokujące reklamy dostępne w używanej przeglądarce. <a href="%(firefox)s">Firefox</a>, na przykład, ma <a href="%(addons)s">listę zatwierdzonych dodatków blokujących reklamy</a>. Kliknij tę listę (lub blokery reklam zatwierdzone dla Twojej przeglądarki) i sprawdź, który pasuje do Twoich potrzeb.
 
 
 ;Find the right ad blocker for you
-Find the right ad blocker for you
+Znajdź odpowiedni bloker reklam dla siebie
 
 
 ;There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
-There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
+<a href="%(url)s">AdBlocker Ultimate</a> pozbywa się wszystkich reklam, ale ma to swoje złe strony. Twoje ulubione gazety i czasopisma są uzależnione od reklam. Za duża liczba osób blokujących ich reklamy może ich zbankrutować.
 
 
 ;Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
-Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
+Wyskakujące reklamy są najgorsze. Blokuj je za pomocą dodatku <a href="%(url)s">Popup Blocker</a>, a nigdy więcej ich nie zobaczysz.
 
 
 ;One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
-One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
+Jednym z najpopularniejszych blokerów reklam dla przeglądarek Chrome, Safari i Firefox jest <a href="%(url)s">AdBlock</a>. Używaj go do blokowania reklam na Facebooku, YouTubie i Hulu.
 
 
 # A tracker-free zone means a no tracker zone.
 ;Create a tracker-free zone with Content Blocking
-Create a tracker-free zone with Content Blocking
+Utwórz strefę wolną od śledzenia dzięki blokowaniu treści
 
 
 ;On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
-On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
+W Firefoksie możesz użyć ustawień <a href="%(privacy)s">prywatności</a> lub <a href="%(blocking)s">blokowania treści</a>, aby mieć jeszcze więcej kontroli nad elementami śledzącymi, które wyświetlają Ci reklamy.
 
 
 ;Choose your level of protection
-Choose your level of protection
+Wybierz swój poziom ochrony
 
 
 ;To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
-To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
+Aby zacząć, kliknij menu Firefoksa w prawym górnym rogu ekranu. Wygląda ono jak trzy linie ułożone na siebie. W rozwijanym menu kliknij „Blokowanie treści”. Powinno wyświetlić się niebieskie okno z różnymi opcjami do wyboru.
 
 
 ;Go easy with Standard mode
-Go easy with Standard mode
+Łagodne traktowanie w trybie standardowym
 
 
 ;If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
-If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
+Jeśli reklamy Ci nie przeszkadzają i nie masz nic przeciwko śledzeniu przez elementy śledzące i ciasteczka zewnętrznych witryn, to ustawienie standardowe powinno Ci wystarczyć. Aby zbić elementy śledzące z Twojego tropu, użyj <a href="%(url)s">okna w trybie prywatnym</a>.
 
 
 ;Get tough with Strict mode
-Get tough with Strict mode
+Bez kompromisów w trybie ścisłym
 
 
 ;If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
-If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
+Jeśli widok zbyt wielu reklam psuje Ci dzień, to tryb ścisły jest lepszym rozwiązaniem. Ten tryb blokuje znane elementy śledzące i ciasteczka witryn zewnętrznych we wszystkich oknach Firefoksa.
 
 
 ;Do-it-yourself Custom mode
-Do-it-yourself Custom mode
+„Zrób to sam” w trybie własnym
 
 
 ;The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
-The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
+Ustawienie własne pozwala Ci decydować samodzielnie. Wybierz, co chcesz blokować, w tym elementy śledzące, ciasteczka i inne. Jeśli zezwolisz na ciasteczka z jakiejś strony, to automatycznie znajdziesz się w tym trybie.
 
 
 # ’Cover your trail’ means cover your browsing history.
 ;Cover your trail, block trackers
-Cover your trail, block trackers
+Zatrzyj po sobie ślady, blokuj elementy śledzące
 
 
 ;Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
-Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
+Kliknij pole „Elementy śledzące”, aby móc blokować je na dwa sposoby. Jednym z nich jest blokowanie w oknach w trybie prywatnym. Drugim jest blokowanie elementów śledzących we wszystkich oknach. Pamiętaj, że jeśli zdecydujesz się zawsze je blokować, to niektóre strony mogą nie działać poprawnie.
 
 
 ;Take a bite out of cookies
-Take a bite out of cookies
+Odgryź się ciasteczkom
 
 
 ;<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
-<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
+<a href="%(url)s">Ciasteczka</a> są wysyłane przez odwiedzane witryny. Mieszkają w Twoim komputerze i monitorują, co robisz na stronie. Kiedy linia lotnicza podnosi Ci ceny, bo któregoś dnia szukałaś biletów, to właśnie dzieło ciasteczek.
 
 
 ;In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
-In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
+W Firefoksie możesz blokować wszystkie ciasteczka zewnętrznych witryn lub tylko te ustawiane przez elementy śledzące. Pamiętaj, że blokowanie wszystkich ciasteczek może spowodować, że niektóre strony nie będą działać poprawnie.
 
 
 ;Send a Do Not Track signal
-Send a Do Not Track signal
+Wyślij sygnał, żeby Cię nie śledzić
 
 
 # ’Thanks but no thanks’ here means to reject ads.
 ;If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
-If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
+Jeśli nie chcesz, aby reklamy korzystały z Twoich działań w Internecie, to możesz wysyłać witrynom grzeczne „dzięki, ale nie skorzystam”, zaznaczając opcję <a href="%(url)s">Do Not Track</a> w Firefoksie. Uczestnictwo jest dobrowolne, ale witryny uczestniczące w programie natychmiast przestaną Cię śledzić.
 
 
 ;Speed up thanks to ad blockers
-Speed up thanks to ad blockers
+Przyspiesz dzięki blokerom reklam
 
 
 ;In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
-In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
+W niektórych przypadkach bloker reklam może przyspieszyć przeglądarkę. Wczytywanie reklamy może spowolnić stronę. Poza tym znalezienie tego, co szukasz zajmuje więcej czasu, jeśli musisz poświęcić go na zamykanie kolejnej reklamy.
 
 
 ;If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for Firefox and other browsers. If want to try out the ad blockers Firefox uses, <a href="%(url)s">click here to download</a> a browser that puts privacy first.
-If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for Firefox and other browsers. If want to try out the ad blockers Firefox uses, <a href="%(url)s">click here to download</a> a browser that puts privacy first.
+Jeśli chcesz dowiedzieć się więcej o blokowaniu reklam, dla Firefoksa i innych przeglądarek dostępne są setki rozszerzeń blokujących reklamy. Jeśli chcesz wypróbować blokery reklam używane przez Firefoksa, to <a href="%(url)s">kliknij tutaj, aby pobrać</a> przeglądarkę stawiającą prywatność na pierwszym miejscu.
 
 
 ;Take control of your browser.
-Take control of your browser.
+Pełna kontrola nad przeglądarką.
 
 

@@ -1,136 +1,137 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/features/adblocker
 
 
 # HTML page title
 ;How to block annoying ads using an ad blocker
-How to block annoying ads using an ad blocker
+Kaip blokuoti įkyrias reklamas naudojantis reklamų blokuoklėmis
 
 
 # HTML page description
 ;How to stop seeing too many ads and keep companies from following you around online. An ad blocker guide from the Firefox web browser.
-How to stop seeing too many ads and keep companies from following you around online. An ad blocker guide from the Firefox web browser.
+Kaip atsikratyti reklamų pertekliaus ir užkirsti kelią kompanijoms jus stebėti internete. Reklamų blokuoklių gidas nuo „Firefox“ naršyklės kūrėjų.
 
 
 ;The ad blocker – a secret weapon against annoying ads.
-The ad blocker – a secret weapon against annoying ads.
+Reklamų blokuoklė – slaptas ginklas kovoje su įkyriomis reklamomis.
 
 
 ;So many ads, so little patience… It’s time to stop the madness.
-So many ads, so little patience… It’s time to stop the madness.
+Reklamų daugėja, kantrybė senka… Laikas nutraukti šią beprotybę.
 
 
 ;The average person sees an average of 4,000 ads a day. If you think that’s too many, an ad blocker is your new best friend.
-The average person sees an average of 4,000 ads a day. If you think that’s too many, an ad blocker is your new best friend.
+Vidutinis asmuo kasdien susiduria su apie 4000 reklamų. Jei manote, jog šis skaičius per didelis, tuomet jums pats metas susipažinti su reklamų blokuoklėmis.
 
 
 ;An ad blocker is a piece of software that can be used to block ads, and they work in two ways. The first way is when an ad blocker blocks the signal from an advertiser’s server, so the ad never shows up on your page. Another way ad blockers work is by blocking out sections of a website that could be ads.
-An ad blocker is a piece of software that can be used to block ads, and they work in two ways. The first way is when an ad blocker blocks the signal from an advertiser’s server, so the ad never shows up on your page. Another way ad blockers work is by blocking out sections of a website that could be ads.
+Reklamų blokuoklė – tai programa ar jos priedas, skirtas reklamoms blokuoti. Blokuoklės veikia dviem būdais. Pirmasis būdas – blokuoti signalą iš reklamą siunčiančio serverio, šitaip užkertant kelią reklamai pasirodyti jūsų lankomoje svetainėje. Antrasis – blokuoti tinklalapių dalių, kuriose paprastai talpinama reklama, rodymą.
 
 
 ;These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
-These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
+Kalbėdami apie reklamas, turime omenyje triukšmingus vaizdo įrašus, jūsų keliones internete sekančias reklamas, seklius, trečiųjų šalių slapukus ir kitką. Norėdami naudotis reklamų blokuokle, paieškokite savo naudojamai naršyklei sukurtų reklamos blokavimui skirtų priedų. Pavydžiui, <a href="%(firefox)s">„Firefox“</a> naršyklei skirtų <a href="%(addons)s">reklamų blokuoklių sąrašą rasite čia</a>. Peržiūrėkite šį (arba jūsų naršyklei skirtą) reklamų blokuoklių sąrašą ir išsirinkite sau tinkamiausią.
 
 
 ;Find the right ad blocker for you
-Find the right ad blocker for you
+Raskite sau tinkamiausią reklamų blokuoklę
 
 
 ;There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
-There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
+Viena blokuoklių – <a href="%(url)s">„AdBlocker Ultimate“</a>. Ji blokuoja visas įmanomas reklamas, tačiau būkite atsargūs: tikėtina, jog jūsų mėgstamiems portalams reklama yra svarbus pajamų šaltinis. Per dideliam lankytojų kiekiui jas užblokavus, kai kurie portalai gali tiesiog neišsilaikyti.
 
 
 ;Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
-Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
+Bene labiausiai erzinančios reklamos – tai iškylantieji langai. Jų galite kartą ir visiems laikams nusikratyti <a href="%(url)s">iškylančiųjų langų blokuoklių</a> pagalba.
 
 
 ;One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
-One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
+Viena populiariausių reklamų blokuoklių „Chrome“, „Safari“ ir „Firefox“ naršyklėms yra <a href="%(url)s">„AdBlock“</a>. Jos padedami, galite atsikratyti reklamų „Facebook“, „YouTube“ ir „Hulu“ svetainėse.
 
 
 # A tracker-free zone means a no tracker zone.
 ;Create a tracker-free zone with Content Blocking
-Create a tracker-free zone with Content Blocking
+Išvenkite nepageidautino stebėjimo, pasinaudodami Turinio blokavimu
 
 
 ;On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
-On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
+„Firefox“ naršyklėje galite pasinaudoti <a href="%(privacy)s">Privatumo</a> arba <a href="%(blocking)s">Turinio blokavimo</a> nuostatomis ir patys pagal savo poreikius suderinti naršyklės toleranciją reklamoms ir sekliams.
 
 
 ;Choose your level of protection
-Choose your level of protection
+Pasirinkite norimą apsaugos lygį
 
 
 ;To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
-To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
+Pradėkite, spustelėdami „Firefox“ meniu mygtuką, esantį šios naršyklės lango viršutiniame dešiniajame kampe ir atrodantį kaip trys horizontalios juostelės, išdėstytos viena virš kitos. Išsiskleidusiame meniu spustelėkite punktą „Turinio blokavimas“. Šitaip atversite privatumo ir saugumo nuostatų langą.
 
 
 ;Go easy with Standard mode
-Go easy with Standard mode
+Būkite atlaidūs: standartinis lygis
 
 
 ;If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
-If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
+Jeigu reklamos jūsų neerzina, o reklaminiai sekliai ir trečiųjų šalių slapukai netrukdo, tuomet jums puikiai tiks standartinis privatumo lygis. Jeigu šiame lygyje norėsite laikinai nusikratyti seklių, naudokitės <a href="%(url)s">privačiojo naršymo</a> langu.
 
 
 ;Get tough with Strict mode
-Get tough with Strict mode
+Būkite principingi: griežtas lygis
 
 
 ;If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
-If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
+Jeigu per didelis reklamų kiekis jums kaskart sugadina nuotaiką, tuomet griežtas saugumo lygis jums turėtų tikti labiau. Kai jis įjungtas, žinomi trečiųjų šalių sekliai ir slapukai bus blokuojami visuose „Firefox“ naršyklės languose.
 
 
 ;Do-it-yourself Custom mode
-Do-it-yourself Custom mode
+Pasidaryk pats: pasirinktinis lygis
 
 
 ;The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
-The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
+Pasirinktiniame lygyje patys galite nurodyti, ką norite blokuoti, o ką leisti. Čia rasite atskiras parinktis sekliams, slapukams ir kitiems elementams valdyti. Leidus svetainei įrašyti slapukus, automatiškai parenkamas pasirinktinis lygis.
 
 
 # ’Cover your trail’ means cover your browsing history.
 ;Cover your trail, block trackers
-Cover your trail, block trackers
+Keliaukite inkognito, blokuodami seklius
 
 
 ;Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
-Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
+Pažymėkite varnelę ties užrašu „Stebėjimo elementai“ ir galėsite pasirinkti vieną iš dviejų blokavimo būdų. Pirmasis – blokuoti seklius tik privačiojo naršymo languose. Antrasis – blokuoti juos visuose languose be išimties. Turėkite omenyje, kad pasirinkus blokuoti visus stebėjimo elementus, gali sutrikti kai kurių svetainių veikimas.
 
 
 ;Take a bite out of cookies
-Take a bite out of cookies
+Nusikratykite slapukų naštos
 
 
 ;<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
-<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
+<a href="%(url)s">Slapukus</a> pas jus patalpina jūsų aplankomos svetainės. Jie lieka kompiuteryje ir padeda svetainei stebėti ką joje veikiate. Pavyzdžiui, jeigu antrąkart per dieną apsilankius oro linijų svetainėje, joje imamos rodyti padidintos bilietų kainos, tai paprastai dėl to būna kalti slapukai.
 
 
 ;In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
-In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
+„Firefox“ suteikia galimybę blokuoti visus trečiųjų šalių slapukus, arba tiktai talpinamus seklių. Taipogi galima blokuoti visus slapukus, tačiau tai beveik neabejotinai sukels svetainių veikimo nesklandumų.
 
 
 ;Send a Do Not Track signal
-Send a Do Not Track signal
+Praneškite, jog nenorite būti stebimi
 
 
 # ’Thanks but no thanks’ here means to reject ads.
 ;If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
-If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
+Jeigu nenorite, kad jūsų naršymo istorija būtų naudojama reklamoms parinkti, galite svetaines mandagiai informuoti, jog to nepageidaujate, pažymėdami <a href="%(url)s">„Do Not Track“</a> parinktį. Svetainės neprivalo į šį signalą atsižvelgti, tačiau tos, kurios atsižvelgia, nedelsiant nutrauks bet kokį jūsų stebėjimą.
 
 
 ;Speed up thanks to ad blockers
-Speed up thanks to ad blockers
+Naršykite sparčiau reklamų blokuoklių pagalba
 
 
 ;In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
-In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
+Kai kuriais atvejais reklamų blokuoklė gali padėti jūsų naršyklei veikti greičiau. Reklamų įkėlimas sulėtina svetainės veikimą. Be to, kol esate užsiėmę, uždarinėdami iššokančias reklamas, negalite susikoncentruoti į svetainės turinį, dėl kurio joje apsilankėte.
 
 
 ;If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for Firefox and other browsers. If want to try out the ad blockers Firefox uses, <a href="%(url)s">click here to download</a> a browser that puts privacy first.
-If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for Firefox and other browsers. If want to try out the ad blockers Firefox uses, <a href="%(url)s">click here to download</a> a browser that puts privacy first.
+Jeigu norite apie reklamų blokavimą sužinoti daugiau, „Firefox“ ir kitoms naršyklėms yra sukurta šimtai šio tipo priedų. O jei norite išbandyti reklamų blokuokles, naudojamas „Firefox“ naršyklėje, <a href="%(url)s">spustelėkite čia ir parsisiųskite</a> naršyklę, kuriai privatumas – svarbiausia.
 
 
 ;Take control of your browser.
-Take control of your browser.
+Susigrąžinkite naršyklės valdymą.
 
 
