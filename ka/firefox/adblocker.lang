@@ -12,35 +12,35 @@ How to stop seeing too many ads and keep companies from following you around onl
 
 
 ;The ad blocker – a secret weapon against annoying ads.
-The ad blocker – a secret weapon against annoying ads.
+რეკლამების შემზღუდავი – საიდუმლო იარაღი, მომაბეზრებელი რეკლამების წინააღმდეგ.
 
 
 ;So many ads, so little patience… It’s time to stop the madness.
-So many ads, so little patience… It’s time to stop the madness.
+რეკლამების ზრდასთან ერთად, მოთმინება უფრო და უფრო კლებულობს… დროა, დასრულდეს ეს სიგიჟე.
 
 
 ;The average person sees an average of 4,000 ads a day. If you think that’s too many, an ad blocker is your new best friend.
-The average person sees an average of 4,000 ads a day. If you think that’s too many, an ad blocker is your new best friend.
+საშუალოდ, ადამიანი დღეში 4,000 რეკლამას ნახულობს. თუ მიგაჩნიათ რომ ეს ზედმეტად ბევრია, რეკლამების შემზღუდავი დაგეხმარებათ.
 
 
 ;An ad blocker is a piece of software that can be used to block ads, and they work in two ways. The first way is when an ad blocker blocks the signal from an advertiser’s server, so the ad never shows up on your page. Another way ad blockers work is by blocking out sections of a website that could be ads.
-An ad blocker is a piece of software that can be used to block ads, and they work in two ways. The first way is when an ad blocker blocks the signal from an advertiser’s server, so the ad never shows up on your page. Another way ad blockers work is by blocking out sections of a website that could be ads.
+რეკლამების შემზღუდავი, მცირე ზომის პროგრამაა, რომლითაც ხდება რეკლამების აკრძალვა, ორი გზით. ერთ შემთხვევაში, იზღუდება მომავალი სიგნალი სარეკლამო სერვერიდან, შესაბამისად რეკლამა ვეღარ ჩამოიტვირთება გვერდზე გამოსაჩენად. მეორე შემთხვევაში კი ხდება საიტის იმ არეების მოცილება, სადაც რეკლამები შეიძლება გამოჩნდეს.
 
 
 ;These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
-These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
+ეს რეკლამები შეიძლება იყოს ხმამაღალი ვიდეოები, ან სარეკლამო საშუალებები, რომლებიც თან დაგყვებათ მთელ ინტერნეტში, თვალისმდევნელი, გარეშე საიტების ფუნთუშები და ა. შ. რეკლამების შემზღუდავის გამოსაყენებლად, შეგიძლიათ მოიძიოთ შესაბამისი დამატება, თქვენი ბრაუზერისთვის. მაგალითად <a href="%(firefox)s">Firefox-ს</a> აქვს <a href="%(addons)s">რეკლამების შემზღუდავი დამოწმებული დამატებების სია</a>. დაწკაპეთ ამ სიაზე (ან თქვენი ბრაუზერისთვის შესაფერის რეკლამების შემზღუდავებზე) და შეარჩიეთ ის, რომელიც ყველაზე უკეთ მოერგება თქვენს საჭიროებებს.
 
 
 ;Find the right ad blocker for you
-Find the right ad blocker for you
+მონახეთ რეკლამების თქვენთვის შესაფერისი შემზღუდავი
 
 
 ;There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
-There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
+შეგიძლიათ იხილოთ <a href="%(url)s">AdBlocker Ultimate</a>, რომელიც ყველანაირ რეკლამას აცილებს, თუმცა პასუხისმგებლობით გამოყენებას მოითხოვს. ზოგიერთი თქვენთვის საყვარელი საგაზეთო და ახალი ამბების საიტი, სწორედ რეკლამებით იღებს შემოსავალს. თუ ბევრი ადამიანი შეზღუდავს რეკლამებს, შესაძლოა ეს მათი საქმიანობისთვის დამღუპველი აღმოჩნდეს.
 
 
 ;Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
-Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
+ყველაზე საშინელი ამომხტომი რეკლამებია. მათ შესაზღუდად გამოიყენეთ <a href="%(url)s">Popup Blocker</a> და აღარასდროს შეწუხდებით ამომხტარი ბანერები.
 
 
 ;One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
@@ -49,19 +49,19 @@ Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and
 
 # A tracker-free zone means a no tracker zone.
 ;Create a tracker-free zone with Content Blocking
-Create a tracker-free zone with Content Blocking
+შექმენით მეთვალყურეებისგან თავისუფალი სივრცე შიგთავსის შეზღუდვით
 
 
 ;On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
-On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
+Firefox-ზე, შეგიძლიათ გამოიყენოთ <a href="%(privacy)s">Privacy</a> ან <a href="%(blocking)s">Content Blocking</a>-ის პარამეტრები, კიდევ უფრო უკეთ სამართავად იმ სარეკლამო საშუალებების, რომლებიც რეკლამების შემოთავაზებას ცდილობენ.
 
 
 ;Choose your level of protection
-Choose your level of protection
+აირჩიეთ სასურველი დაცვის დონე
 
 
 ;To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
-To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
+დასაწყებად, დაწკაპეთ Firefox-ის მენიუზე ზედა მარჯვენა კუთხეში. იგი ჰგავს სამ ერთმანეთზე მოთავსებულ ხაზს. ჩამოშლილ მენიუში კი დაწკაპეთ შიგთავსის შეზღუდვას (Content Blocking). წესით იხილავთ ლურჯ არეს, სამი სხვადასხვა არჩევანით.
 
 
 ;Go easy with Standard mode

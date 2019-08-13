@@ -1,71 +1,72 @@
+## active ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/facebookcontainer/
 
 
 # HTML page title
 ;Facebook Container for Firefox | Prevent Facebook from seeing what websites you visit.
-Facebook Container for Firefox | Prevent Facebook from seeing what websites you visit.
+የፋየርፎክስ ፌስቡክ መያዣ | ፌስቡክ የምትፈልጉትን ድረ-ገፅ እንዳታዩ እንዳያረጋችሁ ይከላከላል።
 
 
 # HTML page description
 ;Millions of people around the world trust Firefox Web browsers on Android, iOS and desktop computers. Fast. Private. Download now!
-Millions of people around the world trust Firefox Web browsers on Android, iOS and desktop computers. Fast. Private. Download now!
+በሚሊዮን የሚቆጠሩ ሠዎች ፋየርፎክስ ድረ-ገፅ ማሰሻን በአንድሮይድ፣ iOS እና በዴስክቶፕ ኮምፒውተር ላይ በሙሉ እምነት ይጠቀማሉ። ፈጣን እና ግላዊ። አሁኑኑ ይጫኑ!
 
 
 ;Facebook. Well contained. Keep the rest of your life to yourself.
-Facebook. Well contained. Keep the rest of your life to yourself.
+ፌስቡክ። በደንብ የተያዘ። ቀሪ ህይወትዎን ለራስዋ ብቻ ይስጡ።
 
 
 ;Download Firefox and get the Facebook Container Extension
-Download Firefox and get the Facebook Container Extension
+ፋየርፎክስን ይጫኑና የፌስቡክ መያዣ ቅጥያን ይጠቀሙ
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Get the Facebook Container Extension
-Get the Facebook Container Extension
+የፌስቡክ መያዣ ቅጥያን ያግኙ
 
 
 ;The Facebook Container Extension is not available on mobile devices.
-The Facebook Container Extension is not available on mobile devices.
+የፌስቡክ መያዣ ቅጥያ በሞባይል መሣሪያዎች ላይ አይገኝም።
 
 
 # GLink points to https://www.mozilla.org/firefox/focus/; Product name in German is Firefox Klar.
 ;Try <strong>Firefox Focus</strong>, the privacy browser for Android and iOS.
-Try <strong>Firefox Focus</strong>, the privacy browser for Android and iOS.
+ይኼን <strong>ፋየርፎክስ አትኩሮት</strong> ይሞክሩት፤ የግላዊነት ማሰሻ ለአንድሮይድ እና iOS።
 
 
 # The video contains text in English
 ;Watch the video
-Watch the video
+ይኼን ቪዲዮ ይመልከቱ
 
 
 ;Opt out on your terms
-Opt out on your terms
+በራስዎ ደንቦች ይመሩ
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Facebook can track almost all your web activity and tie it to your Facebook identity. If that’s too much for you, the <a href="%(fbcontainer)s">Facebook Container extension</a> isolates your identity into a separate container tab, making it harder for Facebook to track you on the web outside of Facebook.
-Facebook can track almost all your web activity and tie it to your Facebook identity. If that’s too much for you, the <a href="%(fbcontainer)s">Facebook Container extension</a> isolates your identity into a separate container tab, making it harder for Facebook to track you on the web outside of Facebook.
+ፌስቡክ ሁሉንም የኢንተርኔት አጠቃቀምዎትን ሊከታተል ይችላል፤ ከዛም ከፌስቡክ ማንነትዎት ጋር ያስተሳስራቸዋል። ይኼ የሚያሳስብዎት ከሆነ፤ <a href="%(fbcontainer)s">የፌስቡክ መያዣ ቅጥያ</a> ማንነትዎን በሌላ ትር ለይቶ ያስቀምጣል፤ ይኼም ለፌስቡክ እርስዎን ለመከታተል አስቸጋሪ ያደርግበታል።
 
 
 ;Install and contain
-Install and contain
+ያቀናጁና ይያዙት
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Installing the <a href="%(fbcontainer)s">extension</a> is easy and, once activated, will open Facebook in a blue tab each time you use it. Use and enjoy Facebook normally. Facebook will still be able to send you advertising and recommendations on their site, but it will be much harder for Facebook to use your activity collected <strong>off Facebook</strong> to send you ads and other targeted messages.
-Installing the <a href="%(fbcontainer)s">extension</a> is easy and, once activated, will open Facebook in a blue tab each time you use it. Use and enjoy Facebook normally. Facebook will still be able to send you advertising and recommendations on their site, but it will be much harder for Facebook to use your activity collected <strong>off Facebook</strong> to send you ads and other targeted messages.
+አንዴ<a href="%(fbcontainer)s">ቅጥያ</a> ን ካቀናጁ እና ከሠራ፤ ፌስቡክን ስትከፍቱት ሁልጊዜ በሰማያዊ ትር ያስቀምጠዋል። ፌስቡክን ያለምንም ሀሳብ በመጠቀም ይደሰቱ። ፌስቡክ አሁንም በራሳቸው ድረ-ገፅ ላይ ማስታወቂያና መልዕክቶችን ሊልኩ ይችላሉ፤ ነገርግን <strong>ከፌስቡክ ውጭ</strong> የርስዎን ዱካ ለመከታተል፣ የታቀዱ ማስታወቂያዎችን እና መልዕክቶችን ለመላክ ያስቸግራቸዋል።
 
 
 ;About Firefox and Mozilla
-About Firefox and Mozilla
+ስለ ፋየርፎክስ እና ሞዚላ
 
 
 # The link points to mozilla.org
 ;We’re backed by <a href="%(mozilla)s">Mozilla</a>, the not-for-profit organization that puts people over profit to give everyone more power online. We created this extension because we believe that you should have easy-to-use tools that help you manage your privacy and security.
-We’re backed by <a href="%(mozilla)s">Mozilla</a>, the not-for-profit organization that puts people over profit to give everyone more power online. We created this extension because we believe that you should have easy-to-use tools that help you manage your privacy and security.
+እኛ የምንደገፈው በ <a href="%(mozilla)s">ሞዚላ</a> ሲሆን፤ ለትርፍ ያልተቋቋመ፣ የህዝብን የኢንተርኔት አጠቃቀም አቅም ለመጨመር የሚሠራ ድርጅት ነው። ይኼንን ቅጥያ የፈጠርንበት ዋናው ምክንያት፤ የርስዎን ደህነነትና ግላዊነት የሚጠብቁበት ለአጠቃቀም ቀላል የሆነ መገልገያ ያስፈልግዎታል ብለን ስላሰብን ነው።
 
 
 ;Browse freely with Firefox today.
-Browse freely with Firefox today.
+ያለምንም ሀሳብ ኢንተርኔትን በፋየርፎክስ ይጠቀሙ።
 
 
