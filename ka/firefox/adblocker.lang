@@ -1,14 +1,15 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/features/adblocker
 
 
 # HTML page title
 ;How to block annoying ads using an ad blocker
-How to block annoying ads using an ad blocker
+როგორ ავირიდოთ მომაბეზრებელი რეკლამები შეზღუდვის საშუალებებით
 
 
 # HTML page description
 ;How to stop seeing too many ads and keep companies from following you around online. An ad blocker guide from the Firefox web browser.
-How to stop seeing too many ads and keep companies from following you around online. An ad blocker guide from the Firefox web browser.
+როგორ შეგიძლიათ ხელი შეუშალოთ ზედმეტად ბევრი რეკლამების ჩვენებასა და დაწესებულებების მიერ თქვენს მოქმედებებზე თვალის დევნებას ინტერნეტში. რეკლამების შეზღუდვის სახელმძღვანელო, Firefox-ბრაუზერისგან.
 
 
 ;The ad blocker – a secret weapon against annoying ads.
@@ -28,7 +29,7 @@ How to stop seeing too many ads and keep companies from following you around onl
 
 
 ;These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
-ეს რეკლამები შეიძლება იყოს ხმამაღალი ვიდეოები, ან სარეკლამო საშუალებები, რომლებიც თან დაგყვებათ მთელ ინტერნეტში, თვალისმდევნელი, გარეშე საიტების ფუნთუშები და ა. შ. რეკლამების შემზღუდავის გამოსაყენებლად, შეგიძლიათ მოიძიოთ შესაბამისი დამატება, თქვენი ბრაუზერისთვის. მაგალითად <a href="%(firefox)s">Firefox-ს</a> აქვს <a href="%(addons)s">რეკლამების შემზღუდავი დამოწმებული დამატებების სია</a>. დაწკაპეთ ამ სიაზე (ან თქვენი ბრაუზერისთვის შესაფერის რეკლამების შემზღუდავებზე) და შეარჩიეთ ის, რომელიც ყველაზე უკეთ მოერგება თქვენს საჭიროებებს.
+ეს რეკლამები შეიძლება იყოს ხმამაღალი ვიდეოები, ან სარეკლამო საშუალებები, რომლებიც თან დაგყვებათ მთელ ინტერნეტში, თვალისმდევნელი, გარეშე საიტების ფუნთუშები და ა. შ. რეკლამების შემზღუდავის გამოსაყენებლად, შეგიძლიათ მოიძიოთ შესაბამისი დამატება, თქვენი ბრაუზერისთვის. მაგალითად <a href="%(firefox)s">Firefox-ს</a> აქვს <a href="%(addons)s">რეკლამების შემზღუდავი დამოწმებული დამატებების სია</a>. დაწკაპეთ ამ სიაზე (ან თქვენი ბრაუზერისთვის განკუთვნილ რეკლამების შემზღუდავებზე) და შეარჩიეთ ის, რომელიც ყველაზე უკეთ მოერგება თქვენს საჭიროებებს.
 
 
 ;Find the right ad blocker for you
@@ -36,11 +37,11 @@ How to stop seeing too many ads and keep companies from following you around onl
 
 
 ;There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
-შეგიძლიათ იხილოთ <a href="%(url)s">AdBlocker Ultimate</a>, რომელიც ყველანაირ რეკლამას აცილებს, თუმცა პასუხისმგებლობით გამოყენებას მოითხოვს. ზოგიერთი თქვენთვის საყვარელი საგაზეთო და ახალი ამბების საიტი, სწორედ რეკლამებით იღებს შემოსავალს. თუ ბევრი ადამიანი შეზღუდავს რეკლამებს, შესაძლოა ეს მათი საქმიანობისთვის დამღუპველი აღმოჩნდეს.
+შეგიძლიათ იხილოთ <a href="%(url)s">AdBlocker Ultimate</a>, რომელიც ყველანაირ რეკლამას აცილებს, თუმცა პასუხისმგებლობით გამოყენებას მოითხოვს. ზოგიერთი თქვენი საყვარელი საგაზეთო და ახალი ამბების საიტი, სწორედ რეკლამებით იღებს შემოსავალს. თუ ბევრი ადამიანი შეზღუდავს რეკლამებს, შესაძლოა ეს მათი საქმიანობისთვის დამღუპველი აღმოჩნდეს.
 
 
 ;Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
-ყველაზე საშინელი ამომხტომი რეკლამებია. მათ შესაზღუდად გამოიყენეთ <a href="%(url)s">Popup Blocker</a> და აღარასდროს შეწუხდებით ამომხტარი ბანერები.
+ყველაზე საშინელი ამომხტომი რეკლამებია. მათ შესაზღუდად გამოიყენეთ <a href="%(url)s">Popup Blocker</a> და აღარასდროს შეწუხდებით ამომხტარი ბანერებით.
 
 
 ;One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
@@ -53,7 +54,7 @@ How to stop seeing too many ads and keep companies from following you around onl
 
 
 ;On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
-Firefox-ზე, შეგიძლიათ გამოიყენოთ <a href="%(privacy)s">Privacy</a> ან <a href="%(blocking)s">Content Blocking</a>-ის პარამეტრები, კიდევ უფრო უკეთ სამართავად იმ სარეკლამო საშუალებების, რომლებიც რეკლამების შემოთავაზებას ცდილობენ.
+Firefox-ზე, შეგიძლიათ გამოიყენოთ <a href="%(privacy)s">პირადულობის</a> ან <a href="%(blocking)s">შიგთავსის შეზღუდვის</a> პარამეტრები, კიდევ უფრო უკეთ სამართავად იმ სარეკლამო საშუალებების, რომლებიც რეკლამების შემოთავაზებას ცდილობენ.
 
 
 ;Choose your level of protection
@@ -65,72 +66,72 @@ Firefox-ზე, შეგიძლიათ გამოიყენოთ <a hr
 
 
 ;Go easy with Standard mode
-Go easy with Standard mode
+ჩვეულებრივი დონე, მსუბუქი დაცვისთვის
 
 
 ;If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
-If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
+თუ რეკლამები არ გაღელვებთ და არ ფიქრობთ, რომ მეთვალყურეები და გარეშე ფუნთუშები თვალს გადევნებთ, ჩვეულებრივი დონე თქვენთვის მისაღები იქნება. მეთვალყურეების ასარიდებლად კი <a href="%(url)s">პირადი თვალიერების</a> ფანჯრის გამოყენება შეგეძლებათ.
 
 
 ;Get tough with Strict mode
-Get tough with Strict mode
+მკაცრი დონე, ძლიერი დაცვისთვის
 
 
 ;If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
-If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
+თუ ზედმეტად ბევრი რეკლამა გაღიზიანებთ, მაშინ მკაცრი დონე გამოგადგებათ. მოცემულ რეჟიმში ყველა ცნობილი გარეშე მეთვალყურე და ფუნთუშა შეიზღუდება Firefox-ის ნებისმიერ ფანჯარაში.
 
 
 ;Do-it-yourself Custom mode
-Do-it-yourself Custom mode
+თავად განსაზღვრეთ, მორგების შესაძლებლობით
 
 
 ;The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
-The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
+მორგებული პარამეტრები თავისუფალი არჩევანის საშუალებას გაძლევთ. თავად შეგიძლიათ გადაწყვიტოთ შეზღუდოთ თუ არა მეთვალყურეები, ფუნთუშები და ა. შ. თუ დაუშვებთ ფუნთუშებს რომელიმე საიტზე, თვითონ გადავა მორგებულ რეჟიმზე.
 
 
 # ’Cover your trail’ means cover your browsing history.
 ;Cover your trail, block trackers
-Cover your trail, block trackers
+დაფარეთ კვალი მეთვალყურეებისგან
 
 
 ;Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
-Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
+მეთვალყურეების უჯრის მონიშვნით შეძლებთ მათ შეზღუდვას ორი გზით. ერთ შემთხვევაში მხოლოდ პირად ფანჯრებში, მეორე შემთხვევაში ყველა ფანჯარაში. გაითვალისწინეთ, რომ ყველა ფანჯარაში შეზღუდვის შედეგად, ზოგიერთი საიტი შეიძლება არასათანადოდ ჩაიტვირთოს.
 
 
 ;Take a bite out of cookies
-Take a bite out of cookies
+შეამცირეთ ფუნთუშების გამოყენება
 
 
 ;<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
-<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
+<a href="%(url)s">ფუნთუშები</a> გეგზავნებათ საიტების მონახულებისას. ისინი თავსდება თქვენს კომპიუტერში და თვალს ადევნებს, თუ რას აკეთებთ საიტზე. თუ ავიახაზები ზრდის თქვენს შეფასებას, რადგან ყოველდღე ათვალიერებთ ბილეთების ფასებს, ეს სწორედ ფუნთუშების დამსახურებაა.
 
 
 ;In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
-In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
+Firefox-ში, შეგიძლიათ შეზღუდოთ ყველა გარეშე ფუნთუშა, ან მხოლოდ მეთვალყურეების მიერ დაყენებული. ყურადღება გამოიჩინეთ, ვინაიდან ყველა ფუნთუშის შეზღუდვით, ზოგი საიტი ვეღარ მუშაობს გამართულად.
 
 
 ;Send a Do Not Track signal
-Send a Do Not Track signal
+გაგზავნეთ მოთხოვნა „არ მითვალთვალო“
 
 
 # ’Thanks but no thanks’ here means to reject ads.
 ;If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
-If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
+თუ არ გსურთ თქვენი მოქმედებები ინტერნეტში რეკლამებისთვის გამოიყენონ, საიტებს შეგიძლიათ გაუგზავნოთ მოკრძალებული გზავნილი „გმადლობთ, არა“, Firefox-ში <a href="%(url)s">არ მითვალთვალო</a> უჯრის მონიშვნით. ყველა საიტი არ იღებს ამგვარ მოთხოვნებს, მაგრამ რომლებიც იღებს, წყვეტს მომხმარებლის მონაცემების შეგროვებას.
 
 
 ;Speed up thanks to ad blockers
-Speed up thanks to ad blockers
+აჩქარება, რეკლამების შემზღუდავების მეშვეობით
 
 
 ;In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
-In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
+ზოგ შემთხვევაში, რეკლამების შემზღუდავი გეხმარებათ გვერდების სწრაფ მონახულებაში. რეკლამის ჩატვირთვა, ანელებს ხოლმე გვერდის სრულად ჩატვირთვას. ამასთან, იგი ართულებს საიტზე სასურველი ინფორმაციის მონახვას, მით უფრო თუ გიწევთ ბანერის დახურვა, შიგთავსის სანახავად.
 
 
 ;If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for Firefox and other browsers. If want to try out the ad blockers Firefox uses, <a href="%(url)s">click here to download</a> a browser that puts privacy first.
-If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for Firefox and other browsers. If want to try out the ad blockers Firefox uses, <a href="%(url)s">click here to download</a> a browser that puts privacy first.
+თუ გსურთ უკეთ გაერკვეთ რეკლამების შეზღუდვაში, ასობით გაფართოებაა ხელმისაწვდომი Firefox-ისა და სხვა ბრაუზერებისთვის. რეკლამების იმ შემზღუდავების გამოსაცდელად, რომელთაც Firefox იყენებს, <a href="%(url)s">დაწკაპეთ და ჩამოტვირთეთ</a> ბრაუზერი, რომელიც ყველაფერზე წინ პირადულობას აყენებს.
 
 
 ;Take control of your browser.
-Take control of your browser.
+თავად მართეთ თქვენი ბრაუზერი.
 
 
