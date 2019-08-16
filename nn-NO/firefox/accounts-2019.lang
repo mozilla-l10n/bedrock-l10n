@@ -1,3 +1,6 @@
+## active ##
+## accounts-metadata-072019 ##
+## accounts-signed-in-06132019 ##
 ## NOTE: https://www-dev.allizom.org/firefox/accounts/
 
 
@@ -13,12 +16,12 @@ Lag ein Firefox-konto – Hald dine data private, trygge og synkroniserte
 
 # HTML page description
 ;Take your stand against an industry that’s selling your data to third parties. Stay smart and safe online with technology that fights for you.
-Take your stand against an industry that’s selling your data to third parties. Stay smart and safe online with technology that fights for you.
+Ta kampen opp mot ein bransje som sel dine data til andre. Ver fornuftig og sikker på nettet med teknologi som kjempar for deg.
 
 
 # String is obsolete. Do not remove.
 ;Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox Account now – One login – Power and privacy everywhere.
-Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox Account now – One login – Power and privacy everywhere.
+Synkroniser passord, bokmerke og faner mellom einingane dine. Få ein Firefox-konto no - Ei innlogging - Styrke og personvern overalt.
 
 
 # the span here is for visual formatting to display the phrase "Join Firefox" in a different color.
@@ -109,7 +112,7 @@ Vi vil alltid fortelje deg sanninga. Alt vi gjer lever opp til <a href="%(promis
 
 # Line breaks for formatting.
 ;Take less.<br> Keep it safe.<br> No secrets.
-Ta mindre.<br> Hald det trygt.<br> Ingen hemmelegheiter.
+Lagre mindre.<br> Beskytt alt.<br> Ingen hemmelegheitar.
 
 
 ;Get the knowledge to keep you safe.
@@ -129,7 +132,7 @@ Hjelp oss å byggje ein betre Firefox for alle.
 
 
 ;Get into the open source spirit by test-driving upcoming products.
-Get into the open source spirit by test-driving upcoming products.
+Kom inn i den rette open kjeldekode-ånda ved å teste komande produkt.
 
 
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
@@ -138,6 +141,6 @@ Hjelp oss med å halde dei store IT-selskapa under kontroll.
 
 
 ;We support communities all over the world standing up for a healthier internet. Add your voice to the fight.
-We support communities all over the world standing up for a healthier internet. Add your voice to the fight.
+Vi støttar felleskap over heile verda som kjempar for eit sunnare internett. Legg til di røyst i kampen.
 
 
