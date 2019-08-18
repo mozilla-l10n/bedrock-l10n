@@ -12,40 +12,40 @@ Everyone deserves access to the internet — your language should never be a bar
 
 
 ;Choose which Firefox Browser to download in your language
-Choose which Firefox Browser to download in your language
+သင့်ဘာသာစကားဖြင့်ဆွဲချရန် Firefox ဘရောက်ဇာကို ရွေးပါ
 
 
 ;Check the system requirements
-Check the system requirements
+စနစ်လိုအပ်ချက်များကို စစ်ဆေးပါ။
 
 
 ;Release notes
-Release notes
+မှတ်စုထုတ်နုတ်မှု
 
 
 ;Source code
-Source code
+ရင်းမြစ်ကုဒ်
 
 
 ;Firefox Privacy Notice
-Firefox Privacy Notice
+Firefox သီးသန့်လုံခြုံမှု သတိပေးချက်
 
 
 ;Need help?
-Need help?
+အကူအညီ လိုလား။
 
 
 ;Which browser would you like to download?
-Which browser would you like to download?
+ဆွဲချယူရင် သင့်ကြိုက်နှစ်သက်ရာကို ရွေးပါ
 
 
 ;Learn about Firefox browsers
-Learn about Firefox browsers
+Firefoxဘရောက်ဇာများအကြောင်းလေ့လာပါ
 
 
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 ;Get help
-Get help
+အကူအညီရယူပါ။
 
 
 ;You are about to download:
@@ -53,15 +53,15 @@ You are about to download:
 
 
 ;Browser:
-Browser:
+ဘရောင်ဇာ
 
 
 ;Platform:
-Platform:
+ပလက်ဖောင်း
 
 
 ;Language:
-Language:
+ဘာသာစကား -
 
 
 ;Sorry, we couldn’t find the download you’re looking for. Please try again, or select a download from the list below.
@@ -69,11 +69,11 @@ Sorry, we couldn’t find the download you’re looking for. Please try again, o
 
 
 ;Download Now
-Download Now
+ယခုဆွဲချပါ
 
 
 ;Menu
-Menu
+စာရင်း
 
 
 ;The standard Firefox browser — fast and private. If you’re not sure which Firefox to choose, choose this.
@@ -97,7 +97,7 @@ Count on stability and ease of use with this Firefox browser built for enterpris
 
 
 ;64-bit installers
-64-bit installers
+64 ဘစ် အင်စတော်လာ
 
 
 ;Choose a 64-bit installer for computers with 64-bit processors, which allow them to allocate more RAM to individual programs — particularly important for games and other demanding applications.
@@ -105,7 +105,7 @@ Choose a 64-bit installer for computers with 64-bit processors, which allow them
 
 
 ;32-bit installers
-32-bit installers
+32ဘစ် အင်စတော်လာများ
 
 
 ;Choose a 32-bit installer for computers with 32-bit processors — or for older or less powerful computers. <a href="%(url)s">If you aren’t sure</a> whether to choose a 64-bit or 32-bit installer, we recommend you go with 32-bit.
@@ -113,7 +113,7 @@ Choose a 32-bit installer for computers with 32-bit processors — or for older 
 
 
 ;MSI installers
-MSI installers
+MSI အင်စတော်လာများ
 
 
 ;Windows installers for corporate IT that simplify the configuration, deployment and management of the Firefox Browser.
@@ -121,23 +121,23 @@ Windows installers for corporate IT that simplify the configuration, deployment 
 
 
 ;Which version would you like?
-Which version would you like?
+သင့်ကြိုက်သောဗားရှင်းရွေးပါ
 
 
 ;Select your preferred installer
-Select your preferred installer
+သင်ကြိုက်နှစ်သက်ရာ အင်စတော်လာကို ရွေးပါ။
 
 
 ;Learn about installers
-Learn about installers
+အင်စတော်လာအကြောင်းလေ့လာပါ
 
 
 ;Select your preferred language
-Select your preferred language
+ကြိုက်နှစ်သက်ရာဘာသာစကားကို ရွေးချယ်ပါ
 
 
 # %(product_label)s is replaced with the product name e.g "Firefox", %(platform)s with the platform name e.g. "Windows", and %(locale)s with the language name e.g. "German".
 ;Download %(product_label)s for %(platform)s in %(locale)s
-Download %(product_label)s for %(platform)s in %(locale)s
+%(locale)s တွင် %(platform)s အတွက် %(product_label)s ကို ရယူပါ။
 
 

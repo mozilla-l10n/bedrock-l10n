@@ -19,11 +19,11 @@ Firefox Developer Edition သည် Mozilla သို့ အလိုအလျ�
 
 
 ;Faster Performance
-Faster Performance
+မြန်ဆန်သော လုပ်ဆောင်မှု
 
 
 ;A Next-Generation CSS Engine
-A Next-Generation CSS Engine
+မျိုးဆက်သစ် CSS အင်ဂျင်
 
 
 ;Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
@@ -31,16 +31,16 @@ Firefox has been rebuilt from the ground up to be faster and more powerful than 
 
 
 ;New Tools
-New Tools
+အသစ်သောအကူကိရိယာများ
 
 
 ;Firefox DevTools
-Firefox DevTools
+Firefox DevTools {ok}
 
 
 # Link points to http://firefox-dev.tools/
 ;Learn more about Firefox developer tools
-Learn more about Firefox developer tools
+Firefox developer tools အကြောင်းလေ့လာပါ
 
 
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
@@ -53,11 +53,11 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 
 ;Innovative Features
-Innovative Features
+ဆန်းသစ်တီထွင်ထားသောဆောင်ရွက်ချက်များ
 
 
 ;Master CSS Grid
-Master CSS Grid
+မာစတာ CSS Grid
 
 
 # Link points to https://mozilladevelopers.github.io/playground/
@@ -108,7 +108,7 @@ Build and Perfect your sites<br> with Firefox DevTools
 
 
 ;Inspector
-Inspector
+စစ်ဆေးကိရိယာ
 
 
 ;Inspect and refine code to build pixel-perfect layouts.
@@ -186,7 +186,7 @@ Learn more about Responsive Design View
 
 
 ;Visual Editing
-Visual Editing
+အမြင်အားဖြင့်တည်းဖြတ်ခြင်း
 
 
 ;Fine-tune animations, alignment and padding.
@@ -195,11 +195,11 @@ Fine-tune animations, alignment and padding.
 
 # Link points to https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more
 ;Learn more about Visual Editing
-Learn more about Visual Editing
+အမြင်ဆိုင်ရာတည်းဖြတ်မှုများအကြောင်း လေ့လာရန်
 
 
 ;Performance
-Performance
+လုပ်ဆောင်မှု
 
 
 ;Unblock bottlenecks, streamline processes, optimize assets.
@@ -208,11 +208,11 @@ Unblock bottlenecks, streamline processes, optimize assets.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Performance
 ;Learn more about Performance Tools
-Learn more about Performance Tools
+ပါဖောမန့်ဆိုင်ရာ ကိရိယာများအကြောင်း လေ့လာကြည့်ပါ
 
 
 ;Memory
-Memory
+မှတ်ဉာဏ်
 
 
 ;Find memory leaks and make your application zippy.
@@ -221,11 +221,11 @@ Find memory leaks and make your application zippy.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Memory
 ;Learn more about Memory Tools
-Learn more about Memory Tools
+မှတ်ဉာဏ်ကိရိယာများအကြောင်းလေ့လာရန်
 
 
 ;Web Audio
-Web Audio
+ဝဘ်အော်ဒီယို
 
 
 ;The only developer tool for inspecting the Web Audio API.
@@ -273,11 +273,11 @@ Feedback makes us better. Tell us how we can improve the browser and Developer t
 
 # Link to https://discourse.mozilla-community.org/c/devtools
 ;Join the conversation
-Join the conversation
+စကားဝိုင်းထဲကို ချိတ်ဆက်ပါ။
 
 
 ;Get involved
-Get involved
+ပါဝင်ဆောင်ရွက်ပါ။
 
 
 ;Help build the last independent browser. Write code, fix bugs, make add-ons, and more.
@@ -286,11 +286,11 @@ Help build the last independent browser. Write code, fix bugs, make add-ons, and
 
 # Link to https://devtools-html.github.io/
 ;Start now
-Start now
+ယခုစတင်ပါ
 
 
 ;Download the Firefox browser made for developers
-Download the Firefox browser made for developers
+Developerများအတွက်ပြုလုပ်ထားသော Firefoxဘရောက်ဇာကို ဒေါင်းလုပ်ချပါ
 
 
 # First run page at https://www.mozilla.org/firefox/57.0a2/firstrun/
@@ -299,7 +299,7 @@ Firefox Developer Edition is the blazing fast browser that offers cutting edge d
 
 
 ;Welcome to the all-new Firefox Quantum: Developer Edition
-Welcome to the all-new Firefox Quantum: Developer Edition
+Developerများအတွက် အသစ်ထုတ်ထားသော Firefox Quantumမှကြိုဆိုပါတယ်
 
 
 ;Firefox has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
@@ -307,11 +307,11 @@ Firefox has been rebuilt from the ground-up to be faster, sleeker, and more powe
 
 
 ;Firefox Devtools
-Firefox Devtools
+မော်ဇီလာ ဖွံဖြိုးရေးကိရိယာများ
 
 
 ;Next-Gen CSS Engine
-Next-Gen CSS Engine
+လာမည့်မျိုးဆက်သစ် CSS အင်ဂျင်
 
 
 # line break for visual formatting
@@ -320,7 +320,7 @@ Get developer news, tricks and resources <br /> sent straight to your inbox.
 
 
 ;A Next-Generation CSS Engine (hint: it’s fast)
-A Next-Generation CSS Engine (hint: it’s fast)
+မျိုးဆက်သစ် CSS အင်ဂျင် (စာကြွင်း။ မြန်ဆန်သည်)
 
 
 ;Firefox Quantum includes a new CSS engine, written in Rust, that has state-of-the-art innovations and is blazingly fast.

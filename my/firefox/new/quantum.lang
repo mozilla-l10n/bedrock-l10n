@@ -33,11 +33,11 @@ Firefox for Linux
 
 
 ;The new <strong>Firefox</strong>
-The new <strong>Firefox</strong>
+ဆန်းသစ်သော <strong>Firefox</strong>
 
 
 ;Own your online life.
-Own your online life.
+သင့်အွန်လိုင်းဘဝကိုပိုင်ဆိုင်ရန်
 
 
 ;Fast for good.
@@ -46,7 +46,7 @@ Fast for good.
 
 # Link points to /firefox/new/?scene=2
 ;Download Now
-Download Now
+ယခုပင် ဆွဲယူပါ
 
 
 # Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings
@@ -62,17 +62,17 @@ Download Now
 # Title displayed in the modal window for advanced options.
 # The different case is to let localizers use a different translation (or case) from the link, if needed
 ;Advanced Install Options & Other Platforms
-Advanced Install Options & Other Platforms
+အဆင့်မြင့် options များ & အခြားပလက်ဖောင်းများကို သွင်းပါ
 
 
 # Link to display the advanced install panel
 ;Advanced install options & other platforms
-Advanced install options & other platforms
+အဆင့်မြင့် options များ & အခြားပလက်ဖောင်းများကို သွင်းပါ
 
 
 # Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings?
 ;Fix a problem
-Fix a problem
+ပြဿနာတစ်ရပ်ကို ဖြေရှင်းပါ
 
 
 ;Keep up with<br> all things Firefox.
@@ -100,34 +100,34 @@ You’ve already got the Firefox browser. Now get everything else Firefox.
 
 
 ;Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
-Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
+Firefoxအကောင့်နှင့် စာမှတ်များကို တပ်တူပြုပါ၊ တဗ်များကိုပို့ပါ၊ ပေါ့ကက်များကိုသိမ်းပါ
 
 
 ;Get a Firefox Account
-Get a Firefox Account
+Firefoxအကောင့် ရယူပါ
 
 
 ;Already have an account?
-Already have an account?
+အကောင့် ရှိပြီးသားလား။
 
 
 ;Sign In
-Sign In
+၀င်ပါ
 
 
 ;Download Anyway
-Download Anyway
+မည်သည့်နည်းဖြင့်ဖြစ်စေ ဆွဲယူပါ
 
 
 # Link points to /firefox/all/
 ;Download for other platforms & languages
-Download for other platforms & languages
+အခြား ပလက်ဖောင်းများနှင့်ဘာသာစကားများကို ဆွဲယူပါ။
 
 
 # The string is obsolete. Do not remove.
 # Link points to /firefox/all/
 ;Download in another language
-Download in another language
+အခြားဘာသာစကားဖြင့်ဆွဲယူပါ။
 
 
 ;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
@@ -148,7 +148,7 @@ Get informative tips, tricks and product announcements delivered to your inbox.
 
 
 ;Enter your email address
-Enter your email address
+သင့်ရဲ့ အီးမေးလ်ကို ထည့်ပါ။
 
 
 ;How will Mozilla use my email?
@@ -238,21 +238,21 @@ Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a 
 
 # /firefox/windows/ social sharing title
 ;Download the fastest Firefox for Windows ever
-Download the fastest Firefox for Windows ever
+ဝင်းဒိုးအတွက် လျင်မြန်သော Firefoxကို ရယူပါ
 
 
 # /firefox/mac/ social sharing title
 ;Download the fastest Firefox for Mac ever
-Download the fastest Firefox for Mac ever
+မက်အတွက် လျင်မြန်သော Firefoxကို ရယူပါ
 
 
 # /firefox/linux/ social sharing title
 ;Download the fastest Firefox for Linux ever
-Download the fastest Firefox for Linux ever
+လင်းနစ်စ်အတွက် လျင်မြန်သော Firefoxကို ရယူပါ
 
 
 ;Download the fastest Firefox ever
-Download the fastest Firefox ever
+လျင်မြန်သော Firefoxကို ရယူပါ
 
 
 # /firefox/windows/ social sharing description
@@ -299,7 +299,7 @@ Your life, your business. Firefox blocks third-party tracking cookies on Linux.
 
 
 ;The best Firefox ever
-The best Firefox ever
+အကောင်းဆုံး Firefox
 
 
 ;Common sense privacy
@@ -307,7 +307,7 @@ Common sense privacy
 
 
 ;Lightweight
-Lightweight
+ပေါ့ပါးမြန်ဆန်
 
 
 ;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
@@ -327,11 +327,11 @@ Uses 30% less memory than Chrome
 
 
 ;Block trackers
-Block trackers
+ဘလော့ခြေရာခံများ
 
 
 ;Open source
-Open source
+ရယူနိုင်သောအရင်းအမြစ်
 
 
 ;Seamless setup
@@ -339,7 +339,7 @@ Seamless setup
 
 
 ;Powerfully private
-Powerfully private
+စွမ်းအားမြင့် သီးသန့်ကြည့်ရှုခြင်း
 
 
 ;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
@@ -365,20 +365,20 @@ Truly Private Browsing with Tracking Protection
 
 # These strings are used in /firstrun, e.g. https://www-dev.allizom.org/firefox/56.0/firstrun/
 ;Welcome to Firefox
-Welcome to Firefox
+Firefox က ကြိုဆိုပါသည်
 
 
 ;Take Firefox with You
-Take Firefox with You
+Firefox ကို သင်နှင့်အတူ ခေါ်ဆောင်ပါ
 
 
 ;Get your bookmarks, history, passwords and other settings on all your devices.
-Get your bookmarks, history, passwords and other settings on all your devices.
+သင့်ကိရိယာများပေါ်မှ စာမှတ်များ၊မှတ်တမ်းများနှင့် စာဝှက်များကို ရယူပါ။
 
 
 # Obsolete string, DO NOT REMOVE
 ;Already using Firefox?
-Already using Firefox?
+ယခုပင်လျှင် Firefox ကိုသုံးပြီး?
 
 
 # Obsolete string, DO NOT REMOVE
@@ -387,11 +387,11 @@ Sign in to your account and we’ll sync the bookmarks, passwords and other grea
 
 
 ;Learn more about Firefox Accounts
-Learn more about Firefox Accounts
+Firefox အကောင့်များအကြောင်းကို လေ့လာပါ
 
 
 ;Skip this step
-Skip this step
+ဒီအဆင့်ကို ကျော်ပါ
 
 
 # Old firstrun page
