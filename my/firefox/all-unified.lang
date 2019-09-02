@@ -1,14 +1,15 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/all/
 
 
 # HTML page title. Replace "English (US)" with your local language.
 ;Download the Firefox Browser in English (US) and more than 90 other languages
-Download the Firefox Browser in English (US) and more than 90 other languages
+Firefoxဘရောက်ဇာကို အင်္ဂလိပ်(ယူအက်စ်)နှင့် အခြားဘာသာစကား၉၀ကျော်ဖြင့်ဒေါင်းလုပ်ချနိုင်သည်။
 
 
 # HTML page description, also used as the introductory text.
 ;Everyone deserves access to the internet — your language should never be a barrier. That’s why — with the help of dedicated volunteers around the world — we make the Firefox Browser available in more than 90 languages.
-Everyone deserves access to the internet — your language should never be a barrier. That’s why — with the help of dedicated volunteers around the world — we make the Firefox Browser available in more than 90 languages.
+အင်တာနက်ကိုအသုံးပြုသူတိုင်းအတွက်သင့်ဘာသာစကားနှင့်ပတ်သက်၍အခက်အခဲမဖြစ်စေရန်ကမ္ဘာပေါ်ရှိလုပ်အားပေးများအကူအညီဖြင့်Firefox ဘရောက်ဇာကိုဘာသာစကား၉၀ဖြင့်ရရှိနိုင်အောင်ပြုလုပ်ထားပါသည်။
 
 
 ;Choose which Firefox Browser to download in your language
@@ -49,7 +50,7 @@ Firefoxဘရောက်ဇာများအကြောင်းလေ့လ�
 
 
 ;You are about to download:
-You are about to download:
+သင်ဒေါင်းလုပ်ချရန်အကြောင်းအရာ:
 
 
 ;Browser:
@@ -65,7 +66,7 @@ You are about to download:
 
 
 ;Sorry, we couldn’t find the download you’re looking for. Please try again, or select a download from the list below.
-Sorry, we couldn’t find the download you’re looking for. Please try again, or select a download from the list below.
+သင်ရှာဖွေသောဒေါင်းလုပ်ကိုမတွေ့သောကြောင့်စိတ်မကောင်းပါ။ကျေးဇူးပြု၍ထပ်မံကြိုးစားမှုသို့မဟုတ်စာရင်းထဲမှဒေါင်းလုပ်တစ်ခုကိုရွေးချယ်ပါ။
 
 
 ;Download Now
@@ -77,23 +78,23 @@ Sorry, we couldn’t find the download you’re looking for. Please try again, o
 
 
 ;The standard Firefox browser — fast and private. If you’re not sure which Firefox to choose, choose this.
-The standard Firefox browser — fast and private. If you’re not sure which Firefox to choose, choose this.
+အဆင့်မြင့်Firefox browserသည်လျင်မြန်ပြီးလုံခြုံမှုရှိသည်။မည်သည့်Firefoxကိုသုံးရမလဲတွေဝေနေလျှင်ဤအရာကိုရွေးပါ။
 
 
 ;Get a sneak peek at the latest Firefox browser features before they’re released.
-Get a sneak peek at the latest Firefox browser features before they’re released.
+နောက်ဆုံးထွက်Firefoxဘရောက်ဇာလုပ်ဆောင်ချက်အချို့ကိုမထုတ်ခင် စမ်းသပ်သုံးရန်ရယူပါ။
 
 
 ;Test your sites against soon-to-be-released Firefox browser features with powerful, flexible DevTools that are on by default.
-Test your sites against soon-to-be-released Firefox browser features with powerful, flexible DevTools that are on by default.
+စွမ်းအားကောင်းသော၊အဆင်ပြေသောDevTools လုပ်ဆောင်ချက်များကို မထုတ်ခင် သင့်ဆိုက်များကိုစမ်းသပ်ကြည့်ပါ။
 
 
 ;The pre-alpha version for power users who like to hunt crashes and test new features as they’re coded.
-The pre-alpha version for power users who like to hunt crashes and test new features as they’re coded.
+လုပ်ဆောင်ချက်အသစ်များစမ်းသပ်ပြီးချို့ယွင်းချက်များကိုရှာဖွေချင်သောသုံးစွဲသူများအတွက်အကြိုအယ်လ်ဖာဗားရှင်း
 
 
 ;Count on stability and ease of use with this Firefox browser built for enterprise.
-Count on stability and ease of use with this Firefox browser built for enterprise.
+စီးပွားရေးလုပ်ငန်းအတွက်ဒီ Firefox browser ကိုအသုံးပြုခြင်းသည်တည်ငြိမ်မှုနှင့်လွယ်ကူမှုတို့အတွက်အားကိုးပါ။
 
 
 ;64-bit installers
@@ -101,7 +102,7 @@ Count on stability and ease of use with this Firefox browser built for enterpris
 
 
 ;Choose a 64-bit installer for computers with 64-bit processors, which allow them to allocate more RAM to individual programs — particularly important for games and other demanding applications.
-Choose a 64-bit installer for computers with 64-bit processors, which allow them to allocate more RAM to individual programs — particularly important for games and other demanding applications.
+အထူးသဖြင့်အရေးကြီးသောဂိမ်းနှင့်အခြားတောင်းဆို application များအတွက် -ပိုမို RAM ကိုခွဲဝေချထားပေးရန်ဖို့ခွင့်ပြုထားတဲ့ 64-bit ပရိုဆက်ဆာနှင့်အတူကွန်ပျူတာများ, အတွက်64-bit installer ကိုရွေးချယ်ပါ။
 
 
 ;32-bit installers
@@ -109,7 +110,7 @@ Choose a 64-bit installer for computers with 64-bit processors, which allow them
 
 
 ;Choose a 32-bit installer for computers with 32-bit processors — or for older or less powerful computers. <a href="%(url)s">If you aren’t sure</a> whether to choose a 64-bit or 32-bit installer, we recommend you go with 32-bit.
-Choose a 32-bit installer for computers with 32-bit processors — or for older or less powerful computers. <a href="%(url)s">If you aren’t sure</a> whether to choose a 64-bit or 32-bit installer, we recommend you go with 32-bit.
+Choose a 32-bit installer for computers with 32-bit processors — or for older or less powerful computers. <a href="%(url)s">If you aren’t sure</a> whether to choose a 64-bit or 32-bit installer, we recommend you go with 32-bit. {ok}
 
 
 ;MSI installers
@@ -117,7 +118,7 @@ MSI အင်စတော်လာများ
 
 
 ;Windows installers for corporate IT that simplify the configuration, deployment and management of the Firefox Browser.
-Windows installers for corporate IT that simplify the configuration, deployment and management of the Firefox Browser.
+Firefox ၏ Browserကို configuration, ဖြန့်ကျက်ခြင်းနှင့်စီမံခန့်ခွဲမှုရိုးရှင်းကြောင်းကော်ပိုရိတ်အိုင်တီများအတွက် Windows Installers။
 
 
 ;Which version would you like?
