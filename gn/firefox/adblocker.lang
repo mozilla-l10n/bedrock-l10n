@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/features/adblocker
 
 
@@ -28,7 +29,7 @@ Peteĩ maranduñemurã jokoha ha’e tembiaporape ojepurukuaáva ani hag̃ua oje
 
 
 ;These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
-These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
+Ko’ã ñemurã ikatu ha’e ta’ãngamýi ryapu maranduñemurãva, ñemurã nderapykuehóva ñandutípe, tapykuehoha, kookie mbohapyháva ha hetave. Eipuru hag̃ua maranduñemurã jokoha, ikatu eheka maranduñemurã rembipuru’i jokoha eipurukuaáva ne kundahápe. <a href="%(firefox)s">Firefox</a>, techapyrã, oguereko <a href="%(addons)s">ko tembipuru’i rysýi ñemurã jokoha moneĩmbyre</a>. Eikutu ko tysýi ( térã maranduñemurã jokoha moneĩmbyre ne kundahápe g̃uarã) ha ehecha mba’etépa pe eikotevẽva.
 
 
 ;Find the right ad blocker for you
@@ -94,7 +95,7 @@ Emo’ã nde rapykuere, jehapykueho jokoha
 
 
 ;Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
-Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
+Eikutu pe Tapykuehoha ha ikatu ejoko umi tapykuehoha mokõi hendáicha. Peteĩhápe ejoko tapykuehoha eime jave ovetã ñemíme. Ambue hendáicha katu ejokokuaa opaite ovetãme. Ehechakuaáke ejokóramo umi tapykuehoha opa ára, ikatu hína peteĩva kuatiarogue nahenyhẽporãi.
 
 
 ;Take a bite out of cookies
