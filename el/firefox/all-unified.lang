@@ -16,11 +16,11 @@ Choose which Firefox Browser to download in your language
 
 
 ;Check the system requirements
-Check the system requirements
+Έλεγχος απαιτήσεων συστήματος
 
 
 ;Release notes
-Release notes
+Σημειώσεις έκδοσης
 
 
 ;Source code
@@ -28,24 +28,24 @@ Release notes
 
 
 ;Firefox Privacy Notice
-Firefox Privacy Notice
+Σημείωση απορρήτου Firefox
 
 
 ;Need help?
-Need help?
+Χρειάζεστε βοήθεια;
 
 
 ;Which browser would you like to download?
-Which browser would you like to download?
+Ποιο πρόγραμμα περιήγησης θέλετε να αποκτήσετε;
 
 
 ;Learn about Firefox browsers
-Learn about Firefox browsers
+Μάθετε για τα προγράμματα περιήγησης Firefox
 
 
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 ;Get help
-Get help
+Λήψη βοήθειας
 
 
 ;You are about to download:
@@ -97,23 +97,23 @@ Count on stability and ease of use with this Firefox browser built for enterpris
 
 
 ;64-bit installers
-64-bit installers
+Προγράμματα εγκατάστασης 64-bit
 
 
 ;Choose a 64-bit installer for computers with 64-bit processors, which allow them to allocate more RAM to individual programs — particularly important for games and other demanding applications.
-Choose a 64-bit installer for computers with 64-bit processors, which allow them to allocate more RAM to individual programs — particularly important for games and other demanding applications.
+Επιλέξτε ένα πρόγραμμα εγκατάστασης 64-bit για υπολογιστές με επεξεργαστές 64-bit, οι οποίοι επιτρέπουν την ανάθεση περισσότερης RAM σε κάθε πρόγραμμα - πολύ σημαντικό για παιχνίδια και άλλες απαιτητικές εφαρμογές.
 
 
 ;32-bit installers
-32-bit installers
+Προγράμματα εγκατάστασης 32-bit
 
 
 ;Choose a 32-bit installer for computers with 32-bit processors — or for older or less powerful computers. <a href="%(url)s">If you aren’t sure</a> whether to choose a 64-bit or 32-bit installer, we recommend you go with 32-bit.
-Choose a 32-bit installer for computers with 32-bit processors — or for older or less powerful computers. <a href="%(url)s">If you aren’t sure</a> whether to choose a 64-bit or 32-bit installer, we recommend you go with 32-bit.
+Επιλέξτε ένα πρόγραμμα εγκατάστασης 32-bit για υπολογιστές με επεξεργαστές 32-bit — ή για πιο παλιούς/αδύναμους υπολογιστές. <a href="%(url)s">Αν δεν ξέρετε σίγουρα</a> ποιο πρόγραμμα εγκατάστασης να επιλέξετε, προτείνουμε την έκδοση 32-bit.
 
 
 ;MSI installers
-MSI installers
+Προγράμματα εγκατάστασης MSI
 
 
 ;Windows installers for corporate IT that simplify the configuration, deployment and management of the Firefox Browser.
@@ -125,11 +125,11 @@ Windows installers for corporate IT that simplify the configuration, deployment 
 
 
 ;Select your preferred installer
-Select your preferred installer
+Επιλέξτε το προτιμώμενο πρόγραμμα εγκατάστασής σας
 
 
 ;Learn about installers
-Learn about installers
+Μάθετε για τα προγράμματα εγκατάστασης
 
 
 ;Select your preferred language
@@ -138,6 +138,6 @@ Learn about installers
 
 # %(product_label)s is replaced with the product name e.g "Firefox", %(platform)s with the platform name e.g. "Windows", and %(locale)s with the language name e.g. "German".
 ;Download %(product_label)s for %(platform)s in %(locale)s
-Download %(product_label)s for %(platform)s in %(locale)s
+Λήψη του %(product_label)s για %(platform)s στα %(locale)s
 
 
