@@ -1,74 +1,75 @@
+## active ##
 ## NOTE: Demo https://bedrock-demo-achurchwell.oregon-b.moz.works/firefox/70.0/whatsnew
 
 
 # HTML page title.
 ;What’s new with Firefox - More privacy, more protections.
-What’s new with Firefox - More privacy, more protections.
+Što je nowe we Firefox? - Wjace priwatnosće, wjace škita.
 
 
 # Notification banner.
 ;Congrats! You’re using the latest version of Firefox.
-Congrats! You’re using the latest version of Firefox.
+Zbožopřeće! Wužiwaće najnowšu wersiju Firefox.
 
 
 # Page headline.
 ;Now you can see how we’re protecting your privacy.
-Now you can see how we’re protecting your privacy.
+Nětko móžeće widźeć, kak wašu priwatnosć škitamy.
 
 
 ;We made Enhanced Tracking Protection because no one should be able to follow you online without your permission. And now you can see just how many data-collecting trackers Firefox has blocked for you — along with other ways our products protect your privacy.
-We made Enhanced Tracking Protection because no one should be able to follow you online without your permission. And now you can see just how many data-collecting trackers Firefox has blocked for you — along with other ways our products protect your privacy.
+Smy polěpšeny slědowanski škit wutworili, zo njeby nichtó wam online bjez wašeho dowolnosće slědował. A nětko móžeće prosće widźeć, kelko daty hromadźacych přesćěhowakow Firefox za was zablokowa - hromadźe z druhimi móžnosćemi, z kotrymiž naše produkty wašu priwatnosć škitaja.
 
 
 # Conditional CTA for Firefox 70 and above.
 ;See what Firefox has blocked for you
-See what Firefox has blocked for you
+Hladajće, štož Firefox je za was zablokował
 
 
 # Conditional CTA for Firefox 69 and below.
 ;Update your Firefox browser
-Update your Firefox browser
+Aktualizujće swój wobhladowak Firefox
 
 
 # Conditional CTA for non-Firefox browsers.
 ;Download the Firefox browser
-Download the Firefox browser
+Wobhladowak Firefox sćahnyć
 
 
 ;Also view personalized protection updates from these services:
-Also view personalized protection updates from these services:
+Wobstarajće sej tež personalizowane škitne aktualizacije wot tutych słužbow:
 
 
 # Firefox Monitor should remain unchanged.
 ;Firefox Monitor
-Firefox Monitor
+Firefox Monitor {ok}
 
 
 ;See if you were a part of another company’s data breach, and sign up for future alerts.
-See if you were a part of another company’s data breach, and sign up for future alerts.
+Hladajće, hač sće potrjecheny wot datoweje dźěry druheho předewzaća, a registrujće so za přichodne warnowanja.
 
 
 # Firefox Monitor should remain unchanged.
 ;Go to Monitor
-Go to Monitor
+K Monitor
 
 
 # Firefox Lockwise should remain unchanged.
 ;Firefox Lockwise
-Firefox Lockwise
+Firefox Lockwise {ok}
 
 
 # Lockwise refers to the Firefox Lockwise product. It should remain in English.
 ;Safely store and manage your passwords with Lockwise, and get alerted when you need to change them.
-Safely store and manage your passwords with Lockwise, and get alerted when you need to change them.
+Składujće a rjadujće swoje hesła wěsće z Lockwise a dajće sej warnować, hdyž dyrbiće je změnić.
 
 
 # Lockwise refers to the Firefox Lockwise product. It should remain in English.
 ;Go to Lockwise
-Go to Lockwise
+K Lockwise
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+Čitajće <a href="%(notes)s">wersije informacije</a>, zo byšće wjace wo nowych funkcijach a změnach w swojim wobhladowaku Firefox zhonił.
 
 
