@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/features/adblocker
 
 
@@ -24,11 +25,11 @@ Přerězna wosoba w přerězku 4.000 wabjenjow wob dźeń widźi. Jeli měniće,
 
 
 ;An ad blocker is a piece of software that can be used to block ads, and they work in two ways. The first way is when an ad blocker blocks the signal from an advertiser’s server, so the ad never shows up on your page. Another way ad blockers work is by blocking out sections of a website that could be ads.
-An ad blocker is a piece of software that can be used to block ads, and they work in two ways. The first way is when an ad blocker blocks the signal from an advertiser’s server, so the ad never shows up on your page. Another way ad blockers work is by blocking out sections of a website that could be ads.
+Blokowak wabjenja je program, z kotrymž móžeće wabjenje blokować a funguja na dwě wašni. Prěnje wašnje je, zo so wabjenje ženje na wašej stronje njepokazuje, hdyž blokowak wabjenja signal ze serwera wabjerja blokuje. Druhe wašnje, na kotrež blokowaki wabjenja funguja, je, zo so wotrězki websydła blokuja, kotrež móhli wabjenje być.
 
 
 ;These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
-These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
+Tute wabjenje móhło hłósne wabjenske wideja, wabjenje, kotrež wam we webj slěduje, přesćěhowaki, placki třećich poskićowarjow a wjace być. Zo byšće blokowak wabjenja wužiwał, móžeće za přidatkami blokowakow wabjenja pytać, kotrež su za waš wobhladowak k dispoziciji. <a href="%(firefox)s">Firefox</a>, na přikład, ma <a href="%(addons)s">tutu lisćinu schwalenych přidatkow blokowakow wabjenja</a>. Klikńće na tutu lisćinu (abo blokowaki wabjenja, kotrež su schwalene za waše wobhladowak) a hladajće, kotry wašim potrěbnosćam wotpowěduje.
 
 
 ;Find the right ad blocker for you
@@ -36,7 +37,7 @@ Namakajće prawy wabjenski blokowak za sebje
 
 
 ;There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
-There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
+Je na přikład <a href="%(url)s">AdBlocker Ultimate</a>, kotryž kóžde wabjenje wotstronja, ale kupcy dyrbja kedźbować. Někotre z wašich najlubšich nowin a magacinow su wotwisne wot wabjenja. Přewjele ludźi, kotrež jich wabjenje blokowanje, móhli je z wobchoda wutłóčić.
 
 
 ;Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
@@ -61,7 +62,7 @@ Wubjerće škitny schodźenk
 
 
 ;To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
-To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
+Zo byšće započał, klikńće na meni Firefox w prawym hronim róžku swojeje wobrazowki. Wupada kaž tři linije jedna nad druhej. Klikńće we wuběranskim meniju na Blokowanje wobsaha. Wy dyrbjał módre wuskakowace wokno ze wšělakimi wuběranskimi móžnosćemi widźeć.
 
 
 ;Go easy with Standard mode
@@ -69,7 +70,7 @@ To start, click on the Firefox menu in the top right-hand corner of your screen.
 
 
 ;If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
-If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
+Jeli wabjenje wam njewadźi a njewučini wam, zo přesćěhowaki a placki třećich poskićowarjow wam slěduja, móžeće standardny modus wužiwać. Zo by přesćěhowaki w standardnym modusu wotbył, wužiwajće <a href="%(url)s">priwatne wokno</a>.
 
 
 ;Get tough with Strict mode
@@ -85,7 +86,7 @@ Wužiwajće swójski modus
 
 
 ;The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
-The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
+Modus Swójski da wam ultimatiwnu wólbu. Móžeće rozsudźić, štož chceće blokować, na přikład přesćěhowaki, placki a wjace. Jeli placki z websydła dowoleće, so awtomatisce modus Swójski wužia.
 
 
 # ’Cover your trail’ means cover your browsing history.
@@ -94,7 +95,7 @@ Zamazajće swój slěd, blokujće přesćěhowaki
 
 
 ;Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
-Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
+Klikńće na kašćik Přesćěhowaki a móžeće přesćěhowaki na dwě wašni blokować. Jedne wašnje, zo byšće přesćěhowaki blokował, je, hdyž w priwatnym woknje dźěłaće. Druhe wašnje, zo byšće to činił, je, přesćěhowaki we wšěch woknach blokować. Dźiwajće na to, zo, jeli so rozsudźeće, přesćěhowaki přeco blokować, někotre strony njemóhli so korektnje začitać.
 
 
 ;Take a bite out of cookies
@@ -102,7 +103,7 @@ Kusajće do plackow
 
 
 ;<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
-<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
+<a href="%(url)s">Placki</a> so wot websydłow sćelu, kotrež wopytujeće. Składuju so na wašim ličaku a dohladuja, štož na sydle činiće. Hdyž lětanske towarstwo płaćizny za was powyša, dokelž sće sej tutón dźeń lětanki wobhladał, je to dźěło placka.
 
 
 ;In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
@@ -115,7 +116,7 @@ Sćelće signal Njeslědować
 
 # ’Thanks but no thanks’ here means to reject ads.
 ;If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
-If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
+Jeli nochceće, zo so waše zadźerženje za wabjenje wužiwa, móžeće nastajenje Firefox <a href="%(url)s">Njeslědować</a> zmóžnić, zo byšće websydłam zdwórliwe „ně, dźakuju so“ pósłał. Wobdźělenje je dobrowólne, ale websydła, kotrež so wobdźěluja, hnydom slědowanje skónča.
 
 
 ;Speed up thanks to ad blockers
@@ -123,11 +124,11 @@ Spěšniši dźak wabjenskim blokowakam
 
 
 ;In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
-In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
+W někotrych padach móže blokowak wabjenja pomhać, waš wobhladowak spěšniši činić. Hdyž so wabjenje začita, móže so websydło spomalić. Nadobo traje dlěje, to namakać, štož pytaće, jeli maće přewjele dźěła, zo byšće dalše wabjenje začinił.
 
 
 ;If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for Firefox and other browsers. If want to try out the ad blockers Firefox uses, <a href="%(url)s">click here to download</a> a browser that puts privacy first.
-If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for Firefox and other browsers. If want to try out the ad blockers Firefox uses, <a href="%(url)s">click here to download</a> a browser that puts privacy first.
+Jeli chceće wjace wo blokowanju wabjenja zhonił, su sta rozšěrjenjow za blokowanje wabjenja za Firefox a druhe wobhladowaki k dispoziciji. Jeli chceće wabjenske blokowaki wupruwować, kotrež Firefox wužiwa, <a href="%(url)s">klikńće tu, zo byšće wobhladowak sćahnył</a>, za kotryž priwatnosć je na prěnim městnje.
 
 
 ;Take control of your browser.

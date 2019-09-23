@@ -13,7 +13,7 @@ The browser wars, underdogs vs giants, and moments that changed the world. Read 
 
 # Page heading
 ;The History of Web Browsers
-The History of Web Browsers
+網頁瀏覽器簡史
 
 
 ;World history is rife with epic power struggles, world-conquering tyrants, and heroic underdogs. The history of web browsers isn’t very different. University pioneers wrote simple software that sparked an information revolution, and battle for browser superiority and internet users.
@@ -21,35 +21,35 @@ World history is rife with epic power struggles, world-conquering tyrants, and h
 
 
 ;Before Web Era
-Before Web Era
+Web 時代之前
 
 
 ;In 1950, computers took up whole rooms and were dumber than today’s pocket calculators. But progress was swift, and by 1960 they were able to run complex programs. Governments and universities across the globe thought it would be great if the machines could talk, nurturing collaboration and scientific breakthroughs.
-In 1950, computers took up whole rooms and were dumber than today’s pocket calculators. But progress was swift, and by 1960 they were able to run complex programs. Governments and universities across the globe thought it would be great if the machines could talk, nurturing collaboration and scientific breakthroughs.
+1950 年，一台電腦要占滿整個房間的空間，效能卻比現在的口袋計算機還差。但隨著技術的快速發展，到了 1960 年，電腦已經可以執行複雜的程式。世界各國政府與各所大學覺得，如果機器們可以互相溝通，以發展合作與科學研究上的進展，那就太好了。
 
 
 ;<a href="%(arpanet)s">ARPANET</a> was the first successful networking project and in 1969 the first message was sent from the computer science lab at University of California, Los Angeles (UCLA) to Stanford Research Institute (SRI), also in California.
-<a href="%(arpanet)s">ARPANET</a> was the first successful networking project and in 1969 the first message was sent from the computer science lab at University of California, Los Angeles (UCLA) to Stanford Research Institute (SRI), also in California.
+<a href="%(arpanet)s">ARPANET</a> 是第一套成功的網路連結計畫，1969 年從美國加州大學洛杉磯校區（UCLA）的電腦科學實驗室發出了第一封訊息到同樣位於加州的史丹佛國際研究中心（Stanford Research Institute, SRI）。
 
 
 ;That sparked a revolution in computer networking. New networks formed, connecting universities and research centers across the globe. But for the next 20 years, the internet wasn’t accessible to the public. It was restricted to university and government researchers, students, and private corporations. There were dozens of programs that could trade information over telephone lines, but none of them were easy to use. The real open internet, and the first web browser, wasn’t created until 1990.
-That sparked a revolution in computer networking. New networks formed, connecting universities and research centers across the globe. But for the next 20 years, the internet wasn’t accessible to the public. It was restricted to university and government researchers, students, and private corporations. There were dozens of programs that could trade information over telephone lines, but none of them were easy to use. The real open internet, and the first web browser, wasn’t created until 1990.
+這件事點燃了電腦網路的火花。之後陸續建立了不同的網路、連結全球的各所大學與研究中心。但在後續的 20 年內，網際網路都還不是公開的，只有大學與政府機關內的研究人員、學生與私人企業可以使用。有幾十套程式可以透過電話線在不同電腦間交換資訊，但沒有一套是好用的。真正開放的網際網路與第一套網頁瀏覽器，要到 1990 年才被打造出來。
 
 
 ;Web Era
-Web Era
+進入 Web 時代
 
 
 ;British computer scientist Tim Berners-Lee created the first web server and graphical web browser in 1990 while <a href="%(cern)s">working at CERN</a>, the European Organization for Nuclear Research, in Switzerland. He called his new window into the internet “WorldWideWeb.” It was an easy-to-use graphical interface created for the NeXT computer. For the first time, text documents were linked together over a public network—the web as we know it.
-British computer scientist Tim Berners-Lee created the first web server and graphical web browser in 1990 while <a href="%(cern)s">working at CERN</a>, the European Organization for Nuclear Research, in Switzerland. He called his new window into the internet “WorldWideWeb.” It was an easy-to-use graphical interface created for the NeXT computer. For the first time, text documents were linked together over a public network—the web as we know it.
+1990 年，英國的電腦工程師 Tim Berners-Lee 在歐洲瑞士的核能研究單位 <a href="%(cern)s">CERN 工作時</a>，開發出第一套網頁伺服器與圖形化的網頁瀏覽器。他將這個進入網際網路世界的窗戶，稱為「WorldWideWeb」。這是一套針對 NeXT 系統電腦容易使用的圖形化介面瀏覽器，各種純文字文件在此當中第一次透過公開網路被連結起來—就是我們現在所熟知的網路。
 
 
 ;A year later, Berners-Lee asked CERN math student Nicola Pellow to write the Line Mode Browser, a program for basic computer terminals.
-A year later, Berners-Lee asked CERN math student Nicola Pellow to write the Line Mode Browser, a program for basic computer terminals.
+一年後，Berners-Lee 請 CERN 的數學系學生 Nicola Pellow 撰寫了 Line Mode Browser，這是一套可於簡易的電腦終端機當中使用的瀏覽器。
 
 
 ;By 1993, the web exploded. Universities, governments, and private corporations all saw opportunity in the open internet. Everyone needed new computer programs to access it. That year, Mosaic was created at the National Center for Supercomputing Applications (NCSA) at the University of Illinois Urbana-Champaign by computer scientist Marc Andreessen. It was the very first popular web browser and the early ancestor of <a href="%(firefox)s">Mozilla Firefox</a>.
-By 1993, the web exploded. Universities, governments, and private corporations all saw opportunity in the open internet. Everyone needed new computer programs to access it. That year, Mosaic was created at the National Center for Supercomputing Applications (NCSA) at the University of Illinois Urbana-Champaign by computer scientist Marc Andreessen. It was the very first popular web browser and the early ancestor of <a href="%(firefox)s">Mozilla Firefox</a>.
+到了 1993 年，網路發展大爆發。各間大學、政府機關、私人企業都看到開放的網際網路的發展機會，每個人都需要新的程式來連結到網路。這一年，美國伊利諾大學厄巴納-香檳分校的美國國家超級電腦應用中心（NCSA）電腦科學家 Marc Andreessen 打造了 Mosaic，這是第一套知名的網頁瀏覽器，也是 <a href="%(firefox)s">Mozilla Firefox</a> 的早期原始版本。
 
 
 ;NSCA Mosaic ran on Windows computers, was easy to use, and gave anyone with a PC access to early web pages, chat rooms, and image libraries. The next year (1994), Andreessen founded <a href="%(netscape)s">Netscape</a> and released Netscape Navigator to the public. It was wildly successful, and the first browser for the people. It was also the first move in a new kind of war for internet users.
@@ -57,7 +57,7 @@ NSCA Mosaic ran on Windows computers, was easy to use, and gave anyone with a PC
 
 
 ;The Browser Wars
-The Browser Wars
+瀏覽器大戰
 
 
 ;By 1995, Netscape Navigator wasn’t the only way to get online. Computer software giant Microsoft licensed the old Mosaic code and built its own window to the web, <a href="%(ie)s">Internet Explorer</a>. The release sparked a war. Netscape and Microsoft worked feverishly to make new versions of their programs, each attempting to outdo the other with faster, better products.
