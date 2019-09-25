@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo page at https://bedrock-demo-achurchwell.oregon-b.moz.works/firefox/best-browser/
 
 
@@ -48,7 +49,7 @@ Wobhladowak, kotryž je so za spěšnosć wuwił.
 
 
 ;A browser is still a tool, so it makes sense that you’ll want to pick the best one for the job. If you’re a human who needs to work to survive, you’ll need a fast internet browser. One thing to keep in mind is a browser that runs third-party trackers is more likely to be slower than a browser that doesn’t. Third-party trackers are cookies, and while you can’t see them, they are running in the background of the site, taking up precious time. The more third-party trackers a browser blocks, the faster it can run.
-A browser is still a tool, so it makes sense that you’ll want to pick the best one for the job. If you’re a human who needs to work to survive, you’ll need a fast internet browser. One thing to keep in mind is a browser that runs third-party trackers is more likely to be slower than a browser that doesn’t. Third-party trackers are cookies, and while you can’t see them, they are running in the background of the site, taking up precious time. The more third-party trackers a browser blocks, the faster it can run.
+Wobhladowak dźě je nastroje, tohodla je zmysłapołnje, zo za swoje dźěło najlěpši wuběraće. Jeli sće čłowjek, kotryž dyrbi dźěłać, zo by přežiwił, trjebaće spěšny internetny wobhladowak. Jedna wěc, kotruž dyrbiće sej spomjatkować, je. zo wobhladowak, kotryž přeścěhowaki tžećich poskićowarjow wužiwa, je najskerje pomałši hač wobhladowak, kotrež to nječini. Přesćěhowaki třećich poskićowarjow su placki, a hačrunjež njemóžeće je widźeć, běža w pozadku sydła a płaći wam drohotny čas. Čim wjace přesćěhowaki třećich poskićowarjow wobhladowak blokuje, ćim spěšnišo móže běžeć.
 
 
 ;This is one of the many reasons to choose the Firefox browser: Firefox blocks third-party trackers by default. We have other reasons and we’ll get into those later.
@@ -60,27 +61,27 @@ Wobhladowak, za kotryž wěstota na prěnim městnje steji.
 
 
 ;Remember the last massive data breach? If not, it’s probably because it happens so often. Companies hold on to customer data, like their personal or financial information, and hackers steal it. If you’re making safety a priority, then a secure internet browser is the best browser for you.
-Remember the last massive data breach? If not, it’s probably because it happens so often. Companies hold on to customer data, like their personal or financial information, and hackers steal it. If you’re making safety a priority, then a secure internet browser is the best browser for you.
+Dopominaće so na poslednju wulku datowu dźěru? Jeli nic, najskerje dokelž so to dosć husto stawa. Předewzaća daty kupcow wobchowauja, na přikład jich wosobinske abo financielne inormacije a hackerjo je kradnu. Jeli wěstoće prioritu daće, je wěsty wobhladowak najlěpši wobhladowak za was.
 
 
 ;There are a few ways a browser can help its users stay secure. A browser that is up to date with the latest security tech can help protect your computer and websites from unwanted visitors, such as malware or computer viruses.
-There are a few ways a browser can help its users stay secure. A browser that is up to date with the latest security tech can help protect your computer and websites from unwanted visitors, such as malware or computer viruses.
+Su někotre móžnosće, zo by wobhladowak pomhał, zo jeho wužiwarjo wěsći wostanu. Wobhladowak, kotryž je na najnowšim stawje wěstotneje techniki, móže waš ličak a websydła před njewitanymi wopytowarjemi škitać, na přikład před škódnej softwaru abo kompjuterowymi wirusami.
 
 
 ;The second is not storing too much user data. Hackers can’t steal what’s not there, which is why Firefox keeps a minimum amount of information about its users. <a href="%(data)s">Firefox knows</a> if you use the browser and your general location <a href="%(privacy)s">but not the name of your childhood pet or your favorite color.</a>
-The second is not storing too much user data. Hackers can’t steal what’s not there, which is why Firefox keeps a minimum amount of information about its users. <a href="%(data)s">Firefox knows</a> if you use the browser and your general location <a href="%(privacy)s">but not the name of your childhood pet or your favorite color.</a>
+Nimo toho njeměł přewjele wužiwarskich datow składować. Hackerjo njemóža kradnyć, štož njeje, tohodla jenož minimum ifnromacijow wo swojich wužiwarjach wobchowuje. <a href="%(data)s">Firefox wě</a>, hač wobhladowak wužiwaće a waše powšitkowne stejnišćo, <a href="%(privacy)s">ale njewě mjeno wašeho domjaceho zwěrjeća abo waš najlubšu barbu.</a>
 
 
 ;Last but not least, a safe browser should offer tools to help you keep an eye on your accounts. Think of alerts that go straight to your email if any of your accounts get breached or icons that tell you whether a website is encrypted, (i.e., if it’s a good idea to enter your credit number on a shopping site).
-Last but not least, a safe browser should offer tools to help you keep an eye on your accounts. Think of alerts that go straight to your email if any of your accounts get breached or icons that tell you whether a website is encrypted, (i.e., if it’s a good idea to enter your credit number on a shopping site).
+Wosebje wěsty wobhladowak měł nastroje poskićić, kotrež wam pomhaja, swoje konta we wóčku wobchować. Na přikład zdźělenki, kotrež so direktnje na wašu e-mejlowu adresu sćelu, jeli so jedyn z wašich konto rani abo symbole, kotrež wam zdźěleja, hač websydło je zaklučowane (t. r. hač je dobra ideja, čisło swojeje kreditneje karty na předawanskim sydle zapodać).
 
 
 ;Firefox is offering something new to keep you safe: <a href="%(monitor)s">Firefox Monitor</a>. It’s a free service that will alert you if there are any public hacks on your accounts and let you know if your accounts got hacked in the past. Another neat feature is the Green Lock. It looks like a small green icon at the top left side of the browser window. If you’re on Firefox and see the green lock, it means the website is encrypted and secure. If the lock is grey, you might want to think twice about entering any sensitive information.
-Firefox is offering something new to keep you safe: <a href="%(monitor)s">Firefox Monitor</a>. It’s a free service that will alert you if there are any public hacks on your accounts and let you know if your accounts got hacked in the past. Another neat feature is the Green Lock. It looks like a small green icon at the top left side of the browser window. If you’re on Firefox and see the green lock, it means the website is encrypted and secure. If the lock is grey, you might want to think twice about entering any sensitive information.
+Firefox něšto noweho skići, zo by was wěsty dźeržał: <a href="%(monitor)s">Firefox Monitor</a>. Je darmotna słužba, kotraž wam zdźěla, hač su někajke zjawne datowe dźěry we wašich kontach a informuje, hač su so hižo w zańdźenosći do wašich konta zadobyli. Druha spodobna funkcija je zeleny zamk. Wupada kaž mały zeleny symbol horjeka nalěwo we woknje wobhladowaka. Jeli z Firefox dźěłaće, a widźiće zeleny zamk, to rěka, zo websydło je zaklučowane a wěste. Jeli zamk je šěry, přemyslujeće sej snano dwójce, hač sensibelne informacije zapodaće.
 
 
 ;We visit hundreds or even thousands of websites each day, and you can’t expect users to make security and privacy decisions for each of these sites. That is why a browser that gives you more control is so important - because it offers real, meaningful protection.
-We visit hundreds or even thousands of websites each day, and you can’t expect users to make security and privacy decisions for each of these sites. That is why a browser that gives you more control is so important - because it offers real, meaningful protection.
+Wopytujemy sta abo samo tysacy websydłow kóždy dźeń, a njemóžeće wočakować, zo wužiwarjo za kóžde z tutych sydłow wo wěstoće a priwatnosći rozsudźeja. Tohodla je wobhladowak, kotryž wam wjace kontrole dawa, tak wažny - dokelž woprawdźity, wuznamny škit skići.
 
 
 ;A browser that minds its business.
@@ -88,11 +89,11 @@ Wobhladowak,, kotryž so wo swoje naležnosće stara.
 
 
 ;Privacy on the web is a hot button issue. If privacy is number one on your list of priorities, you want to look for a browser that takes that seriously. When choosing the best private browser for you, look at the tracking policy and how a browser handles your data. These seem like technical questions, but they’re the reason some browsers are more private than others.
-Privacy on the web is a hot button issue. If privacy is number one on your list of priorities, you want to look for a browser that takes that seriously. When choosing the best private browser for you, look at the tracking policy and how a browser handles your data. These seem like technical questions, but they’re the reason some browsers are more private than others.
+Priwatnosć we webje je wažna tema. Jeli je priwatnosć za was na prěnim městnje, sće wěsće na wobhladowaku zajimowany, kotryž to chutnje bjerje. Zo byšće sej najlěpši priwatny wobhladowak za was wubrał, dźiwajće na slědowanske směrnicy a na to, kak wobhladowak z wašimi datami wobchadźa. To drje jara technisce klinči, ale je přičina, zo někotre wobhladowaki su priwatniše hač druhe.
 
 
 ;Trackers are all those annoying “cookies” messages you get on airline sites. These third-party trackers know where you click and can be used to analyze your behavior. A private browser should give users the option to turn off third-party trackers, but ideally, turn them off by default.
-Trackers are all those annoying “cookies” messages you get on airline sites. These third-party trackers know where you click and can be used to analyze your behavior. A private browser should give users the option to turn off third-party trackers, but ideally, turn them off by default.
+Přesćěhowaki su wšě te wobuzne „placki“, kotrež na přikład na sydłach lětanskich towarstwo dóstawaće. Tute přesćěhowaki třećich poskićowarjow wědźa, hdźež kliknjeće a dadźa so wužiwać, zo bychu waše zadźerženje analyzował. Priwatny wobhladowak měł wužiwarjam móžnosć dać, přesćěhowaki třećich poskićowarjow znjemóžnić, znjemóžńce wšak je w idealnym padźe po standardźe.
 
 
 ;Another way to stop trackers from tracking is using private mode to browse. Any browser that claims to be private should offer browsing in private mode.
@@ -100,11 +101,11 @@ Druha móžnosć, zo by slědowanju přez přesćěhowakii zadźěwało, je wuž
 
 
 ;One easy way to check is to visit a browser’s content setting page and privacy policy. The privacy webpage should outline if your data is shared and why. It’s why the <a href="%(privacy)s">Firefox privacy notice</a> is easy to read and easy to find.
-One easy way to check is to visit a browser’s content setting page and privacy policy. The privacy webpage should outline if your data is shared and why. It’s why the <a href="%(privacy)s">Firefox privacy notice</a> is easy to read and easy to find.
+Lochka móžnosć, zo byšće to přepruwował, je, stronu wobsahowych nastejenjow a prawidła priwatnosće wopytać. Webstrona priwatnosće měła wuwjesć, hač so waše daty dźěla a čehodla. Tohodla móžeće <a href="%(privacy)s">prawidła priwatnosće</a> lochko čitać a lochko namakać.
 
 
 ;Choosing the best browser for you is a lot like choosing a home. You want to explore your options, do some research and make a decision based on what’s important to you.
-Choosing the best browser for you is a lot like choosing a home. You want to explore your options, do some research and make a decision based on what’s important to you.
+Wuběranje najlěpšeho wobhladowaka za was je kaž wuběranje swójskeho domu. Chceće swoje móžnosće wuslědźić, někotre rešerše přewjesć a na zakładźe toho rozsudźić, štož je wažne za was.
 
 
 ;At <a href="%(firefox)s">Firefox</a>, we’ve worked hard to build a browser that is twice as fast as before and gives users more control over their online life.
