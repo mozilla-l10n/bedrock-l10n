@@ -1,227 +1,228 @@
+## active ##
 ## NOTE: Demo page at https://www-demo1.allizom.org/firefox/privacy/
 
 
 # These phrases are used in the sub navigation for both pages.
 ;Privacy
-Privacy
+Datenschutz
 
 
 ;Our Promise
-Our Promise
+Unser Versprechen
 
 
 ;Our Products
-Our Products
+Unsere Produkte
 
 
 # This string is used in the privacy policy link at the end of both pages.
 ;Read the <a href="%s">Privacy Notice</a> for our products
-Read the <a href="%s">Privacy Notice</a> for our products
+Lies die <a href="%s">Datenschutzerklärung</a> für unsere Produkte
 
 
 # These strings are used in /firefox/privacy/
 # HTML page title
 ;Firefox Privacy Promise
-Firefox Privacy Promise
+Das Firefox Privatsphäre-Versprechen
 
 
 # HTML page description
 # An alternate translation for this could be "Firefox takes less data, keeps it safe, and doesn’t keep secrets".
 ;Firefox takes less data, keeps it safe, and with no secrets.
-Firefox takes less data, keeps it safe, and with no secrets.
+Firefox speichert weniger Daten, bewahrt sie sicher auf und geht offen und ehrlich damit um.
 
 
 ;Firefox products are designed to protect your <strong>privacy</strong>
-Firefox products are designed to protect your <strong>privacy</strong>
+Firefox-Produkte werden von Grund auf so entwickelt, dass sie deine <strong>Privatsphäre</strong> schützen
 
 
 ;You should be able to decide who sees your personal info. Not just among your friends, but with every advertiser and company on the internet — including us.
-You should be able to decide who sees your personal info. Not just among your friends, but with every advertiser and company on the internet — including us.
+Du solltest selbst entscheiden können, wer deine persönlichen Informationen sieht. Damit meinen wir nicht nur deine Freunde, sondern auch Werbetreibende und Unternehmen, die online agieren – uns eingeschlossen.
 
 
 ;That’s why everything we make and do honors our Personal Data Promise
-That’s why everything we make and do honors our Personal Data Promise
+Deshalb liegt allem, was wir tun, unser Versprechen für deine persönlichen Daten zugrunde.
 
 
 ;Take Less
-Take Less
+Wenig sammeln
 
 
 ;We make a point of knowing less about you
-We make a point of knowing less about you
+Wir legen Wert darauf, weniger über dich zu wissen.
 
 
 ;All tech companies collect data to improve their products. But it doesn’t need to include so much of your personal info. The only data we want is the data that serves you in the end. We ask ourselves: do we actually need this? What do we need it for? And when can we delete it?
-All tech companies collect data to improve their products. But it doesn’t need to include so much of your personal info. The only data we want is the data that serves you in the end. We ask ourselves: do we actually need this? What do we need it for? And when can we delete it?
+Alle Tech-Unternehmen erheben Daten, um ihre Produkte zu verbessern. Dabei müssen aber nicht so viele deiner persönlichen Informationen gesammelt werden. Die einzigen Daten, die wir brauchen, sind solche, die am Ende dir dienen. Wir fragen uns immer erst: Brauchen wir das wirklich? Wofür brauchen wir es? Und wann können wir es löschen?
 
 
 ;Keep it safe
-Keep it safe
+Sicher aufbewahren
 
 
 ;We do the hard work to protect your personal info
-We do the hard work to protect your personal info
+Wir machen uns die Arbeit, deine persönlichen Daten zu schützen.
 
 
 ;Data security is complicated — or at least it should be. Which is why we take the extra steps to classify the data we have, maintain rules for how we store and protect each type, and never stop iterating on our processes. We prioritize your privacy. We invest in it. We’re committed to it. We even teach other companies how to do it.
-Data security is complicated — or at least it should be. Which is why we take the extra steps to classify the data we have, maintain rules for how we store and protect each type, and never stop iterating on our processes. We prioritize your privacy. We invest in it. We’re committed to it. We even teach other companies how to do it.
+Daten sicher zu speichern ist kompliziert – das sollte es zumindest sein. Deshalb unternehmen wir zusätzliche Schritte, um die Daten, die wir haben, zu klassifizieren und Regeln für die Art und Weise, wie wir jeden Datentyp speichern und schützen, einzuhalten. Wir werden außerdem nie aufzuhören, unsere Prozesse zu wiederholen. Deine Privatsphäre hat für uns Priorität. Wir investieren darin, sie zu schützen und verpflichten uns ganz klar dazu. Wir helfen sogar anderen Unternehmen dabei, es besser zu machen.
 
 
 ;No secrets
-No secrets
+Ehrlich sein
 
 
 ;You’ll always know where you stand with us
-You’ll always know where you stand with us
+Du wirst bei uns immer wissen, woran du bist.
 
 
 ;There’s no hidden agenda here. Our business doesn’t depend on secretly abusing your trust. Our <a href="%(privacy)s">Privacy Notice</a> is actually readable. Anyone in the world can attend our <a href="%(meetings)s">weekly company meetings</a>. If you want to dig into every datapoint we collect, our code is open. And so are we.
-There’s no hidden agenda here. Our business doesn’t depend on secretly abusing your trust. Our <a href="%(privacy)s">Privacy Notice</a> is actually readable. Anyone in the world can attend our <a href="%(meetings)s">weekly company meetings</a>. If you want to dig into every datapoint we collect, our code is open. And so are we.
+Wir haben keine versteckten Absichten. Unser Geschäft basiert nicht darauf, dein Vertrauen zu missbrauchen. Unsere  <a href="%(privacy)s">Datenschutzerklärung</a> ist einfach und verständlich formuliert. Jeder kann von überall auf der Welt an unseren <a href="%(meetings)s">wöchentlichen Company-Meetings</a> teilnehmen. Und wenn du mehr über die Daten, die wir erfassen, wissen möchtest, kannst du das jederzeit tun – unser Code ist öffentlich einsehbar und für jeden zugänglich. Und wir sind es auch.
 
 
 ;Your privacy, by the product
-Your privacy, by the product
+Privatsphäre in jedem Produkt
 
 
 ;Firefox products work differently — because they’re designed to protect your privacy first.
-Firefox products work differently — because they’re designed to protect your privacy first.
+Firefox-Produkte funktionieren anders – weil sie von Grund auf so entwickelt werden, dass sie deine Privatsphäre schützen.
 
 
 ;Learn about our products
-Learn about our products
+Mehr über unsere Produkten erfahren
 
 
 ;Why trust Firefox?
-Why trust Firefox?
+Warum solltest du Firefox vertrauen?
 
 
 ;Because we put people first. In fact, we’re backed by a <a href="%(foundation)s">non-profit</a>. From day one, it’s been our mission to protect the internet and everyone on it
-Because we put people first. In fact, we’re backed by a <a href="%(foundation)s">non-profit</a>. From day one, it’s been our mission to protect the internet and everyone on it
+Im Gegensatz zu vielen anderen Tech-Unternehmen baut unser Geschäftsmodell nicht darauf auf, die persönlichen Daten unsere Nutzer auszubeuten. Hinter uns steht eine <a href="%(foundation)s">gemeinnützige Organisation</a>. Unsere Mission bestand vom ersten Tag an darin, das Internet und die Menschen, die es nutzen, zu beschützen.
 
 
 ;Learn more about our mission
-Learn more about our mission
+Weitere Infos zu unserer Mission
 
 
 # These strings are used in /firefox/privacy/products/
 # HTML page title
 ;Firefox privacy, by the product
-Firefox privacy, by the product
+Privatsphäre in jedem Produkt
 
 
 # HTML page description
 ;Firefox protects your privacy in every product.
-Firefox protects your privacy in every product.
+Firefox schützt deine Privatsphäre in jedem Produkt.
 
 
 ;Firefox <strong>protects</strong> your privacy in every product
-Firefox <strong>protects</strong> your privacy in every product
+Firefox <strong>schützt</strong> deine Privatsphäre in jedem Produkt
 
 
 ;2,000+ types of trackers blocked — automatically
-2,000+ types of trackers blocked — automatically
+Wir blockieren über 2,000 Arten von Trackern – automatisch
 
 
 ;Tracking has become an epidemic online: companies follow every move, click and purchase, collecting data to predict and influence what you’ll do next. We think that’s a gross invasion of your privacy. That’s why Firefox mobile and desktop browsers have Enhanced Tracking Protection on by default.
-Tracking has become an epidemic online: companies follow every move, click and purchase, collecting data to predict and influence what you’ll do next. We think that’s a gross invasion of your privacy. That’s why Firefox mobile and desktop browsers have Enhanced Tracking Protection on by default.
+Online-Tracking ist zu einer Epidemie im Internet geworden: Unternehmen verfolgen jede Bewegung, jeden Klick und jeden Einkauf. Sie sammeln Daten, um vorherzusagen und zu beeinflussen, was du als Nächstes tun wirst. Wir finden, dass das eine grobe Verletzung deiner Privatsphäre ist. Deshalb ist der erweiterte Tracking-Schutz im Firefox Browser standardmäßig aktiviert – für Desktop und auch für Mobilgeräte.
 
 
 ;If you want to see what Firefox is blocking for you, visit this page on your Firefox desktop browser.
-If you want to see what Firefox is blocking for you, visit this page on your Firefox desktop browser.
+Wenn du sehen möchtest, was genau Firefox für dich blockt, besuche diese Seite in deinem Firefox-Desktop-Browser.
 
 
 ;See what Firefox has blocked for you
-See what Firefox has blocked for you
+Das blockiert Firefox für dich
 
 
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized.
 ;Get Enhanced Tracking Protection
-Get Enhanced Tracking Protection
+Hol dir den verbesserten Tracking-Schutz
 
 
 ;Download the Firefox browser
-Download the Firefox browser
+Firefox Browser downloaden
 
 
 ;Update your Firefox browser
-Update your Firefox browser
+Aktualisiere deinen Firefox Browser
 
 
 ;Invisible to the top trackers
-Invisible to the top trackers
+Unsichtbar für die Top-Tracker
 
 
 ;Meet four of the most common categories of trackers — who won’t meet you.
-Meet four of the most common categories of trackers — who won’t meet you.
+Das sind die vier häufigsten Kategorien von Trackern, die nicht nun nicht mehr verfolgen.
 
 
 ;Always in your control
-Always in your control
+Du hast die Kontrolle
 
 
 ;Want to customize what gets blocked? Your settings are only one click away.
-Want to customize what gets blocked? Your settings are only one click away.
+Du willst selbst entscheiden, was blockiert wird? Deine Einstellungen sind nur einen Klick entfernt.
 
 
 ;Protection beyond tracking
-Protection beyond tracking
+Mehr als nur Tracking-Schutz
 
 
 ;If you have a Firefox account, you can also see how we’re helping you protect your personal info and passwords.
-If you have a Firefox account, you can also see how we’re helping you protect your personal info and passwords.
+Wenn du ein Firefox-Konto hast, kannst du nun auch sehen, wie wir dir dabei helfen, deine persönlichen Daten und Passwörter zu schützen.
 
 
 # %s will automatically be replaced by a formatted number e.g. "More than 100,000,000 trackers blocked each day"
 ;More than %s trackers blocked each day for Firefox users worldwide
-More than %s trackers blocked each day for Firefox users worldwide
+Jeden Tag werden weltweit mehr als %s Tracker für Menschen, die Firefox nutzen, blockiert.
 
 
 ;When you enter your email address in Firefox Monitor, we forget it immediately after we’ve checked for a match in known data breaches — unless you authorize us to continue monitoring new breaches for your personal information.
-When you enter your email address in Firefox Monitor, we forget it immediately after we’ve checked for a match in known data breaches — unless you authorize us to continue monitoring new breaches for your personal information.
+Wenn du deine E-Mail-Adresse in Firefox Monitor eingibst, überprüfen wir sie auf Übereinstimmungen mit bekannten Datenlecks und vergessen sie anschließend gleich wieder. Es sei denn, du berechtigst uns dazu, weiterhin für dich zu checken, ob deine persönlichen Daten in zukünftigen Datenlecks auftauchen.
 
 
 ;Check for breaches
-Check for breaches
+Auf Datenlecks überprüfen
 
 
 ;The passwords and credentials you save in Firefox Lockwise are encrypted on all your devices, so not even we can see them.
-The passwords and credentials you save in Firefox Lockwise are encrypted on all your devices, so not even we can see them.
+Die Passwörter und Zugangsdaten, die du in Firefox Lockwise speicherst, werden auf allen deinen Geräten verschlüsselt, sodass nicht einmal wir sie sehen können.
 
 
 # "Lockwise" is a proper name; it should be capitalized and should not be translated.
 ;Learn more about Lockwise
-Learn more about Lockwise
+Weitere Infos zu Lockwise
 
 
 ;We can’t see the names or content of the large files you share through Firefox Send because they’re encrypted end-to-end — you choose who sees what you send, and you can even set an expiration date and password.
-We can’t see the names or content of the large files you share through Firefox Send because they’re encrypted end-to-end — you choose who sees what you send, and you can even set an expiration date and password.
+Wir können die Namen oder den Inhalt der großen Dateien, die du mit Firefox Send teilst, nicht sehen, weil diese Ende-zu-Ende verschlüsselt sind. Du bestimmst, wer die gesendeten Dateien sehen soll, und kannst sogar ein Ablaufdatum und ein Passwort festlegen.
 
 
 ;Send a file
-Send a file
+Eine Datei senden
 
 
 ;Pocket recommends high-quality, human-curated articles without collecting your browsing history or sharing your personal information with advertisers.
-Pocket recommends high-quality, human-curated articles without collecting your browsing history or sharing your personal information with advertisers.
+Pocket empfiehlt dir qualitativ hochwertige und von Menschen kuratierte Artikel, ohne deine Surf-Chronik zu erfassen oder deine persönlichen Daten an Werbetreibende weiterzugeben.
 
 
 ;Get Pocket
-Get Pocket
+Hol dir Pocket
 
 
 ;Your Firefox account
-Your Firefox account
+Dein Firefox-Konto
 
 
 ;All the information synced through your Firefox account — from browser history to passwords — is encrypted. And your account password is the only key.
-All the information synced through your Firefox account — from browser history to passwords — is encrypted. And your account password is the only key.
+Alle Daten, die du über dein Firefox-Konto synchronisierst – von der Surf-Chronik bis zu den Passwörtern – werden verschlüsselt. Dein Konto-Passwort ist der einzige Schlüssel.
 
 
 ;Take your privacy and bookmarks everywhere with a Firefox account.
-Take your privacy and bookmarks everywhere with a Firefox account.
+Nimm Privatsphäre und Lesezeichen überall mit hin – mit deinem Firefox-Konto.
 
 
 ;Already have an account? <a %(sign_in)s class="%(class_name)s">Sign In</a> or <a href="%(learn_more)s">learn more</a> about joining Firefox.
-Already have an account? <a %(sign_in)s class="%(class_name)s">Sign In</a> or <a href="%(learn_more)s">learn more</a> about joining Firefox.
+Du hast schon ein Konto? <a %(sign_in)s class="%(class_name)s">Logge dich ein</a> oder <a href="%(learn_more)s">hol dir weitere Infos</a> über Firefox.
 
 
