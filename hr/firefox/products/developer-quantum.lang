@@ -112,7 +112,7 @@ Inspektor
 
 
 ;Inspect and refine code to build pixel-perfect layouts.
-Pregledaj i prilagodi kȏd za usavršavanje prijeloma stranice.
+Ispitaj i prilagodi kȏd za izradu savršenih prijeloma stranica na razini piksela.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Page_Inspector
@@ -143,7 +143,7 @@ Powerful JavaScript debugger with support for your framework.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Debugger
 ;Learn more about JavaScript Debugger
-Saznaj više o JavaScript ispravljanju grešaka
+Saznaj više o JavaScript ispravljaču grešaka
 
 
 ;Network
@@ -173,7 +173,7 @@ Saznaj više o ploči spremišta
 
 
 ;Responsive Design Mode
-Prilagodiv prikaz
+Responzivni dizajn
 
 
 ;Test sites on emulated devices in your browser.
@@ -182,7 +182,7 @@ Test sites on emulated devices in your browser.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Responsive_Design_View
 ;Learn more about Responsive Design View
-Saznaj više o prilagodivom prikazu
+Saznaj više o responzivnom dizajnu
 
 
 ;Visual Editing
@@ -229,7 +229,7 @@ Web Audio {ok}
 
 
 ;The only developer tool for inspecting the Web Audio API.
-Jedini razvojni alat za provjeru web audio API-a.
+Jedini programerski alat za provjeru web audio API-a.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Web_Audio_Editor
@@ -268,7 +268,7 @@ Speak up
 
 
 ;Feedback makes us better. Tell us how we can improve the browser and Developer tools.
-Feedback makes us better. Tell us how we can improve the browser and Developer tools.
+Povratne informacije nam pomažu. Reci nam kako možemo unaprijediti preglednika i programerske alate.
 
 
 # Link to https://discourse.mozilla-community.org/c/devtools
