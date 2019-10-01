@@ -22,7 +22,7 @@ Lire la <a href="%s">politique de confidentialité</a> concernant nos produits
 # These strings are used in /firefox/privacy/
 # HTML page title
 ;Firefox Privacy Promise
-Firefox Privacy Promise
+L’engagement de Firefox pour le respect de la vie privée
 
 
 # HTML page description
@@ -106,57 +106,57 @@ En savoir plus sur notre mission
 # These strings are used in /firefox/privacy/products/
 # HTML page title
 ;Firefox privacy, by the product
-Firefox privacy, by the product
+Le respect de la vie privée selon Firefox, produit par produit
 
 
 # HTML page description
 ;Firefox protects your privacy in every product.
-Firefox protects your privacy in every product.
+Firefox protège votre vie privée dans chacun de ses produits.
 
 
 ;Firefox <strong>protects</strong> your privacy in every product
-Firefox <strong>protects</strong> your privacy in every product
+Firefox <strong>protège</strong> votre vie privée dans chaque produit
 
 
 ;2,000+ types of trackers blocked — automatically
-2,000+ types of trackers blocked — automatically
+Plus de 2000 types de traqueurs bloqués automatiquement
 
 
 ;Tracking has become an epidemic online: companies follow every move, click and purchase, collecting data to predict and influence what you’ll do next. We think that’s a gross invasion of your privacy. That’s why Firefox mobile and desktop browsers have Enhanced Tracking Protection on by default.
-Tracking has become an epidemic online: companies follow every move, click and purchase, collecting data to predict and influence what you’ll do next. We think that’s a gross invasion of your privacy. That’s why Firefox mobile and desktop browsers have Enhanced Tracking Protection on by default.
+Le pistage en ligne est devenu un fléau : les entreprises traquent vos moindres clics et chacun de vos achats afin de recueillir des données qui servent à prédire votre comportement. Nous pensons que c’est une violation de votre vie privée. C’est pour cette raison que les navigateurs Firefox pour ordinateur et mobile disposent d’une protection renforcée contre le pistage, activée par défaut.
 
 
 ;If you want to see what Firefox is blocking for you, visit this page on your Firefox desktop browser.
-If you want to see what Firefox is blocking for you, visit this page on your Firefox desktop browser.
+Si vous voulez voir ce que Firefox bloque pour vous, visitez cette page avec Firefox sur votre ordinateur.
 
 
 ;See what Firefox has blocked for you
-See what Firefox has blocked for you
+Visualiser ce que Firefox a bloqué pour vous
 
 
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized.
 ;Get Enhanced Tracking Protection
-Get Enhanced Tracking Protection
+Profitez de la protection renforcée contre le pistage
 
 
 ;Download the Firefox browser
-Download the Firefox browser
+Télécharger le navigateur Firefox
 
 
 ;Update your Firefox browser
-Update your Firefox browser
+Mettre à jour votre navigateur Firefox
 
 
 ;Invisible to the top trackers
-Invisible to the top trackers
+Devenez invisible aux principaux traqueurs
 
 
 ;Meet four of the most common categories of trackers — who won’t meet you.
-Meet four of the most common categories of trackers — who won’t meet you.
+Découvrez les quatre catégories de traqueurs les plus fréquents.
 
 
 ;Always in your control
-Always in your control
+Gardez le contrôle
 
 
 ;Want to customize what gets blocked? Your settings are only one click away.
@@ -181,47 +181,47 @@ When you enter your email address in Firefox Monitor, we forget it immediately a
 
 
 ;Check for breaches
-Check for breaches
+Vérifier les fuites de données
 
 
 ;The passwords and credentials you save in Firefox Lockwise are encrypted on all your devices, so not even we can see them.
-The passwords and credentials you save in Firefox Lockwise are encrypted on all your devices, so not even we can see them.
+Les mots de passe et identifiants que vous enregistrez dans Firefox Lockwise sont chiffrés sur tous vos appareils. Même nous ne pouvons pas les voir.
 
 
 # "Lockwise" is a proper name; it should be capitalized and should not be translated.
 ;Learn more about Lockwise
-Learn more about Lockwise
+En savoir plus sur Lockwise
 
 
 ;We can’t see the names or content of the large files you share through Firefox Send because they’re encrypted end-to-end — you choose who sees what you send, and you can even set an expiration date and password.
-We can’t see the names or content of the large files you share through Firefox Send because they’re encrypted end-to-end — you choose who sees what you send, and you can even set an expiration date and password.
+Ne nous voyons ni le nom ni le contenu des fichiers que vous partagez sur Firefox Send car ils sont chiffrés de bout en bout. C’est vous qui décidez qui peut accéder à ce que vous envoyez et vous pouvez même les protéger davantage avec un mot de passe et une date d’expiration.
 
 
 ;Send a file
-Send a file
+Envoyer un fichier
 
 
 ;Pocket recommends high-quality, human-curated articles without collecting your browsing history or sharing your personal information with advertisers.
-Pocket recommends high-quality, human-curated articles without collecting your browsing history or sharing your personal information with advertisers.
+Pocket recommande du contenu de grande qualité sélectionné avec soin, sans recueillir votre historique de navigation ni partager vos informations personnelles avec les annonceurs.
 
 
 ;Get Pocket
-Get Pocket
+Installer Pocket
 
 
 ;Your Firefox account
-Your Firefox account
+Votre compte Firefox
 
 
 ;All the information synced through your Firefox account — from browser history to passwords — is encrypted. And your account password is the only key.
-All the information synced through your Firefox account — from browser history to passwords — is encrypted. And your account password is the only key.
+Toutes les informations synchronisées via votre compte Firefox, de l’historique de navigation aux mots de passe, sont chiffrées. Votre mot de passe de compte est la seule clé.
 
 
 ;Take your privacy and bookmarks everywhere with a Firefox account.
-Take your privacy and bookmarks everywhere with a Firefox account.
+Emportez vos mots de passe vos marque-pages partout avec vous avec un compte Firefox.
 
 
 ;Already have an account? <a %(sign_in)s class="%(class_name)s">Sign In</a> or <a href="%(learn_more)s">learn more</a> about joining Firefox.
-Already have an account? <a %(sign_in)s class="%(class_name)s">Sign In</a> or <a href="%(learn_more)s">learn more</a> about joining Firefox.
+Vous avez déjà un compte ? <a %(sign_in)s class="%(class_name)s">Se connecter</a> ou <a href="%(learn_more)s">en savoir plus</a> à propos du compte Firefox.
 
 
