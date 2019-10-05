@@ -7,15 +7,15 @@ Built for those who build the Web. The only browser made for developers like you
 
 
 ;Firefox Quantum: Developer Edition
-Firefox Quantum: razvijateljsko izdanje
+Firefox Quantum: razvojno izdanje
 
 
 ;Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
-Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
+Stigao je tvoj novi omiljeni preglednik. Nabavi najnovije funkcije, brzu performansu i programerske alate koji su potrebni za izgradnju otvorenog weba.
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
-Firefox Developer Edition automatically sends feedback to Mozilla.
+Razvojno izdanje Firefoxa automatski šalje povratne informacije Mozilli.
 
 
 ;Faster Performance
@@ -66,7 +66,7 @@ Saznaj više o CSS mreži
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
-Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
+Firefox je jedini preglednik s alatima, izrađenima posebno za izgradnju i dizajn sa CSS mrežom. Ovi alati omogućuju vizualiziranje mreže, prikaz naziva područja u mreži, pregled transformacija u mreži i još mnogo toga.
 
 
 ;Convenient Features
@@ -151,12 +151,12 @@ Mreža
 
 
 ;Monitor network requests that can slow or block your site.
-Monitor network requests that can slow or block your site.
+Pregledaj mrežne zahtjeve koji mogu usporiti ili blokirati tvoju stranicu.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Network_Monitor
 ;Learn more about Network Monitor
-Learn more about Network Monitor
+Saznajte više o monitoringu mreže
 
 
 ;Storage panel
@@ -295,7 +295,7 @@ Download the Firefox browser made for developers
 
 # First run page at https://www.mozilla.org/firefox/57.0a2/firstrun/
 ;Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
-Firefox Developer Edition is the blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging
+Razvojno izdanje Firefoxa je najbrži preglednik koji nudi vrhunske programerske alate i najnovije funkcije poput podrške za CSS mrežu i uklanjanje grešaka radnog okruženja
 
 
 ;Welcome to the all-new Firefox Quantum: Developer Edition
@@ -333,7 +333,7 @@ Want to be on the cutting-edge?
 
 
 ;Firefox Nightly receives daily updates and allows you to access features months before they go mainstream.
-Firefox Nightly receives daily updates and allows you to access features months before they go mainstream.
+Firefox Nightly prima dnevna ažuriranja i omogućuje ti pristup funkcijama, mjesecima prije nego što su dostupni široj javnosti.
 
 
 ;Congrats. You now have Firefox Quantum: Developer Edition.

@@ -23,18 +23,18 @@ Preuzmi
 
 # This is displayed on firefox/beta/all/.
 ;Download Firefox Beta in your language and experience cutting edge features before they make it to final release. Provide feedback to help us refine and polish the next version of Firefox.
-Preuzmi Firefox Beta na svojem jeziku i iskusi najnovije značajke prije nego što se pojave u finalnom izdanju. Šalji nam tvoje mišljenje i opažanja kako bismo poboljšali sljedeću verziju Firefoxa.
+Preuzmi Firefox Beta na hrvatskom jeziku i iskusi najnovije funkcije prije nego što se pojave u finalnom izdanju. Pošalji nam tvoje mišljenje i opažanja kako bismo poboljšali sljedeću verziju Firefoxa.
 
 
 # %s is replaced with Firefox.
 # This is displayed on firefox/aurora/all/.
 ;Download %s in your language to experience the newest features and innovations in an unstable environment even before they go to Beta. Give us feedback that will determine what makes it to Final Release and help shape the future of Firefox.
-Preuzmite %s na svojem jeziku i iskusite najnovije značajke i inovacije u nestabilnom okruženju prije nego što se uopće pojave u Beta izdanju. Pružite povratne informacije kako bismo odredili što ostaje u finalnom izdanju te pomozite u izgradnji budućnosti Firefoxa.
+Preuzmi %s na hrvatskom jeziku i iskusi najnovije funkcije i inovacije u nestabilnom okruženju prije nego što se uopće pojave u beta izdanju. Pošalji nam tvoje mišljenje i opažanja kako bismo odredili što ostaje u finalnom izdanju te pomozi oblikovati budućnost Firefoxa.
 
 
 # This is displayed on firefox/nightly/all/.
 ;Are you a power-user comfortable installing pre-alpha software? Install Nightly and help us improve Firefox quality, hunt crashes and regressions and test new features as they get coded!
-Jeste li napredan korisnik koji se ne boji pre-alpha softvera? Instalirajte Nightly i pomognite nam u unapređenju Firefox kvalitete, potrazi za pogreškama i testiranju novih značajka!
+Ti si napredan korisnik, koji se ne boji pred-alpha softvera? Instaliraj Nightly i pomozi nam unaprijediti kvalitetu Firefoxa, tražiti greške i testirati nove funkcije!
 
 
 # This is displayed on firefox/organizations/all/
@@ -54,7 +54,7 @@ Firefox je u velikoj mjeri napravljen od strane volontera širom svijeta. Zato g
 
 # Product name is hard coded inside the product, thus not localizable.
 ;Firefox Developer Edition
-Firefox Developer Edition {ok}
+Razvojno izdanje Firefoxa
 
 
 # Product name is hard coded inside the product, thus not localizable.
@@ -98,7 +98,7 @@ Prevedene verzije u fazi testiranja
 
 
 ;These localizations aren’t final. We’re waiting for more feedback from the community to perfect them.
-Ovi prijevodi nisu finalni. Čekamo više povratnih informacija od zajednice kako bismo ih usavršili.
+Ovi prijevodi nisu finalni. Čekamo daljnje povratne informacije od zajednice, kako bismo ih usavršili.
 
 
 # Used in Android pages like /firefox/android/beta/all/
