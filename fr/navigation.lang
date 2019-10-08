@@ -22,7 +22,7 @@ Fermer le menu À propos
 
 
 ;Meet the technology company that puts people before profit.
-Découvrez l’entreprise high-tech qui place les personnes avant les profits.
+Découvrez l’entreprise tech qui place les personnes avant les profits.
 
 
 ;Leadership
@@ -50,19 +50,19 @@ Emplois
 
 
 ;Work for a mission-driven organization that builds purpose-driven products.
-Travaillez pour une organisation qui se donne pour mission de concevoir des produits qui répondent à des besoins.
+Travaillez pour une organisation qui se donne pour mission de concevoir des produits qui répondent à des vrais besoins.
 
 
 ;Get involved
-Impliquez-vous
+S’impliquer
 
 
 ;Join the fight for a healthy internet.
-Rejoignez le combat pour un Internet en bonne santé.
+Aidez-nous à lutter pour un Internet en bonne santé.
 
 
 ;Events
-Évènements
+Événements
 
 
 ;Donate
@@ -74,7 +74,7 @@ Le Manifeste Mozilla
 
 
 ;Your right to security and privacy on the internet is fundamental – never optional.
-Votre droit à la sécurité et à la vie privée sur Internet est fondamental – jamais facultatif.
+Votre droit à la sécurité et à la vie privée sur Internet est fondamental, jamais facultatif.
 
 
 ;Developers
@@ -99,7 +99,7 @@ Testez les fonctionnalités sur le point d’être publiées en utilisant la pr�
 
 
 ;Preview the latest build of Firefox and help us make it the best.
-Découvrez en avant-première la plus récente version de Firefox et aidez-nous à la peaufiner.
+Découvrez en avant-première la plus récente version de Firefox et aidez-nous à l’améliorer.
 
 
 ;Developer Innovations
@@ -107,7 +107,7 @@ Innovations pour les développeurs
 
 
 ;Projects that help keep the internet open and accessible for all.
-Des projets qui permettent de garder Internet ouvert et accessible à tous.
+Des projets qui permettent à Internet de rester ouvert et accessible à tous.
 
 
 ;Web Assembly
@@ -160,7 +160,7 @@ Fermer le menu Firefox
 
 
 ;Firefox Quantum Desktop Browser
-Navigateur Firefox Quantum pour ordinateur de bureau
+Navigateur Firefox Quantum pour ordinateur
 
 
 ;Get the browser that gives more power to you on Windows, macOS or Linux.
@@ -184,7 +184,7 @@ Assistance
 
 
 ;Privacy
-Vie privée
+Confidentialité
 
 
 ;Firefox Mobile Browsers
@@ -220,7 +220,7 @@ Pocket pour Firefox
 
 
 ;Save content. Absorb knowledge.
-Enregistrez le contenu. Faites ensuite l’acquisition de nouvelles connaissances.
+Enregistrez des contenus. Augmentez vos connaissances.
 
 
 ;Your Firefox Account
@@ -228,15 +228,15 @@ Votre compte Firefox
 
 
 ;Make the most of your Firefox experience, across every device.
-Tirez le meilleur parti de votre expérience Firefox, sur tous les appareils.
+Profitez au mieux de l’expérience Firefox, sur tous vos appareils.
 
 
 ;Firefox for Enterprise
-Firefox pour entreprise
+Firefox pour l’entreprise
 
 
 ;Same speed and safety you trust, designed just for business.
-La même vitesse et la même sécurité que vous attendez, conçues particulièrement pour les entreprises.
+La vitesse et la sécurité que vous attendez, conçues particulièrement pour les entreprises.
 
 
 ;Firefox for Fire TV
@@ -265,7 +265,7 @@ Fermer le menu Projets
 
 
 ;Donate your voice to help make voice recognition open to everyone.
-Donnez votre voix pour que la reconnaissance vocale soit ouverte à tous.
+Donnez de votre voix pour que la reconnaissance vocale soit ouverte à tous.
 
 
 ;Experience augmented and virtual reality with Firefox.
@@ -293,7 +293,7 @@ Mozilla WebVR {ok}
 
 
 ;Mozilla brings Firefox to augmented and virtual reality.
-Mozilla ouvre à Firefox la réalité augmentée et virtuelle.
+Mozilla apporte la réalité augmentée et virtuelle à Firefox.
 
 
 # CTA as in language selection
@@ -311,162 +311,162 @@ Découvrir les avantages
 
 
 ;Firefox Blog
-Firefox Blog
+Blog de Firefox
 
 
 ;Read about new Firefox features, and get tips for staying safer online.
-Read about new Firefox features, and get tips for staying safer online.
+Découvrez les nouvelles fonctionnalités de Firefox et obtenez des conseils pour rester plus en sécurité en ligne.
 
 
 ;The non-profit behind Firefox is fighting for a healthy internet for all.
-The non-profit behind Firefox is fighting for a healthy internet for all.
+La fondation à but non lucratif qui vous offre Firefox se bat pour un Internet sain pour tous.
 
 
 ;Learn how Firefox treats your data with respect.
-Learn how Firefox treats your data with respect.
+Découvrez comment Firefox traite vos données avec respect.
 
 
 ;Mozilla Careers
-Mozilla Careers
+Offres d’emploi chez Mozilla
 
 
 ;Approach your career with a sense of purpose. Find worthy work at Mozilla.
-Approach your career with a sense of purpose. Find worthy work at Mozilla.
+Abordez votre carrière avec détermination. Trouvez un travail enrichissant chez Mozilla.
 
 
 ;Browsers
-Browsers
+Navigateurs
 
 
 # Accessible label for the 'X' button that closes a menu
 ;Close Browsers menu
-Close Browsers menu
+Fermer le menu des navigateurs
 
 
 # please do not translate the product name "Firefox Browser"
 ;Firefox Browser for Desktop
-Firefox Browser for Desktop
+Navigateur Firefox pour ordinateur
 
 
 ;Get the browser that respects your privacy automatically. On Windows, macOS or Linux.
-Get the browser that respects your privacy automatically. On Windows, macOS or Linux.
+Obtenez le navigateur qui respecte votre vie privée automatiquement. Sous Windows, macOS ou Linux.
 
 
 # please do not translate the product name "Firefox Browser"
 ;Firefox Browser for Mobile
-Firefox Browser for Mobile
+Navigateur Firefox pour mobile
 
 
 ;Take speed, privacy and peace of mind with you. On Android and iOS.
-Take speed, privacy and peace of mind with you. On Android and iOS.
+Emportez avec vous vitesse, confidentialité et tranquillité d’esprit. Sur Android et iOS.
 
 
 # please do not translate the product name "Firefox Browser"
 ;Firefox Browser for Enterprise
-Firefox Browser for Enterprise
+Firefox pour l’entreprise
 
 
 ;Get unmatched data protection on the release cadence that suits your organization.
-Get unmatched data protection on the release cadence that suits your organization.
+Bénéficiez d’une protection des données sans égale avec la cadence de publication qui convient à votre organisation.
 
 
 # please do not translate the product name "Firefox Browser". "Goggles" is a reference to a VR headset.
 ;Strap on your goggles and step into the immersive web with Firefox Browser for VR.
-Strap on your goggles and step into the immersive web with Firefox Browser for VR.
+Enfilez vos casque et entrez dans le Web immersif avec le navigateur Firefox pour la réalité virtuelle.
 
 
 ;Made with respect
-Made with respect
+Créé avec respect
 
 
 ;Firefox browsers put your privacy first — and always have.
-Firefox browsers put your privacy first — and always have.
+Depuis toujours, les navigateurs Firefox mettent un point d’honneur à respecter votre vie privée.
 
 
 ;Join
-Join
+Rejoindre
 
 
 # Accessible label for the 'X' button that closes a menu
 ;Close Join menu
-Close Join menu
+Fermer le menu Rejoindre
 
 
 ;Join Firefox
-Join Firefox
+Rejoindre Firefox
 
 
 ;Access all of Firefox with a single login — and get more from every product when you do.
-Access all of Firefox with a single login — and get more from every product when you do.
+Accédez à tout Firefox avec un seul identifiant et profitez de toutes les fonctionnalités de nos produits.
 
 
 ;Sign In
-Sign In
+Connexion
 
 
 ;Benefits
-Benefits
+Avantages
 
 
 ;Meet the Firefox Family
-Meet the Firefox Family
+Découvrez la gamme de produits Firefox
 
 
 ;Protect your life online with a whole family of privacy-first products.
-Protect your life online with a whole family of privacy-first products.
+Protégez votre vie en ligne avec toute une gamme de produits qui respectent votre vie privée.
 
 
 ;Download for iOS
-Download for iOS
+Télécharger pour iOS
 
 
 ;Download for Android
-Download for Android
+Télécharger pour Android
 
 
 ;Sign Up
-Sign Up
+Créer un compte
 
 
 # Accessible label for the 'X' button that closes a menu
 ;Close Products menu
-Close Products menu
+Fermer le menu Produits
 
 
 ;Take the passwords you’ve saved in Firefox with you everywhere.
-Take the passwords you’ve saved in Firefox with you everywhere.
+Emportez partout avec vous les mots de passe que vous avez enregistrés dans Firefox.
 
 
 ;See if your personal info has been leaked online, and sign up for future breach alerts.
-See if your personal info has been leaked online, and sign up for future breach alerts.
+Vérifiez si vos informations personnelles ont été divulguées en ligne et inscrivez-vous pour recevoir de futures alertes.
 
 
 ;Check for Breaches
-Check for Breaches
+Vérifier les fuites de données
 
 
 ;See Breaches
-See Breaches
+Voir toutes les fuites de données
 
 
 ;Security Tips
-Security Tips
+Conseils de sécurité
 
 
 # 'self-destruct' is in single quotes to hint at an ironic meaning. The files are deleted automatically, they don't actually destroy themselves.
 ;Share large files safely, with links that ‘self-destruct’.
-Share large files safely, with links that ‘self-destruct’.
+Partagez des fichiers volumineux en toute sécurité, avec des liens qui « s’autodétruisent ».
 
 
 ;Save quality content from anywhere. Fuel your mind everywhere.
-Save quality content from anywhere. Fuel your mind everywhere.
+Enregistrez des contenus de qualité où que vous soyez. Enrichissez votre esprit en permanence.
 
 
 ;Connected and protected
-Connected and protected
+Connecté et protégé
 
 
 ;Firefox is a whole family of products designed to keep you safer and smarter online.
-Firefox is a whole family of products designed to keep you safer and smarter online.
+Firefox, c’est toute une gamme de produits conçus pour garantir votre sécurité et votre productivité en ligne.
 
 
