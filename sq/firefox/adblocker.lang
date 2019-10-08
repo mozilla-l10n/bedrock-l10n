@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/features/adblocker
 
 
@@ -61,7 +62,7 @@ Zgjidhni shkallën tuaj të mbrojtjes
 
 
 ;To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
-To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
+Për t’ia filluar, klikoni mbi menunë e Firefox-it në cepin e sipërm djathtas të ekranit tuaj. Ngjan me tre vija njëra sipër tjetrës. Te menuja hapmbyll, klikoni mbi Bllokim Lënde. Duhet t’ju shfaqet një flluskë blu me përzgjedhje të ndryshme.
 
 
 ;Go easy with Standard mode
@@ -69,7 +70,7 @@ Jini i butë, me mënyrën Standarde
 
 
 ;If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
-If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
+Nëse reklamat nuk ju bezdisin dhe nuk e keni problem t’ju ndjekin gjurmues dhe <em>cookie</em> palësh të treta, rregullimi Standard duhet t’ju bëjë punë. Për t’i hequr qafe gjurmuesit nën mënyrën Standard, përdorni një dritare <a href="%(url)s">Shfletimi Privat</a>.
 
 
 ;Get tough with Strict mode
@@ -77,7 +78,7 @@ Jini i ashpër, me mënyrën Strikte
 
 
 ;If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
-If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
+Nëse parja e shumë reklamave jua çon ditën dëm, atëherë mënyra Strikte ju shkon më shumë për shtat. Kjo mënyrë do të bllokojë në krejt dritaret Firefox gjurmues dhe <em>cookies</em> të njohura palësh të treta.
 
 
 ;Do-it-yourself Custom mode
@@ -85,7 +86,7 @@ Mënyrë Vetjake bëjeni-si-doni
 
 
 ;The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
-The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
+Rregullimi Vetjak ju lejon maksimumin e zgjedhjes. Mund të vendosni ç’të bllokohet, përfshi gjurmues, <em>cookies</em> dhe më tepër. Nëse lejoni <em>cookies</em> prej një sajti, automatikisht do të gjendeni nën mënyrën Vetjake.
 
 
 # ’Cover your trail’ means cover your browsing history.
@@ -94,19 +95,19 @@ Fshini gjurmët tuaja, bllokoni gjurmuesit
 
 
 ;Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
-Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
+Klikoni mbi kuadratin Gjurmues dhe do të jeni në gjendje t’i bllokoni gjurmuesit në dy mënyra. Një mënyrë bllokimi gjurmuesish është ta bëni teksa punoni në një Dritare Private. Një rrugë tjetër është të bllokohen gjurmuesit në krejt dritaret. Mbani parasysh se nëse zgjidhni të bllokohen përherë gjurmuesit, disa faqe mund të mos ngarkohen saktë.
 
 
 ;Take a bite out of cookies
-Take a bite out of cookies
+Përpijini <em>cookie</em>-t
 
 
 ;<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
-<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
+<a href="%(url)s">Cookies</a> dërgohen nga sajtet që vizitoni. Jetojnë në kompjuterin tuaj dhe mbikëqyrin çfarë bëni në një sajt. Kur një shoqëri fluturimesh rrit çmimet për ju, ngaqë keni parë një herë atë ditë bileta aeroplani, këtu ka gisht një <em>cookie</em>.
 
 
 ;In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
-In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
+Në Firefox mund të bllokoni krejt <em>cookies</em> palësh të treta ose vetëm ato të depozituara nga gjurmues. Mbani parasysh se bllokimi i krejt <em>cookie</em>-ve mund të dëmtojë funksionimin e disa sajteve.
 
 
 ;Send a Do Not Track signal
@@ -115,7 +116,7 @@ Dërgoni një sinjal Mos Më Gjurmoni
 
 # ’Thanks but no thanks’ here means to reject ads.
 ;If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
-If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
+Nëse s’doni që sjellja juaj internetore të përdoret për reklama, mund t’u dërgoni sajteve një letër politese “faleminderit, por jo, faleminderit” duke i vënë shenjë mundësisë <a href="%(url)s">Mos Më Gjurmoni</a> të Firefox-it. Pjesëmarrja është vullnetare, por sajtet pjesëmarrëse do të reshtin menjëherë së ndjekuri ju.
 
 
 ;Speed up thanks to ad blockers
@@ -123,11 +124,11 @@ Rritni shpejtësinë falë bllokuesve të reklamave
 
 
 ;In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
-In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
+Në disa raste, një bllokues reklamash mund ta ndihmojë shfletuesin tuaj të punojë më shpejt. Kur ngarkohet një reklamë, kjo mund të ngadalësojë një sajt. Në të njëjtën kohë, gjetja e diçkaje që po kërkoni mund të zgjasë më shumë, nëse jeni i zënë me mbylljen e reklamës së radhës.
 
 
 ;If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for Firefox and other browsers. If want to try out the ad blockers Firefox uses, <a href="%(url)s">click here to download</a> a browser that puts privacy first.
-If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for Firefox and other browsers. If want to try out the ad blockers Firefox uses, <a href="%(url)s">click here to download</a> a browser that puts privacy first.
+Nëse doni të mësoni më tepër rreth bllokimit të reklamave, ka me qindra zgjerime bllokuesish reklamash për Firefox-in dhe shfletues të tjerë. Nëse doni të provoni bllokuesit e reklamave që përdor Firefox-i, <a href="%(url)s">klikoni këtu që të shkarkoni</a> një shfletues që para së gjithash vë privatësinë.
 
 
 ;Take control of your browser.
