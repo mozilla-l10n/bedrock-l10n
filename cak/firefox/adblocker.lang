@@ -3,32 +3,32 @@
 
 # HTML page title
 ;How to block annoying ads using an ad blocker
-How to block annoying ads using an ad blocker
+Achike rub'eyal ye'awïl itzel taq eltzijol rik'in jun q'atöy eltzijol
 
 
 # HTML page description
 ;How to stop seeing too many ads and keep companies from following you around online. An ad blocker guide from the Firefox web browser.
-How to stop seeing too many ads and keep companies from following you around online. An ad blocker guide from the Firefox web browser.
+Achike rub'eyal man ye'atz'ët ta chik k'ïy taq eltzijol chuqa' ye'aq'ät ri ajk'ayij yatkojqaj pa k'amab'ey. Jun rucholajem chi kij q'atonela' eltzijol, richin ri Firefox ajk'amaya'l.
 
 
 ;The ad blocker – a secret weapon against annoying ads.
-The ad blocker – a secret weapon against annoying ads.
+El q'atoy eltzijol – jun ewan samajib'äl yeruq'ät itzel taq eltzijol.
 
 
 ;So many ads, so little patience… It’s time to stop the madness.
-So many ads, so little patience… It’s time to stop the madness.
+¿La man nawïl ta achike nab'än kik'in ri eltzijol? ramaj chik richin ye'aq'ät.
 
 
 ;The average person sees an average of 4,000 ads a day. If you think that’s too many, an ad blocker is your new best friend.
-The average person sees an average of 4,000 ads a day. If you think that’s too many, an ad blocker is your new best friend.
+Jun winäq yerutz'ët jun 4,000 eltzijol q'ij q'ij. We nana'ojij chi yalan k'ïy, xtiqa chawäch ri q'atöy taq eltzijol.
 
 
 ;An ad blocker is a piece of software that can be used to block ads, and they work in two ways. The first way is when an ad blocker blocks the signal from an advertiser’s server, so the ad never shows up on your page. Another way ad blockers work is by blocking out sections of a website that could be ads.
-An ad blocker is a piece of software that can be used to block ads, and they work in two ways. The first way is when an ad blocker blocks the signal from an advertiser’s server, so the ad never shows up on your page. Another way ad blockers work is by blocking out sections of a website that could be ads.
+Jun q'atöy eltzijol, jun kema' nokisäx richin niq'at kitzijik ri eltzijol, ka'i' rub'eyal nisamäj. Ri nab'ey, nuq'ät akuchi' nitikïr pe ri ruk'u'x eltzijol, richin man niq'alajin ta pe pa ri ruxaq. Ri jun chik yerelesaj ri taq peraj k'o eltzijol chi kipam.
 
 
 ;These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
-These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
+Re eltzijol re' rik'in jub'a' e silowäch yetararyax, yatrojqaj pa k'ïy ruxaq, ojqanela', taq kikuki aj rox winäq, chuqa' juley chik. Richin nawokisaj jun q'atöy, yatikïr ye'akanoj taq tz'aqat e k'o richin ri awokik'amaya'l. <a href="%(firefox)s">Firefox</a>, achi'el ri <a href="%(addons)s">ke'anik'oj re kitz'aqat taq q'atöy re'</a>. Tapitz'a' pa re rucholajem re' (o tacha' jun chik ri ütz chi re ri awokik'amaya'l) achike na ri awajowaxik.
 
 
 ;Find the right ad blocker for you
@@ -36,28 +36,28 @@ Tawila' ri ütz kiq'atb'al eltzijol
 
 
 ;There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
-There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
+K'o ri <a href="%(url)s">AdBlocker Ultimate</a> ri yerelesaj el konojel ri taq eltzijol, po jujun chi ke ri taq atalutzij chuqa' ch'uti talutzij e k'o ruma ri eltzijol. We k'ïy winaqi' yekiq'ät ri taq eltzijol k'o chupam, rik'in jub'a' nikitz'apij.
 
 
 ;Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
-Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
+ri elenel taq eltzijol yalan e itzel. Keq'at rik'in <a href="%(url)s">Popup Blocker</a> richin majub'ey xke'atz'ët chik kiwa.
 
 
 ;One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
-One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
+Jun jeb'ël q'atöy eltzijol ja ri <a href="%(url)s">AdBlock</a>, ütz richin Chrome, Safari chuqa' Firefox. Tawokisaj richin nawelesaj eltzijol pa Facebook, YouTube chuqa' Hulu.
 
 
 # A tracker-free zone means a no tracker zone.
 ;Create a tracker-free zone with Content Blocking
-Create a tracker-free zone with Content Blocking
+Tatz'uku jun k'ojlib'äl akuchi' majun ojaqanela' k'o rik'in ri Ruq'atik Rupam
 
 
 ;On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
-On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
+Pa Firefox yatikïr nawokisaj <a href="%(privacy)s">Ichinanem</a> o <a href="%(blocking)s">Ruq'atik Rupam</a> richin nachajij awi' chi kiwäch ri ojqanela' yekitäq chawe ri taq eltzijol.
 
 
 ;Choose your level of protection
-Choose your level of protection
+Tacha' ri runimilem achajinik
 
 
 ;To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
