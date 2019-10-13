@@ -3,7 +3,7 @@
 
 # HTML page title
 ;Get a Firefox Account – Keep your data private, safe and synced
-Get a Firefox Account – Keep your data private, safe and synced
+Firefox အကောင့်တစ်ခုရယူပါ။ သင်၏အချက်လက်ကို သီးသန့်ဖြစ်ပြီးလုံခြုံပါစေ
 
 
 # HTML page description
@@ -12,26 +12,26 @@ Securely sync your passwords, bookmarks and tabs across all your devices. Get a 
 
 
 ;Congrats! You’re using the latest version of Firefox.
-Congrats! You’re using the latest version of Firefox.
+ဂုဏ်ယူပါတယ်! သင်ဟာ Firefoxနောက်ဆုံးထွက် ကိုအသုံးပြုနေပြီး ဖြစ်ပါတယ်
 
 
 # Account signup shown when a user is NOT signed into a Firefox Account
 ;Get a Firefox Account and all the benefits it unlocks.
-Get a Firefox Account and all the benefits it unlocks.
+Firefoxအကောင့်ကိုရယူပြီး အကျိုးရလာဒ်များကိုရယူလိုက်ပါ
 
 
 # Newsletter signup shown when a user is signed into a Firefox Account
 ;Get the latest news from Mozilla and Firefox right in your inbox.
-Get the latest news from Mozilla and Firefox right in your inbox.
+Mozilla နှင့် Firefox မှနောက်ဆုံးသတင်းများကိုသင်၏ inbox ထဲမှရယူပါ။
 
 
 # "More power to you" is an American English idiom wishing someone success in their endeavors, and here is also a play on words saying Firefox gives users more power and control over their web experience. A more literal alternative would be "You have more power with every update"
 ;More power to you with every update
-More power to you with every update
+အဆင့်မြှင့်မှုတိုင်းနှင့်အတူ သင့်ကို စွမ်းအားမြင့်မားမှုပေးနေပါတယ်
 
 
 ;New to your browser
-New to your browser
+သင့်ဘရောက်ဇာအတွက်ဆန်းသစ်မှု
 
 
 # "upped" means increased or improved
@@ -40,12 +40,12 @@ Now you have the power to block video ads that autoplay when you open articles a
 
 
 ;Now with your Firefox Account
-Now with your Firefox Account
+ယခုသင့် Firefox အကောင့်သစ်ဖြင့်
 
 
 # "Lockbox" is a proper name; it should be capitalized and should not be translated.
 ;Take your passwords everywhere with Lockbox
-Take your passwords everywhere with Lockbox
+Lockbox ဖြင့်နေရာတိုင်း၌သင်၏စကားဝှက်များကိုယူပါ
 
 
 ;Securely access passwords you save to your Firefox Account from any device, everywhere you go – now available for both Android and iOS.
@@ -54,11 +54,11 @@ Securely access passwords you save to your Firefox Account from any device, ever
 
 # CTA button
 ;Get the Lockbox App
-Get the Lockbox App
+Lockbox အက်ပ်ကို ရယူပါ
 
 
 ;Put quality content in your Pocket
-Put quality content in your Pocket
+ကောင်းမွန်သော ဆောင်းပါးများကို သင့် Pocket တွင် ထားပါ
 
 
 ;Read the articles you care about anytime, anywhere (even offline). And try Pocket’s listen feature so you can absorb great content on the go.
@@ -67,7 +67,7 @@ Read the articles you care about anytime, anywhere (even offline). And try Pocke
 
 # CTA button
 ;Get the Pocket App
-Get the Pocket App
+Pocket အက်ပ်ကိုရယူပါ
 
 
 # "Monitor" is a proper name; it should be capitalized and should not be translated.
@@ -81,12 +81,12 @@ Find out if your information has been compromised by a data breach – and now y
 
 # CTA link points to https://monitor.firefox.com
 ;Check Out Monitor
-Check Out Monitor
+မော်နီတာကို စစ်ဆေးပါ
 
 
 # "Send" is a proper name; it should be capitalized and should not be translated.
 ;Share large files securely with Send
-Share large files securely with Send
+ကြီးမားသောဖိုင်များကို Send နှင့်လုံလုံခြုံခြုံမျှဝေပါ
 
 
 ;Use an encrypted link to safely share large files – up to 2.5GB with a Firefox Account. And you can set when your link expires, so your info doesn’t live in the cloud forever.
@@ -95,6 +95,6 @@ Use an encrypted link to safely share large files – up to 2.5GB with a Firefox
 
 # CTA link points to https://send.firefox.com
 ;Try Firefox Send
-Try Firefox Send
+Firefox Send ကို စမ်းသုံးကြည့်ပါ
 
 

@@ -16,7 +16,7 @@ Mozilla makes browsers, apps, code and tools that put people before profit.
 
 
 ;Our mission: Keep the internet open and accessible to all.
-Our mission: Keep the internet open and accessible to all.
+ကျွန်ုပ်တို့၏ရည်မှန်းချက် - အင်တာနက်အားပွင့်လင်းမြင်သာမှုရှိစေရန်နှင့်လူတိုင်းလက်လှမ်းမီစေရန်။
 
 
 # Link points to https://www.mozilla.org/mission/
@@ -25,7 +25,7 @@ Our mission: Keep the internet open and accessible to all.
 
 
 ;Our Mission in Action
-Our Mission in Action
+ကျွန်ုပ်တို့၏လုပ်ငန်းတာဝန်
 
 
 # Link points to https://www.mozilla.org/about/leadership/
@@ -57,7 +57,7 @@ When the Facebook breach was revealed, Mozilla had an immediate response – and
 
 # Link points to https://irlpodcast.org/
 ;Talking Internet Issues IRL
-Talking Internet Issues IRL
+Talking Internet Issues IRL {ok}
 
 
 ;In Mozilla’s IRL podcast, host Manoush Zomorodi shares real stories of life online and real talk about the future of the Web.
@@ -65,12 +65,12 @@ In Mozilla’s IRL podcast, host Manoush Zomorodi shares real stories of life on
 
 
 ;Corporation. Foundation. Not-for-profit.
-Corporation. Foundation. Not-for-profit.
+ကော်ပိုရေးရှင်း။ ဖောင်ဒေးရှင်း။ အကျိုးအမြတ်အတွက်မဟုတ်။
 
 
 # Link Points to https://foundation.mozilla.org/
 ;Learn about the Mozilla Foundation
-Learn about the Mozilla Foundation
+Mozilla Foundation အကြောင်းလေ့လာပါ
 
 
 ;Mozilla puts people over profit in everything we say, build and do. In fact, there’s a non-profit Foundation at the heart of our enterprise.
@@ -78,7 +78,7 @@ Mozilla puts people over profit in everything we say, build and do. In fact, the
 
 
 ;The Mozilla Manifesto
-The Mozilla Manifesto
+The Mozilla Manifesto {ok}
 
 
 ;The principles we wrote in 1998 still guide us today. And in 2018, we created an addendum to emphasize inclusion, privacy and safety for everyone online.
@@ -87,11 +87,11 @@ The principles we wrote in 1998 still guide us today. And in 2018, we created an
 
 # Link points to https://www.mozilla.org/about/manifesto/
 ;Read The Manifesto
-Read The Manifesto
+Manifesto ကိုဖတ်ပါ
 
 
 ;A Global View
-A Global View
+ကမ္ဘာလုံးဆိုင်ရာအမြင်
 
 
 # Link points to https://www.mozilla.org/contact/spaces/
@@ -101,7 +101,7 @@ With <a href="%(url)s">offices all over the world</a>, we consider the internet 
 
 # Link points to https://www.mozilla.org/contact/spaces/san-francisco/
 ;San Francisco
-San Francisco
+ဆန်ဖရန်စစ္စကို
 
 
 ;<strong>2000</strong> non-employee guests welcomed each year
@@ -173,6 +173,6 @@ Stay informed about the issues affecting the internet, and learn how you can get
 
 # CTA button
 ;Subscribe
-Subscribe
+စာရင်းသွင်းပါ
 
 

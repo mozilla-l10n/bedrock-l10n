@@ -16,7 +16,7 @@ Congrats! You’re using the latest version of Firefox.
 
 
 ;Get a Firefox Account and all the benefits it unlocks.
-Get a Firefox Account and all the benefits it unlocks.
+Firefoxအကောင့်ကိုရယူပြီး အကျိုးရလာဒ်များကိုရယူလိုက်ပါ
 
 
 ;Get tips to live your best online life right in your inbox.
@@ -54,7 +54,7 @@ Pocket အက်ပ်ကိုရယူပါ
 
 
 ;Pick up where you left off with Notes
-Pick up where you left off with Notes
+Notes နှင့်အတူ သင်ထွက်ခွာသွားသည့်နေရာကနေ စတင်အသုံးပြုပါ။
 
 
 ;Your ideas and inspiration are secure and encrypted with Notes – and when you’re signed into your Account, they sync from your desktop to your Android devices.
@@ -67,7 +67,7 @@ Notes အက်ပ်ကိုရယူပါ
 
 
 ;Take total control of the files you share
-Take total control of the files you share
+သင်မျှဝေထားသောဖိုင်များကိုလုံး၀ ထိန်းချုပ်နိုင်သည်
 
 
 ;Feel like a secret agent when you send files online, with a private, encrypted link that ‘self-destructs.’
@@ -76,7 +76,7 @@ Feel like a secret agent when you send files online, with a private, encrypted l
 
 # CTA button
 ;Try Firefox Send
-Try Firefox Send
+Firefox Send ကို စမ်းသုံးကြည့်ပါ
 
 
 # CTA: https://accounts.firefox.com/signup
@@ -85,7 +85,7 @@ Try Firefox Send
 
 
 ;Have an account? <a %s >Log in</a>
-Have an account? <a %s >Log in</a>
+အကောင့်ရှိလား? <a %s > ဝင်ရောက်ပါ </a>
 
 
 # This string is obsolete. Do not remove.

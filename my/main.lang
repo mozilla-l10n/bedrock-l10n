@@ -4,7 +4,7 @@
 
 # Footer link points to https://www.mozilla.org/privacy/websites/
 ;Website Privacy Notice
-Website Privacy Notice
+ဝဘ်ဆိုက်သီးသန့်လုံခြုံရေးသတိပေးချက်
 
 
 # Used for the navigation menu, points to /firefox/channel
@@ -78,7 +78,7 @@ Developer သုံးဗားရှင်း
 # A top menu navigation label that points to https://addons.mozilla.org/firefox/.
 # Will replace Add-ons once this string is localized.
 ;Extensions
-Extensions
+တိုးချဲ့ချက်များ
 
 
 ;Add-ons
@@ -761,12 +761,12 @@ Faster, more responsive and powerfully private. Check out the latest from the br
 
 # Used on Firefox Privacy Notice landing page
 ;Show Less
-Show Less
+ချုံ့ပြရန်
 
 
 # Used on Firefox Privacy Notice landing page
 ;Choose how you want to share this data in Firefox.
-Choose how you want to share this data in Firefox.
+ဤအချက်အလက်များကို Firefox တွင်မည်သို့မျှဝေလိုသည်ကိုရွေးချယ်ပါ။
 
 
 # The button opens Firefox preferences, in the Data section, to select your option
@@ -786,7 +786,7 @@ Choose how you want to share this data in Firefox.
 
 # Navigation link points to /firefox/developer
 ;Developer Hub
-Developer Hub
+Developer Hub {ok}
 
 
 # Naviation link points to https://research.mozilla.org
@@ -811,7 +811,7 @@ Developer Hub
 
 # Navigation link points to https://hacks.mozilla.org
 ;Hacks blog
-Hacks blog
+ဘလော့ဂ် Hacks
 
 
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!

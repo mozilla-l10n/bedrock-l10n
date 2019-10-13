@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/features/adblocker
 
 
@@ -102,11 +103,11 @@ Kusniśo do cookiejow
 
 
 ;<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
-<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
+<a href="%(url)s">Cookieje</a> se wót websedłow sćelu, ku kótarymž woglědujośo. Składuju se na wašom licadle a doglěduju, což na sedle gótujośo. Gaž lětaŕstwowe towaristwo płaśizny za was pówušujo, dokulaž sćo se na toś tom dnju tiket za lěśenje woglědał, jo to źěło cookieja.
 
 
 ;In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
-In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
+Móžośo we Firefox wšykne cookieje tśeśich póbitowarjow blokěrowaś, abo jano te, kótarež pśeslědowaki stajaju. Buźćo se wědobny, až blokěrowanje wšych cookiejow móžo někotare sedła wobškóźiś.
 
 
 ;Send a Do Not Track signal
@@ -115,7 +116,7 @@ Sćelśo signal Njeslědowaś
 
 # ’Thanks but no thanks’ here means to reject ads.
 ;If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
-If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
+Jolic njocośo, až se wašo zaźaržanje za wabjenje wužywa, móžośo nastajenje Firefox <a href="%(url)s">Njeslědowaś</a> zmóžniś, aby websedłam zdwórliwe „ně, źěkujom se“ pósłał. Wobźělenje jo dobrowólne, ale websedła, kótarež se wobźěluju, ned slědowanje skóńcyju.
 
 
 ;Speed up thanks to ad blockers
@@ -123,11 +124,11 @@ Malsnjejšy z pomocu wabjeńskich blokěrowakow
 
 
 ;In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
-In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
+W někotarych padach móžo blokěrowak wabjenja pomagaś, waš wobglědowak malsnjejšy cyniś. Gaž se wabjenje zacytajo, móžo se websedło spómałšyś. Rownocasnje trajo dlej, to namakaś, což pytaśo, jolic maśo pśewjele źěła, aby dalšne wabjenje zacynił.
 
 
 ;If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for Firefox and other browsers. If want to try out the ad blockers Firefox uses, <a href="%(url)s">click here to download</a> a browser that puts privacy first.
-If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for Firefox and other browsers. If want to try out the ad blockers Firefox uses, <a href="%(url)s">click here to download</a> a browser that puts privacy first.
+Jolic cośo wěcej wó blokěrowanju wabjenja zgóniś, su sta rozšyrjenjow za blokěrowanje wabjenja za Firefox a druge wobglědowaki k dispoziciji. Jolic cośo wabjeńske blokěrowaki wopytaś, kótarež Firefox wužywa, <a href="%(url)s">klikniśo how, aby wobglědowak ześěgnuł</a>, za kótaryž priwatnosć jo na prědnem městnje.
 
 
 ;Take control of your browser.

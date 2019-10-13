@@ -29,7 +29,7 @@ Firefox respects <span>your privacy on Mac.</span>
 
 # /firefox/linux/ main page title.
 ;Firefox for Linux
-Firefox for Linux
+Linux အတွက် Firefox
 
 
 ;The new <strong>Firefox</strong>
@@ -41,7 +41,7 @@ Firefox for Linux
 
 
 ;Fast for good.
-Fast for good.
+မြန်လေကောင်းလေ
 
 
 # Link points to /firefox/new/?scene=2
@@ -152,7 +152,7 @@ Get informative tips, tricks and product announcements delivered to your inbox.
 
 
 ;How will Mozilla use my email?
-How will Mozilla use my email?
+Mozilla ကကျွန်တော့်အီးမေးလ်ကိုဘယ်လိုသုံးမလဲ။
 
 
 ;Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
@@ -160,11 +160,11 @@ Mozilla doesn’t just value your email privacy and security – it’s part of 
 
 
 ;What we want you to know:
-What we want you to know:
+သင့်ကိုသိစေချင်သောအရာ:
 
 
 ;You don’t need to give us your email to download and use Firefox.
-You don’t need to give us your email to download and use Firefox.
+Firefox ကိုဒေါင်းလုတ် လုပ်၍ အသုံးပြုရန်သင့်အီးမေးကိုမလိုအပ်ပါ။
 
 
 ;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
@@ -176,11 +176,11 @@ You can expect emails designed to help you optimize Firefox to work best for you
 
 
 ;You can unsubscribe anytime, for any reason.
-You can unsubscribe anytime, for any reason.
+မည်သည့်အကြောင်းပြချက်ဖြင့်မဆိုအချိန်မရွေးစာရင်းသွင်းမှုရပ်တန့်နိုင်သည်။
 
 
 ;We will not share, sell or use your email for any other purposes.
-We will not share, sell or use your email for any other purposes.
+ကျွန်ုပ်တို့သည်သင်၏အီးမေးလ်ကိုအခြားရည်ရွယ်ချက်များအတွက်မျှဝေခြင်း၊ ရောင်းချခြင်းသို့မဟုတ်အသုံးပြုခြင်းမပြုပါ။
 
 
 ;Let’s do this!
@@ -188,22 +188,22 @@ We will not share, sell or use your email for any other purposes.
 
 
 ;Sync up with Firefox on mobile:
-Sync up with Firefox on mobile:
+မိုဘိုင်းတွင် Firefox ဖြင့်တပြေးညီရယူ:
 
 
 # /firefox/windows/ HTML page title
 ;Download Mozilla Firefox for Windows
-Download Mozilla Firefox for Windows
+Windows အတွက် Mozilla Firefox ကို download လုပ်ပါ
 
 
 # /firefox/mac/ HTML page title
 ;Download Mozilla Firefox for Mac
-Download Mozilla Firefox for Mac
+Mac အတွက် Mozilla Firefox ကို download လုပ်ပါ
 
 
 # /firefox/linux/ HTML page title
 ;Download Mozilla Firefox for Linux
-Download Mozilla Firefox for Linux
+Linux အတွက် Mozilla Firefox ကို download လုပ်ပါ
 
 
 # HTML page title prefix
@@ -275,15 +275,15 @@ Faster page loading, less memory usage and packed with features, the new Firefox
 
 
 ;Privacy comes first
-Privacy comes first
+ကိုယ်ရေးလုံခြုံမှုကို ဦးစားပေးတယ်
 
 
 ;Privacy - more than a policy
-Privacy - more than a policy
+သီးသန့်တည်ရှိမှု - မူဝါဒထက်ပိုသည်
 
 
 ;2x Faster
-2x Faster
+နှစ်ဆပိုမိုမြန်ဆန်
 
 
 ;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
@@ -303,7 +303,7 @@ Your life, your business. Firefox blocks third-party tracking cookies on Linux.
 
 
 ;Common sense privacy
-Common sense privacy
+အဓိပ္ပာယ်ပြည့်ဝသောကိုယ်ရေးလုံခြုံမှု
 
 
 ;Lightweight
@@ -355,7 +355,7 @@ Easy migration of preferences and bookmarks when you download Firefox for Window
 
 
 ;Private Browsing with Tracking Protection
-Private Browsing with Tracking Protection
+ခြေရာခံကာကွယ်မှုပါဝင်သော လုံခြုံစွာ ဝဘ်ဆိုက်ကြည့်ရှုခြင်း
 
 
 # String is obsolete. Do not remove.
@@ -396,6 +396,6 @@ Firefox အကောင့်များအကြောင်းကို လ�
 
 # Old firstrun page
 ;Chart your own course
-Chart your own course
+သင့်ကိုယ်ပိုင်သင်တန်းကိုဇယားဆွဲပါ
 
 

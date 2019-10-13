@@ -12,7 +12,7 @@ At Mozilla we respect and protect your personal information.
 
 
 ;We Stand for People Over Profit.
-We Stand for People Over Profit.
+ကျွန်ုပ်တို့သည် လူတိုင်းအတွက် အကျိုးအမြတ်ကိုမကြည့်ဘဲရပ်တည်ပေးသည်
 
 
 # "Under the hood" is an expression in automobile industry. Here it is a metaphor about something that exists but out of sight, behind the scenes.
@@ -54,7 +54,7 @@ Firefox, the web browser that runs on your device or computer, is your gateway t
 
 
 ;Really, you don’t collect my browsing history?
-Really, you don’t collect my browsing history?
+တကယ်တော့မင်းငါ့ရဲ့ browsing history ကိုမစုဆောင်းဘူးလား?
 
 
 # Links to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
@@ -67,11 +67,11 @@ It seems like every company on the web is buying and selling my data. You’re p
 
 
 ;Mozilla doesn’t sell data about you, and we don’t buy data about you.
-Mozilla doesn’t sell data about you, and we don’t buy data about you.
+Mozilla သည်သင့်အချက်အလက်များကိုမရောင်းချပါ၊ ကျွန်ုပ်တို့သည်သင့်အချက်အလက်များကိုမဝယ်ယူပါ။
 
 
 ;Wait, so how do you make money?
-Wait, so how do you make money?
+ဒါဆိုသင်ဘယ်လိုငွေရှာမလဲ?
 
 
 # Links to https://www.mozilla.org/foundation/annualreport/
@@ -112,7 +112,7 @@ The second is what we call "interaction data." This is data about an individual'
 
 
 ;Do you collect more data in pre-release versions of Firefox?
-Do you collect more data in pre-release versions of Firefox?
+များစွာသောအချက်အလက်များကို Firefox ၏ဗားရှင်းတွင်သင်စုဆောင်းမလား။
 
 
 ;Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
@@ -137,7 +137,7 @@ If we don’t know how the browser is performing or which features people use, w
 
 
 ;Data collection still bugs me. Can I turn it off?
-Data collection still bugs me. Can I turn it off?
+အချက်အလက်စုဆောင်းမှုသည်ကျွန်ုပ်ကိုပြဿနာဖြစ်စေနိုင်သည်။ ပိတ်လို့ရမလား။
 
 
 # First URL links to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
@@ -147,7 +147,7 @@ Yes. User control is one of our data privacy principles. We put that into practi
 
 
 ;What about my account data?
-What about my account data?
+ကျွန်ုပ်အကောင့်အချက်အလက်များရော?
 
 
 ;We are big believers of data minimization and not asking for things we don't need.
@@ -155,12 +155,12 @@ We are big believers of data minimization and not asking for things we don't nee
 
 
 ;You don't need an account to use Firefox. <a href="%(accounts)s">Accounts</a> are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
-You don't need an account to use Firefox. <a href="%(accounts)s">Accounts</a> are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
+သင် Firefox အသုံးပြုရန်အကောင့်မလိုအပ်ပါ။ ကိရိယာများမှဒေတာများကိုတစ်ပြိုင်တည်းချိန်ကိုက်ရန်<a href="%(accounts)s">အကောင့်များ</a>လိုအပ်သော်လည်းအီးမေးလ်လိပ်စာတစ်ခုသာတောင်းခံပါမည်။ သင်၏အမည်၊ လိပ်စာ၊ မွေးနေ့နှင့်ဖုန်းနံပါတ်စသည်တို့ကိုမလိုအပ်ပါ။
 
 
 # String is obsolete. Do not remove.
 ;You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
-You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
+သင် Firefox အသုံးပြုရန်အကောင့်မလိုအပ်ပါ။ ကိရိယာများမှဒေတာများကိုတစ်ပြိုင်တည်းချိန်ကိုက်ရန်အကောင့်များလိုအပ်သော်လည်းအီးမေးလ်လိပ်စာတစ်ခုသာတောင်းခံပါမည်။ သင်၏အမည်၊ လိပ်စာ၊ မွေးနေ့နှင့်ဖုန်းနံပါတ်စသည်တို့ကိုမလိုအပ်ပါ။
 
 
 ;You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
@@ -168,7 +168,7 @@ You use digital advertising as part of your marketing mix. Do you buy people's d
 
 
 ;No, we do not buy people's data to target advertising.
-No, we do not buy people's data to target advertising.
+ကျွန်ုပ်တို့သည်ကြော်ငြာကိုပစ်မှတ်ထားရန်လူများ၏အချက်အလက်များကိုရယူခြင်းမဟုတ်ပါ။
 
 
 ;We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
@@ -176,7 +176,7 @@ We do ask our advertising partners to use only first party data that websites an
 
 
 ;Well, it seems like you really have my back on this privacy stuff.
-Well, it seems like you really have my back on this privacy stuff.
+သင့်ကိုယ်ပိုင်လုံခြုံမှုကိစ္စရပ်များနှင့်ပတ်သက်၍ကျွန်ုပ်တို့နောက်ကွယ်မှရပ်တည်ပေးနိုင်ပါတယ်
 
 
 ;Yes, we do.

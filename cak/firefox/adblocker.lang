@@ -61,61 +61,61 @@ Tacha' ri runimilem achajinik
 
 
 ;To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
-To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
+Richin nitikirisäx, tapitz'a' pa ri ruk'utsamaj Firefox, pa ri rajsik rajkiq'a' rutz'ik ruwäch. Akuchi' yewachin oxi' juch' kiwarab'en ki'. Pa ri k'utsamaj niq'alajin, tacha' Ruq'atik Rupam. K'o ta chi natz'ët jun elenel xar kajtz'ik rik'in jalajoj taq cha'oj.
 
 
 ;Go easy with Standard mode
-Go easy with Standard mode
+Eqal tab'ana' rik'in ri pa Rub'eyal b'anikil
 
 
 ;If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
-If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
+We majun nub'än chawe ri eltzijol chuqa' man naya' ta rejqalem achi'el ojqanela' chuqa' taq kikuki aj rox winäq nikiya' retal ri rub'i' awäch, xtik'atzin chawe ri Pa Rub'eyal cha'oj. Richin man yatkojqaj ta chik, pa ri pa Rub'eyal rub'anikil tawokisaj jun rutzuwäch <a href="%(url)s">Ichinan Okik'amaya'l</a>.
 
 
 ;Get tough with Strict mode
-Get tough with Strict mode
+Jikïl kak'oje' rik'in ri Jikïl rub'anikil
 
 
 ;If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
-If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
+Wi ri eltzijol nutz'ila' ri aq'ij, rik'in ri Jikïl rub'anikil yatrutzilaj. Re rub'anikil re' yeruq'ät ri ojqanela' chuqa' ri taq kikuki aj rox winäq, ri etaman kiwäch pa ronojel rutzuwäch Firefox.
 
 
 ;Do-it-yourself Custom mode
-Do-it-yourself Custom mode
+Ja rat kab'ano rik'in ri Ichinan rub'anikil
 
 
 ;The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
-The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
+Ri Ichinan rub'anikil yeruya' chawäch ronojel ri taq karta chuwa ri ch'atal. Chi ri' natz'ët achike naq'ät, achi'el ojqanela', taq kuki chuqa' ch'aqa' chik. We naya' q'ij chi jun ruxaq nrokisaj  kuki, at k'o chik pan Ichinan rub'anikil.
 
 
 # ’Cover your trail’ means cover your browsing history.
 ;Cover your trail, block trackers
-Cover your trail, block trackers
+Takuchu' ri retal ruwi' aq'a', ke'aq'ata' ri ojqanela'
 
 
 ;Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
-Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
+Tapitz'a' pa ri Ojqanela' kajtz'ik, ri xke'aq'ät pa ka'i' rub'anikil. Jun ye'aq'ät toq nawokisaj ri ichinan okik'amaya'l. Jun chik toq nib'an pa ronojel tzuwäch. Tawetamaj chi we nacha' chi jantape' xke'aq'ät, rik'in jub'a' jujun taq ruxaq man pa rub'eyal ta yesamäj.
 
 
 ;Take a bite out of cookies
-Take a bite out of cookies
+Ke'ab'a' ri taq kuki
 
 
 ;<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
-<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
+Ri taq ruxaq ye'atz'ët yekitäq <a href="%(url)s">Taq Kuki</a> chawe. Re taq yakb'äl e k'o pa ri awokik'amaya'l chuqa' nikinik'oj achike nab'än pa jujun ruxaq. Toq jun ajsik'ach'ich' nujotob'a' kajil chawäch ruma chijun q'ij xatz'ët kajil kiwujil, ri ri' rusamaj jun kuki.
 
 
 ;In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
-In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
+Ri Firefox nuya' q'ij chawe richin ye'aq'ät ronojel ri taq kikuki aj rox winäq o xa xe ri yekijikib'a' ri ojqanela'. Tanataj chi toq ye'aq'ät ri taq kuki, xtub'än chi rik'in jub'a' jujun taq ruxaq man xkesamäj ta.
 
 
 ;Send a Do Not Track signal
-Send a Do Not Track signal
+Tataqa' jun etal richin Mani Ojqanem
 
 
 # ’Thanks but no thanks’ here means to reject ads.
 ;If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
-If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
+We man nawajo' ta chi ri nab'än pa k'amab'ey tokisäx richin eltzijol, yatikïr natäq chi ke ri ruxaq “Matyox po mani matyox” rik'in ri cha'oj <a href="%(url)s">Mani Ojqanem</a> rucha'oj Firefox. Man tojel ta ri to'ïk, po ri jujun taq ruxaq ajk'amaya'l ri yeto'on man xkatkojqaj ta.
 
 
 ;Speed up thanks to ad blockers
