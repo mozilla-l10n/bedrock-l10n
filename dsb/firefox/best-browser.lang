@@ -76,11 +76,11 @@ Wósebnje wěsty wobglědowak měł rědy póbitowaś, kótarež wam pomagaju, s
 
 
 ;Firefox is offering something new to keep you safe: <a href="%(monitor)s">Firefox Monitor</a>. It’s a free service that will alert you if there are any public hacks on your accounts and let you know if your accounts got hacked in the past. Another neat feature is the Green Lock. It looks like a small green icon at the top left side of the browser window. If you’re on Firefox and see the green lock, it means the website is encrypted and secure. If the lock is grey, you might want to think twice about entering any sensitive information.
-Firefox is offering something new to keep you safe: <a href="%(monitor)s">Firefox Monitor</a>. It’s a free service that will alert you if there are any public hacks on your accounts and let you know if your accounts got hacked in the past. Another neat feature is the Green Lock. It looks like a small green icon at the top left side of the browser window. If you’re on Firefox and see the green lock, it means the website is encrypted and secure. If the lock is grey, you might want to think twice about entering any sensitive information.
+Firefox něco nowego bitujo, aby was wěsty źaržał: <a href="%(monitor)s">Firefox Monitor</a>. Jo dermotna słužba, kótaraž wam k wěsći dajo, lěc su někake zjawne datowe źěry we wašych kontach a informěrujo, lěc su se zadobyli južo w zachadnosći do wašych kontow. Druga spódobna funkcija jo zelene pytko. Wuglěda ako mały zeleny symbol górjejce nalěwo we woknje wobglědowaka. Jolic z Firefox źěłaśo, a wiźiśo zelene pytko, to groni, až websedło jo skoděrowane a wěste. Jolic pytko jo šere, pśemyslujśo se snaź dwójcy, lěc sensibelne informacije zapódaśo.
 
 
 ;We visit hundreds or even thousands of websites each day, and you can’t expect users to make security and privacy decisions for each of these sites. That is why a browser that gives you more control is so important - because it offers real, meaningful protection.
-We visit hundreds or even thousands of websites each day, and you can’t expect users to make security and privacy decisions for each of these sites. That is why a browser that gives you more control is so important - because it offers real, meaningful protection.
+Woglědujomy se k stam abo samo tysacam websedłow kuždy źeń, a njamóžośo wótcakowaś, až wužywarje za kužde z toś tych sedłow wó wěstośe a priwatnosći rozsuźuju. Togodla jo wobglědowak, kótaryž wam wěcej kontrole dawa, tak wažny - dokulaž napšawdny, wuznamny šćit bitujo.
 
 
 ;A browser that minds its business.
@@ -88,7 +88,7 @@ Wobglědowak,, kótaryž se wó swóje nastupnosći stara.
 
 
 ;Privacy on the web is a hot button issue. If privacy is number one on your list of priorities, you want to look for a browser that takes that seriously. When choosing the best private browser for you, look at the tracking policy and how a browser handles your data. These seem like technical questions, but they’re the reason some browsers are more private than others.
-Privacy on the web is a hot button issue. If privacy is number one on your list of priorities, you want to look for a browser that takes that seriously. When choosing the best private browser for you, look at the tracking policy and how a browser handles your data. These seem like technical questions, but they’re the reason some browsers are more private than others.
+Priwatnosć we webje jo wažna tema. Jolic jo priwatnosć za was na prědnem městnje, sćo wěsće na wobglědowaku zajmowany, kótaryž to serioznje měni. Aby se nejlěpšy priwatny wobglědowak za was wubrał, źiwajśo na slědowańske směrnice a na to, kak wobglědowak z wašymi datami wobchada. To drje wjelgin techniski klincy, ale jo pśicyna, až někotare wobglědowaki su priwatnjejše ako druge.
 
 
 ;Trackers are all those annoying “cookies” messages you get on airline sites. These third-party trackers know where you click and can be used to analyze your behavior. A private browser should give users the option to turn off third-party trackers, but ideally, turn them off by default.
