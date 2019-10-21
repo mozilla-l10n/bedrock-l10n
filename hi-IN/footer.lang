@@ -4,19 +4,19 @@
 
 
 ;Developers
-Developers
+डेवलपर
 
 
 ;Company
-Company
+संगठन
 
 
 ;Careers
-Careers
+करियर
 
 
 ;Test New Features
-Test New Features
+नई सुविधाओं का परीक्षण करें
 
 
 ;MDN Web Docs
@@ -24,31 +24,31 @@ MDN Web Docs
 
 
 ;Tools
-Tools
+औज़ार
 
 
 ;Resources
-Resources
+संसाधन
 
 
 ;Contact
-Contact
+संपर्क
 
 
 ;Product Help
-Product Help
+उत्पाद सहायता
 
 
 ;Support
-Support
+सहयोग
 
 
 ;File a Bug
-File a Bug
+त्रुटि दर्ज करें
 
 
 ;Community Participation Guidelines
-Community Participation Guidelines
+सामुदायिक भागीदारी दिशानिर्देश
 
 
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
@@ -56,50 +56,50 @@ Portions of this content are ©1998–%(current_year)s by individual mozilla.org
 
 
 ;Press
-Press
+प्रेस
 
 
 # Link to https://mozilla.design
 ;Brand Standards
-Brand Standards
+ब्रांड मानक
 
 
 ;Browsers
-Browsers
+ब्राउज़र
 
 
 ;Enterprise
-Enterprise
+उद्यम
 
 
 ;Products
-Products
+उत्पाद
 
 
 ;Join
-Join
+शामिल हों
 
 
 ;Sign Up
-Sign Up
+साइन अप करें
 
 
 ;Sign In
-Sign In
+साइन इन करें
 
 
 ;Benefits
-Benefits
+लाभ
 
 
 # please do not translate the product name Beta
 ;Beta for Android
-Beta for Android
+Android के लिए बीटा
 
 
 # please do not translate the product name Nightly
 ;Nightly for Android
-Nightly for Android
+एंड्रॉइड के लिए Nightly
 
 
 ;Visit <a %(moco_link)s>Mozilla Corporation’s</a> not-for-profit parent, the <a %(mofo_link)s>Mozilla Foundation</a>.
