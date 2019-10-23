@@ -4,6 +4,9 @@
 ## firefox_new_try_again_link_020818 ##
 ## firefox_quantum_new_headline ##
 ## firstrun_email_only_form ##
+## fxnew_account_032019 ##
+## platform_strings_04232019 ##
+## truly_removal_2019 ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/new/
 
 
@@ -25,17 +28,17 @@ Firefoxen aurreargitalpen bertsio bat darabilzu.
 
 # /firefox/windows/ main page title. Span is for visually formatting.
 ;Firefox fights for you <span>on Windows.</span>
-Firefox fights for you <span>on Windows.</span>
+Firefoxek zure alde borroka egiten du <span>Windowsen.</span>
 
 
 # /firefox/mac/ main page title. Span is for visually formatting.
 ;Firefox respects <span>your privacy on Mac.</span>
-Firefox respects <span>your privacy on Mac.</span>
+Firefoxek <span>pribatutasuna errespetatzen du Mac-ean.</span>
 
 
 # /firefox/linux/ main page title.
 ;Firefox for Linux
-Firefox for Linux
+Linuxerako Firefox
 
 
 ;The new <strong>Firefox</strong>
@@ -43,7 +46,7 @@ Firefox for Linux
 
 
 ;Own your online life.
-Own your online life.
+Izan zure online bizitzaren jabe.
 
 
 ;Fast for good.
@@ -78,7 +81,7 @@ Instalatzeko aukera aurreratuak eta beste plataformak
 
 # Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings?
 ;Fix a problem
-Fix a problem
+Konpondu arazo bat
 
 
 ;Keep up with<br> all things Firefox.
@@ -102,27 +105,27 @@ Deskargatu Firefox <span>Linuxerako</span>
 
 # The phrase “Now get everything else Firefox” is in specific reference to a Firefox account, which unlocks access to all our new products and services.
 ;You’ve already got the Firefox browser. Now get everything else Firefox.
-You’ve already got the Firefox browser. Now get everything else Firefox.
+Dagoeneko Firefox nabigatzailea darabilzu. Orain lortu gainontzeko Firefox guztia.
 
 
 ;Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
-Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
+Sinkronizatu laster-markak, bidali fitxak, gorde Pocket-era eta gehiago Firefox kontuarekin.
 
 
 ;Get a Firefox Account
-Get a Firefox Account
+Sortu Firefox kontua
 
 
 ;Already have an account?
-Already have an account?
+Dagoeneko baduzu kontu bat?
 
 
 ;Sign In
-Sign In
+Hasi saioa
 
 
 ;Download Anyway
-Download Anyway
+Deskargatu hala ere
 
 
 # Link points to /firefox/all/
@@ -199,17 +202,17 @@ Sinkronizatu Firefox mugikorrarekin:
 
 # /firefox/windows/ HTML page title
 ;Download Mozilla Firefox for Windows
-Download Mozilla Firefox for Windows
+Deskargatu Mozilla Firefox Windowserako
 
 
 # /firefox/mac/ HTML page title
 ;Download Mozilla Firefox for Mac
-Download Mozilla Firefox for Mac
+Deskargatu Mozilla Firefox Mac-erako
 
 
 # /firefox/linux/ HTML page title
 ;Download Mozilla Firefox for Linux
-Download Mozilla Firefox for Linux
+Deskargatu Mozilla Firefox Linuxerako
 
 
 # HTML page title prefix
@@ -224,17 +227,17 @@ Doako web-nabigatzailea
 
 # /firefox/windows/ HTML page description
 ;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
-Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+Deskargatu Mozilla Firefox Windowserako, web nabigatzaile librea. Firefox irabazi-asmorik gabeko erakunde global batek sortzen du norbanakoei online kontrola emateko. Eskuratu Firefox Windowserako orain!
 
 
 # /firefox/mac/ HTML page description
 ;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
-Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+Deskargatu Mozilla Firefox Mac-erako, web nabigatzaile librea. Firefox irabazi-asmorik gabeko erakunde global batek sortzen du norbanakoei online kontrola emateko. Eskuratu Firefox Mac-erako orain!
 
 
 # /firefox/linux/ HTML page description
 ;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
-Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+Deskargatu Mozilla Firefox Linuxerako, web nabigatzaile librea. Firefox irabazi-asmorik gabeko erakunde global batek sortzen du norbanakoei online kontrola emateko. Eskuratu Firefox Linuxerako orain!
 
 
 # HTML page description
@@ -244,17 +247,17 @@ Deskargatu Mozilla Firefox, web-nabigatzaile librea. Firefox norbanakoei online 
 
 # /firefox/windows/ social sharing title
 ;Download the fastest Firefox for Windows ever
-Download the fastest Firefox for Windows ever
+Deskargatu Windowserako inoiz izan den Firefoxik bizkorrena
 
 
 # /firefox/mac/ social sharing title
 ;Download the fastest Firefox for Mac ever
-Download the fastest Firefox for Mac ever
+Deskargatu Mac-erako inoiz izan den Firefoxik bizkorrena
 
 
 # /firefox/linux/ social sharing title
 ;Download the fastest Firefox for Linux ever
-Download the fastest Firefox for Linux ever
+Deskargatu Linuxerako inoiz izan den Firefoxik bizkorrena
 
 
 ;Download the fastest Firefox ever
@@ -263,17 +266,17 @@ Deskargatu inoizko Firefoxik bizkorrena
 
 # /firefox/windows/ social sharing description
 ;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
-Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+Orrien karga bizkorragoa, memoria-erabilera txikiagoa eta eginbidez betea. Windowserako Firefox berria hemen da.
 
 
 # /firefox/mac/ social sharing description
 ;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
-Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+Orrien karga bizkorragoa, memoria-erabilera txikiagoa eta eginbidez betea. Mac-erako Firefox berria hemen da.
 
 
 # /firefox/linux/ social sharing description
 ;Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
-Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+Orrien karga bizkorragoa, memoria-erabilera txikiagoa eta eginbidez betea. Linuxerako Firefox berria hemen da.
 
 
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
@@ -281,11 +284,11 @@ Orrien karga bizkorragoa, memoria-erabilera txikiagoa eta eginbidez betea. Firef
 
 
 ;Privacy comes first
-Privacy comes first
+Pribatutasuna aurrena
 
 
 ;Privacy - more than a policy
-Privacy - more than a policy
+Pribatutasuna - politika bat baino gehiago
 
 
 ;2x Faster
@@ -293,15 +296,15 @@ Privacy - more than a policy
 
 
 ;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
-Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+Firefoxek ez zaitu espiatzen bilaketak egitean. Jarraipendun hirugarrengoen cookieak gelditzen ditugu eta erabateko kontrola ematen dizugu.
 
 
 ;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
-Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+Firefox bizkorra da eta zure datuak kontuz tratatzen ditu - jarraipendun iragarkirik eta moteltzerik gabe.
 
 
 ;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
-Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+Zure bizitza, zure kontua. Firefoxek hirugarrengoen jarraipendun cookieak blokeatzen ditu Linuxen.
 
 
 ;The best Firefox ever
@@ -309,7 +312,7 @@ Inoizko Firefoxik onena
 
 
 ;Common sense privacy
-Common sense privacy
+Zentzuzko pribatutasuna
 
 
 ;Lightweight
@@ -317,15 +320,15 @@ Arina
 
 
 ;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
-Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+Lortu abiadura eta segurtasuna. Firefox bizkorra da Mac-ean, ez baititu zure mugimenduak jarraitzen.
 
 
 ;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
-Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+Bizi zure bizitza, Firefox ez dabil begira. Aukeratu zer partekatu nahi duzun, eta noiz.
 
 
 ;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
-Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+Abiadura eta segurtasuna bat eginik. Firefox bi aldiz bizkorragoa da, Chrome baino %30 memoria gutxiago erabilita.
 
 
 ;Uses 30% less memory than Chrome
@@ -333,15 +336,15 @@ Chromek baino %30 memoria gutxiago darabil
 
 
 ;Block trackers
-Block trackers
+Blokeatu jarraipen-elementuak
 
 
 ;Open source
-Open source
+Kode irekikoa
 
 
 ;Seamless setup
-Seamless setup
+Arazorik gabeko instalazioa
 
 
 ;Powerfully private
@@ -349,19 +352,19 @@ Pribatutasun boteretsua
 
 
 ;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
-Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+Izan zure domeinuan agintzen duena, edukien blokeatze zorrotzarekin. Geldiarazi cookie eta jarraipen-elementu guztiak.
 
 
 ;Look under the hood. Like Linux, Firefox features are open source.
-Look under the hood. Like Linux, Firefox features are open source.
+Begiratu gure tripetan. Linux bezala, Firefoxen eginbideak ere kode irekikoak dira.
 
 
 ;Easy migration of preferences and bookmarks when you download Firefox for Windows.
-Easy migration of preferences and bookmarks when you download Firefox for Windows.
+Hobespen eta laster-marken migratze erraza Windowserako Firefox deskargatzean.
 
 
 ;Private Browsing with Tracking Protection
-Private Browsing with Tracking Protection
+Nabigatze pribatua jarraipenaren aurkako babesarekin
 
 
 # String is obsolete. Do not remove.
