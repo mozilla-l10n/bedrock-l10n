@@ -3,7 +3,7 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 ;Download the Firefox Browser in English (US) and more than 90 other languages
-Nādunïnj Firefox a'min si nuguàn' ra'ñan'an (US) nī a'ngô 90 nuguan' huāa
+Download the Firefox Browser in English (US) and more than 90 other languages
 
 
 # HTML page description, also used as the introductory text.
@@ -20,11 +20,11 @@ Check the system requirements
 
 
 ;Release notes
-Nuguan’ huā rayi’î bersiûn
+Release notes
 
 
 ;Source code
-Código fuente
+Source code
 
 
 ;Firefox Privacy Notice
@@ -32,7 +32,7 @@ Firefox Privacy Notice
 
 
 ;Need help?
-Hua sa rugûñu’ūnj ñûnj sò’ aj?
+Need help?
 
 
 ;Which browser would you like to download?
@@ -61,7 +61,7 @@ Platform:
 
 
 ;Language:
-Nânj a'min':
+Language:
 
 
 ;Sorry, we couldn’t find the download you’re looking for. Please try again, or select a download from the list below.
@@ -69,11 +69,11 @@ Sorry, we couldn’t find the download you’re looking for. Please try again, o
 
 
 ;Download Now
-Nādunïnj hìaj
+Download Now
 
 
 ;Menu
-Menû
+Menu
 
 
 ;The standard Firefox browser — fast and private. If you’re not sure which Firefox to choose, choose this.
@@ -138,6 +138,6 @@ Select your preferred language
 
 # %(product_label)s is replaced with the product name e.g "Firefox", %(platform)s with the platform name e.g. "Windows", and %(locale)s with the language name e.g. "German".
 ;Download %(product_label)s for %(platform)s in %(locale)s
-Nādunïnj %(product_label)s guendâ %(platform)s riña %(locale)s
+Download %(product_label)s for %(platform)s in %(locale)s
 
 
