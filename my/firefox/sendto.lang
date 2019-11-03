@@ -1,4 +1,5 @@
 ## active ##
+## sendto_updates_bug1395342 ##
 ## NOTE: Demo page at https://www-dev.allizom.org/styleguide/docs/send-to-device/
 ## NOTE: Add ?geo=us to the URL (https://www-dev.allizom.org/styleguide/docs/send-to-device/) to display the SMS strings.
 
@@ -12,7 +13,7 @@ Firefox အား သင့် မိုဘိုင်းဖုန်း နှ
 
 
 ;Sorry, we can’t send SMS messages to this phone number.
-Sorry, we can’t send SMS messages to this phone number.
+ဝမ်းနည်းပါသည်၊ ဤဖုန်းနံပါတ်သို့ကျွန်ုပ်တို့စာတိုပို့ခြင်းမပြုနိုင်ပါ။
 
 
 # Obsolete string, do not remove
@@ -58,7 +59,7 @@ OS ရွေးပါ
 
 
 ;SMS service available in select countries only. SMS &amp; data rates may apply.
-SMS service available in select countries only. SMS &amp; data rates may apply.
+ရွေးချယ်ထားသောနိုင်ငံများတွင်သာ SMS ဝန်ဆောင်မှုကိုရရှိနိုင်သည်။ SMS & amp; ဒေတာနှုန်းထားများလျှောက်ထားနိုင်ပါသည်။
 
 
 # Obsolete string, do not remove

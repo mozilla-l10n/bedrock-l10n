@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/features/adblocker
 
 
@@ -94,7 +95,7 @@ Firefox वर आपण <a href="%(privacy)s">गोपनीयता</a> क�
 
 
 ;Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
-Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.
+ट्रॅकर डब्या वर क्लीक करा आणि आपण दोन प्रकारे ट्रॅकर अडवू शकाल. खाजगी विंडो मध्ये काम करत असताना अडवणे हा एक प्रकार. दुसरा प्रकार म्हणजे सर्व विंडो मध्ये ट्रॅकर अडवणे. लक्षात ठेवा, आपण जर नेहमीसाठी ट्रॅकर अडवायचे ठरवले तर काही पृष्ठे व्यवस्थित लोड होणार नाहीत.
 
 
 ;Take a bite out of cookies
@@ -102,11 +103,11 @@ Click on the Trackers box and you’ll be able to block trackers in two ways. On
 
 
 ;<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
-<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
+आपण भेट दिलेल्या संकेतस्थळाकडून <a href="%(url)s">कुकीज</a> पाठवल्या जातात. त्या तुमच्या संगणकात राहतात आणि साईट वर तुम्ही काय करताय हे पाहतात. जेव्हा एखादी विमान वाहतूक कंपनी तुम्ही त्या दिवशी आधी पाहिलेल्या तिकीटाची किंमत एक्दम वाढवते, तेव्हा ती कुकीजची हातचलाखी असते.
 
 
 ;In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
-In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
+FIrefox मध्ये आपण सर्व तृतीयपक्षीय किंवा फक्त ट्रॅकरने बसवलेल्या कुकीज अडवू शकता. सर्व कुकीज अडवल्या तर काही साईट व्यवस्थित काम करत नाहीत हे लक्षात राहू द्या.
 
 
 ;Send a Do Not Track signal
@@ -115,7 +116,7 @@ In Firefox, you can block all third-party cookies or just those set by trackers.
 
 # ’Thanks but no thanks’ here means to reject ads.
 ;If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
-If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
+आपले ऑनलाईन वर्तन जाहिरातींसाठी वापरू द्यायचे नसेल तर आपण FIrefox मध्ये <a href="%(url)s">ट्रॅक करू नका</a> हा पर्याय निवडून संकेतस्थळांना “धन्यवाद, पण नको” असे विनम्र पत्र पाठवू शकता. सहभाग ऐच्छिक आहे पण ज्या साईट सहभाग घेतात त्या आपल्याला ट्रॅक करणे त्वरित थांबवतात.
 
 
 ;Speed up thanks to ad blockers
@@ -123,11 +124,11 @@ If you don’t want your online behavior used for ads, you can send websites a p
 
 
 ;In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
-In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
+काही प्रकरणांमध्ये अॉड ब्लॉकर आपल्या ब्राउझर ला जलद चालण्यास मदत करेल. अॉड लोड होताना ती संकेतस्थळाला संथ करते. त्याच वेळी जर आपण इतर अॉड बंद करण्यात व्यस्त असाल तर आपल्याला हे हवे ते मिळण्यास उशीर होतो.
 
 
 ;If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for Firefox and other browsers. If want to try out the ad blockers Firefox uses, <a href="%(url)s">click here to download</a> a browser that puts privacy first.
-If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for Firefox and other browsers. If want to try out the ad blockers Firefox uses, <a href="%(url)s">click here to download</a> a browser that puts privacy first.
+जर आपल्याला अॉड ब्लॉकिंग बद्दल अधिक जाणायचे असेल तर, Firefox आणि इतर ब्राउझर साठी शेकडो अॉड ब्लॉकर विस्तार उपलब्ध आहेत. जर FIrefox वापरतो तो अॉड ब्लॉकर वापरून पाहायचा असेल तर, <a href="%(url)s">इथे क्लिक करून</a> गोपनीयतेला प्रथम ठेवणारा ब्राउझर डाउनलोड करा.
 
 
 ;Take control of your browser.

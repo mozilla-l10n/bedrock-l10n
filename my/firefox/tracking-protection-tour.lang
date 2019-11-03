@@ -1,6 +1,7 @@
 ## active ##
 ## tp_tour_firefox_201601 ##
 ## tp_tour_firefox_201602 ##
+## tp_tour_firefox_201809 ##
 ## NOTE: demo server available at https://www-dev.allizom.org/firefox/65.0/content-blocking/start/
 ## NOTE: demo server variable 2: https://www-dev.allizom.org/firefox/65.0/content-blocking/start/?variation=2
 ## NOTE: see testing instructions here https://bugzilla.mozilla.org/show_bug.cgi?id=1511420#c7
@@ -78,11 +79,11 @@ If content blocking prevents you from using a site you trust, you can select “
 
 
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable For This Session.”
-It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable For This Session.”
+သင် ၀ဘ်ဆိုဒ်အတွက်ခြေရာခံကာကွယ်ခြင်းကိုဖွင့်ရန်လွယ်ကူသည်။ “ ဤအပိုင်းအတွက်ပိတ်ခြင်း” ကိုသာရွေးပါ။
 
 
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable For This Site.”
-It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable For This Site.”
+သင် ၀ဘ်ဆိုဒ်အတွက်ခြေရာခံကာကွယ်ခြင်းကိုဖွင့်ရန်လွယ်ကူသည်။ “ ဆိုက်အတွက်ပိတ်ခြင်း” ကိုသာရွေးပါ။
 
 
 ;It’s easy to turn off Tracking Protection for the website you’re on by clicking “Disable protection for this site.”
@@ -154,12 +155,12 @@ Firefox အကြောင်းအရာပိတ်ဆို့ခြင်း
 
 
 ;To restore content blocking for a site, select “Turn on Blocking for This Site.“
-To restore content blocking for a site, select “Turn on Blocking for This Site.“
+ဆိုက်တစ်ခုအတွက်အကြောင်းအရာပိတ်ဆို့ခြင်းကိုပြန်ယူရန်“ ဤဆိုက်အတွက်ပိတ်ဆို့ခြင်းကိုဖွင့်ပါ” ကိုရွေးချယ်ပါ။
 
 
 # String is obsolete. Do not remove.
 ;To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
-To restore content blocking for a site, select “Enable Blocking For This Site“ in the Control Center panel.
+ဆိုက်တစ်ခုအတွက်အကြောင်းအရာပိတ်ဆို့ခြင်းကိုပြန်ယူရန်ထိန်းချုပ်စင်တာအပိုင်းတွင်“ ဤဆိုက်အတွက်ပိတ်ဆို့ခြင်းကိုဖွင့်ပါ” ကိုရွေးချယ်ပါ။
 
 
 ;Content Blocking
@@ -167,7 +168,7 @@ To restore content blocking for a site, select “Enable Blocking For This Site�
 
 
 ;Content blocking can keep parts of pages or entire pages from loading.
-Content blocking can keep parts of pages or entire pages from loading.
+အကြောင်းအရာပိတ်ဆို့ခြင်းသည်စာမျက်နှာများ၏တစ်စိတ်တစ်ပိုင်းသို့မဟုတ်စာမျက်နှာတစ်ခုလုံးကိုတင်ခြင်းမှတားဆီးနိုင်သည်။
 
 
 # String is obsolete, do not remove
@@ -201,11 +202,11 @@ If content blocking prevents you from using a site you trust, you can select “
 
 # HTML page title
 ;Choose the independent browser
-Choose the independent browser
+သင်လွတ်လပ်စွာသုံးနိုင်သည့်ဘရောက်ဇာအားရွေးပါ
 
 
 # HTML page description
 ;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
-Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefoxသည် စီးပွားရေးဆိုင်ရာ​ အကျိုးအမြတ်ရယူခြင်းကင်းပါသည်။ Firefoxအားရွေးချယ် ခြင်းသည်ဘရောက်ဇာ တစ်ခုအားရွေးချယ်ခြင်းသာမက တစ်ကိုယ်ရေ လွတ်လပ်မှု ကိုပါရယူခြင်းဖြစ်သည်။
 
 

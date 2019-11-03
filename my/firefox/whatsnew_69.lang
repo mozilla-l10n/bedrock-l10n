@@ -3,7 +3,7 @@
 
 # HTML title. Firefox Monitor should remain in English as a product name.
 ;Firefox Monitor — see if you’ve been in another company’s data breach
-Firefox Monitor — see if you’ve been in another company’s data breach
+Firefox Monitor - အခြားကုမ္ပဏီ၏အချက်အလက်ချိုးဖောက်မှုတွင်သင်ပါဝင်သည်ကိုကြည့်ပါ
 
 
 # HTML description. Firefox Monitor should remain in English as a product name.
@@ -32,7 +32,7 @@ Monitor အတွက်စာရင်းသွင်းပါ
 
 # Page headline for account holders. Firefox Monitor should remain in English as a product name.
 ;Have you checked out Firefox Monitor? It’s included with your Firefox account.
-Have you checked out Firefox Monitor? It’s included with your Firefox account.
+Firefox Monitor ကိုကြည့်ပြီးပြီလား။ သင်၏ Firefox အကောင့်တွင်ပါဝင်သည်။
 
 
 ;Sign In
@@ -40,7 +40,7 @@ Have you checked out Firefox Monitor? It’s included with your Firefox account.
 
 
 ;Your Firefox Browser now automatically blocks online snoopers
-Your Firefox Browser now automatically blocks online snoopers
+သင့် Firefox Browser သည်အွန်လိုင်းချောင်းကြည့်သူများကိုအလိုအလျောက်ပိတ်ဆို့ထားသည်
 
 
 ;Now it’s harder than ever for spying companies to track you online. That’s because Enhanced Tracking Protection — a feature that blocks known tracking cookies — is on by default in your updated browser.
@@ -63,6 +63,6 @@ Pocket အက်ပ်ကိုရယူပါ
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+Firefox ဘရောက်ဇာအသစ်များအကြောင်းသိစေရန် <a href="%(notes)s"> နောက်ဆုံးပေါ်ထွက်ရှိသောစာစုများ</a> ကိုဖတ်ပါ။
 
 

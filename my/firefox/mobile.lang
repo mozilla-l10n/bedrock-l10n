@@ -56,7 +56,7 @@ Firefox Focus {ok}
 
 
 ;Automatic ad blocking and tracking protection on an easy-to-use private browser.
-Automatic ad blocking and tracking protection on an easy-to-use private browser.
+အလိုအလျောက်ကြော်ငြာပိတ်ဆို့ခြင်းနှင့်ခြေရာခံမှုကာကာကွယ်ထားသောအသုံးပြုလွယ်သည့်ကိုယ်ပိုင်ဘရောက်ဇာ
 
 
 # This should be 'Firefox Klar' for German
@@ -65,7 +65,7 @@ Firefox Focus ကို ရယူပါ
 
 
 ;The full-featured version of Firefox with robust customization and privacy options ready to go for mobile and tablet.
-The full-featured version of Firefox with robust customization and privacy options ready to go for mobile and tablet.
+မိုဘိုင်းနှင့်တက်ဘလက်များအတွက်အဆင်သင့်ဖြစ်သောကြံ့ခိုင်သောစိတ်ကြိုက်ပြင်ဆင်ခြင်းနှင့်သီးသန့်တည်ရှိမှုများပါ၀င်သည့် Firefox ဗားရှင်းအပြည့်အစုံ။
 
 
 ;Firefox mobile
@@ -105,11 +105,11 @@ Firefox ကိုသင့်စက်ပစ္စည်းအားလုံး
 
 
 ;Easy access to your favorite bookmarks, saved passwords, browsing history and more.
-Easy access to your favorite bookmarks, saved passwords, browsing history and more.
+သင်ကြိုက်နှစ်သက်သောစာမှတ်များ၊ သိမ်းဆည်းထားသောစကားဝှက်များ၊ ရှာဖွေမှတ်တမ်းများနှင့်အခြားအရာများကိုလွယ်ကူစွာရယူနိုင်သည်။
 
 
 ;Send Tabs easily lets you share open tabs between mobile and desktop.
-Send Tabs easily lets you share open tabs between mobile and desktop.
+Send Tabs ကမိုဘိုင်းနဲ့ desktop ကြားမှာဖွင့်ထားတဲ့ tabs တွေကိုလွယ်ကူစွာမျှဝေနိုင်ပါတယ်။
 
 
 ;Control what you share online with the most powerful Private Browsing mode with added Tracking Protection.
@@ -121,12 +121,12 @@ Control what you share online with the most powerful Private Browsing mode with 
 
 
 ;Won’t remember your browsing history or save cookies after you’re done.
-Won’t remember your browsing history or save cookies after you’re done.
+သင်၏ ရှာဖွေမှတ်တမ်းများကိုမှတ်မိခြင်းသို့မဟုတ်သင်ပြီးသည်နှင့် ကွတ်ကီးများကိုသိမ်းဆည်းခြင်းမပြုပါနှင့်။
 
 
 # Links to https://disconnect.me/
 ;Built-in tracking protection and block lists provided by <a href="%(url)s">Disconnect</a>.
-Built-in tracking protection and block lists provided by <a href="%(url)s">Disconnect</a>.
+<a href="%(url)s">ဆက်သွယ်မှုပြတ်တောက်ခြင်း</a>မှပံ့ပိုးထားသော ကနဦးပါခြေရာခံကာကွယ်ခြင်းနှင့်ပိတ်ထားသောစာရင်းများ။
 
 
 ;Extensions & Customization
@@ -142,7 +142,7 @@ Break out of the browser box. From emojis to productivity tools, personalize Fir
 
 
 ;Choose from thousands of tools like ad blockers, video downloaders and password managers.
-Choose from thousands of tools like ad blockers, video downloaders and password managers.
+ကြော်ငြာပိတ်ဆို့ခြင်းများ၊ ဗွီဒီယိုဆွဲယူသူများနှင့်စကားဝှက်စီမံမှုများကဲ့သို့သောကိရိယာများမှရွေးချယ်ပါ။
 
 
 ;Themes
@@ -150,7 +150,7 @@ Choose from thousands of tools like ad blockers, video downloaders and password 
 
 
 ;Match Firefox to your mood. Get a new look from our theme categories or create your own.
-Match Firefox to your mood. Get a new look from our theme categories or create your own.
+Firefox ကိုသင့်စိတ်အခြေအနေနှင့်ကိုက်ညီပါစေ။ ကျွန်ုပ်တို့၏အဓိကအကြောင်းအရာအမျိုးအစားမှအသစ်တစ်ခုကိုရယူပါသို့မဟုတ်သင်၏ကိုယ်ပိုင်ဖန်တီးပါ။
 
 
 ;Blocks ads with trackers. Automatically. Plus, it can even speed up page loading. Get the private browser that has your back.
@@ -175,7 +175,7 @@ Blocks ads with trackers. Automatically. Plus, it can even speed up page loading
 
 
 ;Browse stress free. Powerful privacy features are always on and your browsing history is wiped after every session.
-Browse stress free. Powerful privacy features are always on and your browsing history is wiped after every session.
+လွတ်လပ်စွာရှာဖွေပါ။ အားကောင်းသောလုံခြုံမှုပေးသည်လုပ်ဆောင်များအမြဲတမ်းရှိနေပြီးသင်ရဲ့ ရှာဖွေမှတ်တမ်းများဟာ session တစ်ခုပြီးတိုင်းပျောက်သွားမည်။
 
 
 ;Automatically blocks ads that have sneaky hidden trackers that collect data.

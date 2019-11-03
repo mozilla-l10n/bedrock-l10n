@@ -19,12 +19,12 @@
 
 # /firefox/windows/ main page title. Span is for visually formatting.
 ;Firefox fights for you <span>on Windows.</span>
-Firefox fights for you <span>on Windows.</span>
+Firefoxမှ <span>Windowsပေါ်တွင်</span>သင့်ကိုကာကွယ်ပေးသည်။
 
 
 # /firefox/mac/ main page title. Span is for visually formatting.
 ;Firefox respects <span>your privacy on Mac.</span>
-Firefox respects <span>your privacy on Mac.</span>
+Firefoxမှ <span>Macပေါ်တွင်သင့်ကိုယ်ရေးကိုယ်တာ</span>ကိုလေးစားကာကွယ်ပေးသည်။
 
 
 # /firefox/linux/ main page title.
@@ -131,20 +131,20 @@ Firefoxအကောင့် ရယူပါ
 
 
 ;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+သင့်ဆွဲချမှုသည်အလိုအလျောက်စတင်သင့်သည်။ အလုပ်မလုပ်ဘူးလား <a id="%(id)s" href="%(fallback_url)s"> ထပ်မံဒေါင်းလုပ်ရယူရန်ကြိုးစားပါ </a> ။
 
 
 # Obsolete string, DO NOT REMOVE
 ;Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
-Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="%(fallback_url)s">click here</a>.
+သင့်ဆွဲချမှုသည်အလိုအလျောက်စတင်သင့်သည်။ အလုပ်မလုပ်ဘူးလား <a id="%(id)s" href="%(fallback_url)s"> ဒီကိုနှိပ်ပါ။ </a>
 
 
 ;Learn how to make Firefox even smarter, faster and more secure.
-Learn how to make Firefox even smarter, faster and more secure.
+ပိုမိုမြန်ဆန်လုံခြုံစိတ်ချရသောFirefox မည်သို့ပြုလုပ်ပုံကိုလေ့လာပါ။
 
 
 ;Get informative tips, tricks and product announcements delivered to your inbox.
-Get informative tips, tricks and product announcements delivered to your inbox.
+သင့်inboxထဲသို့သတင်းအချက်အလက်သိကောင်းစရာများ၊ လှည့်ကွက်များနှင့်ထုတ်ကုန်ကြေငြာချက်များကိုရယူပါ။
 
 
 ;Enter your email address
@@ -218,17 +218,17 @@ Firefox ကို ရယူပါ
 
 # /firefox/windows/ HTML page description
 ;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
-Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+Firefoxသည်အကျိုးအမြတ်ကိုမမျှော်ကိုးသောအဖွဲ့အစည်းဖြစ်ပြီးအွန်လိုင်းပေါ်တွင်ခြေရာခံမှုများကာကွယ်ထိန်းချုပ်ပေးသည်။ထို့ကြောင့် Windows အတွက် Mozilla Firefox ကို ယနေ့ပဲ ဆွဲချယူပါ။
 
 
 # /firefox/mac/ HTML page description
 ;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
-Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+Firefoxသည်အကျိုးအမြတ်ကိုမမျှော်ကိုးသောအဖွဲ့အစည်းဖြစ်ပြီးအွန်လိုင်းပေါ်တွင်ခြေရာခံမှုများကာကွယ်ထိန်းချုပ်ပေးသည်။ထို့ကြောင့် Mac အတွက် Mozilla Firefox ကို ယနေ့ပဲ ဆွဲချယူပါ။
 
 
 # /firefox/linux/ HTML page description
 ;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
-Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+Firefoxသည်အကျိုးအမြတ်ကိုမမျှော်ကိုးသောအဖွဲ့အစည်းဖြစ်ပြီးအွန်လိုင်းပေါ်တွင်ခြေရာခံမှုများကာကွယ်ထိန်းချုပ်ပေးသည်။ထို့ကြောင့် Linux အတွက် Mozilla Firefox ကို ယနေ့ပဲ ဆွဲချယူပါ။
 
 
 # HTML page description
@@ -291,11 +291,11 @@ Firefox doesn’t spy on searches. We stop third-party tracking cookies and give
 
 
 ;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
-Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
+Firefox သည်မြန်ဆန်စွာလုပ်နိုင်ပြီးသင်၏အချက်အလက်များကိုဂရုစိုက်ခြင်းနှင့်အတူ - ကြော်ငြာခြေရာခံခြင်းနှင့်နှေးကွေးခြင်းမရှိပါ။
 
 
 ;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
-Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+သင့်အတွက် Firefox သည် အခြားနောက်ယောင်ခံကွတ်ကီးများကို Linux ပေါ်တွင်ပိတ်ဆို့ထားသည်။
 
 
 ;The best Firefox ever
@@ -311,11 +311,11 @@ Your life, your business. Firefox blocks third-party tracking cookies on Linux.
 
 
 ;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
-Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+မြန်နှုန်းနှင့်လုံခြုံရေးရယူပါ။ သင်၏လှုပ်ရှားမှုများကိုကျွန်ုပ်တို့ခြေရာမလိုက်သောကြောင့် Firefox သည် Mac ပေါ်တွင်မြန်သည်။
 
 
 ;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
-Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+သင့်ဘဝကိုနေထိုင်ပါ၊ Firefox သည်စောင့်ကြည့်နေခြင်းမဟုတ်ပါ။ မည်သည့်အရာကိုဝေမျှရမည်၊ မည်သည့်အချိန်တွင်ဝေမျှမည်ကိုရွေးချယ်ပါ။
 
 
 ;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
@@ -343,11 +343,11 @@ Chrome ထက်မန်မိုရီကို 30% လျှော့သု�
 
 
 ;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
-Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+တင်းကျပ်သောအကြောင်းအရာများကိုပိတ်ဆို့ခြင်းဖြင့်သင့်ဒိုမိန်း၏မာစတာဖြစ်ရန် ကွတ်ကီးများနှင့်ခြေရာခံများအားဖြတ်တောက်ပါ။
 
 
 ;Look under the hood. Like Linux, Firefox features are open source.
-Look under the hood. Like Linux, Firefox features are open source.
+Linux ကဲ့သို့ Firefox ၏လုပ်ဆောင်ချက်များသည် open source ဖြစ်သည်။
 
 
 ;Easy migration of preferences and bookmarks when you download Firefox for Windows.
@@ -360,7 +360,7 @@ Easy migration of preferences and bookmarks when you download Firefox for Window
 
 # String is obsolete. Do not remove.
 ;Truly Private Browsing with Tracking Protection
-Truly Private Browsing with Tracking Protection
+ခြေရာခံကာကွယ်မှုပါဝင်သောလုံခြုံစွာ ဝဘ်ဆိုက်ကြည့်ရှုခြင်း
 
 
 # These strings are used in /firstrun, e.g. https://www-dev.allizom.org/firefox/56.0/firstrun/
