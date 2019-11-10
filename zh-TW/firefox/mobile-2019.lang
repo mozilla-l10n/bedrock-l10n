@@ -1,117 +1,118 @@
+## active ##
 ## NOTE: demo page available at https://bedrock-demo-errolyn.oregon-b.moz.works/firefox/mobile/
 
 
 # HTML page title
 ;Download the Firefox Browser on your Mobile for iOS and Android
-Download the Firefox Browser on your Mobile for iOS and Android
+在 iOS 或 Android 行動裝置下載 Firefox 瀏覽器
 
 
 # Page discription
 ;Firefox Browser for Mobile blocks over 2000 trackers by default, giving you the privacy you deserve and the speed you need in a private mobile browser.
-Firefox Browser for Mobile blocks over 2000 trackers by default, giving you the privacy you deserve and the speed you need in a private mobile browser.
+Firefox 瀏覽器行動版預設會封鎖超過 2000 種追蹤器，讓您一次獲得應有的隱私保護與高速上網體驗。
 
 
 # HTML alternative page title
 ;Get the mobile browser built for you, not advertisers
-Get the mobile browser built for you, not advertisers
+使用全心為您，而不是廣告商所打造的行動瀏覽器
 
 
 # Page alternative discription
 ;Check out Firefox again. It’s fast, private and on your side. For iOS and Android.
-Check out Firefox again. It’s fast, private and on your side. For iOS and Android.
+再試試看 Firefox，變得更快、更保護隱私，而且全力挺你。適用於 iOS 及 Android 平台。
 
 
 # Main hero header
 ;Get automatic privacy on mobile
-Get automatic privacy on mobile
+在手機上也自動開啟隱私保護功能
 
 
 # Main hero discription
 ;Super fast. Private by default. Blocks 2000+ online trackers.
-Super fast. Private by default. Blocks 2000+ online trackers.
+超級快、預設就保護隱私、封鎖超過 2000 組線上追蹤器。
 
 
 # CTA button
 ;Download on the App Store
-Download on the App Store
+到 App Store 下載
 
 
 # Opens a modal with conditional content.
 ;Get Firefox Mobile
-Get Firefox Mobile
+下載 Firefox Mobile
 
 
 ;Block online trackers and invasive ads
-Block online trackers and invasive ads
+防止網路上的追蹤器與侵入式廣告
 
 
 ;Privacy protection by default
-Privacy protection by default
+預設開啟隱私保護
 
 
 # Contains a link to https://www.mozilla.org/firefox/features/private-browsing/
 ;Leave no trace with <a href="%s">Private Browsing mode</a>. When you close out, your history and cookies are deleted.
-Leave no trace with <a href="%s">Private Browsing mode</a>. When you close out, your history and cookies are deleted.
+使用<a href="%s">隱私瀏覽模式</a>清除留下的足跡。結束瀏覽的時候，就會自動清除上網紀錄與 Cookie。
 
 
 ;Stop companies from following you
-Stop companies from following you
+防止其他公司追蹤您
 
 
 # Contains a link to https://www.mozilla.org/en-US/firefox/features/adblocker/
 ;Stay off their radar with <a href="%s">Firefox Tracking Protection</a>
-Stay off their radar with <a href="%s">Firefox Tracking Protection</a>
+透過 <a href="%s">Firefox 追蹤保護功能</a>擺脫他們
 
 
 ;Discover products that keep you safe
-Discover products that keep you safe
+探索能確保您上網安全的產品
 
 
 # Link to https://www.mozilla.org/firefox/accounts/
 ;Learn more
-Learn more
+了解更多
 
 
 ;Sync your history, passwords, and bookmarks. Send tabs across all of your devices.
-Sync your history, passwords, and bookmarks. Send tabs across all of your devices.
+同步上網紀錄、登入密碼、書籤。並且隨意傳送分頁到您的任何裝置。
 
 
 ;Android only
-Android only
+僅 Android
 
 
 ;Make Android your own
-Make Android your own
+讓 Android 有您的風格
 
 
 # Contains a link to https://addons.mozilla.org/firefox/extensions/
 ;Customize your Firefox mobile browser with <a href="%s">extensions</a> to block ads, manage passwords, stop Facebook from tracking you and more.
-Customize your Firefox mobile browser with <a href="%s">extensions</a> to block ads, manage passwords, stop Facebook from tracking you and more.
+使用<a href="%s">擴充套件</a>來自訂 Firefox 行動瀏覽器。有封鎖廣告、管理密碼、不讓 Facebook 追蹤等等功能。
 
 
 ;Find it fast with a smart search bar
-Find it fast with a smart search bar
+使用智慧搜尋列更快找到東西
 
 
 ;Firefox anticipates your needs with smart search suggestions and quick access to the sites you visit most.
-Firefox anticipates your needs with smart search suggestions and quick access to the sites you visit most.
+Firefox 透過智慧搜尋建議與快速開啟您最常造訪的網站，來滿足您的需求。
 
 
 ;The privacy you deserve. The speed you need.
-The privacy you deserve. The speed you need.
+您應有的隱私，您需要的速度。
 
 
 # Opens a modal with conditional content.
 ;Get Firefox for mobile
-Get Firefox for mobile
+下載 Firefox 行動版
 
 
 # Button to send a link via SMS to your phone
 ;Send a download link to your phone.
-Send a download link to your phone.
+傳送下載鏈結到您的手機。
 
 
 ;Scan the QR code to get started
-Scan the QR code to get started
+掃描 QR Code 開始使用
 
 
