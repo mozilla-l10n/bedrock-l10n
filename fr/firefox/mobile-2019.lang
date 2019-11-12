@@ -1,117 +1,118 @@
+## active ##
 ## NOTE: demo page available at https://bedrock-demo-errolyn.oregon-b.moz.works/firefox/mobile/
 
 
 # HTML page title
 ;Download the Firefox Browser on your Mobile for iOS and Android
-Download the Firefox Browser on your Mobile for iOS and Android
+Télécharger le navigateur Firefox pour mobile sur iOS et Android
 
 
 # Page discription
 ;Firefox Browser for Mobile blocks over 2000 trackers by default, giving you the privacy you deserve and the speed you need in a private mobile browser.
-Firefox Browser for Mobile blocks over 2000 trackers by default, giving you the privacy you deserve and the speed you need in a private mobile browser.
+Le navigateur Firefox bloque plus de 2000 traqueurs par défaut, vous offrant ainsi le respect que vous méritez et toute la rapidité dont vous avez besoin sur un navigateur mobile.
 
 
 # HTML alternative page title
 ;Get the mobile browser built for you, not advertisers
-Get the mobile browser built for you, not advertisers
+Téléchargez le navigateur conçu pour vous, pas pour les annonceurs publicitaires
 
 
 # Page alternative discription
 ;Check out Firefox again. It’s fast, private and on your side. For iOS and Android.
-Check out Firefox again. It’s fast, private and on your side. For iOS and Android.
+Redécouvrez Firefox : rapide, privé et à vos côtés. Sur iOS et Android.
 
 
 # Main hero header
 ;Get automatic privacy on mobile
-Get automatic privacy on mobile
+Retrouvez le respect de votre vie privée sur mobile
 
 
 # Main hero discription
 ;Super fast. Private by default. Blocks 2000+ online trackers.
-Super fast. Private by default. Blocks 2000+ online trackers.
+Ultra rapide. Privé par défaut. Bloque plus de 2000 traqueurs publicitaires.
 
 
 # CTA button
 ;Download on the App Store
-Download on the App Store
+Télécharger dans l’App Store
 
 
 # Opens a modal with conditional content.
 ;Get Firefox Mobile
-Get Firefox Mobile
+Installer Firefox pour mobile
 
 
 ;Block online trackers and invasive ads
-Block online trackers and invasive ads
+Bloquez les traqueurs publicitaires et les pubs envahissantes
 
 
 ;Privacy protection by default
-Privacy protection by default
+Protection de la vie privée par défaut
 
 
 # Contains a link to https://www.mozilla.org/firefox/features/private-browsing/
 ;Leave no trace with <a href="%s">Private Browsing mode</a>. When you close out, your history and cookies are deleted.
-Leave no trace with <a href="%s">Private Browsing mode</a>. When you close out, your history and cookies are deleted.
+Ne laissez aucune trace en <a href="%s">mode navigation privée</a>. Votre historique et les cookies sont effacés en fin de session.
 
 
 ;Stop companies from following you
-Stop companies from following you
+Empêchez les entreprises de vous suivre
 
 
 # Contains a link to https://www.mozilla.org/en-US/firefox/features/adblocker/
 ;Stay off their radar with <a href="%s">Firefox Tracking Protection</a>
-Stay off their radar with <a href="%s">Firefox Tracking Protection</a>
+La <a href="%s">protection renforcée contre le pistage</a> vous met à l’abri des traqueurs
 
 
 ;Discover products that keep you safe
-Discover products that keep you safe
+Découvrez des produits qui vous protègent en ligne
 
 
 # Link to https://www.mozilla.org/firefox/accounts/
 ;Learn more
-Learn more
+En savoir plus
 
 
 ;Sync your history, passwords, and bookmarks. Send tabs across all of your devices.
-Sync your history, passwords, and bookmarks. Send tabs across all of your devices.
+Synchronisez votre historique, vos mots de passe et vous marque-pages. Envoyez des onglets d’un appareil à l’autre.
 
 
 ;Android only
-Android only
+Uniquement sur Android
 
 
 ;Make Android your own
-Make Android your own
+Android à votre façon
 
 
 # Contains a link to https://addons.mozilla.org/firefox/extensions/
 ;Customize your Firefox mobile browser with <a href="%s">extensions</a> to block ads, manage passwords, stop Facebook from tracking you and more.
-Customize your Firefox mobile browser with <a href="%s">extensions</a> to block ads, manage passwords, stop Facebook from tracking you and more.
+Personnalisez votre navigateur mobile Firefox avec des <a href="%s">extensions</a> pour bloquer la pub, gérer vos mots de passe, empêcher Facebook de vous pister et plus encore.
 
 
 ;Find it fast with a smart search bar
-Find it fast with a smart search bar
+Trouvez plus rapidement avec la barre de recherche intelligente
 
 
 ;Firefox anticipates your needs with smart search suggestions and quick access to the sites you visit most.
-Firefox anticipates your needs with smart search suggestions and quick access to the sites you visit most.
+Firefox anticipe vos besoins avec des suggestions intelligentes qui vous permettent d’accéder rapidement aux sites que vous visitez le plus.
 
 
 ;The privacy you deserve. The speed you need.
-The privacy you deserve. The speed you need.
+Le respect de la vie privée que vous méritez. La rapidité qu’il vous faut.
 
 
 # Opens a modal with conditional content.
 ;Get Firefox for mobile
-Get Firefox for mobile
+Installer Firefox sur mobile
 
 
 # Button to send a link via SMS to your phone
 ;Send a download link to your phone.
-Send a download link to your phone.
+Envoyer un lien vers votre téléphone.
 
 
 ;Scan the QR code to get started
-Scan the QR code to get started
+Scanner le code QR pour commencer
 
 
