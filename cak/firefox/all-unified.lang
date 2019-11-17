@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/all/
 
 
@@ -85,15 +86,15 @@ Ke'atz'eta' ri ruk'isib'äl taq rusamaj ri Firefox okik'amaya'l chuwäch xtel ru
 
 
 ;Test your sites against soon-to-be-released Firefox browser features with powerful, flexible DevTools that are on by default.
-Test your sites against soon-to-be-released Firefox browser features with powerful, flexible DevTools that are on by default.
+Tanik'oj chi nuk'äm ri' ri taq ruxaq rik'in ri rub'anikil Firefox okik'amaya'l, ri xtel yan pe, rik'in ri nïm ruchuq'a' chuqa' jalel DevTools tzijon wi pe.
 
 
 ;The pre-alpha version for power users who like to hunt crashes and test new features as they’re coded.
-The pre-alpha version for power users who like to hunt crashes and test new features as they’re coded.
+Ri pre-alpha ruwäch b'anon pe kichin q'axinäq taq okisanela', ri nikajo' nikiya' rutzijol taq k'ayewal chuqa' yekitojtob'ej ri ruk'isib'äl taq rusamaj toq k'a ja' yesamajïx.
 
 
 ;Count on stability and ease of use with this Firefox browser built for enterprise.
-Count on stability and ease of use with this Firefox browser built for enterprise.
+Tak'owisaj ak'u'x rik'in ri raxnaqil chuqa' man k'ayew ta rokisaxik re Firefox okik'amaya'l re', nuk'un kichin taq ajk'aymoloj.
 
 
 ;64-bit installers
@@ -117,27 +118,27 @@ MSi yakonela'
 
 
 ;Windows installers for corporate IT that simplify the configuration, deployment and management of the Firefox Browser.
-Windows installers for corporate IT that simplify the configuration, deployment and management of the Firefox Browser.
+Ri Windows yakonela' kichin TI ajk'aymolojil nikich'utinisaj ri runuk'ulem, rurik'ik chuqa' ri runuk'samaj ri Firefox Okik'amaya'l.
 
 
 ;Which version would you like?
-Which version would you like?
+¿Achike ruwäch niqa chawäch?
 
 
 ;Select your preferred installer
-Select your preferred installer
+Tacha' ri yakonel niqa chawäch
 
 
 ;Learn about installers
-Learn about installers
+Tetamäx chi kij ri yakonela'
 
 
 ;Select your preferred language
-Select your preferred language
+Tacha' ri ch'ab'äl niqa chawäch
 
 
 # %(product_label)s is replaced with the product name e.g "Firefox", %(platform)s with the platform name e.g. "Windows", and %(locale)s with the language name e.g. "German".
 ;Download %(product_label)s for %(platform)s in %(locale)s
-Download %(product_label)s for %(platform)s in %(locale)s
+Tiqasäx %(product_label)s richin %(platform)s pa %(locale)s
 
 
