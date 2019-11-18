@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: demo page available at https://bedrock-demo-errolyn.oregon-b.moz.works/firefox/mobile/
 
 
@@ -8,7 +9,7 @@ Taqasaj ri Firefox Okik'amaya'l pan awoyonib'al richin iOS chuqa' Android
 
 # Page discription
 ;Firefox Browser for Mobile blocks over 2000 trackers by default, giving you the privacy you deserve and the speed you need in a private mobile browser.
-Firefox Browser for Mobile blocks over 2000 trackers by default, giving you the privacy you deserve and the speed you need in a private mobile browser.
+Ri Firefox Okik'amaya'l richin Oyonib'äl yeruq'ät ma xa xe ta 2000 ojqanela' pa ruyonil, nuya' awichinanem achi'el nawajo' chuqa' ri pararenïk nik'atzin chawe pa jun ichinan oyonib'äl okik'amaya'l.
 
 
 # HTML alternative page title
@@ -23,12 +24,12 @@ Tanik'oj chik ri Firefox. Aninäq, ichinan chuqa' yatruto'. Richin iOS chuqa' An
 
 # Main hero header
 ;Get automatic privacy on mobile
-Get automatic privacy on mobile
+Tak'ulu' ichinanem pa ruyonil pan oyonib'äl
 
 
 # Main hero discription
 ;Super fast. Private by default. Blocks 2000+ online trackers.
-Super fast. Private by default. Blocks 2000+ online trackers.
+Yalan aninäq. Ichinan pe. Man xa xe ta 2000 ojqanela' pa k'amab'ey yeruq'ät.
 
 
 # CTA button
@@ -46,25 +47,25 @@ Yeruq'ät ojqanela' pa k'amab'ey chuqa' q'eb'anel eltzijol
 
 
 ;Privacy protection by default
-Privacy protection by default
+Ruk'amon pe ruchajinem awichinanem
 
 
 # Contains a link to https://www.mozilla.org/firefox/features/private-browsing/
 ;Leave no trace with <a href="%s">Private Browsing mode</a>. When you close out, your history and cookies are deleted.
-Leave no trace with <a href="%s">Private Browsing mode</a>. When you close out, your history and cookies are deleted.
+Man taya' kan etal rik'in ri <a href="%s">Ichinan Rub'eyal Okem pa K'amaya'l</a>. Toq natz'apij ri okik'amaya'l, ri anatab'al chuqa' ri taq kuki yeyuj el.
 
 
 ;Stop companies from following you
-Stop companies from following you
+Ke'aq'ata' ri ajnimamoloj yatkojqaj
 
 
 # Contains a link to https://www.mozilla.org/en-US/firefox/features/adblocker/
 ;Stay off their radar with <a href="%s">Firefox Tracking Protection</a>
-Stay off their radar with <a href="%s">Firefox Tracking Protection</a>
+Katel pa rilob'al rik'in ri <a href="%s">Ruchajixik Rojqanem Firefox</a>
 
 
 ;Discover products that keep you safe
-Discover products that keep you safe
+Ke'awila' ri taq tikojil yatkijikomaj
 
 
 # Link to https://www.mozilla.org/firefox/accounts/
@@ -73,7 +74,7 @@ Tetamäx ch'aqa' chik
 
 
 ;Sync your history, passwords, and bookmarks. Send tabs across all of your devices.
-Sync your history, passwords, and bookmarks. Send tabs across all of your devices.
+Ke'axima' ri taq anatab'al, ewan taq atzij chuqa' taq awetal. Ke'ataqa' taq ruwi' rik'in ronojel ri taq awokisab'al.
 
 
 ;Android only
@@ -81,24 +82,24 @@ Xa xe Android
 
 
 ;Make Android your own
-Make Android your own
+Tok awichin ri Android
 
 
 # Contains a link to https://addons.mozilla.org/firefox/extensions/
 ;Customize your Firefox mobile browser with <a href="%s">extensions</a> to block ads, manage passwords, stop Facebook from tracking you and more.
-Customize your Firefox mobile browser with <a href="%s">extensions</a> to block ads, manage passwords, stop Facebook from tracking you and more.
+Tawichinaj ri awokik'amaya'l Firefox oyonib'äl rik'in <a href="%s">taq k'amal</a> richin ye'aq'ät taq eltzijol, ye'anuk'samajij ewan taq tzij, naq'ät ri Facebook richin yatrojqaj chuqa' ch'aqa' chik.
 
 
 ;Find it fast with a smart search bar
-Find it fast with a smart search bar
+Anin tawila' rik'in ri rukajtz'ik na'owinäq kanoxïk
 
 
 ;Firefox anticipates your needs with smart search suggestions and quick access to the sites you visit most.
-Firefox anticipates your needs with smart search suggestions and quick access to the sites you visit most.
+Firefox nunab'eysaj ri nawajo' rikin ruchilab'exik na'owinäq taq kanoxïk chuqa' choj taq okem pa ri taq ruxaq yalan e'atz'eton.
 
 
 ;The privacy you deserve. The speed you need.
-The privacy you deserve. The speed you need.
+Ri ichinanem nawajo'. Ri pararenïn nik'atzin chawe.
 
 
 # Opens a modal with conditional content.
@@ -108,7 +109,7 @@ Tak'ulu' Firefox richin oyonib'äl
 
 # Button to send a link via SMS to your phone
 ;Send a download link to your phone.
-Send a download link to your phone.
+Titaq jun ruximik qasanïk pan awoyonib'al.
 
 
 ;Scan the QR code to get started
