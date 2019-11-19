@@ -1,3 +1,7 @@
+## active ##
+## privacy_email_2019 ##
+## updates-052018 ##
+## updates-072018 ##
 ## NOTE: demo page is available at https://www-dev.allizom.org/privacy/
 
 
@@ -14,7 +18,7 @@ Ma tebɣiḍ ad tseɣtiḍ talɣut-inek, neɣ ma tesɛiḍ asteqsi ɣef tsertit 
 
 
 ;<a href="%(dsar)s">See here for Data Subject Access Requests.</a>
-<a href="%(dsar)s">See here for Data Subject Access Requests.</a>
+<a href="%(dsar)s">Sit dagi akken ad tsutreḍ anekcum ɣer yisefka udmawanen.</a>
 
 
 ;Data Privacy Principles
@@ -24,13 +28,13 @@ Insayen n tbaḍnit n yisefka
 # Links to https://www.mozilla.org/privacy/principles/
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+<a href="%(principles)s">Insayen n Tbaḍnit n Yisefka</a> n Mozilla ttmuddun-d tikti i yinsayen-nneɣ yettqadaṛen daɣen yemmestanen imdanen i yesseqdacen Internet. Issin amek insayen-a ttfeṣṣilen Firefox akked ifarisen-nneɣ meṛṛa deg yestiqsiyen-nneɣ <a href="%(faq)s">FAQ</a>.
 
 
 # This string is obsolete. Do not remove.
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Insayen n Tbaḍnit n Yisefka n Mozilla ttmuddun-d tikti i yinsayen-nneɣ yettqadaṛen daɣen yemmestanen imdanen i yesseqdacen Internet. Issin amek insayen-a ttfeṣṣilen Firefox akked ifarisen-nneɣ meṛṛa deg yestiqsiyen-nneɣ <a href="%(faq)s">FAQ</a>.
 
 
 # This string is obsolete. Do not remove.
@@ -48,12 +52,12 @@ Tasertit-nneɣ n tbaḍnit
 
 
 ;Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
-Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+Tasertit-nneɣ n tbaḍnit tesseglam isefka i d-remsen iseɣzanen-nneɣ akked imeẓla-nneɣ, wid i beṭṭun daɣen wid i seqdacen, akked ufran yellan gar ifassen-ik.
 
 
 # This string is obsolete. Do not remove.
 ;We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
-We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
+Nura tasertit tabaḍnit wezzilen, ibanen akken ad nessigzi amek yal afaris seg yifarisen-nneɣ akked imeẓla-nneɣ iremmes-d, ibeṭṭu, neɣ iseqdac isefka akked ufran yellan gar ifassen-ik. Issin ugar:
 
 
 ;Mozilla Websites, Communications &amp; Cookies
@@ -73,7 +77,7 @@ Aneqqis n tefrawant
 
 
 ;As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
-As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
+Mozilla d asenfaṛ n uqbalu yeldin, ɣef waya tafrawant akked tulya d aḥric meqqren nezzeh deg wansayen igejdanen n Mozilla. Tangalt-nneɣ taɣbalut teldi daɣen tettwasenqad. Amahil-nneɣ n tneflit yeldi. <a href="%(report)s">Aneqqis n Tefrawant</a>-nneɣ n yal kraḍ n wagguren teskan-d daɣen aseḥbiber-nneɣ ɣef wansayen-a.
 
 
 ;To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
@@ -91,7 +95,7 @@ Akken ad ternuḍ acegger neɣ awennit ɣef isnifal n tisertiyin n tbaḍnit <a 
 
 # This string is obsolete. Do not remove.
 ;Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
-Our ongoing work on privacy is covered by the <a href="%(blog)s">Privacy &amp; Data Safety Blog</a> and information about our ongoing work is available on <a href="%(wiki)s"> Mozilla’s privacy team wiki</a>.
+Axiddem-nneɣ imezgi ɣef tbaḍnit yettwaseglem-d deg ublug-nneɣ <a href="%(blog)s">Privacy &amp; Data Safety </a> daɣen talɣut ɣef uxeddim-nneɣ iteddun yella deg <a href="%(wiki)s">usebter n uwiki n terbaɛt n tbaḍnit n Mozilla</a>.
 
 
 ;Outdated Policies
