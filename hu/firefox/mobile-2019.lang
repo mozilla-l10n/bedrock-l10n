@@ -8,80 +8,80 @@ Töltse le a Firefox böngészőt a mobiljára iOS-en és Androidon
 
 # Page discription
 ;Firefox Browser for Mobile blocks over 2000 trackers by default, giving you the privacy you deserve and the speed you need in a private mobile browser.
-Firefox Browser for Mobile blocks over 2000 trackers by default, giving you the privacy you deserve and the speed you need in a private mobile browser.
+A mobilos Firefox böngésző alapértelmezés szerint több mint 2000 nyomkövetőt blokkol, biztosítva az Önnek járó adatvédelmet és a szükséges sebességet egy privát mobil böngészőben.
 
 
 # HTML alternative page title
 ;Get the mobile browser built for you, not advertisers
-Get the mobile browser built for you, not advertisers
+Szerezze be a mobil böngészőt, amelyet Önnek készítettünk, és nem a hirdetőknek
 
 
 # Page alternative discription
 ;Check out Firefox again. It’s fast, private and on your side. For iOS and Android.
-Check out Firefox again. It’s fast, private and on your side. For iOS and Android.
+Próbálja ki újra a Firefoxot. Gyors, privát és az Ön oldalán áll. iOS-re és Androidra.
 
 
 # Main hero header
 ;Get automatic privacy on mobile
-Get automatic privacy on mobile
+Szerezzen automatikus adatvédelmet mobilon
 
 
 # Main hero discription
 ;Super fast. Private by default. Blocks 2000+ online trackers.
-Super fast. Private by default. Blocks 2000+ online trackers.
+Szuper gyors. Alapértelmezetten privát. 2000+ online nyomkövetőt blokkol.
 
 
 # CTA button
 ;Download on the App Store
-Download on the App Store
+Töltse le az App Store-ból
 
 
 # Opens a modal with conditional content.
 ;Get Firefox Mobile
-Get Firefox Mobile
+Szerezze be a mobil Firefoxot
 
 
 ;Block online trackers and invasive ads
-Block online trackers and invasive ads
+Blokkolja az online nyomkövetőket és a tolakodó hirdetéseket
 
 
 ;Privacy protection by default
-Privacy protection by default
+Adatvédelem alapértelmezetten
 
 
 # Contains a link to https://www.mozilla.org/firefox/features/private-browsing/
 ;Leave no trace with <a href="%s">Private Browsing mode</a>. When you close out, your history and cookies are deleted.
-Leave no trace with <a href="%s">Private Browsing mode</a>. When you close out, your history and cookies are deleted.
+Ne hagyjon nyomot a <a href="%s">Privát böngészési módban</a>. Bezáráskor törlődnek az előzmények és a sütik.
 
 
 ;Stop companies from following you
-Stop companies from following you
+Ne hagyja, hogy a cégek kövessék Önt
 
 
 # Contains a link to https://www.mozilla.org/en-US/firefox/features/adblocker/
 ;Stay off their radar with <a href="%s">Firefox Tracking Protection</a>
-Stay off their radar with <a href="%s">Firefox Tracking Protection</a>
+Maradjon a radar alatt a <a href="%s">Firefox követésvédelemmel</a>
 
 
 ;Discover products that keep you safe
-Discover products that keep you safe
+Fedezzen fel olyan termékeket, amelyek biztonságban tartják Önt
 
 
 # Link to https://www.mozilla.org/firefox/accounts/
 ;Learn more
-Learn more
+További tudnivalók
 
 
 ;Sync your history, passwords, and bookmarks. Send tabs across all of your devices.
-Sync your history, passwords, and bookmarks. Send tabs across all of your devices.
+Szinkronizálja az előzményeket jelszavakat és könyvjelzőket. Küldjön lapokat az eszközei között.
 
 
 ;Android only
-Android only
+Csak Androidon
 
 
 ;Make Android your own
-Make Android your own
+Tegye sajátjává az Androidot
 
 
 # Contains a link to https://addons.mozilla.org/firefox/extensions/
@@ -90,7 +90,7 @@ Customize your Firefox mobile browser with <a href="%s">extensions</a> to block 
 
 
 ;Find it fast with a smart search bar
-Find it fast with a smart search bar
+Találja meg gyorsan az intelligens keresősáv segítségével
 
 
 ;Firefox anticipates your needs with smart search suggestions and quick access to the sites you visit most.
@@ -98,20 +98,20 @@ Firefox anticipates your needs with smart search suggestions and quick access to
 
 
 ;The privacy you deserve. The speed you need.
-The privacy you deserve. The speed you need.
+Az adatvédelem, amit megérdemel. A sebesség, amire szüksége van.
 
 
 # Opens a modal with conditional content.
 ;Get Firefox for mobile
-Get Firefox for mobile
+Töltse le a Firefoxot mobilra
 
 
 # Button to send a link via SMS to your phone
 ;Send a download link to your phone.
-Send a download link to your phone.
+Küldjön egy letöltési hivatkozást a telefonjára.
 
 
 ;Scan the QR code to get started
-Scan the QR code to get started
+Olvassa le a QR-kód, és kezdjen neki
 
 
