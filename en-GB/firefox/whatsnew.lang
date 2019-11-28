@@ -1,4 +1,5 @@
 ## active ##
+## whatsnew_headline_04112019 ##
 ## whatsnew_rebranding ##
 ## NOTE: Demo page at https://bedrock-demos-pr-8067.herokuapp.com/firefox/66.0/whatsnew/all/
 
@@ -18,12 +19,12 @@ The new <strong>Firefox</strong> {ok}
 
 
 ;Want privacy on every device?
-Want privacy on every device?
+Want privacy on every device? {ok}
 
 
 # "You got it" here is a casual answer to the previous question, "Want privacy on every device?"
 ;You got it. Get Firefox for mobile.
-You got it. Get Firefox for mobile.
+You got it. Get Firefox for mobile. {ok}
 
 
 # Obsolete string, do not remove
