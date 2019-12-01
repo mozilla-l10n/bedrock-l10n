@@ -8,7 +8,7 @@ What’s new with Firefox - More privacy, more protections.
 
 # Notification banner.
 ;Congrats! You’re using the latest version of Firefox.
-Congrats! You’re using the latest version of Firefox.
+お使いの Firefox は最新です。
 
 
 # Page headline.
@@ -17,11 +17,11 @@ No account required. But you might want one.
 
 
 ;The Firefox browser collects so little data about you, we don’t even require your email address. But when you use it to create a Firefox account, we can protect your privacy across more of your online life.
-The Firefox browser collects so little data about you, we don’t even require your email address. But when you use it to create a Firefox account, we can protect your privacy across more of your online life.
+Firefox browser は、少しデータを収集するだけで、メールアドレスは必要ありません。しかし、Firefox アカウントを作成して使用すると、オンラインライフを通してプライバシーを保護できます。
 
 
 ;Sign In
-Sign In
+ログイン
 
 
 ;Have at least one company looking out for your data, instead of leaking it.
@@ -42,15 +42,15 @@ Trade clickbait and fake news for quality content.
 
 
 ;Send huge files to anyone you want, with self-destructing links.
-Send huge files to anyone you want, with self-destructing links.
+自然消滅するリンクで巨大なファイルを送りましょう。
 
 
 ;Get a Firefox Account
-Get a Firefox Account
+Firefox アカウントを取得
 
 
 # Firefox Browser is a product name so should be capitalized. Browser should be preferably left in English but can be translated due to linguistic necessity.
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+<a href="%(notes)s">リリースノート</a> を読み、Firefox Browser の新機能を確認してください。
 
 

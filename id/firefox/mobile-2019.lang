@@ -55,7 +55,7 @@ Leave no trace with <a href="%s">Private Browsing mode</a>. When you close out, 
 
 
 ;Stop companies from following you
-Stop companies from following you
+Hentikan perusahaan mengikuti Anda
 
 
 # Contains a link to https://www.mozilla.org/en-US/firefox/features/adblocker/
@@ -73,7 +73,7 @@ Pelajari lebih lanjut
 
 
 ;Sync your history, passwords, and bookmarks. Send tabs across all of your devices.
-Sync your history, passwords, and bookmarks. Send tabs across all of your devices.
+Sinkronkan riwayat, kata sandi, dan markah Anda. Kirim tab di semua perangkat Anda.
 
 
 ;Android only
@@ -86,7 +86,7 @@ Make Android your own
 
 # Contains a link to https://addons.mozilla.org/firefox/extensions/
 ;Customize your Firefox mobile browser with <a href="%s">extensions</a> to block ads, manage passwords, stop Facebook from tracking you and more.
-Customize your Firefox mobile browser with <a href="%s">extensions</a> to block ads, manage passwords, stop Facebook from tracking you and more.
+Kustomisasi peramban seluler Firefox Anda dengan <a href="%s">ekstensi</a> untuk memblokir iklan, mengelola kata sandi, menghentikan Facebook agar tidak melacak Anda dan lainnya.
 
 
 ;Find it fast with a smart search bar
