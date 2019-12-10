@@ -39,7 +39,7 @@ Firefox DevTools {ok}
 
 
 ;Inactive CSS
-Inactive CSS
+غیر فعالCSS
 
 
 ;Firefox DevTools now grays out CSS declarations that don’t have an effect on the page. When you hover over the info icon, you’ll see a useful message about why the CSS is not being applied, including a hint about how to fix the problem.
@@ -98,7 +98,7 @@ Firefox DevTools has a brand new shape path editor that takes the guesswork out 
 
 
 ;Faster Information
-Faster Information
+تیز تر معلومات
 
 
 ;Fonts Panel
@@ -128,7 +128,7 @@ Inspect and refine code to build pixel-perfect layouts.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Page_Inspector
 ;Learn more about Page Inspector
-Learn more about Page Inspector
+صفحہ کہ انسپپیکٹر کے بارے میں مزید سیکھیں
 
 
 ;Console
@@ -141,11 +141,11 @@ Track CSS, JavaScript, security and network issues.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Web_Console
 ;Learn more about Web Console
-Learn more about Web Console
+ویب کنسول کے بارے میں مزید سیکھیں
 
 
 ;Debugger
-Debugger
+ڈبگگر
 
 
 ;Powerful JavaScript debugger with support for your framework.
@@ -154,7 +154,7 @@ Powerful JavaScript debugger with support for your framework.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Debugger
 ;Learn more about JavaScript Debugger
-Learn more about JavaScript Debugger
+JavaScript ڈبگگر کے بارے میں مزید سیکھیں
 
 
 ;Network
@@ -167,7 +167,7 @@ Monitor network requests that can slow or block your site.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Network_Monitor
 ;Learn more about Network Monitor
-Learn more about Network Monitor
+نیٹ ورک مانیٹر کے بارے میں مزید سیکھیں
 
 
 ;Storage panel
@@ -219,7 +219,7 @@ Unblock bottlenecks, streamline processes, optimize assets.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Performance
 ;Learn more about Performance Tools
-Learn more about Performance Tools
+کارکردگی ٹولز کے بارے میں مزید جانیں
 
 
 ;Memory
@@ -258,7 +258,7 @@ Edit, write, run and execute JavaScript in real time.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Scratchpad
 ;Learn more about Scratchpad
-Learn more about Scratchpad
+اسکریچ پیڈ کے بارے میں مزیدسیکھیں
 
 
 ;Style Editor
@@ -284,7 +284,7 @@ Feedback makes us better. Tell us how we can improve the browser and Developer t
 
 # Link to https://discourse.mozilla-community.org/c/devtools
 ;Join the conversation
-Join the conversation
+گفتگو میں شامل ہوں
 
 
 ;Get involved

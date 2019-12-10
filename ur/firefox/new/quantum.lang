@@ -29,7 +29,7 @@ Firefox respects <span>your privacy on Mac.</span>
 
 # /firefox/linux/ main page title.
 ;Firefox for Linux
-Firefox for Linux
+Firefox برائے Linux
 
 
 ;The new <strong>Firefox</strong>
@@ -37,7 +37,7 @@ Firefox for Linux
 
 
 ;Own your online life.
-Own your online life.
+اپنی آن لائن زندگی کے مالک بنیں۔
 
 
 ;Fast for good.
@@ -72,7 +72,7 @@ Advanced install options & other platforms
 
 # Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings?
 ;Fix a problem
-Fix a problem
+ایک مسئلہ حل کریں
 
 
 ;Keep up with<br> all things Firefox.
@@ -104,19 +104,19 @@ Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
 
 
 ;Get a Firefox Account
-Get a Firefox Account
+ایک Firefox اکاؤنٹ حاصل کریں
 
 
 ;Already have an account?
-Already have an account?
+کیا پہلے سے ہی ایک اکاؤنٹ ہے؟
 
 
 ;Sign In
-Sign In
+سائن ان کریں
 
 
 ;Download Anyway
-Download Anyway
+ویسے ہی ڈاؤن لوڈ کریں
 
 
 # Link points to /firefox/all/
@@ -140,7 +140,7 @@ Your download should begin automatically. If it doesn’t, <a id="%(id)s" href="
 
 
 ;Learn how to make Firefox even smarter, faster and more secure.
-Learn how to make Firefox even smarter, faster and more secure.
+Firefox کو مزید تیز تر ، ہوشیار اور زیادہ محفوظ بنانے کا طریقہ سیکھیں۔
 
 
 ;Get informative tips, tricks and product announcements delivered to your inbox.
@@ -164,7 +164,7 @@ Mozilla doesn’t just value your email privacy and security – it’s part of 
 
 
 ;You don’t need to give us your email to download and use Firefox.
-You don’t need to give us your email to download and use Firefox.
+آپ کو Firefox ڈاؤن لوڈ اور استعمال کرنے کے لئے ہمیں اپنا ای میل دینے کی ضرورت نہیں ہے۔
 
 
 ;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
@@ -176,11 +176,11 @@ You can expect emails designed to help you optimize Firefox to work best for you
 
 
 ;You can unsubscribe anytime, for any reason.
-You can unsubscribe anytime, for any reason.
+آپ کسی بھی وجہ سے ، کسی بھی وقت رکنیت ختم کر سکتے ہیں۔
 
 
 ;We will not share, sell or use your email for any other purposes.
-We will not share, sell or use your email for any other purposes.
+ہم آپ کے ای میل کو کسی دوسرے مقاصد کے لئے اشتراک ، فروخت اور استعمال نہیں کریں گے۔
 
 
 ;Let’s do this!
@@ -193,17 +193,17 @@ Sync up with Firefox on mobile:
 
 # /firefox/windows/ HTML page title
 ;Download Mozilla Firefox for Windows
-Download Mozilla Firefox for Windows
+Mozilla Firefoxبرائے Windows  ڈائونلوڈ کریں
 
 
 # /firefox/mac/ HTML page title
 ;Download Mozilla Firefox for Mac
-Download Mozilla Firefox for Mac
+Mozilla Firefoxبرائے Mac ڈائونلوڈ کریں
 
 
 # /firefox/linux/ HTML page title
 ;Download Mozilla Firefox for Linux
-Download Mozilla Firefox for Linux
+Mozilla Firefoxبرائے Linux ڈائونلوڈ کریں
 
 
 # HTML page title prefix
@@ -218,12 +218,12 @@ Firefox ڈائونلوڈ کریں
 
 # /firefox/windows/ HTML page description
 ;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
-Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+Mozilla Firefox  براے  Windows  ڈائونلوڈ کریں، ایک مفت ویب برائوزر۔ Firefox  ایک عالمی غیر منافع بخش وقف شدہ کی جانبب سے آنلائن کا کنٹرول افراد کے ہاتھوں میں دے رہے ہیں۔Firefox براے  Windows   آج! حاصل کریں!
 
 
 # /firefox/mac/ HTML page description
 ;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
-Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+Mozilla Firefox  براے  Mac  ڈائونلوڈ کریں، ایک مفت ویب برائوزر۔ Firefox  ایک عالمی غیر منافع بخش وقف شدہ کی جانبب سے آنلائن کا کنٹرول افراد کے ہاتھوں میں دے رہے ہیں۔Firefox  آج! حاصل کریں!
 
 
 # /firefox/linux/ HTML page description
@@ -275,11 +275,11 @@ Faster page loading, less memory usage and packed with features, the new Firefox
 
 
 ;Privacy comes first
-Privacy comes first
+رازداری پہلے آتی ہے
 
 
 ;Privacy - more than a policy
-Privacy - more than a policy
+رازداری-کسی پالیسی سے کہی  زیادہ
 
 
 ;2x Faster
@@ -327,11 +327,11 @@ Uses 30% less memory than Chrome
 
 
 ;Block trackers
-Block trackers
+ٹریکرز کو بلاک کریں
 
 
 ;Open source
-Open source
+کھلا ماخز
 
 
 ;Seamless setup
@@ -387,11 +387,11 @@ Sign in to your account and we’ll sync the bookmarks, passwords and other grea
 
 
 ;Learn more about Firefox Accounts
-Learn more about Firefox Accounts
+Firefox Accounts کے بارے میں مزید سیکھیں
 
 
 ;Skip this step
-Skip this step
+اس مرحلے کو چھوڑیں
 
 
 # Old firstrun page
