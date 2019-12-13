@@ -1,6 +1,7 @@
 ## active ##
 ## ember_reference_fix ##
 ## new_features_20180830 ##
+## new_features_20191129 ##
 ## new_features_shape_outside ##
 ## quantum-firstrun-whatsnew ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/developer/
@@ -44,11 +45,11 @@ Herramientas de desarrollo de Firefox
 
 
 ;Inactive CSS
-Inactive CSS
+CSS inactivo
 
 
 ;Firefox DevTools now grays out CSS declarations that don’t have an effect on the page. When you hover over the info icon, you’ll see a useful message about why the CSS is not being applied, including a hint about how to fix the problem.
-Firefox DevTools now grays out CSS declarations that don’t have an effect on the page. When you hover over the info icon, you’ll see a useful message about why the CSS is not being applied, including a hint about how to fix the problem.
+Firefox DevTools ahora atenúa las declaraciones CSS que no tienen efecto en la página. Cuando pasas el cursor sobre el ícono de información, verás un mensaje útil sobre por qué no se aplica el CSS, incluida una pista sobre cómo solucionar el problema.
 
 
 # Link points to http://firefox-dev.tools/
