@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo page at https://bedrock-demo-achurchwell.oregon-b.moz.works/firefox/best-browser/
 
 
@@ -68,7 +69,7 @@ Existem algumas formas de um navegador ajudar os seus utilizadores a manterem-se
 
 
 ;The second is not storing too much user data. Hackers can’t steal what’s not there, which is why Firefox keeps a minimum amount of information about its users. <a href="%(data)s">Firefox knows</a> if you use the browser and your general location <a href="%(privacy)s">but not the name of your childhood pet or your favorite color.</a>
-The second is not storing too much user data. Hackers can’t steal what’s not there, which is why Firefox keeps a minimum amount of information about its users. <a href="%(data)s">Firefox knows</a> if you use the browser and your general location <a href="%(privacy)s">but not the name of your childhood pet or your favorite color.</a>
+O segundo é o não armazenamento de demasiada informação do utilizador. Os piratas não podem roubar o que não está disponível, motivo pelo qual o Firefox apenas preserva uma pequena quantidade de informação sobre os seus utilizadores. O <a href="%(data)s">Firefox sabe</a> se utiliza o navegador e a sua localização aproximada <a href="%(privacy)s">mas não o nome do seu animal de estimação ou a sua cor favorita.</a>
 
 
 ;Last but not least, a safe browser should offer tools to help you keep an eye on your accounts. Think of alerts that go straight to your email if any of your accounts get breached or icons that tell you whether a website is encrypted, (i.e., if it’s a good idea to enter your credit number on a shopping site).
@@ -80,7 +81,7 @@ O Firefox está a oferecer algo de novo para o manter seguro: <a href="%(monitor
 
 
 ;We visit hundreds or even thousands of websites each day, and you can’t expect users to make security and privacy decisions for each of these sites. That is why a browser that gives you more control is so important - because it offers real, meaningful protection.
-We visit hundreds or even thousands of websites each day, and you can’t expect users to make security and privacy decisions for each of these sites. That is why a browser that gives you more control is so important - because it offers real, meaningful protection.
+Nós visitamos centenas ou, até mesmo, milhares de sites todos os dias e não é expetável que os utilizadores façam decisões de privacidade e de segurança em cada um destes sites. Por este motivo, um navegador que lhe dê mais controlo é muito importante - porque fornece proteção real e relevante.
 
 
 ;A browser that minds its business.
@@ -88,15 +89,15 @@ Um navegador que não se mete onde não deve.
 
 
 ;Privacy on the web is a hot button issue. If privacy is number one on your list of priorities, you want to look for a browser that takes that seriously. When choosing the best private browser for you, look at the tracking policy and how a browser handles your data. These seem like technical questions, but they’re the reason some browsers are more private than others.
-Privacy on the web is a hot button issue. If privacy is number one on your list of priorities, you want to look for a browser that takes that seriously. When choosing the best private browser for you, look at the tracking policy and how a browser handles your data. These seem like technical questions, but they’re the reason some browsers are more private than others.
+A privacidade na Internet é um assunto delicado. Se a privacidade assume um papel importante na sua lista de prioridades, deve optar por um navegador que leva o assunto a sério. Quando está a escolher o melhor navegador privado para si, tenha em consideração a política de rastreamento e como o navegador faz a gestão dos seus dados. Estas questões parecem técnicas, mas são os motivos pelos quais uns navegadores são mais privados do que outros.
 
 
 ;Trackers are all those annoying “cookies” messages you get on airline sites. These third-party trackers know where you click and can be used to analyze your behavior. A private browser should give users the option to turn off third-party trackers, but ideally, turn them off by default.
-Trackers are all those annoying “cookies” messages you get on airline sites. These third-party trackers know where you click and can be used to analyze your behavior. A private browser should give users the option to turn off third-party trackers, but ideally, turn them off by default.
+Os rastreadores são todas as mensagens aborrecidas de “cookies” que tem nos sites das empresas de viagens aéreas. Estes rastreadores de terceiros sabem onde clicou e podem ser utilizados para analisar o seu comportamento. Um navegador privado deve dar a possibilidade aos utilizadores de desligar os rastreadores de terceiros mas, idealmente, desativar os mesmos por predefinição.
 
 
 ;Another way to stop trackers from tracking is using private mode to browse. Any browser that claims to be private should offer browsing in private mode.
-Another way to stop trackers from tracking is using private mode to browse. Any browser that claims to be private should offer browsing in private mode.
+Outra forma de impedir que os rastreadores o monitorizem é utilizar o modo privado para navegar. Qualquer navegador que alegue ser privado, deve fornecer navegação num modo privado.
 
 
 ;One easy way to check is to visit a browser’s content setting page and privacy policy. The privacy webpage should outline if your data is shared and why. It’s why the <a href="%(privacy)s">Firefox privacy notice</a> is easy to read and easy to find.
