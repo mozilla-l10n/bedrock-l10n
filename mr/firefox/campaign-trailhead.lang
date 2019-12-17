@@ -1,3 +1,5 @@
+## active ##
+## firefox-new-skyline ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/campaign/
 
 
@@ -13,7 +15,7 @@ Firefox डाउनलोड करा
 
 # HTML page description
 ;Download Mozilla Firefox, a free web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
-Download Mozilla Firefox, a free web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
+Mozilla Firefox, एक मुक्त वेब ब्राउझर डाउनलोड करा. Firefox एका वैश्विक विना-नफा संघटनेने बनविला आहे जी व्यक्तींना ऑनलाईन नियंत्रण देण्यास समर्पित आहे. आजच Windows, macOS, Linux, Android आणि iOS साठी Firefox डाउनलोड करा!
 
 
 # This will appear as <meta property="og:title"> which can be used for social sharing
@@ -49,7 +51,7 @@ Download Mozilla Firefox, a free web browser. Firefox is created by a global non
 
 
 ;Firefox shows you how many data-collecting trackers are blocked with <strong>Enhanced Tracking Protection</strong>.
-Firefox shows you how many data-collecting trackers are blocked with <strong>Enhanced Tracking Protection</strong>.
+<strong>प्रगत ट्रॅकिंग संरक्षण</strong> वापरून आपल्या व्यक्तिगत माहितीचे संकलन करणारे किती ट्रॅकर अवरोधित केले हे Firefox आपल्याला दर्शविते.
 
 
 ;Make your passwords portable
@@ -57,15 +59,15 @@ Firefox shows you how many data-collecting trackers are blocked with <strong>Enh
 
 
 ;<strong>Firefox Lockwise</strong> makes the passwords you save in Firefox secure and available on all your devices.
-<strong>Firefox Lockwise</strong> makes the passwords you save in Firefox secure and available on all your devices.
+Firefox मध्ये जतन केलेले पासवर्ड <strong>Firefox Lockwise</strong> आपल्या सर्व डिव्हाईसवर उपलब्ध करतो.
 
 
 ;Watch for data breaches
-Watch for data breaches
+डेटा उल्लंघनांवर नजर ठेवा
 
 
 ;<strong>Firefox Monitor</strong> alerts you if we know your information is a part of another company’s data breach.
-<strong>Firefox Monitor</strong> alerts you if we know your information is a part of another company’s data breach.
+आपली माहिती दुसर्‍या कंपनीच्या डेटा उल्लंघनाचा भाग असल्याचे आम्हाला समजल्यास <strong>Firefox Monitor</strong> आपल्याला सतर्क करते.
 
 
 # String is obsolete. Do not remove.
@@ -95,6 +97,6 @@ Firefox ला सामील व्हा
 
 # String is obsolete. Do not remove.
 ;<strong>Private Browsing</strong> clears your history to keep it secret from anyone who uses your computer.
-<strong>Private Browsing</strong> clears your history to keep it secret from anyone who uses your computer.
+<strong>खाजगी ब्राऊझिंग</strong> आपला इतिहास मिटवून, आपला संगणक वापरणाऱ्या इतरांपासून गुप्त ठेवते.
 
 
