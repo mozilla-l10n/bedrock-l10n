@@ -1,218 +1,219 @@
+## active ##
 # HTML page title and main headline
 ;Six of the best browsers in direct comparison
-Six of the best browsers in direct comparison
+Chwech o'r porwyr gorau mewn cymhariaeth uniongyrchol
 
 
 # HTML description
 # Firefox, Chrome, Edge, Safari, Opera and Internet Explorer are all brand names that shouldn't be translated.
 ;Find out how Firefox, Chrome, Edge, Safari, Opera and Internet Explorer differ in terms of privacy, utility and portability.
-Find out how Firefox, Chrome, Edge, Safari, Opera and Internet Explorer differ in terms of privacy, utility and portability.
+Darganfyddwch sut mae Firefox, Chrome, Edge, Safari, Opera ac Internet Explorer yn gwahaniaethu o ran preifatrwydd, cyfleustodau a chludadwyedd.
 
 
 # Sub-headline.
 ;Privacy. Utility. Portability.
-Privacy. Utility. Portability.
+Preifatrwydd. Defnyddioldeb. Cludadwyedd.
 
 
 # Firefox, Chrome, Edge, Safari, Opera and Internet Explorer are all brand names that shouldn't be translated.
 ;Looking for a better browser? We’ll compare Firefox with Chrome, Edge, Safari, Opera and Internet Explorer to help you make your decision.
-Looking for a better browser? We’ll compare Firefox with Chrome, Edge, Safari, Opera and Internet Explorer to help you make your decision.
+Chwilio am well porwr? Byddwn yn cymharu Firefox â Chrome, Edge, Safari, Opera ac Internet Explorer i'ch helpu chi i benderfynu.
 
 
 ;A great internet browser should have the functionality you need, portability across devices, and the privacy you deserve.
-A great internet browser should have the functionality you need, portability across devices, and the privacy you deserve.
+Dylai porwr rhyngrwyd rhagorol fod â'r swyddogaeth sydd ei hangen arnoch chi, cludadwyedd ar draws dyfeisiau, a'r preifatrwydd rydych chi'n ei haeddu.
 
 
 # Google Chrome is a brand name that shouldn't be translated.
 ;Since your browser is your gateway to the internet, speed, security, privacy and utility are paramount. In recent years, Google Chrome has been the browser of choice for many. But at a time when online ads seem to follow us everywhere and data breaches are a fixture of news headlines, a lot of people are starting to demand more privacy and respect from their browser.
-Since your browser is your gateway to the internet, speed, security, privacy and utility are paramount. In recent years, Google Chrome has been the browser of choice for many. But at a time when online ads seem to follow us everywhere and data breaches are a fixture of news headlines, a lot of people are starting to demand more privacy and respect from their browser.
+Gan mai eich porwr yw eich porth i'r rhyngrwyd, mae cyflymder, diogelwch, preifatrwydd a defnyddioldeb o'r pwys mwyaf. Yn ystod y blynyddoedd diwethaf, Google Chrome fu'r porwr blaenaf i lawer. Ond ar adeg pan ymddengys bod hysbysebion ar-lein yn ein dilyn i bobman ac mae tor-data yn rhan o benawdau newyddion, mae llawer o bobl yn dechrau mynnu mwy o breifatrwydd a pharch gan eu porwr.
 
 
 # Google Chrome, Firefox, Safari, Opera and Microsoft Internet Explorer and Edge are all brand names that shouldn't be translated.
 ;So is your browser the best one for what you do online? The right browser can make a big difference in how you experience the web. So, without further ado, let’s compare Google Chrome, Firefox, Safari, Opera, Microsoft Internet Explorer and Edge — and see which best suits your needs.
-So is your browser the best one for what you do online? The right browser can make a big difference in how you experience the web. So, without further ado, let’s compare Google Chrome, Firefox, Safari, Opera, Microsoft Internet Explorer and Edge — and see which best suits your needs.
+Felly ai'ch porwr chi yw'r un gorau ar gyfer yr hyn rydych chi'n ei wneud ar-lein? Gall y porwr cywir wneud gwahaniaeth mawr o ran sut rydych chi'n profi'r we. Felly, heb oedi, gadewch inni gymharu Google Chrome, Firefox, Safari, Opera, Microsoft Internet Explorer ac Edge - a gweld pa rai sy'n gweddu orau i'ch anghenion.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Privacy:</strong>
-<strong>Privacy:</strong>
+<strong>Preifatrwydd:</strong>
 
 
 ;Which browser is best at keeping things confidential?
-Which browser is best at keeping things confidential?
+Pa borwr sydd orau am gadw pethau'n gyfrinachol?
 
 
 ;Privacy
-Privacy
+Preifatrwydd
 
 
 ;Private Browsing mode
-Private Browsing mode
+Y modd Pori Preifat
 
 
 # Used as an accessible label for a "yes" icon (a green check mark)
 ;Yes
-Yes
+Ydy
 
 
 ;Blocks third-party tracking cookies
-Blocks third-party tracking cookies
+Yn rhwystro cwcis tracio trydydd parti
 
 
 # Used as an accessible label for a "no" icon (a gray bar)
 ;No
-No
+Na
 
 
 ;Blocks cryptomining scripts
-Blocks cryptomining scripts
+Yn rhwystro sgriptiau cryptogloddio
 
 
 ;Blocks social trackers
-Blocks social trackers
+Yn rhwystro tracwyr cymdeithasol
 
 
 ;It’s not unreasonable to expect a high level of data protection and privacy from the products we regularly use to get online. At a minimum, a browser should offer some version of “private browsing mode” that automatically deletes your history and search history so other users on the same computer can’t access it. In this area, all six of the browsers compared here score points.
-It’s not unreasonable to expect a high level of data protection and privacy from the products we regularly use to get online. At a minimum, a browser should offer some version of “private browsing mode” that automatically deletes your history and search history so other users on the same computer can’t access it. In this area, all six of the browsers compared here score points.
+Nid yw'n afresymol disgwyl lefel uchel o ddiogelwch data a phreifatrwydd gan y cynnyrch rydym yn eu defnyddio yn rheolaidd i fynd ar-lein. Dylai porwr o leiaf gynnig rhyw fersiwn o “modd pori preifat” sy'n dileu eich hanes a'ch hanes chwilio yn awtomatig fel na all defnyddwyr eraill ar yr un cyfrifiadur gael mynediad iddo. Yn hyn o beth, mae pob un o'r chwe phorwr sy'n cael eu cymharu yma yn sgorio pwyntiau.
 
 
 ;What you do online literally shouldn’t be anyone else’s business.
-What you do online literally shouldn’t be anyone else’s business.
+Dylai'r hyn rydych yn ei wneud ar-lein ddim fod yn fusnes i unrhyw un arall.
 
 
 ;Another browser feature that should be a given is the ability to prevent websites and companies from tracking your browsing and shopping data — even in normal browsing mode. But that’s actually not the case: in fact, the only browsers that block third party tracking cookies by default are Firefox and Safari.
-Another browser feature that should be a given is the ability to prevent websites and companies from tracking your browsing and shopping data — even in normal browsing mode. But that’s actually not the case: in fact, the only browsers that block third party tracking cookies by default are Firefox and Safari.
+Nodwedd porwr arall a ddylai fod ar gael yw'r gallu i atal gwefannau a chwmnïau rhag tracio eich data pori a siopa - hyd yn oed yn y modd pori arferol. Ond nid yw hynny'n wir mewn gwirionedd: yr unig borwyr sy'n rhwystro cwcis tracio trydydd parti fel rhagosodiad yw Firefox a Safari.
 
 
 ;Using a browser that blocks third-party trackers isn’t just important for privacy — it usually means it runs much faster, too. Most trackers are just scripts that run in the background on a number of websites. You can’t see them, but you can feel them slowing down your browser. As of version 67 of Firefox, fingerprinting and cryptominers are also blocked. If you’re not familiar with cryptominers, here’s an example of how they can affect you: maybe you’ve experienced your computer suddenly running hotter or the battery depleting faster than normal. That’s often the byproduct of cryptominers creeping around on your device.
-Using a browser that blocks third-party trackers isn’t just important for privacy — it usually means it runs much faster, too. Most trackers are just scripts that run in the background on a number of websites. You can’t see them, but you can feel them slowing down your browser. As of version 67 of Firefox, fingerprinting and cryptominers are also blocked. If you’re not familiar with cryptominers, here’s an example of how they can affect you: maybe you’ve experienced your computer suddenly running hotter or the battery depleting faster than normal. That’s often the byproduct of cryptominers creeping around on your device.
+Nid yw defnyddio porwr sy'n rhwystro tracwyr trydydd parti yn bwysig ar gyfer preifatrwydd yn unig - mae fel arfer yn golygu ei fod yn rhedeg yn llawer cynt hefyd. Dim ond sgriptiau sy'n rhedeg yn y cefndir ar nifer o wefannau yw'r mwyafrif o dracwyr. Fedrwch chi ddim mo'u gweld, ond gallwch eu teimlo yn arafu eich porwr. O fersiwn 67 o Firefox ymlaen, mae bysbritwyr a chryptogloddwyr hefyd wedi'u rhwystro. Os nad ydych chi'n gyfarwydd â chryptogloddwyr, dyma enghraifft o sut y gallan nhw effeithio arnoch chi: efallai eich bod wedi profi'ch cyfrifiadur yn sydyn yn rhedeg yn boethach neu'r batri yn disbyddu'n gyflymach na'r arfer. Yn aml, dyna sgil-gynnyrch chryptogloddwyr sy'n symud o gwmpas ar eich dyfais.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Utility:</strong>
-<strong>Utility:</strong>
+<strong>Gwasanaethau:</strong>
 
 
 ;What has your browser done for you lately?
-What has your browser done for you lately?
+Beth mae eich porwr wedi'i wneud i chi yn ddiweddar?
 
 
 ;Utility
-Utility
+Gwasanaethau
 
 
 ;Autoplay blocking
-Autoplay blocking
+Rhwystro awtochwarae
 
 
 ;Tab browsing
-Tab browsing
+Pori tab
 
 
 ;Bookmark manager
-Bookmark manager
+Rheolwr nod tudalen
 
 
 ;Automatically fills out forms
-Automatically fills out forms
+Yn llenwi ffurflenni yn awtomatig
 
 
 ;Search engine options
-Search engine options
+Dewis o beiriannau chwilio
 
 
 ;Text to speech
-Text to speech
+Testun i leferydd
 
 
 ;Reader mode
-Reader mode
+Modd darllen
 
 
 ;Spell checking
-Spell checking
+Gwirio sillafu
 
 
 ;Web extensions/Add-ons
-Web extensions/Add-ons
+Estyniadau gwe/Ychwanegion
 
 
 ;In-browser screenshot tool
-In-browser screenshot tool
+Teclyn llun sgrin o fewn y porwr
 
 
 # Firefox, Edge, and Opera are all brand names that shouldn't be translated.
 ;In addition to privacy protection, which largely takes place in the background of the browser, another key ingredient to a well-made browser is the actual user interface and functionality. Almost all six browsers are equal when it comes to tab browsing, bookmark management, auto-completion, proofreading and extensions. Firefox, Edge and Opera also offer a quick screenshot function that proves to be quite handy and is definitely something you notice is missing when you switch over to a browser without it.
-In addition to privacy protection, which largely takes place in the background of the browser, another key ingredient to a well-made browser is the actual user interface and functionality. Almost all six browsers are equal when it comes to tab browsing, bookmark management, auto-completion, proofreading and extensions. Firefox, Edge and Opera also offer a quick screenshot function that proves to be quite handy and is definitely something you notice is missing when you switch over to a browser without it.
+Yn ogystal â diogelu preifatrwydd, sy'n digwydd i raddau helaeth yng nghefndir y porwr, cynhwysyn allweddol arall i borwr wedi'i wneud yn dda yw'r rhyngwyneb defnyddiwr a'i ymarferoldeb. Mae bron pob un o'r chwe porwr yn gyfartal o ran pori tabiau, rheoli nodau tudalen, cwblhau awtogwblhau, prawf-ddarllen ac estyniadau. Mae Firefox, Edge ac Opera hefyd yn cynnig swyddogaeth llun sgrin cyflym sy'n profi i fod yn eithaf defnyddiol ac yn bendant yn rhywbeth rydych chi'n sylwi ei fod ar goll pan fyddwch chi'n newid i borwr hebddo.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Portability:</strong>
-<strong>Portability:</strong>
+<strong>Cludadwyedd:</strong>
 
 
 ;How well does your browser work across your devices?
-How well does your browser work across your devices?
+Pa mor dda y mae eich porwr yn gweithio ar draws eich dyfeisiau?
 
 
 ;Portability
-Portability
+Cludadwyedd
 
 
 ;OS availability
-OS availability
+Argaeledd OS
 
 
 ;Mobile OS availability
-Mobile OS availability
+Argaeledd OS symudol
 
 
 ;Syncs with mobile
-Syncs with mobile
+Cydweddu gyda dyfeisiau symudol
 
 
 ;Password management
-Password management
+Rheoli cyfrineiriau
 
 
 ;Master Password
-Master Password
+Prif Gyfrinair
 
 
 # Apple and Android are brand names that shouldn't be translated
 ;The first thing to point out about portability is that not all browsers run on all operating systems. While Firefox, Chrome and Opera work on all major systems and are easy to install, Internet Explorer, Edge and Safari only work on Microsoft and Apple’s own systems. The mobile version of Safari is pre-installed on Apple’s mobile devices, and most Android devices come with a pre-installed browser modified by the manufacturer for the device. Firefox, Chrome, Edge and Opera can easily be installed and even used side by side.
-The first thing to point out about portability is that not all browsers run on all operating systems. While Firefox, Chrome and Opera work on all major systems and are easy to install, Internet Explorer, Edge and Safari only work on Microsoft and Apple’s own systems. The mobile version of Safari is pre-installed on Apple’s mobile devices, and most Android devices come with a pre-installed browser modified by the manufacturer for the device. Firefox, Chrome, Edge and Opera can easily be installed and even used side by side.
+Y peth cyntaf i dynnu sylw ato am gludadwyedd yw nad yw pob porwr yn rhedeg ar bob system weithredu. Tra bod Firefox, Chrome ac Opera yn gweithio ar bob system fawr ac yn hawdd eu gosod, dim ond ar systemau Microsoft ac Apple eu hunain y mae Internet Explorer, Edge a Safari yn gweithio. Mae fersiwn symudol Safari wedi’i gosod ymlaen llaw ar ddyfeisiau symudol Apple, ac mae’r mwyafrif o ddyfeisiau Android yn dod gyda porwr wedi’i osod ymlaen llaw, wedi’i addasu gan y gwneuthurwr ar gyfer y ddyfais. Mae'n hawdd gosod Firefox, Chrome, Edge ac Opera a hyd yn oed eu defnyddio ochr yn ochr a'i gilydd.
 
 
 ;Almost all of the browsers compared here allow synchronization between desktop and mobile devices. You’ll need an account to do it, which you can use to log into the browser on all devices and synchronize things like passwords, browsing history, bookmarks and settings.
-Almost all of the browsers compared here allow synchronization between desktop and mobile devices. You’ll need an account to do it, which you can use to log into the browser on all devices and synchronize things like passwords, browsing history, bookmarks and settings.
+Mae bron pob un o'r porwyr sy'n cael eu cymharu yma yn caniatáu cydweddu rhwng dyfeisiau bwrdd gwaith a symudol. Bydd angen cyfrif arnoch i wneud hynny a'i ddefnyddio i fewngofnodi i'r porwr ar bob dyfais a chydweddu pethau fel cyfrineiriau, hanes pori, nodau tudalen a gosodiadau.
 
 
 ;Conclusion:
-Conclusion:
+Casgliadau:
 
 
 ;And the winner is…
-And the winner is…
+A'r enillydd yw…
 
 
 ;Based on the criteria we outlined — privacy, utility, and portability — there’s really only one browser that meets the mark, and that’s Firefox. The real area of difference isn’t in functionality, it’s privacy. Firefox is the most private browser that doesn’t lock you into an ecosystem. Use it on any operating system, on all your devices, and feel secure when you do.
-Based on the criteria we outlined — privacy, utility, and portability — there’s really only one browser that meets the mark, and that’s Firefox. The real area of difference isn’t in functionality, it’s privacy. Firefox is the most private browser that doesn’t lock you into an ecosystem. Use it on any operating system, on all your devices, and feel secure when you do.
+Yn seiliedig ar y meini prawf a amlinellwyd gennym - preifatrwydd, gwasanaethau, a chludadwyedd - dim ond un porwr sy'n cyrraedd y brig, a Firefox yw hwnnw. Nid ymarferoldeb sy'n eu gwahaniaeth ond breifatrwydd. Firefox yw'r porwr mwyaf preifat sydd ddim yn eich cloi i mewn i ecosystem. Gallwch ei ddefnyddiwch ef ar unrhyw system weithredu, ar eich holl ddyfeisiau, a theimlwch yn ddiogel wrth wneud hynny.
 
 
 ;Browsers have come a long way since Chrome was introduced and took over the market share. Most of the modern browsers have closed the gap on portability and functionality, and in some areas, like speed and privacy, have actually surpassed Chrome. Still, determining which browser is right for you will always depend on your individual needs and what you value most as you navigate online.
-Browsers have come a long way since Chrome was introduced and took over the market share. Most of the modern browsers have closed the gap on portability and functionality, and in some areas, like speed and privacy, have actually surpassed Chrome. Still, determining which browser is right for you will always depend on your individual needs and what you value most as you navigate online.
+Mae porwyr wedi dod yn bell ers cyflwyno Chrome a chymryd cyfran sylweddol o'r farchnad. Mae'r rhan fwyaf o'r porwyr modern wedi cau'r bwlch ar gludadwyedd ac ymarferoldeb, ac mewn rhai meysydd, fel cyflymder a phreifatrwydd, maen nhw wedi rhagori ar Chrome mewn gwirionedd. Er hynny, bydd penderfynu pa borwr sy'n iawn i chi bob amser yn dibynnu ar eich anghenion unigol a'r hyn rydych chi'n ei werthfawrogi fwyaf wrth i chi lywio ar-lein.
 
 
 ;The comparisons made here were done so across browser release versions as follows:
-The comparisons made here were done so across browser release versions as follows:
+Gwnaethpwyd y cymariaethau hyn ar draws fersiynau rhyddhad porwr fel a ganlyn:
 
 
 ;Firefox is backed by the not-for-profit Mozilla.
-Firefox is backed by the not-for-profit Mozilla.
+Mae Firefox yn cael ei gefnogi gan Mozilla, sy'n ddim-er-elw.
 
 
 ;Firefox puts your privacy first — in everything we make and do. We believe you have the right to decide how and with whom you share your personal information. Firefox collects as little data as possible and never sells it. The little data we do collect is only used to make products and features better. No secrets. But a lot of transparency and real privacy.
-Firefox puts your privacy first — in everything we make and do. We believe you have the right to decide how and with whom you share your personal information. Firefox collects as little data as possible and never sells it. The little data we do collect is only used to make products and features better. No secrets. But a lot of transparency and real privacy.
+Mae Firefox yn gosod eich preifatrwydd yn gyntaf - ym mhopeth a wnawn. Credwn fod gennych chi yr hawl i benderfynu sut a gyda phwy rydych chi'n rhannu eich manylion personol. Mae Firefox yn casglu cyn lleied o ddata â phosib ac ni fydd byth yn ei werthu. Dim ond i wneud cynnyrch a nodweddion gwell y byddwn yn defnyddio'r yr ychydig ddata rydym yn ei gasglu. Dim cyfrinachau. Ond llawer o dryloywder a phreifatrwydd go iawn.
 
 

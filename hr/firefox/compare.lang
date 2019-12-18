@@ -35,41 +35,41 @@ So is your browser the best one for what you do online? The right browser can ma
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Privacy:</strong>
-<strong>Privacy:</strong>
+<strong>Privatnost:</strong>
 
 
 ;Which browser is best at keeping things confidential?
-Which browser is best at keeping things confidential?
+Koji preglednik najbolje čuva stvari na povjerljiv način?
 
 
 ;Privacy
-Privacy
+Privatnost
 
 
 ;Private Browsing mode
-Private Browsing mode
+Način privatnog pregledavanja
 
 
 # Used as an accessible label for a "yes" icon (a green check mark)
 ;Yes
-Yes
+Da
 
 
 ;Blocks third-party tracking cookies
-Blocks third-party tracking cookies
+Blokira kolačiće za praćenje trećih strana
 
 
 # Used as an accessible label for a "no" icon (a gray bar)
 ;No
-No
+Ne
 
 
 ;Blocks cryptomining scripts
-Blocks cryptomining scripts
+Blokira skripte za kriptominiranje
 
 
 ;Blocks social trackers
-Blocks social trackers
+Blokira programe za praćenje društvenih mreža
 
 
 ;It’s not unreasonable to expect a high level of data protection and privacy from the products we regularly use to get online. At a minimum, a browser should offer some version of “private browsing mode” that automatically deletes your history and search history so other users on the same computer can’t access it. In this area, all six of the browsers compared here score points.
@@ -77,11 +77,11 @@ It’s not unreasonable to expect a high level of data protection and privacy fr
 
 
 ;What you do online literally shouldn’t be anyone else’s business.
-What you do online literally shouldn’t be anyone else’s business.
+To što radiš na mreži doslovno se ne tiče nikoga.
 
 
 ;Another browser feature that should be a given is the ability to prevent websites and companies from tracking your browsing and shopping data — even in normal browsing mode. But that’s actually not the case: in fact, the only browsers that block third party tracking cookies by default are Firefox and Safari.
-Another browser feature that should be a given is the ability to prevent websites and companies from tracking your browsing and shopping data — even in normal browsing mode. But that’s actually not the case: in fact, the only browsers that block third party tracking cookies by default are Firefox and Safari.
+Druga funkcija preglednika koja bi standardno trebala postojati je mogućnost sprečavanja web stranica i kompanija da prate tvoje podatke pregledavanja i kupovine – čak i u običnom načinu pregledavanja. To međutim nije slučaj: u stvari, jedini preglednici koji standardno blokiraju kolačiće za praćenje su Firefox i Safari.
 
 
 ;Using a browser that blocks third-party trackers isn’t just important for privacy — it usually means it runs much faster, too. Most trackers are just scripts that run in the background on a number of websites. You can’t see them, but you can feel them slowing down your browser. As of version 67 of Firefox, fingerprinting and cryptominers are also blocked. If you’re not familiar with cryptominers, here’s an example of how they can affect you: maybe you’ve experienced your computer suddenly running hotter or the battery depleting faster than normal. That’s often the byproduct of cryptominers creeping around on your device.
@@ -102,43 +102,43 @@ Utility
 
 
 ;Autoplay blocking
-Autoplay blocking
+Automatski pokreni blokiranje
 
 
 ;Tab browsing
-Tab browsing
+Pregledavanje pomoću kartica
 
 
 ;Bookmark manager
-Bookmark manager
+Upravljanje zabilješkama
 
 
 ;Automatically fills out forms
-Automatically fills out forms
+Automatski ispunjava obrasce
 
 
 ;Search engine options
-Search engine options
+Opcije za pretragu
 
 
 ;Text to speech
-Text to speech
+Tekst u govor
 
 
 ;Reader mode
-Reader mode
+Modus čitača
 
 
 ;Spell checking
-Spell checking
+Provjera pravopisa
 
 
 ;Web extensions/Add-ons
-Web extensions/Add-ons
+Web proširenja / dodaci
 
 
 ;In-browser screenshot tool
-In-browser screenshot tool
+U pregledniku ugrađeni alat za snimanje ekrana
 
 
 # Firefox, Edge, and Opera are all brand names that shouldn't be translated.
@@ -148,35 +148,35 @@ In addition to privacy protection, which largely takes place in the background o
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Portability:</strong>
-<strong>Portability:</strong>
+<strong>Prenosivost:</strong>
 
 
 ;How well does your browser work across your devices?
-How well does your browser work across your devices?
+Kako dobro funkcionira tvoj preglednik na tvojim uređajima?
 
 
 ;Portability
-Portability
+Prenosivost
 
 
 ;OS availability
-OS availability
+Dostupnost na operacijskim sustavima
 
 
 ;Mobile OS availability
-Mobile OS availability
+Dostupnost na operacijskim sustavima za mobitele
 
 
 ;Syncs with mobile
-Syncs with mobile
+Sinkronizira s mobilnim uređajima
 
 
 ;Password management
-Password management
+Upravljanje lozinkama
 
 
 ;Master Password
-Master Password
+Glavna lozinka
 
 
 # Apple and Android are brand names that shouldn't be translated
@@ -189,15 +189,15 @@ Almost all of the browsers compared here allow synchronization between desktop a
 
 
 ;Conclusion:
-Conclusion:
+Zaključak:
 
 
 ;And the winner is…
-And the winner is…
+Pobjednik je …
 
 
 ;Based on the criteria we outlined — privacy, utility, and portability — there’s really only one browser that meets the mark, and that’s Firefox. The real area of difference isn’t in functionality, it’s privacy. Firefox is the most private browser that doesn’t lock you into an ecosystem. Use it on any operating system, on all your devices, and feel secure when you do.
-Based on the criteria we outlined — privacy, utility, and portability — there’s really only one browser that meets the mark, and that’s Firefox. The real area of difference isn’t in functionality, it’s privacy. Firefox is the most private browser that doesn’t lock you into an ecosystem. Use it on any operating system, on all your devices, and feel secure when you do.
+Na temelju kriterija koje smo nabrojali – privatnost, korisnost i prenosivost – stvarno postoji samo jedan preglednik koji to sve ispunjava, a to je Firefox. Stvarna razlika nije funkcionalnost, već privatnosti. Firefox je najprivatniji preglednik koji te ne zaključava u ekosustav. Koristi ga na bilo kojem operacijskom sustavu, na svim svojim uređajima i osjećaj se sigurno.
 
 
 ;Browsers have come a long way since Chrome was introduced and took over the market share. Most of the modern browsers have closed the gap on portability and functionality, and in some areas, like speed and privacy, have actually surpassed Chrome. Still, determining which browser is right for you will always depend on your individual needs and what you value most as you navigate online.
@@ -209,7 +209,7 @@ The comparisons made here were done so across browser release versions as follow
 
 
 ;Firefox is backed by the not-for-profit Mozilla.
-Firefox is backed by the not-for-profit Mozilla.
+Firefox podupire neprofitna organizacija Mozilla.
 
 
 ;Firefox puts your privacy first — in everything we make and do. We believe you have the right to decide how and with whom you share your personal information. Firefox collects as little data as possible and never sells it. The little data we do collect is only used to make products and features better. No secrets. But a lot of transparency and real privacy.

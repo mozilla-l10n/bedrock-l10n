@@ -167,7 +167,7 @@ Pregledaj mrežne zahtjeve koji mogu usporiti ili blokirati tvoju stranicu.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Network_Monitor
 ;Learn more about Network Monitor
-Saznajte više o monitoringu mreže
+Saznaj više o praćenju mrežnog sustava
 
 
 ;Storage panel
@@ -175,7 +175,7 @@ Ploča spremišta
 
 
 ;Add, modify and remove cache, cookies, databases and session data.
-Add, modify and remove cache, cookies, databases and session data.
+Dodaj, mijenjaj i uklanjaj predmemoriju, kolačiće, baze podataka i podatke sesija.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Storage_Inspector
@@ -188,7 +188,7 @@ Responzivni dizajn
 
 
 ;Test sites on emulated devices in your browser.
-Test sites on emulated devices in your browser.
+Testiraj stranice na emuliranim uređajima u tvom pregledniku.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Responsive_Design_View
@@ -214,7 +214,7 @@ Performansa
 
 
 ;Unblock bottlenecks, streamline processes, optimize assets.
-Unblock bottlenecks, streamline processes, optimize assets.
+Deblokiraj problematična mjesta, pojednostavi procese, optimiraj sredstva.
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Performance

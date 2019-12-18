@@ -1,218 +1,219 @@
+## active ##
 # HTML page title and main headline
 ;Six of the best browsers in direct comparison
-Six of the best browsers in direct comparison
+Sex del le melior navigatores in directe comparation
 
 
 # HTML description
 # Firefox, Chrome, Edge, Safari, Opera and Internet Explorer are all brand names that shouldn't be translated.
 ;Find out how Firefox, Chrome, Edge, Safari, Opera and Internet Explorer differ in terms of privacy, utility and portability.
-Find out how Firefox, Chrome, Edge, Safari, Opera and Internet Explorer differ in terms of privacy, utility and portability.
+Discoperi como Firefox, Chrome, Edge, Safari, Opera e Internet Explorer differe in terminos de confidentialitate, utilitate e portabilitate.
 
 
 # Sub-headline.
 ;Privacy. Utility. Portability.
-Privacy. Utility. Portability.
+Confidentialitate. Utilitate. Portabilitate.
 
 
 # Firefox, Chrome, Edge, Safari, Opera and Internet Explorer are all brand names that shouldn't be translated.
 ;Looking for a better browser? We’ll compare Firefox with Chrome, Edge, Safari, Opera and Internet Explorer to help you make your decision.
-Looking for a better browser? We’ll compare Firefox with Chrome, Edge, Safari, Opera and Internet Explorer to help you make your decision.
+Cerca tu un navigator melior? Nos comparara Firefox con Chrome, Edge, Safari, Opera e Internet Explorer pro adjutar te a prender le decision.
 
 
 ;A great internet browser should have the functionality you need, portability across devices, and the privacy you deserve.
-A great internet browser should have the functionality you need, portability across devices, and the privacy you deserve.
+Un optime navigator internet deberea haber le functionalitate que te besonia, portabilitate inter le apparatos e le confidentialitate que tu merita.
 
 
 # Google Chrome is a brand name that shouldn't be translated.
 ;Since your browser is your gateway to the internet, speed, security, privacy and utility are paramount. In recent years, Google Chrome has been the browser of choice for many. But at a time when online ads seem to follow us everywhere and data breaches are a fixture of news headlines, a lot of people are starting to demand more privacy and respect from their browser.
-Since your browser is your gateway to the internet, speed, security, privacy and utility are paramount. In recent years, Google Chrome has been the browser of choice for many. But at a time when online ads seem to follow us everywhere and data breaches are a fixture of news headlines, a lot of people are starting to demand more privacy and respect from their browser.
+Pois que tu navigator es tu porta a internet, es importante velocitate, securitate, confidentialitate e utilitate. In annos recente, Google Chrome ha essite le navigator de election pro multes. Ma in un tempore quando avisos publicitari online pare sequer nos ubique e violationes de datos es un elemento fixe del titulos de novas, plure personas initia a demandar plus discretion e respecto per lor navigator.
 
 
 # Google Chrome, Firefox, Safari, Opera and Microsoft Internet Explorer and Edge are all brand names that shouldn't be translated.
 ;So is your browser the best one for what you do online? The right browser can make a big difference in how you experience the web. So, without further ado, let’s compare Google Chrome, Firefox, Safari, Opera, Microsoft Internet Explorer and Edge — and see which best suits your needs.
-So is your browser the best one for what you do online? The right browser can make a big difference in how you experience the web. So, without further ado, let’s compare Google Chrome, Firefox, Safari, Opera, Microsoft Internet Explorer and Edge — and see which best suits your needs.
+Assi es tu navigator le melior pro lo que tu face online? Le juste navigator pote facer un grande differentia in tu experientia del Web. Assi, sin altere agitation, que nos compara Google Chrome, Firefox, Safari, Opera, Microsoft internet Explorer e Edge e vide qual seque melio tu requisitos.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Privacy:</strong>
-<strong>Privacy:</strong>
+<strong>Confidentialitate:</strong>
 
 
 ;Which browser is best at keeping things confidential?
-Which browser is best at keeping things confidential?
+Qual navigator es melior pro tener confidential le cosas?
 
 
 ;Privacy
-Privacy
+Confidentialitate
 
 
 ;Private Browsing mode
-Private Browsing mode
+Modo de navigation private
 
 
 # Used as an accessible label for a "yes" icon (a green check mark)
 ;Yes
-Yes
+Si
 
 
 ;Blocks third-party tracking cookies
-Blocks third-party tracking cookies
+Bloca le cookies de traciamento de tertie-partes
 
 
 # Used as an accessible label for a "no" icon (a gray bar)
 ;No
-No
+No {ok}
 
 
 ;Blocks cryptomining scripts
-Blocks cryptomining scripts
+Bloca le scripts cryptominatores
 
 
 ;Blocks social trackers
-Blocks social trackers
+Bloca le traciatores social
 
 
 ;It’s not unreasonable to expect a high level of data protection and privacy from the products we regularly use to get online. At a minimum, a browser should offer some version of “private browsing mode” that automatically deletes your history and search history so other users on the same computer can’t access it. In this area, all six of the browsers compared here score points.
-It’s not unreasonable to expect a high level of data protection and privacy from the products we regularly use to get online. At a minimum, a browser should offer some version of “private browsing mode” that automatically deletes your history and search history so other users on the same computer can’t access it. In this area, all six of the browsers compared here score points.
+Il non es irrationabile expectar se un alte nivello de protection de datos e confidentialitate per le productos que nos regularmente usa pro acceder online. Al minimo, un navigator deberea offerer alcun version de “modo navigation anonyme” que dele automaticamente tu chronologia e chronologia de recerca assi que altere usatores al mesme computator non pote acceder lo. In iste area, tote le sex navigatores comparate ci obtene punctos.
 
 
 ;What you do online literally shouldn’t be anyone else’s business.
-What you do online literally shouldn’t be anyone else’s business.
+Lo que tu face online literalmente non deberea esser negotio de quicunque altere.
 
 
 ;Another browser feature that should be a given is the ability to prevent websites and companies from tracking your browsing and shopping data — even in normal browsing mode. But that’s actually not the case: in fact, the only browsers that block third party tracking cookies by default are Firefox and Safari.
-Another browser feature that should be a given is the ability to prevent websites and companies from tracking your browsing and shopping data — even in normal browsing mode. But that’s actually not the case: in fact, the only browsers that block third party tracking cookies by default are Firefox and Safari.
+Un altere functionalitate que deberea esser fornite per le navigator es le capacitate de impedir al sitos web e al companias le traciamento de tu exploration e de tu datos de compras, mesmo in modo navigation normal. Ma il non es realmente le caso: de facto, le solo navigatores que bloca de ordinario cookies traciator de tertie parte es Firefox e Safari.
 
 
 ;Using a browser that blocks third-party trackers isn’t just important for privacy — it usually means it runs much faster, too. Most trackers are just scripts that run in the background on a number of websites. You can’t see them, but you can feel them slowing down your browser. As of version 67 of Firefox, fingerprinting and cryptominers are also blocked. If you’re not familiar with cryptominers, here’s an example of how they can affect you: maybe you’ve experienced your computer suddenly running hotter or the battery depleting faster than normal. That’s often the byproduct of cryptominers creeping around on your device.
-Using a browser that blocks third-party trackers isn’t just important for privacy — it usually means it runs much faster, too. Most trackers are just scripts that run in the background on a number of websites. You can’t see them, but you can feel them slowing down your browser. As of version 67 of Firefox, fingerprinting and cryptominers are also blocked. If you’re not familiar with cryptominers, here’s an example of how they can affect you: maybe you’ve experienced your computer suddenly running hotter or the battery depleting faster than normal. That’s often the byproduct of cryptominers creeping around on your device.
+Usar un navigator que bloca traciatores de tertie-parte non es solo importante pro confidentialitate, il significa anque que illo usualmente flue multo plus veloce. Le major parte del traciatores es solo scripts que flue in le fundo sur plure sitos web. Tu non vide los, ma tu pote sentir los relentar tu navigator. Desde le version 67 de Firefox, es blocate alsi dactylogrammatores e cryptominatores. Si tu non es familiar con cryptominatores, ecce un exemplo de como illes pote afficer tu: forsan tu ha habite experientia tu computator calefacer rapidemente o le batteria depler plus veloce que normal. Illo es sovente le subproducto de cryptominatores que entrava furtive in tu apparato.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Utility:</strong>
-<strong>Utility:</strong>
+<strong>Utilitate:</strong>
 
 
 ;What has your browser done for you lately?
-What has your browser done for you lately?
+Que ha facite ultimemente tu navigator pro tu?
 
 
 ;Utility
-Utility
+Utilitate
 
 
 ;Autoplay blocking
-Autoplay blocking
+Blocada de auto-reproduction
 
 
 ;Tab browsing
-Tab browsing
+Navigation a schedas
 
 
 ;Bookmark manager
-Bookmark manager
+Gestor de marcapaginas
 
 
 ;Automatically fills out forms
-Automatically fills out forms
+Plenamento automatic del formularios
 
 
 ;Search engine options
-Search engine options
+Optiones de motor de recerca
 
 
 ;Text to speech
-Text to speech
+De texto a voce
 
 
 ;Reader mode
-Reader mode
+Modo lector
 
 
 ;Spell checking
-Spell checking
+Controlo del orthographia
 
 
 ;Web extensions/Add-ons
-Web extensions/Add-ons
+Extensiones o additivos Web
 
 
 ;In-browser screenshot tool
-In-browser screenshot tool
+Utensile de instantaneo integrate al navigator
 
 
 # Firefox, Edge, and Opera are all brand names that shouldn't be translated.
 ;In addition to privacy protection, which largely takes place in the background of the browser, another key ingredient to a well-made browser is the actual user interface and functionality. Almost all six browsers are equal when it comes to tab browsing, bookmark management, auto-completion, proofreading and extensions. Firefox, Edge and Opera also offer a quick screenshot function that proves to be quite handy and is definitely something you notice is missing when you switch over to a browser without it.
-In addition to privacy protection, which largely takes place in the background of the browser, another key ingredient to a well-made browser is the actual user interface and functionality. Almost all six browsers are equal when it comes to tab browsing, bookmark management, auto-completion, proofreading and extensions. Firefox, Edge and Opera also offer a quick screenshot function that proves to be quite handy and is definitely something you notice is missing when you switch over to a browser without it.
+In addition al protection del confidentialitate, que largemente functiona maximemente in le fundo del navigator, un altere ingrediente clave pro un navigator ben facite es le real interfacie de usator e functionalitate. Quasi tote le sex navigatores es equal quando illo veni a navigation a schedas, marcapagina gestion de, auto-completion, proofreading e le extensiones. Quasi tote le sex navigatores es equal quando illo veni a navigation a schedas, marcapagina gestion de, auto-completion, proofreading e le extensiones.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Portability:</strong>
-<strong>Portability:</strong>
+<strong>Portabilitate:</strong>
 
 
 ;How well does your browser work across your devices?
-How well does your browser work across your devices?
+Quanto ben tu navigator labora inter tu differente apparatos?
 
 
 ;Portability
-Portability
+Portabilitate.
 
 
 ;OS availability
-OS availability
+Disponibilitate pro systemas operative
 
 
 ;Mobile OS availability
-Mobile OS availability
+Disponibilitate pro systemas operative mobile
 
 
 ;Syncs with mobile
-Syncs with mobile
+Se synchronisa con apparatos mobile
 
 
 ;Password management
-Password management
+Gestion de contrasigno
 
 
 ;Master Password
-Master Password
+Contrasigno maestro
 
 
 # Apple and Android are brand names that shouldn't be translated
 ;The first thing to point out about portability is that not all browsers run on all operating systems. While Firefox, Chrome and Opera work on all major systems and are easy to install, Internet Explorer, Edge and Safari only work on Microsoft and Apple’s own systems. The mobile version of Safari is pre-installed on Apple’s mobile devices, and most Android devices come with a pre-installed browser modified by the manufacturer for the device. Firefox, Chrome, Edge and Opera can easily be installed and even used side by side.
-The first thing to point out about portability is that not all browsers run on all operating systems. While Firefox, Chrome and Opera work on all major systems and are easy to install, Internet Explorer, Edge and Safari only work on Microsoft and Apple’s own systems. The mobile version of Safari is pre-installed on Apple’s mobile devices, and most Android devices come with a pre-installed browser modified by the manufacturer for the device. Firefox, Chrome, Edge and Opera can easily be installed and even used side by side.
+Le prime cosa a indicar re le portabilitate es que non tote le navigatores flue sur tote le systemas operative. Durante que Firefox, Chrome e Opera labora sur tote le major systemas e es facile a installar, Internet Explorer, Edge e Safari labora solo sur systemas proprietari de Microsoft e Apple. Le version mobile de Safari es pre-installate sur apparatos mobile de Apple e le major parte del apparatos Android es fornite de un navigator pre-installate modificate per le fabricante pro ille dispositivos. Firefox, Chrome, Edge e Opera pote facilemente ser installate e mesmo usate latere a latere.
 
 
 ;Almost all of the browsers compared here allow synchronization between desktop and mobile devices. You’ll need an account to do it, which you can use to log into the browser on all devices and synchronize things like passwords, browsing history, bookmarks and settings.
-Almost all of the browsers compared here allow synchronization between desktop and mobile devices. You’ll need an account to do it, which you can use to log into the browser on all devices and synchronize things like passwords, browsing history, bookmarks and settings.
+Quasi tote le navigatores comparate hic consenti synchronisation inter apparatos de scriptorio e mobile. Tu debera haber un conto pro facer lo, que tu pote usar pro acceder al navigator sur tote le apparatos e synchronisar cosas como contrasignos, chronologia de exploration, marcapaginas e parametros.
 
 
 ;Conclusion:
-Conclusion:
+Conclusion: {ok}
 
 
 ;And the winner is…
-And the winner is…
+E le vincitor es…
 
 
 ;Based on the criteria we outlined — privacy, utility, and portability — there’s really only one browser that meets the mark, and that’s Firefox. The real area of difference isn’t in functionality, it’s privacy. Firefox is the most private browser that doesn’t lock you into an ecosystem. Use it on any operating system, on all your devices, and feel secure when you do.
-Based on the criteria we outlined — privacy, utility, and portability — there’s really only one browser that meets the mark, and that’s Firefox. The real area of difference isn’t in functionality, it’s privacy. Firefox is the most private browser that doesn’t lock you into an ecosystem. Use it on any operating system, on all your devices, and feel secure when you do.
+In base al criterios delineate de confidentialitate, utilitate e portabilitate, il ha realmente solo un navigator que attinge le marca: Firefox. Le area de differentia effective non es in functionalitate, ma le discretion. Firefox es le navigator plus reservate que non te bloca in un ecosystema. Usa lo sur ulle systema operative, sur tote tu apparatos e senti te secur quando tu lo face.
 
 
 ;Browsers have come a long way since Chrome was introduced and took over the market share. Most of the modern browsers have closed the gap on portability and functionality, and in some areas, like speed and privacy, have actually surpassed Chrome. Still, determining which browser is right for you will always depend on your individual needs and what you value most as you navigate online.
-Browsers have come a long way since Chrome was introduced and took over the market share. Most of the modern browsers have closed the gap on portability and functionality, and in some areas, like speed and privacy, have actually surpassed Chrome. Still, determining which browser is right for you will always depend on your individual needs and what you value most as you navigate online.
+Le navigatores ha facite un longe strata post que Chrome ha essite introducite e ha prendite le quota de mercato. Le major parte del moderne navigatores ha plenate le lacuna sur portabilitate e functionalitate e in alcun areas, como velocitate e confidentialitate, ha realmente superate Chrome. Totevia, determinar qual navigator es justo pro tu dependera sempre de tu personal necessitates e de illo que tu apprecia plus quando tu naviga online.
 
 
 ;The comparisons made here were done so across browser release versions as follows:
-The comparisons made here were done so across browser release versions as follows:
+Le comparationes facite ci ha essite facite inter le versiones de navigatores como seque:
 
 
 ;Firefox is backed by the not-for-profit Mozilla.
-Firefox is backed by the not-for-profit Mozilla.
+Firefox es supportate per le organisation non lucrative Mozilla.
 
 
 ;Firefox puts your privacy first — in everything we make and do. We believe you have the right to decide how and with whom you share your personal information. Firefox collects as little data as possible and never sells it. The little data we do collect is only used to make products and features better. No secrets. But a lot of transparency and real privacy.
-Firefox puts your privacy first — in everything we make and do. We believe you have the right to decide how and with whom you share your personal information. Firefox collects as little data as possible and never sells it. The little data we do collect is only used to make products and features better. No secrets. But a lot of transparency and real privacy.
+Firefox antepone tu discretion, in toto lo que nos produce e face. Nos crede que tu ha le derecto de decider como e con qui tu comparti tu informationes personal. Firefox collige quanto minus datos possibile e jammais vende los. Le poc datos que nos collige es solo usate pro crear productos e functionalitates melior. Nulle secretos. Ma multe transparentia e real confidentialitate.
 
 

@@ -1,12 +1,12 @@
 # HTML page title and main headline
 ;Six of the best browsers in direct comparison
-Six of the best browsers in direct comparison
+De zes beste browsers rechtstreeks vergeleken
 
 
 # HTML description
 # Firefox, Chrome, Edge, Safari, Opera and Internet Explorer are all brand names that shouldn't be translated.
 ;Find out how Firefox, Chrome, Edge, Safari, Opera and Internet Explorer differ in terms of privacy, utility and portability.
-Find out how Firefox, Chrome, Edge, Safari, Opera and Internet Explorer differ in terms of privacy, utility and portability.
+Ontdek hoe Firefox, Chrome, Edge, Safari, Opera en Internet Explorer van elkaar verschillen in termen van privacy, nuttigheid en mobiliteit.
 
 
 # Sub-headline.
@@ -16,7 +16,7 @@ Privacy. Utility. Portability.
 
 # Firefox, Chrome, Edge, Safari, Opera and Internet Explorer are all brand names that shouldn't be translated.
 ;Looking for a better browser? We’ll compare Firefox with Chrome, Edge, Safari, Opera and Internet Explorer to help you make your decision.
-Looking for a better browser? We’ll compare Firefox with Chrome, Edge, Safari, Opera and Internet Explorer to help you make your decision.
+Op zoek naar een betere browser? We vergelijken Firefox met Chrome, Edge, Safari, Opera en Internet Explorer om u te helpen een keuze te maken.
 
 
 ;A great internet browser should have the functionality you need, portability across devices, and the privacy you deserve.
@@ -35,7 +35,7 @@ So is your browser the best one for what you do online? The right browser can ma
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Privacy:</strong>
-<strong>Privacy:</strong>
+<strong>Privacy:</strong> {ok}
 
 
 ;Which browser is best at keeping things confidential?
@@ -43,16 +43,16 @@ Which browser is best at keeping things confidential?
 
 
 ;Privacy
-Privacy
+Privacy {ok}
 
 
 ;Private Browsing mode
-Private Browsing mode
+Privénavigatiemodus
 
 
 # Used as an accessible label for a "yes" icon (a green check mark)
 ;Yes
-Yes
+Ja
 
 
 ;Blocks third-party tracking cookies
@@ -61,7 +61,7 @@ Blocks third-party tracking cookies
 
 # Used as an accessible label for a "no" icon (a gray bar)
 ;No
-No
+Nee
 
 
 ;Blocks cryptomining scripts
@@ -94,7 +94,7 @@ Using a browser that blocks third-party trackers isn’t just important for priv
 
 
 ;What has your browser done for you lately?
-What has your browser done for you lately?
+Wat heeft uw browser de laatste tijd voor u gedaan?
 
 
 ;Utility
@@ -102,81 +102,81 @@ Utility
 
 
 ;Autoplay blocking
-Autoplay blocking
+Automatisch afspelen blokkeren
 
 
 ;Tab browsing
-Tab browsing
+Navigeren met tabbladen
 
 
 ;Bookmark manager
-Bookmark manager
+Bladwijzerbeheerder
 
 
 ;Automatically fills out forms
-Automatically fills out forms
+Automatisch invullen van formulieren
 
 
 ;Search engine options
-Search engine options
+Zoekmachine-opties
 
 
 ;Text to speech
-Text to speech
+Tekst naar spraak
 
 
 ;Reader mode
-Reader mode
+Lezermodus
 
 
 ;Spell checking
-Spell checking
+Spellingscontrole
 
 
 ;Web extensions/Add-ons
-Web extensions/Add-ons
+Webextensies/add-ons
 
 
 ;In-browser screenshot tool
-In-browser screenshot tool
+Hulpmiddel voor schermafdrukken in de browser
 
 
 # Firefox, Edge, and Opera are all brand names that shouldn't be translated.
 ;In addition to privacy protection, which largely takes place in the background of the browser, another key ingredient to a well-made browser is the actual user interface and functionality. Almost all six browsers are equal when it comes to tab browsing, bookmark management, auto-completion, proofreading and extensions. Firefox, Edge and Opera also offer a quick screenshot function that proves to be quite handy and is definitely something you notice is missing when you switch over to a browser without it.
-In addition to privacy protection, which largely takes place in the background of the browser, another key ingredient to a well-made browser is the actual user interface and functionality. Almost all six browsers are equal when it comes to tab browsing, bookmark management, auto-completion, proofreading and extensions. Firefox, Edge and Opera also offer a quick screenshot function that proves to be quite handy and is definitely something you notice is missing when you switch over to a browser without it.
+Naast privacybescherming, die grotendeels in de achtergrond van de browser plaatsvindt, is een ander belangrijk ingrediënt van een goed gemaakte browser de daadwerkelijke gebruikersinterface en functionaliteit. Bijna alle zes browsers zijn gelijk als het gaat om navigatie met tabbladen, bladwijzerbeheer, automatisch aanvullen, proeflezen en extensies. Firefox, Edge en Opera bieden ook een functie voor snelle schermafdrukken, die erg handig blijkt te zijn en zeker iets is dat opvalt als u overschakelt naar een browser zonder.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Portability:</strong>
-<strong>Portability:</strong>
+<strong>Mobiliteit:</strong>
 
 
 ;How well does your browser work across your devices?
-How well does your browser work across your devices?
+Hoe goed werkt uw browser op al uw apparaten?
 
 
 ;Portability
-Portability
+Mobiliteit
 
 
 ;OS availability
-OS availability
+Beschikbaarheid op besturingssystemen
 
 
 ;Mobile OS availability
-Mobile OS availability
+Beschikbaarheid op mobiele besturingssystemen
 
 
 ;Syncs with mobile
-Syncs with mobile
+Synchroniseert met mobiel
 
 
 ;Password management
-Password management
+Wachtwoordenbeheer
 
 
 ;Master Password
-Master Password
+Hoofdwachtwoord
 
 
 # Apple and Android are brand names that shouldn't be translated
@@ -189,11 +189,11 @@ Almost all of the browsers compared here allow synchronization between desktop a
 
 
 ;Conclusion:
-Conclusion:
+Conclusie:
 
 
 ;And the winner is…
-And the winner is…
+En de winnaar is…
 
 
 ;Based on the criteria we outlined — privacy, utility, and portability — there’s really only one browser that meets the mark, and that’s Firefox. The real area of difference isn’t in functionality, it’s privacy. Firefox is the most private browser that doesn’t lock you into an ecosystem. Use it on any operating system, on all your devices, and feel secure when you do.
