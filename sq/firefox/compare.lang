@@ -1,218 +1,219 @@
+## active ##
 # HTML page title and main headline
 ;Six of the best browsers in direct comparison
-Six of the best browsers in direct comparison
+Gjashtë nga shfletuesit më të mirë në krahasim të drejtpërdrejtë
 
 
 # HTML description
 # Firefox, Chrome, Edge, Safari, Opera and Internet Explorer are all brand names that shouldn't be translated.
 ;Find out how Firefox, Chrome, Edge, Safari, Opera and Internet Explorer differ in terms of privacy, utility and portability.
-Find out how Firefox, Chrome, Edge, Safari, Opera and Internet Explorer differ in terms of privacy, utility and portability.
+Shihni se si dallojnë nga njëri-tjetri Firefox-i, Chrome-i, Edge-i, Safari, Opera dhe Internet Explorer -i, kur vjen puna te privatësia, përdorimi dhe të qenët të bartshëm.
 
 
 # Sub-headline.
 ;Privacy. Utility. Portability.
-Privacy. Utility. Portability.
+Privatësi. Përdorim. Bartje.
 
 
 # Firefox, Chrome, Edge, Safari, Opera and Internet Explorer are all brand names that shouldn't be translated.
 ;Looking for a better browser? We’ll compare Firefox with Chrome, Edge, Safari, Opera and Internet Explorer to help you make your decision.
-Looking for a better browser? We’ll compare Firefox with Chrome, Edge, Safari, Opera and Internet Explorer to help you make your decision.
+Po kërkoni një shfletues më të mirë? Do të krahasojmë Firefox-in me Chrome-in, Edge-in, Safari-in, Opera-n dhe Internet Explorer-in, që t’ju ndihmojmë të ndani mendjen.
 
 
 ;A great internet browser should have the functionality you need, portability across devices, and the privacy you deserve.
-A great internet browser should have the functionality you need, portability across devices, and the privacy you deserve.
+Një shfletues i fuqishëm internet duhet të ketë funksionet që ju duhen, aftësinë për t’u bartur nga një pajisje në tjetër dhe privatësinë që meritoni.
 
 
 # Google Chrome is a brand name that shouldn't be translated.
 ;Since your browser is your gateway to the internet, speed, security, privacy and utility are paramount. In recent years, Google Chrome has been the browser of choice for many. But at a time when online ads seem to follow us everywhere and data breaches are a fixture of news headlines, a lot of people are starting to demand more privacy and respect from their browser.
-Since your browser is your gateway to the internet, speed, security, privacy and utility are paramount. In recent years, Google Chrome has been the browser of choice for many. But at a time when online ads seem to follow us everywhere and data breaches are a fixture of news headlines, a lot of people are starting to demand more privacy and respect from their browser.
+Ngaqë shfletuesi juaj është porta juaj në internet, shpejtësia, siguria, privatësia dhe përdorimi nuk diskutohen. Vitet e fundit, Google Chrome ka qenë shfletuesi i zemrës për mjaft vetë. Por në një kohë kur reklamat internetore duket se ju ndjekin ngado dhe cenimet e të dhënave kanë hedhur spirancën në titujt e lajmeve, shumë vetë kanë zënë të kërkojnë më tepër privatësi dhe respekt nga shfletuesi i tyre.
 
 
 # Google Chrome, Firefox, Safari, Opera and Microsoft Internet Explorer and Edge are all brand names that shouldn't be translated.
 ;So is your browser the best one for what you do online? The right browser can make a big difference in how you experience the web. So, without further ado, let’s compare Google Chrome, Firefox, Safari, Opera, Microsoft Internet Explorer and Edge — and see which best suits your needs.
-So is your browser the best one for what you do online? The right browser can make a big difference in how you experience the web. So, without further ado, let’s compare Google Chrome, Firefox, Safari, Opera, Microsoft Internet Explorer and Edge — and see which best suits your needs.
+Pra, është shfletuesi juaj më i miri për ato çka bëni në internet? Shfletuesi i duhur mund të sjellë një ndryshim të madh në mënyrën se si përdorni internetin. Ndaj, pa humbur kohë, le të krahasojmë Google Chrome-in, Firefox-in, Safari-in, Opera-n, Microsoft Internet Explorer-in dhe Edge-in — dhe të shohim se cili u shkon më për shtat nevojave tuaja.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Privacy:</strong>
-<strong>Privacy:</strong>
+<strong>Privatësi:</strong>
 
 
 ;Which browser is best at keeping things confidential?
-Which browser is best at keeping things confidential?
+Cili shfletues është më i miri për t’i mbajtur gjërat të fshehta?
 
 
 ;Privacy
-Privacy
+Privatësi
 
 
 ;Private Browsing mode
-Private Browsing mode
+Mënyra Shfletim Privat
 
 
 # Used as an accessible label for a "yes" icon (a green check mark)
 ;Yes
-Yes
+Po
 
 
 ;Blocks third-party tracking cookies
-Blocks third-party tracking cookies
+Bllokon cookie-t nga palë gjurmuese të treta
 
 
 # Used as an accessible label for a "no" icon (a gray bar)
 ;No
-No
+Jo
 
 
 ;Blocks cryptomining scripts
-Blocks cryptomining scripts
+Bllokon programthe nxjerrjeje kriptomonedhash
 
 
 ;Blocks social trackers
-Blocks social trackers
+Bllokon gjurmues platformash shoqërore
 
 
 ;It’s not unreasonable to expect a high level of data protection and privacy from the products we regularly use to get online. At a minimum, a browser should offer some version of “private browsing mode” that automatically deletes your history and search history so other users on the same computer can’t access it. In this area, all six of the browsers compared here score points.
-It’s not unreasonable to expect a high level of data protection and privacy from the products we regularly use to get online. At a minimum, a browser should offer some version of “private browsing mode” that automatically deletes your history and search history so other users on the same computer can’t access it. In this area, all six of the browsers compared here score points.
+Të pritet një shkallë e lartë mbrojtjeje të dhënash dhe privatësie prej produkteve që përdorim rregullisht në internet, s’është diçka e paarsyeshme. Minimumi, një shfletues duhet të ofrojë një farë versioni “mënyre shfletimi privat” që fshin automatikisht historikun dhe historikun e kërkimeve tuaja, që kështu përdorues të tjerë në të njëjtin kompjuter të mos mund të hyjnë në to. Në këtë fushë, krejt gjashtë shfletuesit e krahasuar këtu kapin pikë.
 
 
 ;What you do online literally shouldn’t be anyone else’s business.
-What you do online literally shouldn’t be anyone else’s business.
+Ajo ç’ka bëni në internet, troç s’ka pse t’i hyjë kujt në xhep.
 
 
 ;Another browser feature that should be a given is the ability to prevent websites and companies from tracking your browsing and shopping data — even in normal browsing mode. But that’s actually not the case: in fact, the only browsers that block third party tracking cookies by default are Firefox and Safari.
-Another browser feature that should be a given is the ability to prevent websites and companies from tracking your browsing and shopping data — even in normal browsing mode. But that’s actually not the case: in fact, the only browsers that block third party tracking cookies by default are Firefox and Safari.
+Një tjetër veçori shfletuesish që s’duhet diskutuar është aftësia për të penguar sajte dhe shoqëri të ndjekin të dhënat tuaja të shfletimin dhe të blerjeve — qoftë edhe nën mënyrën normale të shfletimit. Por faktikisht s’është kështu: në fakt, të vetmit shfletues që bllokojnë, si parazgjedhje, <em>cookies</em> gjurmimi palësh të treta janë Firefox-i dhe Safari.
 
 
 ;Using a browser that blocks third-party trackers isn’t just important for privacy — it usually means it runs much faster, too. Most trackers are just scripts that run in the background on a number of websites. You can’t see them, but you can feel them slowing down your browser. As of version 67 of Firefox, fingerprinting and cryptominers are also blocked. If you’re not familiar with cryptominers, here’s an example of how they can affect you: maybe you’ve experienced your computer suddenly running hotter or the battery depleting faster than normal. That’s often the byproduct of cryptominers creeping around on your device.
-Using a browser that blocks third-party trackers isn’t just important for privacy — it usually means it runs much faster, too. Most trackers are just scripts that run in the background on a number of websites. You can’t see them, but you can feel them slowing down your browser. As of version 67 of Firefox, fingerprinting and cryptominers are also blocked. If you’re not familiar with cryptominers, here’s an example of how they can affect you: maybe you’ve experienced your computer suddenly running hotter or the battery depleting faster than normal. That’s often the byproduct of cryptominers creeping around on your device.
+Përdorimi i një shfletuesi që bllokon gjurmues prej palësh të treta s’është thjesht i rëndësishëm për privatësinë — zakonisht do të thotë se shfletuesi edhe xhiron shumë më shpejt. Shumë gjurmues janë thjesht programthe që xhirojnë në prapaskenë në një numër sajtesh. S’i shihni dot, por e ndjeni si ju ngadalësojnë shfletuesin. Që nga versioni 67 i Firefox-it, krijuesit e shenjave të gishtave dhe nxjerrësit e kriptomonedhave bllokohen. Nëse s’jeni të familjarizuar me nxjerrësit e kriptomonedhave, ja një shembull se si mund të ndikojnë në shfletimin tuaj: ndoshta ju ka ndodhur që kompjuteri papritmas të nxehet ose bateria të shkarkohet më shpejt se zakonisht. Shpesh kjo është efekt i përzierjes së nxjerrësve të kriptomonedhave me pajisjen tuaj.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Utility:</strong>
-<strong>Utility:</strong>
+<strong>Përdorim:</strong>
 
 
 ;What has your browser done for you lately?
-What has your browser done for you lately?
+Ç’ka bërë për ju shfletuesi juaj tani së fundit?
 
 
 ;Utility
-Utility
+Përdorim
 
 
 ;Autoplay blocking
-Autoplay blocking
+Bllokim vetëluajtjesh
 
 
 ;Tab browsing
-Tab browsing
+Shfletim me skeda
 
 
 ;Bookmark manager
-Bookmark manager
+Përgjegjës faqerojtësish
 
 
 ;Automatically fills out forms
-Automatically fills out forms
+Plotëson automatikisht formularë
 
 
 ;Search engine options
-Search engine options
+Mundësi motori kërkimesh
 
 
 ;Text to speech
-Text to speech
+Tekst në të folur
 
 
 ;Reader mode
-Reader mode
+Mënyra Lexues
 
 
 ;Spell checking
-Spell checking
+Kontroll drejtshkrimi
 
 
 ;Web extensions/Add-ons
-Web extensions/Add-ons
+Zgjerime/Shtesa
 
 
 ;In-browser screenshot tool
-In-browser screenshot tool
+Mjet fotografimi ekrani brenda shfletuesit
 
 
 # Firefox, Edge, and Opera are all brand names that shouldn't be translated.
 ;In addition to privacy protection, which largely takes place in the background of the browser, another key ingredient to a well-made browser is the actual user interface and functionality. Almost all six browsers are equal when it comes to tab browsing, bookmark management, auto-completion, proofreading and extensions. Firefox, Edge and Opera also offer a quick screenshot function that proves to be quite handy and is definitely something you notice is missing when you switch over to a browser without it.
-In addition to privacy protection, which largely takes place in the background of the browser, another key ingredient to a well-made browser is the actual user interface and functionality. Almost all six browsers are equal when it comes to tab browsing, bookmark management, auto-completion, proofreading and extensions. Firefox, Edge and Opera also offer a quick screenshot function that proves to be quite handy and is definitely something you notice is missing when you switch over to a browser without it.
+Ve mbrojtjes së privatësisë, që në pjesën më të madhe ndodh në prapaskenë te shfletuesi, një tjetër përbërës kyç në një shfletues të prodhuar si duhet, është ndërfaqja e përdoruesit dhe funksionimi faktik. Thuajse që të gjashtë shfletuesit janë njësoj kur vjen punë për shfletim me skeda, administrim faqerojtësish, vetëplotësime në formularë, kontroll drejtshkrimi dhe zgjerime. Firefox-i, Edge-i dhe Opera ofrojnë edhe një funksion të shpejtë fotografimi ekrani, që del se është jo pak i volitshëm dhe diçka që ju përfundimisht e vini re se mungon, kur kaloni te një shfletues pa të.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Portability:</strong>
-<strong>Portability:</strong>
+<strong>Bartje:</strong>
 
 
 ;How well does your browser work across your devices?
-How well does your browser work across your devices?
+Sa mirë punon shfletuesi juaj nëpër pajisjet tuaja?
 
 
 ;Portability
-Portability
+Bartje
 
 
 ;OS availability
-OS availability
+Pasje në OS
 
 
 ;Mobile OS availability
-Mobile OS availability
+Pasje në OS celulari
 
 
 ;Syncs with mobile
-Syncs with mobile
+Njëkohësohet me celularin
 
 
 ;Password management
-Password management
+Administrim fjalëkalimesh
 
 
 ;Master Password
-Master Password
+Fjalëkalim i Përgjithshëm
 
 
 # Apple and Android are brand names that shouldn't be translated
 ;The first thing to point out about portability is that not all browsers run on all operating systems. While Firefox, Chrome and Opera work on all major systems and are easy to install, Internet Explorer, Edge and Safari only work on Microsoft and Apple’s own systems. The mobile version of Safari is pre-installed on Apple’s mobile devices, and most Android devices come with a pre-installed browser modified by the manufacturer for the device. Firefox, Chrome, Edge and Opera can easily be installed and even used side by side.
-The first thing to point out about portability is that not all browsers run on all operating systems. While Firefox, Chrome and Opera work on all major systems and are easy to install, Internet Explorer, Edge and Safari only work on Microsoft and Apple’s own systems. The mobile version of Safari is pre-installed on Apple’s mobile devices, and most Android devices come with a pre-installed browser modified by the manufacturer for the device. Firefox, Chrome, Edge and Opera can easily be installed and even used side by side.
+Gjëja e parë ku duhet vënë gishti rreth bartjes është se jo krejt shfletuesit xhirojnë në krejt sistemet operative. Teksa Firefox-i, Chrome-i dhe Opera punojnë në krejt sistemet e rëndësishëm dhe janë të lehtë për t’u instaluar, Internet Explorer-i, Edge-i dhe Safari punojnë vetëm në sistemet përkatës Microsoft dhe Apple. Versioni për celular i Safari-t është i instaluar paraprakisht në pajisje celulare të Apple-it, dhe shumica e pajisjeve Android vijnë me një shfletues të instaluar paraprakisht, të modifikuar nga prodhuesi për pajisjen. Firefox-i, Chrome-i, Edge-i dhe Opera mund të instalohen lehtë dhe madje të përdoren përkrah të tjerësh.
 
 
 ;Almost all of the browsers compared here allow synchronization between desktop and mobile devices. You’ll need an account to do it, which you can use to log into the browser on all devices and synchronize things like passwords, browsing history, bookmarks and settings.
-Almost all of the browsers compared here allow synchronization between desktop and mobile devices. You’ll need an account to do it, which you can use to log into the browser on all devices and synchronize things like passwords, browsing history, bookmarks and settings.
+Thuajse krejt shfletuesit e krahasuar këtu lejojnë njëkohësim mes pajisjesh desktop dhe celulare. Do t’ju duhet një llogari, e cila mund të përdoret për të hyrë te shfletuesi në krejt pajisjet dhe të njëkohësoni gjëra të tilla si fjalëkalime, historik shfletimesh, faqerojtës dhe rregullime.
 
 
 ;Conclusion:
-Conclusion:
+Përfundim:
 
 
 ;And the winner is…
-And the winner is…
+Dhe fituesi është…
 
 
 ;Based on the criteria we outlined — privacy, utility, and portability — there’s really only one browser that meets the mark, and that’s Firefox. The real area of difference isn’t in functionality, it’s privacy. Firefox is the most private browser that doesn’t lock you into an ecosystem. Use it on any operating system, on all your devices, and feel secure when you do.
-Based on the criteria we outlined — privacy, utility, and portability — there’s really only one browser that meets the mark, and that’s Firefox. The real area of difference isn’t in functionality, it’s privacy. Firefox is the most private browser that doesn’t lock you into an ecosystem. Use it on any operating system, on all your devices, and feel secure when you do.
+Bazuar në kriteret që shtruam — privatësi, përdorim dhe bartje — ka vetëm një shfletues që i kap këto dhe ky është Firefox-i. Fusha e dallimeve të njëmendta s’janë funksionet, është privatësia. Firefox-i është shfletuesi më privat që nuk ju kyç brenda një ekosistemi. Përdoreni në çfarëdo sistemi operativ, në krejt pajisjet tuaja dhe ndihuni i sigurt kur e bëni.
 
 
 ;Browsers have come a long way since Chrome was introduced and took over the market share. Most of the modern browsers have closed the gap on portability and functionality, and in some areas, like speed and privacy, have actually surpassed Chrome. Still, determining which browser is right for you will always depend on your individual needs and what you value most as you navigate online.
-Browsers have come a long way since Chrome was introduced and took over the market share. Most of the modern browsers have closed the gap on portability and functionality, and in some areas, like speed and privacy, have actually surpassed Chrome. Still, determining which browser is right for you will always depend on your individual needs and what you value most as you navigate online.
+Shfletuesit kanë ecur mjaft qëkur erdhi për herë të parë Chrome-i dhe përlau përqindjen e tregut. Shumica e shfletuesve modernë e kanë zvogëluar hendekun në bartje dhe funksione dhe në disa fusha, fjala vjen shpejtësia dhe privatësia, e kanë tejkaluar faktikisht Chrome-in. Prapëseprapë, përcaktimi se cili shfletues është ai i duhuri për ju do të varet përherë nga nevojat tuaja individuale dhe nga çfarë çmoni më tepër, kur shfletoni në internet.
 
 
 ;The comparisons made here were done so across browser release versions as follows:
-The comparisons made here were done so across browser release versions as follows:
+Krahasimet e bëra këtu u kryen përmes versioneve të shfletuesve si vijon:
 
 
 ;Firefox is backed by the not-for-profit Mozilla.
-Firefox is backed by the not-for-profit Mozilla.
+Firefox-i kap entin jofitimprurës Mozilla.
 
 
 ;Firefox puts your privacy first — in everything we make and do. We believe you have the right to decide how and with whom you share your personal information. Firefox collects as little data as possible and never sells it. The little data we do collect is only used to make products and features better. No secrets. But a lot of transparency and real privacy.
-Firefox puts your privacy first — in everything we make and do. We believe you have the right to decide how and with whom you share your personal information. Firefox collects as little data as possible and never sells it. The little data we do collect is only used to make products and features better. No secrets. But a lot of transparency and real privacy.
+Firefox-i vë mbi gjithçka privatësinë tuaj — në çdo gjë që krijojmë dhe bëjmë. Ne besojmë se gëzoni të drejtën të vendosni si dhe me kë ndani të dhëna tuajat personale. Firefox-i grumbullon aq pak të dhëna, sa është e mundur dhe nuk shet kurrë të tilla. Ato pak të dhëna që grumbullojmë përdoren vetëm për t’i bërë produktet dhe veçoritë më të mira. S’ka të fshehta në këtë. Ka ama plot transparencë dhe privatësi të njëmendtë.
 
 
