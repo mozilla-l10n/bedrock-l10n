@@ -1,3 +1,4 @@
+## active ##
 # HTML page title and main headline
 ;Six of the best browsers in direct comparison
 六套最佳瀏覽器功能比較
@@ -73,7 +74,7 @@
 
 
 ;It’s not unreasonable to expect a high level of data protection and privacy from the products we regularly use to get online. At a minimum, a browser should offer some version of “private browsing mode” that automatically deletes your history and search history so other users on the same computer can’t access it. In this area, all six of the browsers compared here score points.
-It’s not unreasonable to expect a high level of data protection and privacy from the products we regularly use to get online. At a minimum, a browser should offer some version of “private browsing mode” that automatically deletes your history and search history so other users on the same computer can’t access it. In this area, all six of the browsers compared here score points.
+用高標準要求日常上網工具的資料與隱私權保護機制相當正常。以最低標準來說，一套瀏覽器應該要提供能夠自動清除上網與搜尋紀錄的「隱私瀏覽模式」，這樣同一台電腦上的其他使用者才不會看到您的紀錄。以這一項來說，六套瀏覽器都同燈同分。
 
 
 ;What you do online literally shouldn’t be anyone else’s business.
@@ -81,11 +82,11 @@ It’s not unreasonable to expect a high level of data protection and privacy fr
 
 
 ;Another browser feature that should be a given is the ability to prevent websites and companies from tracking your browsing and shopping data — even in normal browsing mode. But that’s actually not the case: in fact, the only browsers that block third party tracking cookies by default are Firefox and Safari.
-Another browser feature that should be a given is the ability to prevent websites and companies from tracking your browsing and shopping data — even in normal browsing mode. But that’s actually not the case: in fact, the only browsers that block third party tracking cookies by default are Firefox and Safari.
+另一個瀏覽器該有的功能是: 在一般上網模式中，就該防止網站或其他公司追蹤您的上網或購物資料。但並不是每套瀏覽器都有這個功能，僅有 Firefox 與 Safari 預設就封鎖來自第三方的追蹤 cookie。
 
 
 ;Using a browser that blocks third-party trackers isn’t just important for privacy — it usually means it runs much faster, too. Most trackers are just scripts that run in the background on a number of websites. You can’t see them, but you can feel them slowing down your browser. As of version 67 of Firefox, fingerprinting and cryptominers are also blocked. If you’re not familiar with cryptominers, here’s an example of how they can affect you: maybe you’ve experienced your computer suddenly running hotter or the battery depleting faster than normal. That’s often the byproduct of cryptominers creeping around on your device.
-Using a browser that blocks third-party trackers isn’t just important for privacy — it usually means it runs much faster, too. Most trackers are just scripts that run in the background on a number of websites. You can’t see them, but you can feel them slowing down your browser. As of version 67 of Firefox, fingerprinting and cryptominers are also blocked. If you’re not familiar with cryptominers, here’s an example of how they can affect you: maybe you’ve experienced your computer suddenly running hotter or the battery depleting faster than normal. That’s often the byproduct of cryptominers creeping around on your device.
+瀏覽器自動封鎖來自第三方的追蹤器不只是為了保護隱私，還能讓瀏覽器運作得更快。大部分追蹤器都是在網站背景中默默運作的指令碼，您看不到它們但可以感覺到它們正在拖慢瀏覽器的運作。自 Firefox 67 版起，也會自動封鎖「數位指紋追蹤程式」與「加密貨幣採礦程式」。若您沒聽過過加密貨幣採礦程式是什麼，以下是它們影響您上網體驗的例子: 也許您曾經遇到過電腦風扇突然大轉、溫度變高，或是電池更快沒電，就有可能是網站在您的電腦背景中偷偷挖礦的副作用。
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
@@ -143,7 +144,7 @@ Web extension / 附加元件
 
 # Firefox, Edge, and Opera are all brand names that shouldn't be translated.
 ;In addition to privacy protection, which largely takes place in the background of the browser, another key ingredient to a well-made browser is the actual user interface and functionality. Almost all six browsers are equal when it comes to tab browsing, bookmark management, auto-completion, proofreading and extensions. Firefox, Edge and Opera also offer a quick screenshot function that proves to be quite handy and is definitely something you notice is missing when you switch over to a browser without it.
-In addition to privacy protection, which largely takes place in the background of the browser, another key ingredient to a well-made browser is the actual user interface and functionality. Almost all six browsers are equal when it comes to tab browsing, bookmark management, auto-completion, proofreading and extensions. Firefox, Edge and Opera also offer a quick screenshot function that proves to be quite handy and is definitely something you notice is missing when you switch over to a browser without it.
+瀏覽器除了在背景當中保護隱私之外，另一個精品瀏覽器的關鍵條件是實際的使用者介面與功能性。談到分頁瀏覽、書籤管理、自動填寫、拼字檢查、擴充套件等功能時，六套瀏覽器幾乎都獲得相同分數。Firefox、Edge 及 Opera 也提供方便又快速的畫面擷取功能，使用其他缺少此功能的瀏覽器時您一定馬上就會注意到。
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
@@ -197,11 +198,11 @@ In addition to privacy protection, which largely takes place in the background o
 
 
 ;Based on the criteria we outlined — privacy, utility, and portability — there’s really only one browser that meets the mark, and that’s Firefox. The real area of difference isn’t in functionality, it’s privacy. Firefox is the most private browser that doesn’t lock you into an ecosystem. Use it on any operating system, on all your devices, and feel secure when you do.
-Based on the criteria we outlined — privacy, utility, and portability — there’s really only one browser that meets the mark, and that’s Firefox. The real area of difference isn’t in functionality, it’s privacy. Firefox is the most private browser that doesn’t lock you into an ecosystem. Use it on any operating system, on all your devices, and feel secure when you do.
+只有 Firefox 唯一達到我們對瀏覽器訂出的標準: 隱私保護、實用性、可攜帶性。實際上差異並不在功能性，而是對隱私的保護。Firefox 是最能保護您隱私，而不把您鎖在某個單一生態系當中的瀏覽器。您可以在任何作業系統、任何裝置上使用，更感到安全。
 
 
 ;Browsers have come a long way since Chrome was introduced and took over the market share. Most of the modern browsers have closed the gap on portability and functionality, and in some areas, like speed and privacy, have actually surpassed Chrome. Still, determining which browser is right for you will always depend on your individual needs and what you value most as you navigate online.
-Browsers have come a long way since Chrome was introduced and took over the market share. Most of the modern browsers have closed the gap on portability and functionality, and in some areas, like speed and privacy, have actually surpassed Chrome. Still, determining which browser is right for you will always depend on your individual needs and what you value most as you navigate online.
+自從 Chrome 推出並佔據瀏覽器市場佔有率以來，各家瀏覽器都大有進步。大多數現代瀏覽器已經弭平可攜帶性與功能性上的差距，在某些領域甚至還超越了 Chrome。但究竟哪套瀏覽器最適合您，還是取決於您的需求，以及在上網時最看重的東西。
 
 
 ;The comparisons made here were done so across browser release versions as follows:
@@ -213,6 +214,6 @@ Firefox 是由非營利組織 Mozilla 在背後全力相挺。
 
 
 ;Firefox puts your privacy first — in everything we make and do. We believe you have the right to decide how and with whom you share your personal information. Firefox collects as little data as possible and never sells it. The little data we do collect is only used to make products and features better. No secrets. But a lot of transparency and real privacy.
-Firefox puts your privacy first — in everything we make and do. We believe you have the right to decide how and with whom you share your personal information. Firefox collects as little data as possible and never sells it. The little data we do collect is only used to make products and features better. No secrets. But a lot of transparency and real privacy.
+Firefox 在打造產品與做事時都最看重您的隱私。我們相信，您有權決定要如何、與誰分享個人資訊。Firefox 盡量減少資料收集，也永遠不會出賣您的資料。我們只為了讓產品與軟體功能變得更好來收集少量資料、不偷偷摸摸，更提供透明且實際的隱私保護。
 
 
