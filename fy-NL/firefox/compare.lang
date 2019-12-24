@@ -1,3 +1,4 @@
+## active ##
 # HTML page title and main headline
 ;Six of the best browsers in direct comparison
 De seis bêste browsers streekrjocht fergelike
@@ -25,194 +26,194 @@ In geweldige ynternetbrowser moat de funksjonaliteit hawwe dy't jo nedich hawwe,
 
 # Google Chrome is a brand name that shouldn't be translated.
 ;Since your browser is your gateway to the internet, speed, security, privacy and utility are paramount. In recent years, Google Chrome has been the browser of choice for many. But at a time when online ads seem to follow us everywhere and data breaches are a fixture of news headlines, a lot of people are starting to demand more privacy and respect from their browser.
-Since your browser is your gateway to the internet, speed, security, privacy and utility are paramount. In recent years, Google Chrome has been the browser of choice for many. But at a time when online ads seem to follow us everywhere and data breaches are a fixture of news headlines, a lot of people are starting to demand more privacy and respect from their browser.
+Omdat jo browser jo tagongspoarte is ta it ynternet, stean snelheid, befeiliging, privacy en brûkberheid foarop. Yn de ôfrûne jierren is Google Chrome foar in protte minsken de favorite browser west. Mar yn in tiid wêryn online advertinsjes ús oeral lykje te folgjen en datalekken in fêst ûnderdiel binne yn it nijs, begjinne in protte minsken mear privacy en respekt fan harren browser te easkjen.
 
 
 # Google Chrome, Firefox, Safari, Opera and Microsoft Internet Explorer and Edge are all brand names that shouldn't be translated.
 ;So is your browser the best one for what you do online? The right browser can make a big difference in how you experience the web. So, without further ado, let’s compare Google Chrome, Firefox, Safari, Opera, Microsoft Internet Explorer and Edge — and see which best suits your needs.
-So is your browser the best one for what you do online? The right browser can make a big difference in how you experience the web. So, without further ado, let’s compare Google Chrome, Firefox, Safari, Opera, Microsoft Internet Explorer and Edge — and see which best suits your needs.
+Dus is jo browser de bêste foar wat jo online dogge? De krekte browser kin in grut ferskil meitsje yn hoe't jo it web ûnderfine. Litte wy dus sûnder fierder dralen Google Chrome, Firefox, Safari, Opera, Microsoft Internet Explorer en Edge fergelykje – en sjen hokker it bêste by jo past.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Privacy:</strong>
-<strong>Privacy:</strong>
+<strong>Privacy:</strong> {ok}
 
 
 ;Which browser is best at keeping things confidential?
-Which browser is best at keeping things confidential?
+Hokker browser hâldt saken it bêst fertroulik?
 
 
 ;Privacy
-Privacy
+Privacy {ok}
 
 
 ;Private Browsing mode
-Private Browsing mode
+Priveenavigaasjemodus
 
 
 # Used as an accessible label for a "yes" icon (a green check mark)
 ;Yes
-Yes
+Ja
 
 
 ;Blocks third-party tracking cookies
-Blocks third-party tracking cookies
+Blokkearret tracking-cookies fan tredden
 
 
 # Used as an accessible label for a "no" icon (a gray bar)
 ;No
-No
+Nee
 
 
 ;Blocks cryptomining scripts
-Blocks cryptomining scripts
+Blokkearret cryptomining-skripts
 
 
 ;Blocks social trackers
-Blocks social trackers
+Blokkearret sosjale trackers
 
 
 ;It’s not unreasonable to expect a high level of data protection and privacy from the products we regularly use to get online. At a minimum, a browser should offer some version of “private browsing mode” that automatically deletes your history and search history so other users on the same computer can’t access it. In this area, all six of the browsers compared here score points.
-It’s not unreasonable to expect a high level of data protection and privacy from the products we regularly use to get online. At a minimum, a browser should offer some version of “private browsing mode” that automatically deletes your history and search history so other users on the same computer can’t access it. In this area, all six of the browsers compared here score points.
+It is net ûnredelik om in heech nivo fan gegevensbeskerming en privacy te ferwachtsjen fan de produkten dy't wy regelmjittich brûke om online te gean. In browser moat minimaal in soarte fan ‘priveenavigaasjemodus’ oanbiede dy't automatysk jo skiednis en sykskiednis fuortsmyt, sadat oare brûkers op deselde kompjûter der gjin tagong ta hawwe. Op dit gebied skoare alle seis hjir fergeleken browsers punten.
 
 
 ;What you do online literally shouldn’t be anyone else’s business.
-What you do online literally shouldn’t be anyone else’s business.
+Wat jo online dogge, soe letterlik net ien syn saak wêze meie.
 
 
 ;Another browser feature that should be a given is the ability to prevent websites and companies from tracking your browsing and shopping data — even in normal browsing mode. But that’s actually not the case: in fact, the only browsers that block third party tracking cookies by default are Firefox and Safari.
-Another browser feature that should be a given is the ability to prevent websites and companies from tracking your browsing and shopping data — even in normal browsing mode. But that’s actually not the case: in fact, the only browsers that block third party tracking cookies by default are Firefox and Safari.
+In oare browserfunksje dy't in gegeven wêze moatte soe, is de mooglikheid om foar te kommen dat websites en bedriuwen jo sneup- en winkelgegevens byhâlde – sels yn de normale navigaasjemodus. Mar dat is net it gefal: eins binne Firefox en Safari de iennige browsers dy't standert tracking-cookies fan tredden blokkearje.
 
 
 ;Using a browser that blocks third-party trackers isn’t just important for privacy — it usually means it runs much faster, too. Most trackers are just scripts that run in the background on a number of websites. You can’t see them, but you can feel them slowing down your browser. As of version 67 of Firefox, fingerprinting and cryptominers are also blocked. If you’re not familiar with cryptominers, here’s an example of how they can affect you: maybe you’ve experienced your computer suddenly running hotter or the battery depleting faster than normal. That’s often the byproduct of cryptominers creeping around on your device.
-Using a browser that blocks third-party trackers isn’t just important for privacy — it usually means it runs much faster, too. Most trackers are just scripts that run in the background on a number of websites. You can’t see them, but you can feel them slowing down your browser. As of version 67 of Firefox, fingerprinting and cryptominers are also blocked. If you’re not familiar with cryptominers, here’s an example of how they can affect you: maybe you’ve experienced your computer suddenly running hotter or the battery depleting faster than normal. That’s often the byproduct of cryptominers creeping around on your device.
+It gebrûk fan in browser dy't trackers fan tredden blokkearret, is net allinnich wichtich foar jo privacy – it betsjut meastentiids ek dat hy folle flugger wurket. De measte trackers binne gewoanwei skripts dy't op de achtergrûn op in oantal websites útfierd wurde. Se binne ûnsichtber, mar se fertraagje wol jo browser. Fan ferzje 67 fan Firefox ôf wurde fingerprinters en cryptominers ek blokkearre. As jo net bekend binne mei cryptominers, is hjir in foarbyld fan it effekt dat se hawwe kinne: miskien hawwe jo ûnderfining dat jo kompjûter ynienen waarmer wurdt of dat de batterij flugger dan normaal leech rekket. Dat is faaks it byprodukt fan cryptominers dy't op jo apparaat rûnslûpe.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Utility:</strong>
-<strong>Utility:</strong>
+<strong>Brûkberheid:</strong>
 
 
 ;What has your browser done for you lately?
-What has your browser done for you lately?
+Wat hat jo browser de lêste tiid foar jo dien?
 
 
 ;Utility
-Utility
+Brûkberheid
 
 
 ;Autoplay blocking
-Autoplay blocking
+Automatysk ôfspyljen blokkearje
 
 
 ;Tab browsing
-Tab browsing
+Navigearje mei ljepblêden
 
 
 ;Bookmark manager
-Bookmark manager
+Blêdwizerbehearder
 
 
 ;Automatically fills out forms
-Automatically fills out forms
+Automatysk ynfoljen fan formulieren
 
 
 ;Search engine options
-Search engine options
+Sykmasine-opsjes
 
 
 ;Text to speech
-Text to speech
+Tekst nei spraak
 
 
 ;Reader mode
-Reader mode
+Lêzermodus
 
 
 ;Spell checking
-Spell checking
+Staveringshifker
 
 
 ;Web extensions/Add-ons
-Web extensions/Add-ons
+Webextensies/add-ons
 
 
 ;In-browser screenshot tool
-In-browser screenshot tool
+Helpmiddel foar skermôfdrukken yn de browser
 
 
 # Firefox, Edge, and Opera are all brand names that shouldn't be translated.
 ;In addition to privacy protection, which largely takes place in the background of the browser, another key ingredient to a well-made browser is the actual user interface and functionality. Almost all six browsers are equal when it comes to tab browsing, bookmark management, auto-completion, proofreading and extensions. Firefox, Edge and Opera also offer a quick screenshot function that proves to be quite handy and is definitely something you notice is missing when you switch over to a browser without it.
-In addition to privacy protection, which largely takes place in the background of the browser, another key ingredient to a well-made browser is the actual user interface and functionality. Almost all six browsers are equal when it comes to tab browsing, bookmark management, auto-completion, proofreading and extensions. Firefox, Edge and Opera also offer a quick screenshot function that proves to be quite handy and is definitely something you notice is missing when you switch over to a browser without it.
+Neist privacybeskerming, dy't foar in grut part yn de eftergrûn fan de browser bart, is in oar wichtich yngrediïnt fan in goed makke browser de echte brûkersynterface en funksjonaliteit. Hast alle seis browsers binne lyk as it giet om navigaasje mei ljepblêden, blêdwizerbehear, automatysk oanfolje, proeflêze en útwreidingen. Firefox, Edge en Opera biede ek in funksje foar flugge skermôfdrukken, dy't hiel handich blike te wêzen en seker wat is dat opfalt as jo oerskeakelje nei in browser sûnder.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Portability:</strong>
-<strong>Portability:</strong>
+<strong>Portabiliteit:</strong>
 
 
 ;How well does your browser work across your devices?
-How well does your browser work across your devices?
+Hoe goed wurket jo browser op al jo apparaten?
 
 
 ;Portability
-Portability
+Portabiliteit
 
 
 ;OS availability
-OS availability
+Beskikberheid op bestjoeringssystemen
 
 
 ;Mobile OS availability
-Mobile OS availability
+Beskikberheid op mobile bestjoeringssystemen
 
 
 ;Syncs with mobile
-Syncs with mobile
+Syngronisearret mei mobyl
 
 
 ;Password management
-Password management
+Wachtwurdbehear
 
 
 ;Master Password
-Master Password
+Haadwachtwurd
 
 
 # Apple and Android are brand names that shouldn't be translated
 ;The first thing to point out about portability is that not all browsers run on all operating systems. While Firefox, Chrome and Opera work on all major systems and are easy to install, Internet Explorer, Edge and Safari only work on Microsoft and Apple’s own systems. The mobile version of Safari is pre-installed on Apple’s mobile devices, and most Android devices come with a pre-installed browser modified by the manufacturer for the device. Firefox, Chrome, Edge and Opera can easily be installed and even used side by side.
-The first thing to point out about portability is that not all browsers run on all operating systems. While Firefox, Chrome and Opera work on all major systems and are easy to install, Internet Explorer, Edge and Safari only work on Microsoft and Apple’s own systems. The mobile version of Safari is pre-installed on Apple’s mobile devices, and most Android devices come with a pre-installed browser modified by the manufacturer for the device. Firefox, Chrome, Edge and Opera can easily be installed and even used side by side.
+It earste wat jo witte moatte oer portabiliteit is dat net alle browsers op alle bestjoeringssystemen draaie. Hoewol Firefox, Chrome en Opera op alle wichtige systemen wurkje en ienfâldich te ynstallearjen binne, wurkje Internet Explorer, Edge en Safari allinnich op de eigen systemen fan Microsoft en Apple. De mobile ferzje fan Safari is yn it foar ynstallearre op de mobile apparaten fan Apple en de measte Android-apparaten wurde levere mei in yn it foar ynstallearre browser dy't troch de fabrikant foar it apparaat oanpast is. Firefox, Chrome, Edge en Opera kinne ienfâldichwei ynstallearre en sels neist inoar brûkt wurde.
 
 
 ;Almost all of the browsers compared here allow synchronization between desktop and mobile devices. You’ll need an account to do it, which you can use to log into the browser on all devices and synchronize things like passwords, browsing history, bookmarks and settings.
-Almost all of the browsers compared here allow synchronization between desktop and mobile devices. You’ll need an account to do it, which you can use to log into the browser on all devices and synchronize things like passwords, browsing history, bookmarks and settings.
+Mei hast alle hjir fergeleken browsers kinne jo syngronisearje tusken desktop en mobile apparaten. Jo hawwe hjirfoar in account nedich, wêrmei't jo jo op alle apparaten yn de browser oanmelde kinne en saken lykas wachtwurden, navigaasjeskiednis, blêdwizers en ynstellingen syngronisearje kinne.
 
 
 ;Conclusion:
-Conclusion:
+Konklúzje:
 
 
 ;And the winner is…
-And the winner is…
+En de winner is…
 
 
 ;Based on the criteria we outlined — privacy, utility, and portability — there’s really only one browser that meets the mark, and that’s Firefox. The real area of difference isn’t in functionality, it’s privacy. Firefox is the most private browser that doesn’t lock you into an ecosystem. Use it on any operating system, on all your devices, and feel secure when you do.
-Based on the criteria we outlined — privacy, utility, and portability — there’s really only one browser that meets the mark, and that’s Firefox. The real area of difference isn’t in functionality, it’s privacy. Firefox is the most private browser that doesn’t lock you into an ecosystem. Use it on any operating system, on all your devices, and feel secure when you do.
+Op basis fan de útiensette kritearia – privacy, brûkberheid en portabiliteit – is der eins mar ien browser dy't oan alles foldocht, en dat is Firefox. It echte ferskil sit net yn funksjonaliteit, mar yn privacy. Firefox is de browser dy't sawol it meast privee is en jo net opslút yn in ekosysteem. Brûk it op elk bestjoeringssysteem, op al jo apparaten en fiel jo feilich wannear't jo dat dogge.
 
 
 ;Browsers have come a long way since Chrome was introduced and took over the market share. Most of the modern browsers have closed the gap on portability and functionality, and in some areas, like speed and privacy, have actually surpassed Chrome. Still, determining which browser is right for you will always depend on your individual needs and what you value most as you navigate online.
-Browsers have come a long way since Chrome was introduced and took over the market share. Most of the modern browsers have closed the gap on portability and functionality, and in some areas, like speed and privacy, have actually surpassed Chrome. Still, determining which browser is right for you will always depend on your individual needs and what you value most as you navigate online.
+Browsers hawwe in lange wei ôflein sûnt Chrome yntrodusearre waard en it merkoandiel oernaam. De measte moderne browsers hawwe de kleau op it mêd fan portabiliteit en brûkberheid sluten en hawwe op guon gebieden, lykas snelheid en privacy, Chrome sels oertroffen. Dochs sil it bepalen fan hokker browser foar jo geskikt is, altyd ôfhinklik wêze fan jo yndividuele behoeften en wêroan jo de measte wearde hechtsje as jo online navigearje.
 
 
 ;The comparisons made here were done so across browser release versions as follows:
-The comparisons made here were done so across browser release versions as follows:
+De hjir makke fergelikingen binne as folcht yn alle browserferzjes útfierd:
 
 
 ;Firefox is backed by the not-for-profit Mozilla.
-Firefox is backed by the not-for-profit Mozilla.
+Firefox wurdt stipe troch de non-profitorganisaasje Mozilla.
 
 
 ;Firefox puts your privacy first — in everything we make and do. We believe you have the right to decide how and with whom you share your personal information. Firefox collects as little data as possible and never sells it. The little data we do collect is only used to make products and features better. No secrets. But a lot of transparency and real privacy.
-Firefox puts your privacy first — in everything we make and do. We believe you have the right to decide how and with whom you share your personal information. Firefox collects as little data as possible and never sells it. The little data we do collect is only used to make products and features better. No secrets. But a lot of transparency and real privacy.
+Firefox stelt jo privacy foarop – yn alles wat wy meitsje en dwaan. Wy leauwe dat jo it rjocht hawwe om te beslissen hoe en mei wa jo jo persoanlike gegevens diele. Firefox sammelet sa min mooglik gegevens en ferkeapet dizze nea. De lytse hoemannichte gegevens dy't wy sammelje, wurde allinnich brûkt om produkten en funksjes te ferbetterjen. Gjin geheimen. Mar in protte transparânsje en echte privacy.
 
 
