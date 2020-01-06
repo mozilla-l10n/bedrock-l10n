@@ -3,12 +3,12 @@
 
 # HTML page title prefix
 ;Download Firefox
-Download Firefox
+I-download ang Firefox
 
 
 # HTML page title
 ;Free Web Browser
-Free Web Browser
+Libreng Web Browser
 
 
 # HTML page description
@@ -18,7 +18,7 @@ Download Mozilla Firefox, a free web browser. Firefox is created by a global non
 
 # This will appear as <meta property="og:title"> which can be used for social sharing
 ;Download the fastest Firefox ever
-Download the fastest Firefox ever
+I-download ang pinakamabilis na Firefox
 
 
 # This will appear as <meta property="og:description"> which can be used for social share
@@ -28,7 +28,7 @@ Faster page loading, less memory usage and packed with features, the new Firefox
 
 # Page heading
 ;Get the latest Firefox browser.
-Get the latest Firefox browser.
+Kunin ang pinakabagong Firefox browser.
 
 
 ;Automatic privacy is here. Download Firefox to block over 2000 trackers.
@@ -41,11 +41,11 @@ And start getting the respect you deserve with our family of privacy-first produ
 
 
 ;Download Now
-Download Now
+i-Download ngaun
 
 
 ;See what’s being blocked
-See what’s being blocked
+Tingnan kung ano ang hinarang
 
 
 ;Firefox shows you how many data-collecting trackers are blocked with <strong>Enhanced Tracking Protection</strong>.
@@ -53,7 +53,7 @@ Firefox shows you how many data-collecting trackers are blocked with <strong>Enh
 
 
 ;Make your passwords portable
-Make your passwords portable
+Gawin portable ang iyong mga password
 
 
 ;<strong>Firefox Lockwise</strong> makes the passwords you save in Firefox secure and available on all your devices.
@@ -70,7 +70,7 @@ Watch for data breaches
 
 # String is obsolete. Do not remove.
 ;Join Firefox
-Join Firefox
+Sumali sa Firefox
 
 
 # String is obsolete. Do not remove.
@@ -80,7 +80,7 @@ Connect to a whole family of respectful products, plus all the knowledge you nee
 
 # String is obsolete. Do not remove.
 ;Passwords made portable
-Passwords made portable
+Mga password na ginawang portable
 
 
 # String is obsolete. Do not remove.
@@ -90,7 +90,7 @@ Passwords made portable
 
 # String is obsolete. Do not remove.
 ;Protect your privacy
-Protect your privacy
+Protektahan ang iyong privacy
 
 
 # String is obsolete. Do not remove.
