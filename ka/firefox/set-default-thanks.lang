@@ -1,72 +1,73 @@
+## active ##
 ## NOTE: Demo page at https://www-demo2.allizom.org/en-US/firefox/set-as-default/thanks/
 
 
 ;Thanks for choosing Firefox
-Thanks for choosing Firefox
+გმადლობთ, რომ აირჩიეთ Firefox
 
 
 ;Success! Your default browser is set to Firefox.
-Success! Your default browser is set to Firefox.
+შესრულდა წარმატებით! Firefox თქვენი ნაგულისხმევი ბრაუზერია.
 
 
 ;Looks like you’re using a different browser right now. Make sure you have Firefox downloaded on your device.
-Looks like you’re using a different browser right now. Make sure you have Firefox downloaded on your device.
+როგორც ჩანს, ახლა სხვა ბრაუზერს იყენებთ. დარწმუნდით, რომ Firefox ჩამოტვირთულია თქვენს მოწყობილობაზე.
 
 
 ;Download Firefox
-Download Firefox
+ჩამოტვირთეთ Firefox
 
 
 # When a visitor sees this message a system dialog will also open on screen.
 ;You’re almost done. Just change your default browser to Firefox in the settings panel on your screen.
-You’re almost done. Just change your default browser to Firefox in the settings panel on your screen.
+თითქმის მზადაა. უბრალოდ გახადეთ Firefox თქვენი ნაგულისხმევი ბრაუზერი, ეკრანის პარამეტრების არიდან.
 
 
 ;Having trouble setting your default browser?
-Having trouble setting your default browser?
+ვერ ახერხებთ ნაგულისხმევი ბრაუზერის დაყენებას?
 
 
 ;Here’s everything you need to know about setting your default browser on <a href="%(android)s">Android devices</a>.
-Here’s everything you need to know about setting your default browser on <a href="%(android)s">Android devices</a>.
+აქ იხილავთ ყველაფერს, რაც უნდა იცოდეთ ბრაუზერის ნაგულისხმევად დაყენების შესახებ <a href="%(android)s">Android-მოწყობილობებზე</a>.
 
 
 ;Here’s everything you need to know about setting your default browser on <a href="%(ios)s">iOS devices</a>.
-Here’s everything you need to know about setting your default browser on <a href="%(ios)s">iOS devices</a>.
+აქ იხილავთ ყველაფერს, რაც უნდა იცოდეთ ბრაუზერის ნაგულისხმევად დაყენების შესახებ <a href="%(ios)s">iOS-მოწყობილობებზე</a>.
 
 
 ;You’re all set.
-You’re all set.
+ყველაფერი გამართულია.
 
 
 ;Get Firefox for mobile
-Get Firefox for mobile
+გადმოწერეთ Firefox მობილურისთვის
 
 
 ;Travel the internet with protection on all your devices.
-Travel the internet with protection on all your devices.
+იმოგზაურეთ ინტერნეტში უსაფრთხოდ, ნებისმიერი მოწყობილობით.
 
 
 ;Download the app
-Download the app
+ჩამოტვირთეთ აპლიკაცია
 
 
 ;Join Firefox
-Join Firefox
+შემოუერთდით Firefox-ს
 
 
 ;Sign up for a free account and sync all your passwords, browsing history, and preferences across your devices.
-Sign up for a free account and sync all your passwords, browsing history, and preferences across your devices.
+შექმენით უფასო ანგარიში და დაასინქრონეთ თქვენი პაროლები, ისტორია და პარამეტრები, მოწყობილობებს შორის.
 
 
 ;Get an Account
-Get an Account
+ანგარიშის შექმნა
 
 
 ;Having trouble?
-Having trouble?
+რამეს ვერ ახერხებთ?
 
 
 ;Here’s everything you need to know about setting your default browser on <a href="%(android)s">Android devices</a> or <a href="%(desktop)s">desktop computers</a>.
-Here’s everything you need to know about setting your default browser on <a href="%(android)s">Android devices</a> or <a href="%(desktop)s">desktop computers</a>.
+აქ იხილავთ ყველაფერს, რაც უნდა იცოდეთ ბრაუზერის ნაგულისხმევად დაყენების შესახებ <a href="%(android)s">Android-მოწყობილობებზე</a> ან <a href="%(desktop)s">სამაგიდო კომპიუტერებზე</a>.
 
 

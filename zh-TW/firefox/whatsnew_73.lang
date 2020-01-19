@@ -1,21 +1,22 @@
+## active ##
 ## NOTE: Demo page at https://www-demo5.allizom.org/firefox/73.0/whatsnew/all/
 
 
 # HTML page title
 ;What’s new with Firefox - Make Firefox your default browser
-What’s new with Firefox - Make Firefox your default browser
+Firefox 有什麼新鮮事 - 將 Firefox 設為預設瀏覽器
 
 
 ;Congrats! You’re using the latest version of Firefox.
-Congrats! You’re using the latest version of Firefox.
+恭喜您！您使用的是最新版的 Firefox。
 
 
 ;Make sure you’re protected, every time you get online
-Make sure you’re protected, every time you get online
+每次上網時都受到保護
 
 
 ;Thanks for using the latest Firefox browser. When you choose Firefox, you support a better web for you and everyone else. Now take the next step to protect yourself.
-Thanks for using the latest Firefox browser. When you choose Firefox, you support a better web for you and everyone else. Now take the next step to protect yourself.
+感謝您使用最新版的 Firefox 瀏覽器。選用 Firefox 時，就代表您支持的是讓您與所有人能共有一個更好的網路環境。接下來採取行動保護自己。
 
 
 ;Make Firefox your default browser
@@ -35,7 +36,7 @@ Thanks for using the latest Firefox browser. When you choose Firefox, you suppor
 
 
 ;QR code to scan for Firefox
-QR code to scan for Firefox
+掃描 QR code 下載 Firefox
 
 
 ;Download on the App Store
@@ -47,26 +48,26 @@ QR code to scan for Firefox
 
 
 ;The internet keeps finding new ways to poach your personal data. Firefox is the only browser with a mission of finding new ways to protect you.
-The internet keeps finding new ways to poach your personal data. Firefox is the only browser with a mission of finding new ways to protect you.
+網際網路一直在想辦法竊取您的個人資料。Firefox 是唯一一套將想辦法保護您視為己任的瀏覽器。
 
 
 ;Choose freedom on every device
-Choose freedom on every device
+在任何裝置都有選擇自由
 
 
 ;Firefox is fast and safe on Windows, iOS, Android, Linux...and across them all. We have no interest in locking you in or resetting your preferences.
-Firefox is fast and safe on Windows, iOS, Android, Linux...and across them all. We have no interest in locking you in or resetting your preferences.
+Firefox 在 Windows、iOS、Android、Linux 等平台都又快又安全。我們並不想把您鎖在我們的環境當中，或重設偏好設定。
 
 
 ;Choose corporate independence
-Choose corporate independence
+保持獨立，不受企業影響
 
 
 ;Firefox is the only major independent browser. Chrome, Edge and Brave are all built with code from Google, the world’s largest ad network.
-Firefox is the only major independent browser. Chrome, Edge and Brave are all built with code from Google, the world’s largest ad network.
+Firefox 是唯一一套獨立的主流瀏覽器。Chrome、Edge 與 Brave 都使用來自全球最大廣告網 Google 的程式碼打造。
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+請閱讀<a href="%(notes)s">發行公告</a>來了解您的 Firefox 瀏覽器還有哪些新鮮事。
 
 
