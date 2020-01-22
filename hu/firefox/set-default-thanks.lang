@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo page at https://www-demo2.allizom.org/en-US/firefox/set-as-default/thanks/
 
 
@@ -27,46 +28,46 @@ Problémái vannak az alapértelmezett böngésző beállításával?
 
 
 ;Here’s everything you need to know about setting your default browser on <a href="%(android)s">Android devices</a>.
-Here’s everything you need to know about setting your default browser on <a href="%(android)s">Android devices</a>.
+Itt van minden, amit tudnia kell az alapértelmezett böngésző beállításáról az <a href="%(android)s">androidos eszközökön</a>.
 
 
 ;Here’s everything you need to know about setting your default browser on <a href="%(ios)s">iOS devices</a>.
-Here’s everything you need to know about setting your default browser on <a href="%(ios)s">iOS devices</a>.
+Itt van minden, amit tudnia kell az alapértelmezett böngésző beállításáról az <a href="%(ios)s">iOS-es eszközökön</a>.
 
 
 ;You’re all set.
-You’re all set.
+Minden készen állsz.
 
 
 ;Get Firefox for mobile
-Get Firefox for mobile
+Töltse le a Firefoxot mobilra
 
 
 ;Travel the internet with protection on all your devices.
-Travel the internet with protection on all your devices.
+Utazzon védve az interneten, az összes eszközén.
 
 
 ;Download the app
-Download the app
+Alkalmazás letöltése
 
 
 ;Join Firefox
-Join Firefox
+Csatlakozzon a Firefoxhoz
 
 
 ;Sign up for a free account and sync all your passwords, browsing history, and preferences across your devices.
-Sign up for a free account and sync all your passwords, browsing history, and preferences across your devices.
+Regisztráljon egy ingyenes fiókot, és szinkronizálja az összes jelszavát, böngészési előzményeit és beállításait az eszközei között.
 
 
 ;Get an Account
-Get an Account
+Szerezzen egy fiókot
 
 
 ;Having trouble?
-Having trouble?
+Problémákba ütközött?
 
 
 ;Here’s everything you need to know about setting your default browser on <a href="%(android)s">Android devices</a> or <a href="%(desktop)s">desktop computers</a>.
-Here’s everything you need to know about setting your default browser on <a href="%(android)s">Android devices</a> or <a href="%(desktop)s">desktop computers</a>.
+Itt van minden, amit tudnia kell az alapértelmezett böngésző beállításáról <a href="%(android)s">androidos eszközökön</a> vagy <a href="%(desktop)s">asztali számítógépeken</a>.
 
 
