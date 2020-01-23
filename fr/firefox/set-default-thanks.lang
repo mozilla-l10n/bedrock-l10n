@@ -1,72 +1,73 @@
+## active ##
 ## NOTE: Demo page at https://www-demo2.allizom.org/en-US/firefox/set-as-default/thanks/
 
 
 ;Thanks for choosing Firefox
-Thanks for choosing Firefox
+Merci d’avoir choisi Firefox
 
 
 ;Success! Your default browser is set to Firefox.
-Success! Your default browser is set to Firefox.
+Félicitations ! Firefox est votre navigateur par défaut.
 
 
 ;Looks like you’re using a different browser right now. Make sure you have Firefox downloaded on your device.
-Looks like you’re using a different browser right now. Make sure you have Firefox downloaded on your device.
+Il semble que vous utilisez actuellement un autre navigateur. Assurez-vous que Firefox est installé sur votre appareil.
 
 
 ;Download Firefox
-Download Firefox
+Télécharger Firefox
 
 
 # When a visitor sees this message a system dialog will also open on screen.
 ;You’re almost done. Just change your default browser to Firefox in the settings panel on your screen.
-You’re almost done. Just change your default browser to Firefox in the settings panel on your screen.
+Vous y êtes presque. Définissez enfin Firefox comme navigateur par défaut dans le panneau des paramètres qui va s’afficher.
 
 
 ;Having trouble setting your default browser?
-Having trouble setting your default browser?
+Vous rencontrez des difficultés pour configurer votre navigateur par défaut ?
 
 
 ;Here’s everything you need to know about setting your default browser on <a href="%(android)s">Android devices</a>.
-Here’s everything you need to know about setting your default browser on <a href="%(android)s">Android devices</a>.
+Voici tout ce que vous devez savoir sur la configuration de votre navigateur par défaut sur les <a href="%(android)s">appareils Android</a>.
 
 
 ;Here’s everything you need to know about setting your default browser on <a href="%(ios)s">iOS devices</a>.
-Here’s everything you need to know about setting your default browser on <a href="%(ios)s">iOS devices</a>.
+Voici tout ce que vous devez savoir sur la configuration de votre navigateur par défaut sur les <a href="%(ios)s">appareils iOS</a>.
 
 
 ;You’re all set.
-You’re all set.
+Tout est prêt.
 
 
 ;Get Firefox for mobile
-Get Firefox for mobile
+Installer Firefox sur mobile
 
 
 ;Travel the internet with protection on all your devices.
-Travel the internet with protection on all your devices.
+Une navigation sécurisée sur tous vos appareils.
 
 
 ;Download the app
-Download the app
+Télécharger l’application
 
 
 ;Join Firefox
-Join Firefox
+Rejoindre Firefox
 
 
 ;Sign up for a free account and sync all your passwords, browsing history, and preferences across your devices.
-Sign up for a free account and sync all your passwords, browsing history, and preferences across your devices.
+Ouvrez un compte gratuit et synchronisez tous vos mots de passe, votre historique de navigation et vos préférences sur tous vos appareils.
 
 
 ;Get an Account
-Get an Account
+Ouvrir un compte
 
 
 ;Having trouble?
-Having trouble?
+Des soucis ?
 
 
 ;Here’s everything you need to know about setting your default browser on <a href="%(android)s">Android devices</a> or <a href="%(desktop)s">desktop computers</a>.
-Here’s everything you need to know about setting your default browser on <a href="%(android)s">Android devices</a> or <a href="%(desktop)s">desktop computers</a>.
+Voici tout ce que vous devez savoir sur la configuration de votre navigateur par défaut sur les <a href="%(android)s">appareils Android</a> ou les <a href="%(desktop)s">ordinateurs</a>.
 
 
