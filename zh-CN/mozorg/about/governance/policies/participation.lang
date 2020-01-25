@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo page: https://www-dev.allizom.org/about/governance/policies/participation/
 
 
@@ -24,11 +25,11 @@ Mozilla 社区参与准则
 
 
 ;The heart of Mozilla is people. We put people first and do our best to recognize, appreciate and respect the diversity of our global contributors. The Mozilla Project welcomes contributions from everyone who shares our goals and wants to contribute in a healthy and constructive manner within our community. As such, we have adopted this code of conduct and require all those who participate to agree and adhere to these Community Participation Guidelines in order to help us create a safe and positive community experience for all.
-The heart of Mozilla is people. We put people first and do our best to recognize, appreciate and respect the diversity of our global contributors. The Mozilla Project welcomes contributions from everyone who shares our goals and wants to contribute in a healthy and constructive manner within our community. As such, we have adopted this code of conduct and require all those who participate to agree and adhere to these Community Participation Guidelines in order to help us create a safe and positive community experience for all.
+Mozilla 坚持以人为本。我们将众人放在第一位，尽最大努力来认识、欣赏并尊重全球贡献者的多样性。Mozilla 项目欢迎任何志同道合的人，在社区中以健康和建设性的方式作出贡献。因此，我们特别编写这份行为准则，并要求所有参与者同意并遵循此准则，一同营造出安全且积极的社区体验。
 
 
 ;These guidelines aim to support a community where all people should feel safe to participate, introduce new ideas and inspire others, regardless of:
-These guidelines aim to support a community where all people should feel safe to participate, introduce new ideas and inspire others, regardless of:
+这份准则旨在无论参与者有下列任何不同，都能提供一个让任何人都能安心参与、引入新思想，并且鼓励他人的社区：
 
 
 ;Background
@@ -56,7 +57,7 @@ These guidelines aim to support a community where all people should feel safe to
 
 
 ;Sexual orientation
-性倾向
+性取向
 
 
 ;Native language
@@ -100,7 +101,7 @@ These guidelines aim to support a community where all people should feel safe to
 
 
 ;Openness, collaboration and participation are core aspects of our work — from development on Firefox to collaboratively designing curriculum. We gain strength from diversity and actively seek participation from those who enhance it. These guidelines exist to enable diverse individuals and groups to interact and collaborate to mutual advantage. This document outlines both expected and prohibited behavior.
-Openness, collaboration and participation are core aspects of our work — from development on Firefox to collaboratively designing curriculum. We gain strength from diversity and actively seek participation from those who enhance it. These guidelines exist to enable diverse individuals and groups to interact and collaborate to mutual advantage. This document outlines both expected and prohibited behavior.
+开放性、协作性和参与性是我们工作的核心层面 — 从 Firefox 开发到协作设计课程。我们从多样性中获得力量，并积极寻求深谙多样性原则的人士参与。这些准则的存在是为了使不同的个人和群体能够进行互动和协作以实现互惠互利。本文档概述了鼓励和不鼓励的行为。
 
 
 ;When and How to Use These Guidelines
@@ -108,15 +109,15 @@ Openness, collaboration and participation are core aspects of our work — from 
 
 
 ;These guidelines outline our behavior expectations as members of the Mozilla community in all Mozilla activities, both offline and online. Your participation is contingent upon following these guidelines in all Mozilla activities, including but not limited to:
-These guidelines outline our behavior expectations as members of the Mozilla community in all Mozilla activities, both offline and online. Your participation is contingent upon following these guidelines in all Mozilla activities, including but not limited to:
+这些准则概述我们鼓励 Mozilla 社区的成员在线下与线上的所有 Mozilla 活动中表现的行为。您须在参与所有的 Mozilla 活动时，遵循这些准则，包括但不限于：
 
 
 ;Working in Mozilla spaces.
-Working in Mozilla spaces.
+在 Mozilla Space 工作或参与活动。
 
 
 ;Working with other Mozillians and other Mozilla community participants virtually or co-located.
-Working with other Mozillians and other Mozilla community participants virtually or co-located.
+与谋智人和其他 Mozilla 社区参与者通过虚拟方式或共处一地开展活动。
 
 
 ;Representing Mozilla at public events.
@@ -132,24 +133,24 @@ Working with other Mozillians and other Mozilla community participants virtually
 
 
 ;Participating in Mozilla-related forums, mailing lists, wikis, websites, chat channels, bugs, group or person-to-person meetings, and Mozilla-related correspondence.
-Participating in Mozilla-related forums, mailing lists, wikis, websites, chat channels, bugs, group or person-to-person meetings, and Mozilla-related correspondence.
+参加与 Mozilla 相关的论坛、邮件列表、Wiki、网站、聊天频道、报告缺陷（Bug）、群组或面对面会议以及与 Mozilla 有关的通信。
 
 
 ;These guidelines work in conjunction with our Anti-Harassment/Discrimination Policies<a href="%(note1)s">[1]</a>, which sets out protections for, and obligations of, Mozilla employees. The Anti-Harassment/Discrimination Policy is crafted with specific legal definitions and requirements in mind.
-These guidelines work in conjunction with our Anti-Harassment/Discrimination Policies<a href="%(note1)s">[1]</a>, which sets out protections for, and obligations of, Mozilla employees. The Anti-Harassment/Discrimination Policy is crafted with specific legal definitions and requirements in mind.
+这些准则与我们的反骚扰/歧视政策 <a href="%(note1)s">[1]</a> 一并使用，规定了Mozilla 员工所享有的保护和义务。反骚扰/歧视政策的制定已考虑到明确的法律定义和要求。
 
 
 ;While these guidelines / code of conduct are specifically aimed at Mozilla’s work and community, we recognize that it is possible for actions taken outside of Mozilla’s online or inperson spaces to have a deep impact on community health. (For example, in the past, we publicly identified an anonymous posting aimed at a Mozilla employee in a non-Mozilla forum as clear grounds for removal from the Mozilla community.) This is an active topic in the diversity and inclusion realm. We anticipate wide-ranging discussions among our communities about appropriate boundaries.
-While these guidelines / code of conduct are specifically aimed at Mozilla’s work and community, we recognize that it is possible for actions taken outside of Mozilla’s online or inperson spaces to have a deep impact on community health. (For example, in the past, we publicly identified an anonymous posting aimed at a Mozilla employee in a non-Mozilla forum as clear grounds for removal from the Mozilla community.) This is an active topic in the diversity and inclusion realm. We anticipate wide-ranging discussions among our communities about appropriate boundaries.
+虽然这些准则/行为守则是只面向 Mozilla 的工作和社区，不过我们也承认在 Mozilla 的网络或个人空间以外所采取的行动，也可能会对社区的健康产生深远影响。（例如：我们曾将某个非 Mozilla 论坛中针对 Mozilla 员工的公开匿名帖子，作为要求其退出 Mozilla 社区的明确理由。）这是多样性和包容性领域的重要课题。我们期望社区可以就适当的界限进行广泛的讨论。
 
 
 # String is obsolete. Do not remove.
 ;If you experience behavior outside of Mozilla communities, in person or online, that makes participation in Mozilla not a safe and positive community experience for all, please contact us at <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a>. While these guidelines / code of conduct are specifically aimed at Mozilla’s work and community, we recognize that it is possible for actions taken outside of Mozilla’s online or inperson spaces to have a deep impact on community health. (For example, in the past, we publicly identified an anonymous posting aimed at a Mozilla employee in a non-Mozilla forum as clear grounds for removal from the Mozilla community.) This is an active topic in the diversity and inclusion realm. We anticipate wide-ranging discussions among our communities about appropriate boundaries.
-If you experience behavior outside of Mozilla communities, in person or online, that makes participation in Mozilla not a safe and positive community experience for all, please contact us at <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a>. While these guidelines / code of conduct are specifically aimed at Mozilla’s work and community, we recognize that it is possible for actions taken outside of Mozilla’s online or inperson spaces to have a deep impact on community health. (For example, in the past, we publicly identified an anonymous posting aimed at a Mozilla employee in a non-Mozilla forum as clear grounds for removal from the Mozilla community.) This is an active topic in the diversity and inclusion realm. We anticipate wide-ranging discussions among our communities about appropriate boundaries.
+如果您亲身或在网上遇到超出 Mozilla 社区规范的行为，使得对所有人来说参与 Mozilla 并不是安全且积极的社区体验时，请发邮件到<a href="%(mailto_inclusion)s">inclusion@mozilla.com</a>与我们联系。虽然这些准则/行为守则是只面向 Mozilla 的工作和社区，不过我们也承认在 Mozilla 的网络或个人空间以外所采取的行动，也可能会对社区的健康产生深远影响。（例如：我们曾将某个非 Mozilla 论坛中针对 Mozilla 员工的公开匿名帖子，作为要求其退出 Mozilla 社区的明确理由。）这是多样性和包容性领域的重要课题。我们期望社区可以就适当的界限进行广泛的讨论。
 
 
 ;Expected Behavior
-预期行为
+鼓励的行为
 
 
 ;The following behaviors are expected of all Mozillians:
@@ -161,32 +162,32 @@ If you experience behavior outside of Mozilla communities, in person or online, 
 
 
 ;Value each other’s ideas, styles and viewpoints. We may not always agree, but disagreement is no excuse for poor manners. Be open to different possibilities and to being wrong. Be respectful in all interactions and communications, especially when debating the merits of different options. Be aware of your impact and how intense interactions may be affecting people. Be direct, constructive and positive. Take responsibility for your impact and your mistakes – if someone says they have been harmed through your words or actions, listen carefully, apologize sincerely, and correct the behavior going forward.
-Value each other’s ideas, styles and viewpoints. We may not always agree, but disagreement is no excuse for poor manners. Be open to different possibilities and to being wrong. Be respectful in all interactions and communications, especially when debating the merits of different options. Be aware of your impact and how intense interactions may be affecting people. Be direct, constructive and positive. Take responsibility for your impact and your mistakes – if someone says they have been harmed through your words or actions, listen carefully, apologize sincerely, and correct the behavior going forward.
+重视彼此的想法、风格和观点。我们也许并不总是能够达成共识，但意见分歧绝非无礼的借口。请对不同的可能性和错误持开放态度。尤其是在讨论不同选择的优劣时，应在所有的交流和沟通中保持尊重。要意识到您的影响以及强烈的互动可能会影响到他人。秉承直率、有建设性和积极的态度。对您的影响和您的错误负责——如果某人表示您的言行使其受到伤害，请仔细聆听、诚恳道歉并及时改正。
 
 
 # String is obsolete. Do not remove.
 ;Value each other’s ideas, styles and viewpoints. We may not always agree, but disagreement is no excuse for poor manners. Be open to different possibilities and to being wrong. Be kind in all interactions and communications, especially when debating the merits of different options. Be aware of your impact and how intense interactions may be affecting people. Be direct, constructive and positive. Take responsibility for your impact and your mistakes – if someone says they have been harmed through your words or actions, listen carefully, apologize sincerely, and correct the behavior going forward.
-Value each other’s ideas, styles and viewpoints. We may not always agree, but disagreement is no excuse for poor manners. Be open to different possibilities and to being wrong. Be kind in all interactions and communications, especially when debating the merits of different options. Be aware of your impact and how intense interactions may be affecting people. Be direct, constructive and positive. Take responsibility for your impact and your mistakes – if someone says they have been harmed through your words or actions, listen carefully, apologize sincerely, and correct the behavior going forward.
+重视彼此的想法、风格和观点。我们也许并不总是能够达成共识，但意见分歧绝非无礼的借口。请对不同的可能性和错误持开放态度。尤其是在讨论不同选择的优劣时，应在所有的交流和沟通中保持尊重。要意识到您的影响以及强烈的互动可能会影响到他人。秉承直率、有建设性和积极的态度。对您的影响和您的错误负责——如果某人表示您的言行使其受到伤害，请仔细聆听、诚恳道歉并及时改正。
 
 
 ;Be Direct but Professional
-Be Direct but Professional
+直率而专业
 
 
 ;We are likely to have some discussions about if and when criticism is respectful and when it’s not. We <em>must</em> be able to speak directly when we disagree and when we think we need to improve. We cannot withhold hard truths. Doing so respectfully is hard, doing so when others don’t seem to be listening is harder, and hearing such comments when one is the recipient can be even harder still. We need to be honest and direct, as well as respectful.
-We are likely to have some discussions about if and when criticism is respectful and when it’s not. We <em>must</em> be able to speak directly when we disagree and when we think we need to improve. We cannot withhold hard truths. Doing so respectfully is hard, doing so when others don’t seem to be listening is harder, and hearing such comments when one is the recipient can be even harder still. We need to be honest and direct, as well as respectful.
+我们可能会就批评是否展现尊重进行一些讨论。我们<em>必须</em>能在我们未有共识时，以及认为需改进时直言不讳。我们必须知无不言，言无不尽。在表达时要表现尊重的态度并不容易，在他人似乎没有聆听的情况下表现尊重的态度更不容易，听取他人的批评则是更更难。我们需要直言不讳，也需要表现尊重。
 
 
 ;Be Inclusive
-Be Inclusive
+海纳百川，有容乃大
 
 
 ;Seek diverse perspectives. Diversity of views and of people on teams powers innovation, even if it is not always comfortable. Encourage all voices. Help new perspectives be heard and listen actively. If you find yourself dominating a discussion, it is especially important to step back and encourage other voices to join in. Be aware of how much time is taken up by dominant members of the group. Provide alternative ways to contribute or participate when possible.
-Seek diverse perspectives. Diversity of views and of people on teams powers innovation, even if it is not always comfortable. Encourage all voices. Help new perspectives be heard and listen actively. If you find yourself dominating a discussion, it is especially important to step back and encourage other voices to join in. Be aware of how much time is taken up by dominant members of the group. Provide alternative ways to contribute or participate when possible.
+寻求不同的观点。团队中不一定每个人都能自在地接受观点多样性和不同成员的看法，不过这能够激发创新。请鼓励所有人表达看法，让新的观点为人所知并积极倾听。如果您发觉自己在主导讨论，请退后一步并鼓励他人参与讨论。也请注意团队中的主导成员占用多久时间。并尽可能提供其他贡献或参与的方式。
 
 
 ;Be inclusive of everyone in an interaction, respecting and facilitating people’s participation whether they are:
-Be inclusive of everyone in an interaction, respecting and facilitating people’s participation whether they are:
+在互动中包容所有人，尊重并鼓励人们的参与，无论对方是否：
 
 
 ;Remote (on video or phone)
@@ -214,7 +215,7 @@ Be inclusive of everyone in an interaction, respecting and facilitating people�
 
 
 ;Think about how you might facilitate alternative ways to contribute or participate. If you find yourself dominating a discussion, step back. Make way for other voices and listen actively to them.
-Think about how you might facilitate alternative ways to contribute or participate. If you find yourself dominating a discussion, step back. Make way for other voices and listen actively to them.
+思考您可以如何促进其他方式的贡献或参与。如果您发现是自己主导讨论，请退后一步，为其他声音让路并积极倾听。
 
 
 ;Understand Different Perspectives
@@ -222,7 +223,7 @@ Think about how you might facilitate alternative ways to contribute or participa
 
 
 ;Our goal should not be to “win” every disagreement or argument. A more productive goal is to be open to ideas that make our own ideas better. Strive to be an example for inclusive thinking. “Winning” is when different perspectives make our work richer and stronger.
-Our goal should not be to “win” every disagreement or argument. A more productive goal is to be open to ideas that make our own ideas better. Strive to be an example for inclusive thinking. “Winning” is when different perspectives make our work richer and stronger.
+我们的目标不应该是“吵赢别人”或排挤其他不同的观点。更有成效的目标是对那些能让我们自己的想法变得更好的观点持开放态度。积极成为包容性思维的典范。不同的观点能充实并强化我们的工作，最后达到“多赢”的局面。
 
 
 ;Appreciate and Accommodate Our Similarities and Differences
@@ -230,7 +231,7 @@ Our goal should not be to “win” every disagreement or argument. A more produ
 
 
 ;Mozillians come from many cultures and backgrounds. Cultural differences can encompass everything from official religious observances to personal habits to clothing. Be respectful of people with different cultural practices, attitudes and beliefs. Work to eliminate your own biases, prejudices and discriminatory practices. Think of others’ needs from their point of view. Use preferred titles (including pronouns) and the appropriate tone of voice. Respect people’s right to privacy and confidentiality. Be open to learning from and educating others as well as educating yourself; it is unrealistic to expect Mozillians to know the cultural practices of every ethnic and cultural group, but everyone needs to recognize one’s native culture is only part of positive interactions.
-Mozillians come from many cultures and backgrounds. Cultural differences can encompass everything from official religious observances to personal habits to clothing. Be respectful of people with different cultural practices, attitudes and beliefs. Work to eliminate your own biases, prejudices and discriminatory practices. Think of others’ needs from their point of view. Use preferred titles (including pronouns) and the appropriate tone of voice. Respect people’s right to privacy and confidentiality. Be open to learning from and educating others as well as educating yourself; it is unrealistic to expect Mozillians to know the cultural practices of every ethnic and cultural group, but everyone needs to recognize one’s native culture is only part of positive interactions.
+全球各地的谋智人有许多不同的文化背景。文化差异可以涵盖从官方宗教仪式到个人衣着习惯的各个层面。请尊重不同文化习俗、观念和信仰的人。尽力消除成见、偏见和歧视。学会换位思考，使用对方惯用的称谓（包括代词）和适当的语调。尊重他人的隐私和匿名的权利。对相互学习和自我学习持开放的态度；虽然期望每一位谋智人都能了解每个民族和群体的文化习俗是不合实际的想法，但每个人都需要认识到自己的本土文化只是积极互动的一部分。
 
 
 ;Lead by Example
@@ -238,15 +239,15 @@ Mozillians come from many cultures and backgrounds. Cultural differences can enc
 
 
 ;By matching your actions with your words, you become a person others want to follow. Your actions influence others to behave and respond in ways that are valuable and appropriate for our organizational outcomes. Design your community and your work for inclusion. Hold yourself and others accountable for inclusive behaviors. Make decisions based on the highest good for <a href="%(mission)s">Mozilla’s mission</a>.
-By matching your actions with your words, you become a person others want to follow. Your actions influence others to behave and respond in ways that are valuable and appropriate for our organizational outcomes. Design your community and your work for inclusion. Hold yourself and others accountable for inclusive behaviors. Make decisions based on the highest good for <a href="%(mission)s">Mozilla’s mission</a>.
+只要言行如一、言出必行，您就会成为他人学习的对象。务必记住：您的行为会影响他人的行为。请设计具有包容性的社区和工作、让自己和他人对包容的行为负责。遵照 <a href="%(mission)s">Mozilla 使命</a>的最高利益作出决策。
 
 
 ;Behavior That Will Not Be Tolerated
-Behavior That Will Not Be Tolerated
+不能容忍的行为
 
 
 ;The following behaviors are considered to be unacceptable under these guidelines.
-The following behaviors are considered to be unacceptable under these guidelines.
+根据这些准则，以下行为是不可接受的。
 
 
 ;Violence and Threats of Violence
@@ -254,199 +255,199 @@ The following behaviors are considered to be unacceptable under these guidelines
 
 
 ;Violence and threats of violence are not acceptable - online or offline. This includes incitement of violence toward any individual, including encouraging a person to commit self-harm. This also includes posting or threatening to post other people’s personally identifying information (“doxxing”) online.
-Violence and threats of violence are not acceptable - online or offline. This includes incitement of violence toward any individual, including encouraging a person to commit self-harm. This also includes posting or threatening to post other people’s personally identifying information (“doxxing”) online.
+无论是在线上还是线下，暴力和暴力威胁都是不可接受的。这包括煽动对任何个人的暴力，包括鼓励一个人自残。这也包括在网上发布或威胁发布他人的个人信息（即“人肉搜索”）。
 
 
 ;Personal Attacks
-Personal Attacks
+人身攻击
 
 
 ;Conflicts will inevitably arise, but frustration should never turn into a personal attack. It is not okay to insult, demean or belittle others. Attacking someone for their opinions, beliefs and ideas is not acceptable. It is important to speak directly when we disagree and when we think we need to improve, but such discussions must be conducted respectfully and professionally, remaining focused on the issue at hand.
-Conflicts will inevitably arise, but frustration should never turn into a personal attack. It is not okay to insult, demean or belittle others. Attacking someone for their opinions, beliefs and ideas is not acceptable. It is important to speak directly when we disagree and when we think we need to improve, but such discussions must be conducted respectfully and professionally, remaining focused on the issue at hand.
+冲突不可避免，但挫败感决不应变成人身攻击。不可侮辱、贬低或轻视他人。概不接受攻击某人的观点、信仰和想法。当我们有不同意见时，以及我们认为需改进时，直言不讳固然重要，但这样的讨论必须以尊重和专业的态度进行为前提，专注于处理眼前的问题。
 
 
 ;Derogatory Language
-Derogatory Language
+贬损的言语
 
 
 ;Hurtful or harmful language related to:
-Hurtful or harmful language related to:
+与下列有关的伤害性言语：
 
 
 ;Other attributes
-Other attributes
+其他性质
 
 
 ;is not acceptable. This includes deliberately referring to someone by a gender that they do not identify with, and/or questioning the legitimacy of an individual’s gender identity. If you’re unsure if a word is derogatory, don’t use it. This also includes repeated subtle and/or indirect discrimination; when asked to stop, stop the behavior in question.
-is not acceptable. This includes deliberately referring to someone by a gender that they do not identify with, and/or questioning the legitimacy of an individual’s gender identity. If you’re unsure if a word is derogatory, don’t use it. This also includes repeated subtle and/or indirect discrimination; when asked to stop, stop the behavior in question.
+是不可接受的。包括故意以某人不认同的性别指代某人，和/或质疑个人性别认同的合法性。如果你不确定某个词句是否含有贬义，就请不要使用。这也包括不断影射和/或间接的歧视；当有人要求停止时，就请停止该行为。
 
 
 ;Unwelcome Sexual Attention or Physical Contact
-Unwelcome Sexual Attention or Physical Contact
+不受欢迎的性关注或身体接触
 
 
 ;Unwelcome sexual attention or unwelcome physical contact is not acceptable. This includes sexualized comments, jokes or imagery in interactions, communications or presentation materials, as well as inappropriate touching, groping, or sexual advances. This includes touching a person without permission, including sensitive areas such as their hair, pregnant stomach, mobility device (wheelchair, scooter, etc) or tattoos. This also includes physically blocking or intimidating another person. Physical contact or simulated physical contact (such as emojis like “kiss”) without affirmative consent is not acceptable. This includes sharing or distribution of sexualized images or text.
-Unwelcome sexual attention or unwelcome physical contact is not acceptable. This includes sexualized comments, jokes or imagery in interactions, communications or presentation materials, as well as inappropriate touching, groping, or sexual advances. This includes touching a person without permission, including sensitive areas such as their hair, pregnant stomach, mobility device (wheelchair, scooter, etc) or tattoos. This also includes physically blocking or intimidating another person. Physical contact or simulated physical contact (such as emojis like “kiss”) without affirmative consent is not acceptable. This includes sharing or distribution of sexualized images or text.
+绝不接受不受欢迎的性关注或身体接触。包括在交流或演示材料中带有性暗示的言语、玩笑或图片，以及不适当的触摸、抚摸或性挑逗。也包括未经允许触摸某人的敏感区域，如头发、孕腹、助行辅具（轮椅、滑板车等）或纹身。这也包括身体阻挡或恐吓他人。未经同意，严禁进行身体接触或模拟身体接触（如“亲吻”等表情符号）。也包括分享或散布色情图片或文本。
 
 
 ;Disruptive Behavior
-Disruptive Behavior
+破坏行为
 
 
 ;Sustained disruption of events, forums, or meetings, including talks and presentations, will not be tolerated. This includes:
-Sustained disruption of events, forums, or meetings, including talks and presentations, will not be tolerated. This includes:
+绝不容许对活动、论坛或会议（包括演讲和演示文稿）进行持续破坏。这包括：
 
 
 ;‘Talking over’ or ‘heckling’ speakers.
-‘Talking over’ or ‘heckling’ speakers.
+“打断发言”或“起哄”。
 
 
 ;Drinking alcohol to excess or using recreational drugs to excess, or pushing others to do so.
-Drinking alcohol to excess or using recreational drugs to excess, or pushing others to do so.
+过量饮酒或服用娱乐性药物，或强迫他人进行如上行为。
 
 
 ;Making derogatory comments about those who abstain from alcohol or other substances, pushing people to drink, talking about their abstinence or preferences to others, or pressuring them to drink - physically or through jeering.
-Making derogatory comments about those who abstain from alcohol or other substances, pushing people to drink, talking about their abstinence or preferences to others, or pressuring them to drink - physically or through jeering.
+通过身体接触或嘲讽的方式，对戒酒或其他物质的人作出贬损性的评论、怂恿他人饮酒、谈论他人的禁欲或偏好，或迫使他人饮酒。
 
 
 ;Otherwise influencing crowd actions that cause hostility in the session.
-Otherwise influencing crowd actions that cause hostility in the session.
+其他任何影响大众，而造成会议中出现敌意的行为。
 
 
 ;Influencing Unacceptable Behavior
-Influencing Unacceptable Behavior
+造成影响而不被接受的行为
 
 
 ;We will treat influencing or leading such activities the same way we treat the activities themselves, and thus the same consequences apply.
-We will treat influencing or leading such activities the same way we treat the activities themselves, and thus the same consequences apply.
+我们将以对待活动本身的方式，来处理影响或主导这类活动的行为，以及其相应的后果。
 
 
 ;Consequences of Unacceptable Behavior
-Consequences of Unacceptable Behavior
+不被接受的行为所产生的后果
 
 
 ;Bad behavior from any Mozillian, including those with decision-making authority, will not be tolerated. Intentional efforts to exclude people (except as part of a consequence of the guidelines or other official action) from Mozilla activities are not acceptable and will be dealt with appropriately.
-Bad behavior from any Mozillian, including those with decision-making authority, will not be tolerated. Intentional efforts to exclude people (except as part of a consequence of the guidelines or other official action) from Mozilla activities are not acceptable and will be dealt with appropriately.
+绝不容许任何谋智人（包括决策层）的不当行为。概不接受在 Mozilla 活动中，排挤他人的意图（除非依据准则或其他官方行动），并将予以妥善处理。
 
 
 ;Reports of harassment/discrimination will be promptly and thoroughly investigated by the people responsible for the safety of the space, event or activity. Appropriate measures will be taken to address the situation.
-Reports of harassment/discrimination will be promptly and thoroughly investigated by the people responsible for the safety of the space, event or activity. Appropriate measures will be taken to address the situation.
+负责空间、事件或活动安全的人员将对骚扰/歧视行为的举报，进行主动而翔实的调查。届时将采取适当措施来处理这些情况。
 
 
 ;Anyone asked to stop unacceptable behavior is expected to comply immediately. Violation of these guidelines can result in you being ask to leave an event or online space, either temporarily or for the duration of the event, or being banned from participation in spaces, or future events and activities in perpetuity.
-Anyone asked to stop unacceptable behavior is expected to comply immediately. Violation of these guidelines can result in you being ask to leave an event or online space, either temporarily or for the duration of the event, or being banned from participation in spaces, or future events and activities in perpetuity.
+被要求停止不被接受行为的人都应立即停止该等行为。若违反以上准则，可能导致您被要求暂时或其期间退出该活动或网络空间，或被禁止进入该空间以及参与未来的活动。
 
 
 ;Mozilla Staff are held accountable, in addition to these guidelines, to Mozilla’s staff Anti-Harassment/Discrimination Policies <a href="%(note1)s">[1]</a>. Mozilla staff in violation of these guidelines may be subject to further consequences, such as disciplinary action, up to and including termination of employment. For contractors or vendors, violation of these guidelines may affect continuation or renewal of contract.
-Mozilla Staff are held accountable, in addition to these guidelines, to Mozilla’s staff Anti-Harassment/Discrimination Policies <a href="%(note1)s">[1]</a>. Mozilla staff in violation of these guidelines may be subject to further consequences, such as disciplinary action, up to and including termination of employment. For contractors or vendors, violation of these guidelines may affect continuation or renewal of contract.
+Mozilla 员工除了必须遵循这些准则之外，也必须遵循 Mozilla 的员工“反骚扰/歧视政策”<a href="%(note1)s">[1]</a>。违反这些准则的 Mozilla 员工可能需接受进一步处置，例如纪律处分，情节严重者将予以辞退。对于合同工或派遣工，违反这些准则可能会影响合同的续签或更新。
 
 
 ;In addition, any participants who abuse the reporting process will be considered to be in violation of these guidelines and subject to the same consequences. False reporting, especially to retaliate or exclude, will not be accepted or tolerated.
-In addition, any participants who abuse the reporting process will be considered to be in violation of these guidelines and subject to the same consequences. False reporting, especially to retaliate or exclude, will not be accepted or tolerated.
+此外，任何滥用举报流程的参与者，亦将被视为违反这些准则，并承担同样的后果。绝不接受也不容许虚假举报，尤其是为了报复或排挤他人而作的举报。
 
 
 ;Reporting
-Reporting
+举报
 
 
 ;If you believe you’re experiencing unacceptable behavior that will not be tolerated as outlined above, <a href="%(hotline)s">please use our hotline to report</a>. Reports go directly to Mozilla’s Employment Counsel and HR People Partners and are triaged by the Community Participation Guidelines Response Lead.
-If you believe you’re experiencing unacceptable behavior that will not be tolerated as outlined above, <a href="%(hotline)s">please use our hotline to report</a>. Reports go directly to Mozilla’s Employment Counsel and HR People Partners and are triaged by the Community Participation Guidelines Response Lead.
+如果您认为正经历自己无法接受的行为，也不为上述规范所容忍，<a href="%(hotline)s">请使用我们的热线提出举报</a>。举报会直接交由 Mozilla 的就业顾问和人力资源合作伙伴，并由社区参与准则回应负责人进行分类。
 
 
 ;After receiving a concise description of your situation, they will review and determine next steps. In addition to conducting any investigation, they can provide a range of resources, from a private consultation to other community resources. They will involve other colleagues or outside specialists (such as legal counsel), as needed to appropriately address each situation.
-After receiving a concise description of your situation, they will review and determine next steps. In addition to conducting any investigation, they can provide a range of resources, from a private consultation to other community resources. They will involve other colleagues or outside specialists (such as legal counsel), as needed to appropriately address each situation.
+在接获您对有关情况提供的简要说明之后，这些人员将进行核实以确定后续步骤。除了进行任何调查之外，这些人也将提供私人咨询或其他社区资源等各种资源。这些人将视情况请其他同事（包括法律顾问）提供协助，以便妥善地解决各种情况。
 
 
 ;Additional Resources: <a href="%s">How to Report</a>
-Additional Resources: <a href="%s">How to Report</a>
+其他资源：<a href="%s">如何举报</a>
 
 
 ;Questions: <a href="%s">cpg-questions@mozilla.com</a>
-Questions: <a href="%s">cpg-questions@mozilla.com</a>
+若有疑问，请询：<a href="%s">cpg-questions@mozilla.com</a>
 
 
 # String is obsolete. Do not remove.
 ;Questions: <a href="%s">inclusion@mozilla.com</a>
-Questions: <a href="%s">inclusion@mozilla.com</a>
+若有疑问，请询：<a href="%s">inclusion@mozilla.com</a>
 
 
 # String is obsolete. Do not remove.
 ;If you believe you’re experiencing unacceptable behavior that will not be tolerated as outlined above, please contact <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a> and the designated person for your event, activity or Mozilla space. Inclusion@ reaches our Diversity &amp; Inclusion Leader, %(di_leader)s, and our Director of Organizational Development, %(dir_orgdev)s. After receiving a concise description of your situation, they will review and determine next steps. In addition to conducting any investigation, they can provide a range of resources, from a private consultation to other community resources. They will involve other colleagues, including legal counsel, only as needed to appropriately address each situation.
-If you believe you’re experiencing unacceptable behavior that will not be tolerated as outlined above, please contact <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a> and the designated person for your event, activity or Mozilla space. Inclusion@ reaches our Diversity &amp; Inclusion Leader, %(di_leader)s, and our Director of Organizational Development, %(dir_orgdev)s. After receiving a concise description of your situation, they will review and determine next steps. In addition to conducting any investigation, they can provide a range of resources, from a private consultation to other community resources. They will involve other colleagues, including legal counsel, only as needed to appropriately address each situation.
+如果您认为您遭遇上述不被接受的行为，请联系 <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a> 和负责该事件、活动或 Mozilla Space 的人员。Inclusion@ 将可联系到多元化及包容性主管 %(di_leader)s 和组织发展总监 %(dir_orgdev)s。在接获您对有关情况提供的简要说明之后，这些人员将进行核实以确定后续步骤。除了进行任何调查之外，这些人也将提供私人咨询或其他社区资源等各种资源。这些人将视情况请其他同事（包括法律顾问）提供协助，以便妥善地解决各种情况。
 
 
 ;Please also report to us if you observe a potentially dangerous situation, someone in distress, or violations of these guidelines, even if the situation is not happening to you.
-Please also report to us if you observe a potentially dangerous situation, someone in distress, or violations of these guidelines, even if the situation is not happening to you.
+如果察觉到潜在的危险情况、有人需要协助或违反这些准则，即使您并非当事人，也请提出举报。
 
 
 ;If you feel you have been unfairly accused of violating these guidelines, please follow the same reporting process.
-If you feel you have been unfairly accused of violating these guidelines, please follow the same reporting process.
+如果您认为您受到违反这些准则的不公平指控，请遵循相同的流程提出举报。
 
 
 ;Mozilla Spaces
-Mozilla Spaces
+Mozilla Space
 
 
 ;Each physical or virtual Mozilla space shall have a designated contact.
-Each physical or virtual Mozilla space shall have a designated contact.
+每个实体或虚拟 Mozilla Space 都有指定的联系人。
 
 
 ;Mozilla Events
-Mozilla Events
+Mozilla 活动
 
 
 ;All Mozilla events will have designated a specific safety guideline with emergency and anti-abuse contacts at the event as well as online. These contacts will be posted prominently throughout the event, and in print and online materials. Event leaders are requested to speak at the event about the guidelines and to ask participants to review and agree to them when they sign up for the event.
-All Mozilla events will have designated a specific safety guideline with emergency and anti-abuse contacts at the event as well as online. These contacts will be posted prominently throughout the event, and in print and online materials. Event leaders are requested to speak at the event about the guidelines and to ask participants to review and agree to them when they sign up for the event.
+每场线下与线上的 Mozilla 活动都有特定的安全准则，以及紧急情况和伤害防治的联系人。在活动全程、印刷或在线文件都会标明这些联系人的联系方式。活动主办人须在活动中说明应遵循的准则，并要求参与者在报名参加事件时审阅并同意这些准则。
 
 
 ;Reports will receive an email notice of receipt. Once an incident has been investigated and a decision has been communicated to the relevant parties, all have the opportunity to appeal this decision by sending an email to <a href="%(mailto_questions)s">cpg-questions@mozilla.com</a>.
-Reports will receive an email notice of receipt. Once an incident has been investigated and a decision has been communicated to the relevant parties, all have the opportunity to appeal this decision by sending an email to <a href="%(mailto_questions)s">cpg-questions@mozilla.com</a>.
+举报将以电子邮件通知已送达并受理。一旦举报进入调查程序，将会通知相关各方最终的结果，各方可发送电子邮件至 <a href="%(mailto_questions)s">cpg-questions@mozilla.com</a> 对结果提出上诉。
 
 
 # String is obsolete. Do not remove.
 ;Reports will receive an email notice of receipt. Once an incident has been investigated and a decision has been communicated to the relevant parties, all have the opportunity to appeal this decision by sending an email to <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a>.
-Reports will receive an email notice of receipt. Once an incident has been investigated and a decision has been communicated to the relevant parties, all have the opportunity to appeal this decision by sending an email to <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a>.
+举报将以电子邮件通知已送达并受理。一旦举报进入调查程序，将会通知相关各方最终的结果，各方可发送电子邮件至 <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a> 对结果提出上诉。
 
 
 ;Ask questions
-Ask questions
+我要提问
 
 
 ;Everyone is encouraged to ask questions about these guidelines. If you are organizing an event or activity, reach out for tips building inclusion for your event, activity or space. Your input is welcome and you will always get a response within 24 hours (or on the next weekday, if it is the weekend) if you reach out to <a href="%(mailto_questions)s">cpg-questions@mozilla.com</a>. Please <a href="%(changelog)s">review this change log</a> for updates to this document.
-Everyone is encouraged to ask questions about these guidelines. If you are organizing an event or activity, reach out for tips building inclusion for your event, activity or space. Your input is welcome and you will always get a response within 24 hours (or on the next weekday, if it is the weekend) if you reach out to <a href="%(mailto_questions)s">cpg-questions@mozilla.com</a>. Please <a href="%(changelog)s">review this change log</a> for updates to this document.
+欢迎任何人提出此准则的相关问题。如果您是活动主办人，请参阅对活动或 Space 营造包容氛围的提示。当您联系 <a href="%(mailto_questions)s">cpg-questions@mozilla.com</a> 后，会在 24 小时内（如遇周末或假日，将顺延至下一个工作日）收到回复。可在<a href="%(changelog)s">此处</a>找到本文档的的更新记录。
 
 
 # String is obsolete. Do not remove.
 ;Everyone is encouraged to ask questions about these guidelines. If you are organizing an event or activity, reach out for tips building inclusion for your event, activity or space. Your input is welcome and you will always get a response within 24 hours (or on the next weekday, if it is the weekend) if you reach out to <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a>. If you wish you receive notice when we update the guidelines, drop us a line and we will add you to the updates notification list.
-Everyone is encouraged to ask questions about these guidelines. If you are organizing an event or activity, reach out for tips building inclusion for your event, activity or space. Your input is welcome and you will always get a response within 24 hours (or on the next weekday, if it is the weekend) if you reach out to <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a>. If you wish you receive notice when we update the guidelines, drop us a line and we will add you to the updates notification list.
+欢迎任何人提出此准则的相关问题。如果您是活动主办人，请参阅对活动或 Space 营造包容氛围的提示。当您联系 <a href="%(mailto_inclusion)s">inclusion@mozilla.com</a> 后，会在 24 小时内（如遇周末或假日，将顺延至下一个工作日）收到回复。如果您想在我们更新准则时收到通知，欢迎来信告知，我们会将您加入更新通知名单中。
 
 
 ;License and attribution
-License and attribution
+许可协议与引用条款
 
 
 ;This set of guidelines is distributed under a <a href="%(license)s" rel="license">Creative Commons Attribution-ShareAlike license</a>.
-This set of guidelines is distributed under a <a href="%(license)s" rel="license">Creative Commons Attribution-ShareAlike license</a>.
+本准则遵循<a href="%(license)s" rel="license">知识共享“署名-相同方式共享”许可协议</a>进行授权。
 
 
 ;These guidelines have been adapted with modifications from Mozilla’s original Community Participation Guidelines, the <a href="%(ubuntu_coc)s">Ubuntu Code of Conduct</a>, Mozilla’s <a href="%(viewsource_coc)s">View Source Conference Code of Conduct</a>, and the <a href="%(rustlang_coc)s">Rust Language Code of Conduct</a>, which are based on Stumptown Syndicate’s <a href="%(citizen_coc)s">Citizen Code of Conduct</a>. Additional text from the <a href="%(lgbtqtech_coc)s">LGBTQ in Technology Code of Conduct</a> and the <a href="%(wiscon_coc)s">WisCon code of conduct</a>. This document and all associated processes are only possible with the hard work of many, many Mozillians.
-These guidelines have been adapted with modifications from Mozilla’s original Community Participation Guidelines, the <a href="%(ubuntu_coc)s">Ubuntu Code of Conduct</a>, Mozilla’s <a href="%(viewsource_coc)s">View Source Conference Code of Conduct</a>, and the <a href="%(rustlang_coc)s">Rust Language Code of Conduct</a>, which are based on Stumptown Syndicate’s <a href="%(citizen_coc)s">Citizen Code of Conduct</a>. Additional text from the <a href="%(lgbtqtech_coc)s">LGBTQ in Technology Code of Conduct</a> and the <a href="%(wiscon_coc)s">WisCon code of conduct</a>. This document and all associated processes are only possible with the hard work of many, many Mozillians.
+这些准则修改自： Mozilla 原版《社区参与准则》<a href="%(ubuntu_coc)s">《Ubuntu 行为守则》</a>、Mozilla 的<a href="%(viewsource_coc)s">《View Source 研讨会行为守则》</a>以及<a href="%(rustlang_coc)s">《Rust 语言行为守则》</a>（修改自斯顿普敦协会的<a href="%(citizen_coc)s">《公民行为守则》</a>）。其他文本内容来自<a href="%(lgbtqtech_coc)s">《面向性少数群体的技术行为守则》</a>和<a href="%(wiscon_coc)s">《威斯康星行为守则》</a>。本文档和所有相关流程是众多谋智人共同努力的成果。
 
 
 ;Modifications to these guidelines
-Modifications to these guidelines
+准则修订
 
 
 ;Mozilla may amend the guidelines from time to time and may also vary the procedures it sets out where appropriate in a particular case. Your agreement to comply with the guidelines will be deemed agreement to any changes to it. This policy does not form part of any Mozilla employee’s contract of employment or otherwise have contractual effect.
-Mozilla may amend the guidelines from time to time and may also vary the procedures it sets out where appropriate in a particular case. Your agreement to comply with the guidelines will be deemed agreement to any changes to it. This policy does not form part of any Mozilla employee’s contract of employment or otherwise have contractual effect.
+Mozilla 须随时修正本准则，并根据特定案例情况调整处理程序。您同意遵守准则即代表您同意对本准则的所有更改。此政策不构成任何 Mozilla 员工的雇佣合同的一部分，亦无合同效力。
 
 
 # String is obsolete. Do not remove.
 ;Mozilla may amend the guidelines from time to time and may also vary the procedures it sets out where appropriate in a particular case. Your agreement to comply with the guidelines will be deemed agreement to any changes to it. In case Mozilla amends the guidelines, the updated version can be found at <a href="%(guidelines)s">https://www.mozilla.org/about/governance/policies/participation/</a>. You can sign up for push updates by subscribing to <a href="%(group)s">https://groups.google.com/d/forum/mozilla-cpg</a>. This policy does not form part of any Mozilla employee’s contract of employment or otherwise have contractual effect.
-Mozilla may amend the guidelines from time to time and may also vary the procedures it sets out where appropriate in a particular case. Your agreement to comply with the guidelines will be deemed agreement to any changes to it. In case Mozilla amends the guidelines, the updated version can be found at <a href="%(guidelines)s">https://www.mozilla.org/about/governance/policies/participation/</a>. You can sign up for push updates by subscribing to <a href="%(group)s">https://groups.google.com/d/forum/mozilla-cpg</a>. This policy does not form part of any Mozilla employee’s contract of employment or otherwise have contractual effect.
+Mozilla 可能会随时修订本准则，并为个案调整处理程序。您同意遵守此准则时，也将视作您同意准则的任何变更。当 Mozilla 修订本准则后，您可在 <a href="%(guidelines)s">https://www.mozilla.org/about/governance/policies/participation/</a>找到最新版本。您可订阅 <a href="%(group)s">https://groups.google.com/d/forum/mozilla-cpg</a> 以在 Mozilla 修订本准则时收到更新。此政策不属于任何 Mozilla 员工的雇佣合同之一部分，或有任何合同效力。
 
 
 ;[1] The anti-harassment policy is accessible to paid staff <a href="%s">here</a>.
-[1] The anti-harassment policy is accessible to paid staff <a href="%s">here</a>.
+[1] 在职职工可在<a href="%s">此处</a>参阅反骚扰政策。
 
 

@@ -1,188 +1,189 @@
+## active ##
 ## NOTE: Demo page: https://www-dev.allizom.org/about/governance/policies/participation/reporting/
 
 
 # HTML page title
 ;Community Participation Guidelines - How to Report
-Community Participation Guidelines - How to Report
+社区参与准则 - 如何举报
 
 
 ;How to Report Violations of the Community Participation Guidelines
-How to Report Violations of the Community Participation Guidelines
+如何举报违反社区参与准则的行为
 
 
 ;This document provides high-level information, for understanding and reporting violations of Mozilla's Community Participation Guidelines.
-This document provides high-level information, for understanding and reporting violations of Mozilla's Community Participation Guidelines.
+本文档提供相关概要信息，让您可了解和举报违反 Mozilla 社区参与准则的行为。
 
 
 ;From the <a href="%(cpg)s">Community Participation Guidelines</a>:
-From the <a href="%(cpg)s">Community Participation Guidelines</a>:
+根据<a href="%(cpg)s">社区参与准则</a>：
 
 
 ;The heart of Mozilla is people. We put people first and do our best to recognize, appreciate and respect the diversity of our global contributors. The Mozilla Project welcomes contributions from everyone who shares our goals and wants to contribute in a healthy and constructive manner within our community. As such, we have adopted this code of conduct and require all those who participate to agree and adhere to these Community Participation Guidelines in order to help us create a safe and positive community experience for all.
-The heart of Mozilla is people. We put people first and do our best to recognize, appreciate and respect the diversity of our global contributors. The Mozilla Project welcomes contributions from everyone who shares our goals and wants to contribute in a healthy and constructive manner within our community. As such, we have adopted this code of conduct and require all those who participate to agree and adhere to these Community Participation Guidelines in order to help us create a safe and positive community experience for all.
+Mozilla 坚持以人为本。我们将众人放在第一位，尽最大努力来认识、欣赏并尊重全球贡献者的多样性。The Mozilla Project 欢迎任何志同道合的人，在社区中以健康和建设性的方式作出贡献。因此，我们特别编写这份行为准则，并要求所有参与者同意并遵循此准则，一同营造出安全且积极的社区体验。
 
 
 ;This document is intended as an interface to existing documents, processes and people responsible for ensuring Mozilla’s communities are healthy, and inclusive for all.
-This document is intended as an interface to existing documents, processes and people responsible for ensuring Mozilla’s communities are healthy, and inclusive for all.
+本文档旨在为负责确保 Mozilla 社区健康并包容所有人的文档、流程和人员提供入口。
 
 
 ;When To Report
-When To Report
+何时应该举报
 
 
 ;Please report all incidents where someone has engaged in behavior that is potentially illegal or makes you or someone else feel unsafe, unwelcome or uncomfortable <a href="%(cpg)s">as further explained in the CPG</a>.
-Please report all incidents where someone has engaged in behavior that is potentially illegal or makes you or someone else feel unsafe, unwelcome or uncomfortable <a href="%(cpg)s">as further explained in the CPG</a>.
+若知道有人可能参与不法行为，或令您本人或他人感到不安全、不受欢迎或不舒服，请<a href="%(cpg)s">依照社区参与准则的说明</a>举报此类事件。
 
 
 ;How to Give a Report
-How to Give a Report
+如何举报
 
 
 ;If you believe someone is in physical danger call your local emergency number.
-If you believe someone is in physical danger call your local emergency number.
+如果您认为有人身危险，请拨打您当地的紧急电话。
 
 
 ;If you have a report <strong>by <em>and</em> about</strong> a contributor (for example, the report is made <strong>by</strong> one contributor <strong>about</strong> another contributor), then you should make your report at the <a href="%(community_hotline)s">Community Participation Guidelines hotline</a>.
-If you have a report <strong>by <em>and</em> about</strong> a contributor (for example, the report is made <strong>by</strong> one contributor <strong>about</strong> another contributor), then you should make your report at the <a href="%(community_hotline)s">Community Participation Guidelines hotline</a>.
+如果您的举报是<strong>來自<em>并</em>关于</strong>一名贡献者（例如<strong>由</strong>一名贡献者<strong>对</strong>另一名贡献者提出举报），那么您应该拨打<a href="%(community_hotline)s">社区参与准则热线</a>提出举报。
 
 
 ;If you have a report <strong>involving an employee, contractor, or vendor</strong> (for example, the report is made <strong>by</strong> an employee or is <strong>about</strong> an employee) then you should report at the <a href="%(employee_hotline)s">Mozilla Employee hotline</a>.
-If you have a report <strong>involving an employee, contractor, or vendor</strong> (for example, the report is made <strong>by</strong> an employee or is <strong>about</strong> an employee) then you should report at the <a href="%(employee_hotline)s">Mozilla Employee hotline</a>.
+如果您的举报<strong>涉及正式员工、合同工或派遣工</strong>（例如，举报是<strong>由</strong>员工提出或<strong>关于</strong>一位员工），那么您应该拨打 <a href="%(employee_hotline)s">Mozilla 员工热线</a>提出举报。
 
 
 ;Put another way…
-Put another way…
+换言之…
 
 
 ;By
-By
+举报者
 
 
 ;Employee
-Employee
+员工
 
 
 ;Contributor
-Contributor
+贡献者
 
 
 ;About
-About
+关于
 
 
 ;Employee Hotline
-Employee Hotline
+员工热线
 
 
 ;Community Hotline
-Community Hotline
+社区热线
 
 
 ;Contractor
-Contractor
+合同工
 
 
 ;Vendor
-Vendor
+厂商
 
 
 ;If someone reports to you…
-If someone reports to you…
+如果有人向您举报…
 
 
 ;Do not question, or judge their experience.
-Do not question, or judge their experience.
+不要质疑，或判断他们的经验。
 
 
 ;Do not invite them to withdraw the incident report.
-Do not invite them to withdraw the incident report.
+不要请他们撤回事件举报。
 
 
 ;Do not promise any particular response.
-Do not promise any particular response.
+不要承诺任何特别的回应。
 
 
 ;<strong>Do</strong> let them know that for Mozilla’s policy to be impactful, reports should go through the hotline. If they do not feel comfortable filing the report themselves, you may do so.
-<strong>Do</strong> let them know that for Mozilla’s policy to be impactful, reports should go through the hotline. If they do not feel comfortable filing the report themselves, you may do so.
+<strong>让他们知道</strong>为了有效运用 Mozilla 政策，他们应该通过热线提出举报。如果他们不想自己举报，也可以由您代为提出。
 
 
 ;No matter who files the report, the information below is important to capture.
-No matter who files the report, the information below is important to capture.
+无论是谁提出举报，一定要获得以下信息。
 
 
 ;Names of the people involved (or if names are unknown, use descriptions and any identifiable info such as appearance, role, handle, project/community affiliation).
-Names of the people involved (or if names are unknown, use descriptions and any identifiable info such as appearance, role, handle, project/community affiliation).
+事件相关人士的姓名（如果姓名不明，请使用描述及任何可识别的信息，如外貌、职位、左右撇、项目/社区隶属关系）。
 
 
 ;Description of incident, including memorable dates (or event) and locations.
-Description of incident, including memorable dates (or event) and locations.
+事件说明，包括记得的日期（或事件）和地点。
 
 
 ;If the reporter wants to make an anonymous report, please inform them that this contact information we may not be able to update the initial reporter if appropriate. Some laws prohibit anonymous reporting and that you may be required to provide their name if you are a Mozilla Manager or Community Leader.
-If the reporter wants to make an anonymous report, please inform them that this contact information we may not be able to update the initial reporter if appropriate. Some laws prohibit anonymous reporting and that you may be required to provide their name if you are a Mozilla Manager or Community Leader.
+如果举报者想匿名举报，请告诉他们，在必要情况下，我们可能无法向原举报者提供最新消息。有些法律禁止匿名举报，如果您是 Mozilla 经理或社区负责人，则可能需要提供举报者的姓名。
 
 
 ;Relationship of reporter/victim.
-Relationship of reporter/victim.
+举报者与受害者的关系。
 
 
 ;Mozilla Managers and Community leaders
-Mozilla Managers and Community leaders
+Mozilla 经理和社区负责人
 
 
 ;If a Mozilla Manager or Community leaders is informed about potential <a href="%(cpg)s">CPG</a> violations they are expected to immediately report the incident through the applicable hotline, even if the initial reporter will also file a report. Mozilla Managers and Community leaders are not permitted to investigate complaints on their own.
-If a Mozilla Manager or Community leaders is informed about potential <a href="%(cpg)s">CPG</a> violations they are expected to immediately report the incident through the applicable hotline, even if the initial reporter will also file a report. Mozilla Managers and Community leaders are not permitted to investigate complaints on their own.
+如果 Mozilla 经理或社区负责人被告知可能有违反<a href="%(cpg)s">社区参与准则</a>的发生，他们应立即通过相关热线举报，即使原举报者也会进行举报。Mozilla 经理和社区负责人不得擅自调查投诉。
 
 
 ;Do not impose your own judgement on how the reporter should react. Focus on listening.
-Do not impose your own judgement on how the reporter should react. Focus on listening.
+不要对举报者的反映擅自作出判断。专注于聆听。
 
 
 ;What happens after the Report is filed
-What happens after the Report is filed
+提出举报后会发生什么？
 
 
 ;Investigation
-Investigation
+调查
 
 
 ;Reports are handled discretely and privately, and will only be shared with the people who can investigate, respond, and advise. As part of this investigation, it may be necessary for some information to be disclosed to others, for example to key stakeholders administering communities or events, witnesses, and the wrongdoer.
-Reports are handled discretely and privately, and will only be shared with the people who can investigate, respond, and advise. As part of this investigation, it may be necessary for some information to be disclosed to others, for example to key stakeholders administering communities or events, witnesses, and the wrongdoer.
+将以独立和私密的方式处理举报，并且只会分享与参与调查、回应和提供建议的人员。作为这项调查的一部分，可能有必要向其他人披露一些信息，如向管理社区或开展活动的主要利益相关者、证人和犯错的人。
 
 
 ;Correspondence
-Correspondence
+告知
 
 
 ;All reports are reviewed and responded to based on the nature of the report and we try to provide reasonably timed updates as part of open investigations.
-All reports are reviewed and responded to based on the nature of the report and we try to provide reasonably timed updates as part of open investigations.
+所有举报都将根据其性质进行核查和回应。作为公开调查的一部分，我们会尽力在过程中提供合理的定期更新。
 
 
 ;Redress
-Redress
+纠正
 
 
 ;When an investigation is complete, to the extent the wrongdoer is subject to Mozilla’s control, appropriate measures will be taken to address the situation.
-When an investigation is complete, to the extent the wrongdoer is subject to Mozilla’s control, appropriate measures will be taken to address the situation.
+调查完成后，我们会在 Mozilla 最大能力范围内，对被举报者采取适当措施以解决问题。
 
 
 ;No Retaliation
-No Retaliation
+不得报复
 
 
 ;Mozilla does not tolerate retaliation against Mozillians who report concerns under the CPG in good faith. Acts of retaliation should be reported in the same process as described above.
-Mozilla does not tolerate retaliation against Mozillians who report concerns under the CPG in good faith. Acts of retaliation should be reported in the same process as described above.
+Mozilla 不会容忍任何人对按照社区参与准则进行举报的善意谋智人进行报复。若有报复行为，应以上述相同流程进行举报。
 
 
 ;License
-License
+许可协议
 
 
 ;This document includes content forked from the <a href="%(pycon)s">PyCon Code of Conduct Revision 2f4d980</a> which is licensed under a Creative Commons Attribution 3.0 Unported License.
-This document includes content forked from the <a href="%(pycon)s">PyCon Code of Conduct Revision 2f4d980</a> which is licensed under a Creative Commons Attribution 3.0 Unported License.
+本文档包含派生自 <a href="%(pycon)s">PyCon 行为准则修订版 2f4d980</a> 的内容，该内容遵循知识共享“署名-未移植 3.0”许可协议进行授权。
 
 
 ;This document is licensed under a <a href="%(license)s">Creative Commons Attribution 3.0 Unported License</a>.
-This document is licensed under a <a href="%(license)s">Creative Commons Attribution 3.0 Unported License</a>.
+本文档遵循<a href="%(license)s">知识共享“署名-未移植 3.0”许可协议</a>进行授权。
 
 
