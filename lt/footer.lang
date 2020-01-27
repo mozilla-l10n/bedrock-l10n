@@ -4,105 +4,105 @@
 
 
 ;Developers
-Developers
+Programuotojams
 
 
 ;Company
-Company
+Įmonė
 
 
 ;Careers
-Careers
+Karjera
 
 
 ;Test New Features
-Test New Features
+Išbandykite naujoves
 
 
 ;MDN Web Docs
-MDN Web Docs
+MDN saityno dokumentacija
 
 
 ;Tools
-Tools
+Priemonės
 
 
 ;Resources
-Resources
+Ištekliai
 
 
 ;Contact
-Contact
+Susisiekite
 
 
 ;Product Help
-Product Help
+Pagalba naudotojams
 
 
 ;Support
-Support
+Palaikymas
 
 
 ;File a Bug
-File a Bug
+Registruoti riktą
 
 
 ;Community Participation Guidelines
-Community Participation Guidelines
+Dalyvavimo bendruomenėje gairės
 
 
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
-Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+©1998–%(current_year)s. Kai kurių šio turinio dalių autoriai yra atskiri mozilla.org bendradarbiai. Turinys pateikiamas <a rel="license" href="%(url)s">„Creative Commons“ licencijos</a> sąlygomis.
 
 
 ;Press
-Press
+Spaudai
 
 
 # Link to https://mozilla.design
 ;Brand Standards
-Brand Standards
+Prekės ženklo standartai
 
 
 ;Browsers
-Browsers
+Naršyklės
 
 
 ;Enterprise
-Enterprise
+Organizacijoms
 
 
 ;Products
-Products
+Produktai
 
 
 ;Join
-Join
+Prisijungti
 
 
 ;Sign Up
-Sign Up
+Kurti paskyrą
 
 
 ;Sign In
-Sign In
+Prisijungti
 
 
 ;Benefits
-Benefits
+Privalumai
 
 
 # please do not translate the product name Beta
 ;Beta for Android
-Beta for Android
+„Beta“ „Android“ įrenginiams
 
 
 # please do not translate the product name Nightly
 ;Nightly for Android
-Nightly for Android
+„Nightly“ „Android“ įrenginiams
 
 
 ;Visit <a %(moco_link)s>Mozilla Corporation’s</a> not-for-profit parent, the <a %(mofo_link)s>Mozilla Foundation</a>.
-Visit <a %(moco_link)s>Mozilla Corporation’s</a> not-for-profit parent, the <a %(mofo_link)s>Mozilla Foundation</a>.
+Apsilankyti <a %(moco_link)s>„Mozilla Corporation“</a> įkūrusios ne pelno siekiančios organizacijos <a %(mofo_link)s>„Mozilla Foundation“</a> svetainėje.
 
 
