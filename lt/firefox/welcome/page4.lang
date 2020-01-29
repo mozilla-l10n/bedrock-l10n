@@ -1,72 +1,73 @@
+## active ##
 ## NOTE: demo page available at https://bedrock-demo-achurchwell.oregon-b.moz.works/firefox/welcome/4/
 
 
 # HTML page title
 ;Download the Firefox Browser on your Mobile for iOS and Android
-Download the Firefox Browser on your Mobile for iOS and Android
+Parsisiųskite mobiliąją „Firefox“ į savo „iOS“ ir „Android“ įrenginius
 
 
 # the strong tag here is to underline Firefox.
 ;Wallet. Keys. Phone. <strong>Firefox.</strong>
-Wallet. Keys. Phone. <strong>Firefox.</strong>
+Piniginė. Raktai. Telefonas. <strong>„Firefox“.</strong>
 
 
 ;Take privacy with you on every device — and leave the data trackers behind.
-Take privacy with you on every device — and leave the data trackers behind.
+Apsaugokite savo privatumą visuose įrenginiuose – palikite seklius užnugaryje.
 
 
 ;Get the Firefox App
-Get the Firefox App
+Parsisiųsti „Firefox“ programėlę
 
 
 ;Get Firefox on your Phone
-Get Firefox on your Phone
+Parsisiųskite „Firefox“ į savo telefoną
 
 
 ;Send the download link right to your phone or email.
-Send the download link right to your phone or email.
+Nusiųsti parsisiuntimo saitą į jūsų telefoną ar el. pašto dėžutę.
 
 
 ;Enter your phone number or email
-Enter your phone number or email
+Įveskite savo telefono numerį arba el. pašto adresą
 
 
 # This string is reused from firefox/whatsnew
 ;Download Firefox for your smartphone and tablet.
-Download Firefox for your smartphone and tablet.
+Naudokitės „Firefox“ naršykle ir savo telefone ar planšetėje.
 
 
 ;“Firefox: Private, Safe Browser” on iOS or Android.
-“Firefox: Private, Safe Browser” on iOS or Android.
+„Firefox“ naršyklę galima įdiegti į „iOS“ ir „Android“ įrenginius.
 
 
 # "off your trail" is an expression for not being followed around.
 ;Get data trackers off your trail
-Get data trackers off your trail
+Nusikratykite nepageidaujamų seklių
 
 
 ;Enhanced Tracking Protection <a href="%(privacy)s">blocks 2000+ trackers</a> from chasing you around the web.
-Enhanced Tracking Protection <a href="%(privacy)s">blocks 2000+ trackers</a> from chasing you around the web.
+Išplėstinė apsauga nuo stebėjimo <a href="%(privacy)s">blokuoja virš 2000 stebėjimo elementų</a>, bandančių sekti jūsų keliones internete.
 
 
 # "Leave no trace" is an expression for leaving nothing behind.
 ;Leave no trace
-Leave no trace
+Nepalikite pėdsakų
 
 
 ;Automatically clear your history and cookies with Private Browsing mode.
-Automatically clear your history and cookies with Private Browsing mode.
+Naudojant privatųjį naršymą, naršymo žurnalas ir slapukai išvalomi automatiškai.
 
 
 ;Take it all with you
-Take it all with you
+Pasiimkite „Firefox“ su savimi
 
 
 ;Don’t walk out the door without your bookmarks, tabs, notes, and passwords.
-Don’t walk out the door without your bookmarks, tabs, notes, and passwords.
+Neišeikite pro duris be savo adresyno, kortelių, užrašų ir slaptažodžių.
 
 
 ;Why am I seeing this?
-Why am I seeing this?
+Kodėl tai matau?
 
 

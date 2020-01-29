@@ -1,3 +1,5 @@
+## active ##
+## default-browser-012020 ##
 ## NOTE: Demo page at https://www-demo5.allizom.org/firefox/73.0/whatsnew/all/
 
 
@@ -15,7 +17,7 @@ Eñeha’ãke eñemo’ã eikekuévo ñandutípe
 
 
 ;Thanks for using the latest Firefox browser. When you choose Firefox, you support a better web for you and everyone else. Now take the next step to protect yourself.
-Thanks for using the latest Firefox browser. When you choose Firefox, you support a better web for you and everyone else. Now take the next step to protect yourself.
+Aguyje eipurúre Firefox rembiapokue ipyahuvéva. Eiporavóvo Firefox eykekóma ñanduti iporãvéva ndéve g̃uarã ha opavavépe avei. Ko’ág̃a eku’e nde eñemo’ã hag̃ua.
 
 
 ;Make Firefox your default browser
@@ -47,12 +49,12 @@ Eiporavo ñemigua ijeheguíva
 
 
 ;Companies keep finding new ways to poach your personal data. Firefox is the browser with a mission of finding new ways to protect you.
-Companies keep finding new ways to poach your personal data. Firefox is the browser with a mission of finding new ways to protect you.
+Umi mba’apohaguasu ojuhu gueteri mba’éichapa omondáta ne mba’ekuaarã. Firefox ha’e kundahára ojuhúva mba’éichapa eñemo’ãta ñandutípe.
 
 
 # String is obsolete. Do not remove.
 ;The internet keeps finding new ways to poach your personal data. Firefox is the only browser with a mission of finding new ways to protect you.
-The internet keeps finding new ways to poach your personal data. Firefox is the only browser with a mission of finding new ways to protect you.
+Ñanduti ojuhu gueteri mba’éichapa omondáta ne mba’ekuaarã. Firefox ha’e kundahára ojuhúva mba’éichapa eñemo’ãta ñandutípe.
 
 
 ;Choose freedom on every device
@@ -60,12 +62,12 @@ Eiporavo sãso peteĩteĩva mba’e’okápe
 
 
 ;Firefox is fast and safe on Windows, iOS, Android, Linux…and across them all. You deserve choices in browsers and devices, instead of decisions made for you.
-Firefox is fast and safe on Windows, iOS, Android, Linux…and across them all. You deserve choices in browsers and devices, instead of decisions made for you.
+Firefox ipya’e ha hekorosã Windows, iOS, Android, Linux-pe… ha ehasakuaa peteĩgui ambuépe. Eiporavokuaa kundahára ha mba’e’okápe, ojapo mboyve ndehegui ambue.
 
 
 # String is obsolete. Do not remove.
 ;Firefox is fast and safe on Windows, iOS, Android, Linux...and across them all. We have no interest in locking you in or resetting your preferences.
-Firefox is fast and safe on Windows, iOS, Android, Linux...and across them all. We have no interest in locking you in or resetting your preferences.
+Firefox ipya’e ha hekorosã Windows, iOS, Android, Linux-pe… opavave ha peteĩteĩme. Noromomichĩ térã noromoambueséi nde eguerohoryvéva.
 
 
 ;Choose corporate independence
@@ -73,15 +75,15 @@ Eiporavo mba’apohaguasu rekosãso
 
 
 ;Firefox is the only major independent browser. Chrome, Edge and Brave are all built on Google code, which means giving Google even more control of the internet.
-Firefox is the only major independent browser. Chrome, Edge and Brave are all built on Google code, which means giving Google even more control of the internet.
+Firefox ha’e kundahára guasu ijeheguíva. Chrome, Edge ha Brave umíva oguata Google ayvu rupive, he’iséva ome’ẽha Google-pe mbareteve ñandutípe.
 
 
 # String is obsolete. Do not remove.
 ;Firefox is the only major independent browser. Chrome, Edge and Brave are all built with code from Google, the world’s largest ad network.
-Firefox is the only major independent browser. Chrome, Edge and Brave are all built with code from Google, the world’s largest ad network.
+Firefox ha’e kundahára guasu ijeheguíva. Chrome, Edge ha Brave oñemoheñói Google ayvu rupive, ñanduti ñemurã tuichavéva arapýpe.
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+Emoñe’ẽ <a href="%(notes)s">Jehaipy rehegua</a> eguereko hag̃ua ipyahúva nde Firefox kundaha rehegua.
 
 
