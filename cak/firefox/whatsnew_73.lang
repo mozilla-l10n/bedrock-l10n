@@ -1,3 +1,5 @@
+## active ##
+## default-browser-012020 ##
 ## NOTE: Demo page at https://www-demo5.allizom.org/firefox/73.0/whatsnew/all/
 
 
@@ -69,16 +71,16 @@ Ri Firefox aninäq chuqa' jikïl pa Windows, iOS, Android, Linux… chuqa' ronoj
 
 
 ;Choose corporate independence
-Choose corporate independence
+Tacha' ri alaj ruk'aslemalil ajk'aymolojil
 
 
 ;Firefox is the only major independent browser. Chrome, Edge and Brave are all built on Google code, which means giving Google even more control of the internet.
-Firefox is the only major independent browser. Chrome, Edge and Brave are all built on Google code, which means giving Google even more control of the internet.
+Xa xe ri Firefox jun nïm okik'amaya'l alaj ruk'aslemal. Chrome, Edge chuqa' Brave kojqan ri rub'itz'ib' Google, ri nuq'ajuj chin ronojel k'o pa ruq'a' ri Google chi rij ri k'amaya'l.
 
 
 # String is obsolete. Do not remove.
 ;Firefox is the only major independent browser. Chrome, Edge and Brave are all built with code from Google, the world’s largest ad network.
-Firefox is the only major independent browser. Chrome, Edge and Brave are all built with code from Google, the world’s largest ad network.
+Xa xe ri Firefox jun nïm okik'amaya'l alaj ruk'aslemal. Chrome, Edge chuqa' Brave kojqan ri rub'itz'ib' Google, ri nïm ruk'amab'ey eltzijol chijun ri ruwach'ulew.
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
