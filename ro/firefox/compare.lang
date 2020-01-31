@@ -1,3 +1,4 @@
+## active ##
 # HTML page title and main headline
 ;Six of the best browsers in direct comparison
 Șase dintre cele mai bune browsere în comparație directă
@@ -25,12 +26,12 @@ Un browser bun de internet trebuie să aibă funcționalitatea de care ai nevoie
 
 # Google Chrome is a brand name that shouldn't be translated.
 ;Since your browser is your gateway to the internet, speed, security, privacy and utility are paramount. In recent years, Google Chrome has been the browser of choice for many. But at a time when online ads seem to follow us everywhere and data breaches are a fixture of news headlines, a lot of people are starting to demand more privacy and respect from their browser.
-Since your browser is your gateway to the internet, speed, security, privacy and utility are paramount. In recent years, Google Chrome has been the browser of choice for many. But at a time when online ads seem to follow us everywhere and data breaches are a fixture of news headlines, a lot of people are starting to demand more privacy and respect from their browser.
+Pentru că browserul este poarta de acces la internet, viteza, securitatea, confidențialitatea și utilitatea sunt esențiale. În ultimii ani, Google Chrome a fost browserul preferat de mulți. Dar, în aceste vremuri în care reclamele online par că ne urmează peste tot și breșele de date fac titlurile știrilor, mulți oameni încep să ceară mai multă confidențialitate și respect de la browsere.
 
 
 # Google Chrome, Firefox, Safari, Opera and Microsoft Internet Explorer and Edge are all brand names that shouldn't be translated.
 ;So is your browser the best one for what you do online? The right browser can make a big difference in how you experience the web. So, without further ado, let’s compare Google Chrome, Firefox, Safari, Opera, Microsoft Internet Explorer and Edge — and see which best suits your needs.
-So is your browser the best one for what you do online? The right browser can make a big difference in how you experience the web. So, without further ado, let’s compare Google Chrome, Firefox, Safari, Opera, Microsoft Internet Explorer and Edge — and see which best suits your needs.
+Deci este browserul tău cel mai bun pentru ce faci online? Browserul potrivit poate face o mare diferență în experiența web. Deci, ca să nu o lungim prea mult, să comparăm Google Chrome, Firefox, Safari, Opera, Microsoft Internet Explorer și Edge și să vedem care se potrivește cel mai bine nevoilor tale.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
@@ -73,7 +74,7 @@ Blochează elementele de urmărire ale rețelelor sociale
 
 
 ;It’s not unreasonable to expect a high level of data protection and privacy from the products we regularly use to get online. At a minimum, a browser should offer some version of “private browsing mode” that automatically deletes your history and search history so other users on the same computer can’t access it. In this area, all six of the browsers compared here score points.
-It’s not unreasonable to expect a high level of data protection and privacy from the products we regularly use to get online. At a minimum, a browser should offer some version of “private browsing mode” that automatically deletes your history and search history so other users on the same computer can’t access it. In this area, all six of the browsers compared here score points.
+Nu este nerezonabil să ne așteptăm la un nivel ridicat de protecție a datelor și la confidențialitate de la produsele pe care le folosim în mod regulat pentru a intra online. Ca cerință minimă, un browser trebuie să ofere o versiune de „mod de navigare privată” care șterge automat istoricul și istoricul căutărilor, astfel încât alți utilizatori de pe același calculator să nu le poată accesa. Din această perspectivă, toate cele șase browsere comparate câștigă puncte.
 
 
 ;What you do online literally shouldn’t be anyone else’s business.
@@ -81,11 +82,11 @@ Ce faci online nu-i practic treaba nimănui.
 
 
 ;Another browser feature that should be a given is the ability to prevent websites and companies from tracking your browsing and shopping data — even in normal browsing mode. But that’s actually not the case: in fact, the only browsers that block third party tracking cookies by default are Firefox and Safari.
-Another browser feature that should be a given is the ability to prevent websites and companies from tracking your browsing and shopping data — even in normal browsing mode. But that’s actually not the case: in fact, the only browsers that block third party tracking cookies by default are Firefox and Safari.
+O altă funcționalitate care ar trebui să existe în browser este posibilitatea de a împiedica site-urile web și companiile să îți urmărească datele de navigare și de cumpărături - chiar și în modul de navigare normal. Dar nu se întâmplă chiar așa: de fapt, singurele browsere care blochează implicit cookie-urile de urmărire ale terților sunt Firefox și Safari.
 
 
 ;Using a browser that blocks third-party trackers isn’t just important for privacy — it usually means it runs much faster, too. Most trackers are just scripts that run in the background on a number of websites. You can’t see them, but you can feel them slowing down your browser. As of version 67 of Firefox, fingerprinting and cryptominers are also blocked. If you’re not familiar with cryptominers, here’s an example of how they can affect you: maybe you’ve experienced your computer suddenly running hotter or the battery depleting faster than normal. That’s often the byproduct of cryptominers creeping around on your device.
-Using a browser that blocks third-party trackers isn’t just important for privacy — it usually means it runs much faster, too. Most trackers are just scripts that run in the background on a number of websites. You can’t see them, but you can feel them slowing down your browser. As of version 67 of Firefox, fingerprinting and cryptominers are also blocked. If you’re not familiar with cryptominers, here’s an example of how they can affect you: maybe you’ve experienced your computer suddenly running hotter or the battery depleting faster than normal. That’s often the byproduct of cryptominers creeping around on your device.
+Folosirea unui browser care blochează elementele de urmărire de la terți nu este importantă numai pentru confidențialitate - înseamnă, de obicei, și că merge mai repede. Majoritatea elementelor de urmărire sunt doar scripturi care rulează în fundal pe mai multe site-uri web. Nu se văd, dar poți vedea cum încetinesc browserul. Începând cu versiunea 67 Firefox, sunt blocate și amprentarea digitală și criptominerii. Dacă nu ești familiarizat(ă) cu criptominerii, iată un exemplu despre cum te pot afecta: poate ai observat încălzirea bruscă a calculatorului sau consumarea mai repede decât normal a bateriei. Acestea sunt adesea efectele secundare ale criptominerilor care umblă prin dispozitiv.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
@@ -143,7 +144,7 @@ Unealtă pentru capturi de ecran în browser
 
 # Firefox, Edge, and Opera are all brand names that shouldn't be translated.
 ;In addition to privacy protection, which largely takes place in the background of the browser, another key ingredient to a well-made browser is the actual user interface and functionality. Almost all six browsers are equal when it comes to tab browsing, bookmark management, auto-completion, proofreading and extensions. Firefox, Edge and Opera also offer a quick screenshot function that proves to be quite handy and is definitely something you notice is missing when you switch over to a browser without it.
-In addition to privacy protection, which largely takes place in the background of the browser, another key ingredient to a well-made browser is the actual user interface and functionality. Almost all six browsers are equal when it comes to tab browsing, bookmark management, auto-completion, proofreading and extensions. Firefox, Edge and Opera also offer a quick screenshot function that proves to be quite handy and is definitely something you notice is missing when you switch over to a browser without it.
+Pe lângă protecția vieții private, care are loc în mare parte în fundalul browserului, un alt ingredient-cheie al unui browser bine făcut este interfața propriu-zisă pentru utilizator și funcționalitatea. Aproape toate cele șase browsere sunt pe poziții egale în ceea ce privește navigarea prin file, gestionarea marcajelor, completarea automată, corectarea ortografică și extensiile. Firefox, Edge și Opera oferă și o funcție de captură rapidă de ecran, care se dovedește a fi destul de utilă și cu siguranță ai observat că lipsește ceva când ai folosit un browser care nu are această funcționalitate.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
@@ -181,11 +182,11 @@ Parolă principală
 
 # Apple and Android are brand names that shouldn't be translated
 ;The first thing to point out about portability is that not all browsers run on all operating systems. While Firefox, Chrome and Opera work on all major systems and are easy to install, Internet Explorer, Edge and Safari only work on Microsoft and Apple’s own systems. The mobile version of Safari is pre-installed on Apple’s mobile devices, and most Android devices come with a pre-installed browser modified by the manufacturer for the device. Firefox, Chrome, Edge and Opera can easily be installed and even used side by side.
-The first thing to point out about portability is that not all browsers run on all operating systems. While Firefox, Chrome and Opera work on all major systems and are easy to install, Internet Explorer, Edge and Safari only work on Microsoft and Apple’s own systems. The mobile version of Safari is pre-installed on Apple’s mobile devices, and most Android devices come with a pre-installed browser modified by the manufacturer for the device. Firefox, Chrome, Edge and Opera can easily be installed and even used side by side.
+Primul aspect de subliniat despre portabilitate este că nu toate browserele rulează pe toate sistemele de operare. În timp ce Firefox, Chrome și Opera merg pe toate sistemele majore de operare și sunt ușor de instalat, Internet Explorer, Edge și Safari merg numai pe sistemele Microsoft și Apple. Versiunea Safari pentru dispozitive mobile este preinstalată pe dispozitivele mobile Apple și majoritatea dispozitivelor Android vin cu un browser preinstalat modificat de producător pentru adaptarea la dispozitiv. Firefox, Chrome, Edge și Opera pot fi ușor instalate și chiar utilizate concomitent.
 
 
 ;Almost all of the browsers compared here allow synchronization between desktop and mobile devices. You’ll need an account to do it, which you can use to log into the browser on all devices and synchronize things like passwords, browsing history, bookmarks and settings.
-Almost all of the browsers compared here allow synchronization between desktop and mobile devices. You’ll need an account to do it, which you can use to log into the browser on all devices and synchronize things like passwords, browsing history, bookmarks and settings.
+Aproape toate browserele comparate aici permit sincronizarea între calculatorul de birou și dispozitive mobile. Pentru aceasta, vei avea nevoie de un cont pe care îl poți utiliza pentru a te autentifica în browserul de pe toate dispozitivele și pentru a sincroniza parole, istoricul de navigare, marcaje și setări.
 
 
 ;Conclusion:
@@ -197,11 +198,11 @@ Concluzie:
 
 
 ;Based on the criteria we outlined — privacy, utility, and portability — there’s really only one browser that meets the mark, and that’s Firefox. The real area of difference isn’t in functionality, it’s privacy. Firefox is the most private browser that doesn’t lock you into an ecosystem. Use it on any operating system, on all your devices, and feel secure when you do.
-Based on the criteria we outlined — privacy, utility, and portability — there’s really only one browser that meets the mark, and that’s Firefox. The real area of difference isn’t in functionality, it’s privacy. Firefox is the most private browser that doesn’t lock you into an ecosystem. Use it on any operating system, on all your devices, and feel secure when you do.
+Pe baza criteriilor pe care le-am prezentat - confidențialitate, utilitate și portabilitate - există de fapt un singur browser care le îndeplinește și acela este Firefox. Aria reală a diferenței marcate nu este funcționalitatea, ci confidențialitatea. Firefox este cel mai privat browser care nu te închide într-un ecosistem. Folosește-l pe orice sistem de operare, pe toate dispozitivele simte-te în siguranță când o faci.
 
 
 ;Browsers have come a long way since Chrome was introduced and took over the market share. Most of the modern browsers have closed the gap on portability and functionality, and in some areas, like speed and privacy, have actually surpassed Chrome. Still, determining which browser is right for you will always depend on your individual needs and what you value most as you navigate online.
-Browsers have come a long way since Chrome was introduced and took over the market share. Most of the modern browsers have closed the gap on portability and functionality, and in some areas, like speed and privacy, have actually surpassed Chrome. Still, determining which browser is right for you will always depend on your individual needs and what you value most as you navigate online.
+Browserele au evoluat mult de când a apărut Chrome și a preluat cota de piață. Majoritatea browserelor moderne au acoperit decalajul în ceea ce privește portabilitatea și funcționalitatea, iar în unele zone, precum viteza și confidențialitatea, au depășit de fapt Chrome. Totuși, ca să afli ce browser ți se potrivește depinde întotdeauna de nevoile tale individuale și de ce anume prețuiești cel mai mult în navigarea online.
 
 
 ;The comparisons made here were done so across browser release versions as follows:
@@ -213,6 +214,6 @@ Firefox este susținut de organizația non-profit Mozilla.
 
 
 ;Firefox puts your privacy first — in everything we make and do. We believe you have the right to decide how and with whom you share your personal information. Firefox collects as little data as possible and never sells it. The little data we do collect is only used to make products and features better. No secrets. But a lot of transparency and real privacy.
-Firefox puts your privacy first — in everything we make and do. We believe you have the right to decide how and with whom you share your personal information. Firefox collects as little data as possible and never sells it. The little data we do collect is only used to make products and features better. No secrets. But a lot of transparency and real privacy.
+Firefox pune confidențialitatea pe primul loc - în tot ceea ce facem. Credem că ai dreptul de a decide cum și cu cine îți împărtășești informațiile personale. Firefox colectează cât mai puține date posibil și nu le vinde niciodată. Puținele date pe care le colectăm sunt utilizate doar pentru a îmbunătăți produsele și funcționalitățile. Fără secrete. Dar multă transparență și confidențialitate reală.
 
 
