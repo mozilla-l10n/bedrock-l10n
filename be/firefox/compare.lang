@@ -1,3 +1,4 @@
+## active ##
 # HTML page title and main headline
 ;Six of the best browsers in direct comparison
 Шэсць лепшых браўзераў у прамым параўнанні
@@ -81,11 +82,11 @@
 
 
 ;Another browser feature that should be a given is the ability to prevent websites and companies from tracking your browsing and shopping data — even in normal browsing mode. But that’s actually not the case: in fact, the only browsers that block third party tracking cookies by default are Firefox and Safari.
-Another browser feature that should be a given is the ability to prevent websites and companies from tracking your browsing and shopping data — even in normal browsing mode. But that’s actually not the case: in fact, the only browsers that block third party tracking cookies by default are Firefox and Safari.
+Яшчэ адна асаблівасць браўзера, якая мусіць гарантавацца — гэта магчымасць прадухіліць сачэнне за вашым агляданнем і пакупкамі з боку сайтаў і кампаній — нават у звычайным рэжыме аглядання. Але насамрэч гэта не так: фактычна, адзіныя браўзеры, якія блакуюць трэцебаковыя кукі сачэння без дадатковай наладкі — гэта Firefox і Safari.
 
 
 ;Using a browser that blocks third-party trackers isn’t just important for privacy — it usually means it runs much faster, too. Most trackers are just scripts that run in the background on a number of websites. You can’t see them, but you can feel them slowing down your browser. As of version 67 of Firefox, fingerprinting and cryptominers are also blocked. If you’re not familiar with cryptominers, here’s an example of how they can affect you: maybe you’ve experienced your computer suddenly running hotter or the battery depleting faster than normal. That’s often the byproduct of cryptominers creeping around on your device.
-Using a browser that blocks third-party trackers isn’t just important for privacy — it usually means it runs much faster, too. Most trackers are just scripts that run in the background on a number of websites. You can’t see them, but you can feel them slowing down your browser. As of version 67 of Firefox, fingerprinting and cryptominers are also blocked. If you’re not familiar with cryptominers, here’s an example of how they can affect you: maybe you’ve experienced your computer suddenly running hotter or the battery depleting faster than normal. That’s often the byproduct of cryptominers creeping around on your device.
+Выкарыстанне браўзера, які блакуе трэкеры трэцяга боку, не толькі важна для прыватнасці — звычайна гэта азначае, што ён і працуе значна хутчэй. Большасць трэкераў — гэта проста скрыпты, якія працуюць у фонавым рэжыме на шэрагу вэб-сайтаў. Вы не можаце бачыць іх, але вы можаце адчуць, як яны запавольваюць ваш браўзер. Пачынаючы з версіі 67, Firefox таксама блакуе лічбавыя адбіткі і крыптамайнеры. Калі вы не знаёмыя з крыптамайнерамі, вось прыклад таго, як яны могуць паўплываць на вас: магчыма, вы заўважалі, што ваш камп'ютар раптам награваецца, альбо акумулятар разраджаецца хутчэй, чым звычайна. Гэта часты пабочны прадукт крыптамайнераў, якія прабраліся на вашу прыладу.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
@@ -106,7 +107,7 @@ Using a browser that blocks third-party trackers isn’t just important for priv
 
 
 ;Tab browsing
-Tab browsing
+Падтрымка картак
 
 
 ;Bookmark manager
@@ -143,7 +144,7 @@ Tab browsing
 
 # Firefox, Edge, and Opera are all brand names that shouldn't be translated.
 ;In addition to privacy protection, which largely takes place in the background of the browser, another key ingredient to a well-made browser is the actual user interface and functionality. Almost all six browsers are equal when it comes to tab browsing, bookmark management, auto-completion, proofreading and extensions. Firefox, Edge and Opera also offer a quick screenshot function that proves to be quite handy and is definitely something you notice is missing when you switch over to a browser without it.
-In addition to privacy protection, which largely takes place in the background of the browser, another key ingredient to a well-made browser is the actual user interface and functionality. Almost all six browsers are equal when it comes to tab browsing, bookmark management, auto-completion, proofreading and extensions. Firefox, Edge and Opera also offer a quick screenshot function that proves to be quite handy and is definitely something you notice is missing when you switch over to a browser without it.
+Акрамя абароны прыватнасці, якая ў значнай ступені праходзіць на фоне браўзера, ключавымі кампанентамі добра зробленага браўзера з'яўляюцца актуальны карыстальніцкі інтэрфейс і функцыянальнасць. Амаль усе шэсць браўзераў роўныя, калі гаворка ідзе пра падтрымку картак, кіраванне закладкамі, аўтаматычнае дапаўненне, арфаграфію і пашырэнні. Firefox, Edge і Opera таксама прапануюць функцыю хуткага здымка экрана, якая аказваецца вельмі зручнай і безумоўна тым, недахоп чаго вы заўважыце пры пераходзе на браўзер без яе.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
@@ -152,7 +153,7 @@ In addition to privacy protection, which largely takes place in the background o
 
 
 ;How well does your browser work across your devices?
-How well does your browser work across your devices?
+Наколькі добра працуе ваш браўзер на вашых прыладах?
 
 
 ;Portability
@@ -160,32 +161,32 @@ How well does your browser work across your devices?
 
 
 ;OS availability
-OS availability
+Даступнасць для АС
 
 
 ;Mobile OS availability
-Mobile OS availability
+Даступнасць для мабільных АС
 
 
 ;Syncs with mobile
-Syncs with mobile
+Сінхранізацыя з мабільным
 
 
 ;Password management
-Password management
+Кіраванне паролямі
 
 
 ;Master Password
-Master Password
+Галоўны пароль
 
 
 # Apple and Android are brand names that shouldn't be translated
 ;The first thing to point out about portability is that not all browsers run on all operating systems. While Firefox, Chrome and Opera work on all major systems and are easy to install, Internet Explorer, Edge and Safari only work on Microsoft and Apple’s own systems. The mobile version of Safari is pre-installed on Apple’s mobile devices, and most Android devices come with a pre-installed browser modified by the manufacturer for the device. Firefox, Chrome, Edge and Opera can easily be installed and even used side by side.
-The first thing to point out about portability is that not all browsers run on all operating systems. While Firefox, Chrome and Opera work on all major systems and are easy to install, Internet Explorer, Edge and Safari only work on Microsoft and Apple’s own systems. The mobile version of Safari is pre-installed on Apple’s mobile devices, and most Android devices come with a pre-installed browser modified by the manufacturer for the device. Firefox, Chrome, Edge and Opera can easily be installed and even used side by side.
+Першае, што трэба адзначыць пра пераноснасць, — гэта тое, што не ўсе браўзеры працуюць на ўсіх аперацыйных сістэмах. У той час як Firefox, Chrome і Opera працуюць на ўсіх асноўных сістэмах і іх лёгка ўсталяваць, Internet Explorer, Edge і Safari працуюць толькі ў сістэмах Microsoft і Apple. Мабільная версія Safari загадзя ўсталявана на мабільных прыладах Apple, а большасць прылад Android пастаўляюцца з папярэдне ўсталяваным браўзерам, змененым вытворцам прылады. Firefox, Chrome, Edge і Opera могуць быць лёгка ўсталяваны і нават выкарыстаны поруч.
 
 
 ;Almost all of the browsers compared here allow synchronization between desktop and mobile devices. You’ll need an account to do it, which you can use to log into the browser on all devices and synchronize things like passwords, browsing history, bookmarks and settings.
-Almost all of the browsers compared here allow synchronization between desktop and mobile devices. You’ll need an account to do it, which you can use to log into the browser on all devices and synchronize things like passwords, browsing history, bookmarks and settings.
+Практычна ўсе браўзеры, параўнаныя тут, дазваляюць сінхранізацыю паміж камп'ютарам і мабільнай прыладай. Для гэтага вам спатрэбіцца ўліковы запіс, які вы можаце выкарыстоўваць для ўваходу ў браўзер на ўсіх прыладах і для сінхранізацыі такіх рэчаў, як паролі, гісторыя аглядання, закладкі і налады.
 
 
 ;Conclusion:
@@ -197,11 +198,11 @@ Almost all of the browsers compared here allow synchronization between desktop a
 
 
 ;Based on the criteria we outlined — privacy, utility, and portability — there’s really only one browser that meets the mark, and that’s Firefox. The real area of difference isn’t in functionality, it’s privacy. Firefox is the most private browser that doesn’t lock you into an ecosystem. Use it on any operating system, on all your devices, and feel secure when you do.
-Based on the criteria we outlined — privacy, utility, and portability — there’s really only one browser that meets the mark, and that’s Firefox. The real area of difference isn’t in functionality, it’s privacy. Firefox is the most private browser that doesn’t lock you into an ecosystem. Use it on any operating system, on all your devices, and feel secure when you do.
+Зыходзячы з крытэрыяў, якія мы акрэслілі — прыватнасць, зручнасць і пераноснасць — ёсць толькі адзін браўзер, які трымае марку, і гэта Firefox. Сапраўдная яго асаблівасць — не ў функцыянальнасці, а ў прыватнасці. Firefox — самы прыватны браўзер, які не замыкае вас у экасістэме. Выкарыстоўвайце яго ў любой аперацыйнай сістэме, на ўсіх сваіх прыладах і адчувайце сябе ў бяспецы пры гэтым.
 
 
 ;Browsers have come a long way since Chrome was introduced and took over the market share. Most of the modern browsers have closed the gap on portability and functionality, and in some areas, like speed and privacy, have actually surpassed Chrome. Still, determining which browser is right for you will always depend on your individual needs and what you value most as you navigate online.
-Browsers have come a long way since Chrome was introduced and took over the market share. Most of the modern browsers have closed the gap on portability and functionality, and in some areas, like speed and privacy, have actually surpassed Chrome. Still, determining which browser is right for you will always depend on your individual needs and what you value most as you navigate online.
+Браўзеры прайшлі доўгі шлях з моманту, калі Chrome быў прадстаўлены і ўзяў долю рынку. Большасць сучасных браўзераў закрылі разрыў у пераноснасці і функцыянальнасці, а ў некаторых галінах, напрыклад, па хуткасці і прыватнасці, фактычна пераўзышлі Chrome. Тым не менш, вызначэнне таго, які браўзер падыходзіць для вас, заўсёды будзе залежыць ад вашых індывідуальных патрэб і ад таго, што вы цэніце больш за ўсё пры навігацыі ў Інтэрнэце.
 
 
 ;The comparisons made here were done so across browser release versions as follows:
@@ -213,6 +214,6 @@ Firefox падтрымліваецца некамерцыйнай арганіз
 
 
 ;Firefox puts your privacy first — in everything we make and do. We believe you have the right to decide how and with whom you share your personal information. Firefox collects as little data as possible and never sells it. The little data we do collect is only used to make products and features better. No secrets. But a lot of transparency and real privacy.
-Firefox puts your privacy first — in everything we make and do. We believe you have the right to decide how and with whom you share your personal information. Firefox collects as little data as possible and never sells it. The little data we do collect is only used to make products and features better. No secrets. But a lot of transparency and real privacy.
+Firefox ставіць вашу прыватнасць на першае месца — ва ўсім, што мы робім. Мы лічым, што вы маеце права самастойна вырашаць, якім чынам і з кім вы будзеце дзяліцца вашай асабістай інфармацыяй. Firefox збірае як мага менш дадзеных і ніколі не прадае іх. Нешматлікія звесткі, якія мы збіраем, выкарыстоўваюцца толькі для паляпшэння прадуктаў і функцый. Ніякіх сакрэтаў. Але шмат празрыстасці і сапраўднай прыватнасці.
 
 
