@@ -1,91 +1,92 @@
+## active ##
 ## NOTE: Demo page at https://www-demo1.allizom.org/firefox/browsers/
 
 
 # HTML page title
 ;Get the browsers that put your privacy first — and always have
-Get the browsers that put your privacy first — and always have
+下载一直以来，都将您的隐私放在首位的浏览器
 
 
 # HTML page description
 ;Get the privacy you deserve. Enhanced Tracking Protection is automatic in every Firefox browser.
-Get the privacy you deserve. Enhanced Tracking Protection is automatic in every Firefox browser.
+得回您应有的隐私。所有 Firefox 浏览器均默认启用增强型跟踪保护功能。
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 ;Get the <strong>browsers</strong> that put your privacy first — and always have
-Get the <strong>browsers</strong> that put your privacy first — and always have
+下载一直以来，都将您的隐私放在首位的<strong>浏览器</strong>
 
 
 ;Desktop
-Desktop
+桌面版
 
 
 ;Seriously private browsing. Firefox automatically blocks 2000+ online trackers from collecting information about what you do online.
-Seriously private browsing. Firefox automatically blocks 2000+ online trackers from collecting information about what you do online.
+不含糊的隐私浏览。Firefox 可自动拦截 2000 多种收集您在线活动的跟踪器。
 
 
 ;Download for Desktop
-Download for Desktop
+下载桌面版
 
 
 ;Learn more
-Learn more
+详细了解
 
 
 ;Mobile
-Mobile
+移动版
 
 
 ;Take the same level of privacy — plus your passwords, search history, open tabs and more — with you wherever you go.
-Take the same level of privacy — plus your passwords, search history, open tabs and more — with you wherever you go.
+无论身在何处，隐私皆不妥协——包括您的密码、搜索记录、打开的标签页和其他数据。
 
 
 ;Download on the App Store
-Download on the App Store
+到 App Store 下载
 
 
 ;Download for Mobile
-Download for Mobile
+下载移动版
 
 
 ;Send me a link
-Send me a link
+发送链接给我
 
 
 ;Enterprise
-Enterprise
+企业版
 
 
 ;Get unmatched data protection with support cycles tailored to suit your company’s needs.
-Get unmatched data protection with support cycles tailored to suit your company’s needs.
+以适合您企业的版本发布节奏，获得无与伦比的数据保护。
 
 
 ;Enterprise packages
-Enterprise packages
+企业解决方案
 
 
 ;Reality
-Reality
+虚拟现实
 
 
 ;Go beyond two dimensions and enjoy the best immersive content from around the web.
-Go beyond two dimensions and enjoy the best immersive content from around the web.
+游目骋怀，享受网络中最佳的沉浸式内容。
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 ;Build sites and refine your code with Firefox <strong>DevTools</strong>
-Build sites and refine your code with Firefox <strong>DevTools</strong>
+使用 Firefox <strong>开发者工具</strong>构建网站并优化代码
 
 
 ;Learn more about DevTools
-Learn more about DevTools
+详细了解“开发者工具”
 
 
 ;Join Firefox and get the most out of every product — across every device.
-Join Firefox and get the most out of every product — across every device.
+加入 Firefox 的行列，跨越设备边界，体验各个产品的智能技术。
 
 
 ;Already have an account? <a %(fxa_attr)s>Sign In</a> or <a %(accounts_attr)s>learn more</a> about joining Firefox.
-Already have an account? <a %(fxa_attr)s>Sign In</a> or <a %(accounts_attr)s>learn more</a> about joining Firefox.
+已有账户？<a %(fxa_attr)s>在此登录</a>或<a %(accounts_attr)s>详细了解</a>关于加入 Firefox 的行列。
 
 

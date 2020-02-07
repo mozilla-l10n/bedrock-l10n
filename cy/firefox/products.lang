@@ -1,94 +1,95 @@
+## active ##
 ## NOTE: Demo page at https://www-demo1.allizom.org/firefox/products/
 
 
 # HTML page title
 ;Firefox is more than a browser
-Firefox is more than a browser
+Mae Firefox yn fwy na phorwr
 
 
 # HTML page description
 ;It’s a whole family of products designed to keep you safer and smarter online.
-It’s a whole family of products designed to keep you safer and smarter online.
+Mae'n deulu cyfan o gynnyrch sydd wedi'u cynllunio i'ch cadw'n fwy diogel a chlyfrach ar-lein.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 ;Firefox is <strong>more</strong> than a browser
-Firefox is <strong>more</strong> than a browser
+Mae Firefox yn <strong>fwy</strong> na phorwr
 
 
 ;See if your personal information has been compromised in a corporate data breach, and sign up for future alerts.
-See if your personal information has been compromised in a corporate data breach, and sign up for future alerts.
+Gwelwch a yw'ch manylion personol wedi'i gyfaddawdu mewn tor-data corfforaethol, a chofrestrwch i gael rhybuddion yn y dyfodol.
 
 
 ;Check for breaches
-Check for breaches
+Gwirio am dor-data
 
 
 ;Sign up for breach alerts
-Sign up for breach alerts
+Cofrestrwch am rybuddion tor-data
 
 
 ;Firefox browsers
-Firefox browsers
+Y Porwr Firefox
 
 
 ;Get the browsers that block 2000+ data trackers automatically. Enhanced Tracking Protection comes standard in every Firefox browser.
-Get the browsers that block 2000+ data trackers automatically. Enhanced Tracking Protection comes standard in every Firefox browser.
+Mynnwch y porwyr sy'n rhwystro tracwyr data 2000+ yn awtomatig. Mae Diogelu rhag Tracio Uwch ar gael ym mhob porwr Firefox.
 
 
 ;Download
-Download
+Llwytho i Lawr
 
 
 ;Desktop
-Desktop
+Bwrdd Gwaith
 
 
 ;See all browsers
-See all browsers
+Gweld pob porwr
 
 
 ;Keep your passwords safe, and access them across all your synced devices.
-Keep your passwords safe, and access them across all your synced devices.
+Cadwch eich cyfrineiriau'n ddiogel, a chael atyn nhw ar draws pob dyfais sydd wedi'u cydweddu.
 
 
 ;Download Lockwise
-Download Lockwise
+Llwytho Lockwise i Lawr
 
 
 ;Open in Firefox
-Open in Firefox
+Agor yn Firefox
 
 
 ;Learn more about Lockwise
-Learn more about Lockwise
+Dysgu rhagor am Lockwise
 
 
 ;Send your large files and sensitive documents safely, up to 2.5G.
-Send your large files and sensitive documents safely, up to 2.5G.
+Anfonwch eich ffeiliau mawr a'ch dogfennau sensitif yn ddiogel, hyd at 2.5G.
 
 
 ;Send a file
-Send a file
+Anfon ffeil
 
 
 ;Discover the best content on the web — and consume it wherever and whenever you want.
-Discover the best content on the web — and consume it wherever and whenever you want.
+Darganfyddwch y cynnwys gorau ar y we - a'i ddefnyddio ble bynnag a phryd bynnag y dymunwch.
 
 
 ;Get Pocket
-Get Pocket
+Defnyddio Pocket
 
 
 ;Learn more about Pocket
-Learn more about Pocket
+Dysgu rhagor am Pocket
 
 
 ;Join Firefox and get the most out of every product — across every device.
-Join Firefox and get the most out of every product — across every device.
+Ymunwch â Firefox a chael y gorau o bob cynnyrch - ar draws pob dyfais.
 
 
 ;Already have an account? <a %(fxa_attr)s>Sign In</a> or <a %(accounts_attr)s>learn more</a> about joining Firefox.
-Already have an account? <a %(fxa_attr)s>Sign In</a> or <a %(accounts_attr)s>learn more</a> about joining Firefox.
+Eisoes â chyfrif? <a %(fxa_attr)s>Mewngofnodwch</a> neu <a %(accounts_attr)s> dysgu rhagor</a> am ymuno â Firefox.
 
 
