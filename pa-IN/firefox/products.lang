@@ -1,94 +1,95 @@
+## active ##
 ## NOTE: Demo page at https://www-demo1.allizom.org/firefox/products/
 
 
 # HTML page title
 ;Firefox is more than a browser
-Firefox is more than a browser
+ਫਾਇਰਫਾਕਸ ਬਰਾਊਜ਼ਰ ਤੋਂ ਵੱਧ ਕੇ ਹੈ
 
 
 # HTML page description
 ;It’s a whole family of products designed to keep you safer and smarter online.
-It’s a whole family of products designed to keep you safer and smarter online.
+ਇਹ ਉਤਪਾਦਾਂ ਦਾ ਸਮੂਹ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਆਨਲਾਈਨ ਸੁਰੱਖਿਅਤ ਅਤੇ ਹੁਸ਼ਿਆਰ ਬਣਾਈ ਰੱਖਣ ਲਈ ਤਿਆਰ ਕੀਤਾ ਹੈ।
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 ;Firefox is <strong>more</strong> than a browser
-Firefox is <strong>more</strong> than a browser
+ਫਾਇਰਫਾਕਸ ਬਰਾਊਜ਼ਰ ਤੋਂ <strong>ਵੱਧ</strong> ਹੈ
 
 
 ;See if your personal information has been compromised in a corporate data breach, and sign up for future alerts.
-See if your personal information has been compromised in a corporate data breach, and sign up for future alerts.
+ਵੇਖੋ ਕਿ ਕੀ ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨੂੰ ਕਾਰਪੋਰੇਟ ਡਾਟਾ ਸੰਨ੍ਹ ਦੇ ਵਿੱਚ ਕੋਈ ਸਮਝੌਤਾ ਹੋਇਆ ਹੈ ਅਤੇ ਭਵਿੱਖ ਦੀਆਂ ਚੇਤਾਵਨੀਆਂ ਲਈ ਸਾਈਨ-ਅੱਪ ਕਰੋ।
 
 
 ;Check for breaches
-Check for breaches
+ਸੰਨ੍ਹ ਲੱਗਣ ਲਈ ਜਾਂਚ ਕਰੋ
 
 
 ;Sign up for breach alerts
-Sign up for breach alerts
+ਸੰਨ੍ਹ ਲੱਗਣ ਦੀਆਂ ਚੇਤਾਵਨੀਆਂ ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ
 
 
 ;Firefox browsers
-Firefox browsers
+ਫਾਇਰਫਾਕਸ ਬਰਾਊਜ਼ਰ
 
 
 ;Get the browsers that block 2000+ data trackers automatically. Enhanced Tracking Protection comes standard in every Firefox browser.
-Get the browsers that block 2000+ data trackers automatically. Enhanced Tracking Protection comes standard in every Firefox browser.
+2000+ ਡਾਟਾ ਟਰੈਕਰਾਂ ਉੱਤੇ ਆਪਣੇ-ਆਪ ਪਾਬੰਦੀਆਂ ਲਾਉਣ ਵਾਲੇ ਬਰਾਊਜ਼ਰ ਲਵੋ। ਵਾਧਾ ਕੀਤੀ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਹਰੇਕ ਫਾਇਰਫਾਕਸ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਸਟੈਂਡਰਡ ਮਿਲਦੀ ਹੈ।
 
 
 ;Download
-Download
+ਡਾਊਨਲੋਡ ਕਰੋ
 
 
 ;Desktop
-Desktop
+ਡੈਸਕਟਾਪ
 
 
 ;See all browsers
-See all browsers
+ਸਾਰੇ ਬਰਾਊਜ਼ਰ ਵੇਖੋ
 
 
 ;Keep your passwords safe, and access them across all your synced devices.
-Keep your passwords safe, and access them across all your synced devices.
+ਆਪਣੇ ਪਾਸਵਰਡ ਸੁਰੱਖਿਅਤ ਰੱਖੋ ਅਤੇ ਆਪਣੇ ਸਾਰੇ ਸਿੰਕ ਕੀਤੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਸਿੰਕ ਕਰੋ।
 
 
 ;Download Lockwise
-Download Lockwise
+Lockwise ਡਾਊਨਲੋਡ ਕਰੋ
 
 
 ;Open in Firefox
-Open in Firefox
+ਫਾਇਰਫਾਕਸ 'ਚ ਖੋਲ੍ਹੋ
 
 
 ;Learn more about Lockwise
-Learn more about Lockwise
+Lockwise ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 
 
 ;Send your large files and sensitive documents safely, up to 2.5G.
-Send your large files and sensitive documents safely, up to 2.5G.
+2.5G ਤੱਕ ਆਪਣੀਆਂ ਵੱਡੀਆਂ ਫਾਇਲਾਂ ਅਤੇ ਸੰਵੇਦਨਸ਼ੀਲ ਦਸਤਾਵੇਜ਼ਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਭੇਜੋ।
 
 
 ;Send a file
-Send a file
+ਫਾਇਲ ਭੇਜੋ
 
 
 ;Discover the best content on the web — and consume it wherever and whenever you want.
-Discover the best content on the web — and consume it wherever and whenever you want.
+ਵੈੱਬ ਤੋਂ ਸਭ ਤੋਂ ਵਧੀਆ ਸਮੱਗਰੀ ਖੋਜੋ — ਅਤੇ ਇਸ ਨੂੰ ਜਿੱਥੇ ਤੁਹਾਨੂੰ ਚਾਹੀਦਾ ਹੋਵੇ, ਜਦੋਂ ਤੁਹਾਨੂੰ ਚਾਹੀਦਾ ਹੋਵੇ, ਵਰਤ ਲਵੋ।
 
 
 ;Get Pocket
-Get Pocket
+Pocket ਲਵੋ
 
 
 ;Learn more about Pocket
-Learn more about Pocket
+Pocket ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ
 
 
 ;Join Firefox and get the most out of every product — across every device.
-Join Firefox and get the most out of every product — across every device.
+ਫਾਇਰਫਾਕਸ ਦਾ ਹਿੱਸਾ ਬਣੋ ਅਤੇ ਹਰੇਕ ਉਤਪਾਦ ਦਾ ਵੱਧ ਤੋਂ ਵੱਧ ਫਾਇਦਾ ਲਵੋ — ਹਰੇਕ ਡਿਵਾਈਸ ਲਈ।
 
 
 ;Already have an account? <a %(fxa_attr)s>Sign In</a> or <a %(accounts_attr)s>learn more</a> about joining Firefox.
-Already have an account? <a %(fxa_attr)s>Sign In</a> or <a %(accounts_attr)s>learn more</a> about joining Firefox.
+ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹੈ? <a %(fxa_attr)s>ਸਾਇਨ ਇਨ ਕਰੋ</a> ਜਾਂ ਫਾਇਰਫਾਕਸ ਦਾ ਹਿੱਸਾ ਬਣਨ ਲਈ <a %(accounts_attr)s>ੁਹੋਰ ਜਾਣੋ</a>।
 
 

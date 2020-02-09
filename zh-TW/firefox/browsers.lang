@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo page at https://www-demo1.allizom.org/firefox/browsers/
 
 
@@ -8,7 +9,7 @@
 
 # HTML page description
 ;Get the privacy you deserve. Enhanced Tracking Protection is automatic in every Firefox browser.
-Get the privacy you deserve. Enhanced Tracking Protection is automatic in every Firefox browser.
+加強型追蹤保護在每一套 Firefox 瀏覽器中都自動開啟，讓您獲得應有的尊重。
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -21,7 +22,7 @@ Get the privacy you deserve. Enhanced Tracking Protection is automatic in every 
 
 
 ;Seriously private browsing. Firefox automatically blocks 2000+ online trackers from collecting information about what you do online.
-Seriously private browsing. Firefox automatically blocks 2000+ online trackers from collecting information about what you do online.
+Firefox 會自動封鎖超過 2000 組線上追蹤器，不讓它們收集您的線上行為紀錄。隱私上網功能認真保護您。
 
 
 ;Download for Desktop
@@ -37,7 +38,7 @@ Seriously private browsing. Firefox automatically blocks 2000+ online trackers f
 
 
 ;Take the same level of privacy — plus your passwords, search history, open tabs and more — with you wherever you go.
-Take the same level of privacy — plus your passwords, search history, open tabs and more — with you wherever you go.
+無論身在何方，都有相同等級的隱私保護。密碼、搜尋紀錄、開啟分頁等資料也能隨身帶著走。
 
 
 ;Download on the App Store
@@ -57,7 +58,7 @@ Take the same level of privacy — plus your passwords, search history, open tab
 
 
 ;Get unmatched data protection with support cycles tailored to suit your company’s needs.
-Get unmatched data protection with support cycles tailored to suit your company’s needs.
+以您的企業需求量身打造產品支援週期，以獲得無以倫比的資料保護功能。
 
 
 ;Enterprise packages
@@ -69,7 +70,7 @@ Get unmatched data protection with support cycles tailored to suit your company�
 
 
 ;Go beyond two dimensions and enjoy the best immersive content from around the web.
-Go beyond two dimensions and enjoy the best immersive content from around the web.
+跳出平面，享受網路上最佳的沉浸式內容體驗。
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -82,7 +83,7 @@ Go beyond two dimensions and enjoy the best immersive content from around the we
 
 
 ;Join Firefox and get the most out of every product — across every device.
-Join Firefox and get the most out of every product — across every device.
+加入 Firefox，在任何裝置使用所有產品的完整功能。
 
 
 ;Already have an account? <a %(fxa_attr)s>Sign In</a> or <a %(accounts_attr)s>learn more</a> about joining Firefox.
