@@ -1,91 +1,92 @@
+## active ##
 ## NOTE: Demo page at https://www-demo1.allizom.org/firefox/browsers/
 
 
 # HTML page title
 ;Get the browsers that put your privacy first — and always have
-Get the browsers that put your privacy first — and always have
+Obtene le navigatores que antepone tu vita private – e sempre lo ha facite
 
 
 # HTML page description
 ;Get the privacy you deserve. Enhanced Tracking Protection is automatic in every Firefox browser.
-Get the privacy you deserve. Enhanced Tracking Protection is automatic in every Firefox browser.
+Obtene le vita private que tu merita. Le protection meliorate contra le traciamento es automatic in omne navigator Firefox.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 ;Get the <strong>browsers</strong> that put your privacy first — and always have
-Get the <strong>browsers</strong> that put your privacy first — and always have
+Obtene le <strong>navigatores</strong> que antepone tu vita private – e sempre lo ha facite
 
 
 ;Desktop
-Desktop
+Scriptorio
 
 
 ;Seriously private browsing. Firefox automatically blocks 2000+ online trackers from collecting information about what you do online.
-Seriously private browsing. Firefox automatically blocks 2000+ online trackers from collecting information about what you do online.
+Navigation ben private. Firefox bloca automaticamente plus de 2000 traciatores, impediente que illos collige informationes sur lo que tu face in linea.
 
 
 ;Download for Desktop
-Download for Desktop
+Discargar pro scriptorio
 
 
 ;Learn more
-Learn more
+Saper plus
 
 
 ;Mobile
-Mobile
+Mobile {ok}
 
 
 ;Take the same level of privacy — plus your passwords, search history, open tabs and more — with you wherever you go.
-Take the same level of privacy — plus your passwords, search history, open tabs and more — with you wherever you go.
+Porta le mesme protection de tu vita private – e tu contrasignos, chronologia de recerca, schedas aperte, e plus – con te, ubicunque tu va.
 
 
 ;Download on the App Store
-Download on the App Store
+Discargar sur App Store
 
 
 ;Download for Mobile
-Download for Mobile
+Discargar pro mobile
 
 
 ;Send me a link
-Send me a link
+Inviar me un ligamine
 
 
 ;Enterprise
-Enterprise
+Interprisa
 
 
 ;Get unmatched data protection with support cycles tailored to suit your company’s needs.
-Get unmatched data protection with support cycles tailored to suit your company’s needs.
+Obtene un protection de datos sin equal con cyclos de supporto adaptate al necessitates de tu interprisa.
 
 
 ;Enterprise packages
-Enterprise packages
+Pacchettos pro interprisas
 
 
 ;Reality
-Reality
+Realitate
 
 
 ;Go beyond two dimensions and enjoy the best immersive content from around the web.
-Go beyond two dimensions and enjoy the best immersive content from around the web.
+Va ultra duo dimensiones e gaude del contento immersive le melior de tote le web.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 ;Build sites and refine your code with Firefox <strong>DevTools</strong>
-Build sites and refine your code with Firefox <strong>DevTools</strong>
+Construe sitos e raffina tu codice con Firefox <strong>DevTools</strong>
 
 
 ;Learn more about DevTools
-Learn more about DevTools
+Saper plus sur DevTools
 
 
 ;Join Firefox and get the most out of every product — across every device.
-Join Firefox and get the most out of every product — across every device.
+Junge te a Firefox e tira le maximo de cata producto – sur cata apparato.
 
 
 ;Already have an account? <a %(fxa_attr)s>Sign In</a> or <a %(accounts_attr)s>learn more</a> about joining Firefox.
-Already have an account? <a %(fxa_attr)s>Sign In</a> or <a %(accounts_attr)s>learn more</a> about joining Firefox.
+Ha tu jam un conto? <a %(fxa_attr)s>Aperi session</a> o <a %(accounts_attr)s>lege plus</a> sur junger te a Firefox.
 
 
