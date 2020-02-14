@@ -3,7 +3,7 @@
 
 # HTML page title
 ;Mozilla’s Data Privacy FAQ
-Mozilla’s Data Privacy FAQ
+موزیلا کے ڈیٹا پرائیویسی سوالات
 
 
 # HTML page description
@@ -17,7 +17,7 @@ Mozilla میں ہم آپ کی ذاتی معلومات کا احترام اور �
 
 # "Under the hood" is an expression in automobile industry. Here it is a metaphor about something that exists but out of sight, behind the scenes.
 ;It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
-It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
+لوگوں کے لئے یہ جاننا مشکل ہوسکتا ہے کہ آج وہ کسی بھی سافٹ ویئر یا خدمات سے کس کی توقع کریں۔ وہ ٹیکنالوجی جو ہماری زندگیوں کو طاقت بخشتی ہے پیچیدہ ہے اور لوگوں کے پاس تفصیلات تلاش کرنے کا وقت نہیں ہوتا ہے۔ یہ اب بھی فائر فاکس کے لئے سچ ہے ، جہاں ہمیں معلوم ہوا ہے کہ لوگوں کے پاس اپنے براؤزر میں جو کچھ ہو رہا ہے اس کے بارے میں بہت سے مختلف خیالات ہیں۔
 
 
 ;At Mozilla, we respect and protect your personal information:
@@ -30,11 +30,11 @@ We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our
 
 
 ;We only collect the data we need to make the best products.
-We only collect the data we need to make the best products.
+ہم صرف وہی ڈیٹا اکٹھا کرتے ہیں جس کی ہمیں بہترین مصنوعات تیار کرنے کلیے ضرورت ہے۔
 
 
 ;We put people in control of their data and online experiences.
-We put people in control of their data and online experiences.
+ہم لوگوں کو ان کے ڈیٹا اور آن لائن تجربات قابو میں رکھنے دیتے ہیں۔
 
 
 ;We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
@@ -42,15 +42,15 @@ We adhere to “no surprises” principle, meaning we work hard to ensure people
 
 
 ;The following questions and answers should help you understand what to expect from Mozilla and Firefox:
-The following questions and answers should help you understand what to expect from Mozilla and Firefox:
+مندرجہ ذیل سوالات اور جوابات سے آپ کو یہ سمجھنے میں مدد مل سکتی ہے کہ موزیلا اور فائرفوکس سے کیا توقع کی جائے:
 
 
 ;I use Firefox for almost everything on the Web. You folks at Mozilla must know a ton of stuff about me, right?
-I use Firefox for almost everything on the Web. You folks at Mozilla must know a ton of stuff about me, right?
+میں ویب پر موجود ہر چیز کے لئے فائر فاکس استعمال کرتا ہوں۔ آپ موزیلا کے لوگ میرے بارے میں بہت چیزیں ضرور جانتے ہوں گے ، ٹھیک ہے؟
 
 
 ;Firefox, the web browser that runs on your device or computer, is your gateway to the internet. Your browser will manage a lot of information about the websites you visit, but that information stays on your device. Mozilla, the company that makes Firefox, doesn’t collect it (unless you ask us to).
-Firefox, the web browser that runs on your device or computer, is your gateway to the internet. Your browser will manage a lot of information about the websites you visit, but that information stays on your device. Mozilla, the company that makes Firefox, doesn’t collect it (unless you ask us to).
+فائر فاکس ، وہ ویب براؤزر جو آپ کے آلے یا کمپیوٹر پر چلتا ہے ،آپکے انٹرنیٹ کا گیٹ وے ہے۔ آپ کا براؤزر آپ کی ویب سائٹوں کے بارے میں بہت ساری معلومات کا انتظام کرے گا ، لیکن وہ معلومات آپ کے آلے میں رھیں گی۔ موزیلا ، وہ کمپنی جو فائر فاکس بناتی ہے ، اسے جمع نہیں کرتی ہے (جب تک کہ آپ ہم سے نہ کہیں)
 
 
 ;Really, you don’t collect my browsing history?
@@ -59,15 +59,15 @@ Firefox, the web browser that runs on your device or computer, is your gateway t
 
 # Links to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 ;Mozilla doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, such as <a href="%(link)s">Firefox Pioneer</a>, which allows interested users to give us insight into their web browsing. If you sync your browsing history across Firefox installations, we don’t know what that history is - because it’s encrypted by your device.
-Mozilla doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, such as <a href="%(link)s">Firefox Pioneer</a>, which allows interested users to give us insight into their web browsing. If you sync your browsing history across Firefox installations, we don’t know what that history is - because it’s encrypted by your device.
+موزیلا اتنا نہیں  جانتا جتنا آپ لوگ توقع کرتے ہیں کہ لوگ ویب کو کیسے براؤز کرتے ہیں۔ براؤزر بنانے والے کی حیثیت سے ، یہ در حقیقت ہمارے لئے ایک بہت بڑا چیلنج ہے۔ اسی لئے ہم نے  <a href="%(link)s">Firefox Pioneer</a> جیسے opt-in ٹولز بنائے ہیں ، جو دلچسپی رکھنے والے صارفین کو اپنی ویب براؤزنگ کے بارے میں ہمیں بصیرت فراہم کرنے کی اجازت دیتا ہے۔ اگر آپ فائر فاکس انسٹالیشن میں اپنی براؤزنگ ہسٹری کو مطابقت پذیر بناتے ہیں تو ، ہم نہیں جانتے کہ وہ تاریخ کیا ہے - کیونکہ یہ آپ کے آلہ کی طرف سے خفیہ کردہ ہے۔
 
 
 ;It seems like every company on the web is buying and selling my data. You’re probably no different.
-It seems like every company on the web is buying and selling my data. You’re probably no different.
+ایسا لگتا ہے کہ ویب پر موجود ہر کمپنی میرے ڈیٹا کو خرید اور بیچ رہی ہے۔ آپ شاید مختلف نہیں ہیں۔
 
 
 ;Mozilla doesn’t sell data about you, and we don’t buy data about you.
-Mozilla doesn’t sell data about you, and we don’t buy data about you.
+موزیلا آپ کے بارے میں ڈیٹا فروخت نہیں کرتی ہے ، اور ہم آپ کے بارے میں ڈیٹا نہیں خریدتے ہیں۔
 
 
 ;Wait, so how do you make money?
@@ -76,12 +76,12 @@ Mozilla doesn’t sell data about you, and we don’t buy data about you.
 
 # Links to https://www.mozilla.org/foundation/annualreport/
 ;Mozilla is not your average organization. Founded as a community open source project in 1998, Mozilla is a mission-driven organization working towards a more healthy internet. The majority of Mozilla Corporation’s revenue is from royalties earned through Firefox web browser search partnerships and distribution deals around the world. You can learn more about how we make money in our <a href="%(link)s">annual financial report</a>.
-Mozilla is not your average organization. Founded as a community open source project in 1998, Mozilla is a mission-driven organization working towards a more healthy internet. The majority of Mozilla Corporation’s revenue is from royalties earned through Firefox web browser search partnerships and distribution deals around the world. You can learn more about how we make money in our <a href="%(link)s">annual financial report</a>.
+موزیلا آپ کی اوسط تنظیم نہیں ہے۔ 1998 میں اسے کمیونٹی اوپن سورس پروجیکٹ کے طور پر قائم کیا گیا ، موزیلا ایک مشن پر مبنی ایک تنظیم ہے جو زیادہ صحت مند انٹرنیٹ کی طرف کام کررہی ہے۔ موزیلا کارپوریشن کا آمدنی کی اکثریت فائر فاکس ویب براؤزر تلاش کی شراکت داری اوردنیا بھر میں تقسیم کے سودوں کے ذریعے حاصل کی جانے والی رائلٹی سے ہے۔ آپ ہماری </a> سالانہ مالیاتی رپورٹ<a href="%(link)s"> میں رقم کیسے کماتے ہیں اس کے بارے میں آپ مزید جان سکتے ہیں۔
 
 
 # "Softballs" here means questions requiring only easy or simple answers.
 ;Okay, those first few were softballs. What data do you collect?
-Okay, those first few were softballs. What data do you collect?
+ٹھیک ہے ، وہ پہلے کچھ ناخوشگوار تھے۔ آپ کون سا ڈیٹا اکٹھا کرتے ہیں؟
 
 
 # First URL links to https://www.mozilla.org/privacy/firefox/
@@ -91,7 +91,7 @@ Mozilla does collect a limited set of data by default from Firefox that helps us
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
-We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
+ہم اپنی دستاویزات کو عوامی بناتے ہیں تاکہ کوئی بھی اس بات کی تصدیق کر سکے جو ہم کہتے ہیں سچ ہے ، ہمیں بتائیں کہ کیا ہمیں بہتر بنانے کی ضرورت ہے ، اور اعتماد ہے کہ ہم کسی چیز کو چھپا نہیں رہے ہیں۔
 
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
@@ -100,23 +100,23 @@ That documentation is gobbledygook to me! Can you give it to me in plain English
 
 
 ;There are two categories of data that we collect by default in our release version of Firefox.
-There are two categories of data that we collect by default in our release version of Firefox.
+فائر فاکس کے ہمارے اجراء ورژن میں ڈیٹا کی دو اقسام ہیں جو ہم بطور ڈیفالٹ جمع کرتے ہیں۔
 
 
 ;The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
-The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
+سب سے پہلے وہی ہے جسے ہم "تکنیکی ڈیٹا" کہتے ہیں۔ یہ خود براؤزر کے بارے میں ڈیٹا ہے ، جیسے آپریٹنگ سسٹم جس پر چل رہا ہے اور غلطیوں یا کریشوں کے بارے میں معلومات۔
 
 
 ;The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
-The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
+دوسرا وہ ہے جسے ہم "انٹرایکشن ڈیٹا" کہتے ہیں۔ یہ فائر فاکس کے ساتھ کسی فرد کی مصروفیت کے بارے میں اعداد و شمار ہے ، جیسے کھلے ہوئے ٹیبز کی تعداد ، صارف کی ترجیحات کی حیثیت ، یا براؤزر کی کچھ خصوصیات کا استعمال کرنے کی تعداد ، جیسے اسکرین شاٹس یا کنٹینرز۔ مثال کے طور پر ، ہم آپ کے براؤزر کے اوپری بائیں کونے میں موجود تیر کے بٹن کے معاملے میں یہ ڈیٹا اکٹھا کرتے ہیں جو آپ کو پچھلے ویب پیج پر اس انداز سے نیویگیٹ کرنے دیتا ہے جس سے ہمیں معلوم ہوتا ہے کہ کسی نے پیچھے کا بٹن استعمال کیا ہے ، لیکن یہ نہیں بتاتا کہ کن مخصوص ویب صفحات تک رسائی حاصل کی گی ہے۔
 
 
 ;Do you collect more data in pre-release versions of Firefox?
-Do you collect more data in pre-release versions of Firefox?
+کیا آپ فائر فاکس کے پہلے سے جاری ہونے والے ورژن میں مزید ڈیٹا اکٹھا کرتے ہیں؟
 
 
 ;Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
-Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
+ایک طرح سے. اوپر بیان کردہ اعداد و شمار کے علاوہ ، ہم فائر فاکس کے پہلے جاری ہونے والے ورژن میں ڈیفالٹ کی طرف سے حادثے اور غلطی کی رپورٹیں وصول کرتے ہیں۔
 
 
 # Links to https://support.mozilla.org/kb/shield
@@ -137,7 +137,7 @@ If we don’t know how the browser is performing or which features people use, w
 
 
 ;Data collection still bugs me. Can I turn it off?
-Data collection still bugs me. Can I turn it off?
+ڈیٹا اکٹھا کرنا اب بھی مجھے کھوکھلا کرتا ہے۔ کیا میں اسے بند کر سکتا ہوں؟
 
 
 # First URL links to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
@@ -151,7 +151,7 @@ Yes. User control is one of our data privacy principles. We put that into practi
 
 
 ;We are big believers of data minimization and not asking for things we don't need.
-We are big believers of data minimization and not asking for things we don't need.
+ہم ڈیٹا کو کم سے کم اکٹھا کرنے کے بڑے یقین رکھنےوالے ہیں اور ایسی چیزیں نہیں مانگتے جن کی ہمیں ضرورت نہیں ہے۔
 
 
 ;You don't need an account to use Firefox. <a href="%(accounts)s">Accounts</a> are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
@@ -160,23 +160,23 @@ You don't need an account to use Firefox. <a href="%(accounts)s">Accounts</a> ar
 
 # String is obsolete. Do not remove.
 ;You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
-You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
+فائر فاکس استعمال کرنے کے  کے لئے آپ کو کسی اکاؤنٹ کی ضرورت نہیں ہے۔ اکاؤنٹس ڈیٹا کو مطابقت پذیری کے لئےضروری ہے ، لیکن ہم آپ سے صرف ایک ای میل پتہ مانگتے ہیں۔ ہم آپ کے نام ، پتہ ، سالگرہ اور فون نمبر جیسی چیزوں کو نہیں جاننا چاہتے ہیں۔
 
 
 ;You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
-You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
+آپ ڈیجیٹل اشتہار بازی کو اپنے مارکیٹنگ مکس کے ایک حصے کے طور پر استعمال کرتے ہیں۔ کیا آپ اپنے آن لائن اشتہاروں کو بہتر طریقے سے نشانہ بنانے کیلئے لوگوں کا ڈیٹا خریدتے ہیں؟
 
 
 ;No, we do not buy people's data to target advertising.
-No, we do not buy people's data to target advertising.
+نہیں ، ہم اشتہار بازی کو نشانہ بنانے کیلئے لوگوں کا ڈیٹا نہیں خریدتے۔
 
 
 ;We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
-We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
+ہم اپنے اشتہاری شراکت داروں سے صرف وہی فریق پارٹی کا ڈیٹا استعمال کرنے کو کہتے ہیں جو ویب سائٹوں اور پبلشروں کو تمام صارفین کے بارے میں معلوم ہوتا ہے ، جیسے براؤزر جو آپ استعمال کررہے ہیں اور وہ آلہ جس پر آپ آن ہیں۔
 
 
 ;Well, it seems like you really have my back on this privacy stuff.
-Well, it seems like you really have my back on this privacy stuff.
+ٹھیک ہے ، ایسا لگتا ہے کہ آپ میں کی رازداری کی اس چیز پر واقعی آمادہ ہوں۔
 
 
 ;Yes, we do.

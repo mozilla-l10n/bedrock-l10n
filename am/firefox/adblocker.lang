@@ -12,27 +12,27 @@
 
 
 ;The ad blocker – a secret weapon against annoying ads.
-The ad blocker – a secret weapon against annoying ads.
+የማስታወቂያ ማገጃ - የሚያበሳጩ ማስታወቂያዎችን የሚከላከል ሚስጥራዊ መሣሪያ።
 
 
 ;So many ads, so little patience… It’s time to stop the madness.
-So many ads, so little patience… It’s time to stop the madness.
+ብዙ ማስታወቂያዎች ፣ ስለዚህ ትንሽ ትዕግስት… እብደትን ለማቆም ጊዜው አሁን ነው።
 
 
 ;The average person sees an average of 4,000 ads a day. If you think that’s too many, an ad blocker is your new best friend.
-The average person sees an average of 4,000 ads a day. If you think that’s too many, an ad blocker is your new best friend.
+አማካይ ሰው በቀን በአማካይ 4,000 ማስታወቂያዎችን ያያል ፡፡ በጣም ብዙ እንደሆኑ ካሰቡ የማስታወቂያ ማገጃ አዲሱ የቅርብ ጓደኛዎ ነው ፡፡
 
 
 ;An ad blocker is a piece of software that can be used to block ads, and they work in two ways. The first way is when an ad blocker blocks the signal from an advertiser’s server, so the ad never shows up on your page. Another way ad blockers work is by blocking out sections of a website that could be ads.
-An ad blocker is a piece of software that can be used to block ads, and they work in two ways. The first way is when an ad blocker blocks the signal from an advertiser’s server, so the ad never shows up on your page. Another way ad blockers work is by blocking out sections of a website that could be ads.
+የማስታወቂያ ማገጃ ማስታወቂያዎችን ለማገድ ሊያገለግል የሚችል የሶፍትዌሩ አካል ሲሆን በሁለት መንገዶች ይሰራሉ ፡፡ የመጀመሪያው መንገድ የማስታወቂያ ማገጃ ምልክቱን ከአስተዋዋቂው አገልጋይ ሲያግድ ስለሆነ ማስታወቂያው በጭራሽ በገጽዎ ላይ አይታይም ፡፡ የማስታወቂያ አጋጆች የሚሰሩበት ሌላኛው መንገድ ማስታወቂያ ሊሆን የሚችል የድር ጣቢያ ክፍሎችን በመዝጋት ነው ፡፡
 
 
 ;These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
-These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
+እነዚህ ማስታወቂያዎች ከፍተኛ የቪዲዮ ማስታወቂያዎች ፣ በድር ዙሪያ እርስዎን የሚከተሉ ማስታወቂያዎች ፣ ትራከሮች ፣ የሶስተኛ ወገን ኩኪዎች እና ሌሎችም ሊሆኑ ይችላሉ ፡፡ የማስታወቂያ ማገጃን ለመጠቀም በአሳሽዎ ውስጥ የሚገኙትን የማስታወቂያ ማገጃ ተጨማሪዎች መፈለግ ይችላሉ ፡፡ ለምሳሌ ‹a href="%(firefox)s"> ፋየርፎክስ </a> ፣ <a href="%(addons)s"> ይህ የጸደቁ የማስታወቂያ አጋጆች ተጨማሪዎች </a> አለው። በዚህ ዝርዝር ላይ ጠቅ ያድርጉ (ወይም ለአሳሽዎ የጸደቁ የማስታወቂያ አጋጆች) እና ከፍላጎቶችዎ ጋር የሚስማማውን ይመልከቱ ፡፡
 
 
 ;Find the right ad blocker for you
-Find the right ad blocker for you
+ለእርስዎ ትክክለኛውን የማስታወቂያ ማገጃ ያግኙ
 
 
 ;There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
@@ -40,16 +40,16 @@ There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single
 
 
 ;Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
-Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
+ብቅ ባይ ማስታወቂያዎች በጣም የከፋ ናቸው። በ <a href="%(url)s"> ብቅ ባይ ማገጃ </a> አግ Blockቸው እና እንደገናም ሌላ አሰቃቂ ብቅ-ባይን በጭራሽ አያነጋግሩ።
 
 
 ;One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
-One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
+ለ Chrome ፣ Safari እና Firefox በጣም ታዋቂ የማስታወቂያ አጋጆች አንዱ ‹a href="%(url)s"> AdBlock </a> ነው። በ Facebook ፣ YouTube እና Hulu ላይ ማስታወቂያዎችን ለማገድ ይጠቀሙበት።
 
 
 # A tracker-free zone means a no tracker zone.
 ;Create a tracker-free zone with Content Blocking
-Create a tracker-free zone with Content Blocking
+በይዘት ማገድ ጋር በመሆን ከመከታተያ-ነፃ ዞን ይፍጠሩ
 
 
 ;On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
@@ -131,6 +131,6 @@ If you want to learn more about ad blocking, there are hundreds of ad blocker ex
 
 
 ;Take control of your browser.
-Take control of your browser.
+የድረ-ገፅ ማሰሻዎን እርስዎ የሚቆጣጠሩት ያድርጉት።
 
 
