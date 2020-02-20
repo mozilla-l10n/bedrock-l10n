@@ -84,11 +84,11 @@ Nevjerojatno <a href="%(url)s">moćan pogon preglednika</a>? I te kako. Kraće u
 
 
 ;<a href="%(url)s">Less memory usage</a> means more space for your computer to keep running smoothly. Your other programs will thank you.
-<a href="%(url)s">Manja potrošnja memorije</a> znači više prostora za vaše računalo da nesmetano radi. Ostali programi će vam biti zahvalni.
+<a href="%(url)s">Manja potrošnja memorije</a> znači više prostora za tvoje računalo da nesmetano radi. Tvoji ostali programi će ti biti zahvalni.
 
 
 ;Smooth browsing
-Glatko pretraživanje
+Nesmetano pregledavanje
 
 
 ;Whether you’ve opened 10 or 1000, switching between tabs is faster than ever with Firefox’s new, responsive engine.
@@ -109,11 +109,11 @@ Prebacivanje na Firefox je brzo, jednostavno i bez rizika. Firefox uvozi Chromeo
 
 
 ;Moving browsers? We got you.
-Mijenjate preglednik? Tu smo za vas.
+Mijenjaš preglednika? Ništa lakše.
 
 
 ;Instantly import your online info and favorites from any other browser.
-Trenutno uvezite vaše podatke i zabilješke iz drugog preglednika.
+Trenutno uvezi svoje podatke i zabilješke iz jednog drugog preglednika.
 
 
 ;Bookmarks
@@ -133,15 +133,15 @@ Povijest
 
 
 ;Seriously Private Browsing
-Ozbiljno privatno pretraživanje
+Ozbiljno privatno pregledavanje
 
 
 ;The most powerful private browsing mode with added tracking protection.
-Najmoćniji način privatnog pretraživanja s dodatnom zaštitom od praćenja.
+Najmoćniji način privatnog pregledavanja s dodatnom zaštitom od praćenja.
 
 
 ;Firefox blocks online trackers while you browse and won’t remember your history after you’re done.
-Firefox blokira pratitelje dok pregledavate web i neće pamtiti vašu povijest pretraživanja kada ste gotovi.
+Firefox blokira pratitelje dok pregledavaš web i neće pamtiti tvoju povijest pregledavanje kad završiš.
 
 
 ;Tracking Protection
@@ -149,7 +149,7 @@ Zaštita od praćenja
 
 
 ;Some ads have hidden trackers that follow you online. Rude. We know. That’s why our powerful tool stops them cold.
-Neke reklame imaju skrivene pratitelje koji vas prate diljem Interneta. Znamo, to nije pristojno. Zato ih naši moćni alati sprječavaju u tome.
+Neke reklame imaju skrivene pratitelje koji te prate diljem interneta. Znamo, to nije pristojno. Zato ih naši moćni alati sprečavaju u tome.
 
 
 ;Faster Page Loading
@@ -157,7 +157,7 @@ Brže učitavanje stranica
 
 
 ;By blocking some ads and scripts that bog down browsing, <a href="%(url)s">pages load up to 44%% faster</a>. Now that’s a win-win.
-Blokiranjem nekih reklama i skripti koje usporavaju pretraživanje <a href="%(url)s">stranice se učitavaju do 44%% brže</a>. To se zove win-win situacija.
+Blokiranjem nekih reklama i skripti koje usporavaju pregledavanje <a href="%(url)s">stranice se učitavaju do 44%% brže</a>. To se zove win-win situacija.
 
 
 ;Firefox Quantum features
@@ -212,7 +212,7 @@ Alatna traka
 
 
 ;Set up Firefox your way. Drag and drop features in and out of your toolbar for easy access.
-Postavite Firefox na svoj način. Dovucite ili izbacite ikone na vašoj alatnoj traci za brzi pristup svemu.
+Postavi Firefox na svoj način. Povuci i ispusti funkcije na alatnoj traci za brzi pristup.
 
 
 ;Sync all your devices with a Firefox Account
