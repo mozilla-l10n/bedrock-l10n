@@ -1,4 +1,7 @@
 ## active ##
+## NOTE: https://www-dev.allizom.org/firefox/browsers/compare/
+
+
 # HTML page title and main headline
 ;Six of the best browsers in direct comparison
 六款最佳浏览器同台对比
@@ -91,7 +94,7 @@
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Utility:</strong>
-<strong>实用性：</strong>：
+<strong>实用性：</strong>
 
 
 ;What has your browser done for you lately?
