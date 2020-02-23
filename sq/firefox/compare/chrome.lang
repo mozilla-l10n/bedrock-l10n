@@ -1,103 +1,104 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
 
 
 # HTML page title
 ;Firefox vs. Chrome: Which is better?
-Firefox vs. Chrome: Which is better?
+Firefox vs. Chrome: Cili është më i mirë?
 
 
 # HTML description
 ;We compare Mozilla Firefox with Google Chrome in terms of privacy, utility and portability
-We compare Mozilla Firefox with Google Chrome in terms of privacy, utility and portability
+Le krahasojmë Mozilla Firefox-in me Google Chrome-in për sa i takon privatësisë, veçorive dhe të qenët i bartshëm
 
 
 # Page title
 ;Comparing Firefox Browser with Google Chrome
-Comparing Firefox Browser with Google Chrome
+Krahasim i Firefox Browser-it me Google Chrome-in
 
 
 ;In 2008, Google introduced Chrome, and its impact as an innovation in browser technology was immediate. It was faster for loading sites, took up minimal screen space and offered an undeniably simple user interface.
-In 2008, Google introduced Chrome, and its impact as an innovation in browser technology was immediate. It was faster for loading sites, took up minimal screen space and offered an undeniably simple user interface.
+Më 2008-n, Google solli për herë të parë Chrome-in, dhe ndikimi i tij si një risi në teknologjinë e shfletuesve qe i menjëhershëm. Qe më i shpejtë për ngarkim sajtesh, zinte vend minimal për hapësirë ekrani dhe ofroi në mënyrë të pamohueshme një ndërfaqe të thjeshtë përdoruesi.
 
 
 # "we've been heads down" means we've been hard at work. Alternative: "we've been hard at work." "Heads down" is when someone is looking down to avoid distractions and focus on the immediate task in front of them.
 ;Fast-forward to today, the competitive landscape for browsers has changed with many people beginning to question just what is happening to their online data such as browsing history, passwords, and other sensitive information. A lot has changed since 2008 when Chrome came onto the scene. At Firefox, we’ve been heads down, working to redesign our interface and provide users with an ever growing number of privacy and performance enhancements as well as plenty of handy browser tools.
-Fast-forward to today, the competitive landscape for browsers has changed with many people beginning to question just what is happening to their online data such as browsing history, passwords, and other sensitive information. A lot has changed since 2008 when Chrome came onto the scene. At Firefox, we’ve been heads down, working to redesign our interface and provide users with an ever growing number of privacy and performance enhancements as well as plenty of handy browser tools.
+Duke e kaluar me shpejtësi kasetën te ditët e sotme, peizazhi i konkurrencës për shfletuesit ka ndryshuar, me mjaft vetë që kanë filluar të shtrojnë pyetjen se ç’po ndodh me të dhënat e tyre internetore, bie fjala, historikun e shfletimeve, fjalëkalimet dhe të tjera të dhëna rezervat. Që nga 2008-a, kur Chrome-i erdhi në skenë për herë të parë, mjaft gjëra kanë ndryshuar. Në Firefox kemi qenë thellësisht të përqendruar mbi punën për riskicimin e ndërfaqes tonë dhe për t’u dhënë përdoruesve një numër gjithnjë në rritje thellimesh të privatësisë dhe të funksionimit, si edhe plot mjete të dobishme shfletuesi.
 
 
 ;And so here we are, the browser-wars are escalating once again and it’s time to reevaluate and compare Firefox Browser vs Google Chrome.
-And so here we are, the browser-wars are escalating once again and it’s time to reevaluate and compare Firefox Browser vs Google Chrome.
+Dhe ja ku jemi, luftërat mes shfletuesve po përshkallëzohen sërish dhe ka ardhur koha të ripeshohen dhe krahasohet Firefox Browser vs Google Chrome.
 
 
 ;At Firefox, we have a huge number of dedicated users who appreciate our steadfast dedication to online privacy. For example, the latest version of Firefox includes a feature called Enhanced Tracking Protection (ETP) which is turned on by default for all users worldwide. ETP blocks over 2,000 trackers, including social trackers from companies like Facebook, Twitter, and LinkedIn. It also has an integrated feature called <a %(attrs)s>Firefox Monitor</a> that automatically notifies you if your password has been breached or needs to be updated. In addition to these protections, Firefox's Private Browsing mode automatically deletes your browsing information such as history and cookies, leaving no trace after you finish your session.
-At Firefox, we have a huge number of dedicated users who appreciate our steadfast dedication to online privacy. For example, the latest version of Firefox includes a feature called Enhanced Tracking Protection (ETP) which is turned on by default for all users worldwide. ETP blocks over 2,000 trackers, including social trackers from companies like Facebook, Twitter, and LinkedIn. It also has an integrated feature called <a %(attrs)s>Firefox Monitor</a> that automatically notifies you if your password has been breached or needs to be updated. In addition to these protections, Firefox's Private Browsing mode automatically deletes your browsing information such as history and cookies, leaving no trace after you finish your session.
+Në Firefox kemi një numër shumë të madh përdoruesish të përkushtuar që e çmojnë përkushtimin tonë të palëkundur ndaj privatësisë në internet. Për shembull, versioni më i ri i Firefox-it përfshin një veçori të quajtur Mbrojtje e Thelluar Nga Gjurmimi (ETP) e cila, si parazgjedhje, është e aktivizuar për krejt përdoruesit në botë. ETP-ja bllokon mbi 2000 gjurmues, përfshi gjurmues shoqërorësh nga shoqëri të tilla si Facebook, Twitter dhe LinkedIn. Përmban gjithashtu një veçori të integruar, të quajtur <a %(attrs)s>Firefox Monitor</a>, e cila ju njofton automatikisht, nëse fjalëkalimi juaj është përfshirë në një shkelje të dhënash apo lyp përditësim. Përmbi këto mbrojtje, mënyra Shfletim Privat e Firefox-it fshin automatikisht të dhëna tuajat të shfletimit, të tilla si historik dhe <em>cookies</em>, duke mos lënë gjurmë, pasi të përfundoni sesionin tuaj të shfletimit.
 
 
 ;We’ve also recently restated our commitment to privacy and transparency regarding user data in our most recent <a %(attrs)s>Privacy Notice</a> that states, “At Mozilla, we believe that privacy is fundamental to a healthy internet.”
-We’ve also recently restated our commitment to privacy and transparency regarding user data in our most recent <a %(attrs)s>Privacy Notice</a> that states, “At Mozilla, we believe that privacy is fundamental to a healthy internet.”
+Tani së fundi e kemi rideklaruar përkushtimin tonë ndaj privatësisë dhe transparencës lidhur me të dhënat e përdoruesve, në versionin tonë më të freskët të <a %(attrs)s>Shënimit mbi Privatësinë</a> ku thuhet, “Në Mozilla besojmë se privatësia është themelore për një internet të shëndetshëm.”
 
 
 ;Google Chrome is by all accounts a secure browser, with features like Google Safe Browsing, which helps protect users by displaying an impossible-to-miss warning when they attempt to navigate to dangerous sites or download dangerous files.
-Google Chrome is by all accounts a secure browser, with features like Google Safe Browsing, which helps protect users by displaying an impossible-to-miss warning when they attempt to navigate to dangerous sites or download dangerous files.
+Sipas gjithë raportimeve, Google Chrome është një shfletues i sigurt, me veçori të tilla si Google Safe Browsing, që ndihmon të mbrohen përdoruesit duke shfaqur një sinjalizim që zor të mos e shohësh, kur ata provojnë të hapin sajte të rrezikshëm ose të shkarkojnë kartela të rrezikshme.
 
 
 ;In fact, both Chrome and Firefox have rigorous security in place. Both include a thing called “sandboxing” which separates the processes of the browser so something like a harmful website doesn’t infect other parts of your laptop or other device.
-In fact, both Chrome and Firefox have rigorous security in place. Both include a thing called “sandboxing” which separates the processes of the browser so something like a harmful website doesn’t infect other parts of your laptop or other device.
+Në fakt, si Chrome-i, ashtu edhe Firefox-i kanë brenda siguri rigoroze. Që të dy përfshijnë një gjë të quajtur “sandboxing” i cili i ndan proceset e shfletuesit, në mënyrë që diçka e tillë si një sajt i dëmshëm nuk infekton pjesë të tjera të kompjuterit tuaj apo tjetër pajisjeje.
 
 
 # "Beside the point" means that a subject might be worth noting, but isn't the main focus (the point) of the discussion. Alternative: "but that's not the real issue."
 ;While Chrome proves to be a safe web browser, its privacy record is questionable. Google actually collects a disturbingly large amount of data from its users including location, search history and site visits. Google makes its case for data collection saying it’s doing it to improve its services – like helping you find a sweater or a coffee shop like the one you previously bought or visited. However, others might disagree, making the point that Google is actually gathering an unprecedented amount of data for its own marketing purposes. They tout that they’re keeping your information private from hackers, but that’s beside the point. Google itself runs the world’s largest advertising network, thanks in large part to data they harvest from their users.
-While Chrome proves to be a safe web browser, its privacy record is questionable. Google actually collects a disturbingly large amount of data from its users including location, search history and site visits. Google makes its case for data collection saying it’s doing it to improve its services – like helping you find a sweater or a coffee shop like the one you previously bought or visited. However, others might disagree, making the point that Google is actually gathering an unprecedented amount of data for its own marketing purposes. They tout that they’re keeping your information private from hackers, but that’s beside the point. Google itself runs the world’s largest advertising network, thanks in large part to data they harvest from their users.
+Teksa Chrome del të jetë një shfletues i sigurt, historiku i tij lidhur me privatësinë është me pikëpyetje. Google faktikisht grumbullon një sasi të madhe, tronditëse, të dhënash nga përdoruesit e vet, përfshi vendndodhje, historik kërkimesh dhe vizita sajtesh. Google e justifikon grumbullimin e të dhënave duke thënë se e bën për të përmirësuar shërbimet e veta – fjala vjen, duke ju ndihmuar të gjeni një bluzë apo një kafene si ajo që patët blerë apo vizituar më parë. Megjithatë, të tjerë mund të mos jenë dakord, duke vënë në dukje se Google faktikisht është duke mbledhur një sasi të dhënash të paparë më herët, për marketingun e vet. Ata reklamojnë me forcë se po i mbajnë të dhënat tuaja private larg hacker-ave, por puna s’është aty. Vetë Google ka rrjetin më të madh të reklamave në botë, në një shkallë të lartë falë të dhënave që grumbullon prej përdoruesve të vet.
 
 
 # To "draw the line" is to establish a boundary that should not be crossed. Alternative: "it's up to you to decide whether or not or where your limit is with sharing things (...)".
 ;Ultimately, it’s up to you to decide whether or not or where to draw the line with sharing things like your search history and shopping history. But if you’re anything like most people, you’ve probably searched for some things on the internet that you would rather keep private.
-Ultimately, it’s up to you to decide whether or not or where to draw the line with sharing things like your search history and shopping history. But if you’re anything like most people, you’ve probably searched for some things on the internet that you would rather keep private.
+Tek e fundit, është në dorën tuaj të vendosni nëse duhet vënë apo jo, ose se kur, një cak për ndarjen me të tjerët të gjërave të tilla si historiku juaj i kërkimit apo i blerjeve. Por, nëse jeni si shumica e personave, gjasat janë të keni kërkuar në internet për gjëra që do të donit më mirë t’i mbanit private.
 
 
 ;In terms of features, both Firefox and Chrome offer a large library of extensions and plug-ins, with Chrome’s catalog vastly outnumbering any other browser while nicely integrating with other Google services, like Gmail and Google Docs.
-In terms of features, both Firefox and Chrome offer a large library of extensions and plug-ins, with Chrome’s catalog vastly outnumbering any other browser while nicely integrating with other Google services, like Gmail and Google Docs.
+Për sa u takon veçorive, si Firefox-i, ashtu edhe Chrome ofrojnë një librari të gjerë zgjerimesh dhe shtojcash, me katalogun e Chrome-it ’s që ia kalon mjaft cilitdo shfletues tjetër, teksa integrohet bukur me shërbime të tjera Google, bie fjala, Gmail dhe Google Docs.
 
 
 ;Although not as extensive as Chrome’s add-on library, Firefox, as open-source software with a huge number of active contributors, also features an incredible number of useful extensions.
-Although not as extensive as Chrome’s add-on library, Firefox, as open-source software with a huge number of active contributors, also features an incredible number of useful extensions.
+Firefox-i, si një <em>software</em> me burim të hapur me një numër shumë të madh kontribuesish aktivë, përmban gjithashtu një numër të pabesueshëm zgjerimesh të dobishme, edhe pse jo aq e gjerë sa libraria e shtesave për Chrome.
 
 
 ;Firefox also has a sync feature to see your open and recent tabs, browsing history, and bookmarks across all your devices.
-Firefox also has a sync feature to see your open and recent tabs, browsing history, and bookmarks across all your devices.
+Firefox-i ka gjithashtu një veçori njëkohësimi, që të shihni skedat tuaja të hapura dhe ato të hapura së fundi, dhe faqerojtësit, nëpër krejt pajisjet tuaja.
 
 
 # "gets the nod" here means Chrome is the winner. Alternative: "While Chrome wins the contest with add-ons and extensions". "Getting the nod" indicates making a selection, like someone nodding their head in approval.
 ;While Chrome gets the nod with add-ons and extensions, Firefox has a nicely curated set of built-in features, such as the incredibly handy screen capture tool, and reading mode feature which strips away everything from the page except the text from the article you’re reading.
-While Chrome gets the nod with add-ons and extensions, Firefox has a nicely curated set of built-in features, such as the incredibly handy screen capture tool, and reading mode feature which strips away everything from the page except the text from the article you’re reading.
+Teksa për shtesa dhe zgjerime pikët i merr Chrome-i, Firefox-i ka një set të ujdisur mirë veçorish të brendshme, bie fjala, një mjet shumë të dobishëm për fotografim ekrani, dhe veçorinë për mënyrë leximi, e cila heq gjithçka prej faqes, me përjashtim të tekstit të artikullit që po lexonit.
 
 
 ;If having tons of open tabs is your thing, then it really comes down to your UI preference. Firefox features a horizontal scroll on all your open tabs rather than shrinking them smaller and smaller with each new one. Google Chrome prefers to shrink them down so just the favicon is visible. The only problem with this is when you have multiple tabs open from the same website, so you see the same favicon across your tabs.
-If having tons of open tabs is your thing, then it really comes down to your UI preference. Firefox features a horizontal scroll on all your open tabs rather than shrinking them smaller and smaller with each new one. Google Chrome prefers to shrink them down so just the favicon is visible. The only problem with this is when you have multiple tabs open from the same website, so you see the same favicon across your tabs.
+Nëse pasja hapur e shumë skedave është sport i juaji, atëherë puna mbetet te parapëlqimi juaj për UI-në. Firefox-i lejon një rrëshqitje horizontale të krejt skedave tuaja të hapura, në vend të tkurrjes së tyre gjithnjë e më të vogla, pas hapjes së një të reje. Google Chrome parapëlqen t’i tkurrë, që të jetë e dukshme vetëm favikona. Problemi i vetëm me këtë rrugë është se kur keni shumë skeda të hapura nga i njëjti sajt, shihni të njëjtën favikonë nëpër skedat tuaja.
 
 
 ;As for customization, our fans will tell you one of the things they love most about our browser is its ability to allow you to move and arrange a majority of the UI elements to best suit your needs. Chrome allows you to hide certain UI elements but there’s not much allowance, if any, for moving things around based on your preferences. However, it should be noted that both Chrome and Firefox make it pretty easy to change your browser’s appearance and theme.
-As for customization, our fans will tell you one of the things they love most about our browser is its ability to allow you to move and arrange a majority of the UI elements to best suit your needs. Chrome allows you to hide certain UI elements but there’s not much allowance, if any, for moving things around based on your preferences. However, it should be noted that both Chrome and Firefox make it pretty easy to change your browser’s appearance and theme.
+Sa për përshtatjet, fansat tanë do t’ju thonë se një nga gjërat që duan më fort te shfletuesi ynë është aftësia e tij t’ju lejojë të lëvizni dhe sistemoni një shumicë të elementeve të UI-t, për ta përshtatur sa më mirë me nevojat tuaja. Chrome-i ju lejon të fshihni disa elementë UI, por nuk ka shumë liri, nëse mund të flitet për të tillë, për lëvizje të gjërave përreth bazuar në parapëlqimet tuaja. Sidoqoftë duhet vënë në dukje se si Chrome-i, ashtu edhe Firefox-i e bëjnë goxha të kollajtë të ndryshohet pamja dhe ana grafike e shfletuesit tuaj.
 
 
 ;Almost needless to say, versions of both Firefox and Chrome are available for the most popular desktop and mobile operating systems (Windows, macOS, Linux, Android, iOS).
-Almost needless to say, versions of both Firefox and Chrome are available for the most popular desktop and mobile operating systems (Windows, macOS, Linux, Android, iOS).
+Gati-gati s’ka nevojë të thuhet se si Firefox-in, ashtu edhe për Chrome-in ka versione të gatshme për shumicën e sistemeve operative për desktop dhe celular (Windows, macOS, Linux, Android, iOS).
 
 
 ;Both Chrome and Firefox also allow you to sync things like passwords, bookmarks, and open tabs across all your devices. If you have a Firefox account, you can manually send an open tab on your desktop to your mobile device or vice versa. With Chrome, it’s done automatically if you’ve chosen that setting in your preferences. Not having to manually send the tab from one device to the other is convenient when you want to do something like continue reading an article you didn’t finish earlier. But there could be times where automatic syncing might not be ideal if there’s a chance multiple users are browsing while signed in to your Google account.
-Both Chrome and Firefox also allow you to sync things like passwords, bookmarks, and open tabs across all your devices. If you have a Firefox account, you can manually send an open tab on your desktop to your mobile device or vice versa. With Chrome, it’s done automatically if you’ve chosen that setting in your preferences. Not having to manually send the tab from one device to the other is convenient when you want to do something like continue reading an article you didn’t finish earlier. But there could be times where automatic syncing might not be ideal if there’s a chance multiple users are browsing while signed in to your Google account.
+Si Chrome-i, ashtu edhe Firefox-i ju lejojnë të njëkohësoni nëpër krejt pajisjet tuaja gjëra të tilla si fjalëkalime, faqerojtës dhe skeda të hapura. Nëse keni një llogari Firefox, mund të dërgoni dorazi një skedë të hapur në desktopin tuaj te pajisja juaj celulare ose anasjelltas. Me Chrome-in kjo bëhet automatikisht, nëse keni zgjedhur rregullimin përkatës te parapëlqimet tuaja. Të mos ju duhet ta dërgoni dorazi një skedë nga një pajisje në një tjetër është e volitshme, kur doni të bëni gjëra të tilla si vazhdimi i leximit të një artikulli që s’e mbaruat më herët. Por mund të ketë raste kur njëkohësimi i vetvetishëm mund të mos jetë ideja e përkryer, nëse qëllon që shumë përdorues njëherësh po shfletojnë teksa kanë bërë hyrjen në llogarinë tuaj Google.
 
 
 # "Baked-in" means it's included, not added in later. Alternatives: "built-in" or "included"
 ;We think it’s fair to say Firefox and Chrome are really neck and neck in terms of portability and utility, with Chrome having a slight edge in utility because of its huge library of extensions and add-on features. But in terms of Privacy, Firefox wins the day with our commitment to preserving our users’ online data and providing free baked-in services like password managers that also alert you if there happens to be a data breach involving your credentials.
-We think it’s fair to say Firefox and Chrome are really neck and neck in terms of portability and utility, with Chrome having a slight edge in utility because of its huge library of extensions and add-on features. But in terms of Privacy, Firefox wins the day with our commitment to preserving our users’ online data and providing free baked-in services like password managers that also alert you if there happens to be a data breach involving your credentials.
+Mendojmë se është e drejtë të thuhet që Firefox-i dhe Chrome-i janë vërtet në një vijë, për sa i takon bartjes dhe veçorive, me Chrome-in pakëz më përpara te veçoritë, për shkak të librarisë të stërmadhe të zgjerimeve dhe shtesave. Por kur vjen puna te Privatësia, Firefox-i fiton përmes përkushtimit tonë për ruajtjen e të dhëna internetore të përdoruesve tanë dhe furnizimit të shërbimeve falas, të brendshëm në shfletues, të tillë si përgjegjës fjalëkalimesh, i cili gjithashtu ju vë në dijeni, nëse rastis të ketë një cenim të dhënash ku të jenë përfshirë edhe kredenciale tuajat.
 
 
 ;For practical purposes, there’s obviously really nothing preventing you from using both browsers—Firefox for those moments in life when privacy really matters, and Chrome if you’re still invested in the Google ecosystem. Yet with the growing number of incursions into our personal data, Firefox may prove to be the right choice in the long run for those of us who value protecting our personal privacy online.
-For practical purposes, there’s obviously really nothing preventing you from using both browsers—Firefox for those moments in life when privacy really matters, and Chrome if you’re still invested in the Google ecosystem. Yet with the growing number of incursions into our personal data, Firefox may prove to be the right choice in the long run for those of us who value protecting our personal privacy online.
+Për qëllime praktike, pa dyshim që s’ka asgjë që t’ju pengojë vërtet të përdorni këdo nga dy shfletuesit—Firefox-in për ato çaste të jetës kur privatësia ka vërtet vlerë, dhe Chrome-in, nëse ende jeni i përfshirë në ekosistemin e Google-it. Por prapë, me numrin në rritje të inkursioneve drejt të dhënave tona personale, Firefox-i mund ta provojë veten si zgjedhja e duhur, parë në perspektivë, për ata prej nesh që vlerësojnë mbrojtjen e privatësisë tonë personale në internet.
 
 
 ;The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Chrome (74)
-The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Chrome (74)
+Krahasimet e bëra këtu u kryen duke përdorur versione hedhjesh në qarkullim si vijon:<br> Firefox (70) | Chrome (74)
 
 

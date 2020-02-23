@@ -3,34 +3,34 @@
 
 # HTML page title
 ;Firefox vs. Safari: Which is the better browser for you?
-Firefox vs. Safari: Which is the better browser for you?
+Firefox 与 Safari：哪款浏览器更适合您？
 
 
 # HTML description
 ;Safari is the pre-installed browser on Mac and iPhone. Compare Safari to the Firefox Browser to find out which is the better browser for you.
-Safari is the pre-installed browser on Mac and iPhone. Compare Safari to the Firefox Browser to find out which is the better browser for you.
+Safari 是 Mac 和 iPhone 上的预装浏览器。比较 Safari 和 Firefox 浏览器，以确定哪款浏览器更适合您。
 
 
 # Page title
 ;Comparing Firefox Browser with Apple Safari
-Comparing Firefox Browser with Apple Safari
+Firefox 浏览器与 Safari 之间的比较
 
 
 ;If you use a Mac or have an iPhone, chances are you’re familiar with the Safari web browser. The fact that it’s pre-installed as the default browser for Apple product users definitely gives it an early advantage, but Firefox has its own set of useful features that make it an attractive alternative. Here we’ll explore the main differences between our browser and Safari in terms of privacy, utility, and portability between devices.
-If you use a Mac or have an iPhone, chances are you’re familiar with the Safari web browser. The fact that it’s pre-installed as the default browser for Apple product users definitely gives it an early advantage, but Firefox has its own set of useful features that make it an attractive alternative. Here we’ll explore the main differences between our browser and Safari in terms of privacy, utility, and portability between devices.
+如果您使用过 Mac 或 iPhone，应该会很熟悉 Safari 网络浏览器。事实上，它是预装在 Apple 产品上的默认浏览器，这无疑为它提供了先发优势，但 Firefox 有自己的一套实用功能，俨然是一位有力的替代者。在此，我们将探讨我们的浏览器与 Safari 在隐私、实用和跨平台方面的主要区别。
 
 
 ;Privacy has become a white hot topic for tech companies as they realize more and more people are feeling vulnerable to things like data breaches, ad trackers and hackers. But when it comes down to the real tools people use to navigate the actual interwebs, is it all talk or are they actually taking action to keep your data secure?
-Privacy has become a white hot topic for tech companies as they realize more and more people are feeling vulnerable to things like data breaches, ad trackers and hackers. But when it comes down to the real tools people use to navigate the actual interwebs, is it all talk or are they actually taking action to keep your data secure?
+隐私已经成为科技公司的热门话题，因为它们意识到越来越多的人感到易受数据泄露、广告跟踪器和黑客的攻击。但是，当涉及到人们用来浏览互联网的实际工具时，它们是敷衍了事，还是有切实措施来保证您的数据安全？
 
 
 ;As alluded to before, Apple is one of those companies that recently decided to step up their privacy game. Not long ago, Apple implemented cross-site tracking prevention in Safari, which prevents ads from following you around the internet. Safari also offers a strong password suggestion when you sign up for a new account on any website. And if you’re invested in the iCloud ecosystem, it syncs that password securely with your other devices, so you never actually have to remember it.
-As alluded to before, Apple is one of those companies that recently decided to step up their privacy game. Not long ago, Apple implemented cross-site tracking prevention in Safari, which prevents ads from following you around the internet. Safari also offers a strong password suggestion when you sign up for a new account on any website. And if you’re invested in the iCloud ecosystem, it syncs that password securely with your other devices, so you never actually have to remember it.
+如前所述，苹果（Apple）公司是最近决定加强隐私能力的公司之一。不久前，Apple 在 Safari 中实现了“阻止跨站跟踪”功能，从而阻止广告在互联网上跟踪您。当您在任何网站注册新账户时，Safari 也会提供高强度的密码建议。若您拥有完整的 iCloud 生态，便可以安全地在设备间同步密码，不必劳神、不再遗忘。
 
 
 # "Standing on the soap box" means trying to spread a persuasive message to the masses. Alternative: "We've been spreading the message about privacy for a long time." Soap used to come in wooden crates, and this idiom refers to activists or preachers who would stand on an empty soap box on a street corner to speak to a crowd.
 ;Like Safari, we at Firefox have made a point of focusing on privacy and security. But unlike Safari, we’ve been standing on the privacy soap box for a long time. In fact, Mozilla (our parent company) was one of the first voices in the tech community to sound the alarm for online privacy.
-Like Safari, we at Firefox have made a point of focusing on privacy and security. But unlike Safari, we’ve been standing on the privacy soap box for a long time. In fact, Mozilla (our parent company) was one of the first voices in the tech community to sound the alarm for online privacy.
+与 Safari 一样，我们 Firefox 的重点是关注隐私和安全。但与 Safari 不同的是，我们在“隐私工具箱”上躬耕已久。实际上，Mozilla（我们的母公司）是科技界最早为网络隐私敲响警钟的声音之一。
 
 
 ;Our Private Browsing mode blocks trackers and erases your passwords, cookies and history every time you close it. But you can also experience our advanced privacy features even in regular browsing mode. With the latest edition of Firefox, enhanced tracking prevention is turned on by default. This prevents things like cross-site trackers from following you as you jump around the web. Also, with Facebook being caught out almost daily for privacy problems, our <a %(attrs)s>Facebook Container</a> extension makes a lot of sense. It makes it harder for Facebook to track you around the web — similar to what Safari does to prevent cross-site tracking — but Firefox actually isolates your Facebook session into a separate container blocking Facebook from tracking what you do on other websites. Why do they need to know what you look up on WebMD anyway?
@@ -46,7 +46,7 @@ If you choose to use Safari, you’re in safe hands as long as you’re using an
 
 
 ;Apple is widely known for its closed ecosystem as it relates to creating software for its products. But inside the App Store, it does offer a section to developers to create plugins and add-ons to make the browser more robust. These extensions are also browsable through the App Store and easily added to Safari.
-Apple is widely known for its closed ecosystem as it relates to creating software for its products. But inside the App Store, it does offer a section to developers to create plugins and add-ons to make the browser more robust. These extensions are also browsable through the App Store and easily added to Safari.
+苹果以其封闭的生态系统而“著称”，因为它涉及到为其产品开发软件。但在 App Store 内部，它确实为开发者提供了开发插件和附加组件的选项，以使浏览器更强大。这些扩展也可以在 App Store 中浏览，并轻松添加到 Safari。
 
 
 ;In addition to the regular set of features you’d expect in a browser, such as tabbed browsing and private browsing, Safari has some unexpected features as well. For instance, if a user were to right-click a word anywhere on a page inside Safari, then click Look Up, they’d get a dictionary definition plus entries from the thesaurus, App Store, movies and more. Safari’s Parental Controls are easy to customize, allowing the adults to breathe a little easier when the kids begin to get curious about the internet.

@@ -3,17 +3,17 @@
 
 # HTML page title
 ;Firefox vs. Safari: Which is the better browser for you?
-Firefox vs. Safari: Which is the better browser for you?
+Firefox versus Safari: Qual é o melhor navegador para você?
 
 
 # HTML description
 ;Safari is the pre-installed browser on Mac and iPhone. Compare Safari to the Firefox Browser to find out which is the better browser for you.
-Safari is the pre-installed browser on Mac and iPhone. Compare Safari to the Firefox Browser to find out which is the better browser for you.
+O Safari é o navegador que já vem instalado no Mac e no iPhone. Compare o Safari com o Navegador Firefox para descobrir qual é o melhor navegador para você.
 
 
 # Page title
 ;Comparing Firefox Browser with Apple Safari
-Comparing Firefox Browser with Apple Safari
+Comparação entre o Navegador Firefox e o Apple Safari
 
 
 ;If you use a Mac or have an iPhone, chances are you’re familiar with the Safari web browser. The fact that it’s pre-installed as the default browser for Apple product users definitely gives it an early advantage, but Firefox has its own set of useful features that make it an attractive alternative. Here we’ll explore the main differences between our browser and Safari in terms of privacy, utility, and portability between devices.
@@ -74,7 +74,7 @@ Firefox also offers a similar sync feature when you sign up for a free <a %(attr
 
 
 ;The Firefox app for <a %(ios)s>iOS</a> and <a %(android)s>Android</a> is one of the fastest browsers available and also has solid security and anti-tracking features — a huge plus if you’re constantly bouncing between a laptop and mobile devices.
-The Firefox app for <a %(ios)s>iOS</a> and <a %(android)s>Android</a> is one of the fastest browsers available and also has solid security and anti-tracking features — a huge plus if you’re constantly bouncing between a laptop and mobile devices.
+O aplicativo Firefox para <a %(ios)s>iOS</a> e <a %(android)s>Android</a> é um dos navegadores mais rápidos disponíveis e também possui sólidos recursos de segurança e anti-rastreamento — uma enorme vantagem caso você alterne constantemente entre computadores e dispositivos móveis.
 
 
 ;Since Safari is Apple’s proprietary web browser, its iCloud syncing works exclusively with Apple products. This can be somewhat limiting if, for example, you’re both an Android user and an iPhone user or if you have a Windows based PC for work but use an iPhone as your personal device.
@@ -90,6 +90,6 @@ In the end, it just boils down to what you value in your browser. If you’re in
 
 
 ;The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Safari (12)
-The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Safari (12)
+As comparações apresentadas aqui foram feitas nas seguintes versões de navegador:<br> Firefox (70) | Safari (12)
 
 
