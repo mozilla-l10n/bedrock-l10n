@@ -40,7 +40,7 @@ There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single
 
 
 ;Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
-Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
+Oglasi u skočnim prozorima su najgori. Riješi ih se za sva vremena pomoću <a href="%(url)s">blokera skočnih prozora</a>.
 
 
 ;One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
@@ -49,7 +49,7 @@ Jedan od najpopularnijih blokera oglasa za Chrome, Safari i Firefox je <a href="
 
 # A tracker-free zone means a no tracker zone.
 ;Create a tracker-free zone with Content Blocking
-Create a tracker-free zone with Content Blocking
+Stvori područje u kojem te se ne prati blokiranjem sadržaja
 
 
 ;On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
@@ -77,7 +77,7 @@ Strogi način rada
 
 
 ;If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
-If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
+Ako ti previše oglasa uništava dan, onda je strogi način rada bolji. Ovaj način blokira poznate programe za praćenje i kolačiće u svim Firefox prozorima.
 
 
 ;Do-it-yourself Custom mode
