@@ -1,103 +1,104 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
 
 # HTML page title
 ;Firefox vs. Microsoft Edge: Which is the better browser for you?
-Firefox vs. Microsoft Edge: Which is the better browser for you?
+Firefox với Microsoft Edge: Trình duyệt nào tốt hơn cho bạn?
 
 
 # HTML description
 ;Compare Microsoft Edge to the Firefox Browser to find out which is the better browser for you.
-Compare Microsoft Edge to the Firefox Browser to find out which is the better browser for you.
+So sánh Microsoft Edge với trình duyệt Firefox để tìm ra trình duyệt nào tốt hơn cho bạn.
 
 
 # Page title
 ;Comparing Firefox Browser with Microsoft Edge
-Comparing Firefox Browser with Microsoft Edge
+So sánh trình duyệt Firefox với Microsoft Edge
 
 
 ;With Windows 10, Microsoft introduced its Edge browser to compete with Firefox and Chrome making it the default browser pre-installed on millions of PCs sold. Even so, users were slow to adopt it and Microsoft eventually announced plans to relaunch Edge as a Chromium-based browser (Chromium of course being Google’s Open Source browser project).
-With Windows 10, Microsoft introduced its Edge browser to compete with Firefox and Chrome making it the default browser pre-installed on millions of PCs sold. Even so, users were slow to adopt it and Microsoft eventually announced plans to relaunch Edge as a Chromium-based browser (Chromium of course being Google’s Open Source browser project).
+Với Windows 10, Microsoft đã giới thiệu trình duyệt Edge của mình để cạnh tranh với Firefox và Chrome khiến nó trở thành trình duyệt mặc định được cài đặt sẵn trên hàng triệu PC được bán ra. Mặc dù vậy, trình duyệt vẫn rất chậm và Microsoft cuối cùng đã công bố kế hoạch xây dựng lại Edge dưới dạng trình duyệt dựa trên Chromium (tất nhiên Chromium là dự án trình duyệt nguồn mở của Google).
 
 
 ;Here we’ll compare our Firefox Browser to the Chromium-based Microsoft Edge in terms of privacy, utility, and portability, to help you have a better understanding of which browser better suits your needs and preferences.
-Here we’ll compare our Firefox Browser to the Chromium-based Microsoft Edge in terms of privacy, utility, and portability, to help you have a better understanding of which browser better suits your needs and preferences.
+Ở đây, chúng tôi sẽ so sánh trình duyệt Firefox của chúng tôi với Microsoft Edge dựa trên Chromium về quyền riêng tư, tiện ích và tính di động, để giúp bạn hiểu rõ hơn về trình duyệt nào phù hợp hơn với nhu cầu và sở thích của bạn.
 
 
 ;Edge is integrated into the Windows 10 platform and runs in a sandbox environment, meaning it isolates programs and prevents malicious programs from spying on your computer. It has a built-in SmartScreen that scans the reputation of sites you visit and blocks suspicious sites. To enhance privacy, Edge allows you to use biometrics or a PIN with Windows Hello instead of passwords for online authentication.
-Edge is integrated into the Windows 10 platform and runs in a sandbox environment, meaning it isolates programs and prevents malicious programs from spying on your computer. It has a built-in SmartScreen that scans the reputation of sites you visit and blocks suspicious sites. To enhance privacy, Edge allows you to use biometrics or a PIN with Windows Hello instead of passwords for online authentication.
+Edge được tích hợp vào nền tảng Windows 10 và chạy trong môi trường hộp cát, nghĩa là nó cách ly các chương trình và ngăn các chương trình độc hại gián điệp trên máy tính của bạn. Nó có SmartScreen tích hợp để quét danh tính của các trang web bạn truy cập và chặn các trang web đáng ngờ. Để tăng cường quyền riêng tư, Edge cho phép bạn sử dụng sinh trắc học hoặc mã PIN với Windows Hello thay vì mật khẩu để xác thực trực tuyến.
 
 
 ;However, Edge saves some of your private data and sends it back to Microsoft with Windows updates. At 45 cryptically worded pages long, the privacy policy for Edge is unlikely to be read or understood by the average user.
-However, Edge saves some of your private data and sends it back to Microsoft with Windows updates. At 45 cryptically worded pages long, the privacy policy for Edge is unlikely to be read or understood by the average user.
+Tuy nhiên, Edge lưu một số dữ liệu riêng tư của bạn và gửi lại cho Microsoft bằng các bản cập nhật Windows. Với 45 trang được mã hóa dài, chính sách bảo mật cho Edge khó có thể được đọc hoặc hiểu bởi người dùng trung bình.
 
 
 ;At Firefox, our <a %(attrs)s>privacy policy</a> is transparent and in plain language. We actually put a lot of work into making sure it was straightforward and easy to read. We pride ourselves in protecting our users security and privacy. With Enhanced Tracking Protection now on by default, we block 2000+ trackers automatically. Trackers are those little pieces of code that try to piece together what you're doing across multiple internet sites to build a composite and detailed picture of who you are, compromising your privacy all just to target better ads.
-At Firefox, our <a %(attrs)s>privacy policy</a> is transparent and in plain language. We actually put a lot of work into making sure it was straightforward and easy to read. We pride ourselves in protecting our users security and privacy. With Enhanced Tracking Protection now on by default, we block 2000+ trackers automatically. Trackers are those little pieces of code that try to piece together what you're doing across multiple internet sites to build a composite and detailed picture of who you are, compromising your privacy all just to target better ads.
+Tại Firefox, <a %(attrs)s>chính sách riêng tư</a> của chúng tôi minh bạch và bằng ngôn ngữ đơn giản. Chúng tôi thực sự đặt rất nhiều công việc để đảm bảo rằng nó đơn giản và dễ đọc. Chúng tôi tự hào trong việc bảo vệ người dùng của chúng tôi bảo mật và quyền riêng tư. Với tính năng chống theo dõi nâng cao hiện được bật theo mặc định, chúng tôi tự động chặn hơn 2000 trình theo dõi. Trình theo dõi là những đoạn mã nhỏ cố gắng ghép lại những gì bạn đang làm trên nhiều trang web để xây dựng một bức tranh tổng hợp và chi tiết về con người bạn, thỏa hiệp tất cả quyền riêng tư của bạn chỉ để nhắm mục tiêu quảng cáo tốt hơn.
 
 
 ;Your <a %(attrs)s>Privacy Protections</a> shows you the trackers and cookies that pages have attempted to leave, and how many Firefox has blocked for you.
-Your <a %(attrs)s>Privacy Protections</a> shows you the trackers and cookies that pages have attempted to leave, and how many Firefox has blocked for you.
+<a %(attrs)s>Bảo vệ quyền riêng tư</a> của bạn hiển thị cho bạn các trình theo dõi và cookie mà các trang đã cố gắng để lại và có bao nhiêu thứ mà Firefox đã chặn cho bạn.
 
 
 ;In Firefox, Private Browsing mode automatically erases your browsing information like passwords, cookies, and history, leaving no trace after you close out the session. Edge on the other hand, actually records browsing history in their private mode (called “InPrivate”) and it’s a relatively easy task for someone to reconstruct your full browsing history, regardless of whether your browsing was done in regular or InPrivate mode.
-In Firefox, Private Browsing mode automatically erases your browsing information like passwords, cookies, and history, leaving no trace after you close out the session. Edge on the other hand, actually records browsing history in their private mode (called “InPrivate”) and it’s a relatively easy task for someone to reconstruct your full browsing history, regardless of whether your browsing was done in regular or InPrivate mode.
+Trong Firefox, chế độ duyệt web riêng tư sẽ tự động xóa thông tin duyệt web của bạn như mật khẩu, cookie và lịch sử, không để lại dấu vết nào sau khi bạn đóng phiên. Edge thì lại khác - sẽ ghi lại lịch sử duyệt web ở chế độ riêng tư của họ (được gọi là “InPrivate”) và đó là một nhiệm vụ tương đối dễ dàng để ai đó xây dựng lại lịch sử duyệt web đầy đủ của bạn, bất kể việc duyệt web của bạn được thực hiện ở chế độ thông thường hay InPrivate.
 
 
 ;Both browsers are relatively equal in terms of data encryption. However, if online privacy and transparency are important to you, then Firefox is clearly a better choice here.
-Both browsers are relatively equal in terms of data encryption. However, if online privacy and transparency are important to you, then Firefox is clearly a better choice here.
+Cả hai trình duyệt tương đối bình đẳng về mã hóa dữ liệu. Tuy nhiên, nếu quyền riêng tư và minh bạch trực tuyến là quan trọng đối với bạn, thì Firefox rõ ràng là một lựa chọn tốt hơn ở đây.
 
 
 ;Firefox is a fast and open source browser, which means users can customize their browsing experience in every way possible. Firefox also allows the casual user several different ways to customize the UI with applying different themes and toolbar configurations. Since our browser has always been open source we have a large following of devoted developers who have created an extensive library of add-ons and browser extensions.
-Firefox is a fast and open source browser, which means users can customize their browsing experience in every way possible. Firefox also allows the casual user several different ways to customize the UI with applying different themes and toolbar configurations. Since our browser has always been open source we have a large following of devoted developers who have created an extensive library of add-ons and browser extensions.
+Firefox là một trình duyệt nguồn mở và nhanh, có nghĩa là người dùng có thể tùy chỉnh trải nghiệm duyệt web của mình theo mọi cách có thể. Firefox cũng cho phép người dùng thông thường một số cách khác nhau để tùy chỉnh giao diện người dùng bằng cách áp dụng các chủ đề và cấu hình thanh công cụ khác nhau. Vì trình duyệt của chúng tôi luôn là nguồn mở, chúng tôi có một lượng lớn các nhà phát triển tận tụy, những người đã tạo ra một thư viện tiện ích mở rộng trình duyệt.
 
 
 ;Since Edge has moved to the processor intensive Chromium platform, you can expect it to run a little slower, especially if you have multiple programs running at once. However, with Chromium platform comes a massive library of extensions as well as a decent level of UI customization that Edge did not have before it’s move to Chromium.
-Since Edge has moved to the processor intensive Chromium platform, you can expect it to run a little slower, especially if you have multiple programs running at once. However, with Chromium platform comes a massive library of extensions as well as a decent level of UI customization that Edge did not have before it’s move to Chromium.
+Vì Edge đã chuyển sang nền tảng Chromium chuyên sâu của bộ xử lý, bạn có thể mong đợi nó chạy chậm hơn một chút, đặc biệt nếu bạn có nhiều chương trình chạy cùng một lúc. Tuy nhiên, với nền tảng Chromium có một thư viện tiện ích mở rộng khổng lồ cũng như mức độ tùy biến UI khá cao mà Edge không có trước khi nó di chuyển sang Chromium.
 
 
 ;Edge has some nice UI features, like their tab previews which can make it easy to find the right open tabs if you’ve got a lot of them open. Another helpful tab-related feature lets you set aside any active tabs that you aren’t using but don’t want to close down.
-Edge has some nice UI features, like their tab previews which can make it easy to find the right open tabs if you’ve got a lot of them open. Another helpful tab-related feature lets you set aside any active tabs that you aren’t using but don’t want to close down.
+Edge có một số tính năng UI đẹp mắt, như xem trước thẻ của họ có thể giúp bạn dễ dàng tìm thấy các thẻ đang mở nếu bạn đã mở rất nhiều trong số chúng. Một tính năng hữu ích khác liên quan đến thẻ cho phép bạn đặt bất kỳ thẻ hoạt động nào mà bạn không sử dụng nhưng không muốn đóng.
 
 
 ;Firefox features a scrolling tab interface, which keeps tab information viewable and scrolls them horizontally instead of shrinking them down to just favicon size. Also whenever you open a new tab, our <a %(attrs)s>Pocket feature</a> suggests relevant articles and content for you. Plus with Pocket, you can also save articles, videos, and other content with one click, for reading at a later time.
-Firefox features a scrolling tab interface, which keeps tab information viewable and scrolls them horizontally instead of shrinking them down to just favicon size. Also whenever you open a new tab, our <a %(attrs)s>Pocket feature</a> suggests relevant articles and content for you. Plus with Pocket, you can also save articles, videos, and other content with one click, for reading at a later time.
+Firefox có giao diện thẻ cuộn, giúp giữ thông tin thẻ có thể xem và cuộn chúng theo chiều ngang thay vì thu nhỏ chúng xuống chỉ bằng kích thước biểu tượng. Ngoài ra, bất cứ khi nào bạn mở một thẻ mới, <a %(attrs)s>Pocket</a> của chúng tôi sẽ đề xuất các bài viết và nội dung có liên quan cho bạn. Ngoài ra với Pocket, bạn cũng có thể lưu bài viết, video và nội dung khác chỉ bằng một cú nhấp chuột để đọc sau.
 
 
 ;Firefox and Edge both offer excellent reading modes. With Firefox you just tap on the small icon in the search bar and the browser strips down all unnecessary elements and presents you a clean looking article. In Edge you just tap on the small book icon and browser to get a clean easy-to-read UI.
-Firefox and Edge both offer excellent reading modes. With Firefox you just tap on the small icon in the search bar and the browser strips down all unnecessary elements and presents you a clean looking article. In Edge you just tap on the small book icon and browser to get a clean easy-to-read UI.
+Firefox và Edge đều cung cấp các chế độ đọc tuyệt vời. Với Firefox, bạn chỉ cần nhấn vào biểu tượng nhỏ trong thanh tìm kiếm và trình duyệt sẽ loại bỏ tất cả các yếu tố không cần thiết và trình bày cho bạn một bài viết rõ ràng. Trong Edge, bạn chỉ cần nhấn vào biểu tượng sách nhỏ và trình duyệt để có giao diện người dùng dễ đọc.
 
 
 ;Firefox also includes lots of handy built-in features by default like <a %(attrs)s>Enhanced Tracking Protection</a>, a built-in screenshot tool, large file sending and more.
-Firefox also includes lots of handy built-in features by default like <a %(attrs)s>Enhanced Tracking Protection</a>, a built-in screenshot tool, large file sending and more.
+Firefox cũng bao gồm rất nhiều tính năng tích hợp tiện dụng theo mặc định như <a %(attrs)s>trình chống theo dõi nâng cao</a>, một công cụ chụp màn hình tích hợp, gửi tập tin lớn và hơn thế nữa.
 
 
 # "Out of the gate" means from the very start. Alternative: "From the start,". Race horses are held behind a gate that is opened to release all the horses at the same time at the start of the race, so a horse that leads the race from the very start is said to lead "right out of the gate."
 ;Out of the gate, Firefox has more features and integrations built into the browser and readily available on download. And while both browsers have a tremendous number of add-ons and extensions available, Edge’s compatibility with Google’s Chromium platform gives it the advantage in terms of sheer numbers.
-Out of the gate, Firefox has more features and integrations built into the browser and readily available on download. And while both browsers have a tremendous number of add-ons and extensions available, Edge’s compatibility with Google’s Chromium platform gives it the advantage in terms of sheer numbers.
+Ngoài ra, Firefox có nhiều tính năng và tích hợp hơn được tích hợp trong trình duyệt và sẵn sàng khi tải xuống. Và mặc dù cả hai trình duyệt đều có sẵn số lượng tiện ích mở rộng rất lớn, khả năng tương thích của Edge với nền tảng Chromium của Google cung cấp cho nó lợi thế về số lượng tuyệt đối.
 
 
 ;With Internet Explorer, Microsoft learned from its lack of availability across platforms and made Edge available for macOS and Android. The software is now readily available on iOS, Android, Windows and Mac.
-With Internet Explorer, Microsoft learned from its lack of availability across platforms and made Edge available for macOS and Android. The software is now readily available on iOS, Android, Windows and Mac.
+Với Internet Explorer, Microsoft đã học được từ việc thiếu tính khả dụng trên các nền tảng và khiến Edge có sẵn cho macOS và Android. Phần mềm này hiện đã có sẵn trên iOS, Android, Windows và Mac.
 
 
 ;Firefox has been available on iOS, Android, Windows, macOS and Linux for years. And as you would expect with any modern browser, Firefox lets you log in with a <a %(attrs)s>free account</a> and sync data such as passwords, browsing history, bookmarks, and open tabs between your computer, tablet and phone. It also allows you to sync across platforms as well.
-Firefox has been available on iOS, Android, Windows, macOS and Linux for years. And as you would expect with any modern browser, Firefox lets you log in with a <a %(attrs)s>free account</a> and sync data such as passwords, browsing history, bookmarks, and open tabs between your computer, tablet and phone. It also allows you to sync across platforms as well.
+Firefox đã có sẵn trên iOS, Android, Windows, macOS và Linux trong nhiều năm. Và như bạn mong đợi với bất kỳ trình duyệt hiện đại nào, Firefox cho phép bạn đăng nhập bằng <a %(attrs)s>tài khoản miễn phí</a> và đồng bộ hóa dữ liệu như mật khẩu, lịch sử duyệt web, dấu trang và các thẻ đang mở giữa máy tính của bạn, máy tính bảng và điện thoại. Nó cũng cho phép bạn đồng bộ hóa trên các nền tảng tốt hơn.
 
 
 ;Edge also allows you to connect your associated Microsoft account and sign in to sync your favorites, history, passwords, and more between your computer and iOS or Android devices, although some Android tablets are not currently supported.
-Edge also allows you to connect your associated Microsoft account and sign in to sync your favorites, history, passwords, and more between your computer and iOS or Android devices, although some Android tablets are not currently supported.
+Edge cũng cho phép bạn kết nối tài khoản Microsoft được liên kết của mình và đăng nhập để đồng bộ hóa các mục yêu thích, lịch sử, mật khẩu và nhiều thứ khác giữa máy tính và thiết bị iOS hoặc Android, mặc dù một số máy tính bảng Android hiện không được hỗ trợ.
 
 
 ;Aside from sucking up a lot of computing power, Edge running on Chromium has answered a lot of users’ needs for functionality and features. But there’s still a lot to account for in terms of the browser’s privacy protections. It’s our assessment that Firefox is still a better choice for most people to use in their daily lives, based not only on functionality but more importantly on our transparency in how we collect user data, what exactly we collect, and what we do with it. Because our parent company is <a %(attrs)s>Mozilla</a>, a non-profit organization dedicated to internet privacy and freedom, we simply have a different set of priorities when it comes to users’ data.
-Aside from sucking up a lot of computing power, Edge running on Chromium has answered a lot of users’ needs for functionality and features. But there’s still a lot to account for in terms of the browser’s privacy protections. It’s our assessment that Firefox is still a better choice for most people to use in their daily lives, based not only on functionality but more importantly on our transparency in how we collect user data, what exactly we collect, and what we do with it. Because our parent company is <a %(attrs)s>Mozilla</a>, a non-profit organization dedicated to internet privacy and freedom, we simply have a different set of priorities when it comes to users’ data.
+Bên cạnh việc thu hút rất nhiều sức mạnh tính toán, Edge chạy trên Chromium đã đáp ứng rất nhiều nhu cầu của người dùng về các chức năng và tính năng. Tuy nhiên, vẫn còn rất nhiều vấn đề để bảo vệ quyền riêng tư của trình duyệt. Đánh giá của chúng tôi rằng Firefox vẫn là lựa chọn tốt hơn cho hầu hết mọi người sử dụng trong cuộc sống hàng ngày của họ, không chỉ dựa trên chức năng mà quan trọng hơn là sự minh bạch của chúng tôi trong cách chúng tôi thu thập dữ liệu người dùng, chính xác những gì chúng tôi thu thập và những gì chúng tôi làm với nó. Vì công ty mẹ của chúng tôi là <a %(attrs)s>Mozilla</a>, một tổ chức phi lợi nhuận dành riêng cho quyền riêng tư và tự do internet, chúng tôi chỉ đơn giản có một loạt các ưu tiên khác nhau khi nói đến dữ liệu của người dùng.
 
 
 ;The bottom line is that while we suggest using Firefox, the best browser for you ultimately will be the one that fits your individual needs with extension support, browsing tools customization, speed, privacy and security.
-The bottom line is that while we suggest using Firefox, the best browser for you ultimately will be the one that fits your individual needs with extension support, browsing tools customization, speed, privacy and security.
+Điểm mấu chốt là trong khi chúng tôi đề xuất sử dụng Firefox, trình duyệt tốt nhất cho bạn cuối cùng sẽ là trình duyệt phù hợp với nhu cầu cá nhân của bạn với hỗ trợ tiện ích mở rộng, tùy chỉnh công cụ duyệt web, tốc độ, quyền riêng tư và bảo mật.
 
 
 ;The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Edge (44)
-The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Edge (44)
+Các so sánh đã được thực hiện ở trên các phiên bản chính thức của trình duyệt sau:<br> Firefox (70) | Edge (44)
 
 

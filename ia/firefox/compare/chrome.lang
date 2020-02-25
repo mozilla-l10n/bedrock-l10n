@@ -1,103 +1,104 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
 
 
 # HTML page title
 ;Firefox vs. Chrome: Which is better?
-Firefox vs. Chrome: Which is better?
+Firefox contra Chrome: Qual es melior?
 
 
 # HTML description
 ;We compare Mozilla Firefox with Google Chrome in terms of privacy, utility and portability
-We compare Mozilla Firefox with Google Chrome in terms of privacy, utility and portability
+Nos compara Mozilla Firefox con Google Chrome in terminos de vita private, utilitate e portabilitate
 
 
 # Page title
 ;Comparing Firefox Browser with Google Chrome
-Comparing Firefox Browser with Google Chrome
+Comparation inter Firefox e Google Chrome
 
 
 ;In 2008, Google introduced Chrome, and its impact as an innovation in browser technology was immediate. It was faster for loading sites, took up minimal screen space and offered an undeniably simple user interface.
-In 2008, Google introduced Chrome, and its impact as an innovation in browser technology was immediate. It was faster for loading sites, took up minimal screen space and offered an undeniably simple user interface.
+In 2008, Google introduceva Chrome, apportante un innovation immediate al technologia de navigatores. Illo esseva plus rapide pro cargar sitos, occupava un spatio minimal sur le schermo e offereva un interfacie de usator irrefutabilemente simple.
 
 
 # "we've been heads down" means we've been hard at work. Alternative: "we've been hard at work." "Heads down" is when someone is looking down to avoid distractions and focus on the immediate task in front of them.
 ;Fast-forward to today, the competitive landscape for browsers has changed with many people beginning to question just what is happening to their online data such as browsing history, passwords, and other sensitive information. A lot has changed since 2008 when Chrome came onto the scene. At Firefox, we’ve been heads down, working to redesign our interface and provide users with an ever growing number of privacy and performance enhancements as well as plenty of handy browser tools.
-Fast-forward to today, the competitive landscape for browsers has changed with many people beginning to question just what is happening to their online data such as browsing history, passwords, and other sensitive information. A lot has changed since 2008 when Chrome came onto the scene. At Firefox, we’ve been heads down, working to redesign our interface and provide users with an ever growing number of privacy and performance enhancements as well as plenty of handy browser tools.
+Ma hodie, le ambiente competitive de navigatores ha cambiate a mesura que le gente comencia a questionar que eveni con lor datos in linea como le chronologia de navigation, contrasignos, e altere informationes sensibile. Multo ha cambiate depost 2008 quando Chrome entrava sur le scena. Nos a Firefox ha laborate durmente pro reconciper nostre interfacie e dar a nostre usatores un numero sempre crescente de avantiamentos in materia de vita private e de efficientia, assi como un multitude de utensiles practic pro le navigator.
 
 
 ;And so here we are, the browser-wars are escalating once again and it’s time to reevaluate and compare Firefox Browser vs Google Chrome.
-And so here we are, the browser-wars are escalating once again and it’s time to reevaluate and compare Firefox Browser vs Google Chrome.
+Ecce nos ora: le guerra inter navigatores se intensifica ancora un vice. Dunque, il es tempore de reconsiderar le situation e comparar Firefox con Chrome de novo.
 
 
 ;At Firefox, we have a huge number of dedicated users who appreciate our steadfast dedication to online privacy. For example, the latest version of Firefox includes a feature called Enhanced Tracking Protection (ETP) which is turned on by default for all users worldwide. ETP blocks over 2,000 trackers, including social trackers from companies like Facebook, Twitter, and LinkedIn. It also has an integrated feature called <a %(attrs)s>Firefox Monitor</a> that automatically notifies you if your password has been breached or needs to be updated. In addition to these protections, Firefox's Private Browsing mode automatically deletes your browsing information such as history and cookies, leaving no trace after you finish your session.
-At Firefox, we have a huge number of dedicated users who appreciate our steadfast dedication to online privacy. For example, the latest version of Firefox includes a feature called Enhanced Tracking Protection (ETP) which is turned on by default for all users worldwide. ETP blocks over 2,000 trackers, including social trackers from companies like Facebook, Twitter, and LinkedIn. It also has an integrated feature called <a %(attrs)s>Firefox Monitor</a> that automatically notifies you if your password has been breached or needs to be updated. In addition to these protections, Firefox's Private Browsing mode automatically deletes your browsing information such as history and cookies, leaving no trace after you finish your session.
+Firefox ha un enorme numero de usatores fidel que apprecia nostre dedication firme al vita private in linea. Per exemplo, le ultime version de Firefox ha un function que se appella "protection antitraciamento reinfortiate"; illo es pre-activate pro le usatores de tote le mundo. Iste protection antitraciamento reinfortiate bloca plus de 2000 traciatores, como p.ex. traciatores de "social media" de Facebook, Twitter e LinkedIn. Illo etiam ha un function integrate que se appella <a %(attrs)s>Firefox Monitor</a>; isto te notifica automaticamente si tu datos ha essite violate o si es necessari cambiar tu contrasigno. In addition a iste protectiones, Firefox ha un modo de navigation private que pote deler automaticamente tu informationes de navigation como chronologia e cookies, de sorta que tu non lassa tracia post finir le session.
 
 
 ;We’ve also recently restated our commitment to privacy and transparency regarding user data in our most recent <a %(attrs)s>Privacy Notice</a> that states, “At Mozilla, we believe that privacy is fundamental to a healthy internet.”
-We’ve also recently restated our commitment to privacy and transparency regarding user data in our most recent <a %(attrs)s>Privacy Notice</a> that states, “At Mozilla, we believe that privacy is fundamental to a healthy internet.”
+Nos etiam ha recentemente reaffirmate nostre dedication al vita private e al transparentia concernente le datos del usatores in nostre <a %(attrs)s>aviso de confidentialitate</a> recente, que affirma: "Nos a Mozilla crede que le vita private es fundamental pro le bon sanitate de internet".
 
 
 ;Google Chrome is by all accounts a secure browser, with features like Google Safe Browsing, which helps protect users by displaying an impossible-to-miss warning when they attempt to navigate to dangerous sites or download dangerous files.
-Google Chrome is by all accounts a secure browser, with features like Google Safe Browsing, which helps protect users by displaying an impossible-to-miss warning when they attempt to navigate to dangerous sites or download dangerous files.
+Secundo tote le reportos, Google Chrome es un navigator secur, con functiones like Google Safe Browsing que adjuta a proteger le usatores monstrante un aviso impossibile de perder quando tenta navigar a sitos periculose o discargar files periculose.
 
 
 ;In fact, both Chrome and Firefox have rigorous security in place. Both include a thing called “sandboxing” which separates the processes of the browser so something like a harmful website doesn’t infect other parts of your laptop or other device.
-In fact, both Chrome and Firefox have rigorous security in place. Both include a thing called “sandboxing” which separates the processes of the browser so something like a harmful website doesn’t infect other parts of your laptop or other device.
+De facto, tanto Chrome como Firefox ha practicas de securitate rigorose. Ambes include un cosa que se appella “sandboxing” que separa le processos del navigator de maniera que un sito nocive non pote infectar altere partes de tu computator o altere apparato.
 
 
 # "Beside the point" means that a subject might be worth noting, but isn't the main focus (the point) of the discussion. Alternative: "but that's not the real issue."
 ;While Chrome proves to be a safe web browser, its privacy record is questionable. Google actually collects a disturbingly large amount of data from its users including location, search history and site visits. Google makes its case for data collection saying it’s doing it to improve its services – like helping you find a sweater or a coffee shop like the one you previously bought or visited. However, others might disagree, making the point that Google is actually gathering an unprecedented amount of data for its own marketing purposes. They tout that they’re keeping your information private from hackers, but that’s beside the point. Google itself runs the world’s largest advertising network, thanks in large part to data they harvest from their users.
-While Chrome proves to be a safe web browser, its privacy record is questionable. Google actually collects a disturbingly large amount of data from its users including location, search history and site visits. Google makes its case for data collection saying it’s doing it to improve its services – like helping you find a sweater or a coffee shop like the one you previously bought or visited. However, others might disagree, making the point that Google is actually gathering an unprecedented amount of data for its own marketing purposes. They tout that they’re keeping your information private from hackers, but that’s beside the point. Google itself runs the world’s largest advertising network, thanks in large part to data they harvest from their users.
+Ben que Chrome se demonstra un navigator secur, su dossier concernente le vita private es questionabile. Google collige effectivemente un quantitate inquietante de datos de su usatores, p.ex. position geographic, chronologia de recercas e sitos visitate. Google defende iste collecta de datos dicente que es pro meliorar su servicios – como adjutar te a trovar un vestimento o un restaurante similar a un que tu ha previemente comprate o visitate. Ma alteres es in disaccordo, sublineante que Google de facto collige un quantitate de datos sin precedente pro su proprie scopos de commercio. Google promitte de mantener tu datos secur contra intrusiones, ma isto non es le puncto. Es Google mesme que opera le rete publicitari le plus grande del mundo, gratias in grande parte al datos recoltate de su usatores.
 
 
 # To "draw the line" is to establish a boundary that should not be crossed. Alternative: "it's up to you to decide whether or not or where your limit is with sharing things (...)".
 ;Ultimately, it’s up to you to decide whether or not or where to draw the line with sharing things like your search history and shopping history. But if you’re anything like most people, you’ve probably searched for some things on the internet that you would rather keep private.
-Ultimately, it’s up to you to decide whether or not or where to draw the line with sharing things like your search history and shopping history. But if you’re anything like most people, you’ve probably searched for some things on the internet that you would rather keep private.
+Al fin, il es a te de decider si tu vole o non vole condivider tu historia de recercas o de compras. Ma si tu es como le majoritate del gente, tu ha probabilemente cercate alcun cosas sur internet que tu prefere mantener private.
 
 
 ;In terms of features, both Firefox and Chrome offer a large library of extensions and plug-ins, with Chrome’s catalog vastly outnumbering any other browser while nicely integrating with other Google services, like Gmail and Google Docs.
-In terms of features, both Firefox and Chrome offer a large library of extensions and plug-ins, with Chrome’s catalog vastly outnumbering any other browser while nicely integrating with other Google services, like Gmail and Google Docs.
+In terminos de functionalitate, tanto Firefox como Chrome offere un grande bibliotheca de extensiones e plug-ins. Le catalogo de Chrome es multo plus grande que illo de qualcunque altere navigator, e se integra ben con altere servicios de Google, como Gmail e Google Docs.
 
 
 ;Although not as extensive as Chrome’s add-on library, Firefox, as open-source software with a huge number of active contributors, also features an incredible number of useful extensions.
-Although not as extensive as Chrome’s add-on library, Firefox, as open-source software with a huge number of active contributors, also features an incredible number of useful extensions.
+Ben que non es tanto grande como le bibliotheca de additivos de Chrome, Firefox, essente un programma a codice libere con un enorme numero de contributores active, etiam presenta un numero incredibile de extensiones utile.
 
 
 ;Firefox also has a sync feature to see your open and recent tabs, browsing history, and bookmarks across all your devices.
-Firefox also has a sync feature to see your open and recent tabs, browsing history, and bookmarks across all your devices.
+Firefox etiam ha un function de synchronisation que te permitte vider tu schedas aperte e recente, chronologia de navigation, e marcapaginas, sur tote tu apparatos.
 
 
 # "gets the nod" here means Chrome is the winner. Alternative: "While Chrome wins the contest with add-ons and extensions". "Getting the nod" indicates making a selection, like someone nodding their head in approval.
 ;While Chrome gets the nod with add-ons and extensions, Firefox has a nicely curated set of built-in features, such as the incredibly handy screen capture tool, and reading mode feature which strips away everything from the page except the text from the article you’re reading.
-While Chrome gets the nod with add-ons and extensions, Firefox has a nicely curated set of built-in features, such as the incredibly handy screen capture tool, and reading mode feature which strips away everything from the page except the text from the article you’re reading.
+Ben que Chrome recipe le luce verde pro su additivos e extensiones, Firefox ha un collection ben curate de functiones interne, como le instrumento de captura de schermo incredibilemente utile, e un modo de lectura que retira toto del pagina excepte le texto del articulo que tu vole leger.
 
 
 ;If having tons of open tabs is your thing, then it really comes down to your UI preference. Firefox features a horizontal scroll on all your open tabs rather than shrinking them smaller and smaller with each new one. Google Chrome prefers to shrink them down so just the favicon is visible. The only problem with this is when you have multiple tabs open from the same website, so you see the same favicon across your tabs.
-If having tons of open tabs is your thing, then it really comes down to your UI preference. Firefox features a horizontal scroll on all your open tabs rather than shrinking them smaller and smaller with each new one. Google Chrome prefers to shrink them down so just the favicon is visible. The only problem with this is when you have multiple tabs open from the same website, so you see the same favicon across your tabs.
+Si tu sole haber un massa de schedas aperte, alora toto depende de tu preferentia de interfacie. Firefox offere un rolamento horizontal de tote le schedas aperte, sin diminuer los de plus in plus a mesura que tu aperi nove schedas. Google Chrome prefere diminuer le schedas, lassante solmente le micre icone de sito. Le sol problema con isto es, si tu ha plure schedas aperte del mesme sito, tu vide le mesme icone sur iste schedas.
 
 
 ;As for customization, our fans will tell you one of the things they love most about our browser is its ability to allow you to move and arrange a majority of the UI elements to best suit your needs. Chrome allows you to hide certain UI elements but there’s not much allowance, if any, for moving things around based on your preferences. However, it should be noted that both Chrome and Firefox make it pretty easy to change your browser’s appearance and theme.
-As for customization, our fans will tell you one of the things they love most about our browser is its ability to allow you to move and arrange a majority of the UI elements to best suit your needs. Chrome allows you to hide certain UI elements but there’s not much allowance, if any, for moving things around based on your preferences. However, it should be noted that both Chrome and Firefox make it pretty easy to change your browser’s appearance and theme.
+Quanto al personalisation, nostre fans te dicera que un del cosas que illes ama le plus de nostre navigator es su capacitate de rearrangiar le elementos del interfacie secundo tu preferentia. Chrome te permitte celar certe elementos del interfacie, ma non displaciar le cosas a ubi tu los vole. Nonobstante, conveni notar que tanto Chrome como Firefox rende facile cambiar le apparentia e thema del navigator.
 
 
 ;Almost needless to say, versions of both Firefox and Chrome are available for the most popular desktop and mobile operating systems (Windows, macOS, Linux, Android, iOS).
-Almost needless to say, versions of both Firefox and Chrome are available for the most popular desktop and mobile operating systems (Windows, macOS, Linux, Android, iOS).
+Es quasi superflue dicer que existe versiones de tanto Firefox como Chrome pro le systemas de operation scriptorio e mobile le plus popular (Windows, macOS, Linux, Android, iOS).
 
 
 ;Both Chrome and Firefox also allow you to sync things like passwords, bookmarks, and open tabs across all your devices. If you have a Firefox account, you can manually send an open tab on your desktop to your mobile device or vice versa. With Chrome, it’s done automatically if you’ve chosen that setting in your preferences. Not having to manually send the tab from one device to the other is convenient when you want to do something like continue reading an article you didn’t finish earlier. But there could be times where automatic syncing might not be ideal if there’s a chance multiple users are browsing while signed in to your Google account.
-Both Chrome and Firefox also allow you to sync things like passwords, bookmarks, and open tabs across all your devices. If you have a Firefox account, you can manually send an open tab on your desktop to your mobile device or vice versa. With Chrome, it’s done automatically if you’ve chosen that setting in your preferences. Not having to manually send the tab from one device to the other is convenient when you want to do something like continue reading an article you didn’t finish earlier. But there could be times where automatic syncing might not be ideal if there’s a chance multiple users are browsing while signed in to your Google account.
+Tanto Chrome como Firefox permitte synchronisar cosas como contrasignos, marcapaginas e schedas aperte inter tote tu apparatos. Si tu ha un conto Firefox, tu pote manualmente inviar un scheda aperte sur tu computator a tu apparato mobile o vice versa. Con Chrome, isto se face automaticamente si tu ha activate iste option in tu preferentias. Es commode non deber inviar manualmente le scheda de un apparato al altere si tu vole continuar a leger un articulo que tu non ha ancora finite. Ma alcun vices, tal synchronisation automatic non es ideal, p.ex. il pote evenir que plure usatores usa un navigator con session aperte a tu conto Google.
 
 
 # "Baked-in" means it's included, not added in later. Alternatives: "built-in" or "included"
 ;We think it’s fair to say Firefox and Chrome are really neck and neck in terms of portability and utility, with Chrome having a slight edge in utility because of its huge library of extensions and add-on features. But in terms of Privacy, Firefox wins the day with our commitment to preserving our users’ online data and providing free baked-in services like password managers that also alert you if there happens to be a data breach involving your credentials.
-We think it’s fair to say Firefox and Chrome are really neck and neck in terms of portability and utility, with Chrome having a slight edge in utility because of its huge library of extensions and add-on features. But in terms of Privacy, Firefox wins the day with our commitment to preserving our users’ online data and providing free baked-in services like password managers that also alert you if there happens to be a data breach involving your credentials.
+Nos pensa que es juste dicer que Firefox e Chrome es quasi equal in terminos de portabilitate e utilitate. Chrome ha un legier avantage in utilitate a causa de su enorme bibliotheca de extensiones e additivos. Ma in terminos de vita private, Firefox gania, gratias a nostre dedication a proteger le datos in linea de nostre usatores, e a nostre servicios gratuite, como le gestor de contrasignos que etiam te alerta si eveni un violation de datos que implica tu credentiales.
 
 
 ;For practical purposes, there’s obviously really nothing preventing you from using both browsers—Firefox for those moments in life when privacy really matters, and Chrome if you’re still invested in the Google ecosystem. Yet with the growing number of incursions into our personal data, Firefox may prove to be the right choice in the long run for those of us who value protecting our personal privacy online.
-For practical purposes, there’s obviously really nothing preventing you from using both browsers—Firefox for those moments in life when privacy really matters, and Chrome if you’re still invested in the Google ecosystem. Yet with the growing number of incursions into our personal data, Firefox may prove to be the right choice in the long run for those of us who value protecting our personal privacy online.
+In le practica, nihil te impedi de usar ambe navigatores – Firefox quando le confidentialitate es importante, e Chrome si tu depende ancora del ecosystema de Google. Nonobstante, con le numero sempre crescente de intrusiones in nostre datos personal, Firefox es probabilemente le melior option a longe termino pro qui prefere proteger su vita personal in linea.
 
 
 ;The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Chrome (74)
-The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Chrome (74)
+Le comparationes presentate hic ha essite facite inter le sequente versiones del navigatores:<br> Firefox (70) | Chrome (74)
 
 

@@ -1,103 +1,104 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/browsers/compare/chrome/
 
 
 # HTML page title
 ;Firefox vs. Chrome: Which is better?
-Firefox vs. Chrome: Which is better?
+Firefox vs Chrome: Pa un sydd orau?
 
 
 # HTML description
 ;We compare Mozilla Firefox with Google Chrome in terms of privacy, utility and portability
-We compare Mozilla Firefox with Google Chrome in terms of privacy, utility and portability
+Rydym yn cymharu Mozilla Firefox â Google Chrome o ran preifatrwydd, gwasanaethau a hygludedd
 
 
 # Page title
 ;Comparing Firefox Browser with Google Chrome
-Comparing Firefox Browser with Google Chrome
+Cymharu Firefox Browser â Google Chrome
 
 
 ;In 2008, Google introduced Chrome, and its impact as an innovation in browser technology was immediate. It was faster for loading sites, took up minimal screen space and offered an undeniably simple user interface.
-In 2008, Google introduced Chrome, and its impact as an innovation in browser technology was immediate. It was faster for loading sites, took up minimal screen space and offered an undeniably simple user interface.
+Yn 2008, cyflwynodd Google y porwr Chrome, a chafod effaith ar arloesedd mewn technoleg porwyr yn syth. Roedd yn gynt yn llwytho gwefannau, roedd yn cymryd ychydig iawn o le ar y sgrin ac yn cynnig rhyngwyneb defnyddiwr syml.
 
 
 # "we've been heads down" means we've been hard at work. Alternative: "we've been hard at work." "Heads down" is when someone is looking down to avoid distractions and focus on the immediate task in front of them.
 ;Fast-forward to today, the competitive landscape for browsers has changed with many people beginning to question just what is happening to their online data such as browsing history, passwords, and other sensitive information. A lot has changed since 2008 when Chrome came onto the scene. At Firefox, we’ve been heads down, working to redesign our interface and provide users with an ever growing number of privacy and performance enhancements as well as plenty of handy browser tools.
-Fast-forward to today, the competitive landscape for browsers has changed with many people beginning to question just what is happening to their online data such as browsing history, passwords, and other sensitive information. A lot has changed since 2008 when Chrome came onto the scene. At Firefox, we’ve been heads down, working to redesign our interface and provide users with an ever growing number of privacy and performance enhancements as well as plenty of handy browser tools.
+Gan symud ymlaen i heddiw, mae'r dirwedd gystadleuol ar gyfer porwyr wedi newid gyda llawer o bobl yn dechrau cwestiynu beth sy'n digwydd i'w data ar-lein: hanes pori, cyfrineiriau, a manylion sensitif arall. Mae llawer wedi newid ers 2008 pan ddaeth Chrome i'r golwg. Yn Firefox, rydyn ni wedi bod yn gweithio'n galed i ail-ddylunio ein rhyngwyneb a darparu nifer cynyddol o welliannau preifatrwydd a pherfformiad i ddefnyddwyr ynghyd â digon o offer porwr defnyddiol.
 
 
 ;And so here we are, the browser-wars are escalating once again and it’s time to reevaluate and compare Firefox Browser vs Google Chrome.
-And so here we are, the browser-wars are escalating once again and it’s time to reevaluate and compare Firefox Browser vs Google Chrome.
+Ac felly dyma ni, mae'r rhyfeloedd porwyr yn cynyddu unwaith eto ac mae'n bryd ail-werthuso a chymharu Firefox Browser yn erbyn Google Chrome.
 
 
 ;At Firefox, we have a huge number of dedicated users who appreciate our steadfast dedication to online privacy. For example, the latest version of Firefox includes a feature called Enhanced Tracking Protection (ETP) which is turned on by default for all users worldwide. ETP blocks over 2,000 trackers, including social trackers from companies like Facebook, Twitter, and LinkedIn. It also has an integrated feature called <a %(attrs)s>Firefox Monitor</a> that automatically notifies you if your password has been breached or needs to be updated. In addition to these protections, Firefox's Private Browsing mode automatically deletes your browsing information such as history and cookies, leaving no trace after you finish your session.
-At Firefox, we have a huge number of dedicated users who appreciate our steadfast dedication to online privacy. For example, the latest version of Firefox includes a feature called Enhanced Tracking Protection (ETP) which is turned on by default for all users worldwide. ETP blocks over 2,000 trackers, including social trackers from companies like Facebook, Twitter, and LinkedIn. It also has an integrated feature called <a %(attrs)s>Firefox Monitor</a> that automatically notifies you if your password has been breached or needs to be updated. In addition to these protections, Firefox's Private Browsing mode automatically deletes your browsing information such as history and cookies, leaving no trace after you finish your session.
+Yn Firefox, mae gennym nifer sylweddol iawn o ddefnyddwyr ymroddedig sy'n gwerthfawrogi ein hymroddiad cadarn i breifatrwydd ar-lein. Er enghraifft, mae'r fersiwn ddiweddaraf o Firefox yn cynnwys nodwedd o'r enw Diogelu Tracio Uwch (ETP) sy'n cael ei droi ymlaen fel rhagymosodiad ar gyfer pob defnyddiwr ledled y byd. Mae ETP yn rhwystro dros 2,000 o dracwyr, gan gynnwys tracwyr cymdeithasol gan gwmnïau fel Facebook, Twitter, a LinkedIn. Mae ganddo hefyd nodwedd integredig o'r enw <a %(attrs)s>Firefox Monitor</a> sy'n eich hysbysu'n awtomatig a yw'ch cyfrinair wedi'i dorri neu a oes angen ei ddiweddaru. Yn ychwanegol at yr diogelch yma, mae modd Pori Preifat Firefox yn dileu eich manylion pori, fel hanes a chwcis yn awtomatig, heb adael unrhyw ôl ar ôl i chi orffen eich sesiwn.
 
 
 ;We’ve also recently restated our commitment to privacy and transparency regarding user data in our most recent <a %(attrs)s>Privacy Notice</a> that states, “At Mozilla, we believe that privacy is fundamental to a healthy internet.”
-We’ve also recently restated our commitment to privacy and transparency regarding user data in our most recent <a %(attrs)s>Privacy Notice</a> that states, “At Mozilla, we believe that privacy is fundamental to a healthy internet.”
+Yn ddiweddar, rydym hefyd wedi ailddatgan ein hymrwymiad i breifatrwydd a thryloywder ynghylch data defnyddwyr yn ein <a %(attrs)s>Hysbysiad Preifatrwydd</a> diweddaraf sy'n nodi, “Yn Mozilla, rydym yn credu fod preifatrwydd yn sylfaenol i rhyngrwyd iach.”
 
 
 ;Google Chrome is by all accounts a secure browser, with features like Google Safe Browsing, which helps protect users by displaying an impossible-to-miss warning when they attempt to navigate to dangerous sites or download dangerous files.
-Google Chrome is by all accounts a secure browser, with features like Google Safe Browsing, which helps protect users by displaying an impossible-to-miss warning when they attempt to navigate to dangerous sites or download dangerous files.
+Porwr diogel yw Google Chrome yn ôl y sôn, gyda nodweddion fel Google Safe Browsing, sy'n helpu i ddiogelu defnyddwyr trwy ddangos rhybudd amhosibl ei anwybyddu pan fyddan nhw'n ceisio mynd i wefannau peryglus neu lwytho ffeiliau peryglus i lawr.
 
 
 ;In fact, both Chrome and Firefox have rigorous security in place. Both include a thing called “sandboxing” which separates the processes of the browser so something like a harmful website doesn’t infect other parts of your laptop or other device.
-In fact, both Chrome and Firefox have rigorous security in place. Both include a thing called “sandboxing” which separates the processes of the browser so something like a harmful website doesn’t infect other parts of your laptop or other device.
+Mewn gwirionedd, mae gan Chrome a Firefox ddiogelwch trylwyr ar waith. Mae'r ddau yn cynnwys peth o'r enw “bocs tywod” sy'n gwahanu prosesau'r porwr felly nid yw rhywbeth fel gwefan niweidiol yn heintio rhannau eraill o'ch gliniadur neu ddyfais arall.
 
 
 # "Beside the point" means that a subject might be worth noting, but isn't the main focus (the point) of the discussion. Alternative: "but that's not the real issue."
 ;While Chrome proves to be a safe web browser, its privacy record is questionable. Google actually collects a disturbingly large amount of data from its users including location, search history and site visits. Google makes its case for data collection saying it’s doing it to improve its services – like helping you find a sweater or a coffee shop like the one you previously bought or visited. However, others might disagree, making the point that Google is actually gathering an unprecedented amount of data for its own marketing purposes. They tout that they’re keeping your information private from hackers, but that’s beside the point. Google itself runs the world’s largest advertising network, thanks in large part to data they harvest from their users.
-While Chrome proves to be a safe web browser, its privacy record is questionable. Google actually collects a disturbingly large amount of data from its users including location, search history and site visits. Google makes its case for data collection saying it’s doing it to improve its services – like helping you find a sweater or a coffee shop like the one you previously bought or visited. However, others might disagree, making the point that Google is actually gathering an unprecedented amount of data for its own marketing purposes. They tout that they’re keeping your information private from hackers, but that’s beside the point. Google itself runs the world’s largest advertising network, thanks in large part to data they harvest from their users.
+Er bod Chrome yn profi i fod yn borwr gwe diogel, mae ei gofnod preifatrwydd yn amheus. Mae Google mewn gwirionedd yn casglu llawer iawn o ddata gan ei ddefnyddwyr gan gynnwys lleoliad, hanes chwilio ac ymweliadau â gwefannau. Mae Google yn cyflwyno ei achos dros gasglu data gan ddweud ei fod yn ei wneud i wella ei wasanaethau - fel eich helpu chi i ddod o hyd i siwmper neu siop goffi fel yr un y gwnaethoch chi ei phrynu neu ymweld â hi o'r blaen. Fodd bynnag, gallai eraill anghytuno, gan wneud y pwynt bod Google mewn gwirionedd yn casglu swm digynsail o ddata at ei ddibenion marchnata ei hun. Maen nhw'n honni eu bod nhw'n cadw'ch manylion yn breifat rhag hacwyr, ond mae hynny'n amherthnasol. Mae Google ei hun yn rhedeg rhwydwaith hysbysebu fwyaf y byd, diolch i raddau helaeth i'r data maen nhw'n ei gynaeafu gan eu defnyddwyr.
 
 
 # To "draw the line" is to establish a boundary that should not be crossed. Alternative: "it's up to you to decide whether or not or where your limit is with sharing things (...)".
 ;Ultimately, it’s up to you to decide whether or not or where to draw the line with sharing things like your search history and shopping history. But if you’re anything like most people, you’ve probably searched for some things on the internet that you would rather keep private.
-Ultimately, it’s up to you to decide whether or not or where to draw the line with sharing things like your search history and shopping history. But if you’re anything like most people, you’ve probably searched for some things on the internet that you would rather keep private.
+Yn y pen draw, mater i chi yw penderfynu a ddylid gosod terfyn ar rannu pethau fel eich hanes chwilio a'ch hanes siopa ai peidio. Ond fel y mwyafrif o bobl, bosib eich bod wedi chwilio am rai pethau ar y rhyngrwyd y byddai'n well gennych eu cadw'n breifat.
 
 
 ;In terms of features, both Firefox and Chrome offer a large library of extensions and plug-ins, with Chrome’s catalog vastly outnumbering any other browser while nicely integrating with other Google services, like Gmail and Google Docs.
-In terms of features, both Firefox and Chrome offer a large library of extensions and plug-ins, with Chrome’s catalog vastly outnumbering any other browser while nicely integrating with other Google services, like Gmail and Google Docs.
+O ran nodweddion, mae Firefox a Chrome yn cynnig casgliadau mawr o estyniadau ac ychwanegion, gyda chatalog Chrome yn fwy o lawer nag unrhyw borwr arall tra'n  integreiddio'n hwylus â gwasanaethau Google eraill, fel Gmail a Google Docs.
 
 
 ;Although not as extensive as Chrome’s add-on library, Firefox, as open-source software with a huge number of active contributors, also features an incredible number of useful extensions.
-Although not as extensive as Chrome’s add-on library, Firefox, as open-source software with a huge number of active contributors, also features an incredible number of useful extensions.
+Er nad yw mor helaeth â chasgliad ychwanegion Chrome, mae Firefox, fel meddalwedd cod agored yn cynnwys nifer fawr o gyfranwyr gweithredol, hefyd yn cynnwys nifer sylweddol iawn o estyniadau defnyddiol.
 
 
 ;Firefox also has a sync feature to see your open and recent tabs, browsing history, and bookmarks across all your devices.
-Firefox also has a sync feature to see your open and recent tabs, browsing history, and bookmarks across all your devices.
+Mae gan Firefox hefyd nodwedd cydweddu er mwyn gweld eich tabiau agored a diweddar, hanes pori, a nodau tudalen ar draws eich holl ddyfeisiau.
 
 
 # "gets the nod" here means Chrome is the winner. Alternative: "While Chrome wins the contest with add-ons and extensions". "Getting the nod" indicates making a selection, like someone nodding their head in approval.
 ;While Chrome gets the nod with add-ons and extensions, Firefox has a nicely curated set of built-in features, such as the incredibly handy screen capture tool, and reading mode feature which strips away everything from the page except the text from the article you’re reading.
-While Chrome gets the nod with add-ons and extensions, Firefox has a nicely curated set of built-in features, such as the incredibly handy screen capture tool, and reading mode feature which strips away everything from the page except the text from the article you’re reading.
+Tra bod Chrome ar y blaen gydag ychwanegion ac estyniadau, mae gan Firefox set o nodweddion adeiledig wedi'u curadu'n effeithiol, fel yr teclyn cipio sgrin hynod ddefnyddiol, a'r nodwedd modd darllen sy'n dileu popeth o'r dudalen ac eithrio'r testun o'r erthygl, rydych yn ei darllen.
 
 
 ;If having tons of open tabs is your thing, then it really comes down to your UI preference. Firefox features a horizontal scroll on all your open tabs rather than shrinking them smaller and smaller with each new one. Google Chrome prefers to shrink them down so just the favicon is visible. The only problem with this is when you have multiple tabs open from the same website, so you see the same favicon across your tabs.
-If having tons of open tabs is your thing, then it really comes down to your UI preference. Firefox features a horizontal scroll on all your open tabs rather than shrinking them smaller and smaller with each new one. Google Chrome prefers to shrink them down so just the favicon is visible. The only problem with this is when you have multiple tabs open from the same website, so you see the same favicon across your tabs.
+Os yw cael llwyth o dabiau ar agor yn bwysig i chi, yna mae'n dibynnu ar eich dewis rhyngwyneb mewn gwirionedd. Mae Firefox yn cynnwys sgrôl lorweddol ar eich holl dabiau agored yn hytrach na'u crebachu yn llai ac yn llai gyda phob un newydd. Mae'n well gan Google Chrome eu crebachu i lawr felly dim ond y favicon sy'n weladwy. Yr unig broblem gyda hyn yw pan fydd gennych chi dabiau lluosog ar agor o'r un wefan, felly rydych yn gweld yr un favicon ar draws eich holl dabiau.
 
 
 ;As for customization, our fans will tell you one of the things they love most about our browser is its ability to allow you to move and arrange a majority of the UI elements to best suit your needs. Chrome allows you to hide certain UI elements but there’s not much allowance, if any, for moving things around based on your preferences. However, it should be noted that both Chrome and Firefox make it pretty easy to change your browser’s appearance and theme.
-As for customization, our fans will tell you one of the things they love most about our browser is its ability to allow you to move and arrange a majority of the UI elements to best suit your needs. Chrome allows you to hide certain UI elements but there’s not much allowance, if any, for moving things around based on your preferences. However, it should be noted that both Chrome and Firefox make it pretty easy to change your browser’s appearance and theme.
+Ynghylch cyfaddasu, bydd ein cefnogwyr yn dweud wrthych un o'r pethau maen nhw'n eu hoffi fwyaf am ein porwr yw ei allu i ganiatáu i chi symud a threfnu mwyafrif o'r elfennau rhyngwyneb i weddu orau i'ch anghenion. Mae Chrome yn caniatáu i chi guddio rhai elfennau o'r rhyngwyneb ond nid oes llawer o allu, os o gwbl, ar gyfer symud pethau o gwmpas ar sail eich dewis chi. Fodd bynnag, dylid nodi bod Chrome a Firefox yn ei gwneud hi'n eithaf hawdd newid golwg a thema eich porwr.
 
 
 ;Almost needless to say, versions of both Firefox and Chrome are available for the most popular desktop and mobile operating systems (Windows, macOS, Linux, Android, iOS).
-Almost needless to say, versions of both Firefox and Chrome are available for the most popular desktop and mobile operating systems (Windows, macOS, Linux, Android, iOS).
+Afraid dweud, ond mae fersiynau o Firefox a Chrome ar gael ar gyfer y systemau gweithredu bwrdd gwaith a symudol mwyaf poblogaidd (Windows, macOS, Linux, Android, iOS).
 
 
 ;Both Chrome and Firefox also allow you to sync things like passwords, bookmarks, and open tabs across all your devices. If you have a Firefox account, you can manually send an open tab on your desktop to your mobile device or vice versa. With Chrome, it’s done automatically if you’ve chosen that setting in your preferences. Not having to manually send the tab from one device to the other is convenient when you want to do something like continue reading an article you didn’t finish earlier. But there could be times where automatic syncing might not be ideal if there’s a chance multiple users are browsing while signed in to your Google account.
-Both Chrome and Firefox also allow you to sync things like passwords, bookmarks, and open tabs across all your devices. If you have a Firefox account, you can manually send an open tab on your desktop to your mobile device or vice versa. With Chrome, it’s done automatically if you’ve chosen that setting in your preferences. Not having to manually send the tab from one device to the other is convenient when you want to do something like continue reading an article you didn’t finish earlier. But there could be times where automatic syncing might not be ideal if there’s a chance multiple users are browsing while signed in to your Google account.
+Mae Chrome a Firefox hefyd yn caniatáu i chi gydweddu pethau fel cyfrineiriau, nodau tudalen, ac agor tabiau ar draws eich holl ddyfeisiau. Os oes gennych gyfrif Firefox, gallwch chi eich hun anfon tab agored ar eich bwrdd gwaith i'ch dyfais symudol neu i'r gwrthwyneb. Gyda Chrome, mae'n cael ei wneud yn awtomatig os ydych wedi dewis y gosodiad hwnnw yn eich dewisiadau. Mae peidio â gorfod anfon y tab â llaw o un ddyfais i'r llall yn gyfleus pan fyddwch eisiau gwneud rhywbeth fel parhau i ddarllen erthygl na wnaethoch chi ei gorffen yn gynharach. Ond gall fod adegau pan na fyddai cydweddu awtomatig yn ddelfrydol os oes siawns bod sawl defnyddiwr yn pori wrth fewngofnodi i'ch cyfrif Google.
 
 
 # "Baked-in" means it's included, not added in later. Alternatives: "built-in" or "included"
 ;We think it’s fair to say Firefox and Chrome are really neck and neck in terms of portability and utility, with Chrome having a slight edge in utility because of its huge library of extensions and add-on features. But in terms of Privacy, Firefox wins the day with our commitment to preserving our users’ online data and providing free baked-in services like password managers that also alert you if there happens to be a data breach involving your credentials.
-We think it’s fair to say Firefox and Chrome are really neck and neck in terms of portability and utility, with Chrome having a slight edge in utility because of its huge library of extensions and add-on features. But in terms of Privacy, Firefox wins the day with our commitment to preserving our users’ online data and providing free baked-in services like password managers that also alert you if there happens to be a data breach involving your credentials.
+Rydyn ni'n credu ei bod hi'n deg dweud bod Firefox a Chrome yn gydradd o ran hygludedd a defnyddioldeb, gyda Chrome bach ar bach y blaen o ran cyfleustodau oherwydd ei gasgliad enfawr o estyniadau a nodweddion ei ychwanegion. Ond o ran Preifatrwydd, mae Firefox yn ennill yn glir, gyda’n hymrwymiad i warchod data ar-lein ein defnyddwyr ac yn darparu gwasanaethau am ddim fel rheolwyr cyfrineiriau sydd hefyd yn eich rhybuddio os bydd tor-data yn ymwneud â’ch manylion.
 
 
 ;For practical purposes, there’s obviously really nothing preventing you from using both browsers—Firefox for those moments in life when privacy really matters, and Chrome if you’re still invested in the Google ecosystem. Yet with the growing number of incursions into our personal data, Firefox may prove to be the right choice in the long run for those of us who value protecting our personal privacy online.
-For practical purposes, there’s obviously really nothing preventing you from using both browsers—Firefox for those moments in life when privacy really matters, and Chrome if you’re still invested in the Google ecosystem. Yet with the growing number of incursions into our personal data, Firefox may prove to be the right choice in the long run for those of us who value protecting our personal privacy online.
+At ddibenion ymarferol, yn amlwg does dim byd yn eich atal rhag defnyddio'r ddau borwr - Firefox ar gyfer yr eiliadau hynny mewn bywyd pan mae preifatrwydd yn wirioneddol bwysig, a Chrome os ydych chi wedi buddsoddi o hyd yn ecosystem Google. Ac eto, gyda'r nifer cynyddol o ymyriadau i'n data personol, efallai y bydd Firefox yn ddewis cywir yn y tymor hir i'r rhai ohonom sy'n gwerthfawrogi diogelu ein preifatrwydd personol ar-lein.
 
 
 ;The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Chrome (74)
-The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Chrome (74)
+Gwnaed y cymariaethau hyn ar draws fersiynau canlynol y porwyr: <br> Firefox (70) | Chrome (74)
 
 
