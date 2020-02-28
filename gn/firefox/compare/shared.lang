@@ -3,127 +3,127 @@
 
 # Used as an accessible label for a "yes" icon (a green check mark)
 ;Yes
-Yes
+Héẽ
 
 
 # Used as an accessible label for a "no" icon (a gray bar)
 ;No
-No
+Ahániri
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 ;Security and <strong>Privacy</strong>
-Security and <strong>Privacy</strong>
+Tekorosã ha <strong>ñemigua</strong>
 
 
 ;Security and Privacy
-Security and Privacy
+Tekorosã ha ñemigua
 
 
 ;Private Browsing mode
-Private Browsing mode
+Kundaha Ñemigua reko
 
 
 ;Blocks third-party tracking cookies
-Blocks third-party tracking cookies
+Ejoko kookie tapykuehoha mbohapyháva
 
 
 ;Blocks cryptomining scripts
-Blocks cryptomining scripts
+Ejoko scritps criptomineriagua
 
 
 ;Blocks social trackers
-Blocks social trackers
+Ejoko tapykuehoha avaatygua
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Utility</strong>
-<strong>Utility</strong>
+<strong>Jepurúva</strong>
 
 
 ;Utility
-Utility
+Jepurúva
 
 
 ;Autoplay blocking
-Autoplay blocking
+Ñemboheta ijeheguíva jejoko
 
 
 ;Tab browsing
-Tab browsing
+Ñeikundaha tendayke ndive
 
 
 ;Bookmark manager
-Bookmark manager
+Techaukaha ñangarekoha
 
 
 ;Automatically fills out forms
-Automatically fills out forms
+Myanyhẽha ijeheguíva moĩmba
 
 
 ;Search engine options
-Search engine options
+Poravorã Jehekaha
 
 
 ;Text to speech
-Text to speech
+Moñe’ẽrã ñe’ẽme
 
 
 ;Reader mode
-Reader mode
+Moñe’ẽrã reko
 
 
 ;Spell checking
-Spell checking
+Jehaipy ñemoĩporã
 
 
 ;Web extensions/Add-ons
-Web extensions/Add-ons
+Jepysokue ñanduti/Tembipuru’i
 
 
 ;In-browser screenshot tool
-In-browser screenshot tool
+Tembipuru mba’erecha japyhyha kundahárape
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Portability</strong>
-<strong>Portability</strong>
+<strong>Jeguerahakuaa</strong>
 
 
 ;Portability
-Portability
+Jeguerahakuaa
 
 
 ;OS availability
-OS availability
+Ojepurukuaa apopyvusúpe g̃uarã
 
 
 ;Mobile OS availability
-Mobile OS availability
+Ojepurukuaa pumbyry apopyvusúpe g̃uarã
 
 
 ;Syncs with mobile
-Syncs with mobile
+Oñembojuehe pumbyry ndive
 
 
 ;Password management
-Password management
+Ñe’ẽñemi ñangarekohára
 
 
 ;Master Password
-Master Password
+Ñe’ẽñemi ha’etéva
 
 
 ;Overall Assessment
-Overall Assessment
+Ñeha’ã tuichaháicha
 
 
 # CTA button
 ;Download Firefox
-Download Firefox
+Emboguejy Firefox
 
 
 ;Compare Browsers
-Compare Browsers
+Emoñondive Kundahára
 
 

@@ -3,127 +3,127 @@
 
 # Used as an accessible label for a "yes" icon (a green check mark)
 ;Yes
-Yes
+Da
 
 
 # Used as an accessible label for a "no" icon (a gray bar)
 ;No
-No
+Ne
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 ;Security and <strong>Privacy</strong>
-Security and <strong>Privacy</strong>
+Sigurnost i <strong>privatnost</strong>
 
 
 ;Security and Privacy
-Security and Privacy
+Sigurnost i privatnost
 
 
 ;Private Browsing mode
-Private Browsing mode
+Modus privatnog pregledavanja
 
 
 ;Blocks third-party tracking cookies
-Blocks third-party tracking cookies
+Blokira kolačiće za praćenje trećih strana
 
 
 ;Blocks cryptomining scripts
-Blocks cryptomining scripts
+Blokira skripte za kriptominiranje
 
 
 ;Blocks social trackers
-Blocks social trackers
+Blokira programe za praćenje od društvenih mreža
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Utility</strong>
-<strong>Utility</strong>
+<strong>Korisnost</strong>
 
 
 ;Utility
-Utility
+Korisnost
 
 
 ;Autoplay blocking
-Autoplay blocking
+Automatski pokreni blokiranje
 
 
 ;Tab browsing
-Tab browsing
+Pregledavanje pomoću kartica
 
 
 ;Bookmark manager
-Bookmark manager
+Upravljanje zabilješkama
 
 
 ;Automatically fills out forms
-Automatically fills out forms
+Automatski ispunjava obrasce
 
 
 ;Search engine options
-Search engine options
+Opcije za tražilice
 
 
 ;Text to speech
-Text to speech
+Tekst u govor
 
 
 ;Reader mode
-Reader mode
+Modus čitača
 
 
 ;Spell checking
-Spell checking
+Provjera pravopisa
 
 
 ;Web extensions/Add-ons
-Web extensions/Add-ons
+Web proširenja/dodaci
 
 
 ;In-browser screenshot tool
-In-browser screenshot tool
+U pregledniku ugrađeni alat za snimanje ekrana
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Portability</strong>
-<strong>Portability</strong>
+<strong>Prenosivost:</strong>
 
 
 ;Portability
-Portability
+Prenosivost
 
 
 ;OS availability
-OS availability
+Dostupnost na operacijskim sustavima
 
 
 ;Mobile OS availability
-Mobile OS availability
+Dostupnost na operacijskim sustavima mobilnih uređaja
 
 
 ;Syncs with mobile
-Syncs with mobile
+Sinkronizira s mobilnim uređajima
 
 
 ;Password management
-Password management
+Upravljanje lozinkama
 
 
 ;Master Password
-Master Password
+Glavna lozinka
 
 
 ;Overall Assessment
-Overall Assessment
+Ukupna procjena
 
 
 # CTA button
 ;Download Firefox
-Download Firefox
+Preuzmi Firefox
 
 
 ;Compare Browsers
-Compare Browsers
+Usporedi preglednike
 
 

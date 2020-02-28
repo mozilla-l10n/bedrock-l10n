@@ -10,7 +10,7 @@ Kontaktiraj Mozillu
 
 
 ;If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
-If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
+Ako želiš ispraviti svoje podatke ili ako imaš pitanja u vezi s našom politikom privatnosti, kontaktiraj nas:
 
 
 ;<a href="%(dsar)s">See here for Data Subject Access Requests.</a>
@@ -18,7 +18,7 @@ If you want to make a correction to your information, or you have any questions 
 
 
 ;Data Privacy Principles
-Data Privacy Principles
+Načela privatnosti podataka
 
 
 # Links to https://www.mozilla.org/privacy/principles/
@@ -53,7 +53,7 @@ Naše napomene o privatnosti opisuje koje podatke naši proizvodi i usluge prima
 
 # This string is obsolete. Do not remove.
 ;We created short and clear Privacy Notices to describe how each of our products and services receives, shares, and uses data and what your choices are. Learn more:
-Napravili smo kratka i jasna pravila o privatnosti, u kojima opisujemo kako svaki od naših proizvoda i usluga primaju, dijele i koriste podatke i koji su tvoje mogućnosti. Saznaj više:
+Izradili smo kratke i jasne napomene o privatnosti, u kojima opisujemo kako svaki od naših proizvoda i usluga primaju, dijele i koriste podatke i koji su tvoje mogućnosti. Saznaj više:
 
 
 ;Mozilla Websites, Communications &amp; Cookies
@@ -69,7 +69,7 @@ Firefox za Fire TV
 
 
 ;Transparency Report
-Transparency Report
+Izvještaj o transparentnosti
 
 
 ;As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
@@ -110,6 +110,6 @@ Prikaži manje
 
 # Used in sub-pages to return to the main index https://www.mozilla.org/privacy
 ;Back to Mozilla Privacy Policy
-Natrag na Mozillina pravila o privatnosti
+Natrag na Mozillinu politiku privatnosti
 
 

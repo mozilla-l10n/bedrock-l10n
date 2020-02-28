@@ -78,20 +78,20 @@ Pravo na sigurnost i privatnost na internetu je temeljno pravo – nikada nije o
 
 
 ;Developers
-Razvijatelji
+Programeri
 
 
 # Accessible label for the 'X' button that closes a menu
 ;Close Developers menu
-Zatvori izbornik Razvijatelji
+Zatvori izbornik za programere
 
 
 ;Firefox Developer Edition
-Firefox izdanje za razvijatelje
+Firefox izdanje za programere
 
 
 ;Firefox, built just for developers.
-Firefox, izgrađen samo za razvijatelje.
+Firefox, izgrađen samo za programere.
 
 
 ;Test soon-to-be-released features in our most stable pre-release build.
@@ -103,7 +103,7 @@ Provjeri zadnju testnu inačicu Firefoxa i pomozi nam učiniti ga najboljim.
 
 
 ;Developer Innovations
-Inovacije za razvijatelje
+Programerske inovacije
 
 
 ;Projects that help keep the internet open and accessible for all.
@@ -127,7 +127,7 @@ Resursi
 
 
 ;Resources for developers, by developers.
-Resursi za razvijatelje, od razvijatelja.
+Resursi za programere, od programera.
 
 
 ;MDN Web Docs
@@ -143,7 +143,7 @@ CSS mreža
 
 
 ;Developer Blog
-Blog razvojnih programera
+Blog za programere
 
 
 ;Mozilla Open Source Support (MOSS)
@@ -151,7 +151,7 @@ Mozilla Open Source Support (MOSS) {ok}
 
 
 ;Build, test, scale and more with the only browser built just for developers.
-Gradi, testiraj, skaliraj, itd. s jedinim preglednikom koji je izgrađen samo za razvijatelje.
+Izgradi, testiraj, povećaj itd. s jedinim preglednikom, koji je napravljen samo za programere.
 
 
 # Accessible label for the 'X' button that closes a menu
@@ -409,11 +409,11 @@ Prednosti
 
 
 ;Meet the Firefox Family
-Upoznaj Firefox obitelj
+Upoznaj Firefox porodicu
 
 
 ;Protect your life online with a whole family of privacy-first products.
-Zaštiti svoj život na mreži pomoću obitelji proizvoda kojima tvoja privatnost stoji na prvom mjestu.
+Zaštiti svoj život na mreži pomoću porodice proizvoda, kojima je tvoja privatnost najvažnija.
 
 
 ;Download for iOS
@@ -467,6 +467,6 @@ Spojeni i zaštićeni
 
 
 ;Firefox is a whole family of products designed to keep you safer and smarter online.
-Firefox je cijela obitelj proizvoda dizajnirana s ciljem da te zaštiti i nauči sigurnosti na mreži.
+Firefox je cijela porodica proizvoda, dizajnirana za zaštićeno i sigurno pregledavanje interneta.
 
 
