@@ -3,45 +3,45 @@
 
 # HTML page title
 ;Firefox vs. Microsoft Edge: Which is the better browser for you?
-Firefox vs. Microsoft Edge: Which is the better browser for you?
+Firefox vs. Microsoft Edge: Cili është shfletuesi më i mirë për ju?
 
 
 # HTML description
 ;Compare Microsoft Edge to the Firefox Browser to find out which is the better browser for you.
-Compare Microsoft Edge to the Firefox Browser to find out which is the better browser for you.
+Krahasoni Microsoft Edge me Firefox Browser për të gjetur se cili shfletues është më i mirë për ju.
 
 
 # Page title
 ;Comparing Firefox Browser with Microsoft Edge
-Comparing Firefox Browser with Microsoft Edge
+Krahasim i Firefox Browser-it me Microsoft Edge-n
 
 
 ;With Windows 10, Microsoft introduced its Edge browser to compete with Firefox and Chrome making it the default browser pre-installed on millions of PCs sold. Even so, users were slow to adopt it and Microsoft eventually announced plans to relaunch Edge as a Chromium-based browser (Chromium of course being Google’s Open Source browser project).
-With Windows 10, Microsoft introduced its Edge browser to compete with Firefox and Chrome making it the default browser pre-installed on millions of PCs sold. Even so, users were slow to adopt it and Microsoft eventually announced plans to relaunch Edge as a Chromium-based browser (Chromium of course being Google’s Open Source browser project).
+Me Windows 10, Microsoft-i solli për herë të parë shfletuesin e vet Edge, për të konkurruar me Firefox-in dhe Chrome-in, duke e bërë shfletuesin parazgjedhje të instaluar paraprakisht në miliona PC të shitur. Megjithëkëtë, përdoruesit qenë të ngadaltë në adoptimin e tij dhe Microsoft-i përfundimisht njoftoi plane për ta rihedhur në qarkullim Edge-in si një shfletues me bazë Chromium-in (duke qenë Chromium-i projekti me burim të hapur për shfletues nga Google).
 
 
 ;Here we’ll compare our Firefox Browser to the Chromium-based Microsoft Edge in terms of privacy, utility, and portability, to help you have a better understanding of which browser better suits your needs and preferences.
-Here we’ll compare our Firefox Browser to the Chromium-based Microsoft Edge in terms of privacy, utility, and portability, to help you have a better understanding of which browser better suits your needs and preferences.
+Këtu do të krahasojmë shfltuesin tonë Firefox Browser me Microsoft Edge-in e bazuar në to the Chromium për sa i takon privatësisë, veçorive dhe bartjes, për t’ju ndihmuar të kuptoni më mirë se cili shfletues u përshtatet më mirë nevojave dhe parapëlqimeve tuaja.
 
 
 ;Edge is integrated into the Windows 10 platform and runs in a sandbox environment, meaning it isolates programs and prevents malicious programs from spying on your computer. It has a built-in SmartScreen that scans the reputation of sites you visit and blocks suspicious sites. To enhance privacy, Edge allows you to use biometrics or a PIN with Windows Hello instead of passwords for online authentication.
-Edge is integrated into the Windows 10 platform and runs in a sandbox environment, meaning it isolates programs and prevents malicious programs from spying on your computer. It has a built-in SmartScreen that scans the reputation of sites you visit and blocks suspicious sites. To enhance privacy, Edge allows you to use biometrics or a PIN with Windows Hello instead of passwords for online authentication.
+Edge-i është i integruar në platformën Windows 10 dhe xhiron brenda një mjedisi bankëprovë, që do të thotë se izolon programet dhe parandalon spiunimin në kompjuterin tuaj nga programe dashakeqë. Ka një SmartScreen të brendshëm që skanon reputacionin e sajteve që vizitoni dhe bllokon sajte të dyshimtë. Për të thelluar privatësinë, Edge-i ju lejon të përdorni masa biometrike ose një PIN me Windows Hello, në vend se fjalëkalime për mirëfilltësime internetore.
 
 
 ;However, Edge saves some of your private data and sends it back to Microsoft with Windows updates. At 45 cryptically worded pages long, the privacy policy for Edge is unlikely to be read or understood by the average user.
-However, Edge saves some of your private data and sends it back to Microsoft with Windows updates. At 45 cryptically worded pages long, the privacy policy for Edge is unlikely to be read or understood by the average user.
+Megjithatë, Edge-i ruan disa nga të dhënat tuaja private dhe ia dërgon ato Microsoft-it, përmes përditësimeve të Windows-it. Me 45 faqe të shkruara në mënyrë kriptike, rregullat e privatësisë së Edge-it zor se lexohen apo kuptohen nga përdoruesi i rëndomtë.
 
 
 ;At Firefox, our <a %(attrs)s>privacy policy</a> is transparent and in plain language. We actually put a lot of work into making sure it was straightforward and easy to read. We pride ourselves in protecting our users security and privacy. With Enhanced Tracking Protection now on by default, we block 2000+ trackers automatically. Trackers are those little pieces of code that try to piece together what you're doing across multiple internet sites to build a composite and detailed picture of who you are, compromising your privacy all just to target better ads.
-At Firefox, our <a %(attrs)s>privacy policy</a> is transparent and in plain language. We actually put a lot of work into making sure it was straightforward and easy to read. We pride ourselves in protecting our users security and privacy. With Enhanced Tracking Protection now on by default, we block 2000+ trackers automatically. Trackers are those little pieces of code that try to piece together what you're doing across multiple internet sites to build a composite and detailed picture of who you are, compromising your privacy all just to target better ads.
+Në Firefox, <a %(attrs)s>rregullat tona të privatësisë</a> janë transparente dhe në gjuhë të thjeshtë. Faktikisht jemi munduar shumë për të bërë të mundur të jenë të prera dhe të lehta për t’u lexuar. Krenohemi se mbrojmë sigurinë dhe privatësinë e përdoruesve tanë. Me Mbrojtjen e Thelluar Nga Gjurmimi tanimë si parazgjedhje, bllokojmë automatikisht më shumë se 2000 gjurmues. Gjurmuesit janë ato copa të vockla kodi që rreken të lidhin tok ato çka bëni nëpër sajte të shumtë në internet, për një krijuar një foto të përbërë dhe të hollësishme se cili jeni, duke komprometuar kështu privatësinë tuaj thjesht për personalizim më të mirë të reklamave për ju.
 
 
 ;Your <a %(attrs)s>Privacy Protections</a> shows you the trackers and cookies that pages have attempted to leave, and how many Firefox has blocked for you.
-Your <a %(attrs)s>Privacy Protections</a> shows you the trackers and cookies that pages have attempted to leave, and how many Firefox has blocked for you.
+<a %(attrs)s>Mbrojtjet tona të Privatësisë</a> ju shfaq gjurmuesit dhe cookie-t që faqet kanë bërë përpjekje t’i lënë, dhe se sa prej tyre ka bllokuar Firefox-i.
 
 
 ;In Firefox, Private Browsing mode automatically erases your browsing information like passwords, cookies, and history, leaving no trace after you close out the session. Edge on the other hand, actually records browsing history in their private mode (called “InPrivate”) and it’s a relatively easy task for someone to reconstruct your full browsing history, regardless of whether your browsing was done in regular or InPrivate mode.
-In Firefox, Private Browsing mode automatically erases your browsing information like passwords, cookies, and history, leaving no trace after you close out the session. Edge on the other hand, actually records browsing history in their private mode (called “InPrivate”) and it’s a relatively easy task for someone to reconstruct your full browsing history, regardless of whether your browsing was done in regular or InPrivate mode.
+Në Firefox, mënyra e Shfletimit Privat fshin automatikisht të dhëna tuajat të shfletimit, të tilla si fjalëkalime, <em>cookies</em>, dhe historik, duke mos lënë gjurmë pasi të mbyllni sesionin. Edge-i më anë tjetër, faktikisht regjistron historikun e shfletimit nën mënyrën e tij private (të quajtur “InPrivate”) dhe është punë relativisht e lehtë për dikë të rindërtojë historikun tuaj të plotë të shfletimit, pavarësisht se shfletimi juaj u bë nën mënyrën normale apo në atë InPrivate.
 
 
 ;Both browsers are relatively equal in terms of data encryption. However, if online privacy and transparency are important to you, then Firefox is clearly a better choice here.
