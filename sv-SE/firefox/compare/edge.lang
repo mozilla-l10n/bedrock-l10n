@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
 
@@ -8,40 +9,40 @@ Firefox mot Microsoft Edge: Vilken är den bättre webbläsaren för dig?
 
 # HTML description
 ;Compare Microsoft Edge to the Firefox Browser to find out which is the better browser for you.
-Jämför Microsoft Edge med Firefox Browser för att ta reda på vilken som är den bästa webbläsaren för dig.
+Jämför Microsoft Edge med Firefox webbläsare för att ta reda på vilken som är den bästa webbläsaren för dig.
 
 
 # Page title
 ;Comparing Firefox Browser with Microsoft Edge
-Jämför Firefox Browser med Microsoft Edge
+Jämför Firefox webbläsare med Microsoft Edge
 
 
 ;With Windows 10, Microsoft introduced its Edge browser to compete with Firefox and Chrome making it the default browser pre-installed on millions of PCs sold. Even so, users were slow to adopt it and Microsoft eventually announced plans to relaunch Edge as a Chromium-based browser (Chromium of course being Google’s Open Source browser project).
-With Windows 10, Microsoft introduced its Edge browser to compete with Firefox and Chrome making it the default browser pre-installed on millions of PCs sold. Even so, users were slow to adopt it and Microsoft eventually announced plans to relaunch Edge as a Chromium-based browser (Chromium of course being Google’s Open Source browser project).
+Med Windows 10 introducerade Microsoft sin Edge-webbläsare för att tävla med Firefox och Chrome, vilket gör den till förinstallerad webbläsare på miljontals sålda datorer. Trots det var användarna långsamma att anta den och Microsoft meddelade så småningom planer på att gör en omstart av Edge som en Chromium-baserad webbläsare (Chromium är naturligtvis Googles öppna källkodsprojekt).
 
 
 ;Here we’ll compare our Firefox Browser to the Chromium-based Microsoft Edge in terms of privacy, utility, and portability, to help you have a better understanding of which browser better suits your needs and preferences.
-Här jämför vi vår Firefox Browser med den chromium-baserade Microsoft Edge när det gäller sekretess, verktyg och portabilitet, för att hjälpa dig att få en bättre förståelse för vilken webbläsare som bäst passar dina behov och önskemål.
+Här jämför vi vår Firefox webbläsare med den chromium-baserade Microsoft Edge när det gäller sekretess, verktyg och portabilitet, för att hjälpa dig att få en bättre förståelse för vilken webbläsare som bäst passar dina behov och önskemål.
 
 
 ;Edge is integrated into the Windows 10 platform and runs in a sandbox environment, meaning it isolates programs and prevents malicious programs from spying on your computer. It has a built-in SmartScreen that scans the reputation of sites you visit and blocks suspicious sites. To enhance privacy, Edge allows you to use biometrics or a PIN with Windows Hello instead of passwords for online authentication.
-Edge is integrated into the Windows 10 platform and runs in a sandbox environment, meaning it isolates programs and prevents malicious programs from spying on your computer. It has a built-in SmartScreen that scans the reputation of sites you visit and blocks suspicious sites. To enhance privacy, Edge allows you to use biometrics or a PIN with Windows Hello instead of passwords for online authentication.
+Edge är integrerad i Windows 10-plattformen och körs i en sandlådemiljö, vilket innebär att den isolerar program och förhindrar skadliga program från att spionera på din dator. Den har en inbyggd SmartScreen som skannar webbplatser du besöker och blockerar misstänkta webbplatser. För att förbättra sekretess kan Edge använda biometri eller en PIN-kod med Windows Hello istället för lösenord för online-autentisering.
 
 
 ;However, Edge saves some of your private data and sends it back to Microsoft with Windows updates. At 45 cryptically worded pages long, the privacy policy for Edge is unlikely to be read or understood by the average user.
-However, Edge saves some of your private data and sends it back to Microsoft with Windows updates. At 45 cryptically worded pages long, the privacy policy for Edge is unlikely to be read or understood by the average user.
+Edge sparar emellertid en del av dina privata data och skickar tillbaka dem till Microsoft med Windows-uppdateringar. På 45 kryptiska sidor är det inte troligt att sekretesspolicyn för Edge läses eller förstås av den genomsnittliga användaren.
 
 
 ;At Firefox, our <a %(attrs)s>privacy policy</a> is transparent and in plain language. We actually put a lot of work into making sure it was straightforward and easy to read. We pride ourselves in protecting our users security and privacy. With Enhanced Tracking Protection now on by default, we block 2000+ trackers automatically. Trackers are those little pieces of code that try to piece together what you're doing across multiple internet sites to build a composite and detailed picture of who you are, compromising your privacy all just to target better ads.
-At Firefox, our <a %(attrs)s>privacy policy</a> is transparent and in plain language. We actually put a lot of work into making sure it was straightforward and easy to read. We pride ourselves in protecting our users security and privacy. With Enhanced Tracking Protection now on by default, we block 2000+ trackers automatically. Trackers are those little pieces of code that try to piece together what you're doing across multiple internet sites to build a composite and detailed picture of who you are, compromising your privacy all just to target better ads.
+Hos Firefox är vår <a %(attrs)s>sekretesspolicy</a> transparent och på vanligt språk. Vi lägger verkligen mycket tid på att den ska vara enkel och lättläst. Vi är stolta över att skydda våra användares säkerhet och integritet. Med förbättrat spårningsskydd som standard blockerar vi över 2000 spårare automatiskt. Spårare är de små bitar av kod som försöker pussla ihop vad du gör på flera webbplatser för att bygga en sammansatt och detaljerad bild av vem du är, vilket äventyrar din integritet, bara för att rikta in bättre annonser.
 
 
 ;Your <a %(attrs)s>Privacy Protections</a> shows you the trackers and cookies that pages have attempted to leave, and how many Firefox has blocked for you.
-Your <a %(attrs)s>Privacy Protections</a> shows you the trackers and cookies that pages have attempted to leave, and how many Firefox has blocked for you.
+Dina <a %(attrs)s>sekretesskydd</a> visar dig spårare och kakor som sidor har försökt att lämna, och hur många Firefox har blockerat för dig.
 
 
 ;In Firefox, Private Browsing mode automatically erases your browsing information like passwords, cookies, and history, leaving no trace after you close out the session. Edge on the other hand, actually records browsing history in their private mode (called “InPrivate”) and it’s a relatively easy task for someone to reconstruct your full browsing history, regardless of whether your browsing was done in regular or InPrivate mode.
-In Firefox, Private Browsing mode automatically erases your browsing information like passwords, cookies, and history, leaving no trace after you close out the session. Edge on the other hand, actually records browsing history in their private mode (called “InPrivate”) and it’s a relatively easy task for someone to reconstruct your full browsing history, regardless of whether your browsing was done in regular or InPrivate mode.
+I Firefox raderar privat surfningsläge automatiskt din surfinformation som lösenord, kakor och historik, vilket inte lämnar några spår efter att du har avslutat sessionen. Edge å andra sidan registrerar faktiskt surfhistoriken i deras privata läge (kallas "InPrivate") och det är en relativt enkel uppgift för någon att rekonstruera din fullständiga surfhistorik, oavsett om din surfning gjordes i vanligt eller InPrivate-läge.
 
 
 ;Both browsers are relatively equal in terms of data encryption. However, if online privacy and transparency are important to you, then Firefox is clearly a better choice here.
@@ -49,55 +50,55 @@ Båda webbläsarna är relativt lika när det gäller datakryptering. Men om int
 
 
 ;Firefox is a fast and open source browser, which means users can customize their browsing experience in every way possible. Firefox also allows the casual user several different ways to customize the UI with applying different themes and toolbar configurations. Since our browser has always been open source we have a large following of devoted developers who have created an extensive library of add-ons and browser extensions.
-Firefox is a fast and open source browser, which means users can customize their browsing experience in every way possible. Firefox also allows the casual user several different ways to customize the UI with applying different themes and toolbar configurations. Since our browser has always been open source we have a large following of devoted developers who have created an extensive library of add-ons and browser extensions.
+Firefox är en snabb och öppen källkodswebbläsare, vilket innebär att användare kan anpassa sin surfupplevelse på alla möjliga sätt. Firefox tillåter också den tillfälliga användaren flera olika sätt att anpassa användargränssnittet med att tillämpa olika teman och verktygsfältkonfigurationer. Eftersom vår webbläsare alltid har varit öppen källkod har vi ett stort följa av hängivna utvecklare som har skapat ett omfattande bibliotek med tillägg och webbläsartillägg.
 
 
 ;Since Edge has moved to the processor intensive Chromium platform, you can expect it to run a little slower, especially if you have multiple programs running at once. However, with Chromium platform comes a massive library of extensions as well as a decent level of UI customization that Edge did not have before it’s move to Chromium.
-Since Edge has moved to the processor intensive Chromium platform, you can expect it to run a little slower, especially if you have multiple programs running at once. However, with Chromium platform comes a massive library of extensions as well as a decent level of UI customization that Edge did not have before it’s move to Chromium.
+Eftersom Edge har flyttat till den processorintensiva Chromium-plattformen, kan du förvänta dig att den ska gå lite långsammare, särskilt om du har flera program som körs samtidigt. Men med Chromium-plattformen kommer ett massivt bibliotek med tillägg samt en anständig nivå av UI-anpassning som Edge inte hade innan den flyttade till Chromium.
 
 
 ;Edge has some nice UI features, like their tab previews which can make it easy to find the right open tabs if you’ve got a lot of them open. Another helpful tab-related feature lets you set aside any active tabs that you aren’t using but don’t want to close down.
-Edge has some nice UI features, like their tab previews which can make it easy to find the right open tabs if you’ve got a lot of them open. Another helpful tab-related feature lets you set aside any active tabs that you aren’t using but don’t want to close down.
+Edge har några fina UI-funktioner, som deras förhandsgranskningar av flikar som kan göra det enkelt att hitta rätt öppen flik om du har många av dem öppna. En annan användbar flikrelaterad funktion låter dig spara aktiva flikar som du inte vill stänga.
 
 
 ;Firefox features a scrolling tab interface, which keeps tab information viewable and scrolls them horizontally instead of shrinking them down to just favicon size. Also whenever you open a new tab, our <a %(attrs)s>Pocket feature</a> suggests relevant articles and content for you. Plus with Pocket, you can also save articles, videos, and other content with one click, for reading at a later time.
-Firefox features a scrolling tab interface, which keeps tab information viewable and scrolls them horizontally instead of shrinking them down to just favicon size. Also whenever you open a new tab, our <a %(attrs)s>Pocket feature</a> suggests relevant articles and content for you. Plus with Pocket, you can also save articles, videos, and other content with one click, for reading at a later time.
+Firefox har ett gränssnitt för rullningsflikar, som håller flikinformationen synlig och rullar dem horisontellt istället för att krympa dem ner till bara favicon-storlek. När du öppnar en ny flik föreslår vår <a %(attrs)s>Pocket-funktion</a> relevanta artiklar och innehåll för dig. Med Pocket kan du också spara artiklar, videor och annat innehåll med ett klick för att läsa vid ett senare tilfälle.
 
 
 ;Firefox and Edge both offer excellent reading modes. With Firefox you just tap on the small icon in the search bar and the browser strips down all unnecessary elements and presents you a clean looking article. In Edge you just tap on the small book icon and browser to get a clean easy-to-read UI.
-Firefox and Edge both offer excellent reading modes. With Firefox you just tap on the small icon in the search bar and the browser strips down all unnecessary elements and presents you a clean looking article. In Edge you just tap on the small book icon and browser to get a clean easy-to-read UI.
+Firefox och Edge erbjuder båda utmärkta läslägen. Med Firefox klickar du bara på den lilla ikonen i sökfältet och webbläsaren tar bort alla onödiga element och ger dig en snygg artikel. I Edge trycker du bara på den lilla bokikonen i webbläsaren för att få ett rent lättläst användargränssnitt.
 
 
 ;Firefox also includes lots of handy built-in features by default like <a %(attrs)s>Enhanced Tracking Protection</a>, a built-in screenshot tool, large file sending and more.
-Firefox also includes lots of handy built-in features by default like <a %(attrs)s>Enhanced Tracking Protection</a>, a built-in screenshot tool, large file sending and more.
+Firefox innehåller också många praktiska inbyggda funktioner som standard som <a %(attrs)s> förbättrat spårningsskydd</a>, ett inbyggt skärmdumpsverktyg, skicka stora filer och mer.
 
 
 # "Out of the gate" means from the very start. Alternative: "From the start,". Race horses are held behind a gate that is opened to release all the horses at the same time at the start of the race, so a horse that leads the race from the very start is said to lead "right out of the gate."
 ;Out of the gate, Firefox has more features and integrations built into the browser and readily available on download. And while both browsers have a tremendous number of add-ons and extensions available, Edge’s compatibility with Google’s Chromium platform gives it the advantage in terms of sheer numbers.
-Out of the gate, Firefox has more features and integrations built into the browser and readily available on download. And while both browsers have a tremendous number of add-ons and extensions available, Edge’s compatibility with Google’s Chromium platform gives it the advantage in terms of sheer numbers.
+Från början har Firefox fler funktioner och integrationer inbyggda i webbläsaren och lätt tillgängliga vid nedladdning. Och även om båda webbläsarna har ett enormt antal tillägg och utökningar tillgängliga, ger Edge:s kompatibilitet med Googles Chromium-plattform den fördelen när det gäller det stora antalet.
 
 
 ;With Internet Explorer, Microsoft learned from its lack of availability across platforms and made Edge available for macOS and Android. The software is now readily available on iOS, Android, Windows and Mac.
-With Internet Explorer, Microsoft learned from its lack of availability across platforms and made Edge available for macOS and Android. The software is now readily available on iOS, Android, Windows and Mac.
+Med Internet Explorer lärde Microsoft av sin brist på tillgänglighet mellan plattformar och gjorde Edge tillgängligt för macOS och Android. Programvaran är nu lätt tillgänglig på iOS, Android, Windows och Mac.
 
 
 ;Firefox has been available on iOS, Android, Windows, macOS and Linux for years. And as you would expect with any modern browser, Firefox lets you log in with a <a %(attrs)s>free account</a> and sync data such as passwords, browsing history, bookmarks, and open tabs between your computer, tablet and phone. It also allows you to sync across platforms as well.
-Firefox has been available on iOS, Android, Windows, macOS and Linux for years. And as you would expect with any modern browser, Firefox lets you log in with a <a %(attrs)s>free account</a> and sync data such as passwords, browsing history, bookmarks, and open tabs between your computer, tablet and phone. It also allows you to sync across platforms as well.
+Firefox har funnits till iOS, Android, Windows, macOS och Linux i flera år. Och som du kan förvänta dig med alla moderna webbläsare låter Firefox dig logga in med ett <a %(attrs)s>gratis konto</a> och synkronisera data som lösenord, surfhistorik, bokmärken och öppna flikar mellan din dator, surfplatta och telefon. Det låter dig också synkronisera mellan plattformar.
 
 
 ;Edge also allows you to connect your associated Microsoft account and sign in to sync your favorites, history, passwords, and more between your computer and iOS or Android devices, although some Android tablets are not currently supported.
-Edge also allows you to connect your associated Microsoft account and sign in to sync your favorites, history, passwords, and more between your computer and iOS or Android devices, although some Android tablets are not currently supported.
+Edge låter dig också ansluta ditt associerade Microsoft-konto och logga in för att synkronisera dina favoriter, historik, lösenord och mer mellan din dator och iOS- eller Android-enheter, även om vissa Android-surfplattor för närvarande inte stöds.
 
 
 ;Aside from sucking up a lot of computing power, Edge running on Chromium has answered a lot of users’ needs for functionality and features. But there’s still a lot to account for in terms of the browser’s privacy protections. It’s our assessment that Firefox is still a better choice for most people to use in their daily lives, based not only on functionality but more importantly on our transparency in how we collect user data, what exactly we collect, and what we do with it. Because our parent company is <a %(attrs)s>Mozilla</a>, a non-profit organization dedicated to internet privacy and freedom, we simply have a different set of priorities when it comes to users’ data.
-Aside from sucking up a lot of computing power, Edge running on Chromium has answered a lot of users’ needs for functionality and features. But there’s still a lot to account for in terms of the browser’s privacy protections. It’s our assessment that Firefox is still a better choice for most people to use in their daily lives, based not only on functionality but more importantly on our transparency in how we collect user data, what exactly we collect, and what we do with it. Because our parent company is <a %(attrs)s>Mozilla</a>, a non-profit organization dedicated to internet privacy and freedom, we simply have a different set of priorities when it comes to users’ data.
+Förutom att använda mycket datorkraft har Edge som körs på Chromium svarat på många av användarnas behov av funktionalitet och funktioner. Men det finns fortfarande mycket att ta hänsyn till när det gäller webbläsarens integritetsskydd. Det är vår bedömning att Firefox fortfarande är ett bättre val för de flesta att använda i deras dagliga liv, baserat inte bara på funktionalitet men ännu viktigare på vår öppenhet hur vi samlar in användardata, vad vi exakt samlar in och vad vi gör med den. Eftersom vårt moderföretag är <a %(attrs)s>Mozilla</a>, en ideell organisation som ägnar sig åt integritet och frihet på internet, har vi helt enkelt en annan uppsättning prioriteringar när det gäller användarnas data.
 
 
 ;The bottom line is that while we suggest using Firefox, the best browser for you ultimately will be the one that fits your individual needs with extension support, browsing tools customization, speed, privacy and security.
-The bottom line is that while we suggest using Firefox, the best browser for you ultimately will be the one that fits your individual needs with extension support, browsing tools customization, speed, privacy and security.
+Sammanfattningen är att medan vi föreslår att du använder Firefox, så kommer den bästa webbläsaren för dig i slutändan att vara den som passar dina individuella behov med tilläggsstöd, anpassning av surfverktyg, hastighet, integritet och säkerhet.
 
 
 ;The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Edge (44)
-The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Edge (44)
+Jämförelserna gjorda här utfördes för följande versioner av webbläsare:<br>Firefox (70) | Edge (44)
 
 
