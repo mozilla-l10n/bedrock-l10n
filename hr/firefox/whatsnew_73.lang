@@ -47,7 +47,7 @@ Odaberi automatsku privatnost
 
 
 ;Companies keep finding new ways to poach your personal data. Firefox is the browser with a mission of finding new ways to protect you.
-Companies keep finding new ways to poach your personal data. Firefox is the browser with a mission of finding new ways to protect you.
+Poduzeća stalno pronalaze nove načine, kako bi se dočepali tvojih osobnih podataka. Firefox je preglednik s misijom pronalaženja novih načina zaštite.
 
 
 # String is obsolete. Do not remove.
@@ -82,6 +82,6 @@ Firefox is the only major independent browser. Chrome, Edge and Brave are all bu
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+Pročitaj <a href="%(notes)s">Napomene o izdanju</a> i saznaj što je novo u Firefox pregledniku.
 
 

@@ -1,3 +1,7 @@
+## active ##
+## privacy_email_2019 ##
+## updates-052018 ##
+## updates-072018 ##
 ## NOTE: demo page is available at https://www-dev.allizom.org/privacy/
 
 
@@ -14,7 +18,7 @@
 
 
 ;<a href="%(dsar)s">See here for Data Subject Access Requests.</a>
-<a href="%(dsar)s">See here for Data Subject Access Requests.</a>
+<a href="%(dsar)s">ดูที่นี่สำหรับ Data Subject Access Requests</a>
 
 
 ;Data Privacy Principles

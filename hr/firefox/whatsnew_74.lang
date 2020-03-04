@@ -3,11 +3,11 @@
 
 # HTML page title
 ;What’s new with Firefox - Make it harder for Facebook to track you
-What’s new with Firefox - Make it harder for Facebook to track you
+Što je novo u Firefoxu – otežaj Facebooku praćenje
 
 
 ;Congrats! You’re using the latest version of Firefox.
-Congrats! You’re using the latest version of Firefox.
+Čestitamo! Koristiš najnoviju verziju Firefoxa.
 
 
 # Main title
@@ -22,30 +22,30 @@ If you still kinda like Facebook but don’t trust them, then try the Facebook C
 
 # "Facebook Container" is a product name and shouldn't be translated.
 ;Get Facebook Container
-Get Facebook Container
+Nabavi Facebook Container
 
 
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 ;Do it for the ’Gram
-Do it for the ’Gram
+Učini to i za Instagram
 
 
 # "Facebook Container", "Instagram", "Facebook Messenger" and "Workplace" are proper names that shouldn't be translated.
 ;Facebook Container also works on other Facebook owned sites like Instagram, Facebook Messenger and Workplace.
-Facebook Container also works on other Facebook owned sites like Instagram, Facebook Messenger and Workplace.
+Facebook Container također radi i na ostalim web stranicama u vlasništvu Facebooka, poput Instagrama, Facebook Messengera i Workplacea.
 
 
 # CTA link
 ;Make them unfollow you
-Make them unfollow you
+Onemogući im praćenje
 
 
 ;That sneaky little button
-That sneaky little button
+Taj lukavi mali gumb
 
 
 ;Those innocent-looking F buttons from Facebook track your web activity, even if you don’t have an account. Facebook Container blocks them.
-Those innocent-looking F buttons from Facebook track your web activity, even if you don’t have an account. Facebook Container blocks them.
+Ti Facebook-gumbi nevinog izgleda prate tvoju web aktivnost, čak i ako nemaš račun. Facebook Container ih blokira.
 
 
 ;Stay ahead of hackers
@@ -59,10 +59,10 @@ Firefox Monitor lets you find out what hackers might already know about you and 
 
 # CTA link
 ;Get Firefox Monitor
-Get Firefox Monitor
+Nabavi Firefox Monitor
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+Pročitaj <a href="%(notes)s">Napomene o izdanju</a> i saznaj što je novo u Firefox pregledniku.
 
 

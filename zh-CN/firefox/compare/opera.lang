@@ -21,7 +21,7 @@ The Firefox Browser and Opera are two of the earliest browsers on the scene stil
 
 
 ;Opera’s privacy policy lacks some specificity in its explanation of which types of information it collects and how, in certain sections, it says they collect names of account holders, IP addresses and search terms. What seems confusing and troubling is the section about International data transfers; when, how often and why they need to transfer your data internationally is not explained.
-Opera’s privacy policy lacks some specificity in its explanation of which types of information it collects and how, in certain sections, it says they collect names of account holders, IP addresses and search terms. What seems confusing and troubling is the section about International data transfers; when, how often and why they need to transfer your data internationally is not explained.
+Opera 的隐私政策在解释其收集哪些类型的信息以及如何在某些部分收集账户持有者的姓名、IP 地址和搜索词时缺乏具体说明。最令人困惑和不安的是关于国际数据传输的部分：没有解释将您的数据在国际范围内传输的时间、频率及原因。
 
 
 ;Firefox’s <a %(attrs)s>privacy policy</a> is very transparent in describing what personal information we collect with the only end goal being to give you greater control over the information you share online.
@@ -66,11 +66,11 @@ In addition to the regular mobile app, Opera has two other mobile versions of it
 
 
 ;We also offer an additional, albeit experimental version of our Firefox mobile app, <a %(attrs)s>Firefox Preview</a>, which focuses on speed and security.
-We also offer an additional, albeit experimental version of our Firefox mobile app, <a %(attrs)s>Firefox Preview</a>, which focuses on speed and security.
+我们还提供了另外一个实验版 Firefox App。<a %(attrs)s>Firefox Preview</a>，该版本专注于速度和安全性。
 
 
 ;Most major browsers these days, with the exception of Safari, work seamlessly across platforms and browsers. Opera and Firefox are no exception with both browsers providing excellent portability across every device.
-Most major browsers these days, with the exception of Safari, work seamlessly across platforms and browsers. Opera and Firefox are no exception with both browsers providing excellent portability across every device.
+如今，除了 Safari 之外，大多数主流浏览器都可以无缝地跨平台运行和浏览。 Opera 和 Firefox 也不例外，这两款浏览器均有着出色的跨平台性。
 
 
 ;Overall, Opera is a solid browser, with a clean interface and a lot of useful features available. There are, however, some serious privacy concerns as well as an issue with it using a lot of processing power. Although Opera has some really terrific ease of use features, we still believe Firefox remains a superior browser based on performance and with a transparent user-privacy stance and strict privacy protections.
