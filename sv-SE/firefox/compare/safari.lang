@@ -21,16 +21,16 @@ Om du använder en Mac eller har en iPhone känner du antagligen till webbläsar
 
 
 ;Privacy has become a white hot topic for tech companies as they realize more and more people are feeling vulnerable to things like data breaches, ad trackers and hackers. But when it comes down to the real tools people use to navigate the actual interwebs, is it all talk or are they actually taking action to keep your data secure?
-Sekretess har blivit ett brännhett ämne för teknikföretag eftersom de inser att fler och fler människor känner sig sårbara för saker som dataintrång, annonsspårare och hackare. Men när det gäller de egentliga verktygen som folk använder för att navigera på själva internet, är det bara snack eller tar de verkligen åtgärder för att hålla din data säker?
+Sekretess har blivit ett brännhett ämne för teknikföretag eftersom de inser att fler och fler människor känner sig sårbara för saker som dataintrång, annonsspårare och hackare. Men när det gäller de egentliga verktygen som folk använder för att navigera i själva nätet, är det bara prat eller tar de verkligen åtgärder för att hålla din data säker?
 
 
 ;As alluded to before, Apple is one of those companies that recently decided to step up their privacy game. Not long ago, Apple implemented cross-site tracking prevention in Safari, which prevents ads from following you around the internet. Safari also offers a strong password suggestion when you sign up for a new account on any website. And if you’re invested in the iCloud ecosystem, it syncs that password securely with your other devices, so you never actually have to remember it.
-Som tidigare nämndes, är Apple ett av de företag som nyligen beslutade att intensifiera sitt integritetsspel. För inte så länge sedan implementerade Apple förhindrande av spårning av webbplatser i Safari, vilket förhindrar att annonser följer dig på internet. Safari erbjuder också starka lösenordsförslag när du registrerar dig för ett nytt konto på en webbplats. Och om du är investerad i iCloud-ekosystemet synkroniserar det det lösenordet säkert med dina andra enheter, så du behöver faktiskt aldrig komma ihåg dem.
+Som tidigare nämnts är Apple ett av de företag som nyligen beslutade att intensifiera sitt integritetsspel. För inte så länge sedan implementerade Apple förhindrande av spårning av webbplatser i Safari, vilket förhindrar att annonser följer dig på internet. Safari erbjuder också starka lösenordsförslag när du registrerar dig för ett nytt konto på en webbplats. Och om du är investerad i iCloud-ekosystemet synkroniserar det det lösenordet säkert med dina andra enheter, så du behöver faktiskt aldrig komma ihåg dem.
 
 
 # "Standing on the soap box" means trying to spread a persuasive message to the masses. Alternative: "We've been spreading the message about privacy for a long time." Soap used to come in wooden crates, and this idiom refers to activists or preachers who would stand on an empty soap box on a street corner to speak to a crowd.
 ;Like Safari, we at Firefox have made a point of focusing on privacy and security. But unlike Safari, we’ve been standing on the privacy soap box for a long time. In fact, Mozilla (our parent company) was one of the first voices in the tech community to sound the alarm for online privacy.
-Like Safari, we at Firefox have made a point of focusing on privacy and security. But unlike Safari, we’ve been standing on the privacy soap box for a long time. In fact, Mozilla (our parent company) was one of the first voices in the tech community to sound the alarm for online privacy.
+Liksom Safari har vi på Firefox valt att fokusera på integritet och säkerhet. Men i motsats till Safari har vi under lång tid lyft fram vikten av integritet. Det är faktiskt så att Mozilla (vårt moderbolag) var ett av de första teknikbolagen som höjde rösten för onlineintegritet.
 
 
 ;Our Private Browsing mode blocks trackers and erases your passwords, cookies and history every time you close it. But you can also experience our advanced privacy features even in regular browsing mode. With the latest edition of Firefox, enhanced tracking prevention is turned on by default. This prevents things like cross-site trackers from following you as you jump around the web. Also, with Facebook being caught out almost daily for privacy problems, our <a %(attrs)s>Facebook Container</a> extension makes a lot of sense. It makes it harder for Facebook to track you around the web — similar to what Safari does to prevent cross-site tracking — but Firefox actually isolates your Facebook session into a separate container blocking Facebook from tracking what you do on other websites. Why do they need to know what you look up on WebMD anyway?
@@ -74,7 +74,7 @@ Firefox also offers a similar sync feature when you sign up for a free <a %(attr
 
 
 ;The Firefox app for <a %(ios)s>iOS</a> and <a %(android)s>Android</a> is one of the fastest browsers available and also has solid security and anti-tracking features — a huge plus if you’re constantly bouncing between a laptop and mobile devices.
-The Firefox app for <a %(ios)s>iOS</a> and <a %(android)s>Android</a> is one of the fastest browsers available and also has solid security and anti-tracking features — a huge plus if you’re constantly bouncing between a laptop and mobile devices.
+Firefox appen för <a %(ios)s>iOS</a> och <a %(android)s>Android</a> är en av den snabbaste webbläsaren som finns och har också solid säkerhet och anti-spårnings funktioner — ett stort plus om du konstant hoppar mellan en laptop och mobila enheter.
 
 
 ;Since Safari is Apple’s proprietary web browser, its iCloud syncing works exclusively with Apple products. This can be somewhat limiting if, for example, you’re both an Android user and an iPhone user or if you have a Windows based PC for work but use an iPhone as your personal device.
@@ -90,6 +90,6 @@ In the end, it just boils down to what you value in your browser. If you’re in
 
 
 ;The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Safari (12)
-The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Safari (12)
+Jämförelserna gjorda här utfördes för följande versioner av webbläsare:<br> Firefox (70) | Safari (12)
 
 
