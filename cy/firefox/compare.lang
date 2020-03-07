@@ -4,18 +4,18 @@
 
 # HTML page title and main headline
 ;Six of the best browsers in direct comparison
-Chwech o'r porwyr gorau mewn cymhariaeth uniongyrchol
+Cymhariaeth o'r chwech porwyr gorau
 
 
 # HTML description
 # Firefox, Chrome, Edge, Safari, Opera and Internet Explorer are all brand names that shouldn't be translated.
 ;Find out how Firefox, Chrome, Edge, Safari, Opera and Internet Explorer differ in terms of privacy, utility and portability.
-Darganfyddwch sut mae Firefox, Chrome, Edge, Safari, Opera ac Internet Explorer yn gwahaniaethu o ran preifatrwydd, cyfleustodau a chludadwyedd.
+Darganfyddwch sut mae Firefox, Chrome, Edge, Safari, Opera ac Internet Explorer yn gwahaniaethu o ran preifatrwydd, gwasanaethau a chludadwyedd.
 
 
 # Sub-headline.
 ;Privacy. Utility. Portability.
-Preifatrwydd. Defnyddioldeb. Cludadwyedd.
+Preifatrwydd. Defnyddioldeb. Gwasanaethau.
 
 
 # Firefox, Chrome, Edge, Safari, Opera and Internet Explorer are all brand names that shouldn't be translated.
@@ -29,7 +29,7 @@ Dylai porwr rhyngrwyd rhagorol fod â'r swyddogaethau sydd eu hangen arnoch chi,
 
 # Google Chrome is a brand name that shouldn't be translated.
 ;Since your browser is your gateway to the internet, speed, security, privacy and utility are paramount. In recent years, Google Chrome has been the browser of choice for many. But at a time when online ads seem to follow us everywhere and data breaches are a fixture of news headlines, a lot of people are starting to demand more privacy and respect from their browser.
-Gan mai eich porwr yw eich porth i'r rhyngrwyd, mae cyflymder, diogelwch, preifatrwydd a defnyddioldeb o'r pwys mwyaf. Yn ystod y blynyddoedd diwethaf, Google Chrome fu'r porwr blaenaf i lawer. Ond ar adeg pan ymddengys bod hysbysebion ar-lein yn ein dilyn i bobman ac mae tor-data yn rhan o benawdau newyddion, mae llawer o bobl yn dechrau mynnu mwy o breifatrwydd a pharch gan eu porwr.
+Gan mai eich porwr yw eich porth i'r rhyngrwyd, mae cyflymder, diogelwch, preifatrwydd a defnyddioldeb o'r pwys mwyaf. Yn ystod y blynyddoedd diwethaf, Google Chrome fu'r porwr blaenaf i lawer. Ond ar adeg pan mae'n ymddangos bod hysbysebion ar-lein yn ein dilyn i bobman ac mae tor-data yn rhan o benawdau newyddion, mae llawer o bobl yn dechrau mynnu mwy o breifatrwydd a pharch gan eu porwr.
 
 
 # Google Chrome, Firefox, Safari, Opera and Microsoft Internet Explorer and Edge are all brand names that shouldn't be translated.
@@ -110,7 +110,7 @@ Rhwystro awtochwarae
 
 
 ;Tab browsing
-Pori tab
+Pori tabiau
 
 
 ;Bookmark manager
