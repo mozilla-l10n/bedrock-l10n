@@ -1,68 +1,69 @@
+## active ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/74.0/whatsnew/all/
 
 
 # HTML page title
 ;What’s new with Firefox - Make it harder for Facebook to track you
-What’s new with Firefox - Make it harder for Facebook to track you
+Novità di Firefox - Ostacola il tracciamento di Facebook
 
 
 ;Congrats! You’re using the latest version of Firefox.
-Congrats! You’re using the latest version of Firefox.
+Congratulazioni! Stai utilizzando l’ultima versione di Firefox.
 
 
 # Main title
 ;It’s okay to like Facebook
-It’s okay to like Facebook
+Ti piace Facebook? Non è un problema
 
 
 # "Facebook Container" is a product name and shouldn't be translated.
 ;If you still kinda like Facebook but don’t trust them, then try the Facebook Container extension by Firefox and make it harder for them to track you around the web.
-If you still kinda like Facebook but don’t trust them, then try the Facebook Container extension by Firefox and make it harder for them to track you around the web.
+Se ti piace ancora Facebook ma non ti fidi di come gestiscono i tuoi dati, prova l'estensione Facebook Container di Firefox e rendi più difficile tracciare le tue attività sul Web.
 
 
 # "Facebook Container" is a product name and shouldn't be translated.
 ;Get Facebook Container
-Get Facebook Container
+Installa Facebook Container
 
 
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 ;Do it for the ’Gram
-Do it for the ’Gram
+Funziona anche su Instagram
 
 
 # "Facebook Container", "Instagram", "Facebook Messenger" and "Workplace" are proper names that shouldn't be translated.
 ;Facebook Container also works on other Facebook owned sites like Instagram, Facebook Messenger and Workplace.
-Facebook Container also works on other Facebook owned sites like Instagram, Facebook Messenger and Workplace.
+Facebook Container funziona anche su altri siti di proprietà di Facebook come Instagram, Facebook Messenger e Workplace.
 
 
 # CTA link
 ;Make them unfollow you
-Make them unfollow you
+Fai in modo che non ti seguano più
 
 
 ;That sneaky little button
-That sneaky little button
+Quel piccolo e subdolo pulsante
 
 
 ;Those innocent-looking F buttons from Facebook track your web activity, even if you don’t have an account. Facebook Container blocks them.
-Those innocent-looking F buttons from Facebook track your web activity, even if you don’t have an account. Facebook Container blocks them.
+Quei pulsanti “F” di Facebook dall'aspetto così innocente tracciano la tua attività sul Web anche se non hai un account. Facebook Container può bloccarli per te.
 
 
 ;Stay ahead of hackers
-Stay ahead of hackers
+Un passo avanti agli hacker
 
 
 # "Firefox Monitor" is a product name that shouldn't be translated.
 ;Firefox Monitor lets you find out what hackers might already know about you and helps you stay a step ahead of them. (And it’s free.)
-Firefox Monitor lets you find out what hackers might already know about you and helps you stay a step ahead of them. (And it’s free.)
+Firefox Monitor ti consente di scoprire ciò che gli hacker potrebbero già sapere su di te e ti aiuta a stare sempre un passo avanti a loro (ed è gratuito).
 
 
 # CTA link
 ;Get Firefox Monitor
-Get Firefox Monitor
+Scopri Firefox Monitor
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+Leggi le <a href="%(notes)s">note di versione</a> per maggiori informazioni sulle novità di Firefox.
 
 

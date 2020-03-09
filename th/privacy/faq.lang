@@ -1,3 +1,5 @@
+## active ##
+## firefox-accounts-112018 ##
 ## NOTE: demo page is available at https://www-dev.allizom.org/privacy/faq/
 
 
@@ -17,7 +19,7 @@
 
 # "Under the hood" is an expression in automobile industry. Here it is a metaphor about something that exists but out of sight, behind the scenes.
 ;It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
-It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
+อาจเป็นเรื่องยากสำหรับผู้คนที่จะรู้ว่าพวกเขาคาดหวังอะไรบ้างจากซอฟต์แวร์หรือบริการใด ๆ ที่พวกเขาใช้ในปัจจุบัน เทคโนโลยีที่เสริมพลังชีวิตของเรามีความซับซ้อนและผู้คนไม่มีเวลาขุดลึกลงไปในรายละเอียด ซึ่งนั่นยังคงเป็นจริงสำหรับ Firefox ที่เราพบว่าผู้คนต่างมีความคิดที่แตกต่างกันมากมายเกี่ยวกับสิ่งที่เกิดขึ้นอยู่เบื้องหลังในเบราว์เซอร์ของพวกเขา
 
 
 ;At Mozilla, we respect and protect your personal information:
@@ -26,7 +28,7 @@ It can be tricky for people to know what to expect of any software or services t
 
 # Links to https://www.mozilla.org/privacy/principles/
 ;We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our approach to privacy in the Firefox desktop and mobile browsers.
-We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our approach to privacy in the Firefox desktop and mobile browsers.
+เราปฏิบัติตาม<a href="%(link)s">หลักการความเป็นส่วนตัวของข้อมูล</a>ที่กำหนดวิธีการของเราในการคุ้มครองข้อมูลส่วนตัวในเบราว์เซอร์ Firefox สำหรับเดสก์ท็อปและมือถือ
 
 
 ;We only collect the data we need to make the best products.
@@ -38,7 +40,7 @@ We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our
 
 
 ;We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
-We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
+เรายึดมั่นในหลักการ “ไม่ปล่อยให้ใครสงสัย” ซึ่งหมายความว่าเราทำงานอย่างหนักเพื่อให้แน่ใจว่าสิ่งที่ผู้คนเข้าใจเกี่ยวกับ Firefox ตรงกับความเป็นจริง
 
 
 ;The following questions and answers should help you understand what to expect from Mozilla and Firefox:
@@ -59,11 +61,11 @@ Firefox เบราว์เซอร์ที่ทำงานบนอุป
 
 # Links to https://addons.mozilla.org/firefox/addon/firefox-pioneer/
 ;Mozilla doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, such as <a href="%(link)s">Firefox Pioneer</a>, which allows interested users to give us insight into their web browsing. If you sync your browsing history across Firefox installations, we don’t know what that history is - because it’s encrypted by your device.
-Mozilla doesn’t know as much as you’d expect about how people browse the web. As a browser maker, that’s actually a big challenge for us. That is why we’ve built opt-in tools, such as <a href="%(link)s">Firefox Pioneer</a>, which allows interested users to give us insight into their web browsing. If you sync your browsing history across Firefox installations, we don’t know what that history is - because it’s encrypted by your device.
+Mozilla ไม่ทราบดีพอว่าผู้คนจะท่องเว็บอย่างไรเท่าที่คุณคาด ในฐานะผู้สร้างเบราว์เซอร์ นั่นเป็นความท้าทายที่ยิ่งใหญ่สำหรับเรา นั่นคือเหตุผลที่เราสร้างเครื่องมือที่เปิดให้ทุกคนมีส่วนร่วมได้ เช่น <a href="%(link)s">Firefox Pioneer</a> ซึ่งเปิดให้ผู้ใช้ที่สนใจสามารถให้ข้อมูลเชิงลึกเกี่ยวกับการเรียกดูเว็บของพวกเขาแก่เราได้ หากคุณซิงค์ประวัติการเรียกดูใน Firefox ที่ติดตั้ง เราจะไม่มีทางทราบได้ว่ามีประวัติอะไรบ้าง เนื่องจากถูกเข้ารหัสโดยอุปกรณ์ของคุณ
 
 
 ;It seems like every company on the web is buying and selling my data. You’re probably no different.
-It seems like every company on the web is buying and selling my data. You’re probably no different.
+ดูเหมือนว่าทุกบริษัทบนเว็บจะซื้อและขายข้อมูลของฉัน คุณก็คงไม่ต่างกันหรอก
 
 
 ;Mozilla doesn’t sell data about you, and we don’t buy data about you.
@@ -76,18 +78,18 @@ Mozilla ไม่ขายข้อมูลเกี่ยวกับคุณ
 
 # Links to https://www.mozilla.org/foundation/annualreport/
 ;Mozilla is not your average organization. Founded as a community open source project in 1998, Mozilla is a mission-driven organization working towards a more healthy internet. The majority of Mozilla Corporation’s revenue is from royalties earned through Firefox web browser search partnerships and distribution deals around the world. You can learn more about how we make money in our <a href="%(link)s">annual financial report</a>.
-Mozilla is not your average organization. Founded as a community open source project in 1998, Mozilla is a mission-driven organization working towards a more healthy internet. The majority of Mozilla Corporation’s revenue is from royalties earned through Firefox web browser search partnerships and distribution deals around the world. You can learn more about how we make money in our <a href="%(link)s">annual financial report</a>.
+Mozilla ไม่ใช่องค์กรทั่ว ๆ ไปอย่างที่คุณคิด Mozilla เป็นองค์กรที่ขับเคลื่อนด้วยภารกิจที่มุ่งสู่อินเทอร์เน็ตที่มีสภาพดียิ่งขึ้น ซึ่งก่อตั้งขึ้นในฐานะโครงการโอเพนซอร์สชุมชนเมื่อปี 2541 รายได้ส่วนใหญ่ของ Mozilla Corporation มาจากค่าลิขสิทธิ์ที่ได้รับผ่านพาร์ทเนอร์การค้นหาเว็บเบราว์เซอร์ Firefox และข้อตกลงการจัดจำหน่ายทั่วโลก คุณสามารถเรียนรู้เพิ่มเติมเกี่ยวกับวิธีสร้างรายได้ของเราได้ใน<a href="%(link)s">รายงานทางการเงินประจำปี</a>ของเรา
 
 
 # "Softballs" here means questions requiring only easy or simple answers.
 ;Okay, those first few were softballs. What data do you collect?
-Okay, those first few were softballs. What data do you collect?
+เอาล่ะ คำถามที่ผ่านมาทั้งหมดไม่ค่อยสำคัญเท่าไรหรอก คุณเก็บข้อมูลอะไรบ้าง?
 
 
 # First URL links to https://www.mozilla.org/privacy/firefox/
 # Second URL links to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 ;Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
-Mozilla does collect a limited set of data by default from Firefox that helps us to understand how people use the browser. That data is tied to a random identifier, rather than your name or email address. You can read more about that on our <a href="%(privacy)s">privacy notice</a> and you can read the <a href="%(data)s">full documentation for that data collection</a>.
+Mozilla จะรวบรวมชุดข้อมูลในจำนวนจำกัดตามค่าเริ่มต้นจาก Firefox ซึ่งช่วยให้เราเข้าใจได้ว่าผู้คนใช้เบราว์เซอร์อย่างไร โดยข้อมูลดังกล่าวจะเชื่อมโยงกับตัวระบุแบบสุ่ม ไม่ใช่ชื่อหรือที่อยู่อีเมลของคุณ คุณสามารถอ่านเพิ่มเติมเกี่ยวกับสิ่งนั้นได้ใน<a href="%(privacy)s">ประกาศความเป็นส่วนตัว</a>ของเราและคุณสามารถอ่าน<a href="%(data)s">เอกสารฉบับเต็มเกี่ยวกับการรวบรวมข้อมูลดังกล่าว</a>ได้
 
 
 ;We make our documentation public so that anyone can verify what we say is true, tell us if we need to improve, and have confidence that we aren’t hiding anything.
@@ -96,11 +98,11 @@ Mozilla does collect a limited set of data by default from Firefox that helps us
 
 # "Gobbledygook" is a fun way to say nonsense or gibberish
 ;That documentation is gobbledygook to me! Can you give it to me in plain English?
-That documentation is gobbledygook to me! Can you give it to me in plain English?
+เอกสารนั่นอ่านแล้วดูเข้าใจยากจังเลย! คุณช่วยอธิบายเป็นภาษาไทยแบบง่าย ๆ ได้ไหม?
 
 
 ;There are two categories of data that we collect by default in our release version of Firefox.
-There are two categories of data that we collect by default in our release version of Firefox.
+มีข้อมูลสองประเภทที่เรารวบรวมตามค่าเริ่มต้นใน Firefox รุ่นเปิดตัวของเรา
 
 
 ;The first is what we call "technical data." This is data about the browser itself, such as the operating system it is running on and information about errors or crashes.
@@ -108,7 +110,7 @@ There are two categories of data that we collect by default in our release versi
 
 
 ;The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
-The second is what we call "interaction data." This is data about an individual's engagement with Firefox, such as the number of tabs that were open, the status of user preferences, or number of times certain browser features were used, such as screenshots or containers. For example, we collect this data in terms of the back button, that arrow in the upper left corner of your browser that lets you navigate back to a previous webpage in a way that shows us someone used the back button, but doesn’t tell what specific webpages are accessed.
+ประการที่สองคือสิ่งที่เราเรียกว่า "ข้อมูลการโต้ตอบ" ซึ่งเป็นข้อมูลเกี่ยวกับการมีส่วนร่วมระหว่างผู้คนแต่ละคนกับ Firefox เช่น จำนวนแท็บที่เปิด สถานะค่ากำหนดของผู้ใช้ หรือจำนวนครั้งที่ใช้คุณสมบัติของเบราว์เซอร์บางอย่าง เช่น ภาพหน้าจอ หรือการแยกข้อมูล ตัวอย่างเช่น เราจะรวบรวมข้อมูลนี้เกี่ยวกับ ปุ่มย้อนกลับ ซึ่งเป็นปุ่มลูกศรที่อยู่มุมซ้ายบนของเบราว์เซอร์ซึ่งช่วยให้คุณนำทางกลับไปยังหน้าเว็บก่อนหน้าซึ่งดูว่าแต่ละคนใช้ปุ่มย้อนกลับอย่างไร แต่จะไม่ระบุว่ามีการเข้าถึงหน้าเว็บใดบ้าง
 
 
 ;Do you collect more data in pre-release versions of Firefox?
@@ -116,24 +118,24 @@ The second is what we call "interaction data." This is data about an individual'
 
 
 ;Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
-Sort-of. In addition to the data described above, we receive crash and error reports by default in pre-release version of Firefox.
+นอกจากข้อมูลที่เราอธิบายข้างต้น เราก็รับรายงานเกี่ยวกับการล่มและข้อผิดพลาดตามค่าเริ่มต้นใน Firefox รุ่นก่อนเปิดตัว
 
 
 # Links to https://support.mozilla.org/kb/shield
 ;We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
-We may also collect additional data in pre-release for one of our <a href="%(link)s">studies</a>. For example, some studies require what we call “web activity data” data, which may include URLs and other information about certain websites. This helps us answer specific questions to improve Firefox, for example, how to better integrate popular websites in specific locales.
+เราอาจรวบรวมข้อมูลเพิ่มเติมในรุ่นก่อนเปิดตัวเพื่อจุดประสงค์การ<a href="%(link)s">การศึกษา</a>ประการใดประการหนึ่งของเรา เช่น การศึกษาบางประการต้องการสิ่งที่เราเรียกว่า “ข้อมูลกิจกรรมเว็บ” ซึ่งอาจรวมถึง URL และข้อมูลอื่น ๆ เกี่ยวกับเว็บไซต์บางแห่ง สิ่งนี้ช่วยให้เราตอบคำถามบางข้อเพื่อนำไปใช้ปรับปรุง Firefox ได้ เช่น วิธีการรวมเว็บไซต์ยอดนิยมที่ดีกว่าในแต่ละรุ่นภาษา
 
 
 ;Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
-Mozilla’s pre-release versions of Firefox are development platforms, frequently updated with experimental features. We collect more data in pre-release than what we do after release in order to understand how these experimental features are working. You can opt out of having this data collected in preferences.
+Firefox รุ่นก่อนเปิดตัวของ Mozilla เป็นแพล็ตฟอร์มการพัฒนาซึ่งมีการอัปเดตบ่อยครั้งด้วยคุณลักษณะทดลอง โดยเราจะรวบรวมข้อมูลในรุ่นก่อนเปิดตัวมากกว่าในรุ่นที่เปิดตัวแล้วเพื่อให้เราเข้าใจว่าคุณลักษณะทดลองเหล่านี้ทำงานอย่างไร คุณสามารถเลือกไม่ให้รวบรวมข้อมูลนี้ได้ในค่ากำหนด
 
 
 ;But why do you collect any data at all?
-But why do you collect any data at all?
+แล้วทำไมคุณต้องรวบรวมข้อมูลต่าง ๆ ด้วย?
 
 
 ;If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
-If we don’t know how the browser is performing or which features people use, we can’t make it better and deliver the great product you want. We’ve invested in building data collection and analysis tools that allow us to make smart decisions about our product while respecting people's privacy.
+หากเราไม่ทราบว่าเบราว์เซอร์ทำงานอย่างไรหรือผู้คนใช้คุณลักษณะใดบ้าง เราคงไม่สามารถทำให้ผลิตภัณฑ์ของเราดีขึ้นและส่งมอบผลิตภัณฑ์ที่ยอดเยี่ยมที่คุณต้องการได้ เราได้ลงทุนสร้างเครื่องมือรวบรวมและวิเคราะห์ข้อมูลที่ช่วยให้เราตัดสินใจเกี่ยวกับผลิตภัณฑ์ของเราได้อย่างชาญฉลาดขณะที่เคารพความเป็นส่วนตัวของผู้คนด้วย
 
 
 ;Data collection still bugs me. Can I turn it off?
@@ -143,7 +145,7 @@ If we don’t know how the browser is performing or which features people use, w
 # First URL links to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 # Second URL links to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
 ;Yes. User control is one of our data privacy principles. We put that into practice in Firefox on our <a href="%(settings)s">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in Firefox. You can <a href="%(data)s">turn off data collection</a> there.
-Yes. User control is one of our data privacy principles. We put that into practice in Firefox on our <a href="%(settings)s">privacy settings page</a>, which serves as a one-stop shop for anyone looking to take control of their privacy in Firefox. You can <a href="%(data)s">turn off data collection</a> there.
+ใช่ การควบคุมผู้ใช้เป็นหนึ่งในหลักการความเป็นส่วนตัวของข้อมูลของเรา เรานำสิ่งนี้ไปใช้ใน Firefox บน<a href="%(settings)s">หน้าการตั้งค่าความเป็นส่วนตัว</a> ซึ่งทุกคนสามารถควบคุมความเป็นส่วนตัวใน Firefox ตามที่ต้องการได้จากที่นั่นเพียงที่เดียว ซึ่งคุณสามารถ <a href="%(data)s">ปิดการรวบรวมข้อมูล</a>ได้จากที่นั่น
 
 
 ;What about my account data?
@@ -151,20 +153,20 @@ Yes. User control is one of our data privacy principles. We put that into practi
 
 
 ;We are big believers of data minimization and not asking for things we don't need.
-We are big believers of data minimization and not asking for things we don't need.
+เราเชื่อมั่นในเรื่องการเก็บข้อมูลให้น้อยที่สุดและจะไม่ขอสิ่งที่เราไม่ต้องการ
 
 
 ;You don't need an account to use Firefox. <a href="%(accounts)s">Accounts</a> are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
-You don't need an account to use Firefox. <a href="%(accounts)s">Accounts</a> are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
+คุณไม่จำเป็นต้องมีบัญชีเพื่อใช้ Firefox แต่จำเป็นต้องใช้<a href="%(accounts)s">บัญชี</a>เพื่อซิงค์ข้อมูลระหว่างอุปกรณ์ แต่เราจะขอที่อยู่อีเมลจากคุณเท่านั้น เราไม่ต้องการทราบสิ่งต่าง ๆ เช่น ชื่อ ที่อยู่ วันเกิด และหมายเลขโทรศัพท์ของคุณ
 
 
 # String is obsolete. Do not remove.
 ;You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
-You don't need an account to use Firefox. Accounts are required to sync data across devices, but we only ask you for an email address. We don't want to know things like your name, address, birthday and phone number.
+คุณไม่จำเป็นต้องมีบัญชีเพื่อใช้ Firefox แต่จำเป็นต้องใช้บัญชีเพื่อซิงค์ข้อมูลระหว่างอุปกรณ์ แต่เราจะขอที่อยู่อีเมลจากคุณเท่านั้น เราไม่ต้องการทราบสิ่งต่าง ๆ เช่น ชื่อ ที่อยู่ วันเกิด และหมายเลขโทรศัพท์ของคุณ
 
 
 ;You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
-You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
+คุณใช้การโฆษณาดิจิทัลเป็นส่วนหนึ่งของส่วนประสมทางการตลาดของคุณ คุณซื้อข้อมูลของผู้คนเพื่อกำหนดเป้าหมายโฆษณาออนไลน์ของคุณให้ดีขึ้นใช่หรือไม่?
 
 
 ;No, we do not buy people's data to target advertising.
@@ -172,11 +174,11 @@ You use digital advertising as part of your marketing mix. Do you buy people's d
 
 
 ;We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
-We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
+เราขอให้พาร์ทเนอร์โฆษณาของเราใช้เฉพาะข้อมูลบุคคลที่หนึ่งที่เว็บไซต์และผู้เผยแพร่ทราบเกี่ยวกับผู้ใช้ทั้งหมด เช่น เบราว์เซอร์ที่คุณใช้ และอุปกรณ์ที่คุณใช้
 
 
 ;Well, it seems like you really have my back on this privacy stuff.
-Well, it seems like you really have my back on this privacy stuff.
+ดูเหมือนว่าคุณจะสนับสนุนฉันในเรื่องความเป็นส่วนตัว
 
 
 ;Yes, we do.

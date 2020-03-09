@@ -17,7 +17,7 @@ Jämför Firefox webbläsare med Microsoft Internet Explorer
 
 
 ;While Microsoft’s Internet Explorer still comes pre-installed on most Windows-based PCs, clearly Microsoft would prefer you to use their Edge browser, which is set as the default when you purchase.
-While Microsoft’s Internet Explorer still comes pre-installed on most Windows-based PCs, clearly Microsoft would prefer you to use their Edge browser, which is set as the default when you purchase.
+Medan Microsofts Internet Explorer fortfarande är förinstallerat på de flesta Windows-baserade datorer, klart är att Microsoft föredrar att du använder deras Edge-webbläsare, som är inställd som standard när du köper.
 
 
 ;Microsoft discontinued its Internet Explorer brand several years ago, in favor of its updated Edge browser for Windows 10. However, slow adoption for Edge created room for Internet Explorer to live on, mainly for business compatibility reasons.
@@ -25,11 +25,11 @@ Microsoft slutade med sitt Internet Explorer-varumärke för flera år sedan, ti
 
 
 ;Here we’ll compare our Firefox Browser with Internet Explorer in terms of security, utility, and portability. We’ll help you understand the differences between how a modern browser like Firefox that adheres to web standards compares with the browser you may be using for business purposes or out of old habits that die hard.
-Here we’ll compare our Firefox Browser with Internet Explorer in terms of security, utility, and portability. We’ll help you understand the differences between how a modern browser like Firefox that adheres to web standards compares with the browser you may be using for business purposes or out of old habits that die hard.
+Här jämför vi vår Firefox webbläsare med Internet Explorer när det gäller säkerhet, verktyg och portabilitet. Vi hjälper dig att förstå skillnaderna mellan hur en modern webbläsare som Firefox som följer webbstandarder jämfört med en webbläsare du kanske använder för affärsändamål eller av gamla vanor.
 
 
 ;If you haven’t moved on from using Internet Explorer, the security risk factor alone should be enough to convince you. <a %(attrs)s>Microsoft’s own security chief has warned</a> millions of people who continue to use Internet Explorer as their main web browser that they are placing themselves in “peril.”
-If you haven’t moved on from using Internet Explorer, the security risk factor alone should be enough to convince you. <a %(attrs)s>Microsoft’s own security chief has warned</a> millions of people who continue to use Internet Explorer as their main web browser that they are placing themselves in “peril.”
+Om du inte har slutat använda Internet Explorer borde säkerhetsriskfaktorn enbart räcka för att övertyga dig att byta. <a %(attrs)s>Microsofts egen säkerhetschef har varnat</a> miljoner människor som fortsätter att använda Internet Explorer som sin huvudsakliga webbläsare att de placerar sig själva i "fara".
 
 
 ;Microsoft is no longer supporting new development for Internet Explorer, which means security concerns are rampant. Microsoft openly acknowledges the fact that vulnerabilities exist within basically every version of Internet Explorer.
@@ -58,16 +58,16 @@ As Microsoft has made the move to sunset the Internet Explorer browser, it no lo
 
 
 ;Firefox works on any platform, including Windows, macOS, Linux, Android and iOS. Which also means you can sync all your information across platforms. So if you’re browsing on a Windows-based laptop, you can pick up where you left off when you move to browsing on your iPhone or Android device. This convenience should come standard with any modern web browser, and is sorely lacking with Internet Explorer.
-Firefox works on any platform, including Windows, macOS, Linux, Android and iOS. Which also means you can sync all your information across platforms. So if you’re browsing on a Windows-based laptop, you can pick up where you left off when you move to browsing on your iPhone or Android device. This convenience should come standard with any modern web browser, and is sorely lacking with Internet Explorer.
+Firefox fungerar på alla plattformar, inklusive Windows, macOS, Linux, Android och iOS. Vilket innebär också att du kan synkronisera all information mellan plattformar. Så om du surfar på en Windows-baserad bärbar dator kan du plocka upp var du slutade när du flyttar till surfning på din iPhone eller Android-enhet. Denna bekvämlighet bör levereras som standard med alla moderna webbläsare och saknas verkligen i Internet Explorer.
 
 
 ;There was a time not so long ago where Internet Explorer was the most popular and widely used browser in the world. Times have changed and so has technology, but unfortunately Internet Explorer has pretty much stayed the same. Microsoft itself openly implores users to stop using Internet Explorer and instead switch to their newer Chromium-based Edge browser.
-There was a time not so long ago where Internet Explorer was the most popular and widely used browser in the world. Times have changed and so has technology, but unfortunately Internet Explorer has pretty much stayed the same. Microsoft itself openly implores users to stop using Internet Explorer and instead switch to their newer Chromium-based Edge browser.
+Det fanns en tid för inte så länge sedan där Internet Explorer var den mest populära och mest använda webbläsaren i världen. Tiderna har förändrats och det har också tekniken, men tyvärr har Internet Explorer stannat i tiden. Microsoft ber själv öppet användare att sluta använda Internet Explorer och istället byta till sin nyare Chromium-baserade Edge-webbläsare.
 
 
 # "Nana" is a common nickname for a grandmother in many English-speaking countries. Use a similar name for a grandmother in your language or culture.
 ;Our opinion is just to go with a trusted, private browser with a track record of delivering a great experience across devices. In a head-to-head comparison, it’s really no contest at all. Firefox is hands down the winner across all assessment categories. If you do find yourself at Nana’s house firing up Internet Explorer, maybe you want to do Nana a favor and <a %(attrs)s>download Firefox</a> for her.
-Our opinion is just to go with a trusted, private browser with a track record of delivering a great experience across devices. In a head-to-head comparison, it’s really no contest at all. Firefox is hands down the winner across all assessment categories. If you do find yourself at Nana’s house firing up Internet Explorer, maybe you want to do Nana a favor and <a %(attrs)s>download Firefox</a> for her.
+Vår åsikt är bara att använda en pålitlig, privat webbläsare med en historia att leverera en fantastisk upplevelse mellan enheter. I en head-to-head jämförelse, det är verkligen ingen tävling alls. Firefox är vinnaren i alla utvärderingskategorier. Om du befinner dig i Nana's hus som använder Internet Explorer, kanske du vill göra Nana en tjänst och <a %(attrs)s>hämta Firefox</a> till henne.
 
 
 ;The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Internet Explorer (11)

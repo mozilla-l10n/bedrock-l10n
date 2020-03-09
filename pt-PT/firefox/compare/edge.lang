@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
 
@@ -17,87 +18,87 @@ Comparando o navegador Firefox com o Microsoft Edge
 
 
 ;With Windows 10, Microsoft introduced its Edge browser to compete with Firefox and Chrome making it the default browser pre-installed on millions of PCs sold. Even so, users were slow to adopt it and Microsoft eventually announced plans to relaunch Edge as a Chromium-based browser (Chromium of course being Google’s Open Source browser project).
-With Windows 10, Microsoft introduced its Edge browser to compete with Firefox and Chrome making it the default browser pre-installed on millions of PCs sold. Even so, users were slow to adopt it and Microsoft eventually announced plans to relaunch Edge as a Chromium-based browser (Chromium of course being Google’s Open Source browser project).
+Com o Windows 10, a Microsoft lançou o seu navegador Edge para competir com o Firefox e o Chrome, tornando-o o navegador predefinido e pré-instalado em milhões de PC vendidos. Mesmo assim, os utilizadores demoraram a adotá-lo e a Microsoft finalmente anunciou planos de relançar o Edge como um navegador baseado no Chromium (o Chromium é o projeto de navegador de código aberto do Google).
 
 
 ;Here we’ll compare our Firefox Browser to the Chromium-based Microsoft Edge in terms of privacy, utility, and portability, to help you have a better understanding of which browser better suits your needs and preferences.
-Here we’ll compare our Firefox Browser to the Chromium-based Microsoft Edge in terms of privacy, utility, and portability, to help you have a better understanding of which browser better suits your needs and preferences.
+Aqui, iremos comparar o nosso navegador Firefox com o Microsoft Edge baseado no Chromium em termos de privacidade, utilidade e portabilidade, para o ajudar a entender melhor qual é o navegador que melhor se adapta às suas necessidades e preferências.
 
 
 ;Edge is integrated into the Windows 10 platform and runs in a sandbox environment, meaning it isolates programs and prevents malicious programs from spying on your computer. It has a built-in SmartScreen that scans the reputation of sites you visit and blocks suspicious sites. To enhance privacy, Edge allows you to use biometrics or a PIN with Windows Hello instead of passwords for online authentication.
-Edge is integrated into the Windows 10 platform and runs in a sandbox environment, meaning it isolates programs and prevents malicious programs from spying on your computer. It has a built-in SmartScreen that scans the reputation of sites you visit and blocks suspicious sites. To enhance privacy, Edge allows you to use biometrics or a PIN with Windows Hello instead of passwords for online authentication.
+O Edge está integrado na plataforma Windows 10 e é executado num ambiente sandbox, o que significa que isola programas e evita que programas maliciosos espiem o seu computador. Ele possui um SmartScreen incorporado que verifica a reputação dos sites visitados e bloqueia sites suspeitos. Para melhorar a privacidade, o Edge permite usar biometria ou um PIN com o Windows Hello em vez de palavras-passe, para autenticação na Internet.
 
 
 ;However, Edge saves some of your private data and sends it back to Microsoft with Windows updates. At 45 cryptically worded pages long, the privacy policy for Edge is unlikely to be read or understood by the average user.
-However, Edge saves some of your private data and sends it back to Microsoft with Windows updates. At 45 cryptically worded pages long, the privacy policy for Edge is unlikely to be read or understood by the average user.
+No entanto, o Edge guarda alguns dos seus dados privados e envia-os para a Microsoft com atualizações do Windows. Com 45 páginas de palavras de linguagem complexa, é pouco provável que a política de privacidade do Edge seja lida ou compreendida pelo utilizador comum.
 
 
 ;At Firefox, our <a %(attrs)s>privacy policy</a> is transparent and in plain language. We actually put a lot of work into making sure it was straightforward and easy to read. We pride ourselves in protecting our users security and privacy. With Enhanced Tracking Protection now on by default, we block 2000+ trackers automatically. Trackers are those little pieces of code that try to piece together what you're doing across multiple internet sites to build a composite and detailed picture of who you are, compromising your privacy all just to target better ads.
-At Firefox, our <a %(attrs)s>privacy policy</a> is transparent and in plain language. We actually put a lot of work into making sure it was straightforward and easy to read. We pride ourselves in protecting our users security and privacy. With Enhanced Tracking Protection now on by default, we block 2000+ trackers automatically. Trackers are those little pieces of code that try to piece together what you're doing across multiple internet sites to build a composite and detailed picture of who you are, compromising your privacy all just to target better ads.
+No Firefox, a nossa <a %(attrs)s>política de privacidade</a> é transparente e está numa linguagem simples. Na verdade, fizemos um esforço significativo para garantir que esta fosse simples e fácil de ler. Orgulhamo-nos de proteger a segurança e a privacidade dos nossos utilizadores. Com a proteção melhorada contra a monitorização agora ativada por padrão, bloqueamos automaticamente mais de 2000 rastreadores. Os rastreadores são aqueles pequenos pedaços de código que tentam reunir informação sobre o que faz em vários sites na Internet para criar uma imagem completa e detalhada de si, comprometendo a sua privacidade apenas para lhe direcionar anúncios mais eficazes.
 
 
 ;Your <a %(attrs)s>Privacy Protections</a> shows you the trackers and cookies that pages have attempted to leave, and how many Firefox has blocked for you.
-Your <a %(attrs)s>Privacy Protections</a> shows you the trackers and cookies that pages have attempted to leave, and how many Firefox has blocked for you.
+As suas <a %(attrs)s>proteções de privacidade</a> mostram os rastreadores e cookies que as páginas tentaram deixar e quantos o Firefox bloqueou para si.
 
 
 ;In Firefox, Private Browsing mode automatically erases your browsing information like passwords, cookies, and history, leaving no trace after you close out the session. Edge on the other hand, actually records browsing history in their private mode (called “InPrivate”) and it’s a relatively easy task for someone to reconstruct your full browsing history, regardless of whether your browsing was done in regular or InPrivate mode.
-In Firefox, Private Browsing mode automatically erases your browsing information like passwords, cookies, and history, leaving no trace after you close out the session. Edge on the other hand, actually records browsing history in their private mode (called “InPrivate”) and it’s a relatively easy task for someone to reconstruct your full browsing history, regardless of whether your browsing was done in regular or InPrivate mode.
+No Firefox, o modo Navegação privada apaga automaticamente as informações de navegação, como palavras-passe, cookies e histórico, sem deixar rastro, após o encerramento da sessão. O Edge, por outro lado, regista o histórico de navegação no modo privado (denominado de "InPrivate") e é uma tarefa relativamente fácil, alguém reconstruir o seu histórico de navegação completo, independentemente da sua navegação ter sido feita no modo normal ou no InPrivate.
 
 
 ;Both browsers are relatively equal in terms of data encryption. However, if online privacy and transparency are important to you, then Firefox is clearly a better choice here.
-Both browsers are relatively equal in terms of data encryption. However, if online privacy and transparency are important to you, then Firefox is clearly a better choice here.
+Ambos os navegadores são relativamente iguais em termos de criptografia de dados. No entanto, se a privacidade e a transparência na Internet são importantes para si, o Firefox é claramente uma opção melhor.
 
 
 ;Firefox is a fast and open source browser, which means users can customize their browsing experience in every way possible. Firefox also allows the casual user several different ways to customize the UI with applying different themes and toolbar configurations. Since our browser has always been open source we have a large following of devoted developers who have created an extensive library of add-ons and browser extensions.
-Firefox is a fast and open source browser, which means users can customize their browsing experience in every way possible. Firefox also allows the casual user several different ways to customize the UI with applying different themes and toolbar configurations. Since our browser has always been open source we have a large following of devoted developers who have created an extensive library of add-ons and browser extensions.
+O Firefox é um navegador rápido e de código aberto, o que significa que os utilizadores podem personalizar a sua experiência de navegação de todas as formas possíveis. O Firefox também permite ao utilizador comum utilizar várias maneiras diferentes de personalizar a interface do utilizador, com a aplicação de diferentes configurações de temas e da barra de ferramentas. Como o nosso navegador sempre foi de código aberto, temos muitos programadores dedicados que criaram uma extensa biblioteca de extras e extensões para o navegador.
 
 
 ;Since Edge has moved to the processor intensive Chromium platform, you can expect it to run a little slower, especially if you have multiple programs running at once. However, with Chromium platform comes a massive library of extensions as well as a decent level of UI customization that Edge did not have before it’s move to Chromium.
-Since Edge has moved to the processor intensive Chromium platform, you can expect it to run a little slower, especially if you have multiple programs running at once. However, with Chromium platform comes a massive library of extensions as well as a decent level of UI customization that Edge did not have before it’s move to Chromium.
+Como o Edge mudou para a plataforma Chromium com uma utilização intensiva do processador, pode esperar que este seja um pouco mais lento, especialmente se tiver vários programas em execução em simultâneo. No entanto, com a plataforma Chromium, existe uma enorme biblioteca de extensões e um nível decente de personalização da interface do utilizador que o Edge não possuía antes de migrar para o Chromium.
 
 
 ;Edge has some nice UI features, like their tab previews which can make it easy to find the right open tabs if you’ve got a lot of them open. Another helpful tab-related feature lets you set aside any active tabs that you aren’t using but don’t want to close down.
-Edge has some nice UI features, like their tab previews which can make it easy to find the right open tabs if you’ve got a lot of them open. Another helpful tab-related feature lets you set aside any active tabs that you aren’t using but don’t want to close down.
+O Edge tem alguns recursos interessantes na interface do utilizador, como as pré-visualizações de separadores que, se tiver muitos abertos, podem facilitar a correta localização dos mesmos. Outro recurso útil relacionado os separadores permite que você deixe de lado os separadores abertos que não esteja a utilizar mas que não pretenda fechar.
 
 
 ;Firefox features a scrolling tab interface, which keeps tab information viewable and scrolls them horizontally instead of shrinking them down to just favicon size. Also whenever you open a new tab, our <a %(attrs)s>Pocket feature</a> suggests relevant articles and content for you. Plus with Pocket, you can also save articles, videos, and other content with one click, for reading at a later time.
-Firefox features a scrolling tab interface, which keeps tab information viewable and scrolls them horizontally instead of shrinking them down to just favicon size. Also whenever you open a new tab, our <a %(attrs)s>Pocket feature</a> suggests relevant articles and content for you. Plus with Pocket, you can also save articles, videos, and other content with one click, for reading at a later time.
+O Firefox possui uma interface de deslocamento de separadores, que mantém as informações dos separadores visíveis e os desloca horizontalmente, em vez de os reduzir ao tamanho de um favicon. Além disso, sempre que abre um novo separador, a nossa <a %(attrs)s>funcionalidade do Pocket</a> sugere artigos e conteúdos relevantes para si. Além disto, com o Pocket e apenas com um clique, também pode guardar artigos, vídeos e outros conteúdos para ver mais tarde.
 
 
 ;Firefox and Edge both offer excellent reading modes. With Firefox you just tap on the small icon in the search bar and the browser strips down all unnecessary elements and presents you a clean looking article. In Edge you just tap on the small book icon and browser to get a clean easy-to-read UI.
-Firefox and Edge both offer excellent reading modes. With Firefox you just tap on the small icon in the search bar and the browser strips down all unnecessary elements and presents you a clean looking article. In Edge you just tap on the small book icon and browser to get a clean easy-to-read UI.
+O Firefox e Edge oferecem excelentes modos de leitura. Com o Firefox, basta tocar no pequeno ícone na barra de pesquisa e o navegador retira todos os elementos desnecessários, apresentando um artigo de aparência simples e limpa. No Edge, basta tocar no ícone pequeno do livro e do navegador para obter uma interface limpa e de fácil leitura.
 
 
 ;Firefox also includes lots of handy built-in features by default like <a %(attrs)s>Enhanced Tracking Protection</a>, a built-in screenshot tool, large file sending and more.
-Firefox also includes lots of handy built-in features by default like <a %(attrs)s>Enhanced Tracking Protection</a>, a built-in screenshot tool, large file sending and more.
+O Firefox também inclui muitos recursos úteis, por padrão, como <a %(attrs)s>Proteção melhorada contra a monitorização</a>, uma ferramenta integrada de captura de ecrã, o envio de ficheiros grandes e muito mais.
 
 
 # "Out of the gate" means from the very start. Alternative: "From the start,". Race horses are held behind a gate that is opened to release all the horses at the same time at the start of the race, so a horse that leads the race from the very start is said to lead "right out of the gate."
 ;Out of the gate, Firefox has more features and integrations built into the browser and readily available on download. And while both browsers have a tremendous number of add-ons and extensions available, Edge’s compatibility with Google’s Chromium platform gives it the advantage in terms of sheer numbers.
-Out of the gate, Firefox has more features and integrations built into the browser and readily available on download. And while both browsers have a tremendous number of add-ons and extensions available, Edge’s compatibility with Google’s Chromium platform gives it the advantage in terms of sheer numbers.
+Por si só, o Firefox tem mais recursos e integrações incorporadas no navegador e imediatamente disponíveis após a transferência. E, embora ambos os navegadores tenham um grande número de extras e extensões disponíveis, a compatibilidade do Edge com a plataforma Chromium do Google oferece uma vantagem em termos de números absolutos.
 
 
 ;With Internet Explorer, Microsoft learned from its lack of availability across platforms and made Edge available for macOS and Android. The software is now readily available on iOS, Android, Windows and Mac.
-With Internet Explorer, Microsoft learned from its lack of availability across platforms and made Edge available for macOS and Android. The software is now readily available on iOS, Android, Windows and Mac.
+Com o Internet Explorer, a Microsoft aprendeu com a não-disponibilização da solução em várias plataformas e disponibilizou o Edge para macOS e Android. O software já está disponível no iOS, Android, Windows e Mac.
 
 
 ;Firefox has been available on iOS, Android, Windows, macOS and Linux for years. And as you would expect with any modern browser, Firefox lets you log in with a <a %(attrs)s>free account</a> and sync data such as passwords, browsing history, bookmarks, and open tabs between your computer, tablet and phone. It also allows you to sync across platforms as well.
-Firefox has been available on iOS, Android, Windows, macOS and Linux for years. And as you would expect with any modern browser, Firefox lets you log in with a <a %(attrs)s>free account</a> and sync data such as passwords, browsing history, bookmarks, and open tabs between your computer, tablet and phone. It also allows you to sync across platforms as well.
+O Firefox está disponível no iOS, Android, Windows, macOS e Linux há vários anos. E como seria de esperar em qualquer navegador moderno, o Firefox permite que inicie sessão com uma <a %(attrs)s>conta gratuita</a> e sincronize dados como palavras-passe, histórico de navegação, marcadores e separadores abertos entre o computador, tablet e telefone. Também permite que sincronize entre as várias plataformas.
 
 
 ;Edge also allows you to connect your associated Microsoft account and sign in to sync your favorites, history, passwords, and more between your computer and iOS or Android devices, although some Android tablets are not currently supported.
-Edge also allows you to connect your associated Microsoft account and sign in to sync your favorites, history, passwords, and more between your computer and iOS or Android devices, although some Android tablets are not currently supported.
+O Edge também permite que associe a sua conta Microsoft e que inicie sessão para sincronizar os seus favoritos, histórico, palavras-passe e muito mais entre o seu computador e dispositivos iOS ou Android, embora alguns tablets Android não sejam atualmente suportados.
 
 
 ;Aside from sucking up a lot of computing power, Edge running on Chromium has answered a lot of users’ needs for functionality and features. But there’s still a lot to account for in terms of the browser’s privacy protections. It’s our assessment that Firefox is still a better choice for most people to use in their daily lives, based not only on functionality but more importantly on our transparency in how we collect user data, what exactly we collect, and what we do with it. Because our parent company is <a %(attrs)s>Mozilla</a>, a non-profit organization dedicated to internet privacy and freedom, we simply have a different set of priorities when it comes to users’ data.
-Aside from sucking up a lot of computing power, Edge running on Chromium has answered a lot of users’ needs for functionality and features. But there’s still a lot to account for in terms of the browser’s privacy protections. It’s our assessment that Firefox is still a better choice for most people to use in their daily lives, based not only on functionality but more importantly on our transparency in how we collect user data, what exactly we collect, and what we do with it. Because our parent company is <a %(attrs)s>Mozilla</a>, a non-profit organization dedicated to internet privacy and freedom, we simply have a different set of priorities when it comes to users’ data.
+Apesar de consumir muito poder de computação, o Edge baseado no Chromium deu resposta a muitas das necessidades de funcionalidades dos utilizadores. Mas ainda há muito para ter em consideração em termos das proteções de privacidade do navegador. A nossa avaliação diz que o Firefox ainda é uma escolha melhor para a maioria das pessoas, com base não apenas na funcionalidade mas, mais importante, na nossa transparência na maneira como recolhemos dados do utilizador, exatamente o que recolhemos e o que fazemos com os mesmos. Como nossa empresa-mãe é a <a %(attrs)s>Mozilla</a>, uma organização sem fins lucrativos dedicada à privacidade e liberdade da Internet, temos um conjunto de prioridades diferentes no que diz respeito aos dados dos utilizadores.
 
 
 ;The bottom line is that while we suggest using Firefox, the best browser for you ultimately will be the one that fits your individual needs with extension support, browsing tools customization, speed, privacy and security.
-The bottom line is that while we suggest using Firefox, the best browser for you ultimately will be the one that fits your individual needs with extension support, browsing tools customization, speed, privacy and security.
+Em suma, embora a nossa sugestão seja a utilização do Firefox, o melhor navegador para si será o que melhor dê resposta às suas necessidades específicas, com o suporte a extensões, personalização de ferramentas de navegação, velocidade, privacidade e segurança.
 
 
 ;The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Edge (44)
-The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Edge (44)
+As comparações aqui apresentadas foram efetuadas nas versões disponibilizadas dos seguintes navegadores:<br> Firefox (70) | Edge (44)
 
 

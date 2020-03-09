@@ -50,7 +50,7 @@ As far as security goes, Firefox is solid there as well. Any time you’re in Fi
 
 
 ;In addition to the regular set of features you’d expect in a browser, such as tabbed browsing and private browsing, Safari has some unexpected features as well. For instance, if a user were to right-click a word anywhere on a page inside Safari, then click Look Up, they’d get a dictionary definition plus entries from the thesaurus, App Store, movies and more. Safari’s Parental Controls are easy to customize, allowing the adults to breathe a little easier when the kids begin to get curious about the internet.
-In addition to the regular set of features you’d expect in a browser, such as tabbed browsing and private browsing, Safari has some unexpected features as well. For instance, if a user were to right-click a word anywhere on a page inside Safari, then click Look Up, they’d get a dictionary definition plus entries from the thesaurus, App Store, movies and more. Safari’s Parental Controls are easy to customize, allowing the adults to breathe a little easier when the kids begin to get curious about the internet.
+Safari 除了您在浏览器中所期望的常规功能（如标签页浏览和隐私浏览）外，还提供了一些额外功能。例如，用户可在 Safari 页面内右键点击任意位置的字/词，然后选择“查询”，即可获得字典定义与相关词条、App Store、电影等的条目。Safari 的“家长控制”功能易于定制，当孩子们开始对互联网感到好奇时，成人可以放心从容。
 
 
 ;Like Safari, Firefox encourages its enthusiastic developer community to create <a %(attrs)s>add-ons and extensions</a> to the browser. And since our platform is open-source, there’s a vast selection adding a wealth of functionality.
@@ -70,15 +70,15 @@ Both browsers have a lot of crossover features, as well as some unique functions
 
 
 ;Firefox also offers a similar sync feature when you sign up for a free <a %(attrs)s>Firefox Account</a> that enables users to easily synchronize their bookmarks, browsing history, preferences, passwords, filled forms, add-ons, and the last 25 opened tabs across multiple computers. What sets Firefox apart from Safari is that it is available on any desktop or mobile platform, iOS, Android, Windows or macOS, boosting its portability across any device you may own.
-Firefox also offers a similar sync feature when you sign up for a free <a %(attrs)s>Firefox Account</a> that enables users to easily synchronize their bookmarks, browsing history, preferences, passwords, filled forms, add-ons, and the last 25 opened tabs across multiple computers. What sets Firefox apart from Safari is that it is available on any desktop or mobile platform, iOS, Android, Windows or macOS, boosting its portability across any device you may own.
+Firefox 也提供了类似的同步功能，只需您创建一个免费的 <a %(attrs)s>Firefox 账户</a>，便可以轻松地在多台设备间同步书签、浏览历史、首选项、密码、表单信息、附加组件和最近打开的标签页（25 个）。Firefox 与 Safari 的不同之处在于，它可以在任何桌面或移动平台——iOS、Android、Windows、Linux 或 macOS 上皆可使用，跨平台性绝佳。
 
 
 ;The Firefox app for <a %(ios)s>iOS</a> and <a %(android)s>Android</a> is one of the fastest browsers available and also has solid security and anti-tracking features — a huge plus if you’re constantly bouncing between a laptop and mobile devices.
-The Firefox app for <a %(ios)s>iOS</a> and <a %(android)s>Android</a> is one of the fastest browsers available and also has solid security and anti-tracking features — a huge plus if you’re constantly bouncing between a laptop and mobile devices.
+适用于 <a %(ios)s>iOS</a> 和 <a %(android)s>Android</a> 的 Firefox 应用程序是目前最快的浏览器之一，并拥有可靠的安全性和反跟踪功能——如果您常在笔记本电脑和移动设备之间切换，更是如虎添翼。
 
 
 ;Since Safari is Apple’s proprietary web browser, its iCloud syncing works exclusively with Apple products. This can be somewhat limiting if, for example, you’re both an Android user and an iPhone user or if you have a Windows based PC for work but use an iPhone as your personal device.
-Since Safari is Apple’s proprietary web browser, its iCloud syncing works exclusively with Apple products. This can be somewhat limiting if, for example, you’re both an Android user and an iPhone user or if you have a Windows based PC for work but use an iPhone as your personal device.
+由于 Safari 是 Apple 的自有网络浏览器，它的 iCloud 同步只能在 Apple 产品上工作。例如，如果您同时是 Android 和 iPhone 用户，或者有一台 Windows 系统 PC，而不是只使用 iPhone，数据同步就会存在一定限制。
 
 
 ;Safari does a great job of making the browsing experience simple, fast, and seamless if you’re an Apple user with multiple Apple products. Like Safari, Firefox is a fast and utilitarian browser, but privacy and cross-platform compatibility are our defining features. Firefox updates each month with new features and functionality. For example, one recent update switched on our <a %(attrs)s>Enhanced Tracking Protection (ETP)</a> by default for new users, which effectively blocks cookies and cross-site trackers.
