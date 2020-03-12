@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/browsers/compare/ie/
 
 
@@ -49,7 +50,7 @@ Thực sự lý do duy nhất để sử dụng Internet Explorer là để các
 
 
 ;On the other end of the spectrum, Firefox is one of the most frequently updated browsers, and comes loaded with lots of useful and interesting features, like <a %(pocket)s>Pocket</a> that suggests interesting content every time you open a new tab. Our unified search and web address bar, or <em>Awesome Bar</em> as we call it, also gives you suggestions based on your existing bookmarks and tags, history, open tabs and popular searches. And with a free Firefox account you also get access to all your settings and <a %(products)s>our other Firefox products</a> on any device simply by signing in. Plus the peace of mind of knowing your browser is proactively working to protect your personal data.
-On the other end of the spectrum, Firefox is one of the most frequently updated browsers, and comes loaded with lots of useful and interesting features, like <a %(pocket)s>Pocket</a> that suggests interesting content every time you open a new tab. Our unified search and web address bar, or <em>Awesome Bar</em> as we call it, also gives you suggestions based on your existing bookmarks and tags, history, open tabs and popular searches. And with a free Firefox account you also get access to all your settings and <a %(products)s>our other Firefox products</a> on any device simply by signing in. Plus the peace of mind of knowing your browser is proactively working to protect your personal data.
+Mặt khác, Firefox là một trong những trình duyệt được cập nhật thường xuyên nhất và được tích hợp rất nhiều tính năng hữu ích và thú vị, như <a %(pocket)s>Pocket</a> gợi ý nội dung thú vị mỗi khi bạn mở một thẻ mới. Thanh tìm kiếm và địa chỉ web hợp nhất của chúng tôi, cũng cung cấp cho bạn các đề xuất dựa trên dấu trang và thẻ hiện có, lịch sử, thẻ đang mở và tìm kiếm phổ biến. Và với tài khoản Firefox miễn phí, bạn cũng có quyền truy cập vào tất cả các cài đặt của mình và <a %(products)s>các sản phẩm Firefox khác của chúng tôi</a> trên bất kỳ thiết bị nào chỉ bằng cách đăng nhập. Cộng với sự an tâm khi biết trình duyệt của bạn là chủ động làm việc để bảo vệ dữ liệu cá nhân của bạn.
 
 
 # "sunset" here means Microsoft is officially ending production of Internet Explorer. Alternative: "retire"
@@ -58,19 +59,19 @@ Vì Microsoft sẽ không còn phát triển trình duyệt Internet Explorer, n
 
 
 ;Firefox works on any platform, including Windows, macOS, Linux, Android and iOS. Which also means you can sync all your information across platforms. So if you’re browsing on a Windows-based laptop, you can pick up where you left off when you move to browsing on your iPhone or Android device. This convenience should come standard with any modern web browser, and is sorely lacking with Internet Explorer.
-Firefox works on any platform, including Windows, macOS, Linux, Android and iOS. Which also means you can sync all your information across platforms. So if you’re browsing on a Windows-based laptop, you can pick up where you left off when you move to browsing on your iPhone or Android device. This convenience should come standard with any modern web browser, and is sorely lacking with Internet Explorer.
+Firefox hoạt động trên mọi nền tảng, bao gồm Windows, macOS, Linux, Android và iOS. Điều đó cũng có nghĩa là bạn có thể đồng bộ tất cả thông tin của mình trên các nền tảng. Vì vậy, nếu bạn đang duyệt trên máy tính xách tay chạy Windows, bạn có thể rời đi khi bạn chuyển sang duyệt trên thiết bị iPhone hoặc Android. Sự tiện lợi này phải đạt tiêu chuẩn với bất kỳ trình duyệt web hiện đại nào và Internet Explorer không làm được điều đó.
 
 
 ;There was a time not so long ago where Internet Explorer was the most popular and widely used browser in the world. Times have changed and so has technology, but unfortunately Internet Explorer has pretty much stayed the same. Microsoft itself openly implores users to stop using Internet Explorer and instead switch to their newer Chromium-based Edge browser.
-There was a time not so long ago where Internet Explorer was the most popular and widely used browser in the world. Times have changed and so has technology, but unfortunately Internet Explorer has pretty much stayed the same. Microsoft itself openly implores users to stop using Internet Explorer and instead switch to their newer Chromium-based Edge browser.
+Cách đây không lâu, Internet Explorer là trình duyệt phổ biến và được sử dụng rộng rãi nhất trên thế giới. Thời đại đã thay đổi và công nghệ cũng vậy, nhưng thật không may, Internet Explorer vẫn giữ nguyên khá nhiều. Bản thân Microsoft công khai kêu gọi người dùng ngừng sử dụng Internet Explorer và thay vào đó chuyển sang trình duyệt Edge dựa trên Chromium mới hơn của họ.
 
 
 # "Nana" is a common nickname for a grandmother in many English-speaking countries. Use a similar name for a grandmother in your language or culture.
 ;Our opinion is just to go with a trusted, private browser with a track record of delivering a great experience across devices. In a head-to-head comparison, it’s really no contest at all. Firefox is hands down the winner across all assessment categories. If you do find yourself at Nana’s house firing up Internet Explorer, maybe you want to do Nana a favor and <a %(attrs)s>download Firefox</a> for her.
-Our opinion is just to go with a trusted, private browser with a track record of delivering a great experience across devices. In a head-to-head comparison, it’s really no contest at all. Firefox is hands down the winner across all assessment categories. If you do find yourself at Nana’s house firing up Internet Explorer, maybe you want to do Nana a favor and <a %(attrs)s>download Firefox</a> for her.
+Đó chỉ là so sánh chứ không phải cạnh tranh. Mục đích ban đầu của chúng tôi là cho phép người dùng sử dụng một trình duyệt riêng tư và đáng tin cậy và có thể cung cấp trải nghiệm vượt trội trên các thiết bị. Firefox rõ ràng sẽ hơn trong tất cả các trường hợp. Nếu người thân của bạn vẫn đang sử dụng Internet Explorer, có lẽ bạn có thể giúp họ <a %(attrs)s>tải xuống Firefox</a>.
 
 
 ;The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Internet Explorer (11)
-The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Internet Explorer (11)
+Các so sánh đã được thực hiện ở trên các phiên bản chính thức của trình duyệt sau:<br> Firefox (70) | Internet Explorer (11)
 
 
