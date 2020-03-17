@@ -22,7 +22,7 @@ Firefox ڈاؤن لوڈ کریں
 
 
 ;Meet the technology company that puts people before profit.
-Meet the technology company that puts people before profit.
+ٹکنالوجی کی کمپنی سے ملیں جو لوگوں کو منافع پر ترجیح دیتی ہے۔
 
 
 ;Leadership
@@ -74,7 +74,7 @@ Mozilla کا منشور
 
 
 ;Your right to security and privacy on the internet is fundamental – never optional.
-Your right to security and privacy on the internet is fundamental – never optional.
+انٹرنیٹ پر آپ کا سلامتی اور رازداری کا حق بنیادی ہے - کبھی اختیاری نہیں۔ ہے
 
 
 ;Developers
@@ -91,7 +91,7 @@ Firefox Developer Edition {ok}
 
 
 ;Firefox, built just for developers.
-Firefox, built just for developers.
+Firefox، جو صرف ڈویلپرز کے لئے بنایا گیا ہے۔
 
 
 ;Test soon-to-be-released features in our most stable pre-release build.
@@ -103,11 +103,11 @@ Preview the latest build of Firefox and help us make it the best.
 
 
 ;Developer Innovations
-Developer Innovations
+ڈویلپر کی ایجادات
 
 
 ;Projects that help keep the internet open and accessible for all.
-Projects that help keep the internet open and accessible for all.
+ایسے منصوبے جو انٹرنیٹ کو کھلا اور سب کے لئے قابل رسائی رکھنے میں مدد کرتے ہیں۔
 
 
 ;Web Assembly
@@ -127,7 +127,7 @@ Projects that help keep the internet open and accessible for all.
 
 
 ;Resources for developers, by developers.
-Resources for developers, by developers.
+ڈویلپرز کے لیے وسائل ڈویلپرز  کے ذریعہ ،۔
 
 
 ;MDN Web Docs
@@ -135,7 +135,7 @@ MDN ویب دستاویزات
 
 
 ;Firefox Playground
-Firefox Playground
+Firefox  کھیل کا میدان
 
 
 ;CSS Grid
@@ -164,7 +164,7 @@ Firefox Quantum Desktop Browser
 
 
 ;Get the browser that gives more power to you on Windows, macOS or Linux.
-Get the browser that gives more power to you on Windows, macOS or Linux.
+براؤزر حاصل کریں جو آپ کو Windows، macOS یا Linux پر زیادہ طاقت دیتا ہے۔
 
 
 ;Download
@@ -212,11 +212,11 @@ iOS معاونت
 
 
 ;Android Support
-Android Support
+Android کا تعاون
 
 
 ;Pocket by Firefox
-Pocket by Firefox
+Firefox کی جانب سے Pocket
 
 
 ;Save content. Absorb knowledge.
@@ -232,19 +232,19 @@ Make the most of your Firefox experience, across every device.
 
 
 ;Firefox for Enterprise
-Firefox for Enterprise
+انٹرپرائز کے لئے Firefox
 
 
 ;Same speed and safety you trust, designed just for business.
-Same speed and safety you trust, designed just for business.
+قابل بھروسہ  وہی رفتار اور حفاظت جس پر آپ  عتماد کرتے ہیں، جو صرف کاروبار کیلئے تیار کی گئی ہیں۔
 
 
 ;Firefox for Fire TV
-Firefox for Fire TV
+Firefox برائے Fire TV
 
 
 ;Watch videos and browse the internet on your Amazon Fire TV.
-Watch videos and browse the internet on your Amazon Fire TV.
+اپنے Amazon Fire TV پر ویڈیوز دیکھیں اور انٹرنیٹ براؤز کریں۔
 
 
 ;Add-ons
@@ -252,7 +252,7 @@ Watch videos and browse the internet on your Amazon Fire TV.
 
 
 ;Learn how to customize the way Firefox works.
-Learn how to customize the way Firefox works.
+Firefox کیسے کام کرتا ہے آپ اسکو کوتخصیص کرنے کا طریقہ جانیں
 
 
 ;Projects
@@ -277,11 +277,11 @@ Web of Things (IoT)
 
 
 ;Make devices connected to the internet safe, secure and interoperable.
-Make devices connected to the internet safe, secure and interoperable.
+انٹرنیٹ سے منسلک آلات کو   محفوظ اور باہمی تعاون کے قابل بنائیں۔
 
 
 ;Hubs
-Hubs
+ہبز
 
 
 ;Meet people in experimental Mixed Reality chatrooms with Firefox.
@@ -327,11 +327,11 @@ Learn how Firefox treats your data with respect.
 
 
 ;Mozilla Careers
-Mozilla Careers
+Mozilla کیریئر
 
 
 ;Approach your career with a sense of purpose. Find worthy work at Mozilla.
-Approach your career with a sense of purpose. Find worthy work at Mozilla.
+مقصد کے احساس کے ساتھ اپنے کیریئر تک رسائی حاصل کریں۔ Mozilla میں قابل کام تلاش کریں۔
 
 
 ;Browsers
@@ -409,7 +409,7 @@ Access all of Firefox with a single login — and get more from every product wh
 
 
 ;Meet the Firefox Family
-Meet the Firefox Family
+Firefox   کے خاندان سے ملیں
 
 
 ;Protect your life online with a whole family of privacy-first products.
@@ -417,11 +417,11 @@ Protect your life online with a whole family of privacy-first products.
 
 
 ;Download for iOS
-Download for iOS
+iOS کے لیے ڈائونلوڈ کریں
 
 
 ;Download for Android
-Download for Android
+Android کے لئے ڈاؤن لوڈ کریں
 
 
 ;Sign Up
@@ -442,20 +442,20 @@ See if your personal info has been leaked online, and sign up for future breach 
 
 
 ;Check for Breaches
-Check for Breaches
+خلاف ورزیوں کی جانچ پڑتال کریں
 
 
 ;See Breaches
-See Breaches
+خلاف ورزیان دیکھیں
 
 
 ;Security Tips
-Security Tips
+سلامتی  نسخے
 
 
 # 'self-destruct' is in single quotes to hint at an ironic meaning. The files are deleted automatically, they don't actually destroy themselves.
 ;Share large files safely, with links that ‘self-destruct’.
-Share large files safely, with links that ‘self-destruct’.
+بڑی فائلوں کو محفوظ طریقے سے ، ان ربط کے ساتھ اشتراک کریں جو "خود تباہ ہوجاتے ہیں"۔
 
 
 ;Save quality content from anywhere. Fuel your mind everywhere.
@@ -467,6 +467,6 @@ Save quality content from anywhere. Fuel your mind everywhere.
 
 
 ;Firefox is a whole family of products designed to keep you safer and smarter online.
-Firefox is a whole family of products designed to keep you safer and smarter online.
+Firefox  مصنوعات کا ایک پورا خاندان ہے جو آپ کو آن لائن محفوظ اور بہتر بنائے رکھنے کے لئے ڈیزائن کیا گیا ہے۔
 
 

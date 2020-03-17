@@ -3,16 +3,16 @@
 
 # HTML page title
 ;What’s new with Firefox
-What’s new with Firefox
+¿Mba’e ipyahúva oĩ Firefox ndive?
 
 
 ;Congrats! You’re using the latest version of Firefox.
-Congrats! You’re using the latest version of Firefox.
+Vy’apevẽ: Eipuru hína Firefox rembiapokue ipyahuvéva.
 
 
 # Main title for signed out users
 ;Pick up Firefox where you left off
-Pick up Firefox where you left off
+Eguerujey Firefox eheja haguégui
 
 
 ;Whether you’re using Firefox on your phone or computer, make sure all your important stuff — internet searches, passwords, open tabs — appears where you need it.
@@ -21,12 +21,12 @@ Whether you’re using Firefox on your phone or computer, make sure all your imp
 
 # CTA button for signed out users
 ;Sync your phone
-Sync your phone
+Embojuehe ne pumbyry
 
 
 # Main title for signed in users
 ;Stay ahead of hackers
-Stay ahead of hackers
+Eiko mba’evaiapoha renonderã
 
 
 ;Now Firefox Monitor not only informs you if you’ve been involved in known online data breaches, it also lets you take action to resolve them and get closure.
@@ -35,11 +35,11 @@ Now Firefox Monitor not only informs you if you’ve been involved in known onli
 
 # CTA button for signed in users
 ;Check your Breach Report
-Check your Breach Report
+Ehecha marandu’i japo’ỹ rehegua
 
 
 ;Send tabs instantly
-Send tabs instantly
+Emondo tendayke pya’e
 
 
 ;The days of emailing links to yourself are over. Easily send your open tabs to any of your synced devices.
@@ -47,7 +47,7 @@ The days of emailing links to yourself are over. Easily send your open tabs to a
 
 
 ;Preserve your history
-Preserve your history
+Eñongatu ne rembiasakue
 
 
 ;It’s not a big deal until it’s not there. With Firefox Sync, your browsing history is always right where you expect it to be.
@@ -55,7 +55,7 @@ It’s not a big deal until it’s not there. With Firefox Sync, your browsing h
 
 
 ;Safely carry your passwords with you
-Safely carry your passwords with you
+Egueraha ne ñe’ẽñemi tekorosãme
 
 
 # "Sync" and "Lockwise" are product names that shouldn't be translated.
@@ -64,27 +64,27 @@ Sync together with Lockwise means you can securely store and manage the password
 
 
 ;Stay alert to new breaches
-Stay alert to new breaches
+Ejesarekóke ñembyai pyahúre
 
 
 ;If your information surfaces in a new data breach, we’ll send you an alert.
-If your information surfaces in a new data breach, we’ll send you an alert.
+Ne marandu ojehechárõ mba’ekuaarã ñembyai pyahúpe, romondóta ndéve kyhyjerã.
 
 
 ;Monitor several emails
-Monitor several emails
+Ema’ẽke heta ñanduti vevére
 
 
 ;Get ongoing breach monitoring for multiple email addresses.
-Get ongoing breach monitoring for multiple email addresses.
+Eguereko mba’ekuaarã ñembyai jehecha py’ỹi heta ñanduti vevépe g̃uarã.
 
 
 ;Protect your online privacy
-Protect your online privacy
+Emo’ã ne ñemigua ñandutípe
 
 
 ;Find out what you need to do to keep your data safe from cyber criminals.
-Find out what you need to do to keep your data safe from cyber criminals.
+Ehecha mba’épa oikotevẽ ojapo oreko hag̃ua imba’ekuaarã mombyry mba’evaiapohágui.
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.

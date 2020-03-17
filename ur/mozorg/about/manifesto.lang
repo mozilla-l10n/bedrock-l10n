@@ -12,12 +12,12 @@ Mozilla کا منشور
 
 
 ;These are the principles that guide our mission to promote openness, innovation & opportunity on the web.
-These are the principles that guide our mission to promote openness, innovation & opportunity on the web.
+یہ وہ اصول ہیں جو ویب پر کشادگی ، جدت اور مواقع کو فروغ دینے کے لئے ہمارے مشن کی رہنمائی کرتے ہیں۔
 
 
 # String is obsolete. Do not remove.
 ;These are the principles that guide our mission to promote openness, innovation & opportunity on the Web.
-These are the principles that guide our mission to promote openness, innovation & opportunity on the Web.
+یہ وہ اصول ہیں جو ویب پر کشادگی ، جدت اور مواقع کو فروغ دینے کے لئے ہمارے مشن کی رہنمائی کرتے ہیں۔
 
 
 # <strong> and </strong> tags are used for presentation purposes, do not translate them
@@ -38,7 +38,7 @@ These are the principles that guide our mission to promote openness, innovation 
 
 
 ;Pledge for a Healthy Internet
-Pledge for a Healthy Internet
+صحت مند انٹرنیٹ کا عہد کریں
 
 
 ;The open, global internet is the most powerful communication and collaboration resource we have ever seen. It embodies some of our deepest hopes for human progress. It enables new opportunities for learning, building a sense of shared humanity, and solving the pressing problems facing people everywhere.
@@ -66,7 +66,7 @@ We are committed to an internet that catalyzes collaboration among diverse commu
 
 
 ;Show Your Support
-Show Your Support
+اپنی حمایت دکھائیں
 
 
 ;An internet with these qualities will not come to life on its own. Individuals and organizations must embed these aspirations into internet technology and into the human experience with the internet. The Mozilla Manifesto and Addendum represent Mozilla’s commitment to advancing these aspirations. We aim to work together with people and organizations everywhere who share these goals to make the internet an even better place for everyone.
@@ -74,7 +74,7 @@ An internet with these qualities will not come to life on its own. Individuals a
 
 
 ;Share on Twitter
-Share on Twitter
+Twitter پر شیئر کریں
 
 
 ;I support the vision of a better, healthier internet from @mozilla, will you join me?
@@ -108,12 +108,12 @@ Use Open Badges to share your skills and interests
 
 
 ;Explore how the web impacts science
-Explore how the web impacts science
+دریافت کریں کہ ویب سائنس پر کس طرح اثر انداز ہوتی ہے
 
 
 # String is obsolete. Do not remove.
 ;Explore how the Web impacts science
-Explore how the Web impacts science
+دریافت کریں کہ ویب سائنس پر کس طرح اثر انداز ہوتی ہے
 
 
 ;Learn about open source code in journalism
@@ -144,16 +144,16 @@ Read about open internet policy initiatives and developments
 
 # String is obsolete. Do not remove.
 ;Read about open Internet policy initiatives and developments
-Read about open Internet policy initiatives and developments
+اوپن انٹرنیٹ پالیسی کے اقدامات اور پیشرفت کے بارے میں پڑھیں
 
 
 ;Explore how to help keep the web open
-Explore how to help keep the web open
+ویب کو کھلا رکھنے میں کس طرح مدد کی جائے اس کی دریافت کریں
 
 
 # String is obsolete. Do not remove.
 ;Explore how to help keep the Web open
-Explore how to help keep the Web open
+ویب کو کھلا رکھنے میں کس طرح مدد کی جائے اس کی دریافت کریں
 
 
 ;Principle 3
@@ -166,16 +166,16 @@ Explore how to help keep the Web open
 
 
 ;The internet must enrich the lives of individual human beings.
-The internet must enrich the lives of individual human beings.
+انٹرنیٹ کو لازمی طور پر انفرادی انسانوں کی زندگیوں کو مالا مال کرنا چاہئے۔
 
 
 # String is obsolete. Do not remove.
 ;The Internet must enrich the lives of individual human beings.
-The Internet must enrich the lives of individual human beings.
+انٹرنیٹ کو لازمی طور پر انفرادی انسانوں کی زندگیوں کو مالا مال کرنا چاہئے۔
 
 
 ;See how the web can connect the world to healthcare
-See how the web can connect the world to healthcare
+دیکھیں کہ ویب دنیا کو صحت کے شعبے  سے کیسے جوڑ سکتا ہے
 
 
 # String is obsolete. Do not remove.
@@ -219,7 +219,7 @@ Read about developments in privacy and data safety
 
 
 ;Learn more about how to protect yourself online
-Learn more about how to protect yourself online
+آن لائن اپنی حفاظت کس طرح کرنی پے  اس  بارے میں مزید معلومات حاصل کریں
 
 
 ;Principle 5
@@ -364,7 +364,7 @@ Join us as a <a href="%(volunteer)s">volunteer</a> or <a href="%(ambassador)s">s
 
 
 ;Learn how to collaborate online
-Learn how to collaborate online
+آن لائن تعاون کرنے کا طریقہ سیکھیں
 
 
 ;Principle 9
@@ -426,11 +426,11 @@ Magnifying the public benefit aspects of the Internet is an important goal, wort
 
 
 ;Host or join a Maker Party
-Host or join a Maker Party
+میکر پارٹی کی میزبانی کریں یا اس میں شامل ہوں
 
 
 ;Learn how to build online collaboration skills
-Learn how to build online collaboration skills
+تعاون کی آن لائن مہارت بنانےکا طریقہ سیکھیں
 
 
 ;Read the entire manifesto
@@ -471,7 +471,7 @@ As a result of these efforts, we have distilled a set of principles that we beli
 
 
 ;The goals for the Manifesto are to:
-The goals for the Manifesto are to:
+منشور کے لئے اہداف یہ ہیں:
 
 
 ;articulate a vision for the Internet that Mozilla participants want the Mozilla Foundation to pursue;

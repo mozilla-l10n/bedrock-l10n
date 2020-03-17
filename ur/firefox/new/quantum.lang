@@ -19,12 +19,12 @@ You’re using an insecure, outdated operating system <a href="%(url)s">no longe
 
 # /firefox/windows/ main page title. Span is for visually formatting.
 ;Firefox fights for you <span>on Windows.</span>
-Firefox fights for you <span>on Windows.</span>
+Firefox  آپ کے لئے <span>Windows</span> پر لڑتا ہے
 
 
 # /firefox/mac/ main page title. Span is for visually formatting.
 ;Firefox respects <span>your privacy on Mac.</span>
-Firefox respects <span>your privacy on Mac.</span>
+فائر فاکس <span>میک پر آپ کی رازداری کا احترام کرتا ہے۔ </span>
 
 
 # /firefox/linux/ main page title.
@@ -67,7 +67,7 @@ Firefox تنصب کرنے کے لئے براہ مہربانی <a href="%(url)s">
 
 # Link to display the advanced install panel
 ;Advanced install options & other platforms
-Advanced install options & other platforms
+اعلی درجے کی انسٹال کے اختیارات اور دوسرے پلیٹ فارم
 
 
 # Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings?
@@ -96,11 +96,11 @@ Firefox کے <br>ساتھ تمام چیزوں کے ساتھ تازہ رہے۔
 
 # The phrase “Now get everything else Firefox” is in specific reference to a Firefox account, which unlocks access to all our new products and services.
 ;You’ve already got the Firefox browser. Now get everything else Firefox.
-You’ve already got the Firefox browser. Now get everything else Firefox.
+آپ کو Firefox براؤزر پہلے ہی مل گیا ہے۔ اب Firefoxکے علاوہ سب کچھ حاصل کریں۔
 
 
 ;Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
-Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
+فائر فاکس اکاؤنٹ سے بک مارک کو ہم آہنگی دیں ، ٹیب بھیجیں ، پاکٹ میں محفوظ کریں اور بہت کچھ۔
 
 
 ;Get a Firefox Account
@@ -144,7 +144,7 @@ Firefox کو مزید تیز تر ، ہوشیار اور زیادہ محفوظ �
 
 
 ;Get informative tips, tricks and product announcements delivered to your inbox.
-Get informative tips, tricks and product announcements delivered to your inbox.
+اپنے ان باکس میں فراہم کردہ معلوماتی نکات ، چالوں اور پروڈکٹ کے اعلانات حاصل کریں۔
 
 
 ;Enter your email address
@@ -188,7 +188,7 @@ You can expect emails designed to help you optimize Firefox to work best for you
 
 
 ;Sync up with Firefox on mobile:
-Sync up with Firefox on mobile:
+موبائل پر Firefox کے ساتھ سنک کریں:
 
 
 # /firefox/windows/ HTML page title
@@ -257,12 +257,12 @@ Linux کے لئے تیز ترین Firefox ڈاؤن لوڈ کریں
 
 # /firefox/windows/ social sharing description
 ;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
-Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+تیز پیج لوڈنگ ، میموری کا کم استعمال اور خصوصیات سے بھرا ہوا ، Windows کے لئے نیا Firefox یہاں ہے۔
 
 
 # /firefox/mac/ social sharing description
 ;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
-Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+تیز پیج لوڈنگ ، میموری کا کم استعمال اور خصوصیات سے بھرا ہوا ، میک کے لئے نیا فائر فاکس یہاں ہے۔
 
 
 # /firefox/linux/ social sharing description
@@ -271,7 +271,7 @@ Faster page loading, less memory usage and packed with features, the new Firefox
 
 
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-Faster page loading, less memory usage and packed with features, the new Firefox is here.
+تیز پیج لوڈنگ ، میموری کا کم استعمال اور خصوصیات سے بھرا ہوا ، میک کے لئے نیا فائر فاکس یہاں ہے۔
 
 
 ;Privacy comes first
@@ -287,7 +287,7 @@ Faster page loading, less memory usage and packed with features, the new Firefox
 
 
 ;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
-Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+Firefox تلاشی پر جاسوسی نہیں کرتا ہے۔ ہم تیسری پارٹی سے باخبر رہنے کی کوکیز کو روکتے ہیں اور آپ کو مکمل کنٹرول دیتے ہیں۔
 
 
 ;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
@@ -295,11 +295,11 @@ Firefox moves fast and treats your data with care - no ad tracking and no slowdo
 
 
 ;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
-Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+آپ کی زندگی ، آپ کا کاروبار۔ فائر فاکس نے تیسری پارٹی سے باخبر رہنے والے کوکیز کو لینکس پر روک دیا ہے۔
 
 
 ;The best Firefox ever
-The best Firefox ever
+اب تک کا بہترین Firefox
 
 
 ;Common sense privacy
@@ -311,7 +311,7 @@ Common sense privacy
 
 
 ;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
-Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+رفتار اور حفاظت حاصل کریں۔ Firefox Mac پر تیز ہے کیوں کہ ہم آپ کی چالوں کو ٹریک نہیں کرتے ہیں۔
 
 
 ;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
@@ -339,7 +339,7 @@ Seamless setup
 
 
 ;Powerfully private
-Powerfully private
+طاقت ترین نجی
 
 
 ;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
@@ -355,7 +355,7 @@ Easy migration of preferences and bookmarks when you download Firefox for Window
 
 
 ;Private Browsing with Tracking Protection
-Private Browsing with Tracking Protection
+ٹریکنگ پروٹیکشن کے ساتھ نجی براؤزنگ
 
 
 # String is obsolete. Do not remove.

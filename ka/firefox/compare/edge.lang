@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
 
@@ -17,11 +18,11 @@ Firefox-ბრაუზერის შედარება Microsoft Edge-თ�
 
 
 ;With Windows 10, Microsoft introduced its Edge browser to compete with Firefox and Chrome making it the default browser pre-installed on millions of PCs sold. Even so, users were slow to adopt it and Microsoft eventually announced plans to relaunch Edge as a Chromium-based browser (Chromium of course being Google’s Open Source browser project).
-Windows 10-თან ერთად, Microsoft-მა გამოუშვა თავისი Edge-ბრაუზერი Firefox და Chrome-თან მეტოქეობისთვის, ნაგულისხმევ ბრაუზერად, რომელიც მოყვებოდა მილიონობით გაყიდულ კომპიუტერს. მიუხედავად ამისა, მომხმარებლები რთულად შეეგუვნენ და Microsoft-მა ბოლოს გამოაცხადა, Edge-ის ხელახლა გამოშვების შესახებ Chromium-ზე დაფუძნებული ბრაუზერის სახით (Chromium თავისთავად Google-ის ღია წყაროს ბრაუზერის პროექტია).
+Windows 10-თან ერთად, Microsoft-მა გამოუშვა თავისი Edge-ბრაუზერი Firefox და Chrome-თან მეტოქეობისთვის, ნაგულისხმევ ბრაუზერად, რომელიც მოყვებოდა მილიონობით გაყიდულ კომპიუტერს. მიუხედავად ამისა, მომხმარებლები რთულად შეეგუვნენ და Microsoft-მა ბოლოს გამოაცხადა, Edge-ის ხელახლა გამოშვების შესახებ Chromium-ზე დაფუძნებული ბრაუზერის სახით (Chromium თავისმხრივ Google-ის ღია წყაროს ბრაუზერის პროექტია).
 
 
 ;Here we’ll compare our Firefox Browser to the Chromium-based Microsoft Edge in terms of privacy, utility, and portability, to help you have a better understanding of which browser better suits your needs and preferences.
-აქ შევადარებთ Firefox-ბრაუზერსა და Chromium-ზე დაფუძნებულ Microsoft Edge-ს პირადი მონაცემების დაცვაში, შესაძლებლობებსა და მოქნილობაში, რომ დაგეხმაროთ, უკეთ გაარკვიოთ რომელი ბრაუზერი შეესაბამება უკეთ თქვენს საჭიროებებსა და ხასიათს.
+აქ შევადარებთ Firefox-ბრაუზერსა და Chromium-ზე დაფუძნებულ Microsoft Edge-ს პირადი მონაცემების დაცვაში, შესაძლებლობებსა და მოქნილობაში, რომ დაგეხმაროთ, უკეთ გაარკვიოთ რომელი ბრაუზერი შეესაბამება მეტად თქვენს საჭიროებებსა და ხასიათს.
 
 
 ;Edge is integrated into the Windows 10 platform and runs in a sandbox environment, meaning it isolates programs and prevents malicious programs from spying on your computer. It has a built-in SmartScreen that scans the reputation of sites you visit and blocks suspicious sites. To enhance privacy, Edge allows you to use biometrics or a PIN with Windows Hello instead of passwords for online authentication.
@@ -41,7 +42,7 @@ Firefox-ში, ჩვენი <a %(attrs)s>პირადულობის �
 
 
 ;In Firefox, Private Browsing mode automatically erases your browsing information like passwords, cookies, and history, leaving no trace after you close out the session. Edge on the other hand, actually records browsing history in their private mode (called “InPrivate”) and it’s a relatively easy task for someone to reconstruct your full browsing history, regardless of whether your browsing was done in regular or InPrivate mode.
-Firefox-ში, პირადი თვალიერების რეჟიმი თავისთავად შლის ისეთ მონაცემებს, როგორიცაა პაროლები, ფუნთუშები და ისტორია, არ ტოვებს კვალს ფანჯრის დახურვის შემდეგ. Edge მეორე მხრივ, მაინც იწერს ისტორიას თავის პირად რეჟიმში (სახელად “InPrivate”) და ძალიან მარტივი ამოცანაა სრული ისტორიის აღდგენა, მიუხედავად იმისა, გვერდები ჩვეულებრივი რეჟიმითაა მონახულებული თუ InPrivate-რეჟიმით.
+Firefox-ში, პირადი თვალიერების რეჟიმი თავისთავად შლის ისეთ მონაცემებს, როგორიცაა პაროლები, ფუნთუშები და ისტორია, არ ტოვებს კვალს ფანჯრის დახურვის შემდეგ. Edge მეორე მხრივ, მაინც იწერს ისტორიას თავის პირად რეჟიმში (სახელად „InPrivate“) და ძალიან მარტივი ამოცანაა სრული ისტორიის აღდგენა, მიუხედავად იმისა, გვერდები ჩვეულებრივი რეჟიმითაა მონახულებული თუ InPrivate-რეჟიმით.
 
 
 ;Both browsers are relatively equal in terms of data encryption. However, if online privacy and transparency are important to you, then Firefox is clearly a better choice here.
@@ -90,11 +91,11 @@ Edge ასევე გაძლევთ საშუალებას და
 
 
 ;Aside from sucking up a lot of computing power, Edge running on Chromium has answered a lot of users’ needs for functionality and features. But there’s still a lot to account for in terms of the browser’s privacy protections. It’s our assessment that Firefox is still a better choice for most people to use in their daily lives, based not only on functionality but more importantly on our transparency in how we collect user data, what exactly we collect, and what we do with it. Because our parent company is <a %(attrs)s>Mozilla</a>, a non-profit organization dedicated to internet privacy and freedom, we simply have a different set of priorities when it comes to users’ data.
-Aside from sucking up a lot of computing power, Edge running on Chromium has answered a lot of users’ needs for functionality and features. But there’s still a lot to account for in terms of the browser’s privacy protections. It’s our assessment that Firefox is still a better choice for most people to use in their daily lives, based not only on functionality but more importantly on our transparency in how we collect user data, what exactly we collect, and what we do with it. Because our parent company is <a %(attrs)s>Mozilla</a>, a non-profit organization dedicated to internet privacy and freedom, we simply have a different set of priorities when it comes to users’ data.
+მიუხედავად კომპიუტერის მეტად დატვირთვისა, Edge გაშვებული Chromium-ის ძრავაზე პასუხობს მომხმარებლთა დიდი ნაწილის მოთხოვნებს, გამოყენებისა და შესაძლებლობების კუთხით. თუმცა, ბევრი საკითხი ჯერ კიდევ გასარკვევია, ბრაუზერში პირადი მონაცემების უსაფრთხოების მხრივ. ჩვენი შეფასებით, Firefox მაინც უკეთესი არჩევანია ხალხის უმრავლესობისთვის, ყოველდღიური გამოყენების მიზნით, რადგან მრავალფუნქციურობასთან ერთად, რაც ყველაზე მთავარია, გამჭვირვალეა მონაცემების შეგროვების გზებში და მკაფიოდ განსაზღვრავს, ზუსტად რას აღრიცხავს და როგორ ეპყრობა შემდგომ. ვინაიდან ჩვენი მშობელი კომპანია არის <a %(attrs)s>Mozilla</a>, არამომგებიანი დაწესებულება, რომელიც ინტერნეტში პირადულობისა და თავისუფლების დაცვის ერთგულია, ჩვენ სულ სხვა პრიორიტეტებით ვხელმძღვანელობთ, როცა საქმე მომხმარებლის მონაცემებს ეხება.
 
 
 ;The bottom line is that while we suggest using Firefox, the best browser for you ultimately will be the one that fits your individual needs with extension support, browsing tools customization, speed, privacy and security.
-დასკვნა ისაა, რომ ჩვენ მიერ Firefox-ის შემოთავაზების მიუხედავად, საუკეთესო ბრაუზერი თქვენთვის იქნება მხოლოდ ის, რომელიც პასუხობს თქვენს პირად მოთხოვნილებებს გაფართოებების მხარდაჭერის, თვალიერების ხელსაწყოების მორგების, სიჩქარის, პირად ცხოვრებაში ჩაურევლობისა და უსაფრთხოების კუთხით.
+დასკვნა კი ისაა, რომ ჩვენ მიერ Firefox-ის შემოთავაზების მიუხედავად, საუკეთესო ბრაუზერი თქვენთვის იქნება მხოლოდ ის, რომელიც პასუხობს თქვენს პირად მოთხოვნილებებს გაფართოებების მხარდაჭერის, თვალიერების ხელსაწყოების მორგების, სიჩქარის, პირად ცხოვრებაში ჩაურევლობისა და უსაფრთხოების კუთხით.
 
 
 ;The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Edge (44)

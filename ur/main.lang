@@ -706,7 +706,7 @@ Focus برائوزر
 
 # Link in the footer
 ;Beta, Nightly, Developer Edition
-Beta, Nightly, Developer Edition
+Beta, Nightly, Developer Edition {ok}
 
 
 # Link in the footer
@@ -815,7 +815,7 @@ Faster, more responsive and powerfully private. Check out the latest from the br
 
 
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
-Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
+Mozilla Firefox کو ڈاؤن لوڈ کریں، ایک مفت ویب پرائوزر۔ Firefox ایک عالمی غیر منافع بخش بنایا گیا ہے جس کا مقصد آنلائن افراد کو کنٹرول دینا ہے۔ Firefox برائے دریچہ ،  macOS, LinuxAndroid اور iOS آج جاصل کریں!
 
 
 # Used in a Firefox Account widget, button label to create an account
@@ -829,7 +829,7 @@ Download Mozilla Firefox, a free Web browser. Firefox is created by a global non
 
 
 ;<strong>Enter your email</strong> to access Firefox Accounts.
-<strong>Enter your email</strong> to access Firefox Accounts.
+Firefox اکاؤنٹس تک رسائی حاصل کرنے کے لئے <strong> اپنا ای میل درج کریں </ strong>۔
 
 
 ;Email address
@@ -837,10 +837,8 @@ Download Mozilla Firefox, a free Web browser. Firefox is created by a global non
 
 
 ;By proceeding, you agree to the <a href="%(url1)s">Terms of Service</a> and <a href="%(url2)s">Privacy Notice</a>.
-By proceeding, you agree to the <a href="%(url1)s">Terms of Service</a> and <a href="%(url2)s">Privacy Notice</a>.
+آگے بڑھ کر ، آپ <a href="%(url1)s "> سروس کی شرائط </a> اور <a href="%(url2)s"> رازداری کا نوٹس </a> سے اتفاق کرتے ہیں۔
 
 
 ;Continue
 جاری رکھیں
-
-

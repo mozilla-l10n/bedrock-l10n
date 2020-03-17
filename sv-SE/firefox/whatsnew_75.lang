@@ -1,93 +1,94 @@
+## active ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/75.0/whatsnew/all/
 
 
 # HTML page title
 ;What’s new with Firefox
-What’s new with Firefox
+Se alla nyheter i Firefox
 
 
 ;Congrats! You’re using the latest version of Firefox.
-Congrats! You’re using the latest version of Firefox.
+Gratulerar! Du använder den senaste versionen av Firefox.
 
 
 # Main title for signed out users
 ;Pick up Firefox where you left off
-Pick up Firefox where you left off
+Fortsätt där du slutade
 
 
 ;Whether you’re using Firefox on your phone or computer, make sure all your important stuff — internet searches, passwords, open tabs — appears where you need it.
-Whether you’re using Firefox on your phone or computer, make sure all your important stuff — internet searches, passwords, open tabs — appears where you need it.
+Oavsett om du använder Firefox på din telefon eller dator, se till att alla dina viktiga saker — internetsökningar, lösenord, öppna flikar — visas när du behöver de.
 
 
 # CTA button for signed out users
 ;Sync your phone
-Sync your phone
+Synkronisera din telefon
 
 
 # Main title for signed in users
 ;Stay ahead of hackers
-Stay ahead of hackers
+Var ett steg före hackare
 
 
 ;Now Firefox Monitor not only informs you if you’ve been involved in known online data breaches, it also lets you take action to resolve them and get closure.
-Now Firefox Monitor not only informs you if you’ve been involved in known online data breaches, it also lets you take action to resolve them and get closure.
+Nu informerar Firefox Monitor inte bara dig om du har varit inblandad i kända dataintrång på nätet, den låter dig också vidta åtgärder för att lösa dem och få ett avslut.
 
 
 # CTA button for signed in users
 ;Check your Breach Report
-Check your Breach Report
+Kontrollera din intrångsrapport
 
 
 ;Send tabs instantly
-Send tabs instantly
+Skicka flikar direkt
 
 
 ;The days of emailing links to yourself are over. Easily send your open tabs to any of your synced devices.
-The days of emailing links to yourself are over. Easily send your open tabs to any of your synced devices.
+Dagarna med e-postlänkar till dig själv är över. Skicka enkelt dina öppna flikar till någon av dina synkroniserade enheter.
 
 
 ;Preserve your history
-Preserve your history
+Bevara din historik
 
 
 ;It’s not a big deal until it’s not there. With Firefox Sync, your browsing history is always right where you expect it to be.
-It’s not a big deal until it’s not there. With Firefox Sync, your browsing history is always right where you expect it to be.
+Vanligtvis spelar det ingen roll förrän du behöver det. Med Firefox Sync har du tillgång till din sökhistorik från alla dina enheter.
 
 
 ;Safely carry your passwords with you
-Safely carry your passwords with you
+Ta med dina lösenord på ett säkert sätt
 
 
 # "Sync" and "Lockwise" are product names that shouldn't be translated.
 ;Sync together with Lockwise means you can securely store and manage the passwords you’ve saved on your phone, computer, or tablet.
-Sync together with Lockwise means you can securely store and manage the passwords you’ve saved on your phone, computer, or tablet.
+Synkronisering tillsammans med Lockwise innebär att du säkert kan lagra och hantera de lösenord du har sparat på din telefon, dator eller surfplatta.
 
 
 ;Stay alert to new breaches
-Stay alert to new breaches
+Var uppmärksam på nya intrång
 
 
 ;If your information surfaces in a new data breach, we’ll send you an alert.
-If your information surfaces in a new data breach, we’ll send you an alert.
+Om din information dyker upp i ett nytt dataintrång, skickar vi dig en varning.
 
 
 ;Monitor several emails
-Monitor several emails
+Övervaka flera e-postadresser
 
 
 ;Get ongoing breach monitoring for multiple email addresses.
-Get ongoing breach monitoring for multiple email addresses.
+Få kontinuerlig övervakning av intrång för flera e-postadresser.
 
 
 ;Protect your online privacy
-Protect your online privacy
+Skydda ditt privatliv på Internet
 
 
 ;Find out what you need to do to keep your data safe from cyber criminals.
-Find out what you need to do to keep your data safe from cyber criminals.
+Ta reda på vad du behöver göra för att skydda dina data från cyberbrottslingar.
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+Läs <a href="%(notes)s">versionsfakta</a> för att veta mer om vad som är nytt i din Firefox-webbläsare.
 
 

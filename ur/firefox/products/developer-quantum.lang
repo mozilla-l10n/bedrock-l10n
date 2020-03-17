@@ -7,7 +7,7 @@
 
 
 ;Firefox Quantum: Developer Edition
-Firefox Quantum: Developer Edition
+Firefox Quantum: Developer Edition {ok}
 
 
 ;Welcome to your new favorite browser. Get the latest features, fast performance, and the development tools you need to build for the open web.
@@ -23,7 +23,7 @@ Firefox ڈیولپر ایڈیشن خود بخود Mozilla کو رائے ارسا
 
 
 ;A Next-Generation CSS Engine
-A Next-Generation CSS Engine
+اگلی نسل کا CSS  انجن
 
 
 ;Firefox has been rebuilt from the ground up to be faster and more powerful than ever. This includes a new CSS engine that has state-of-the-art innovations and is blazingly fast.
@@ -48,7 +48,7 @@ Firefox DevTools now grays out CSS declarations that don’t have an effect on t
 
 # Link points to http://firefox-dev.tools/
 ;Learn more about Firefox developer tools
-Learn more about Firefox developer tools
+Firefox developer tools کے بارے میں مزید سیکھیں
 
 
 ;The new Firefox DevTools are powerful, flexible, and best of all, hackable. This includes a best-in-class JavaScript debugger, which can target multiple browsers and is built in React and Redux.
@@ -61,7 +61,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 
 ;Innovative Features
-Innovative Features
+جدید خصوصیات
 
 
 ;Master CSS Grid
@@ -70,7 +70,7 @@ Master CSS Grid
 
 # Link points to https://mozilladevelopers.github.io/playground/
 ;Learn more about CSS Grid
-Learn more about CSS Grid
+CSS گرڈ کے بارے میں مزید معلومات حاصل کریں
 
 
 ;Firefox is the only browser with tools built specifically for building and designing with CSS Grid. These tools allow you to visualize the grid, display associated area names, preview transformations on the grid and much more.
@@ -79,7 +79,7 @@ Firefox is the only browser with tools built specifically for building and desig
 
 # String is obsolete. Do not remove.
 ;Convenient Features
-Convenient Features
+آسان خصوصیات
 
 
 # String is obsolete. Do not remove.
@@ -102,7 +102,7 @@ Firefox DevTools has a brand new shape path editor that takes the guesswork out 
 
 
 ;Fonts Panel
-Fonts Panel
+فونٹس پینل
 
 
 ;The new fonts panel in Firefox DevTools gives developers quick access to all of the information they need about the fonts being used in an element. It also includes valuable information such as the font source, weight, style and more.
@@ -110,7 +110,7 @@ The new fonts panel in Firefox DevTools gives developers quick access to all of 
 
 
 ;Design. Code. Test. Refine.
-Design. Code. Test. Refine.
+ڈیزائن کوڈ پرکھیں. بہتر بناۓ
 
 
 # line break for visual formatting
@@ -162,7 +162,7 @@ JavaScript ڈبگگر کے بارے میں مزید سیکھیں
 
 
 ;Monitor network requests that can slow or block your site.
-Monitor network requests that can slow or block your site.
+نیٹ ورک کی درخواستوں کی نگرانی کریں جو آپ کی سائٹ کو سست یا مسدود کرسکتی ہیں۔
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Network_Monitor
@@ -180,15 +180,15 @@ Add, modify and remove cache, cookies, databases and session data.
 
 # Link points to https://developer.mozilla.org/docs/Tools/Storage_Inspector
 ;Learn more about Storage Panel
-Learn more about Storage Panel
+اسٹوریج پینل  کے بارے میں مزید سیکھیں
 
 
 ;Responsive Design Mode
-Responsive Design Mode
+رسپانسو ڈیزائن موڈ
 
 
 ;Test sites on emulated devices in your browser.
-Test sites on emulated devices in your browser.
+اپنے براؤزر میں نقالی شدہ  آلات پر سائٹوس کو جانچیں۔
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Responsive_Design_View
@@ -227,12 +227,12 @@ Unblock bottlenecks, streamline processes, optimize assets.
 
 
 ;Find memory leaks and make your application zippy.
-Find memory leaks and make your application zippy.
+میموری لیک کو تلاش کریں اور اپنی ایپلی کیشن کو زپی بنائیں۔
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Memory
 ;Learn more about Memory Tools
-Learn more about Memory Tools
+میموری ٹولز کے بارے میں مزید سیکھیں
 
 
 ;Web Audio
@@ -240,12 +240,12 @@ Learn more about Memory Tools
 
 
 ;The only developer tool for inspecting the Web Audio API.
-The only developer tool for inspecting the Web Audio API.
+ویب آڈیو API کا معائنہ کرنے کا واحد ڈویلپر ٹول۔
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Web_Audio_Editor
 ;Learn more about Web Audio Editor
-Learn more about Web Audio Editor
+ویب سوتی تدوین کار کے بارے میں مزید سیکھیں
 
 
 ;Scratchpad
@@ -253,7 +253,7 @@ Learn more about Web Audio Editor
 
 
 ;Edit, write, run and execute JavaScript in real time.
-Edit, write, run and execute JavaScript in real time.
+اسی وقت JavaScriptمیں تدوین کریں ، لکھیں ، چلائیں اور اس پر عمل کریں۔
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Scratchpad
@@ -266,12 +266,12 @@ Edit, write, run and execute JavaScript in real time.
 
 
 ;Edit and manage all your CSS stylesheets in your browser.
-Edit and manage all your CSS stylesheets in your browser.
+اپنے براؤزر میں اپنے تمام CSS اسٹائل فہرستوں میں ترمیم کریں اور ان کا منظم کریں۔
 
 
 # Link points to https://developer.mozilla.org/docs/Tools/Style_Editor
 ;Learn more about Style Editor
-Learn more about Style Editor
+انداز تدوین کار کے بارے میں مزید سیکھیں
 
 
 ;Speak up
@@ -301,7 +301,7 @@ Help build the last independent browser. Write code, fix bugs, make add-ons, and
 
 
 ;Download the Firefox browser made for developers
-Download the Firefox browser made for developers
+ڈویلپرز کے لئے بنایا ہوا Firefox براؤزر ڈاؤن لوڈ کریں
 
 
 # First run page at https://www.mozilla.org/firefox/57.0a2/firstrun/
@@ -322,7 +322,7 @@ Firefox Devtools {ok}
 
 
 ;Next-Gen CSS Engine
-Next-Gen CSS Engine
+اگک=لی نسل کے CSS  انجن
 
 
 # line break for visual formatting
@@ -348,7 +348,7 @@ Firefox Nightly receives daily updates and allows you to access features months 
 
 
 ;Congrats. You now have Firefox Quantum: Developer Edition.
-Congrats. You now have Firefox Quantum: Developer Edition.
+مبارک ہو۔ اب آپ کے پاس Firefox کوانٹم: ڈویلپر ایڈیشن ہے۔
 
 
 ;This isn’t just an update. This is Firefox Quantum: A brand new Firefox that has been rebuilt from the ground-up to be faster, sleeker, and more powerful than ever.
