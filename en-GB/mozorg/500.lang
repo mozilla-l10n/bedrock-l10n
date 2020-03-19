@@ -1,4 +1,5 @@
 ## active ##
+## 404_update_2020 ##
 ## NOTE: This page can't be displayed on stage, it's only displayed when encountering an internal server error.
 
 
@@ -7,15 +8,15 @@
 
 
 ;Something went wrong
-Something went wrong
+Something went wrong {ok}
 
 
 ;It’s probably just a server error and we’re working to fix it.
-It’s probably just a server error and we’re working to fix it.
+It’s probably just a server error and we’re working to fix it. {ok}
 
 
 ;You can also try refreshing this page or go to <a href=%(firefox)s>firefox.com</a> or <a href=%(mozilla)s>mozilla.org</a>
-You can also try refreshing this page or go to <a href=%(firefox)s>firefox.com</a> or <a href=%(mozilla)s>mozilla.org</a>
+You can also try refreshing this page or go to <a href=%(firefox)s>firefox.com</a> or <a href=%(mozilla)s>mozilla.org</a> {ok}
 
 
 # This string is obsolete. Do not remove.

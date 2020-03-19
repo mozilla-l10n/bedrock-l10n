@@ -1,93 +1,94 @@
+## active ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/75.0/whatsnew/all/
 
 
 # HTML page title
 ;What’s new with Firefox
-What’s new with Firefox
+Firefox 的新变化
 
 
 ;Congrats! You’re using the latest version of Firefox.
-Congrats! You’re using the latest version of Firefox.
+太好了！您正在使用最新版本的 Firefox。
 
 
 # Main title for signed out users
 ;Pick up Firefox where you left off
-Pick up Firefox where you left off
+从上次看到的地方继续使用 Firefox
 
 
 ;Whether you’re using Firefox on your phone or computer, make sure all your important stuff — internet searches, passwords, open tabs — appears where you need it.
-Whether you’re using Firefox on your phone or computer, make sure all your important stuff — internet searches, passwords, open tabs — appears where you need it.
+不论是在手机还是电脑使用 Firefox，搜索记录、密码、打开的标签页皆可无缝同步。
 
 
 # CTA button for signed out users
 ;Sync your phone
-Sync your phone
+与手机同步
 
 
 # Main title for signed in users
 ;Stay ahead of hackers
-Stay ahead of hackers
+先发制人防止黑客攻击
 
 
 ;Now Firefox Monitor not only informs you if you’ve been involved in known online data breaches, it also lets you take action to resolve them and get closure.
-Now Firefox Monitor not only informs you if you’ve been involved in known online data breaches, it also lets you take action to resolve them and get closure.
+现在 Firefox Monitor 不仅会在您受到数据外泄事件影响时通知，还可以让您立即采取措施，予以解决。
 
 
 # CTA button for signed in users
 ;Check your Breach Report
-Check your Breach Report
+检查您的数据外泄报告
 
 
 ;Send tabs instantly
-Send tabs instantly
+即时发送标签页
 
 
 ;The days of emailing links to yourself are over. Easily send your open tabs to any of your synced devices.
-The days of emailing links to yourself are over. Easily send your open tabs to any of your synced devices.
+是时候抛弃通过邮件发送链接的方式了。轻轻一点，即可将打开的标签页发送至任何同步的设备。
 
 
 ;Preserve your history
-Preserve your history
+保留历史记录
 
 
 ;It’s not a big deal until it’s not there. With Firefox Sync, your browsing history is always right where you expect it to be.
-It’s not a big deal until it’s not there. With Firefox Sync, your browsing history is always right where you expect it to be.
+有了 Firefox 同步服务，各终端浏览历史无缝呈现。试过就知道有多方便。
 
 
 ;Safely carry your passwords with you
-Safely carry your passwords with you
+安全地随身携带密码
 
 
 # "Sync" and "Lockwise" are product names that shouldn't be translated.
 ;Sync together with Lockwise means you can securely store and manage the passwords you’ve saved on your phone, computer, or tablet.
-Sync together with Lockwise means you can securely store and manage the passwords you’ve saved on your phone, computer, or tablet.
+使用 Lockwise 同步，就可以安全地存储和管理手机、电脑、平板上的各种密码。
 
 
 ;Stay alert to new breaches
-Stay alert to new breaches
+警惕新的数据外泄事件
 
 
 ;If your information surfaces in a new data breach, we’ll send you an alert.
-If your information surfaces in a new data breach, we’ll send you an alert.
+如果您的信息出现于新的数据外泄事件中，我们会向您发送警报。
 
 
 ;Monitor several emails
-Monitor several emails
+监控多个电子邮件地址
 
 
 ;Get ongoing breach monitoring for multiple email addresses.
-Get ongoing breach monitoring for multiple email addresses.
+不间断监控多个电子邮件地址是否存在数据外泄
 
 
 ;Protect your online privacy
-Protect your online privacy
+保护您的在线隐私
 
 
 ;Find out what you need to do to keep your data safe from cyber criminals.
-Find out what you need to do to keep your data safe from cyber criminals.
+了解您需要做些什么来保护您的数据，以免受网络犯罪的影响。
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+阅读<a href="%(notes)s">发行说明</a>，详细了解 Firefox 浏览器的新功能。
 
 

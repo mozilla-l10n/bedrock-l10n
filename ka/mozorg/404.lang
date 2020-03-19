@@ -1,4 +1,5 @@
 ## active ##
+## 404_update_2020 ##
 ## NOTE: page is at https://www-dev.allizom.org/404/
 
 
@@ -7,27 +8,27 @@
 
 
 ;Sorry, we can’t find that page
-Sorry, we can’t find that page
+უკაცრავად, მოთხოვნილი გვერდი ვერ მოიძებნა
 
 
 ;We’re all about a healthy internet but sometimes broken URLs happen.
-We’re all about a healthy internet but sometimes broken URLs happen.
+ჩვენ ვიღწვით ჯანსაღი ინტერნეტისთვის, თუმცა ზოგჯერ გვეპარება დაზიანებული URL-ბმულებიც.
 
 
 ;Go Back
-Go Back
+უკან დაბრუნება
 
 
 ;<a href="%(about)s">Learn</a> about Mozilla, the non-profit behind Firefox.
-<a href="%(about)s">Learn</a> about Mozilla, the non-profit behind Firefox.
+<a href="%(about)s">გაიცანით</a> უკეთ Mozilla, არამომგებიანი დაწესებულება, რომლის ქმნილებაცაა Firefox.
 
 
 ;<a href=%(explore)s>Explore</a> the entire family for Firefox products designed to respect your privacy.
-<a href=%(explore)s>Explore</a> the entire family for Firefox products designed to respect your privacy.
+<a href=%(explore)s>გამოცადეთ</a> სრული ნაკრები Firefox-პროდუქტების, განკუთვნილი თქვენი პირადულობის დასაცავად.
 
 
 ;<a href=%(download)s>Download</a> the Firefox browser for your mobile device or desktop
-<a href=%(download)s>Download</a> the Firefox browser for your mobile device or desktop
+<a href=%(download)s>ჩამოტვირთეთ</a> Firefox-ბრაუზერი მობილურ მოწყობილობაზე ან კომპიუტერზე
 
 
 # This string is obsolete. Do not remove.

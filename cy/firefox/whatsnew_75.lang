@@ -1,93 +1,94 @@
+## active ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/75.0/whatsnew/all/
 
 
 # HTML page title
 ;What’s new with Firefox
-What’s new with Firefox
+Beth sy'n newydd gyda Firefox
 
 
 ;Congrats! You’re using the latest version of Firefox.
-Congrats! You’re using the latest version of Firefox.
+Llongyfarchiadau! Rydych yn defnyddio'r fersiwn diweddaraf o Firefox.
 
 
 # Main title for signed out users
 ;Pick up Firefox where you left off
-Pick up Firefox where you left off
+Ailgychwynnwch Firefox o le roeddech o'r blaen
 
 
 ;Whether you’re using Firefox on your phone or computer, make sure all your important stuff — internet searches, passwords, open tabs — appears where you need it.
-Whether you’re using Firefox on your phone or computer, make sure all your important stuff — internet searches, passwords, open tabs — appears where you need it.
+P'un ai ydych yn defnyddio Firefox ar eich ffôn neu'ch cyfrifiadur, gwnewch yn siŵr bod eich holl bethau pwysig - chwilio'r rhyngrwyd, cyfrineiriau, tabiau agored - yn ymddangos lle mae eu hangen arnoch chi.
 
 
 # CTA button for signed out users
 ;Sync your phone
-Sync your phone
+Cydweddwch eich ffôn
 
 
 # Main title for signed in users
 ;Stay ahead of hackers
-Stay ahead of hackers
+Cadwch ar y blaen i'r hacwyr
 
 
 ;Now Firefox Monitor not only informs you if you’ve been involved in known online data breaches, it also lets you take action to resolve them and get closure.
-Now Firefox Monitor not only informs you if you’ve been involved in known online data breaches, it also lets you take action to resolve them and get closure.
+Nawr mae Firefox Monitor nid yn unig yn eich hysbysu os ydych chi wedi bod yn rhan o dor-data ar-lein hysbys, mae hefyd yn eich cynorthwyo i'w ddatrys.
 
 
 # CTA button for signed in users
 ;Check your Breach Report
-Check your Breach Report
+Gwiriwch eich Adroddiad Tor-data
 
 
 ;Send tabs instantly
-Send tabs instantly
+Anfon tabiau ar unwaith
 
 
 ;The days of emailing links to yourself are over. Easily send your open tabs to any of your synced devices.
-The days of emailing links to yourself are over. Easily send your open tabs to any of your synced devices.
+Mae'r dyddiau o e-bostio dolenni ato chi'ch hun ar ben. Maen hawdd anfon eich tabiau agored i unrhyw un o'ch dyfeisiau wedi'u cydweddu.
 
 
 ;Preserve your history
-Preserve your history
+Cadw'ch hanes
 
 
 ;It’s not a big deal until it’s not there. With Firefox Sync, your browsing history is always right where you expect it to be.
-It’s not a big deal until it’s not there. With Firefox Sync, your browsing history is always right where you expect it to be.
+Mae'n rhy werthfawr i'w golli. Gyda Firefox Sync, mae eich hanes pori bob amser yn yr union le rydych chi'n disgwyl iddo fod.
 
 
 ;Safely carry your passwords with you
-Safely carry your passwords with you
+Cariwch eich cyfrineiriau gyda chi'n ddiogel
 
 
 # "Sync" and "Lockwise" are product names that shouldn't be translated.
 ;Sync together with Lockwise means you can securely store and manage the passwords you’ve saved on your phone, computer, or tablet.
-Sync together with Lockwise means you can securely store and manage the passwords you’ve saved on your phone, computer, or tablet.
+Mae Sync ynghyd â Lockwise yn golygu y gallwch chi gadw a rheoli'r cyfrineiriau rydych chi wedi'u cadw ar eich ffôn, cyfrifiadur neu dabled yn ddiogel.
 
 
 ;Stay alert to new breaches
-Stay alert to new breaches
+Cadw'n effro am dor-data newydd
 
 
 ;If your information surfaces in a new data breach, we’ll send you an alert.
-If your information surfaces in a new data breach, we’ll send you an alert.
+Os bydd eich manylion yn ymddangos mewn tor-data newydd, byddwn yn anfon rhybudd atoch.
 
 
 ;Monitor several emails
-Monitor several emails
+Monitro sawl e-bost
 
 
 ;Get ongoing breach monitoring for multiple email addresses.
-Get ongoing breach monitoring for multiple email addresses.
+Cael monitro tor-data parhaus ar gyfeiriadau e-bost lluosog.
 
 
 ;Protect your online privacy
-Protect your online privacy
+Diogelwch eich preifatrwydd ar-lein
 
 
 ;Find out what you need to do to keep your data safe from cyber criminals.
-Find out what you need to do to keep your data safe from cyber criminals.
+Darganfyddwch beth sydd angen i chi ei wneud i gadw'ch data yn ddiogel rhag seibr-droseddwyr.
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+Darllenwch y <a href="%(notes)s">Nodiadau Rhyddhau</a> i wybod mwy am yr hyn sy'n newydd yn eich porwr Firefox Browser.
 
 

@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/74.0/whatsnew/all/
 
 
@@ -54,7 +55,7 @@ Eiko mba’evaiapoha renonderã
 
 # "Firefox Monitor" is a product name that shouldn't be translated.
 ;Firefox Monitor lets you find out what hackers might already know about you and helps you stay a step ahead of them. (And it’s free.)
-Firefox Monitor lets you find out what hackers might already know about you and helps you stay a step ahead of them. (And it’s free.)
+Firefox Monitor ohechauka ndéve ojapóva umi mba’evaiapoha ha oikuaáva ndehegui ha ne pytyvõta eime hag̃ua tenondeve chuguikuéra. (Ha reiete).
 
 
 # CTA link
@@ -63,6 +64,6 @@ Ereko Firefox Monitor
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+Emoñe’ẽ <a href="%(notes)s">Jehaipy rehegua</a> ereko hag̃ua marandu pyahu nde Firefox kundaha rehegua.
 
 

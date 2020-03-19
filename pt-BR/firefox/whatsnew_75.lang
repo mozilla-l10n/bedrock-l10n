@@ -1,93 +1,94 @@
+## active ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/75.0/whatsnew/all/
 
 
 # HTML page title
 ;What’s new with Firefox
-What’s new with Firefox
+Novidades no Firefox
 
 
 ;Congrats! You’re using the latest version of Firefox.
-Congrats! You’re using the latest version of Firefox.
+Parabéns! Você está usando a versão mais recente do Firefox.
 
 
 # Main title for signed out users
 ;Pick up Firefox where you left off
-Pick up Firefox where you left off
+Continue a usar o Firefox de onde parou.
 
 
 ;Whether you’re using Firefox on your phone or computer, make sure all your important stuff — internet searches, passwords, open tabs — appears where you need it.
-Whether you’re using Firefox on your phone or computer, make sure all your important stuff — internet searches, passwords, open tabs — appears where you need it.
+Independente de estar usando o Firefox no celular ou no computador, assegure que todas as suas coisas importantes — pesquisas na internet, senhas, abas abertas — apareçam onde você precisar.
 
 
 # CTA button for signed out users
 ;Sync your phone
-Sync your phone
+Sincronize seu celular
 
 
 # Main title for signed in users
 ;Stay ahead of hackers
-Stay ahead of hackers
+Esteja à frente dos hackers
 
 
 ;Now Firefox Monitor not only informs you if you’ve been involved in known online data breaches, it also lets you take action to resolve them and get closure.
-Now Firefox Monitor not only informs you if you’ve been involved in known online data breaches, it also lets you take action to resolve them and get closure.
+Agora o Firefox Monitor não apenas informa se você foi vítima de vazamentos de dados online conhecidos, mas também permite tomar medidas para resolver e considerar encerrado.
 
 
 # CTA button for signed in users
 ;Check your Breach Report
-Check your Breach Report
+Verifique seu relatório de vazamento de dados
 
 
 ;Send tabs instantly
-Send tabs instantly
+Envie abas instantaneamente
 
 
 ;The days of emailing links to yourself are over. Easily send your open tabs to any of your synced devices.
-The days of emailing links to yourself are over. Easily send your open tabs to any of your synced devices.
+Chega de enviar links para você mesmo por e-mail. Envie facilmente suas abas abertas para qualquer um de seus dispositivos sincronizados.
 
 
 ;Preserve your history
-Preserve your history
+Preserve seu histórico
 
 
 ;It’s not a big deal until it’s not there. With Firefox Sync, your browsing history is always right where you expect it to be.
-It’s not a big deal until it’s not there. With Firefox Sync, your browsing history is always right where you expect it to be.
+Não parece importante, até fazer falta. Com o Firefox Sync, seu histórico de navegação está sempre ali onde você espera.
 
 
 ;Safely carry your passwords with you
-Safely carry your passwords with you
+Leve suas senhas com segurança
 
 
 # "Sync" and "Lockwise" are product names that shouldn't be translated.
 ;Sync together with Lockwise means you can securely store and manage the passwords you’ve saved on your phone, computer, or tablet.
-Sync together with Lockwise means you can securely store and manage the passwords you’ve saved on your phone, computer, or tablet.
+Com o Sync e o Lockwise juntos, você pode armazenar e gerenciar com segurança as senhas salvas no celular, computador ou tablet.
 
 
 ;Stay alert to new breaches
-Stay alert to new breaches
+Receba alertas sobre novos vazamentos
 
 
 ;If your information surfaces in a new data breach, we’ll send you an alert.
-If your information surfaces in a new data breach, we’ll send you an alert.
+Enviaremos um alerta se suas informações surgirem em um novo vazamento de dados.
 
 
 ;Monitor several emails
-Monitor several emails
+Monitore vários e-mails
 
 
 ;Get ongoing breach monitoring for multiple email addresses.
-Get ongoing breach monitoring for multiple email addresses.
+Tenha monitoramento contínuo de vazamentos para vários endereços de e-mail.
 
 
 ;Protect your online privacy
-Protect your online privacy
+Proteja sua privacidade online
 
 
 ;Find out what you need to do to keep your data safe from cyber criminals.
-Find out what you need to do to keep your data safe from cyber criminals.
+Descubra o que você precisa fazer para manter seus dados protegidos contra criminosos cibernéticos.
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+Leia as <a href="%(notes)s">Notas da versão</a> para saber mais sobre as novidades do seu Navegador Firefox.
 
 
