@@ -13,7 +13,7 @@ Firefox ڈائونلوڈ کریں
 
 # HTML page description
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
-Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows, macOS, Linux, Android and iOS today!
+Mozilla Firefox کو ڈاؤن لوڈ کریں، ایک مفت ویب پرائوزر۔ Firefox ایک عالمی غیر منافع بخش بنایا گیا ہے جس کا مقصد آنلائن افراد کو کنٹرول دینا ہے۔ Firefox برائے دریچہ ،  macOS, LinuxAndroid اور iOS آج جاصل کریں!
 
 
 # Page heading
@@ -22,7 +22,7 @@ Download Mozilla Firefox, a free Web browser. Firefox is created by a global non
 
 
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
-تیز پیج لوڈنگ ، میموری کا کم استعمال اور خصوصیات سے بھرا ہوا ، نیا فائر فاکس یہاں ہے۔
+Faster page loading, less memory usage and packed with features, the new Firefox is here.
 
 
 ;Get the latest Firefox browser.
@@ -63,7 +63,7 @@ Download Mozilla Firefox, a free Web browser. Firefox is created by a global non
 
 
 ;Firefox shows you how many data-collecting trackers are blocked with <strong>Enhanced Tracking Protection</strong>.
-فائر فاکس آپ کو دکھاتا ہے کہ کتنے ڈیٹا اکٹھا کرنے والے ٹریکرس کو < /strong> بہتر ٹریکنگ تحفظ < strong> کے ساتھ مسدود کردیا گیا ہے۔
+Firefox shows you how many data-collecting trackers are blocked with <strong>Enhanced Tracking Protection</strong>.
 
 
 ;Make your passwords portable
@@ -79,7 +79,7 @@ Download Mozilla Firefox, a free Web browser. Firefox is created by a global non
 
 
 ;<strong>Firefox Monitor</strong> alerts you if we know your information is a part of another company’s data breach.
-<strong>Firefox Monitor</strong> alerts you if we know your information is a part of another company’s data breach.
+<strong> Firefox Monitor</ strong> آپ کو متنبہ کرتا ہے اگر ہمیں معلوم ہے کہ آپ کی معلومات کسی اور کمپنی کے ڈیٹا کی خلاف ورزی کا حصہ ہے۔
 
 
 # String is obsolete. Do not remove.
@@ -89,7 +89,7 @@ Firefox میں شامل ہوں
 
 # String is obsolete. Do not remove.
 ;Connect to a whole family of respectful products, plus all the knowledge you need to protect yourself online.
-معززمصنوعات کےایک پورے کنبہ سےمربوط ہوں ، نیزآن لائن حفاظت کےتمام علم کےساتھ۔
+Connect to a whole family of respectful products, plus all the knowledge you need to protect yourself online.
 
 
 # String is obsolete. Do not remove.
@@ -109,7 +109,7 @@ Firefox میں شامل ہوں
 
 # String is obsolete. Do not remove.
 ;<strong>Private Browsing</strong> clears your history to keep it secret from anyone who uses your computer.
-<strong>Private Browsing</strong> clears your history to keep it secret from anyone who uses your computer.
+<strong>نجی براؤزنگ</strong> آپ کے کمپیوٹر کو استعمال کرنے والے ہر شخص سے خفیہ رکھنے کے لیے آپ کی تلاش اور براؤزنگ کی سابقات کو صاف کردیتی ہے۔
 
 
 ;Advanced Install Options & Other Platforms
@@ -139,7 +139,7 @@ Linuxکے لئے <br>Firefox ڈاؤن لوڈ کریں
 
 
 ;Watch for hackers with Firefox Monitor, protect passwords with Firefox Lockwise, and more.
-فائر فاکس مانیٹر والے ہیکرز کو دیکھیں ، فائر فاکس لاک ویز کے ساتھ پاس ورڈز کی حفاظت کریں اور بہت کچھ۔
+Watch for hackers with Firefox Monitor, protect passwords with Firefox Lockwise, and more.
 
 
 ;Get More From Firefox
@@ -155,7 +155,7 @@ You’re using an insecure, outdated operating system <a href="%(url)s">no longe
 
 
 ;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+آپ کا ڈاؤن لوڈ خودبخود شروع ہو جایے گی ۔ کام نہیں کیا؟ <a id="%(id)s" href="%(fallback_url)s"> دوبارہ ڈاؤن لوڈ کرنے کی کوشش کریں </a>۔
 
 
 ;Firefox is more than a browser.
@@ -163,7 +163,7 @@ Firefox براؤزر سے زیادہ ہے۔
 
 
 ;It’s <strong>privacy and peace of mind</strong> on mobile, too.
-It’s <strong>privacy and peace of mind</strong> on mobile, too.
+یہ بھی ، موبائل پر <strong> رازداری اور ذہنی سکون </ strong> ہے۔
 
 
 ;It’s a <strong>family of products</strong> that treat your personal data with respect.

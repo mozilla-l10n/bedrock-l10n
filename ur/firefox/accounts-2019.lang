@@ -53,7 +53,7 @@ Firefox میں شامل ہوں
 
 # the span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 ;You’re signed <br>in to Firefox. <br><span>Now try Firefox Monitor.</span>
-آپ نے فائر فاکس میں <br> سائن ان کیا ہے۔ <br> <span> اب فائر فاکس مانیٹر آزمائیں۔ </ span>
+آپ نے Firefox میں <br> سائن ان کیا ہے۔ <br> <span> اب Firefoxمانیٹر آزمائیں۔ </ span>
 
 
 ;See if you’ve been involved in an online data breach.
@@ -80,7 +80,7 @@ Firefox وہ ٹکنالوجی ہے جو آپ کے لئے لڑتی ہے۔
 
 # This is not a complete proper name; "Firefox" is a proper name that shouldn't be translated, but you can choose to translate "browser". Span for formatting.
 ;Firefox <span>browser</span>
-فائر فاکس <span> براؤزر </ span>
+Firefox <span>براؤزر</span>
 
 
 ;Travel the internet with protection, on every device.
@@ -92,7 +92,7 @@ Firefox وہ ٹکنالوجی ہے جو آپ کے لئے لڑتی ہے۔
 
 
 ;Get a lookout for data breaches.
-ڈیٹا کی خلاف ورزیوں کے لئے تلاش کریں۔
+Get a lookout for data breaches.
 
 
 ;Share large files without prying eyes.
@@ -105,7 +105,7 @@ Firefox وہ ٹکنالوجی ہے جو آپ کے لئے لڑتی ہے۔
 
 # String is obsolete. Do not remove.
 ;And get it all on every device, without feeling trapped in a single operating system.
-اور یہ سب کچھ کسی ایک آپریٹنگ سسٹم میں پھنسے ہوئے محسوس کیے بغیر ، ہر آلہ پر حاصل کریں۔
+And get it all on every device, without feeling trapped in a single operating system.
 
 
 ;Get the respect you deserve.
@@ -138,7 +138,7 @@ Firefox وہ ٹکنالوجی ہے جو آپ کے لئے لڑتی ہے۔
 
 
 ;Get into the open source spirit by test-driving upcoming products.
-آئندہ مصنوعات کی جانچ کر کے اوپن سورس کے جذبے میں شامل ہوں۔
+Get into the open source spirit by test-driving upcoming products.
 
 
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.

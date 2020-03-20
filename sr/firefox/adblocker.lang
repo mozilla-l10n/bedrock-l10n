@@ -3,94 +3,94 @@
 
 # HTML page title
 ;How to block annoying ads using an ad blocker
-How to block annoying ads using an ad blocker
+Како користити блокатор огласа за блокирање досадних огласа
 
 
 # HTML page description
 ;How to stop seeing too many ads and keep companies from following you around online. An ad blocker guide from the Firefox web browser.
-How to stop seeing too many ads and keep companies from following you around online. An ad blocker guide from the Firefox web browser.
+Како смањити број огласа које видите или спречити компаније да вас прате по интернету. Водич за блокирање огласа у Firefox веб прегледачу.
 
 
 ;The ad blocker – a secret weapon against annoying ads.
-The ad blocker – a secret weapon against annoying ads.
+Блокатор огласа – тајно оружје против досадних огласа и реклама.
 
 
 ;So many ads, so little patience… It’s time to stop the madness.
-So many ads, so little patience… It’s time to stop the madness.
+Тако много огласа, а тако мало стрпљења... Време је да се заустави лудило.
 
 
 ;The average person sees an average of 4,000 ads a day. If you think that’s too many, an ad blocker is your new best friend.
-The average person sees an average of 4,000 ads a day. If you think that’s too many, an ad blocker is your new best friend.
+Људи виде око 4000 огласа дневно. Ако се слажете са нама да је то превише, блокатор огласа је онда ваш нови најбољи пријатељ.
 
 
 ;An ad blocker is a piece of software that can be used to block ads, and they work in two ways. The first way is when an ad blocker blocks the signal from an advertiser’s server, so the ad never shows up on your page. Another way ad blockers work is by blocking out sections of a website that could be ads.
-An ad blocker is a piece of software that can be used to block ads, and they work in two ways. The first way is when an ad blocker blocks the signal from an advertiser’s server, so the ad never shows up on your page. Another way ad blockers work is by blocking out sections of a website that could be ads.
+Блокатор огласа је софтвер који блокира огласе и ради на два начина. Први је да директно блокирате сигнал са сервера оглашивача, како се огласи не би појављивали више на вашим страницама. Други начин је да блокирате садржај странице који може да буде оглас.
 
 
 ;These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
-These ads might be loud video ads, ads that follow you around the web, trackers, third-party cookies, and more. To use an ad blocker, you can search for ad blocker add-ons that are available in your browser. <a href="%(firefox)s">Firefox</a>, for example, has <a href="%(addons)s">this list of approved ad blocker add-ons</a>. Click on this list (or ad blockers that are approved for your browser) and see which fits your needs.
+Ови огласи могу бити гласни видео огласи, рекламе које вас прате на интернету, колачићи трећих страна и још много тога. Да бисте користили блокатор огласа, можете претраживати додатке који су доступни за ваш прегледач. <a href="%(firefox)s">Firefox</a>, на пример, има <a href="%(addons)s">ову листу одобрених додатака за блокирање огласа</a>. Кликните на ову листу и погледајте који од њих задовољава ваше потребе.
 
 
 ;Find the right ad blocker for you
-Find the right ad blocker for you
+Пронађите блокатор огласа који вам одговара
 
 
 ;There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
-There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single ad, but buyer beware. Some of your favorite newspapers and magazines rely on advertising. Too many people blocking their ads could put them out of business.
+Постоји <a href="%(url)s">AdBlocker Ultimate</a> који се решава свих огласа, али треба да обратите пажњу на следеће. Неке од ваших омиљених новина и часописа зависе од огласа. Превише људи који блокирају њихове огласе може да их доведе до банкрота.
 
 
 ;Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
-Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
+Огласи у искачућим прозорима су најгори. Блокирајте их са <a href="%(url)s">Popup Blocker-ом</a> и више се не замајавајте с овим досадним огласима.
 
 
 ;One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
-One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
+Један од најпопуларнијих блокатора огласа за Chrome, Safari и Firefox је <a href="%(url)s">AdBlock</a>. Користите га да блокирате огласе на страницама као што су Facebook, YouTube и Hulu.
 
 
 # A tracker-free zone means a no tracker zone.
 ;Create a tracker-free zone with Content Blocking
-Create a tracker-free zone with Content Blocking
+Створите зону без праћења уз блокирање огласа
 
 
 ;On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
-On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
+У Firefox-у можете користити подешавања за <a href="%(privacy)s">приватност</a> или <a href="%(blocking)s">блокирање огласа</a> да добијете више контроле над софтвером за праћење који приказују огласе.
 
 
 ;Choose your level of protection
-Choose your level of protection
+Изаберите ниво заштите
 
 
 ;To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
-To start, click on the Firefox menu in the top right-hand corner of your screen. It looks like three lines stacked on top of each other. In the drop-down menu, click on Content Blocking. You should see a blue pop-up with different selections.
+Прво кликните на тастер Firefox менија у горњем десном углу екрана, који изгледа као да су три линије наслагане једна на другу. У падајућем менију изаберите блокирање садржаја. Требало би да видите плави прозор са различитим опцијама.
 
 
 ;Go easy with Standard mode
-Go easy with Standard mode
+Лаганим кораком уз стандардни режим
 
 
 ;If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
-If ads don’t bother you and you don’t mind being followed by trackers and third-party cookies, then the Standard setting should work for you. To get trackers off your tail in Standard mode, use a <a href="%(url)s">Private Browsing</a> window.
+Ако вам огласи не сметају и ако немате ништа против софтвера за праћење и колачића треће стране, стандардна подешавања би вам требала бити довољна. Да бисте се ослободили трагача у стандардном режиму, користите прозор за <a href="%(url)s">приватно прегледање</a>.
 
 
 ;Get tough with Strict mode
-Get tough with Strict mode
+Очврсните уз строги режим
 
 
 ;If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
-If seeing too many ads ruins your day, then the Strict mode is a better fit. This mode will block known third-party trackers and cookies in all Firefox windows.
+Ако вам превише огласа упропасти дан, строги режим је најбољи за вас. Овај режим ће блокирати све познате трагаче и колачиће у свим прозорима Firefox-а.
 
 
 ;Do-it-yourself Custom mode
-Do-it-yourself Custom mode
+Урадите сами прилагођени режим
 
 
 ;The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
-The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
+Прилагођени режим вам даје крајњи избор. Можете да одлучите који ћете блокирати од трагача, колачића и сл. Ако дозволите колачиће са веб странице, аутоматски ћете ући у прилагођени режим.
 
 
 # ’Cover your trail’ means cover your browsing history.
 ;Cover your trail, block trackers
-Cover your trail, block trackers
+Блокирајте трагаче, заметните трагове
 
 
 ;Click on the Trackers box and you’ll be able to block trackers in two ways. One way to block trackers is to do it when you’re working in a Private Window. Another way to do it is to block trackers in all windows. Keep in mind that if you choose to always block trackers, some pages might not load correctly.

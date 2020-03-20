@@ -3,7 +3,7 @@
 
 # HTML page title
 ;What’s new with Firefox - Make Firefox your default browser
-Firefox کے ساتھ نیا کیا ہے - فائر فاکس کو اپنا  طےشدہ براؤزر بنائیں
+What’s new with Firefox - Make Firefox your default browser
 
 
 ;Congrats! You’re using the latest version of Firefox.
@@ -60,7 +60,7 @@ The internet keeps finding new ways to poach your personal data. Firefox is the 
 
 
 ;Firefox is fast and safe on Windows, iOS, Android, Linux…and across them all. You deserve choices in browsers and devices, instead of decisions made for you.
-Firefox is fast and safe on Windows, iOS, Android, Linux…and across them all. You deserve choices in browsers and devices, instead of decisions made for you.
+Firefox Windows، iOS، Android ، Linux… ان سب پر تیز اور محفوظ ہے۔ آپ اپنے لئے کیے گئے فیصلوں کے بجائے براؤزرز اور آلات میں انتخاب کے مستحق ہیں۔
 
 
 # String is obsolete. Do not remove.
@@ -73,12 +73,12 @@ Firefox is fast and safe on Windows, iOS, Android, Linux...and across them all. 
 
 
 ;Firefox is the only major independent browser. Chrome, Edge and Brave are all built on Google code, which means giving Google even more control of the internet.
-Firefox is the only major independent browser. Chrome, Edge and Brave are all built on Google code, which means giving Google even more control of the internet.
+Firefox واحد واحد بڑا آزاد براؤزر ہے۔Chrome, Edge and Brave  یہ سب Google کوڈ پر بنائے گئے ہیں ، جس کا مطلب ہے کہ Google کو انٹرنیٹ پر اور بھی زیادہ کنٹرول دیا جائے۔
 
 
 # String is obsolete. Do not remove.
 ;Firefox is the only major independent browser. Chrome, Edge and Brave are all built with code from Google, the world’s largest ad network.
-Firefox is the only major independent browser. Chrome, Edge and Brave are all built with code from Google, the world’s largest ad network.
+Firefox واحد بڑا آزاد براؤزر ہے ، Chrome, Edge اورBrave سب Google کے کوڈ کے ساتھ تعمیر کیے گئے ہیں جو دنیا کا سب سے بڑا اشتہاری نیٹ ورک ہے۔
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.

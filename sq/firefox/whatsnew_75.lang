@@ -1,93 +1,94 @@
+## active ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/75.0/whatsnew/all/
 
 
 # HTML page title
 ;What’s new with Firefox
-What’s new with Firefox
+Ç’ka të re te Firefox-i
 
 
 ;Congrats! You’re using the latest version of Firefox.
-Congrats! You’re using the latest version of Firefox.
+Përgëzime! Po përdorni versionin më të ri të Firefox-it.
 
 
 # Main title for signed out users
 ;Pick up Firefox where you left off
-Pick up Firefox where you left off
+Vazhdoni me Firefox-in atje ku e latë
 
 
 ;Whether you’re using Firefox on your phone or computer, make sure all your important stuff — internet searches, passwords, open tabs — appears where you need it.
-Whether you’re using Firefox on your phone or computer, make sure all your important stuff — internet searches, passwords, open tabs — appears where you need it.
+Qoftë kur e përdorni Firefox-in në telefonin tuaj, qoftë në kompjuterin tuaj, sigurohuni që krejt gjërat tuaja të rëndësishme — kërkime në internet, fjalëkalime, skeda të hapura — shfaqen kur ju duhen.
 
 
 # CTA button for signed out users
 ;Sync your phone
-Sync your phone
+Njëkohësoni telefonin tuaj
 
 
 # Main title for signed in users
 ;Stay ahead of hackers
-Stay ahead of hackers
+Jini një hap para hacker-ave
 
 
 ;Now Firefox Monitor not only informs you if you’ve been involved in known online data breaches, it also lets you take action to resolve them and get closure.
-Now Firefox Monitor not only informs you if you’ve been involved in known online data breaches, it also lets you take action to resolve them and get closure.
+Tanimë Firefox Monitor jo vetëm ju informon nëse jeni përfshirë në cenime të ditura të dhënash në internet, ju lejon edhe të veproni për t’i zgjidhur dhe mbyllur ato.
 
 
 # CTA button for signed in users
 ;Check your Breach Report
-Check your Breach Report
+Kontrolloni Raportin tuaj të Cenimeve
 
 
 ;Send tabs instantly
-Send tabs instantly
+Dërgoni skeda menjëherë
 
 
 ;The days of emailing links to yourself are over. Easily send your open tabs to any of your synced devices.
-The days of emailing links to yourself are over. Easily send your open tabs to any of your synced devices.
+Ikën ditët kur i dërgonit vetes lidhje me email. Dërgoni lehtësisht skeda tuajat të hapura në cilëndo prej pajisjeve tuaja.
 
 
 ;Preserve your history
-Preserve your history
+Ruani historikun tuaj
 
 
 ;It’s not a big deal until it’s not there. With Firefox Sync, your browsing history is always right where you expect it to be.
-It’s not a big deal until it’s not there. With Firefox Sync, your browsing history is always right where you expect it to be.
+S’është punë e madhe, deri kur të mos jetë më aty. Me Firefox Sync, historiku juaj i shfletimeve është mu atje ku prisni të jetë.
 
 
 ;Safely carry your passwords with you
-Safely carry your passwords with you
+Mbajini pa rrezik me vete fjalëkalimet tuaj
 
 
 # "Sync" and "Lockwise" are product names that shouldn't be translated.
 ;Sync together with Lockwise means you can securely store and manage the passwords you’ve saved on your phone, computer, or tablet.
-Sync together with Lockwise means you can securely store and manage the passwords you’ve saved on your phone, computer, or tablet.
+Sync-u tok me Lockwise do të thotë që mund të depozitoni dhe administroni pa rrezik fjalëkalimet që keni ruajtur në telefonin, kompjuterin apo tabletin tuaj.
 
 
 ;Stay alert to new breaches
-Stay alert to new breaches
+Jini i sinjalizuar rreth shkeljesh të reja
 
 
 ;If your information surfaces in a new data breach, we’ll send you an alert.
-If your information surfaces in a new data breach, we’ll send you an alert.
+Nëse të dhënat tuaja shfaqen në një shkelje të re të dhënash, do t’ju dërgojmë një sinjalizim.
 
 
 ;Monitor several emails
-Monitor several emails
+Mbikëqyrni disa email-e
 
 
 ;Get ongoing breach monitoring for multiple email addresses.
-Get ongoing breach monitoring for multiple email addresses.
+Përfitoni mbikëqyrje të vazhdueshme rreth shkeljesh, për shumë adresa email.
 
 
 ;Protect your online privacy
-Protect your online privacy
+Mbroni privatësinë tuaj internetore
 
 
 ;Find out what you need to do to keep your data safe from cyber criminals.
-Find out what you need to do to keep your data safe from cyber criminals.
+Shihni se ç’ju duhet për t’i mbajtur të dhënat tuaja të parrezikuara nga keqbërës kibernetikë.
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+Që të mësoni më tepër rreth se ç’ka të re te Firefox Browser, lexoni <a href="%(notes)s">Shënime Hedhjeje Në Qarkullim</a>.
 
 
