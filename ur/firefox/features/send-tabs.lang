@@ -5,7 +5,7 @@
 
 # HTML page title
 ;Take your browser tabs to go
-جانے کے لئے اپنے براؤزر ٹیبز لے لیں
+اپنے تبس کو ساتھ لے جاییں
 
 
 # HTML page description
@@ -23,11 +23,11 @@ Firefox اکائونٹ کے ساتھ اپنے ڈیسک ٹاپ برائوزر ک�
 
 
 ;View your open tabs across mobile and tablet devices by signing in to your Firefox Account.
-اپنے فائر فاکس اکاؤنٹ میں سائن ان کرکے اپنے کھلے ٹیبز کو موبائل اور ٹیبلٹ آلات پر دیکھیں۔
+اپنے Firefox اکاؤنٹ میں سائن ان کرکے اپنے کھلے ٹیبز کو موبائل اور ٹیبلٹ آلات پر دیکھیں۔
 
 
 ;View your open tabs across desktop and tablet too. Just sign in or create a Firefox account.
-اپنے کھلے ٹیبز کو ڈیسک ٹاپ اور ٹیبلٹ میں بھی دیکھیں۔ صرف سائن ان کریں یا فائر فاکس اکاؤنٹ بنائیں۔
+اپنے کھلے ٹیبز کو ڈیسک ٹاپ اور ٹیبلٹ میں بھی دیکھیں۔ صرف سائن ان کریں یا Firefox اکاؤنٹ بنائیں۔
 
 
 # Button label displayed to users of Firefox 31 and later, not signed in to Firefox Accounts
@@ -56,12 +56,12 @@ Firefox اکائونٹ کے ساتھ اپنے ڈیسک ٹاپ برائوزر ک�
 
 # Email is a verb here.
 ;Still email links to yourself? Send tabs between devices instead.
-اب بھی اپنے آپ کو  لنکس ای میل کررہے ہیں؟ اس کے بجائے آلات کے درمیان ٹیبز بھیجیں۔
+پھر بھی اپنے آپ کو ای میل ربط ارسال کرتے کریں؟ اس کے بجائے آلات کے درمیان ٹیبز بھیجیں۔
 
 
 # Hop here means switch between electronic devices effortlessly.
 ;Device hop like a pro
-ایک پرو کی طرح کے الیکٹرانک آلات کے درمیان سہولت کے ساتھ سوئچ کریں
+Device hop like a pro
 
 
 # This describes that you start a session on a desktop, then you can continue on a mobile device at a later time.
@@ -95,7 +95,7 @@ Firefox Account کے ساتھ آپ کے کوائف محفوظ ہیں۔
 
 # Obsolete string, do not remove
 ;Get Firefox on your devices to get started. Then, sign into your Firefox Account to share tabs.
-شروع کرنے کے لئے اپنے آلات پر فائر فاکس حاصل کریں۔ تب ، ٹیبز کا اشتراک کرنے کے لئے اپنے فائر فاکس اکاؤنٹ میں سائن ان کریں۔
+شروع کرنے کے لئے اپنے آلات پر Firefox حاصل کریں۔ تب ، ٹیبز کا اشتراک کرنے کے لئے اپنے Firefox اکاؤنٹ میں سائن ان کریں۔
 
 
 # Obsolete string, do not remove

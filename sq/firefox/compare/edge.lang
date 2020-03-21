@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
 
@@ -45,59 +46,59 @@ Në Firefox, mënyra e Shfletimit Privat fshin automatikisht të dhëna tuajat t
 
 
 ;Both browsers are relatively equal in terms of data encryption. However, if online privacy and transparency are important to you, then Firefox is clearly a better choice here.
-Both browsers are relatively equal in terms of data encryption. However, if online privacy and transparency are important to you, then Firefox is clearly a better choice here.
+Të dy shfletuesit janë relativisht të barabartë, kur vjen punë te fshehtëzimi i të dhënave. Por, nëse privatësia dhe transparenca internetore janë të rëndësishme për ju, atëherë Firefox-i është qartazi një zgjidhje më e mirë këtu.
 
 
 ;Firefox is a fast and open source browser, which means users can customize their browsing experience in every way possible. Firefox also allows the casual user several different ways to customize the UI with applying different themes and toolbar configurations. Since our browser has always been open source we have a large following of devoted developers who have created an extensive library of add-ons and browser extensions.
-Firefox is a fast and open source browser, which means users can customize their browsing experience in every way possible. Firefox also allows the casual user several different ways to customize the UI with applying different themes and toolbar configurations. Since our browser has always been open source we have a large following of devoted developers who have created an extensive library of add-ons and browser extensions.
+Firefox-i është një shfletues i shpejtë dhe me burim të hapur, që do të thotë se përdoruesit mund ta përshtatin shfletimin e tyre në çdo rrugë të mundshme. Firefox-i i lejon gjithashtu përdoruesit të rëndomtë disa rrugë të ndryshme për përshtatjen e UI-t përmes aplikimit të temave të ndryshme grafike dhe formësimeve të paneleve. Ngaqë përdoruesi ynë ka qenë përherë me burim të hapur, kemi një bazë të gjerë zhvilluesish të përkushtuar që na ndjekin, të cilët kanë krijuar një librari të zgjeruar shtesash dhe zgjerimesh shfletuesi.
 
 
 ;Since Edge has moved to the processor intensive Chromium platform, you can expect it to run a little slower, especially if you have multiple programs running at once. However, with Chromium platform comes a massive library of extensions as well as a decent level of UI customization that Edge did not have before it’s move to Chromium.
-Since Edge has moved to the processor intensive Chromium platform, you can expect it to run a little slower, especially if you have multiple programs running at once. However, with Chromium platform comes a massive library of extensions as well as a decent level of UI customization that Edge did not have before it’s move to Chromium.
+Ngaqë Edge ka kaluar te platforma Chromium që e ngarkon mjaft procesorin, mund të prisni që të xhirojë pakëz më ngadalë, veçanërisht nëse keni shumë programe të hapur njëherësh. Sidoqoftë, me platformën Chromium vjen një librari shumë e madhe zgjerimesh, si dhe një shkallë e pranueshme e përshtatjes së UI-t që Edge-i nuk i kish para kalimit të vet nën Chromium.
 
 
 ;Edge has some nice UI features, like their tab previews which can make it easy to find the right open tabs if you’ve got a lot of them open. Another helpful tab-related feature lets you set aside any active tabs that you aren’t using but don’t want to close down.
-Edge has some nice UI features, like their tab previews which can make it easy to find the right open tabs if you’ve got a lot of them open. Another helpful tab-related feature lets you set aside any active tabs that you aren’t using but don’t want to close down.
+Edge-i ka disa veçori të lezetshme për UI-n, fjala vjen, paraparje e tij për skedat, që mund ta bëjë të lehtë gjetjen e skedave të hapura që ju duhen, nëse keni mjaft të tilla të hapura. Një tjetër veçori e dobishme skedash ju lejon të vini mënjanë çfarëdo skedash aktive që nuk po i përdorni, por që s’doni t’i mbyllni.
 
 
 ;Firefox features a scrolling tab interface, which keeps tab information viewable and scrolls them horizontally instead of shrinking them down to just favicon size. Also whenever you open a new tab, our <a %(attrs)s>Pocket feature</a> suggests relevant articles and content for you. Plus with Pocket, you can also save articles, videos, and other content with one click, for reading at a later time.
-Firefox features a scrolling tab interface, which keeps tab information viewable and scrolls them horizontally instead of shrinking them down to just favicon size. Also whenever you open a new tab, our <a %(attrs)s>Pocket feature</a> suggests relevant articles and content for you. Plus with Pocket, you can also save articles, videos, and other content with one click, for reading at a later time.
+Firefox-i përmban një ndërfaqe skedash nëpër të cilat mund të kalohet, çka e mban informacionin mbi skedat të dukshëm dhe nëpër to mund të lëvizet horizontalisht, në vend se tkurren thjesht sa madhësi favikonash. Veç kësaj, kurdo që hapni një skedë të re, <a %(attrs)s>veçoria jonë Pocket</a> sugjeron për ju artikuj dhe lëndë të ngjashme. Plus që, me Pocket-in, mundeni edhe të ruani me një klikim artikuj, video dhe lëndë tjetër, për t’u marrë me to më vonë.
 
 
 ;Firefox and Edge both offer excellent reading modes. With Firefox you just tap on the small icon in the search bar and the browser strips down all unnecessary elements and presents you a clean looking article. In Edge you just tap on the small book icon and browser to get a clean easy-to-read UI.
-Firefox and Edge both offer excellent reading modes. With Firefox you just tap on the small icon in the search bar and the browser strips down all unnecessary elements and presents you a clean looking article. In Edge you just tap on the small book icon and browser to get a clean easy-to-read UI.
+Firefox-i dhe Edge-i që të dy ofrojnë mënyra të shkëlqyera leximi. Me Firefox-in ju thjesht prekni ikonën e vockël te shtylla e kërkimeve dhe shfletuesi zhvesh krejt elementet e panevojshëm dhe ju paraqet një artikull me pamje të qëruar. Në Edge ju thjesht prekni ikonën e vockël libër te shfletuesi që të keni një UI të qëruar, të lehtë për lexim.
 
 
 ;Firefox also includes lots of handy built-in features by default like <a %(attrs)s>Enhanced Tracking Protection</a>, a built-in screenshot tool, large file sending and more.
-Firefox also includes lots of handy built-in features by default like <a %(attrs)s>Enhanced Tracking Protection</a>, a built-in screenshot tool, large file sending and more.
+Firefox-i, si parazgjedhje, përmban gjithashtu plot veçori të brendshme të dobishme, të tilla si <a %(attrs)s>Mbrojte e Thelluar Nga Gjurmimi</a>, një mjet të brendshëm për foto ekrani, dërgim kartelash të mëdha, etj.
 
 
 # "Out of the gate" means from the very start. Alternative: "From the start,". Race horses are held behind a gate that is opened to release all the horses at the same time at the start of the race, so a horse that leads the race from the very start is said to lead "right out of the gate."
 ;Out of the gate, Firefox has more features and integrations built into the browser and readily available on download. And while both browsers have a tremendous number of add-ons and extensions available, Edge’s compatibility with Google’s Chromium platform gives it the advantage in terms of sheer numbers.
-Out of the gate, Firefox has more features and integrations built into the browser and readily available on download. And while both browsers have a tremendous number of add-ons and extensions available, Edge’s compatibility with Google’s Chromium platform gives it the advantage in terms of sheer numbers.
+Drejt e nga furra, Firefox-i ka më tepër veçori dhe integrime të sendërtuara te shfletuesi dhe të tjera gati për shkarkim. Dhe, teksa që të dy shfletuesit, kanë një numër të hatashëm shtesash dhe zgjerimesh, përputhshëmria e Edge-it me platformën Chromium të Google-it i jep avantazhin, kur është fjala thjesht për numrin.
 
 
 ;With Internet Explorer, Microsoft learned from its lack of availability across platforms and made Edge available for macOS and Android. The software is now readily available on iOS, Android, Windows and Mac.
-With Internet Explorer, Microsoft learned from its lack of availability across platforms and made Edge available for macOS and Android. The software is now readily available on iOS, Android, Windows and Mac.
+Microsoft-i vuri mend nga mospasja e Internet Explorer-it për platforma të tjera dhe e bëri Edge-in të passhëm për macOS dhe Android. Software-i tani është gati për iOS, Android, Windows dhe Mac.
 
 
 ;Firefox has been available on iOS, Android, Windows, macOS and Linux for years. And as you would expect with any modern browser, Firefox lets you log in with a <a %(attrs)s>free account</a> and sync data such as passwords, browsing history, bookmarks, and open tabs between your computer, tablet and phone. It also allows you to sync across platforms as well.
-Firefox has been available on iOS, Android, Windows, macOS and Linux for years. And as you would expect with any modern browser, Firefox lets you log in with a <a %(attrs)s>free account</a> and sync data such as passwords, browsing history, bookmarks, and open tabs between your computer, tablet and phone. It also allows you to sync across platforms as well.
+Firefox-i ka qenë i passhëm në iOS, Android, Windows, macOS dhe Linux për vite të tëra. Dhe, siç do të prisnit nga cilido shfletues modern, Firefox-i ju lejon të bëni hyrje me një <a %(attrs)s>llogari falas</a> dhe të njëkohësoni të dhëna të tilla si fjalëkalime, historik shfletimesh, faqerojtës dhe skeda të hapura, mes kompjuterit tuaj, tabletit dhe telefonit. Ju ljeon gjithashtu të bëni njëkohësim nëpër platforma.
 
 
 ;Edge also allows you to connect your associated Microsoft account and sign in to sync your favorites, history, passwords, and more between your computer and iOS or Android devices, although some Android tablets are not currently supported.
-Edge also allows you to connect your associated Microsoft account and sign in to sync your favorites, history, passwords, and more between your computer and iOS or Android devices, although some Android tablets are not currently supported.
+Edge-i ju lejon gjithashtu të lidhni llogarinë tuaj Microsoft dhe të bëni hyrje në llogari për të njëkohësuar të parapëlqyerit tuaj, historikun, fjalëkalimet, etj, mes kompjuterit tuaj dhe pajisjesh iOS ose Android, megjithëqë kjo nuk mbulohet për disa tablete Android.
 
 
 ;Aside from sucking up a lot of computing power, Edge running on Chromium has answered a lot of users’ needs for functionality and features. But there’s still a lot to account for in terms of the browser’s privacy protections. It’s our assessment that Firefox is still a better choice for most people to use in their daily lives, based not only on functionality but more importantly on our transparency in how we collect user data, what exactly we collect, and what we do with it. Because our parent company is <a %(attrs)s>Mozilla</a>, a non-profit organization dedicated to internet privacy and freedom, we simply have a different set of priorities when it comes to users’ data.
-Aside from sucking up a lot of computing power, Edge running on Chromium has answered a lot of users’ needs for functionality and features. But there’s still a lot to account for in terms of the browser’s privacy protections. It’s our assessment that Firefox is still a better choice for most people to use in their daily lives, based not only on functionality but more importantly on our transparency in how we collect user data, what exactly we collect, and what we do with it. Because our parent company is <a %(attrs)s>Mozilla</a>, a non-profit organization dedicated to internet privacy and freedom, we simply have a different set of priorities when it comes to users’ data.
+Hiq ngrënien e mjaft fuqie përllogaritëse, Edge-i me xhirim nën Chromium ka dhënë përgjigje për mjaft nga nevojat e përdoruesve lidhur me funksione dhe veçori. Por ka ende plot gjëra që duhen peshuar, kur vjen puna te mbrojtja e privatësisë nga shfletuesi. Gjykimi ynë është Firefox-i prapë është një zgjedhje më e mirë për shumicën e njerëzve për përdorim në jetën e tyre të përditshme, bazuar jo vetëm te funksionet, por, më me rëndësi, në transparencën tonë mbi se si grumbullojmë të dhëna përdoruesish dhe se ç’bëjmë me to. Ngaqë shoqëria jonë mëmë është <a %(attrs)s>Mozilla</a>, një ent jofitimprurës i përkushtuar privatësisë dhe lirisë në internet, thjesht kemi tjetër grup përparësish, kur vjen puna te të dhënat e përdoruesit.
 
 
 ;The bottom line is that while we suggest using Firefox, the best browser for you ultimately will be the one that fits your individual needs with extension support, browsing tools customization, speed, privacy and security.
-The bottom line is that while we suggest using Firefox, the best browser for you ultimately will be the one that fits your individual needs with extension support, browsing tools customization, speed, privacy and security.
+Pra, ideja është se, teksa ne këshillojmë përdorimin e Firefox-it, shfletuesi më i mirë për ju përfundimisht do të jetë një që plotëson nevojat tuaja individuale, me mbulim zgjerimesh, përshtatje mjetesh shfletimi, shpejtësi, privatësi dhe siguri.
 
 
 ;The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Edge (44)
-The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Edge (44)
+Krahasimet e bëra këtu u kryen duke përdorur versione hedhjesh në qarkullim si vijon:<br> Firefox (70) | Edge (44)
 
 
