@@ -1,4 +1,5 @@
 ## active ##
+## 404_update_2020 ##
 ## NOTE: page is at https://www-dev.allizom.org/404/
 
 
@@ -7,27 +8,27 @@ Errore 404: pagina non trovata
 
 
 ;Sorry, we can’t find that page
-Sorry, we can’t find that page
+Siamo spiacenti, pagina non trovata.
 
 
 ;We’re all about a healthy internet but sometimes broken URLs happen.
-We’re all about a healthy internet but sometimes broken URLs happen.
+Mantenere Internet in salute è la nostra priorità, ma può sempre capitare un URL non funzionante.
 
 
 ;Go Back
-Go Back
+Torna indietro
 
 
 ;<a href="%(about)s">Learn</a> about Mozilla, the non-profit behind Firefox.
-<a href="%(about)s">Learn</a> about Mozilla, the non-profit behind Firefox.
+<a href="%(about)s">Ulteriori informazioni</a> su Mozilla, l’organizzazione senza fini di lucro che ha realizzato Firefox.
 
 
 ;<a href=%(explore)s>Explore</a> the entire family for Firefox products designed to respect your privacy.
-<a href=%(explore)s>Explore</a> the entire family for Firefox products designed to respect your privacy.
+<a href=%(explore)s>Esplora</a> l‘intera famiglia di prodotti Firefox progettati per rispettare la tua privacy.
 
 
 ;<a href=%(download)s>Download</a> the Firefox browser for your mobile device or desktop
-<a href=%(download)s>Download</a> the Firefox browser for your mobile device or desktop
+<a href=%(download)s>Scarica</a> il browser Firefox per il tuo dispositivo mobile o desktop.
 
 
 # This string is obsolete. Do not remove.
