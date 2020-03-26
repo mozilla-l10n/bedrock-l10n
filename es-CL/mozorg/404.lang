@@ -1,4 +1,5 @@
 ## active ##
+## 404_update_2020 ##
 ## NOTE: page is at https://www-dev.allizom.org/404/
 
 
@@ -11,7 +12,7 @@ Lo sentimos. no podemos encontrar esa página
 
 
 ;We’re all about a healthy internet but sometimes broken URLs happen.
-We’re all about a healthy internet but sometimes broken URLs happen.
+Luchamos por un Internet saludable, pero que dejen de funcionar las URL es algo que pasa.
 
 
 ;Go Back
@@ -19,15 +20,15 @@ Retroceder
 
 
 ;<a href="%(about)s">Learn</a> about Mozilla, the non-profit behind Firefox.
-<a href="%(about)s">Learn</a> about Mozilla, the non-profit behind Firefox.
+<a href="%(about)s">Aprende </a> acerca de Mozilla, la organización sin fines de lucro detrás de Firefox.
 
 
 ;<a href=%(explore)s>Explore</a> the entire family for Firefox products designed to respect your privacy.
-<a href=%(explore)s>Explore</a> the entire family for Firefox products designed to respect your privacy.
+<a href=%(explore)s>Explora</a> la familia completa de productos Firefox diseñados para respetar tu privacidad.
 
 
 ;<a href=%(download)s>Download</a> the Firefox browser for your mobile device or desktop
-<a href=%(download)s>Download</a> the Firefox browser for your mobile device or desktop
+<a href=%(download)s>Baja</a> el navegador Firefox para tu dispositivo móvil o computador de escritorio
 
 
 # This string is obsolete. Do not remove.

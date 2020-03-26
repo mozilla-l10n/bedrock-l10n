@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
 
@@ -21,7 +22,7 @@ No Windows 10, a Microsoft lançou seu navegador Edge para competir com o Firefo
 
 
 ;Here we’ll compare our Firefox Browser to the Chromium-based Microsoft Edge in terms of privacy, utility, and portability, to help you have a better understanding of which browser better suits your needs and preferences.
-Aqui compararemos nosso navegador Firefox com o Microsoft Edge, baseado no Chromium, em termos de privacidade, utilidade e portabilidade, para lhe ajudar a entender melhor qual navegador melhor satisfaz suas necessidades e preferências.
+Vamos comparar nosso navegador Firefox com o Microsoft Edge, baseado no Chromium, em termos de privacidade, utilidade e portabilidade, para lhe ajudar a entender melhor qual navegador melhor satisfaz suas necessidades e preferências.
 
 
 ;Edge is integrated into the Windows 10 platform and runs in a sandbox environment, meaning it isolates programs and prevents malicious programs from spying on your computer. It has a built-in SmartScreen that scans the reputation of sites you visit and blocks suspicious sites. To enhance privacy, Edge allows you to use biometrics or a PIN with Windows Hello instead of passwords for online authentication.
@@ -82,19 +83,19 @@ Com o Internet Explorer, a Microsoft aprendeu com a falta de disponibilidade em 
 
 
 ;Firefox has been available on iOS, Android, Windows, macOS and Linux for years. And as you would expect with any modern browser, Firefox lets you log in with a <a %(attrs)s>free account</a> and sync data such as passwords, browsing history, bookmarks, and open tabs between your computer, tablet and phone. It also allows you to sync across platforms as well.
-Firefox has been available on iOS, Android, Windows, macOS and Linux for years. And as you would expect with any modern browser, Firefox lets you log in with a <a %(attrs)s>free account</a> and sync data such as passwords, browsing history, bookmarks, and open tabs between your computer, tablet and phone. It also allows you to sync across platforms as well.
+O Firefox já está disponível há anos no iOS, Android, Windows, macOS e Linux. E como seria de se esperar em qualquer navegador moderno, o Firefox permite entrar com uma <a %(attrs)s>conta gratuita</a> e sincronizar dados como senhas, histórico de navegação, favoritos e abas abertas entre o computador, tablet e celular. Também permite sincronizar entre plataformas.
 
 
 ;Edge also allows you to connect your associated Microsoft account and sign in to sync your favorites, history, passwords, and more between your computer and iOS or Android devices, although some Android tablets are not currently supported.
-Edge also allows you to connect your associated Microsoft account and sign in to sync your favorites, history, passwords, and more between your computer and iOS or Android devices, although some Android tablets are not currently supported.
+O Edge também permite conectar sua conta Microsoft associada e entrar para sincronizar seus favoritos, histórico, senhas e muito mais entre seu computador e dispositivos iOS ou Android, embora alguns tablets Android não sejam suportados no momento.
 
 
 ;Aside from sucking up a lot of computing power, Edge running on Chromium has answered a lot of users’ needs for functionality and features. But there’s still a lot to account for in terms of the browser’s privacy protections. It’s our assessment that Firefox is still a better choice for most people to use in their daily lives, based not only on functionality but more importantly on our transparency in how we collect user data, what exactly we collect, and what we do with it. Because our parent company is <a %(attrs)s>Mozilla</a>, a non-profit organization dedicated to internet privacy and freedom, we simply have a different set of priorities when it comes to users’ data.
-Aside from sucking up a lot of computing power, Edge running on Chromium has answered a lot of users’ needs for functionality and features. But there’s still a lot to account for in terms of the browser’s privacy protections. It’s our assessment that Firefox is still a better choice for most people to use in their daily lives, based not only on functionality but more importantly on our transparency in how we collect user data, what exactly we collect, and what we do with it. Because our parent company is <a %(attrs)s>Mozilla</a>, a non-profit organization dedicated to internet privacy and freedom, we simply have a different set of priorities when it comes to users’ data.
+Apesar de consumir muito poder computacional, o Edge baseado no Chromium atendeu muitas necessidades de funcionalidades e recursos dos usuários. Mas ainda há muito a considerar em termos de proteções de privacidade do navegador. Avaliamos que o Firefox ainda é uma escolha melhor para a maioria das pessoas, com base não apenas na funcionalidade, mas mais importante, na nossa transparência na maneira como coletamos dados do usuário, o que exatamente coletamos e o que fazemos com isso. Como nossa empresa matriz é a <a %(attrs)s>Mozilla</a>, uma organização sem fins lucrativos dedicada à privacidade e liberdade na internet, simplesmente temos um conjunto diferente de prioridades no que diz respeito aos dados dos usuários.
 
 
 ;The bottom line is that while we suggest using Firefox, the best browser for you ultimately will be the one that fits your individual needs with extension support, browsing tools customization, speed, privacy and security.
-The bottom line is that while we suggest using Firefox, the best browser for you ultimately will be the one that fits your individual needs with extension support, browsing tools customization, speed, privacy and security.
+A conclusão é que, embora nossa sugestão seja usar o Firefox, o melhor navegador para você no final das contas será o que melhor atender suas necessidades individuais com suporte a extensões, personalização de ferramentas de navegação, velocidade, privacidade e segurança.
 
 
 ;The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Edge (44)

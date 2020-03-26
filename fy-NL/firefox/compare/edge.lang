@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
 
@@ -21,83 +22,83 @@ Mei Windows 10 hat Microsoft syn browser Edge yntrodusearre, standert ynstallear
 
 
 ;Here we’ll compare our Firefox Browser to the Chromium-based Microsoft Edge in terms of privacy, utility, and portability, to help you have a better understanding of which browser better suits your needs and preferences.
-Here we’ll compare our Firefox Browser to the Chromium-based Microsoft Edge in terms of privacy, utility, and portability, to help you have a better understanding of which browser better suits your needs and preferences.
+Hjir fergelykje wy ús Firefox Browser mei it op Chromium basearre Microsoft Edge op it mêd fan privacy, brûkberheid en portabiliteit, om jo in better begryp te jaan fan hokker browser it beste by jo past op basis fan jo behoeften en foarkarren.
 
 
 ;Edge is integrated into the Windows 10 platform and runs in a sandbox environment, meaning it isolates programs and prevents malicious programs from spying on your computer. It has a built-in SmartScreen that scans the reputation of sites you visit and blocks suspicious sites. To enhance privacy, Edge allows you to use biometrics or a PIN with Windows Hello instead of passwords for online authentication.
-Edge is integrated into the Windows 10 platform and runs in a sandbox environment, meaning it isolates programs and prevents malicious programs from spying on your computer. It has a built-in SmartScreen that scans the reputation of sites you visit and blocks suspicious sites. To enhance privacy, Edge allows you to use biometrics or a PIN with Windows Hello instead of passwords for online authentication.
+Edge is yntegrearre yn Windows 10 en wurdt útfierd yn in sandbox-omjouwing. Dat betsjut dat it programma’s isolearret en foarkomt dat skealike programma’s jo kompjûter bespionearje. It hat in ynboud SmartScreen dat de reputaasje neigiet fan websites dy't jo besykje en fertochte websites blokkearret. Om jo privacy te beskermjen kinne jo yn Edge fia Windows Hello oanmelde mei biometry of in pinkoade yn stee fan mei in wachtwurd.
 
 
 ;However, Edge saves some of your private data and sends it back to Microsoft with Windows updates. At 45 cryptically worded pages long, the privacy policy for Edge is unlikely to be read or understood by the average user.
-However, Edge saves some of your private data and sends it back to Microsoft with Windows updates. At 45 cryptically worded pages long, the privacy policy for Edge is unlikely to be read or understood by the average user.
+Edge slacht echter wol persoanlike gegevens op en ferstjoert dy nei Microsoft by fernijingen fan Windows. Wierskynlik sille net folle brûkers de 45 siden fol kryptyske formulearringen tellende privacyferklearring fan Microsoft lêze of begripe.
 
 
 ;At Firefox, our <a %(attrs)s>privacy policy</a> is transparent and in plain language. We actually put a lot of work into making sure it was straightforward and easy to read. We pride ourselves in protecting our users security and privacy. With Enhanced Tracking Protection now on by default, we block 2000+ trackers automatically. Trackers are those little pieces of code that try to piece together what you're doing across multiple internet sites to build a composite and detailed picture of who you are, compromising your privacy all just to target better ads.
-At Firefox, our <a %(attrs)s>privacy policy</a> is transparent and in plain language. We actually put a lot of work into making sure it was straightforward and easy to read. We pride ourselves in protecting our users security and privacy. With Enhanced Tracking Protection now on by default, we block 2000+ trackers automatically. Trackers are those little pieces of code that try to piece together what you're doing across multiple internet sites to build a composite and detailed picture of who you are, compromising your privacy all just to target better ads.
+De <a %(attrs)s>privacyferklearring</a> fan Firefox is helder en skreaun yn gewoane taal. Wy hawwe in protte muoite dien ús privacyferklearring dúdlik en maklik lêsber te meitsjen. Wy binne grutsk dat wy de feilichheid en privacy fan ús brûkers beskermje. Mei Ferbettere beskerming tsjin folgjen, dat no standert aktivearre is, blokkearje wy automatysk mear as 2000 trackers. Trackers binne stikjes koade dy't oan de hân fan jo aktiviteiten op ferskate websites probearje n detaillearre byld fan jo te krijen. Dêrmei skeine se jo privacy, allinnich mar om advertinsjes better op jo ôfstimme te kinnen.
 
 
 ;Your <a %(attrs)s>Privacy Protections</a> shows you the trackers and cookies that pages have attempted to leave, and how many Firefox has blocked for you.
-Your <a %(attrs)s>Privacy Protections</a> shows you the trackers and cookies that pages have attempted to leave, and how many Firefox has blocked for you.
+Jo <a %(attrs)s>Privacybeskermingen</a> toane jo de trackers en cookies dy't siden probearre hawwe te pleatsen, en hoefolle Firefox der foar jo blokkearre hat.
 
 
 ;In Firefox, Private Browsing mode automatically erases your browsing information like passwords, cookies, and history, leaving no trace after you close out the session. Edge on the other hand, actually records browsing history in their private mode (called “InPrivate”) and it’s a relatively easy task for someone to reconstruct your full browsing history, regardless of whether your browsing was done in regular or InPrivate mode.
-In Firefox, Private Browsing mode automatically erases your browsing information like passwords, cookies, and history, leaving no trace after you close out the session. Edge on the other hand, actually records browsing history in their private mode (called “InPrivate”) and it’s a relatively easy task for someone to reconstruct your full browsing history, regardless of whether your browsing was done in regular or InPrivate mode.
+Yn Firefox wisket de modus Priveenavigaasje automatysk ynformaasje as wachtwurden, cookies en skiednis. Sa litte jo gjin spoar efter as jo de sesje ôfsluten hawwe. Edge registrearret oan de oare kant hokker websites jo besykje yn de priveemodus, dy't yn Edge ‘InPrivate’ hjit. Jo aktiviteiten yn Edge binne sûnder in protte muoite te efterheljen, oft jo no InPrivate brûkt hawwe of net.
 
 
 ;Both browsers are relatively equal in terms of data encryption. However, if online privacy and transparency are important to you, then Firefox is clearly a better choice here.
-Both browsers are relatively equal in terms of data encryption. However, if online privacy and transparency are important to you, then Firefox is clearly a better choice here.
+Beide browsers gean reedlik gelyk op as it giet om fersifering fan gegevens. Mar as jo online privacy en transparânsje wichtich fine, dan is Firefox hjir dúdlik de bettere kar.
 
 
 ;Firefox is a fast and open source browser, which means users can customize their browsing experience in every way possible. Firefox also allows the casual user several different ways to customize the UI with applying different themes and toolbar configurations. Since our browser has always been open source we have a large following of devoted developers who have created an extensive library of add-ons and browser extensions.
-Firefox is a fast and open source browser, which means users can customize their browsing experience in every way possible. Firefox also allows the casual user several different ways to customize the UI with applying different themes and toolbar configurations. Since our browser has always been open source we have a large following of devoted developers who have created an extensive library of add-ons and browser extensions.
+Firefox is in snelle en iepenboarne browser. Dat betsjut dat brûkers harren sneupbelibbing op alle mooglike manieren oanpasse kinne. Ek gewoane brûkers kinne yn Firefox de brûkersynterface wizigje mei ferskate tema’s en arkbalkekonfiguraasjes. Omdat ús browser altyd iepenboarne west is, hawwe wy in grutte efterban fan dreaune ûntwikkelers dy't in wiidweidige kolleksje add-ons en browserútwreidingen makke hawwe.
 
 
 ;Since Edge has moved to the processor intensive Chromium platform, you can expect it to run a little slower, especially if you have multiple programs running at once. However, with Chromium platform comes a massive library of extensions as well as a decent level of UI customization that Edge did not have before it’s move to Chromium.
-Since Edge has moved to the processor intensive Chromium platform, you can expect it to run a little slower, especially if you have multiple programs running at once. However, with Chromium platform comes a massive library of extensions as well as a decent level of UI customization that Edge did not have before it’s move to Chromium.
+Jo kinne ferwachtsje dat Edge wat stadiger is, omdat dizze browser oerstapt is op it prosessoryntinsive Chromium-platfoarm, foaral as jo ferskate tapassingen tagelyk útfiere. Chromium hat echter wol in enoarme kolleksje útwreidingen en in brûkersynterface dy't, oars as foarhinne, reedlik nei eigen winsk oan te passen is.
 
 
 ;Edge has some nice UI features, like their tab previews which can make it easy to find the right open tabs if you’ve got a lot of them open. Another helpful tab-related feature lets you set aside any active tabs that you aren’t using but don’t want to close down.
-Edge has some nice UI features, like their tab previews which can make it easy to find the right open tabs if you’ve got a lot of them open. Another helpful tab-related feature lets you set aside any active tabs that you aren’t using but don’t want to close down.
+De brûkersynterface fan Edge hat in oantal handige funksjes. Ljepblêdfoarbylden meitsje it makliker in ljepblêd te finen as der in protte iepen stean. Ek kinne jo aktive ljepblêden op side sette as jo se net brûk, mar noch net slute wolle.
 
 
 ;Firefox features a scrolling tab interface, which keeps tab information viewable and scrolls them horizontally instead of shrinking them down to just favicon size. Also whenever you open a new tab, our <a %(attrs)s>Pocket feature</a> suggests relevant articles and content for you. Plus with Pocket, you can also save articles, videos, and other content with one click, for reading at a later time.
-Firefox features a scrolling tab interface, which keeps tab information viewable and scrolls them horizontally instead of shrinking them down to just favicon size. Also whenever you open a new tab, our <a %(attrs)s>Pocket feature</a> suggests relevant articles and content for you. Plus with Pocket, you can also save articles, videos, and other content with one click, for reading at a later time.
+Firefox hat in scroljende ljepblêdynterface. Dêrmei wurde ljepblêden net ferlytse oant allinnich it favicon sichtber is, mar bliuwe de titels lêsber en kinne jo horizontaal troch jo iepene ljepblêden scrolle. As jo in nij ljepblêd iepenje, stelt ús funksje <a %(attrs)s>Pocket</a> relevante artikelen en ynhâld foar. Boppedat kinne jo mei Pocket artikelen, fideo’s en oare ynhâld mei ien klik bewarje foar letter gebrûk.
 
 
 ;Firefox and Edge both offer excellent reading modes. With Firefox you just tap on the small icon in the search bar and the browser strips down all unnecessary elements and presents you a clean looking article. In Edge you just tap on the small book icon and browser to get a clean easy-to-read UI.
-Firefox and Edge both offer excellent reading modes. With Firefox you just tap on the small icon in the search bar and the browser strips down all unnecessary elements and presents you a clean looking article. In Edge you just tap on the small book icon and browser to get a clean easy-to-read UI.
+Firefox en Edge hawwe beide in poerbêste lêsmodus. Yn Firefox tikke jo gewoanwei op it piktogram yn de sykbalke. De browser smyt dan alle ûnnedige eleminten fuort en toant in rêstich eagjend artikel. Yn Edge tikke jo op it boekpiktogram foar in rêstige en goed lêsbere brûkersynterface.
 
 
 ;Firefox also includes lots of handy built-in features by default like <a %(attrs)s>Enhanced Tracking Protection</a>, a built-in screenshot tool, large file sending and more.
-Firefox also includes lots of handy built-in features by default like <a %(attrs)s>Enhanced Tracking Protection</a>, a built-in screenshot tool, large file sending and more.
+Firefox biedt ek in potte handige ynboude funksjes as <a %(attrs)s> Ferbettere beskerming tsjin folgjen</a>, en ynboud helpmiddel om skermôfdrukken te meitsjen, ferstjoeren fan grutte bestannen en noch mear.
 
 
 # "Out of the gate" means from the very start. Alternative: "From the start,". Race horses are held behind a gate that is opened to release all the horses at the same time at the start of the race, so a horse that leads the race from the very start is said to lead "right out of the gate."
 ;Out of the gate, Firefox has more features and integrations built into the browser and readily available on download. And while both browsers have a tremendous number of add-ons and extensions available, Edge’s compatibility with Google’s Chromium platform gives it the advantage in terms of sheer numbers.
-Out of the gate, Firefox has more features and integrations built into the browser and readily available on download. And while both browsers have a tremendous number of add-ons and extensions available, Edge’s compatibility with Google’s Chromium platform gives it the advantage in terms of sheer numbers.
+Firefox hat standert mear ynboude funksjes en yntegraasjes dy't daliks by it downloaden beskikber binne. Foar beide browsers is in enoarme hoemannichte add-ons en útwreidingen beskikber. Mar Edge is hjir fanwegen it oantal yn it foardiel, omdat it kompatibel is mei it Chromium-platfoarm fan Google.
 
 
 ;With Internet Explorer, Microsoft learned from its lack of availability across platforms and made Edge available for macOS and Android. The software is now readily available on iOS, Android, Windows and Mac.
-With Internet Explorer, Microsoft learned from its lack of availability across platforms and made Edge available for macOS and Android. The software is now readily available on iOS, Android, Windows and Mac.
+Microsoft hat mei Internet Explorer leard dat in browser op ferskate bestjoeringssystemen beskikber wêze moat. Edge is no beskikber foar iOS, Android, Windows en Mac.
 
 
 ;Firefox has been available on iOS, Android, Windows, macOS and Linux for years. And as you would expect with any modern browser, Firefox lets you log in with a <a %(attrs)s>free account</a> and sync data such as passwords, browsing history, bookmarks, and open tabs between your computer, tablet and phone. It also allows you to sync across platforms as well.
-Firefox has been available on iOS, Android, Windows, macOS and Linux for years. And as you would expect with any modern browser, Firefox lets you log in with a <a %(attrs)s>free account</a> and sync data such as passwords, browsing history, bookmarks, and open tabs between your computer, tablet and phone. It also allows you to sync across platforms as well.
+Firefox is al jierren beskikber op iOS, Android, Windows, macOS en Linux. En lykas in je ferwachtsje fan in moderne browser, kinne jo byj Firefox oanmelde mei in <a %(attrs)s>fergees account</a> en gegevens as wachtwurden, navigaasjeskiednis, blêdwizers en iepene ljepblêden syngronisearje tusken jo kompjûter, tablet en telefoan. Jo kinne ek syngronisearje tusken ferskillende bestjoeringssystemen.
 
 
 ;Edge also allows you to connect your associated Microsoft account and sign in to sync your favorites, history, passwords, and more between your computer and iOS or Android devices, although some Android tablets are not currently supported.
-Edge also allows you to connect your associated Microsoft account and sign in to sync your favorites, history, passwords, and more between your computer and iOS or Android devices, although some Android tablets are not currently supported.
+Yn Edge kinne jo oanmelde by jo Microsoft-account en ûnder mear jo favoriten, skiednis en wachtwurden syngronisearje tusken jo kompjûter en iOS- of Android-apparaten. Guon Android-tablets wurden echter op dit stuit net stipe.
 
 
 ;Aside from sucking up a lot of computing power, Edge running on Chromium has answered a lot of users’ needs for functionality and features. But there’s still a lot to account for in terms of the browser’s privacy protections. It’s our assessment that Firefox is still a better choice for most people to use in their daily lives, based not only on functionality but more importantly on our transparency in how we collect user data, what exactly we collect, and what we do with it. Because our parent company is <a %(attrs)s>Mozilla</a>, a non-profit organization dedicated to internet privacy and freedom, we simply have a different set of priorities when it comes to users’ data.
-Aside from sucking up a lot of computing power, Edge running on Chromium has answered a lot of users’ needs for functionality and features. But there’s still a lot to account for in terms of the browser’s privacy protections. It’s our assessment that Firefox is still a better choice for most people to use in their daily lives, based not only on functionality but more importantly on our transparency in how we collect user data, what exactly we collect, and what we do with it. Because our parent company is <a %(attrs)s>Mozilla</a>, a non-profit organization dedicated to internet privacy and freedom, we simply have a different set of priorities when it comes to users’ data.
+It op Chromium basearre Edge sloarpet rekkenkrêft, mar foldocht wol oan de behoeften fan in protte brûkers. De privacybeskerming yn dizze browser lit echter noch in protte te winskjen oer. Wy fine dat Firefox foar de measte minsken noch heltyd de beste browser is foar deistich gebrûk. Dit basearje wy net allinnich op funksjonaliteit, mar foaral op ús transparânsje yn hoe't wy brûkersgegevens sammelje, wat wy presys sammelje en wat wy dermei dogge. Us memmerbedriuw <a %(attrs)s>Mozilla</a> is in non-profitorganisaasje dy't har ynset foar privacy en frijheid op ynternet. Dêrom hawwe wy as it oankomt op brûkersgegevens simpelwei oare prioriteiten.
 
 
 ;The bottom line is that while we suggest using Firefox, the best browser for you ultimately will be the one that fits your individual needs with extension support, browsing tools customization, speed, privacy and security.
-The bottom line is that while we suggest using Firefox, the best browser for you ultimately will be the one that fits your individual needs with extension support, browsing tools customization, speed, privacy and security.
+Hoewol wy Firefox oanrekommandearje, giet it der úteinlik om hokker browser it beste past by jo behoefte oan útwreidingen, oanpasberheid, snelheid, privacy en feilichheid.
 
 
 ;The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Edge (44)
-The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Edge (44)
+De hjir makke fergelikingen binne yn de folgjende browserferzjes útfierd: <br> Firefox (70) | Edge (44)
 
 

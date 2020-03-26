@@ -25,11 +25,11 @@ Opera’s privacy policy lacks some specificity in its explanation of which type
 
 
 ;Firefox’s <a %(attrs)s>privacy policy</a> is very transparent in describing what personal information we collect with the only end goal being to give you greater control over the information you share online.
-Firefox’s <a %(attrs)s>privacy policy</a> is very transparent in describing what personal information we collect with the only end goal being to give you greater control over the information you share online.
+Ko <a %(attrs)s>temiñemi purureko</a> Firefox mba’éva hesakã ohechaukávo umi marandu mba’etéva pe ohupytyséva tenondeve ha’éva pe marandu emoherakuãva ñandutípe jehechameme.
 
 
 ;As far as actual privacy protections in the Opera browser, it does offer a robust Private mode that allows you to surf the web without the browser tracking your activity. Also in normal browsing mode, you can also turn off some data collection features by digging into the settings to enable the ad blocker and adjust other security features.
-As far as actual privacy protections in the Opera browser, it does offer a robust Private mode that allows you to surf the web without the browser tracking your activity. Also in normal browsing mode, you can also turn off some data collection features by digging into the settings to enable the ad blocker and adjust other security features.
+Ñemigua ñemo’ã rehegua Opera kundahára ome’ẽ ayvu ñemi oikóva omoneĩva ñeikundaha ñandutípe pe kundahára ohapykueho’ỹre ne rembiapo. Pe ñeikundaha tapiagua, avei ikatu oipe’a heta tembiapoite mba’ekuaarã mbyatyha ombopypukúvo ñemboheko ombojuruja hag̃ua ñemurã jokoha ha omoĩporã ambue tembiapoite tekorosãgua.
 
 
 ;With the latest version of Firefox, <a %(attrs)s>Enhanced Tracking Protection</a> is turned on by default in normal browsing mode, so you don’t have to mess around with the settings just to protect yourself from trackers. With Enhanced Tracking Protection, Firefox actively blocks thousands of third-party trackers that try to follow you around the web. You are provided with a personalized protection report that shows how often Firefox blocked third-party cookies, social media trackers, fingerprinting tools and cryptominers as you browse the web.
@@ -41,7 +41,7 @@ We make Firefox for people like you, who care deeply about personal privacy and 
 
 
 ;There’s no debate that Opera is a feature-packed browser with a clean user interface and strong customization options. Because Opera is built on Chromium, it can take advantage of most of Google Chrome’s vast extension library. Firefox also features a large <a %(attrs)s>extension library to browse</a>, but not quite as large as Chrome’s.
-There’s no debate that Opera is a feature-packed browser with a clean user interface and strong customization options. Because Opera is built on Chromium, it can take advantage of most of Google Chrome’s vast extension library. Firefox also features a large <a %(attrs)s>extension library to browse</a>, but not quite as large as Chrome’s.
+Ndaipóri ñomongeta Opera ha’eha kundahára hembiapoite hetáva orekóva puruhára rechaha ipotĩva ha jeporavorã mba’etéva tuicháva. Opera ojejapo Chromium ári, ikatu oipurupaite arandukarenda jepysokue Google Chrome mba’éva. Firefox avei oreko ipukúva <a %(attrs)s>arandukarenda jepysokue jehecharãva</a>, hákatu ndatuicháiva Chrome mba’éicha.
 
 
 ;Like Firefox, Opera delivers a scrolling tab experience, which means that when you open more tabs than will fit on screen, it scrolls them off screen instead of just continuously shrinking them down. Also both Firefox and Opera have a screenshot tool that lets you capture a snapshot of your screen or part of the page. However, the Opera tool doesn’t give you the ability to create one huge capture of the whole webpage, only the visible portion.
@@ -78,6 +78,6 @@ Overall, Opera is a solid browser, with a clean interface and a lot of useful fe
 
 
 ;The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Opera (60)
-Umi moñondive ojejapova'ekue ko’ápe oiko kuri ko’ã kundahaharakuéra pa’ũme:<br> Firefox (70) | Opera (60)
+Umi moñondive ojejapova'ekue ko’ápe oiko kuri ko’ã kundaharakuéra pa’ũme:<br> Firefox (70) | Opera (60)
 
 

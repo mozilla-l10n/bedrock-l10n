@@ -1,5 +1,6 @@
 ## active ##
 ## privacy_email_2019 ##
+## privacy_sumo_032020 ##
 ## updates-052018 ##
 ## updates-072018 ##
 ## NOTE: demo page is available at https://www-dev.allizom.org/privacy/
@@ -22,7 +23,7 @@ As jo in korreksje oan jo ynformaasje oanbringe wolle of eventuele fragen oer ú
 
 
 ;For product support requests, please <a href="%(sumo)s">visit our forums</a>.
-For product support requests, please <a href="%(sumo)s">visit our forums</a>.
+<a href="%(sumo)s">Besykje ús foarums</a> foar oanfragen foar produktstipe.
 
 
 ;Data Privacy Principles

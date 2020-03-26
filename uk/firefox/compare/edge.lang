@@ -1,103 +1,104 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/browsers/compare/edge/
 
 
 # HTML page title
 ;Firefox vs. Microsoft Edge: Which is the better browser for you?
-Firefox vs. Microsoft Edge: Which is the better browser for you?
+Firefox чи Microsoft Edge: Який з браузерів краще для вас?
 
 
 # HTML description
 ;Compare Microsoft Edge to the Firefox Browser to find out which is the better browser for you.
-Compare Microsoft Edge to the Firefox Browser to find out which is the better browser for you.
+Порівняйте Microsoft Edge та браузер Firefox, щоб визначитися, який веббраузер кращий для вас.
 
 
 # Page title
 ;Comparing Firefox Browser with Microsoft Edge
-Comparing Firefox Browser with Microsoft Edge
+Порівняння браузера Firefox з Microsoft Edge
 
 
 ;With Windows 10, Microsoft introduced its Edge browser to compete with Firefox and Chrome making it the default browser pre-installed on millions of PCs sold. Even so, users were slow to adopt it and Microsoft eventually announced plans to relaunch Edge as a Chromium-based browser (Chromium of course being Google’s Open Source browser project).
-With Windows 10, Microsoft introduced its Edge browser to compete with Firefox and Chrome making it the default browser pre-installed on millions of PCs sold. Even so, users were slow to adopt it and Microsoft eventually announced plans to relaunch Edge as a Chromium-based browser (Chromium of course being Google’s Open Source browser project).
+У Windows 10, Microsoft представила свій браузер Edge, щоб посилити боротьбу за кількість користувачів з Firefox та Chrome. Він став типовим браузером, попередньо встановленим на мільйонах проданих ПК з Windows 10. Попри це, користувачі не користувалися ним активно і Microsoft оголосила про плани перевипуску Edge на основі Chromium (Chromium є проєктом браузера з відкритим програмним кодом від Google).
 
 
 ;Here we’ll compare our Firefox Browser to the Chromium-based Microsoft Edge in terms of privacy, utility, and portability, to help you have a better understanding of which browser better suits your needs and preferences.
-Here we’ll compare our Firefox Browser to the Chromium-based Microsoft Edge in terms of privacy, utility, and portability, to help you have a better understanding of which browser better suits your needs and preferences.
+Далі, ми порівняємо наш браузер Firefox та Microsoft Edge на основі Chromium з погляду приватності, корисності та доступності, щоб допомогти вам краще зрозуміти, який браузер найкраще відповідає вашим потребам та вподобанням.
 
 
 ;Edge is integrated into the Windows 10 platform and runs in a sandbox environment, meaning it isolates programs and prevents malicious programs from spying on your computer. It has a built-in SmartScreen that scans the reputation of sites you visit and blocks suspicious sites. To enhance privacy, Edge allows you to use biometrics or a PIN with Windows Hello instead of passwords for online authentication.
-Edge is integrated into the Windows 10 platform and runs in a sandbox environment, meaning it isolates programs and prevents malicious programs from spying on your computer. It has a built-in SmartScreen that scans the reputation of sites you visit and blocks suspicious sites. To enhance privacy, Edge allows you to use biometrics or a PIN with Windows Hello instead of passwords for online authentication.
+Edge вбудований у платформу Windows 10 і працює в ізольованому середовищі, тобто, він ізолює програми й не дозволяє зловмисним програмам шпигувати за вашими діями на комп'ютері. У ньому є вбудований SmartScreen, який перевіряє репутацію відвідуваних вами сайтів та блокує підозрілі сайти. Для покращення приватності, Edge дозволяє вам використовувати біометричні дані або PIN-код з Windows Hello замість паролів для онлайн-автентифікації.
 
 
 ;However, Edge saves some of your private data and sends it back to Microsoft with Windows updates. At 45 cryptically worded pages long, the privacy policy for Edge is unlikely to be read or understood by the average user.
-However, Edge saves some of your private data and sends it back to Microsoft with Windows updates. At 45 cryptically worded pages long, the privacy policy for Edge is unlikely to be read or understood by the average user.
+Однак, Edge зберігає деякі ваші приватні дані та надсилає їх Microsoft з оновленнями Windows. За довжини у 45 мудровано сформульованих сторінок пересічний користувач навряд чи прочитає та зрозуміє політику конфіденційності для Edge.
 
 
 ;At Firefox, our <a %(attrs)s>privacy policy</a> is transparent and in plain language. We actually put a lot of work into making sure it was straightforward and easy to read. We pride ourselves in protecting our users security and privacy. With Enhanced Tracking Protection now on by default, we block 2000+ trackers automatically. Trackers are those little pieces of code that try to piece together what you're doing across multiple internet sites to build a composite and detailed picture of who you are, compromising your privacy all just to target better ads.
-At Firefox, our <a %(attrs)s>privacy policy</a> is transparent and in plain language. We actually put a lot of work into making sure it was straightforward and easy to read. We pride ourselves in protecting our users security and privacy. With Enhanced Tracking Protection now on by default, we block 2000+ trackers automatically. Trackers are those little pieces of code that try to piece together what you're doing across multiple internet sites to build a composite and detailed picture of who you are, compromising your privacy all just to target better ads.
+У Firefox наша <a %(attrs)s>політика приватності</a> є прозорою та викладена зрозумілою мовою. Ми витрачаємо багато сил, щоб впевнитися, що її буде просто та легко читати. Ми пишаємося, що стоїмо на варті захисту безпеки та приватності наших користувачів. З увімкненим типово "Розширеним захистом від стеження",  ми автоматично блокуємо 2000+ елементів стеження. Елементи стеження - це ті маленькі частинки коду, які намагаються скласти до купи усе що ви робите на кількох вебсайтах, щоб створити повніше і детальніше уявлення про вас, порушуючи вашу приватність, аби лише надати відповіднішу рекламу.
 
 
 ;Your <a %(attrs)s>Privacy Protections</a> shows you the trackers and cookies that pages have attempted to leave, and how many Firefox has blocked for you.
-Your <a %(attrs)s>Privacy Protections</a> shows you the trackers and cookies that pages have attempted to leave, and how many Firefox has blocked for you.
+Ваш <a %(attrs)s>Захист приватності</a> показує вам елементи стеження та куки, які намагалися залишити вебсторінки та кількість заблокованих браузером Firefox.
 
 
 ;In Firefox, Private Browsing mode automatically erases your browsing information like passwords, cookies, and history, leaving no trace after you close out the session. Edge on the other hand, actually records browsing history in their private mode (called “InPrivate”) and it’s a relatively easy task for someone to reconstruct your full browsing history, regardless of whether your browsing was done in regular or InPrivate mode.
-In Firefox, Private Browsing mode automatically erases your browsing information like passwords, cookies, and history, leaving no trace after you close out the session. Edge on the other hand, actually records browsing history in their private mode (called “InPrivate”) and it’s a relatively easy task for someone to reconstruct your full browsing history, regardless of whether your browsing was done in regular or InPrivate mode.
+В режимі приватного перегляду, Firefox автоматично видаляє інформацію про перегляд, зокрема паролі, куки та історію, не залишаючи слідів після закриття сеансу. Водночас, Edge фактично записує історію переглядів у приватному режимі ("InPrivate") і для декого, це досить легке завдання відновити всю вашу історію переглядів, незалежно від того, чи був ваш перегляд у звичайному режимі чи в режимі InPrivate.
 
 
 ;Both browsers are relatively equal in terms of data encryption. However, if online privacy and transparency are important to you, then Firefox is clearly a better choice here.
-Both browsers are relatively equal in terms of data encryption. However, if online privacy and transparency are important to you, then Firefox is clearly a better choice here.
+Обидва браузери мають майже однаковий рівень шифрування даних. Але, якщо приватність та прозорість роботи браузера в Інтернеті важливі для вас, то, безумовно, Firefox найкращий вибір.
 
 
 ;Firefox is a fast and open source browser, which means users can customize their browsing experience in every way possible. Firefox also allows the casual user several different ways to customize the UI with applying different themes and toolbar configurations. Since our browser has always been open source we have a large following of devoted developers who have created an extensive library of add-ons and browser extensions.
-Firefox is a fast and open source browser, which means users can customize their browsing experience in every way possible. Firefox also allows the casual user several different ways to customize the UI with applying different themes and toolbar configurations. Since our browser has always been open source we have a large following of devoted developers who have created an extensive library of add-ons and browser extensions.
+Firefox - це швидкий браузер із відкритим програмним кодом, тож, користувачі можуть налаштувати його якнайзручніше для себе. Будь-який користувач Firefox має змогу налаштувати інтерфейс, застосовуючи різні теми та конфігурації панелі інструментів. Оскільки наш браузер завжди був з відкритим програмним кодом, ми маємо багато відданих розробників, які створили велику бібліотеку додатків та розширень для браузера.
 
 
 ;Since Edge has moved to the processor intensive Chromium platform, you can expect it to run a little slower, especially if you have multiple programs running at once. However, with Chromium platform comes a massive library of extensions as well as a decent level of UI customization that Edge did not have before it’s move to Chromium.
-Since Edge has moved to the processor intensive Chromium platform, you can expect it to run a little slower, especially if you have multiple programs running at once. However, with Chromium platform comes a massive library of extensions as well as a decent level of UI customization that Edge did not have before it’s move to Chromium.
+Оскільки Edge перейшов на платформу Chromium, яка вимагає багато ресурсів процесора, робота браузера може бути дещо повільнішою, особливо за одночасної роботи кількох програм. Однак, на платформі Chromium, Edge отримає чималу бібліотеку розширень і більше налаштувань інтерфейсу, чого йому бракувало до переходу на Chromium.
 
 
 ;Edge has some nice UI features, like their tab previews which can make it easy to find the right open tabs if you’ve got a lot of them open. Another helpful tab-related feature lets you set aside any active tabs that you aren’t using but don’t want to close down.
-Edge has some nice UI features, like their tab previews which can make it easy to find the right open tabs if you’ve got a lot of them open. Another helpful tab-related feature lets you set aside any active tabs that you aren’t using but don’t want to close down.
+Edge має деякі зручні функції інтерфейсу користувача, як-от попередній перегляд вкладок, завдяки якому можна легко знайти потрібні відкриті вкладки, якщо у вас їх багато. Ще одна корисна функція, пов’язана з вкладками, дозволяє відкласти активні вкладки, які вам не потрібні зараз, але ви не хочете їх закривати.
 
 
 ;Firefox features a scrolling tab interface, which keeps tab information viewable and scrolls them horizontally instead of shrinking them down to just favicon size. Also whenever you open a new tab, our <a %(attrs)s>Pocket feature</a> suggests relevant articles and content for you. Plus with Pocket, you can also save articles, videos, and other content with one click, for reading at a later time.
-Firefox features a scrolling tab interface, which keeps tab information viewable and scrolls them horizontally instead of shrinking them down to just favicon size. Also whenever you open a new tab, our <a %(attrs)s>Pocket feature</a> suggests relevant articles and content for you. Plus with Pocket, you can also save articles, videos, and other content with one click, for reading at a later time.
+Firefox має функцію прокрутки вкладок, що залишає видимою інформацію про вкладки та уможливлює їхню прокрутку по горизонталі, а не зменшує їх до розміру піктограми. Крім того, коли ви відкриваєте нову вкладку, наша функція <a %(attrs)s>Pocket</a> пропонує вам відповідні статті та вміст. А ще, за допомогою Pocket, ви можете зберігати статті, відео та інший вміст одним натиском кнопки для перегляду пізніше.
 
 
 ;Firefox and Edge both offer excellent reading modes. With Firefox you just tap on the small icon in the search bar and the browser strips down all unnecessary elements and presents you a clean looking article. In Edge you just tap on the small book icon and browser to get a clean easy-to-read UI.
-Firefox and Edge both offer excellent reading modes. With Firefox you just tap on the small icon in the search bar and the browser strips down all unnecessary elements and presents you a clean looking article. In Edge you just tap on the small book icon and browser to get a clean easy-to-read UI.
+Firefox та Edge надають відмінні режими читання. У Firefox, ви просто тиснете на невелику піктограму на панелі пошуку і браузер прибирає всі непотрібні елементи та показує вам лише статтю. У Edge, натисніть на невелику піктограму у вигляді книги, а веббраузер очистить сторінку від зайвих елементів.
 
 
 ;Firefox also includes lots of handy built-in features by default like <a %(attrs)s>Enhanced Tracking Protection</a>, a built-in screenshot tool, large file sending and more.
-Firefox also includes lots of handy built-in features by default like <a %(attrs)s>Enhanced Tracking Protection</a>, a built-in screenshot tool, large file sending and more.
+Також, Firefox має безліч зручних вбудованих типових функцій, таких як <a %(attrs)s>Розширений захист від стеження</a>, вбудований інструмент знімків екрану, передачі великих файлів тощо.
 
 
 # "Out of the gate" means from the very start. Alternative: "From the start,". Race horses are held behind a gate that is opened to release all the horses at the same time at the start of the race, so a horse that leads the race from the very start is said to lead "right out of the gate."
 ;Out of the gate, Firefox has more features and integrations built into the browser and readily available on download. And while both browsers have a tremendous number of add-ons and extensions available, Edge’s compatibility with Google’s Chromium platform gives it the advantage in terms of sheer numbers.
-Out of the gate, Firefox has more features and integrations built into the browser and readily available on download. And while both browsers have a tremendous number of add-ons and extensions available, Edge’s compatibility with Google’s Chromium platform gives it the advantage in terms of sheer numbers.
+До того ж, Firefox має більше вбудованих та легко доступних для завантаження функцій. І, хоч обом браузерам доступна величезна кількість додатків та розширень, сумісність Edge з платформою Chromium від Google надає йому перевагу у їхній кількості.
 
 
 ;With Internet Explorer, Microsoft learned from its lack of availability across platforms and made Edge available for macOS and Android. The software is now readily available on iOS, Android, Windows and Mac.
-With Internet Explorer, Microsoft learned from its lack of availability across platforms and made Edge available for macOS and Android. The software is now readily available on iOS, Android, Windows and Mac.
+Компанія Microsoft зробила висновки із досвіду з відсутністю Internet Explorer на для інших ОС і випустила Edge для macOS та Android. Тепер це програмне забезпечення доступне для iOS, Android, Windows та Mac.
 
 
 ;Firefox has been available on iOS, Android, Windows, macOS and Linux for years. And as you would expect with any modern browser, Firefox lets you log in with a <a %(attrs)s>free account</a> and sync data such as passwords, browsing history, bookmarks, and open tabs between your computer, tablet and phone. It also allows you to sync across platforms as well.
-Firefox has been available on iOS, Android, Windows, macOS and Linux for years. And as you would expect with any modern browser, Firefox lets you log in with a <a %(attrs)s>free account</a> and sync data such as passwords, browsing history, bookmarks, and open tabs between your computer, tablet and phone. It also allows you to sync across platforms as well.
+Firefox вже багато років доступний на iOS, Android, Windows, macOS та Linux. Firefox дає вам можливість увійти за допомогою  <a %(attrs)s>безплатного облікового запису</a> та синхронізувати паролі, історію перегляду, закладки та відкриті вкладки між комп’ютером, планшетом і телефоном, як і будь-який сучасний веббраузер. Це також уможливлює синхронізацію між різними платформами.
 
 
 ;Edge also allows you to connect your associated Microsoft account and sign in to sync your favorites, history, passwords, and more between your computer and iOS or Android devices, although some Android tablets are not currently supported.
-Edge also allows you to connect your associated Microsoft account and sign in to sync your favorites, history, passwords, and more between your computer and iOS or Android devices, although some Android tablets are not currently supported.
+У Edge також можна під'єднати пов’язаний обліковий запис Microsoft та ввійти для синхронізації обраного, історії переглядів, паролів та іншого між комп’ютером та пристроями iOS або Android, хоча деякі планшети Android наразі не підтримуються.
 
 
 ;Aside from sucking up a lot of computing power, Edge running on Chromium has answered a lot of users’ needs for functionality and features. But there’s still a lot to account for in terms of the browser’s privacy protections. It’s our assessment that Firefox is still a better choice for most people to use in their daily lives, based not only on functionality but more importantly on our transparency in how we collect user data, what exactly we collect, and what we do with it. Because our parent company is <a %(attrs)s>Mozilla</a>, a non-profit organization dedicated to internet privacy and freedom, we simply have a different set of priorities when it comes to users’ data.
-Aside from sucking up a lot of computing power, Edge running on Chromium has answered a lot of users’ needs for functionality and features. But there’s still a lot to account for in terms of the browser’s privacy protections. It’s our assessment that Firefox is still a better choice for most people to use in their daily lives, based not only on functionality but more importantly on our transparency in how we collect user data, what exactly we collect, and what we do with it. Because our parent company is <a %(attrs)s>Mozilla</a>, a non-profit organization dedicated to internet privacy and freedom, we simply have a different set of priorities when it comes to users’ data.
+Попри відбір значних обчислювальних потужностей, Edge, що працює на Chromium, відреагував на запити користувачів щодо функціональності та функцій. Але залишається багато питань відносно захисту приватності браузера. За нашими оцінками, Firefox досі є найкращим вибором для більшості людей для використання у повсякденному житті, спираючись не лише на функціональності, але, що важливіше, на прозорості інформації про збір даних користувачів, ми чітко повідомляємо, які саме дані ми збираємо та що з ними робимо. Оскільки нашою материнською компанією є <a %(attrs)s>Mozilla</a>, неприбуткова організація, яка опікується приватністю та свободою в Інтернеті, ми маємо інші пріоритети щодо даних користувачів.
 
 
 ;The bottom line is that while we suggest using Firefox, the best browser for you ultimately will be the one that fits your individual needs with extension support, browsing tools customization, speed, privacy and security.
-The bottom line is that while we suggest using Firefox, the best browser for you ultimately will be the one that fits your individual needs with extension support, browsing tools customization, speed, privacy and security.
+Підсумовуючи сказане раніше, хоч ми й пропонуємо користуватися Firefox, найкращий браузер для вас той, який відповідає вашим особистим потребам з підтримки розширень, налаштувань персоналізації, швидкості, приватності та безпеки.
 
 
 ;The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Edge (44)
-The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Edge (44)
+Наведені тут порівняння були виконані в таких версіях браузерів:<br> Firefox (70) | Edge (44)
 
 

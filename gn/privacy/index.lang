@@ -1,5 +1,6 @@
 ## active ##
 ## privacy_email_2019 ##
+## privacy_sumo_032020 ##
 ## updates-052018 ##
 ## updates-072018 ##
 ## NOTE: demo page is available at https://www-dev.allizom.org/privacy/
@@ -22,7 +23,7 @@ Emoĩporãsérõ ne marandu térã eporanduséramo ore remiñemi porureko rehegu
 
 
 ;For product support requests, please <a href="%(sumo)s">visit our forums</a>.
-For product support requests, please <a href="%(sumo)s">visit our forums</a>.
+Mba’ejerurépe g̃uarã apopyre pytyvõha, <a href="%(sumo)s">eike ore ñomongetápe</a>.
 
 
 ;Data Privacy Principles

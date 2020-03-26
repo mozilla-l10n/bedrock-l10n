@@ -1,76 +1,77 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/firefox/browsers/compare/ie/
 
 
 # HTML page title
 ;Firefox vs. Internet Explorer: Which is the better browser for you?
-Firefox vs. Internet Explorer: Which is the better browser for you?
+Firefox tsjinoer Internet Explorer: hokker browser is it bêste foar jo?
 
 
 # HTML description
 ;Compare Internet Explorer to the Firefox Browser to find out which is the better browser for you.
-Compare Internet Explorer to the Firefox Browser to find out which is the better browser for you.
+Fergelykje Internet Explorer mei Firefox Browser om te ûntdekken hokker browser de bêste foar jo is.
 
 
 # Page title
 ;Comparing Firefox Browser with Microsoft Internet Explorer
-Comparing Firefox Browser with Microsoft Internet Explorer
+Firefox Browser fergelykje mei Microsoft Internet Explorer
 
 
 ;While Microsoft’s Internet Explorer still comes pre-installed on most Windows-based PCs, clearly Microsoft would prefer you to use their Edge browser, which is set as the default when you purchase.
-While Microsoft’s Internet Explorer still comes pre-installed on most Windows-based PCs, clearly Microsoft would prefer you to use their Edge browser, which is set as the default when you purchase.
+Internet Explorer wurdt noch hieltyd meilevere mei de measte Windows-pc’s, mar Microsoft hat dúdlik leaver dat jo Edge brûke. Edge is op nije pc’s ynsteld as standertbrowser.
 
 
 ;Microsoft discontinued its Internet Explorer brand several years ago, in favor of its updated Edge browser for Windows 10. However, slow adoption for Edge created room for Internet Explorer to live on, mainly for business compatibility reasons.
-Microsoft discontinued its Internet Explorer brand several years ago, in favor of its updated Edge browser for Windows 10. However, slow adoption for Edge created room for Internet Explorer to live on, mainly for business compatibility reasons.
+Microsoft hat in pear jier lyn foar Windows 10 de nije browser Edge yntrodusearre as ferfanging foar Internet Explorer. Troch it beheinde sukses fan Edge wurdt Internet Explorer echter noch altyd brûkt, foaral yn ferbân mei kompatibiliteit yn saaklike tapassingen.
 
 
 ;Here we’ll compare our Firefox Browser with Internet Explorer in terms of security, utility, and portability. We’ll help you understand the differences between how a modern browser like Firefox that adheres to web standards compares with the browser you may be using for business purposes or out of old habits that die hard.
-Here we’ll compare our Firefox Browser with Internet Explorer in terms of security, utility, and portability. We’ll help you understand the differences between how a modern browser like Firefox that adheres to web standards compares with the browser you may be using for business purposes or out of old habits that die hard.
+Wy fergelykje hjir Firefox mei Internet Explorer op de flakken feilichheid, brûkberheid en portabiliteit. Wy lizze út hoe't in moderne browser as Firefox, dy't harren hâldt oan webstanderts, ferskilt fan de browser dy't jo miskien brûke op kantoar of út gewoante.
 
 
 ;If you haven’t moved on from using Internet Explorer, the security risk factor alone should be enough to convince you. <a %(attrs)s>Microsoft’s own security chief has warned</a> millions of people who continue to use Internet Explorer as their main web browser that they are placing themselves in “peril.”
-If you haven’t moved on from using Internet Explorer, the security risk factor alone should be enough to convince you. <a %(attrs)s>Microsoft’s own security chief has warned</a> millions of people who continue to use Internet Explorer as their main web browser that they are placing themselves in “peril.”
+As jo Internet Explorer noch net farwol sein hawwe, dan soe allinnich al it feilichheidsrisiko reden genôch wêze moatte. <a %(attrs)s>Microsofts eigen haad fan befeiliging hat warskôge</a> dat de miljoenen minsken dy't Internet Explorer brûken bliuwe harsels yn ‘gefaar’ bringe.
 
 
 ;Microsoft is no longer supporting new development for Internet Explorer, which means security concerns are rampant. Microsoft openly acknowledges the fact that vulnerabilities exist within basically every version of Internet Explorer.
-Microsoft is no longer supporting new development for Internet Explorer, which means security concerns are rampant. Microsoft openly acknowledges the fact that vulnerabilities exist within basically every version of Internet Explorer.
+Microsoft stipet gjin nije ûntwikkelingen mear foar Internet Explorer. Dêrtroch binne feilichheidsproblemen oan de oarder fan de dei. Microsoft jout iepenlik ta dat elke ferzje fan Internet Explorer kwetsber is.
 
 
 ;So what’s the solution if your company is running outdated apps that only work on Internet Explorer? Our best advice for you personally is, don’t mix business with pleasure. The simple thing to do is download and use a more secure browser like Firefox. Then, if you need to do things like check your personal email or shop online, you can just switch over to the more secure browser. The bottom line is, if Microsoft is warning people not to use Internet Explorer, don’t use it. Your online privacy and security are not worth risking because you (or your company) have a hard time breaking an old habit. We make Firefox with security and privacy features like <a %(lockwise)s>Lockwise</a>, our password manager, private browsing and lots of other add-ons that help us make the web safer for you. Also, our <a %(privacy)s>Privacy Policy</a> is straightforward: we tell you what we know about you, and why we collect that information. All of these things obviously go beyond what Internet Explorer offers, and even what other modern browsers like Google Chrome and Microsoft Edge offer.
-So what’s the solution if your company is running outdated apps that only work on Internet Explorer? Our best advice for you personally is, don’t mix business with pleasure. The simple thing to do is download and use a more secure browser like Firefox. Then, if you need to do things like check your personal email or shop online, you can just switch over to the more secure browser. The bottom line is, if Microsoft is warning people not to use Internet Explorer, don’t use it. Your online privacy and security are not worth risking because you (or your company) have a hard time breaking an old habit. We make Firefox with security and privacy features like <a %(lockwise)s>Lockwise</a>, our password manager, private browsing and lots of other add-ons that help us make the web safer for you. Also, our <a %(privacy)s>Privacy Policy</a> is straightforward: we tell you what we know about you, and why we collect that information. All of these things obviously go beyond what Internet Explorer offers, and even what other modern browsers like Google Chrome and Microsoft Edge offer.
+Wat is dus de oplossing as jo bedriuw ferâldere apps brûkt dy't allinnich yn Internet Explorer wurkje? Us beste advys is om saken net mei privee te mingen. It meast ienfâldige is om in feiliger browser as Firefox te downloaden en te brûken. Jo kinne dan de feiligere browser brûke as jo jo persoanlike e-mail besjen wolle of online shoppe wolle. It komt derop del dat jo Internet Explorer net brûke moat as Microsoft warskôget tsjin it gebrûk derfan. Jo online privacy en feilichheid binne it risiko fan in âlde gewoante fan jo of jo bedriuw net wurdich. Wy bouwe Firefox mei befeiligings- en privacyfunksjes as <a %(lockwise)s>Lockwise</a>, ús wachtwurdbehearder, priveenavigaasje en in protte oare add-ons dy't ús helpe it ynternet feiliger foar jo te meitsjen. Us <a %(privacy)s>Privacybelied</a> is ek ienfâldich: wy fertelle jo wat wy oer jo witte, en wêrom wy dy ynformaasje sammelje. Dit giet allegearre dúdlik fierder as wat Internet Explorer biedt, en sels fierder dan wat moderne browsers as Google Chrome en Microsoft Edge biede.
 
 
 ;Alarmingly, 4 to 5% of all desktop web traffic comes through Internet Explorer. That might not seem like a lot, but in reality it means millions of people are being served a poor internet experience with slow loading and rendering times, pages that won’t display properly — all on top of the security issues already discussed.
-Alarmingly, 4 to 5% of all desktop web traffic comes through Internet Explorer. That might not seem like a lot, but in reality it means millions of people are being served a poor internet experience with slow loading and rendering times, pages that won’t display properly — all on top of the security issues already discussed.
+Alarmearjend genôch komt 4 oant 5% fan al it ynternetferkear op in desktop-pc noch hieltyd fia Internet Explorer. Dat liket miskien net folle, mar yn werklikheid betsjut it dat miljoenen minsken in slimme ynternetûnderfining krije, mei trage laad- en werjeftetiden, siden dy't slim werjûn wurde – allegearre boppe-op de befeiligingsproblemen dy't hjirboppe beskreaun stean.
 
 
 ;Really the only reasons to use Internet Explorer are for developers to test what their sites look like on an older browser or if a company has business-critical apps that only work with the Internet Explorer browser.
-Really the only reasons to use Internet Explorer are for developers to test what their sites look like on an older browser or if a company has business-critical apps that only work with the Internet Explorer browser.
+De iennige reden om Internet Explorer noch te brûken is foar ûntwikkelers om te testen hoe't harren websites derút sjogge yn in âldere browser, of as in bedriuw bedriuwskrityske apps brûkt dy't allinnich mei Internet Explorer wurkje.
 
 
 ;On the other end of the spectrum, Firefox is one of the most frequently updated browsers, and comes loaded with lots of useful and interesting features, like <a %(pocket)s>Pocket</a> that suggests interesting content every time you open a new tab. Our unified search and web address bar, or <em>Awesome Bar</em> as we call it, also gives you suggestions based on your existing bookmarks and tags, history, open tabs and popular searches. And with a free Firefox account you also get access to all your settings and <a %(products)s>our other Firefox products</a> on any device simply by signing in. Plus the peace of mind of knowing your browser is proactively working to protect your personal data.
-On the other end of the spectrum, Firefox is one of the most frequently updated browsers, and comes loaded with lots of useful and interesting features, like <a %(pocket)s>Pocket</a> that suggests interesting content every time you open a new tab. Our unified search and web address bar, or <em>Awesome Bar</em> as we call it, also gives you suggestions based on your existing bookmarks and tags, history, open tabs and popular searches. And with a free Firefox account you also get access to all your settings and <a %(products)s>our other Firefox products</a> on any device simply by signing in. Plus the peace of mind of knowing your browser is proactively working to protect your personal data.
+Oan de oare kant fan i spektrum is Firefox ien fan de meast bywurke browsers en wurdt it levere mei in protte nuttige en ynteressante funksjes, lykas <a %(pocket)s>Pocket</a>, dat hieltyd wannear't jo in nij ljepblêd iepenje ynteressante ynhâld foarstelt. Us yntegrearre syk- en adresbalke, of sa as wy dy neame de <em>Awesome-balke</em>, jout jo ek suggestjes op basis fan jo besteande blêdwizers, skiednis, iepen ljepblêden en populêre sykopdrachten. En mei in fergees Firefox-account krije jo ek op elk apparaat tagong ta al jo ynstellingen en <a %(products)s>ús oare Firefox-produkten</a> troch ienfâldichwei oan te melden. Plus de wissigens dat jo browser pro-aktyf dwaande is om jo persoanlike gegevens te beskermjen.
 
 
 # "sunset" here means Microsoft is officially ending production of Internet Explorer. Alternative: "retire"
 ;As Microsoft has made the move to sunset the Internet Explorer browser, it no longer supports any version for iOS, and has never been available for Android. Which means unless you’re running a Windows-based laptop or desktop, you won’t have access to your bookmarks, browsing history, saved passwords, and other information that modern browsers sync across devices.
-As Microsoft has made the move to sunset the Internet Explorer browser, it no longer supports any version for iOS, and has never been available for Android. Which means unless you’re running a Windows-based laptop or desktop, you won’t have access to your bookmarks, browsing history, saved passwords, and other information that modern browsers sync across devices.
+Omdat Microsoft Internet Explorer útfasearje sil, wurdt gjin inkelde ferzje fan iOS mear stipe en is it nea foar Android beskikber west. Dit betsjut dat jo, útsein jo in laptop of desktop-pc mei Windows brûke, gjin tagong hawwe ta jo blêdwizers, navigaasjeskiednis, bewarre wachtwurden of oare gegevens dy't moderne browsers tusken apparaten syngronisearje.
 
 
 ;Firefox works on any platform, including Windows, macOS, Linux, Android and iOS. Which also means you can sync all your information across platforms. So if you’re browsing on a Windows-based laptop, you can pick up where you left off when you move to browsing on your iPhone or Android device. This convenience should come standard with any modern web browser, and is sorely lacking with Internet Explorer.
-Firefox works on any platform, including Windows, macOS, Linux, Android and iOS. Which also means you can sync all your information across platforms. So if you’re browsing on a Windows-based laptop, you can pick up where you left off when you move to browsing on your iPhone or Android device. This convenience should come standard with any modern web browser, and is sorely lacking with Internet Explorer.
+Firefox wurket op elk platfoarm, wêrûnder Windows, macOS, Linux, Android en iOS. Dit betsjut ek dat jo al jo gegevens op ferskate platfoarms syngronisearje kinne. As jo dus op in Windows-laptop oan it surfen binne, kinne jo fierder gean dêr't jo bleaun wiene wannear't jo fierder gean op jo iPhone of Android-apparaat. Dit gemak soe standert wêze moatte by elke moderne webbrowser en ûntbrekt by Internet Explorer.
 
 
 ;There was a time not so long ago where Internet Explorer was the most popular and widely used browser in the world. Times have changed and so has technology, but unfortunately Internet Explorer has pretty much stayed the same. Microsoft itself openly implores users to stop using Internet Explorer and instead switch to their newer Chromium-based Edge browser.
-There was a time not so long ago where Internet Explorer was the most popular and widely used browser in the world. Times have changed and so has technology, but unfortunately Internet Explorer has pretty much stayed the same. Microsoft itself openly implores users to stop using Internet Explorer and instead switch to their newer Chromium-based Edge browser.
+Noch net sa lang lyn wie Internet Explorer de populêrste en meast brûkte browser yn 'e wrâld. De tiden binne feroare, krekt as de technology, mar spitigernôch is Internet Explorer frijwst itselde bleaun. Microsoft freget sels brûkers om te stopjen mei it gebrûk fan Internet Explorer en oer te stappen nei harren nijere Edge-browser op basis fan Chromium.
 
 
 # "Nana" is a common nickname for a grandmother in many English-speaking countries. Use a similar name for a grandmother in your language or culture.
 ;Our opinion is just to go with a trusted, private browser with a track record of delivering a great experience across devices. In a head-to-head comparison, it’s really no contest at all. Firefox is hands down the winner across all assessment categories. If you do find yourself at Nana’s house firing up Internet Explorer, maybe you want to do Nana a favor and <a %(attrs)s>download Firefox</a> for her.
-Our opinion is just to go with a trusted, private browser with a track record of delivering a great experience across devices. In a head-to-head comparison, it’s really no contest at all. Firefox is hands down the winner across all assessment categories. If you do find yourself at Nana’s house firing up Internet Explorer, maybe you want to do Nana a favor and <a %(attrs)s>download Firefox</a> for her.
+Wy fine dat jo kieze moatte foar in fertroude priveebrowser mei in reputaasje in geweldige ûnderfining op ferskate apparaten te leverjen. Neist inoar set is der eins gjin fergelyk. Firefox is maklik de winner yn alle beoardiele kategoryen. Dus as jo by beppe thús Internet Explorer opstarte moatte, dan wolle jo miskien beppe in plezier dwaan en <a %(attrs)s>Firefox</a> foar har downloade.
 
 
 ;The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Internet Explorer (11)
-The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Internet Explorer (11)
+De hjir makke fergelikingen binne yn de folgjende browserferzjes útfierd:<br> Firefox (70) | Internet Explorer (11)
 
 
