@@ -3,7 +3,7 @@
 
 # HTML page title
 ;Firefox vs. Microsoft Edge: Which is the better browser for you?
-Firefox contra Microsoft Edge: Qual es le melior navigator pro te?
+Firefox contra Microsoft Edge: qual es le melior navigator pro te?
 
 
 # HTML description
@@ -37,23 +37,23 @@ Nostre <a %(attrs)s>politica de confidentialitate</a> de Firefox es transparente
 
 
 ;Your <a %(attrs)s>Privacy Protections</a> shows you the trackers and cookies that pages have attempted to leave, and how many Firefox has blocked for you.
-Your <a %(attrs)s>Privacy Protections</a> shows you the trackers and cookies that pages have attempted to leave, and how many Firefox has blocked for you.
+Le function <a %(attrs)s>Protectiones del confidentialitate</a> lista le traciatores e le cookies que le sitos visitate ha tentate applicar al navigator e quantos Firefox ha blocate pro te.
 
 
 ;In Firefox, Private Browsing mode automatically erases your browsing information like passwords, cookies, and history, leaving no trace after you close out the session. Edge on the other hand, actually records browsing history in their private mode (called “InPrivate”) and it’s a relatively easy task for someone to reconstruct your full browsing history, regardless of whether your browsing was done in regular or InPrivate mode.
-In Firefox, Private Browsing mode automatically erases your browsing information like passwords, cookies, and history, leaving no trace after you close out the session. Edge on the other hand, actually records browsing history in their private mode (called “InPrivate”) and it’s a relatively easy task for someone to reconstruct your full browsing history, regardless of whether your browsing was done in regular or InPrivate mode.
+In Firefox, le Modalitate navigation anonyme cancella automaticamente le informationes de exploration como contrasignos, cookies, e chronologia, sin lassar ulle tracia post que tu ha claudite le session. Edge del altere latere, registra realmente le chronologia de exploration in lor modalitate de navigation anonyme (appellate “InPrivate”) e il es un labor relativemente facile pro alicuno reconstruer plenmente le chronologia de exploration, sin importantia si le exploration ha essite facite in modalitate regular o InPrivate.
 
 
 ;Both browsers are relatively equal in terms of data encryption. However, if online privacy and transparency are important to you, then Firefox is clearly a better choice here.
-Both browsers are relatively equal in terms of data encryption. However, if online privacy and transparency are important to you, then Firefox is clearly a better choice here.
+Ambe navigatores es relativemente equal in terminos de cryptographia datos. Totevia si confidentialitate e transparentia online es importante pro te, alora Firefox es clarmente un melior selection.
 
 
 ;Firefox is a fast and open source browser, which means users can customize their browsing experience in every way possible. Firefox also allows the casual user several different ways to customize the UI with applying different themes and toolbar configurations. Since our browser has always been open source we have a large following of devoted developers who have created an extensive library of add-ons and browser extensions.
-Firefox is a fast and open source browser, which means users can customize their browsing experience in every way possible. Firefox also allows the casual user several different ways to customize the UI with applying different themes and toolbar configurations. Since our browser has always been open source we have a large following of devoted developers who have created an extensive library of add-ons and browser extensions.
+Firefox es un navigator veloce e open-source, isto significa que le usatores pote personalisar lor experientia de exploration in omne maniera possibile. Firefox alsi consenti al usator casual plure differente manieras pro personalisar le interfacie de usator con le application de themas differente e configurationes del barra del instrumentos. Post que nostre navigator ha sempre essite open-source, illo ha plure sequace disveloppatores qui ha create un extensive bibliotheca de additivos e extensiones.
 
 
 ;Since Edge has moved to the processor intensive Chromium platform, you can expect it to run a little slower, especially if you have multiple programs running at once. However, with Chromium platform comes a massive library of extensions as well as a decent level of UI customization that Edge did not have before it’s move to Chromium.
-Since Edge has moved to the processor intensive Chromium platform, you can expect it to run a little slower, especially if you have multiple programs running at once. However, with Chromium platform comes a massive library of extensions as well as a decent level of UI customization that Edge did not have before it’s move to Chromium.
+Post que Edge ha movite al platteforma Chromium processor intensive, tu pote expectar que illo flue un poco plus lente, specialmente si tu ha plure programmas fluente contemporaneemente. Totevia, con le platteforma Chromium veni un massive bibliotheca de extensiones e un nivello decente de personalisationes  del interfacie de usator que Edge non habeva ante su movimento a Chromium.
 
 
 ;Edge has some nice UI features, like their tab previews which can make it easy to find the right open tabs if you’ve got a lot of them open. Another helpful tab-related feature lets you set aside any active tabs that you aren’t using but don’t want to close down.
@@ -98,6 +98,6 @@ The bottom line is that while we suggest using Firefox, the best browser for you
 
 
 ;The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Edge (44)
-The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Edge (44)
+Le comparationes presentate hic ha essite facite inter le sequente versiones del navigatores:<br> Firefox (70) | Edge (44)
 
 

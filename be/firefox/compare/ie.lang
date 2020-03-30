@@ -3,37 +3,37 @@
 
 # HTML page title
 ;Firefox vs. Internet Explorer: Which is the better browser for you?
-Firefox vs. Internet Explorer: Which is the better browser for you?
+Firefox супраць Internet Explorer: Які браўзер лепшы для вас?
 
 
 # HTML description
 ;Compare Internet Explorer to the Firefox Browser to find out which is the better browser for you.
-Compare Internet Explorer to the Firefox Browser to find out which is the better browser for you.
+Параўнайце Internet Explorer з браўзерам Firefox, каб даведацца, які браўзер лепшы для вас.
 
 
 # Page title
 ;Comparing Firefox Browser with Microsoft Internet Explorer
-Comparing Firefox Browser with Microsoft Internet Explorer
+Параўнанне браўзера Firefox з Microsoft Internet Explorer
 
 
 ;While Microsoft’s Internet Explorer still comes pre-installed on most Windows-based PCs, clearly Microsoft would prefer you to use their Edge browser, which is set as the default when you purchase.
-While Microsoft’s Internet Explorer still comes pre-installed on most Windows-based PCs, clearly Microsoft would prefer you to use their Edge browser, which is set as the default when you purchase.
+Хоць Internet Explorer па-ранейшаму ідзе папярэдне ўсталяваным на большасці ПК на базе Windows, відавочна, што Microsoft хацела б, каб вы карысталіся іх аглядальнікам Edge, які ўсталёўваецца як прадвызначаны пры куплі.
 
 
 ;Microsoft discontinued its Internet Explorer brand several years ago, in favor of its updated Edge browser for Windows 10. However, slow adoption for Edge created room for Internet Explorer to live on, mainly for business compatibility reasons.
-Microsoft discontinued its Internet Explorer brand several years ago, in favor of its updated Edge browser for Windows 10. However, slow adoption for Edge created room for Internet Explorer to live on, mainly for business compatibility reasons.
+Microsoft спыніла працу над брэндам Internet Explorer некалькі гадоў таму на карысць свайго абноўленага браўзера Edge для Windows 10. Аднак павольнае прыняцце Edge стварыла месца для Internet Explorer, галоўным чынам, з меркаванняў сумяшчальнасці бізнесу.
 
 
 ;Here we’ll compare our Firefox Browser with Internet Explorer in terms of security, utility, and portability. We’ll help you understand the differences between how a modern browser like Firefox that adheres to web standards compares with the browser you may be using for business purposes or out of old habits that die hard.
-Here we’ll compare our Firefox Browser with Internet Explorer in terms of security, utility, and portability. We’ll help you understand the differences between how a modern browser like Firefox that adheres to web standards compares with the browser you may be using for business purposes or out of old habits that die hard.
+Тут мы параўнаем свой браўзер Firefox і Internet Explorer у плане бяспекі, зручнасці і пераноснасці. Мы дапаможам вам зразумець адрозненні паміж тым, як сучасны браўзер, такі як Firefox, што прытрымліваецца вэб-стандартаў, выглядае ў параўнанні з браўзерам, які вы можаце выкарыстоўваць у мэтах бізнесу альбо з-за старых звычак, якія ніяк не забудуцца.
 
 
 ;If you haven’t moved on from using Internet Explorer, the security risk factor alone should be enough to convince you. <a %(attrs)s>Microsoft’s own security chief has warned</a> millions of people who continue to use Internet Explorer as their main web browser that they are placing themselves in “peril.”
-If you haven’t moved on from using Internet Explorer, the security risk factor alone should be enough to convince you. <a %(attrs)s>Microsoft’s own security chief has warned</a> millions of people who continue to use Internet Explorer as their main web browser that they are placing themselves in “peril.”
+Калі вы ўсё яшчэ карыстаецеся Internet Explorer, аднаго толькі фактару рызыкі бяспекі мусіць быць дастаткова, каб пераканаць вас. <a %(attrs)s>Кіраўнік службы бяспекі самой Microsoft папярэдзіў</a> мільёны людзей, якія працягваюць карыстацца Internet Explorer як асноўным вэб-браўзерам, што яны змяшчаюць свае звесткі ў небяспеку.
 
 
 ;Microsoft is no longer supporting new development for Internet Explorer, which means security concerns are rampant. Microsoft openly acknowledges the fact that vulnerabilities exist within basically every version of Internet Explorer.
-Microsoft is no longer supporting new development for Internet Explorer, which means security concerns are rampant. Microsoft openly acknowledges the fact that vulnerabilities exist within basically every version of Internet Explorer.
+Microsoft ужо не падтрымлівае новыя распрацоўкі для Internet Explorer, а гэта азначае, што праблемы бяспекі непадкантрольныя. Microsoft адкрыта прызнае той факт, што ўразлівасці існуюць у кожнай версіі Internet Explorer.
 
 
 ;So what’s the solution if your company is running outdated apps that only work on Internet Explorer? Our best advice for you personally is, don’t mix business with pleasure. The simple thing to do is download and use a more secure browser like Firefox. Then, if you need to do things like check your personal email or shop online, you can just switch over to the more secure browser. The bottom line is, if Microsoft is warning people not to use Internet Explorer, don’t use it. Your online privacy and security are not worth risking because you (or your company) have a hard time breaking an old habit. We make Firefox with security and privacy features like <a %(lockwise)s>Lockwise</a>, our password manager, private browsing and lots of other add-ons that help us make the web safer for you. Also, our <a %(privacy)s>Privacy Policy</a> is straightforward: we tell you what we know about you, and why we collect that information. All of these things obviously go beyond what Internet Explorer offers, and even what other modern browsers like Google Chrome and Microsoft Edge offer.
