@@ -1,4 +1,5 @@
 ## active ##
+## 404_update_2020 ##
 ## NOTE: page is at https://www-dev.allizom.org/404/
 
 
@@ -7,27 +8,27 @@
 
 
 ;Sorry, we can’t find that page
-Sorry, we can’t find that page
+Desolate, nos non pote trovar ille pagina
 
 
 ;We’re all about a healthy internet but sometimes broken URLs happen.
-We’re all about a healthy internet but sometimes broken URLs happen.
+Nos lucta pro un internet salubre, ma aliquando URLs corrupte eveni.
 
 
 ;Go Back
-Go Back
+Retornar
 
 
 ;<a href="%(about)s">Learn</a> about Mozilla, the non-profit behind Firefox.
-<a href="%(about)s">Learn</a> about Mozilla, the non-profit behind Firefox.
+<a href="%(about)s">Apprende</a> re Mozilla, le organisation non-lucrative detra Firefox.
 
 
 ;<a href=%(explore)s>Explore</a> the entire family for Firefox products designed to respect your privacy.
-<a href=%(explore)s>Explore</a> the entire family for Firefox products designed to respect your privacy.
+<a href=%(explore)s>Discoperi</a> tote le familia de productos Firefox designate pro respectar tu confidentialitate.
 
 
 ;<a href=%(download)s>Download</a> the Firefox browser for your mobile device or desktop
-<a href=%(download)s>Download</a> the Firefox browser for your mobile device or desktop
+<a href=%(download)s>Discarga</a> le navigator Firefox pro tu apparato mobile o scriptorio
 
 
 # This string is obsolete. Do not remove.
@@ -42,7 +43,7 @@ Ha tu perdite le cammino? Nulle problema. Ecce alcun consilios utile pro retrova
 
 # This string is obsolete. Do not remove.
 ;If you typed in the address, check your spelling. Could just be a typo.
-Si tu ha dactylographate le adresse, verifica le orthographia. Poterea esser solmente un error typographic.
+Si tu ha scribite le adresse, verifica tu orthographia. Poterea justo esser un error de penna.
 
 
 # This string is obsolete. Do not remove.

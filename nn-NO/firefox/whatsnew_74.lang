@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/74.0/whatsnew/all/
 
 
@@ -12,12 +13,12 @@ Gratulerer! Du brukar siste versjon av Firefox.
 
 # Main title
 ;It’s okay to like Facebook
-It’s okay to like Facebook
+Det er greit å like Facebook
 
 
 # "Facebook Container" is a product name and shouldn't be translated.
 ;If you still kinda like Facebook but don’t trust them, then try the Facebook Container extension by Firefox and make it harder for them to track you around the web.
-If you still kinda like Facebook but don’t trust them, then try the Facebook Container extension by Firefox and make it harder for them to track you around the web.
+Dersom du framleis likar Facebook, men ikkje stoler på dei, kan du prøve Facebook Container-utvidinga laga av Firefox og gjere det vanskelegare for dei å spore deg på nettet.
 
 
 # "Facebook Container" is a product name and shouldn't be translated.
@@ -27,34 +28,34 @@ Last ned Facebook Container
 
 # "Do it for the 'Gram" is a slang phrase used when people do things in life just so they can take pictures to post on Instagram. Alternative: "It works on Instagram"
 ;Do it for the ’Gram
-Do it for the ’Gram
+Den fungerer på Instagram
 
 
 # "Facebook Container", "Instagram", "Facebook Messenger" and "Workplace" are proper names that shouldn't be translated.
 ;Facebook Container also works on other Facebook owned sites like Instagram, Facebook Messenger and Workplace.
-Facebook Container also works on other Facebook owned sites like Instagram, Facebook Messenger and Workplace.
+Facebook Container fungerer også på andre Facebook-eigde nettstadar som Instagram, Facebook Messenger og Workplace.
 
 
 # CTA link
 ;Make them unfollow you
-Make them unfollow you
+La dei ikkje følgje deg igjen
 
 
 ;That sneaky little button
-That sneaky little button
+Den lumske, vesle knappen
 
 
 ;Those innocent-looking F buttons from Facebook track your web activity, even if you don’t have an account. Facebook Container blocks them.
-Those innocent-looking F buttons from Facebook track your web activity, even if you don’t have an account. Facebook Container blocks them.
+Dei uskuldige F-knappane frå Facebook sporar nettaktiviteten din, sjølv om du ikkje har ein konto. Facebook Container blokkerar dei.
 
 
 ;Stay ahead of hackers
-Stay ahead of hackers
+Hald deg eitt steg framom hackarar
 
 
 # "Firefox Monitor" is a product name that shouldn't be translated.
 ;Firefox Monitor lets you find out what hackers might already know about you and helps you stay a step ahead of them. (And it’s free.)
-Firefox Monitor lets you find out what hackers might already know about you and helps you stay a step ahead of them. (And it’s free.)
+Firefox Monitor lar deg finne ut kva hackarar allereie veit om deg, og hjelper deg med å liggje eitt steg framom dei. (Og det er gratis.)
 
 
 # CTA link
@@ -63,6 +64,6 @@ Få Firefox Monitor
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+Les <a href="%(notes)s">versjonsnotatet</a> for å finne ut meir om kva som er nytt i Firefox-nettlesaren.
 
 
