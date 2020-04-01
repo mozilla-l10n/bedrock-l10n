@@ -1,56 +1,57 @@
+## active ##
 ## NOTE: Demo https://www-demo1.allizom.org/firefox/71.0/whatsnew/all/
 
 
 # HTML page title.
 ;What’s new with Firefox - More privacy, more protections.
-What’s new with Firefox - More privacy, more protections.
+Шта је ново у Firefox-у - више приватности, више заштите.
 
 
 # Notification banner.
 ;Congrats! You’re using the latest version of Firefox.
-Congrats! You’re using the latest version of Firefox.
+Честитамо! Користите најновију верзију Firefox-а.
 
 
 # Page headline.
 ;No account required. But you might want one.
-No account required. But you might want one.
+Налог није обавезан, али ћете вероватно хтети један.
 
 
 ;The Firefox browser collects so little data about you, we don’t even require your email address. But when you use it to create a Firefox account, we can protect your privacy across more of your online life.
-The Firefox browser collects so little data about you, we don’t even require your email address. But when you use it to create a Firefox account, we can protect your privacy across more of your online life.
+Firefox прегледач прикупља толико мало ваших података, да чак не захтевамо вашу е-адресу. Али када је искористите за прављење Firefox налога, можемо проширити заштиту ваше приватности на интернету.
 
 
 ;Sign In
-Sign In
+Пријавите се
 
 
 ;Have at least one company looking out for your data, instead of leaking it.
-Have at least one company looking out for your data, instead of leaking it.
+Рачунајте бар на једну компанију да штити ваше податке уместо да их открива.
 
 
 ;Never forget, reset or travel without your passwords again.
-Never forget, reset or travel without your passwords again.
+Никада више немојте заборавити, ресетовати или путовати без лозинке.
 
 
 # The word container relates to a 'container tab', used by the Facebook Container extension.
 ;Get a container to keep Facebook out of your business.
-Get a container to keep Facebook out of your business.
+Преузмите контејнер за изоловање Facebook-а из вашег радног времена.
 
 
 ;Trade clickbait and fake news for quality content.
-Trade clickbait and fake news for quality content.
+Замените кликбејт и лажне вести за квалитетан садржај.
 
 
 ;Send huge files to anyone you want, with self-destructing links.
-Send huge files to anyone you want, with self-destructing links.
+Шаљите велике датотеке било коме преко самоуништавајућих веза.
 
 
 ;Get a Firefox Account
-Get a Firefox Account
+Направите Firefox налог
 
 
 # Firefox Browser is a product name so should be capitalized. Browser should be preferably left in English but can be translated due to linguistic necessity.
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+Прочитајте <a href="%(notes)s">белешке о издању</a> да сазнате више о новим функцијама вашег Firefox прегледача.
 
 

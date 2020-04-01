@@ -3,46 +3,46 @@
 
 # HTML page title
 ;Mozilla’s Data Privacy FAQ
-Mozilla’s Data Privacy FAQ
+Често постављана питања о приватности података при Mozilla-и
 
 
 # HTML page description
 ;At Mozilla we respect and protect your personal information.
-At Mozilla we respect and protect your personal information.
+У Mozilla-и поштујемо и штитимо ваше личне податке.
 
 
 ;We Stand for People Over Profit.
-We Stand for People Over Profit.
+Стављамо људе испред профита.
 
 
 # "Under the hood" is an expression in automobile industry. Here it is a metaphor about something that exists but out of sight, behind the scenes.
 ;It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
-It can be tricky for people to know what to expect of any software or services they use today. The technology that powers our lives is complex and people don’t have the time to dig into the details. That is still true for Firefox, where we find that people have many different ideas of what is happening under the hood in their browser.
+Људима може бити тешко да схвате шта да очекују у данас најчешће коришћеним софтверима и услугама. Сложеност технологија које покрећу наше животе оставља људе без времена да се упознају са детаљима. Ово важи и за Firefox, јер сматрамо да људи имају много различитих идеја о томе како ради њихов прегледач.
 
 
 ;At Mozilla, we respect and protect your personal information:
-At Mozilla, we respect and protect your personal information:
+У Mozilla-и поштујемо и штитимо ваше личне податке:
 
 
 # Links to https://www.mozilla.org/privacy/principles/
 ;We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our approach to privacy in the Firefox desktop and mobile browsers.
-We follow a set of <a href="%(link)s">Data Privacy Principles</a> that shape our approach to privacy in the Firefox desktop and mobile browsers.
+Пратимо низ <a href="%(link)s">принципа о приватности података</a> које обликују наш приступ приватности у Firefox прегледачима за рачунаре и мобилне уређаје.
 
 
 ;We only collect the data we need to make the best products.
-We only collect the data we need to make the best products.
+Прикупљамо само податке неопходне за развој најбољих производа.
 
 
 ;We put people in control of their data and online experiences.
-We put people in control of their data and online experiences.
+Људима дајемо контролу над њиховим подацима и искуству на мрежи.
 
 
 ;We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
-We adhere to “no surprises” principle, meaning we work hard to ensure people’s understanding of Firefox matches reality.
+Држимо се принципа “без изненађења”, дакле радимо на томе да рад Firefox-а задовољава очекивања људи.
 
 
 ;The following questions and answers should help you understand what to expect from Mozilla and Firefox:
-The following questions and answers should help you understand what to expect from Mozilla and Firefox:
+Следећа питања и одговори ће вам помоћи да разумете шта да очекујете од Mozilla-е и Firefox-а:
 
 
 ;I use Firefox for almost everything on the Web. You folks at Mozilla must know a ton of stuff about me, right?
@@ -164,15 +164,15 @@ You don't need an account to use Firefox. Accounts are required to sync data acr
 
 
 ;You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
-You use digital advertising as part of your marketing mix. Do you buy people's data to better target your online ads?
+Ви користите дигитално оглашавање као део маркетиншког микса. Да ли купујете податке о људима да бисте боље циљали рекламама на мрежи?
 
 
 ;No, we do not buy people's data to target advertising.
-No, we do not buy people's data to target advertising.
+Не, не купујемо податке о људима за циљано оглашавање.
 
 
 ;We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
-We do ask our advertising partners to use only first party data that websites and publishers know about all users, such as the browser you are using and the device you are on.
+Од наших оглашивачких партнера захтевамо да се ослањају само на примарне податке којима издавачи и веб странице имају директан приступ за све кориснике, као што су прегледач и уређај који користите.
 
 
 ;Well, it seems like you really have my back on this privacy stuff.

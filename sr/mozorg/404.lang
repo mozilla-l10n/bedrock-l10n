@@ -1,4 +1,5 @@
 ## active ##
+## 404_update_2020 ##
 ## NOTE: page is at https://www-dev.allizom.org/404/
 
 
@@ -7,27 +8,27 @@
 
 
 ;Sorry, we can’t find that page
-Sorry, we can’t find that page
+Жао нам је, не можемо наћи ту страницу
 
 
 ;We’re all about a healthy internet but sometimes broken URLs happen.
-We’re all about a healthy internet but sometimes broken URLs happen.
+Увек смо за здрав интернет, али понекад се десе грешке.
 
 
 ;Go Back
-Go Back
+Иди назад
 
 
 ;<a href="%(about)s">Learn</a> about Mozilla, the non-profit behind Firefox.
-<a href="%(about)s">Learn</a> about Mozilla, the non-profit behind Firefox.
+<a href="%(about)s">Сазнајте више</a> о Mozilla-и, непрофитној организацији која стоји иза Firefox-а.
 
 
 ;<a href=%(explore)s>Explore</a> the entire family for Firefox products designed to respect your privacy.
-<a href=%(explore)s>Explore</a> the entire family for Firefox products designed to respect your privacy.
+<a href=%(explore)s>Истражите</a> целу породицу Firefox производа дизајнираних да поштују вашу приватност.
 
 
 ;<a href=%(download)s>Download</a> the Firefox browser for your mobile device or desktop
-<a href=%(download)s>Download</a> the Firefox browser for your mobile device or desktop
+<a href=%(download)s>Преузмите</a> Firefox прегледач за ваш мобилни уређај или рачунар
 
 
 # This string is obsolete. Do not remove.
