@@ -1,88 +1,90 @@
+## active ##
 ## NOTE: https://www-dev.allizom.org/technology/what-is-a-browser/
-## URL: https://www-demo3.allizom.org/%LOCALE%/technology/what-is-a-browser/
 
 
 # HTML page title
 ;What is a web browser?
-What is a web browser?
+Що таке браузер?
 
 
 # HTML page description
 ;A web browser takes you anywhere on the internet, letting you see text, images and video from anywhere in the world.
-A web browser takes you anywhere on the internet, letting you see text, images and video from anywhere in the world.
+Браузер переносить вас до будь-якого куточку Інтернету і дає вам змогу переглядати текст, зображення та відео де б ви не знаходилися.
 
 
 ;The web is a vast and powerful tool. Over the course of a few decades the internet has changed the way we work, the way we play and the way we interact with one another. Depending on how it’s used, it bridges nations, drives commerce, nurtures relationships, drives the innovation engine of the future and is responsible for more memes than we know what to do with.
-The web is a vast and powerful tool. Over the course of a few decades the internet has changed the way we work, the way we play and the way we interact with one another. Depending on how it’s used, it bridges nations, drives commerce, nurtures relationships, drives the innovation engine of the future and is responsible for more memes than we know what to do with.
+Інтернет — це величезний та потужний інструмент. За кілька десятиліть Інтернет змінив те, як ми працюємо, як ми граємо та взаємодіємо одне з одним. Залежно від того, яким чином він використовується, він об'єднує нації, стимулює бізнес, допомагає підтримувати взаємовідносини, скеровує й урухомлює майбутні інновації та створює більше мемів, ніж нам потрібно.
 
 
 ;It’s important that everyone has access to the web, but it’s also vital that we all <a href="%(tools)s">understand the tools</a> we use to access it. We use web browsers like Mozilla Firefox, Google Chrome, Microsoft Edge and Apple Safari every day, but do we understand what they are and how they work?
-It’s important that everyone has access to the web, but it’s also vital that we all <a href="%(tools)s">understand the tools</a> we use to access it. We use web browsers like Mozilla Firefox, Google Chrome, Microsoft Edge and Apple Safari every day, but do we understand what they are and how they work?
+Дуже важливо, щоб усі мали доступ до Інтернету, але ще важливіше, щоб ми всі <a href="%(tools)s">розуміли інструменти,</a> які використовуємо для доступу до нього. Ми використовуємо браузери, такі як Mozilla Firefox, Google Chrome, Microsoft Edge та Apple Safari щодня, але чи розуміємо ми, чим вони є і як вони працюють?
 
 
 ;In a short period of time we’ve gone from being amazed by the ability to send an email to someone around the world, to a change in how we think of information. It’s not a question of how much you know anymore, but simply a question of what browser or app can get you to that information fastest.
-In a short period of time we’ve gone from being amazed by the ability to send an email to someone around the world, to a change in how we think of information. It’s not a question of how much you know anymore, but simply a question of what browser or app can get you to that information fastest.
+За короткий проміжок часу ми перейшли від зачарування можливістю надсилати електронний лист комусь у будь-який куточок світу до зміни нашої уяви про способи взаємодії з інформацією. Рівень ваших знань більше не має визначального значення, тепер найголовніше, який браузер чи додаток зможуть якнайшвидше допомогти знайти необхідну вам інформацію.
 
 
 ;In a short period of time we’ve gone from being amazed by the ability to send an email to someone around the world, to a change in how we think about information.
-In a short period of time we’ve gone from being amazed by the ability to send an email to someone around the world, to a change in how we think about information.
+За короткий проміжок часу ми перейшли від зачарування можливістю надсилати електронний лист комусь у будь-який куточок світу до зміни нашої уяви про способи взаємодії з інформацією.
 
 
 ;How does a web browser work?
-How does a web browser work?
+Як працює браузер?
 
 
 ;A web browser takes you anywhere on the internet. It retrieves information from other parts of the web and displays it on your desktop or mobile device. The information is transferred using the Hypertext Transfer Protocol, which defines how text, images and video are transmitted on the web. This information needs to be shared and displayed in a consistent format so that people using any browser, anywhere in the world can see the information.
-A web browser takes you anywhere on the internet. It retrieves information from other parts of the web and displays it on your desktop or mobile device. The information is transferred using the Hypertext Transfer Protocol, which defines how text, images and video are transmitted on the web. This information needs to be shared and displayed in a consistent format so that people using any browser, anywhere in the world can see the information.
+Браузер переносить вас до будь-якого закуточка Інтернету. Він бере інформацію з інших частин Інтернету та показує її на вашому комп'ютері чи мобільному пристрої. Інформація передається за допомогою протоколу передачі гіпертексту (Hypertext Transfer Protocol), який визначає, як передаються текст, зображення та відео в Інтернеті. Ця інформація повинна надсилатися та показуватися у сумісному форматі, щоб користувачі будь-якого браузера, у будь-якому куточку світу, могли побачити цю інформацію.
 
 
 ;Sadly, not all browser makers choose to interpret the format in the same way. For users, this means that a website can look and function differently. Creating consistency between browsers, so that any user can enjoy the internet, regardless of the browser they choose, is called <a href="%(standards)s">web standards</a>.
-Sadly, not all browser makers choose to interpret the format in the same way. For users, this means that a website can look and function differently. Creating consistency between browsers, so that any user can enjoy the internet, regardless of the browser they choose, is called <a href="%(standards)s">web standards</a>.
+На жаль, не всі розробники браузерів обирають однаковий спосіб інтерпретування формату. Для користувачів це означає, що вебсайт може виглядати й функціонувати по-різному. Створення сумісності між браузерами, щоб будь-який користувач міг переглядати Інтернет незалежно від обраного браузера, називається <a href="%(standards)s">веб стандартами</a>.
 
 
 ;When the web browser fetches data from an internet connected server and it then uses a piece of software called a rendering engine to translate that data into text and images. This data is written in <a href="%(html)s">Hypertext Markup Language</a> (HTML) and web browsers read this code to create what we see, hear and experience on the internet.
-When the web browser fetches data from an internet connected server and it then uses a piece of software called a rendering engine to translate that data into text and images. This data is written in <a href="%(html)s">Hypertext Markup Language</a> (HTML) and web browsers read this code to create what we see, hear and experience on the internet.
+Коли браузер отримує дані з підключеного до Інтернету сервера, а потім використовує програмне забезпечення під назвою рушій візуалізації для перетворення цих даних у текст та зображення. Ці дані записані <a href="%(html)s">мовою розмітки гіпертексту</a> (HTML) і браузери читають цей код, щоб створити те, що ми бачимо, чуємо та дізнаємося з Інтернету.
 
 
 ;<a href="%(hyperlink)s">Hyperlinks</a> allow users to follow a path to other pages or sites on the web. Every webpage, image and video has its own unique <a href="%(url)s">Uniform Resource Locator</a> (URL), which is also known as a web address. When a browser visits a server for data, the web address tells the browser where to look for each item that is described in the html, which then tells the browser where it goes on the web page.
-<a href="%(hyperlink)s">Hyperlinks</a> allow users to follow a path to other pages or sites on the web. Every webpage, image and video has its own unique <a href="%(url)s">Uniform Resource Locator</a> (URL), which is also known as a web address. When a browser visits a server for data, the web address tells the browser where to look for each item that is described in the html, which then tells the browser where it goes on the web page.
+<a href="%(hyperlink)s">Гіперпосилання</a> дає можливість користувачам переходити до інших сторінок або сайтів в Інтернеті. Кожна вебсторінка, зображення та відео має свій унікальний <a href="%(url)s">Uniform Resource Locator</a> (URL), який також відомий як вебадреса. Коли браузер звертається до сервера для передачі даних, вебадреса повідомляє браузеру, де шукати кожен елемент, описаний у HTML коді, який потім повідомляє браузеру, до якої частини вебсторінки йому переходити.
 
 
 ;Cookies (not the yummy kind)
-Cookies (not the yummy kind)
+Куки
 
 
 ;Websites save information about you in files called <a href="%(cookies)s">cookies</a>. They are saved on your computer for the next time you visit that site. Upon your return, the website code will read that file to see that it’s you. For example, when you go to a website and the page remembers your username and password – that’s made possible by a cookie.
-Websites save information about you in files called <a href="%(cookies)s">cookies</a>. They are saved on your computer for the next time you visit that site. Upon your return, the website code will read that file to see that it’s you. For example, when you go to a website and the page remembers your username and password – that’s made possible by a cookie.
+Вебсайти зберігають інформацію про вас у файлах під назвою <a href="%(cookies)s">куки</a>. Вони зберігаються на вашому комп’ютері до наступних відвідин цих сайтів. Після повернення, код вебсайту прочитає цей файл, щоб впевнитися, що це ви. Наприклад, ви переходите на вебсайт і сторінка запам'ятовує ваше ім’я користувача та пароль — це можливо завдяки кукам.
 
 
 ;There are also cookies that remember more detailed information about you. Perhaps your interests, your web browsing patterns, etc. This means that a site can provide you more targeted content – often in the form of ads. There are types of cookies, called <em>third-party</em> cookies, that come from sites you’re not even visiting at the time and can track you from site to site to gather information about you, which is sometimes sold to other companies. Sometimes you can block these kinds of cookies, though not all browsers allow you to.
-There are also cookies that remember more detailed information about you. Perhaps your interests, your web browsing patterns, etc. This means that a site can provide you more targeted content – often in the form of ads. There are types of cookies, called <em>third-party</em> cookies, that come from sites you’re not even visiting at the time and can track you from site to site to gather information about you, which is sometimes sold to other companies. Sometimes you can block these kinds of cookies, though not all browsers allow you to.
+Також є куки, які зберігають детальнішу інформацію про вас. Можливо, ваші інтереси, ваші звички під час перегляду Інтернету тощо. Це означає, що сайт може показати вам відповідніший вміст — часто у вигляді реклами. Існують типи куків, які називаються <em>сторонніми</em> куками, які встановлюються сайтами, які ви навіть не відвідували та можуть стежити за вашими діями в Інтернеті, для збору інформації про вас, яку іноді продають іншим компаніям. Існують можливості блокування таких куків, але не в усіх браузерах.
 
 
 ;When you go to a website and the page remembers your username and password – that’s made possible by a cookie.
-When you go to a website and the page remembers your username and password – that’s made possible by a cookie.
+Коли ви переходите на вебсайт і сторінка запам'ятовує ваші ім’я користувача та пароль — це можливо завдяки кукам.
 
 
 ;Understanding privacy
-Understanding privacy
+Розуміння приватності
 
 
 ;Nearly all major browsers have a private browsing setting. These exist to hide the browsing history from other users on the same computer. Many people think that private browsing or incognito mode will hide both their identity and browsing history from internet service providers, governments and advertisers. They don’t. These settings just clear the history on your system, which is helpful if you’re dealing with sensitive personal information on a shared or public computer. Firefox goes beyond that.
-Nearly all major browsers have a private browsing setting. These exist to hide the browsing history from other users on the same computer. Many people think that private browsing or incognito mode will hide both their identity and browsing history from internet service providers, governments and advertisers. They don’t. These settings just clear the history on your system, which is helpful if you’re dealing with sensitive personal information on a shared or public computer. Firefox goes beyond that.
+Майже всі найвідоміші браузери мають функцію приватного перегляду, основним завданням якої є приховування історії перегляду від інших користувачів на тому ж комп'ютері. Багато людей вважають, що режим приватного перегляду чи анонімний режим приховає їхню особу та історію перегляду від постачальників послуг Інтернету, урядів та рекламодавців. Але насправді це не так. Цей режим лише стирає історію вашого перегляду, що стане в пригоді, якщо ви маєте справу з приватними особистими даними на спільному або загальнодоступному комп’ютері. Firefox розширює ці функції.
 
 
 ;Firefox helps you be more private online by letting you block trackers from following you around the web.
-Firefox helps you be more private online by letting you block trackers from following you around the web.
+Firefox допомагає вам бути ще приватнішими коли ви онлайн, дозволяючи вам блокувати елементи стеження за вашими діями в Інтернеті.
 
 
 ;Making your web browser work for you
-Making your web browser work for you
+Налаштування браузера для вашої зручності
 
 
 ;Most major web browsers let users modify their experience through extensions or add-ons. Extensions are bits of software that you can add to your browser to customize it or add functionality. Extensions can do all kinds of fun and practical things like enabling new features, foreign language dictionaries, or visual appearances and themes.
-Most major web browsers let users modify their experience through extensions or add-ons. Extensions are bits of software that you can add to your browser to customize it or add functionality. Extensions can do all kinds of fun and practical things like enabling new features, foreign language dictionaries, or visual appearances and themes.
+Більшість найвідоміших браузерів дозволяють користувачам розширювати функції, встановлюючи розширення або додатки. Розширення — це частинки програмного забезпечення, яке ви можете додати до свого браузера, щоб налаштувати його або додати йому функціональності. Розширення можуть виконувати різноманітні цікаві та практичні завдання, такі як додавання нових функцій, словників іноземної мови або візуальних ефектів та тем.
 
 
 ;All browser makers develop their products to display images and video as quickly and smoothly as possible making it easy for you to make the most of the web. They all work hard to make sure users have a browser that is fast, powerful and easy to use. Where they differ is why. It’s important to choose the right browser for you. Mozilla builds Firefox to ensure that users have control over their online lives and to ensure that the internet is a global, public resource, accessible to all.
-All browser makers develop their products to display images and video as quickly and smoothly as possible making it easy for you to make the most of the web. They all work hard to make sure users have a browser that is fast, powerful and easy to use. Where they differ is why. It’s important to choose the right browser for you. Mozilla builds Firefox to ensure that users have control over their online lives and to ensure that the internet is a global, public resource, accessible to all.
+Усі браузери розробляються для якомога швидшого та плавного показу зображень та відео, щоб вам було зручно користуватися Інтернетом. Всі розробники наполегливо працюють, щоб бути впевненими, що користувачі мають швидкий, потужний та простий у користуванні браузер. Але необхідно зрозуміти в чому відмінності між ними. Важливо вибрати найкращий для вас браузер. Mozilla розробляє Firefox, щоб користувачі могли контролювати своє життя в Інтернеті, а також, щоб Інтернет був світовим, публічним ресурсом, доступним для всіх.
+
+

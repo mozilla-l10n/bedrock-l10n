@@ -1,3 +1,8 @@
+## active ##
+## privacy_email_2019 ##
+## privacy_sumo_032020 ##
+## updates-052018 ##
+## updates-072018 ##
 ## NOTE: demo page is available at https://www-dev.allizom.org/privacy/
 
 
@@ -14,11 +19,11 @@ Mozilla Приватност
 
 
 ;<a href="%(dsar)s">See here for Data Subject Access Requests.</a>
-<a href="%(dsar)s">See here for Data Subject Access Requests.</a>
+<a href="%(dsar)s">Погледајте овде за захтеве за приступ личним подацима.</a>
 
 
 ;For product support requests, please <a href="%(sumo)s">visit our forums</a>.
-For product support requests, please <a href="%(sumo)s">visit our forums</a>.
+Ако имате питања о подршци за производ, посетите <a href="%(sumo)s">наше форуме</a>.
 
 
 ;Data Privacy Principles
@@ -28,13 +33,13 @@ For product support requests, please <a href="%(sumo)s">visit our forums</a>.
 # Links to https://www.mozilla.org/privacy/principles/
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's <a href="%(principles)s">Data Privacy Principles</a> inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Наше праксе заштите интернет корисника су инспирисане Mozilla-иним <a href="%(principles)s">принципима приватности података</a>. Сазнајте како ови принципи обликују Firefox и све наше друге производе у <a href="%(faq)s">често постављаним питањима</a>.
 
 
 # This string is obsolete. Do not remove.
 # Links to https://www.mozilla.org/privacy/faq/
 ;Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
-Mozilla's Data Privacy Principles inspire our practices that respect and protect people who use the Internet. Learn how these principles shape Firefox and all of our products in this <a href="%(faq)s">FAQ</a>.
+Наше праксе заштите интернет корисника су инспирисане Mozilla-иним принципима приватности. Сазнајте како ови принципи обликују Firefox и све наше друге производе у <a href="%(faq)s">често постављаним питањима</a>.
 
 
 # This string is obsolete. Do not remove.
@@ -43,7 +48,7 @@ Mozilla је пројекат отвореног кода који има у ц�
 
 
 ;Privacy Notices
-Privacy Notices
+Напомене о приватности
 
 
 # This string is obsolete. Do not remove.
@@ -52,7 +57,7 @@ Privacy Notices
 
 
 ;Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
-Our Privacy Notices describe the data our products and services receive, share, and use, as well as choices available to you.
+Наша напомена о приватности описује које податке наши производи и услуге примају, деле и користе, као и изборе који су вам доступни.
 
 
 # This string is obsolete. Do not remove.
@@ -69,19 +74,19 @@ Firefox веб прегледач
 
 
 ;Firefox for Fire TV
-Firefox for Fire TV
+Firefox за Fire TV
 
 
 ;Transparency Report
-Transparency Report
+Извештај о транспарентности
 
 
 ;As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
-As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual <a href="%(report)s">Transparency Report</a> also demonstrates our commitment to these principles.
+Mozilla је пројекат отвореног кода, због чега су транспарентност и отвореност суштински део наших принципа оснивања. Наши изворни кодови су отворени и проверљиви. Наш развојни рад је отворен. Наш полугодишњи <a href="%(report)s">извештај о транспарентности</a> такође истиче колико смо посвећени овим принципима.
 
 
 ;To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
-To review and comment on proposed changes to our privacy policies, <a href="%(group)s"> subscribe to Mozilla’s governance group</a>.
+Да бисте прегледали и коментарисали предложене измене наше политике приватности, <a href="%(group)s">претплатите се на Mozilla-ину групу управљања</a>.
 
 
 # This string is obsolete. Do not remove.
@@ -90,7 +95,7 @@ To review and comment on proposed changes to our privacy policies, <a href="%(gr
 
 
 ;Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
-Read more about our ongoing privacy and security public policy work on <a href="%(blog)s">Mozilla's Open Policy and Advocacy Blog</a>.
+Прочитајте више о нашим акцијама у вези са безбедносним и приватним политикама на <a href="%(blog)s">Mozilla-ином Open Policy and Advocacy блогу</a>.
 
 
 # This string is obsolete. Do not remove.

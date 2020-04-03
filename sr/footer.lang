@@ -4,105 +4,105 @@
 
 
 ;Developers
-Developers
+Програмери
 
 
 ;Company
-Company
+Компанија
 
 
 ;Careers
-Careers
+Каријере
 
 
 ;Test New Features
-Test New Features
+Тестирајте нове функције
 
 
 ;MDN Web Docs
-MDN Web Docs
+MDN веб документи
 
 
 ;Tools
-Tools
+Алатке
 
 
 ;Resources
-Resources
+Ресурси
 
 
 ;Contact
-Contact
+Контакт
 
 
 ;Product Help
-Product Help
+Помоћ за производ
 
 
 ;Support
-Support
+Подршка
 
 
 ;File a Bug
-File a Bug
+Пријавите грешку
 
 
 ;Community Participation Guidelines
-Community Participation Guidelines
+Смернице за учешће у заједници
 
 
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
-Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a rel="license" href="%(url)s">Creative Commons license</a>.
+Делови овог садржаја су ©1998–%(current_year)s појединачни сарадници mozilla.org пројекта. Садржај је доступан под <a rel="license" href="%(url)s">Creative Commons лиценцом</a>.
 
 
 ;Press
-Press
+Штампа
 
 
 # Link to https://mozilla.design
 ;Brand Standards
-Brand Standards
+Стандарди бренда
 
 
 ;Browsers
-Browsers
+Прегледачи
 
 
 ;Enterprise
-Enterprise
+Предузеће
 
 
 ;Products
-Products
+Производи
 
 
 ;Join
-Join
+Придружите се
 
 
 ;Sign Up
-Sign Up
+Региструјте се
 
 
 ;Sign In
-Sign In
+Пријавите се
 
 
 ;Benefits
-Benefits
+Предности
 
 
 # please do not translate the product name Beta
 ;Beta for Android
-Beta for Android
+Beta за Android
 
 
 # please do not translate the product name Nightly
 ;Nightly for Android
-Nightly for Android
+Nightly за Android
 
 
 ;Visit <a %(moco_link)s>Mozilla Corporation’s</a> not-for-profit parent, the <a %(mofo_link)s>Mozilla Foundation</a>.
-Visit <a %(moco_link)s>Mozilla Corporation’s</a> not-for-profit parent, the <a %(mofo_link)s>Mozilla Foundation</a>.
+Посетите непрофитну матичну компанију <a %(moco_link)s>корпорације Mozilla</a>, <a %(mofo_link)s>Mozilla фондацију</a>.
 
 
