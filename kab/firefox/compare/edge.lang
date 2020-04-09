@@ -17,19 +17,19 @@ Aserwes gar Firefox Browser akked Microsoft Edge
 
 
 ;With Windows 10, Microsoft introduced its Edge browser to compete with Firefox and Chrome making it the default browser pre-installed on millions of PCs sold. Even so, users were slow to adopt it and Microsoft eventually announced plans to relaunch Edge as a Chromium-based browser (Chromium of course being Google’s Open Source browser project).
-With Windows 10, Microsoft introduced its Edge browser to compete with Firefox and Chrome making it the default browser pre-installed on millions of PCs sold. Even so, users were slow to adopt it and Microsoft eventually announced plans to relaunch Edge as a Chromium-based browser (Chromium of course being Google’s Open Source browser project).
+Akked Windows10, Microsoft yessenked-d iminig-is Edge akken ad yemyezwar akked Firefox d Chrome s usbeddi-ines seg tazwara d iminig amezwer deg yimelyan n PCs yettwasenzen. Ɣas akken, iseqdacen ur uzzilen ara ad t-sqedcen, ɣer taggara, iberreḥ-d Microsoft s lebɣi-s ad iɛawed aserreḥ n Edge am yiminig i yebnan ɣef Chromium (Chromium d asenfar n uɣbalu yeldin n Google)
 
 
 ;Here we’ll compare our Firefox Browser to the Chromium-based Microsoft Edge in terms of privacy, utility, and portability, to help you have a better understanding of which browser better suits your needs and preferences.
-Here we’ll compare our Firefox Browser to the Chromium-based Microsoft Edge in terms of privacy, utility, and portability, to help you have a better understanding of which browser better suits your needs and preferences.
+Da ad nesserwes gar yiminig-nneɣ Firefox akked Microsoft Edge i yebnan ɣef Chromium deg wayen yerzan tabaḍnit, tixxutert d uɛebbi akken ad k-nɛiwen ad tegzuḍ akken iwata anwa iminig i ilaqen aḥwiǧi-inek d yismenyifen-ik.
 
 
 ;Edge is integrated into the Windows 10 platform and runs in a sandbox environment, meaning it isolates programs and prevents malicious programs from spying on your computer. It has a built-in SmartScreen that scans the reputation of sites you visit and blocks suspicious sites. To enhance privacy, Edge allows you to use biometrics or a PIN with Windows Hello instead of passwords for online authentication.
-Edge is integrated into the Windows 10 platform and runs in a sandbox environment, meaning it isolates programs and prevents malicious programs from spying on your computer. It has a built-in SmartScreen that scans the reputation of sites you visit and blocks suspicious sites. To enhance privacy, Edge allows you to use biometrics or a PIN with Windows Hello instead of passwords for online authentication.
+Edge yettwarna ɣer tɣerɣert n Windows 10 yerna itteddu deg twennaḍt n usersu, anamek-is iferreq ahilen yerna yessewḥal yir ahilen ad xeẓren deg uselkim-ik. Deg-s SmartScreen i yettnadin tisellit n yismal yerna issewḥal ismal ideg yella ccekk. I usnerni n tbaḍnit, Edge ad k-isireg ad tesqedceḍ tabyumitrit neɣ PIN s Windows Hello deg wadeg n wawal uffir i usesteb srid.
 
 
 ;However, Edge saves some of your private data and sends it back to Microsoft with Windows updates. At 45 cryptically worded pages long, the privacy policy for Edge is unlikely to be read or understood by the average user.
-However, Edge saves some of your private data and sends it back to Microsoft with Windows updates. At 45 cryptically worded pages long, the privacy policy for Edge is unlikely to be read or understood by the average user.
+D acu kan, Edge yesseklas kra seg yisefka-inek usligen yerna yettazen-iten ɣer Microsoft s yileqman n Windows. Deg 45 n yisebtar iɣezzfanen yettwawgelhen, aseqdac alemmas ur izmir ara ad iɣer neɣ ad tegzuḍ tasertit n tbaḍnit n Edge.
 
 
 ;At Firefox, our <a %(attrs)s>privacy policy</a> is transparent and in plain language. We actually put a lot of work into making sure it was straightforward and easy to read. We pride ourselves in protecting our users security and privacy. With Enhanced Tracking Protection now on by default, we block 2000+ trackers automatically. Trackers are those little pieces of code that try to piece together what you're doing across multiple internet sites to build a composite and detailed picture of who you are, compromising your privacy all just to target better ads.
@@ -37,15 +37,15 @@ At Firefox, our <a %(attrs)s>privacy policy</a> is transparent and in plain lang
 
 
 ;Your <a %(attrs)s>Privacy Protections</a> shows you the trackers and cookies that pages have attempted to leave, and how many Firefox has blocked for you.
-Your <a %(attrs)s>Privacy Protections</a> shows you the trackers and cookies that pages have attempted to leave, and how many Firefox has blocked for you.
+Ad ak-d-yessken <a %(attrs)s>ummesten n tbaḍnit</a> ineḍfaren d yinagan n tuqqna i ɛerḍen yisebtar ad ǧǧen, akked wacḥal i yessewḥel Firefox ɣef lǧal-ik.
 
 
 ;In Firefox, Private Browsing mode automatically erases your browsing information like passwords, cookies, and history, leaving no trace after you close out the session. Edge on the other hand, actually records browsing history in their private mode (called “InPrivate”) and it’s a relatively easy task for someone to reconstruct your full browsing history, regardless of whether your browsing was done in regular or InPrivate mode.
-In Firefox, Private Browsing mode automatically erases your browsing information like passwords, cookies, and history, leaving no trace after you close out the session. Edge on the other hand, actually records browsing history in their private mode (called “InPrivate”) and it’s a relatively easy task for someone to reconstruct your full browsing history, regardless of whether your browsing was done in regular or InPrivate mode.
+Deg Firefox, askar uslig n tunigin iseffeḍ s wudem awurman tilɣa n tunigin-ik am wawalen uffiren, inagan n tuqqna d umazray, ur d-ittaǧǧa ula d lǧerra seld ad tmedleḍ tiɣimit. Edge deg tama-nniḍen, yesseklas amazray n tunigin deg uskar-is uslig (isem-is “InPrivate”) d tawuri fessusen i yiwen ad d-iɛawed lebni n umazray ummid n tunigin-ik, ɣas tunigin-ik mmugent s uskar amagnu neɣ s uskar InPrivate.
 
 
 ;Both browsers are relatively equal in terms of data encryption. However, if online privacy and transparency are important to you, then Firefox is clearly a better choice here.
-Both browsers are relatively equal in terms of data encryption. However, if online privacy and transparency are important to you, then Firefox is clearly a better choice here.
+Iminigen i sin meḥsub mgadan deg wayen yerzan awgelhen n yisefka. D acu kan, mayella tabaḍnit d tefrawant deg uẓeṭṭa sɛant azal ɣur-k, ihi iban d Firefox i d afran igerrzen da.
 
 
 ;Firefox is a fast and open source browser, which means users can customize their browsing experience in every way possible. Firefox also allows the casual user several different ways to customize the UI with applying different themes and toolbar configurations. Since our browser has always been open source we have a large following of devoted developers who have created an extensive library of add-ons and browser extensions.
@@ -69,7 +69,7 @@ Firefox and Edge both offer excellent reading modes. With Firefox you just tap o
 
 
 ;Firefox also includes lots of handy built-in features by default like <a %(attrs)s>Enhanced Tracking Protection</a>, a built-in screenshot tool, large file sending and more.
-Firefox also includes lots of handy built-in features by default like <a %(attrs)s>Enhanced Tracking Protection</a>, a built-in screenshot tool, large file sending and more.
+Firefox daɣen yegber ddeqs n tmahilin ara terreḍ gar ifassen-ik am <a %(attrs)s>Ummesten mgal aḍfar yennernan</a>, afecku n tuṭṭfa n gdil usliɣ, tuzna n yifuyla meqqren d wayen-nniḍen.
 
 
 # "Out of the gate" means from the very start. Alternative: "From the start,". Race horses are held behind a gate that is opened to release all the horses at the same time at the start of the race, so a horse that leads the race from the very start is said to lead "right out of the gate."
@@ -94,7 +94,7 @@ Aside from sucking up a lot of computing power, Edge running on Chromium has ans
 
 
 ;The bottom line is that while we suggest using Firefox, the best browser for you ultimately will be the one that fits your individual needs with extension support, browsing tools customization, speed, privacy and security.
-The bottom line is that while we suggest using Firefox, the best browser for you ultimately will be the one that fits your individual needs with extension support, browsing tools customization, speed, privacy and security.
+Ɣer taggara, ulamma nessumer-d aseqdec n Firefox, iminig yufraren ad yeqqim d win i yeddan d lebɣi-k kan kečč s usefrek n yisiɣzaf, aggan n yifecka n tunigin, arured, tabaḍnit d tɣellist.
 
 
 ;The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Edge (44)

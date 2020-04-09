@@ -25,11 +25,11 @@ Opera’s privacy policy lacks some specificity in its explanation of which type
 
 
 ;Firefox’s <a %(attrs)s>privacy policy</a> is very transparent in describing what personal information we collect with the only end goal being to give you greater control over the information you share online.
-Firefox’s <a %(attrs)s>privacy policy</a> is very transparent in describing what personal information we collect with the only end goal being to give you greater control over the information you share online.
+Firefox 的<a %(attrs)s>隱私權保護政策</a>相當透明，描述了我們會收集哪些個人資訊。這樣做的唯一目的是讓您能夠對自己在線上分享的資訊有更大掌控權。
 
 
 ;As far as actual privacy protections in the Opera browser, it does offer a robust Private mode that allows you to surf the web without the browser tracking your activity. Also in normal browsing mode, you can also turn off some data collection features by digging into the settings to enable the ad blocker and adjust other security features.
-As far as actual privacy protections in the Opera browser, it does offer a robust Private mode that allows you to surf the web without the browser tracking your activity. Also in normal browsing mode, you can also turn off some data collection features by digging into the settings to enable the ad blocker and adjust other security features.
+至於 Opera 瀏覽器當中的隱私保護功能的確提供了強大的隱私瀏覽模式，讓您上網時不會被追蹤行為。在一般上網模式中，也可以到設定頁面花一點時間開啟廣告封鎖器、調整其他安全性功能等，以避免被收集資料。
 
 
 ;With the latest version of Firefox, <a %(attrs)s>Enhanced Tracking Protection</a> is turned on by default in normal browsing mode, so you don’t have to mess around with the settings just to protect yourself from trackers. With Enhanced Tracking Protection, Firefox actively blocks thousands of third-party trackers that try to follow you around the web. You are provided with a personalized protection report that shows how often Firefox blocked third-party cookies, social media trackers, fingerprinting tools and cryptominers as you browse the web.

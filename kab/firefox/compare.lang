@@ -80,11 +80,11 @@ It’s not unreasonable to expect a high level of data protection and privacy fr
 
 
 ;What you do online literally shouldn’t be anyone else’s business.
-What you do online literally shouldn’t be anyone else’s business.
+Ayen i txeddmeḍ dsrid ur ilaq ara ad yili d ayen yerzan wiyaḍ.
 
 
 ;Another browser feature that should be a given is the ability to prevent websites and companies from tracking your browsing and shopping data — even in normal browsing mode. But that’s actually not the case: in fact, the only browsers that block third party tracking cookies by default are Firefox and Safari.
-Another browser feature that should be a given is the ability to prevent websites and companies from tracking your browsing and shopping data — even in normal browsing mode. But that’s actually not the case: in fact, the only browsers that block third party tracking cookies by default are Firefox and Safari.
+Tamahil-nniḍen n yiminig i ilaqen ad tettynefk s wude amezwer d tazmert n usewḥel n yismal web akked tkebbaniyin i yeṭṭafaren isefka n tunigin akked tiɣin — ula deg uskar n tunigt tamagnut. Maca mačči akka: deg tilawt, ala Firefox akked Safari i d iminigen i yessewḥalen s wudem amezwer inagan n tuqqna yettwaseqdacen i uḍfaṛ.
 
 
 ;Using a browser that blocks third-party trackers isn’t just important for privacy — it usually means it runs much faster, too. Most trackers are just scripts that run in the background on a number of websites. You can’t see them, but you can feel them slowing down your browser. As of version 67 of Firefox, fingerprinting and cryptominers are also blocked. If you’re not familiar with cryptominers, here’s an example of how they can affect you: maybe you’ve experienced your computer suddenly running hotter or the battery depleting faster than normal. That’s often the byproduct of cryptominers creeping around on your device.
@@ -117,7 +117,7 @@ Amsefrak n tecraḍ
 
 
 ;Automatically fills out forms
-Automatically fills out forms
+Yttaččar tiferkiyin s wudem awurman
 
 
 ;Search engine options
@@ -129,19 +129,19 @@ Aḍris ɣer imesli
 
 
 ;Reader mode
-Reader mode
+Askar n tɣuri
 
 
 ;Spell checking
-Spell checking
+Aseɣti n tira
 
 
 ;Web extensions/Add-ons
-Web extensions/Add-ons
+Isiɣzaf/Izegrar Web
 
 
 ;In-browser screenshot tool
-In-browser screenshot tool
+Afecku n tuṭṭfa n ugdil deg yiminig
 
 
 # Firefox, Edge, and Opera are all brand names that shouldn't be translated.
@@ -151,27 +151,27 @@ In addition to privacy protection, which largely takes place in the background o
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. If the translation contains multiple words, please choose a single word to emphasize and wrap that word in the strong tag.
 ;<strong>Portability:</strong>
-<strong>Portability:</strong>
+<strong>Aɛebbi</strong>
 
 
 ;How well does your browser work across your devices?
-How well does your browser work across your devices?
+Amek i iteddu yiminig-ik deg yibenkan-ik?
 
 
 ;Portability
-Portability
+Aɛebbi
 
 
 ;OS availability
-OS availability
+Tilin n unagraw n wammud
 
 
 ;Mobile OS availability
-Mobile OS availability
+Tilin n unagraw n wammud n uziraz
 
 
 ;Syncs with mobile
-Syncs with mobile
+Amtawi d yizirazen
 
 
 ;Password management
@@ -188,15 +188,15 @@ The first thing to point out about portability is that not all browsers run on a
 
 
 ;Almost all of the browsers compared here allow synchronization between desktop and mobile devices. You’ll need an account to do it, which you can use to log into the browser on all devices and synchronize things like passwords, browsing history, bookmarks and settings.
-Almost all of the browsers compared here allow synchronization between desktop and mobile devices. You’ll need an account to do it, which you can use to log into the browser on all devices and synchronize things like passwords, browsing history, bookmarks and settings.
+Meḥsub akk iminigen i yettwasrewsen da sirigen amtawi gar uselkim d yibenkan izirazen. Teẓriḍ amiḍan akken ad t-tgeḍ, swayes ara tkeccmeḍ ɣer yiminig deg akk ibenkan daɣen ad tsemtawiḍ tiɣawsiwin am wawalen uffiren, amazray n tunigin, ticraḍ n yisebtar d yiɣewwaṛen.
 
 
 ;Conclusion:
-Tagrayt:
+Taggrayt:
 
 
 ;And the winner is…
-And the winner is…
+Win irebḥen d…
 
 
 ;Based on the criteria we outlined — privacy, utility, and portability — there’s really only one browser that meets the mark, and that’s Firefox. The real area of difference isn’t in functionality, it’s privacy. Firefox is the most private browser that doesn’t lock you into an ecosystem. Use it on any operating system, on all your devices, and feel secure when you do.
@@ -208,7 +208,7 @@ Browsers have come a long way since Chrome was introduced and took over the mark
 
 
 ;The comparisons made here were done so across browser release versions as follows:
-The comparisons made here were done so across browser release versions as follows:
+Iserwas i yettwaxedmen da mmugen gar yileqman yileqman n yiminig akka:
 
 
 ;Firefox is backed by the not-for-profit Mozilla.
