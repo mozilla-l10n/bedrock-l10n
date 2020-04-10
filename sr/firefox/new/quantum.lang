@@ -1,8 +1,12 @@
 ## active ##
+## download_thanks_newsletter_092018 ##
 ## firefox_new_platform_link_text ##
 ## firefox_new_try_again_link_020818 ##
 ## firefox_quantum_new_headline ##
 ## firstrun_email_only_form ##
+## fxnew_account_032019 ##
+## platform_strings_04232019 ##
+## truly_removal_2019 ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/new/
 
 
@@ -19,22 +23,22 @@
 
 
 ;You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
-You’re using an insecure, outdated operating system <a href="%(url)s">no longer supported by Firefox</a>.
+Користите несигуран, застарели оперативни систем<a href="%(url)s">који више не подржава Firefox</a>.
 
 
 # /firefox/windows/ main page title. Span is for visually formatting.
 ;Firefox fights for you <span>on Windows.</span>
-Firefox fights for you <span>on Windows.</span>
+Firefox се бори за вас <span>у оперативном систему Windows.</span>
 
 
 # /firefox/mac/ main page title. Span is for visually formatting.
 ;Firefox respects <span>your privacy on Mac.</span>
-Firefox respects <span>your privacy on Mac.</span>
+Firefox поштује <span>вашу приватност на оперативном систему Mac.</span>
 
 
 # /firefox/linux/ main page title.
 ;Firefox for Linux
-Firefox for Linux
+Firefox за оперативни систем Linux
 
 
 ;The new <strong>Firefox</strong>
@@ -42,7 +46,7 @@ Firefox for Linux
 
 
 ;Own your online life.
-Own your online life.
+Преузмите контролу над вашим дигиталним животом.
 
 
 ;Fast for good.
@@ -77,7 +81,7 @@ Own your online life.
 
 # Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings?
 ;Fix a problem
-Fix a problem
+Решите проблем
 
 
 ;Keep up with<br> all things Firefox.
@@ -101,27 +105,27 @@ Fix a problem
 
 # The phrase “Now get everything else Firefox” is in specific reference to a Firefox account, which unlocks access to all our new products and services.
 ;You’ve already got the Firefox browser. Now get everything else Firefox.
-You’ve already got the Firefox browser. Now get everything else Firefox.
+Већ имате Firefox прегледач. Сазнајте шта још Firefox нуди.
 
 
 ;Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
-Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
+Синхронизујте обележиваче, шаљите језичке, чувајте их у Pocket-у и још много тога уз Firefox налог.
 
 
 ;Get a Firefox Account
-Get a Firefox Account
+Направите Firefox налог
 
 
 ;Already have an account?
-Already have an account?
+Већ имате налог?
 
 
 ;Sign In
-Sign In
+Пријавите се
 
 
 ;Download Anyway
-Download Anyway
+Свеједно преузмите
 
 
 # Link points to /firefox/all/
@@ -145,47 +149,47 @@ Download Anyway
 
 
 ;Learn how to make Firefox even smarter, faster and more secure.
-Learn how to make Firefox even smarter, faster and more secure.
+Сазнајте како да учините Firefox још паметнијим, бржим и сигурнијим.
 
 
 ;Get informative tips, tricks and product announcements delivered to your inbox.
-Get informative tips, tricks and product announcements delivered to your inbox.
+Информације о производима, савете и вести примајте директно у е-поштанско сандуче.
 
 
 ;Enter your email address
-Enter your email address
+Унесите адресу е-поште
 
 
 ;How will Mozilla use my email?
-How will Mozilla use my email?
+Како ће Mozilla користити моју е-пошту?
 
 
 ;Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
-Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
+Mozilla не само да цени вашу приватност и безбедност е-поште - већ је то део нашег <a href="%(manifesto)s">Манифеста</a>: “Безбедност појединаца и приватност на интернету су основни принципи и не смеју се третирати као нешто необавезно.” <a href="%(principles)s">Овде можете сазнати више о нашим принципима заштите приватности података</a>.
 
 
 ;What we want you to know:
-What we want you to know:
+Шта желимо да знате:
 
 
 ;You don’t need to give us your email to download and use Firefox.
-You don’t need to give us your email to download and use Firefox.
+Не морате нам дати своју е-пошту за преузимање и употребу Firefox-а.
 
 
 ;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
-We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
+Тражили смо е-пошту јер људи који примају уводне информације од нас, према нашем истраживању, користе Firefox боље и ефикасније.
 
 
 ;You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
-You can expect emails designed to help you optimize Firefox to work best for you, learn more about privacy & security and find out how to make the best of your time on the web.
+Можете очекивати е-поруке које ће вам помоћи да оптимизујете како Firefox делује на вашу личну употребу, научите о приватности и безбедности и како најбоље да искористите своје време на мрежи.
 
 
 ;You can unsubscribe anytime, for any reason.
-You can unsubscribe anytime, for any reason.
+Можете отказати претплату било када, из било ког разлога.
 
 
 ;We will not share, sell or use your email for any other purposes.
-We will not share, sell or use your email for any other purposes.
+Ми нећемо делити, продавати или користити вашу е-пошту за било коју другу сврху.
 
 
 ;Let’s do this!
@@ -198,17 +202,17 @@ We will not share, sell or use your email for any other purposes.
 
 # /firefox/windows/ HTML page title
 ;Download Mozilla Firefox for Windows
-Download Mozilla Firefox for Windows
+Преузмите Mozilla Firefox за Windows
 
 
 # /firefox/mac/ HTML page title
 ;Download Mozilla Firefox for Mac
-Download Mozilla Firefox for Mac
+Преузмите Mozilla Firefox за Mac
 
 
 # /firefox/linux/ HTML page title
 ;Download Mozilla Firefox for Linux
-Download Mozilla Firefox for Linux
+Преузмите Mozilla Firefox за Linux
 
 
 # HTML page title prefix
@@ -223,17 +227,17 @@ Download Mozilla Firefox for Linux
 
 # /firefox/windows/ HTML page description
 ;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
-Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+Преузмите Mozilla Firefox за Windows, бесплатан веб прегледач. Firefox је направљен од стране глобалне непрофитне организације, која ради на томе да појединци контролишу свој дигитални живот. Преузмите Firefox за Windows данас!
 
 
 # /firefox/mac/ HTML page description
 ;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
-Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+Преузмите Mozilla Firefox за Mac, бесплатан веб прегледач. Firefox је направљен од стране глобалне непрофитне организације, која ради на томе да појединци контролишу свој дигитални живот. Преузмите Firefox за Mac данас!
 
 
 # /firefox/linux/ HTML page description
 ;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
-Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+Преузмите Mozilla Firefox за Linux, бесплатан веб прегледач. Firefox је направљен од стране глобалне непрофитне организације, која ради на томе да појединци контролишу свој дигитални живот. Преузмите Firefox за Linux данас!
 
 
 # HTML page description
@@ -243,17 +247,17 @@ Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a 
 
 # /firefox/windows/ social sharing title
 ;Download the fastest Firefox for Windows ever
-Download the fastest Firefox for Windows ever
+Преузмите најбржу верзију Firefox-а за Windows икад
 
 
 # /firefox/mac/ social sharing title
 ;Download the fastest Firefox for Mac ever
-Download the fastest Firefox for Mac ever
+Преузмите најбржу верзију Firefox-а за Mac икад
 
 
 # /firefox/linux/ social sharing title
 ;Download the fastest Firefox for Linux ever
-Download the fastest Firefox for Linux ever
+Преузмите најбржу верзију Firefox-а за Linux икад
 
 
 ;Download the fastest Firefox ever
@@ -262,17 +266,17 @@ Download the fastest Firefox for Linux ever
 
 # /firefox/windows/ social sharing description
 ;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
-Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+Брже учитавање страница, смањена потрошња меморије и пун функција, нови Firefox за Windows је овде.
 
 
 # /firefox/mac/ social sharing description
 ;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
-Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+Брже учитавање страница, смањена потрошња меморије и пун функција, нови Firefox за Mac је овде.
 
 
 # /firefox/linux/ social sharing description
 ;Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
-Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+Брже учитавање страница, смањена потрошња меморије и пун функција, нови Firefox за Linux је овде.
 
 
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
@@ -280,11 +284,11 @@ Faster page loading, less memory usage and packed with features, the new Firefox
 
 
 ;Privacy comes first
-Privacy comes first
+Приватност је на првом мјесту
 
 
 ;Privacy - more than a policy
-Privacy - more than a policy
+Приватност - више од политике
 
 
 ;2x Faster
@@ -292,7 +296,7 @@ Privacy - more than a policy
 
 
 ;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
-Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+Firefox не шпијунира претраживања. Блокирамо колачиће трећих страна и дајемо вам потпуну контролу.
 
 
 ;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
@@ -300,7 +304,7 @@ Firefox је брз и пажљиво третира ваше податке - �
 
 
 ;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
-Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+Ваш живот, ваш бизнис. Firefox блокира колачиће трећих страна на Linux-у.
 
 
 ;The best Firefox ever
@@ -308,7 +312,7 @@ Your life, your business. Firefox blocks third-party tracking cookies on Linux.
 
 
 ;Common sense privacy
-Common sense privacy
+Подразумевана приватност
 
 
 ;Lightweight
@@ -316,15 +320,15 @@ Common sense privacy
 
 
 ;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
-Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+Имајте и брзину и сигурност. Firefox је брз на Mac-у јер не пратимо вашу активност.
 
 
 ;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
-Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+Живите живот, Firefox вас не надгледа. Изаберите шта желите да делите и када.
 
 
 ;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
-Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
+Брзино, упознај сигурност. Firefox је двоструко бржи и троши 30% мање меморије у односу на Chrome.
 
 
 ;Uses 30% less memory than Chrome
@@ -332,15 +336,15 @@ Speed, meet security. Firefox is two times faster with 30% less memory than Chro
 
 
 ;Block trackers
-Block trackers
+Блокирај праћење
 
 
 ;Open source
-Open source
+Отворен код
 
 
 ;Seamless setup
-Seamless setup
+Једноставна инсталација
 
 
 ;Powerfully private
@@ -348,19 +352,19 @@ Seamless setup
 
 
 ;Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
-Be the master of your domain with strict content blocking. Cut off all cookies and trackers.
+Будите господар вашег домена уз строго блокирање садржаја. Лишите се свих колачића и праћења.
 
 
 ;Look under the hood. Like Linux, Firefox features are open source.
-Look under the hood. Like Linux, Firefox features are open source.
+Погледајте испод хаубе. Као и Linux, Firefox функције су отвореног кода.
 
 
 ;Easy migration of preferences and bookmarks when you download Firefox for Windows.
-Easy migration of preferences and bookmarks when you download Firefox for Windows.
+Једноставна миграција подешавања и обележивача када преузмете Firefox за Windows.
 
 
 ;Private Browsing with Tracking Protection
-Private Browsing with Tracking Protection
+Приватно прегледање са заштитом од праћења
 
 
 # String is obsolete. Do not remove.
