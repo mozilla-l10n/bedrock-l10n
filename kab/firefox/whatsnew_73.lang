@@ -1,3 +1,5 @@
+## active ##
+## default-browser-012020 ##
 ## NOTE: Demo page at https://www-demo5.allizom.org/firefox/73.0/whatsnew/all/
 
 
@@ -65,7 +67,7 @@ Firefox d arurad d aɣelsan deg Windows, iOS, Android, Linux… fell-asen akk. T
 
 # String is obsolete. Do not remove.
 ;Firefox is fast and safe on Windows, iOS, Android, Linux...and across them all. We have no interest in locking you in or resetting your preferences.
-Firefox is fast and safe on Windows, iOS, Android, Linux...and across them all. We have no interest in locking you in or resetting your preferences.
+Firefox d arurad d aɣelsan deg Windows, iOS, Android, Linux...d gar-asen akk. Ur d-necliɛ ara akk deg usewḥel-ik neɣ deg walus n uwennez n yismenyifen-ik(imi)
 
 
 ;Choose corporate independence
@@ -78,7 +80,7 @@ D Firefox kan i d iminig amunan yettwassnen. Chrome, Edge d Brave ttwabnan akk s
 
 # String is obsolete. Do not remove.
 ;Firefox is the only major independent browser. Chrome, Edge and Brave are all built with code from Google, the world’s largest ad network.
-Firefox is the only major independent browser. Chrome, Edge and Brave are all built with code from Google, the world’s largest ad network.
+D Firefox kan i d iminig amunan agejdan. Chrome, Edge d Brave meṛṛa-nsen bnan s tengalt seg Google, aẓeṭṭa akk ameqqran n udellel deg umaḍal.
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.

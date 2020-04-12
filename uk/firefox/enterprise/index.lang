@@ -1,153 +1,154 @@
+## active ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/enterprise/
 
 
 # HTML page title
 ;Get Firefox for your enterprise with ESR and Rapid Release
-Get Firefox for your enterprise with ESR and Rapid Release
+Отримайте для своєї компанії Firefox ESR та регулярний випуск Firefox
 
 
 # HTML page description
 ;Get unmatched data protection on the release cadence that suits you with Firefox for enterprise. Download ESR and Rapid Release.
-Get unmatched data protection on the release cadence that suits you with Firefox for enterprise. Download ESR and Rapid Release.
+Отримайте неперевершений захист даних від Firefox для компаній, впродовж усього часу підтримки випуску, який вас задовольняє. Завантажте ESR та регулярний випуск.
 
 
 ;Enterprise
-Enterprise
+Для компаній
 
 
 ;Overview
-Overview
+Огляд
 
 
 ;Downloads
-Downloads
+Завантаження
 
 
 ;Resources
-Resources
+Джерела
 
 
 ;Get Firefox for your enterprise
-Get Firefox for your enterprise
+Встановіть Firefox для вашої компанії
 
 
 ;Get the <a href="%s">Firefox Extended Support Release or Rapid Release</a> browser for comprehensive data security and data protection.
-Get the <a href="%s">Firefox Extended Support Release or Rapid Release</a> browser for comprehensive data security and data protection.
+Отримайте браузер <a href="%s">Firefox з розширеною підтримкою або його регулярний випуск</a> для якнайкращої безпеки даних та їхнього захисту.
 
 
 # CTA button
 ;Download
-Download
+Завантажити
 
 
 ;Firefox Privacy Notice
-Firefox Privacy Notice
+Повідомлення про приватність Firefox
 
 
 ;Unmatched data protection — on the release cadence that suits you
-Unmatched data protection — on the release cadence that suits you
+Неперевершений захист даних впродовж усього часу підтримки випуску, який вас задовільняє
 
 
 ;The Firefox browser is open source and provides Enhanced Tracking Protection — all part of our longstanding commitment to data protection.
-The Firefox browser is open source and provides Enhanced Tracking Protection — all part of our longstanding commitment to data protection.
+Браузер Firefox має відкритий програмний код та надає Розширений захист від стеження — результат нашої багаторічної роботи для захисту даних.
 
 
 # This is a saying that means: your data remains yours - it’s your business and no one else’s
 ;Your data stays your business
-Your data stays your business
+Ваші дані — ваша власність
 
 
 ;Deploy when and how you want
-Deploy when and how you want
+Розгортайте, коли і як хочете
 
 
 # breeze in this context means its uncomplicated and easy to do.
 ;With install packages and a wide expansion of group policies and features, deployment is faster and more flexible than ever — and a breeze in Windows and MacOS environments.
-With install packages and a wide expansion of group policies and features, deployment is faster and more flexible than ever — and a breeze in Windows and MacOS environments.
+За допомогою пакетів встановлення та розширених групових налаштувань та функцій, розгортання проходить швидше та гнучкіше ніж будь-коли та неймовірно легко у середовищах Windows та MacOS.
 
 
 ;Choose your release cadence
-Choose your release cadence
+Виберіть тривалість підтримки випуску
 
 
 ;Get rapid releases to make sure you get the latest features faster, or go extended to ensure a super stable experience.
-Get rapid releases to make sure you get the latest features faster, or go extended to ensure a super stable experience.
+Отримуйте регулярні випуски, та отримуйте найновіші функції швидше або виберіть випуск з розширеною підтримкою для забезпечення надзвичайно стабільної роботи.
 
 
 ;Enterprise downloads
-Enterprise downloads
+Вибір версії
 
 
 ;Windows 64-bit
-Windows 64-bit
+64-розрядна версія Windows
 
 
 ;Select your download
-Select your download
+Виберіть версії
 
 
 ;Firefox browser
-Firefox browser
+Браузер Firefox
 
 
 ;Firefox browser - MSI installer
-Firefox browser - MSI installer
+Браузер Firefox - інсталятор MSI
 
 
 ;Firefox Extended Support Release (ESR)
-Firefox Extended Support Release (ESR)
+Firefox з розширеною підтримкою (ESR)
 
 
 ;Firefox Extended Support Release (ESR) - MSI installer
-Firefox Extended Support Release (ESR) - MSI installer
+Firefox з розширеною підтримкою (ESR) - інсталятор MSI
 
 
 ;Support
-Support
+Підтримка
 
 
 ;MSI installers
-MSI installers
+Інсталятори MSI
 
 
 ;Legacy browser support
-Legacy browser support
+Сумісність з застарілими браузерами
 
 
 ;ADMX templates
-ADMX templates
+Шаблони ADMX
 
 
 ;Deployment guide
-Deployment guide
+Посібник з розгортання
 
 
 ;Policy documentation
-Policy documentation
+Документація групової політики
 
 
 ;Release Notes
-Release Notes
+Інформація про випуск
 
 
 ;Documentation and Community Support
-Documentation and Community Support
+Документація та підтримка спільноти
 
 
 ;Sample <a href="%s">plist for configuration profile</a>
-Sample <a href="%s">plist for configuration profile</a>
+Зразок <a href="%s">переліку налаштувань профілю</a>
 
 
 ;PKG installer
-PKG installer
+Інсталятор PKG
 
 
 ;Windows 32-bit
-Windows 32-bit
+32-розрядна версія Windows
 
 
 # line break for visual formatting
 ;Download Firefox ESR or Rapid Release for<br> <a href="%(firefox_all)s">another language or platform.</a>
-Download Firefox ESR or Rapid Release for<br> <a href="%(firefox_all)s">another language or platform.</a>
+Завантажте Firefox ESR або регулярний випуск<br> <a href="%(firefox_all)s">іншою мовою чи для іншої платформи.</a>
 
 

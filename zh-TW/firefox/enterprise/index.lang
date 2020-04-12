@@ -1,153 +1,154 @@
+## active ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/enterprise/
 
 
 # HTML page title
 ;Get Firefox for your enterprise with ESR and Rapid Release
-Get Firefox for your enterprise with ESR and Rapid Release
+為您的企業取得 Firefox ESR 或快速發行版本
 
 
 # HTML page description
 ;Get unmatched data protection on the release cadence that suits you with Firefox for enterprise. Download ESR and Rapid Release.
-Get unmatched data protection on the release cadence that suits you with Firefox for enterprise. Download ESR and Rapid Release.
+透過符合您的企業需求的更新步調，獲得無與倫比的資料保護。下載 Firefox ESR 或快速發行版本。
 
 
 ;Enterprise
-Enterprise
+企業版
 
 
 ;Overview
-Overview
+概觀
 
 
 ;Downloads
-Downloads
+下載
 
 
 ;Resources
-Resources
+資源
 
 
 ;Get Firefox for your enterprise
-Get Firefox for your enterprise
+下載 Firefox 企業版
 
 
 ;Get the <a href="%s">Firefox Extended Support Release or Rapid Release</a> browser for comprehensive data security and data protection.
-Get the <a href="%s">Firefox Extended Support Release or Rapid Release</a> browser for comprehensive data security and data protection.
+下載 <a href="%s">Firefox Extended Support Release 或快速發行版本</a>，讓您的企業受到完整的資料安全與保護。
 
 
 # CTA button
 ;Download
-Download
+下載
 
 
 ;Firefox Privacy Notice
-Firefox Privacy Notice
+Firefox 隱私權公告
 
 
 ;Unmatched data protection — on the release cadence that suits you
-Unmatched data protection — on the release cadence that suits you
+透過適合您的企業的更新步調，獲得無與倫比的資料保護
 
 
 ;The Firefox browser is open source and provides Enhanced Tracking Protection — all part of our longstanding commitment to data protection.
-The Firefox browser is open source and provides Enhanced Tracking Protection — all part of our longstanding commitment to data protection.
+Firefox 開放原始碼，並且提供加強型追蹤保護功能，都是我們長久以來對資料保護的承諾。
 
 
 # This is a saying that means: your data remains yours - it’s your business and no one else’s
 ;Your data stays your business
-Your data stays your business
+讓您的資料，留在您的公司裡
 
 
 ;Deploy when and how you want
-Deploy when and how you want
+要佈署，再佈署，用您想要的方式佈署
 
 
 # breeze in this context means its uncomplicated and easy to do.
 ;With install packages and a wide expansion of group policies and features, deployment is faster and more flexible than ever — and a breeze in Windows and MacOS environments.
-With install packages and a wide expansion of group policies and features, deployment is faster and more flexible than ever — and a breeze in Windows and MacOS environments.
+透過安裝套件與一系列的群組原則與功能，在 Windows 與 MacOS 都能輕鬆進行佈署，比以往更快、更靈活。
 
 
 ;Choose your release cadence
-Choose your release cadence
+跟著您的更新步調走
 
 
 ;Get rapid releases to make sure you get the latest features faster, or go extended to ensure a super stable experience.
-Get rapid releases to make sure you get the latest features faster, or go extended to ensure a super stable experience.
+安裝快速發行版本，讓您更快能用到最新功能；或使用 ESR 長期支援版本，確保能有穩定的使用體驗。
 
 
 ;Enterprise downloads
-Enterprise downloads
+企業版下載項目
 
 
 ;Windows 64-bit
-Windows 64-bit
+Windows 64 位元
 
 
 ;Select your download
-Select your download
+選擇下載版本
 
 
 ;Firefox browser
-Firefox browser
+Firefox 瀏覽器
 
 
 ;Firefox browser - MSI installer
-Firefox browser - MSI installer
+Firefox 瀏覽器 - MSI 安裝程式
 
 
 ;Firefox Extended Support Release (ESR)
-Firefox Extended Support Release (ESR)
+Firefox Extended Support Release (ESR) {ok}
 
 
 ;Firefox Extended Support Release (ESR) - MSI installer
-Firefox Extended Support Release (ESR) - MSI installer
+Firefox Extended Support Release (ESR) - MSI 安裝程式
 
 
 ;Support
-Support
+技術支援
 
 
 ;MSI installers
-MSI installers
+MSI 格式安裝程式
 
 
 ;Legacy browser support
-Legacy browser support
+傳統瀏覽器支援
 
 
 ;ADMX templates
-ADMX templates
+ADMX 範本
 
 
 ;Deployment guide
-Deployment guide
+部署指南
 
 
 ;Policy documentation
-Policy documentation
+原則文件
 
 
 ;Release Notes
-Release Notes
+發行公告
 
 
 ;Documentation and Community Support
-Documentation and Community Support
+文件與社群支援
 
 
 ;Sample <a href="%s">plist for configuration profile</a>
-Sample <a href="%s">plist for configuration profile</a>
+設定檔的<a href="%s">範例 plist</a>
 
 
 ;PKG installer
-PKG installer
+PKG 格式安裝程式
 
 
 ;Windows 32-bit
-Windows 32-bit
+Windows 32 位元
 
 
 # line break for visual formatting
 ;Download Firefox ESR or Rapid Release for<br> <a href="%(firefox_all)s">another language or platform.</a>
-Download Firefox ESR or Rapid Release for<br> <a href="%(firefox_all)s">another language or platform.</a>
+<a href="%(firefox_all)s">下載其他語言或平台</a>的<br>Firefox ESR 或快速發行版本。
 
 
