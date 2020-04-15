@@ -1,153 +1,154 @@
+## active ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/enterprise/
 
 
 # HTML page title
 ;Get Firefox for your enterprise with ESR and Rapid Release
-Get Firefox for your enterprise with ESR and Rapid Release
+Download Firefox foar jo ûndernimming mei ESR en Rapid Release
 
 
 # HTML page description
 ;Get unmatched data protection on the release cadence that suits you with Firefox for enterprise. Download ESR and Rapid Release.
-Get unmatched data protection on the release cadence that suits you with Firefox for enterprise. Download ESR and Rapid Release.
+Krij bjusterbaarlike gegevensbeskerming op de útjeftefrekwinsje dy't by jo past mei Firefox foar ûndernimmingen. Download ESR en Rapid Release.
 
 
 ;Enterprise
-Enterprise
+Undernimmingen
 
 
 ;Overview
-Overview
+Oersjoch
 
 
 ;Downloads
-Downloads
+Downloads {ok}
 
 
 ;Resources
-Resources
+Boarnen
 
 
 ;Get Firefox for your enterprise
-Get Firefox for your enterprise
+Download Firefox foar jo ûndernimming
 
 
 ;Get the <a href="%s">Firefox Extended Support Release or Rapid Release</a> browser for comprehensive data security and data protection.
-Get the <a href="%s">Firefox Extended Support Release or Rapid Release</a> browser for comprehensive data security and data protection.
+Download de <a href="%s">Firefox Extended Support Release of Rapid Release</a>-browser foar wiidweidige gegevensbefeiliging en -beskerming.
 
 
 # CTA button
 ;Download
-Download
+Downloade
 
 
 ;Firefox Privacy Notice
-Firefox Privacy Notice
+Firefox-privacyferklearring
 
 
 ;Unmatched data protection — on the release cadence that suits you
-Unmatched data protection — on the release cadence that suits you
+Bjusterbaarlike gegevensbeskerming – op de útjeftefrekwinsje dy't by jo past
 
 
 ;The Firefox browser is open source and provides Enhanced Tracking Protection — all part of our longstanding commitment to data protection.
-The Firefox browser is open source and provides Enhanced Tracking Protection — all part of our longstanding commitment to data protection.
+De Firefox-browser is iepen boarne en biedt Ferbettere beskerming tsjin folgjen – allegearre ûnderdiel fan ús jierrenlange ynset foar gegevensbeskerming.
 
 
 # This is a saying that means: your data remains yours - it’s your business and no one else’s
 ;Your data stays your business
-Your data stays your business
+Jo gegevens bliuwe jo saak
 
 
 ;Deploy when and how you want
-Deploy when and how you want
+Ymplemintearje wannear't en hoe't jo it wolle
 
 
 # breeze in this context means its uncomplicated and easy to do.
 ;With install packages and a wide expansion of group policies and features, deployment is faster and more flexible than ever — and a breeze in Windows and MacOS environments.
-With install packages and a wide expansion of group policies and features, deployment is faster and more flexible than ever — and a breeze in Windows and MacOS environments.
+Mei ynstallaasjepakketten en in breed oanbod fan groepsbelied en -funksjes is de ymplemintaasje flugger en fleksibeler as ea – en in fluitsje fan in sint yn Windows- en MacOS-omjouwingen.
 
 
 ;Choose your release cadence
-Choose your release cadence
+Kies jo útjeftefrekwinsje
 
 
 ;Get rapid releases to make sure you get the latest features faster, or go extended to ensure a super stable experience.
-Get rapid releases to make sure you get the latest features faster, or go extended to ensure a super stable experience.
+Download flugge útjeftes om der wis fan te wêzen dat jo de nijste funksjes flugger ûntfange, of kies foar wiidweidich foar in superstabile ûnderfining.
 
 
 ;Enterprise downloads
-Enterprise downloads
+Downloads foar ûndernimmingen
 
 
 ;Windows 64-bit
-Windows 64-bit
+Windows 64-bits
 
 
 ;Select your download
-Select your download
+Selektearje jo download
 
 
 ;Firefox browser
-Firefox browser
+Firefox-browser
 
 
 ;Firefox browser - MSI installer
-Firefox browser - MSI installer
+Firefox-browser – MSI-ynstallaasjeprogramma
 
 
 ;Firefox Extended Support Release (ESR)
-Firefox Extended Support Release (ESR)
+Firefox Extended Support Release (ESR) {ok}
 
 
 ;Firefox Extended Support Release (ESR) - MSI installer
-Firefox Extended Support Release (ESR) - MSI installer
+Firefox Extended Support Release (ESR) – MSI-ynstallaasjeprogramma
 
 
 ;Support
-Support
+Stipe
 
 
 ;MSI installers
-MSI installers
+MSI-ynstallaasjeprogramma’s
 
 
 ;Legacy browser support
-Legacy browser support
+Stipe foar âldere browsers
 
 
 ;ADMX templates
-ADMX templates
+ADMX-sjabloanen
 
 
 ;Deployment guide
-Deployment guide
+Ymplemintaasjehantlieding
 
 
 ;Policy documentation
-Policy documentation
+Beliedsdokumintaasje
 
 
 ;Release Notes
-Release Notes
+Utjefteopmerkingen
 
 
 ;Documentation and Community Support
-Documentation and Community Support
+Dokumintaasje en mienskipsstipe
 
 
 ;Sample <a href="%s">plist for configuration profile</a>
-Sample <a href="%s">plist for configuration profile</a>
+Foarbyld fan in <a href="%s">plist foar konfiguraasjeprofyl</a>
 
 
 ;PKG installer
-PKG installer
+PKG-ynstallaasjeprogramma
 
 
 ;Windows 32-bit
-Windows 32-bit
+Windows 32-bits
 
 
 # line break for visual formatting
 ;Download Firefox ESR or Rapid Release for<br> <a href="%(firefox_all)s">another language or platform.</a>
-Download Firefox ESR or Rapid Release for<br> <a href="%(firefox_all)s">another language or platform.</a>
+Download Firefox ESR of Rapid Release foar<br><a href="%(firefox_all)s">in oare taal of platfoarm.</a>
 
 

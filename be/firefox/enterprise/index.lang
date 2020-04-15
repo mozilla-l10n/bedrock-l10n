@@ -103,7 +103,7 @@ Firefox Extended Support Release (ESR) - MSI installer
 
 
 ;Support
-Support
+Падтрымка
 
 
 ;MSI installers
@@ -127,11 +127,11 @@ Policy documentation
 
 
 ;Release Notes
-Release Notes
+Заўвагі пры выпуску
 
 
 ;Documentation and Community Support
-Documentation and Community Support
+Дакументацыя і падтрымка супольнасці
 
 
 ;Sample <a href="%s">plist for configuration profile</a>

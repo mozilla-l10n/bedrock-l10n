@@ -1,91 +1,92 @@
+## active ##
 ## NOTE: Demo page at https://www-demo1.allizom.org/firefox/browsers/
 
 
 # HTML page title
 ;Get the browsers that put your privacy first — and always have
-Get the browsers that put your privacy first — and always have
+Installez les navigateurs qui respectent votre vie privée — et qui l’ont toujours fait
 
 
 # HTML page description
 ;Get the privacy you deserve. Enhanced Tracking Protection is automatic in every Firefox browser.
-Get the privacy you deserve. Enhanced Tracking Protection is automatic in every Firefox browser.
+Obtenez la protection de la vie privée qui vous est due. La protection renforcée contre le pistage est automatique pour chaque navigateur Firefox.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 ;Get the <strong>browsers</strong> that put your privacy first — and always have
-Get the <strong>browsers</strong> that put your privacy first — and always have
+Installez les <strong>navigateurs</strong> qui respectent votre vie privée — et qui l’ont toujours fait
 
 
 ;Desktop
-Desktop
+Ordinateur
 
 
 ;Seriously private browsing. Firefox automatically blocks 2000+ online trackers from collecting information about what you do online.
-Seriously private browsing. Firefox automatically blocks 2000+ online trackers from collecting information about what you do online.
+La navigation privée prise au sérieux. Firefox empêche automatiquement plus de 2 000 traqueurs en ligne de collecter des informations sur ce que vous faites en ligne.
 
 
 ;Download for Desktop
-Download for Desktop
+Télécharger pour l’ordinateur
 
 
 ;Learn more
-Learn more
+En savoir plus
 
 
 ;Mobile
-Mobile
+Mobile {ok}
 
 
 ;Take the same level of privacy — plus your passwords, search history, open tabs and more — with you wherever you go.
-Take the same level of privacy — plus your passwords, search history, open tabs and more — with you wherever you go.
+Gardez le même niveau de protection de votre vie privée, ainsi que vos mots de passe, historique, onglets ouverts, etc — toujours avec vous, peu importe où vous êtes.
 
 
 ;Download on the App Store
-Download on the App Store
+Télécharger dans l’App Store
 
 
 ;Download for Mobile
-Download for Mobile
+Télécharger pour mobile
 
 
 ;Send me a link
-Send me a link
+M’envoyer un lien
 
 
 ;Enterprise
-Enterprise
+Entreprise
 
 
 ;Get unmatched data protection with support cycles tailored to suit your company’s needs.
-Get unmatched data protection with support cycles tailored to suit your company’s needs.
+Bénéficiez d’une protection incomparable de vos données avec des phases de soutien adaptées aux besoins de votre entreprise.
 
 
 ;Enterprise packages
-Enterprise packages
+Offres entreprises
 
 
 ;Reality
-Reality
+Réalité
 
 
 ;Go beyond two dimensions and enjoy the best immersive content from around the web.
-Go beyond two dimensions and enjoy the best immersive content from around the web.
+Regardez au-delà de la réalité, et profitez du meilleur contenu immersif accessible partout sur le Web.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 ;Build sites and refine your code with Firefox <strong>DevTools</strong>
-Build sites and refine your code with Firefox <strong>DevTools</strong>
+Créez des sites et perfectionnez votre code avec les <strong>outils</strong> de développement de Firefox
 
 
 ;Learn more about DevTools
-Learn more about DevTools
+En savoir plus sur les outils de développement
 
 
 ;Join Firefox and get the most out of every product — across every device.
-Join Firefox and get the most out of every product — across every device.
+Rejoignez Firefox et tirez le meilleur de chaque produit — sur chacun de vos appareils.
 
 
 ;Already have an account? <a %(fxa_attr)s>Sign In</a> or <a %(accounts_attr)s>learn more</a> about joining Firefox.
-Already have an account? <a %(fxa_attr)s>Sign In</a> or <a %(accounts_attr)s>learn more</a> about joining Firefox.
+Vous avez déjà un compte ? <a %(fxa_attr)s>Connectez-vous</a> ou <a %(accounts_attr)s>apprenez-en plus</a> à propos du compte Firefox.
 
 

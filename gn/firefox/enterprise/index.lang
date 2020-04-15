@@ -1,14 +1,15 @@
+## active ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/enterprise/
 
 
 # HTML page title
 ;Get Firefox for your enterprise with ESR and Rapid Release
-Get Firefox for your enterprise with ESR and Rapid Release
+Ereko Firefox ne mba’apohaguasúpe ESR ha Rapid Release ndive
 
 
 # HTML page description
 ;Get unmatched data protection on the release cadence that suits you with Firefox for enterprise. Download ESR and Rapid Release.
-Get unmatched data protection on the release cadence that suits you with Firefox for enterprise. Download ESR and Rapid Release.
+Ereko mba’ekuaarã ñemo’ã ijojaha’ỹva mbohekopyahu meme eikotevẽva Firefox ndive mba’apohaguasúpe g̃uarã. Emboguejy ESR ha Rapid Release.
 
 
 ;Enterprise
@@ -32,7 +33,7 @@ Ereko Firefox ne mba’apohaguasúpe g̃uarã
 
 
 ;Get the <a href="%s">Firefox Extended Support Release or Rapid Release</a> browser for comprehensive data security and data protection.
-Get the <a href="%s">Firefox Extended Support Release or Rapid Release</a> browser for comprehensive data security and data protection.
+Ereko kundahára <a href="%s">Firefox Extended Support Release térã Rapid Release</a> mba’ekuaarã rekorosã ha ñemo’ãrã tuichaháicha.
 
 
 # CTA button
@@ -45,33 +46,33 @@ Marandu’i ñemigua Firefox rehegua
 
 
 ;Unmatched data protection — on the release cadence that suits you
-Unmatched data protection — on the release cadence that suits you
+Mba’ekuaarã ñemo’ã ijojaha’ỹva — mbohekopyahu meme eikotevẽva.
 
 
 ;The Firefox browser is open source and provides Enhanced Tracking Protection — all part of our longstanding commitment to data protection.
-The Firefox browser is open source and provides Enhanced Tracking Protection — all part of our longstanding commitment to data protection.
+Firefox kundahára ijayvu juruja ha ome’ẽ ñemo’ã porã tapykuehoha rovake — opaite oku’e ore rembiapo tenondeverãva mba’ekuaarã ñemo’ã ndive.
 
 
 # This is a saying that means: your data remains yours - it’s your business and no one else’s
 ;Your data stays your business
-Your data stays your business
+Ne mba’ekuaarã nemba’e añoite
 
 
 ;Deploy when and how you want
-Deploy when and how you want
+Eipyso eipota ha ejaposeháicha
 
 
 # breeze in this context means its uncomplicated and easy to do.
 ;With install packages and a wide expansion of group policies and features, deployment is faster and more flexible than ever — and a breeze in Windows and MacOS environments.
-With install packages and a wide expansion of group policies and features, deployment is faster and more flexible than ever — and a breeze in Windows and MacOS environments.
+Ñemohenda hetaguáva ha avei peteĩ purureko iñasãiva ha tembiapoite atyguáva, pe ñemoinge ipya’eve ha hu’ũ araka’eve oĩ’ỹvaicha — ha ndahasyiete Windows ha MacOS jerére.
 
 
 ;Choose your release cadence
-Choose your release cadence
+Eiporavo mba’éicha emombóta
 
 
 ;Get rapid releases to make sure you get the latest features faster, or go extended to ensure a super stable experience.
-Get rapid releases to make sure you get the latest features faster, or go extended to ensure a super stable experience.
+Ereko Rapid Release eguerukuaa hag̃ua tembiapoite ipyahuvéva ha ipya’éva, térã ESR emba’apokuaa hag̃ua nde eipotaháicha.
 
 
 ;Enterprise downloads
@@ -91,15 +92,15 @@ Firefox kundahára
 
 
 ;Firefox browser - MSI installer
-Firefox browser - MSI installer
+Firefox kundahára - MSI mohendaha
 
 
 ;Firefox Extended Support Release (ESR)
-Firefox Extended Support Release (ESR)
+Firefox Extended Support Release (ESR) {ok}
 
 
 ;Firefox Extended Support Release (ESR) - MSI installer
-Firefox Extended Support Release (ESR) - MSI installer
+Firefox Extended Support Release (ESR) - MSI mohendaha
 
 
 ;Support
@@ -111,43 +112,43 @@ MSI mohendaha
 
 
 ;Legacy browser support
-Legacy browser support
+Jokypyty kundahára tujándi
 
 
 ;ADMX templates
-ADMX templates
+ADMX plantilla
 
 
 ;Deployment guide
-Deployment guide
+Ñemoinge mbohapeha
 
 
 ;Policy documentation
-Policy documentation
+Purureko kuatiaita
 
 
 ;Release Notes
-Release Notes
+Jehaipy rehegua
 
 
 ;Documentation and Community Support
-Documentation and Community Support
+Kuatiata ha tekohagua ñepytyvõ
 
 
 ;Sample <a href="%s">plist for configuration profile</a>
-Sample <a href="%s">plist for configuration profile</a>
+Techapyrã <a href="%s">plist mbohekopyahu mba’tépe g̃uarã</a>
 
 
 ;PKG installer
-PKG installer
+PKG mohendaha
 
 
 ;Windows 32-bit
-Windows 32-bit
+Windows 32-bit {ok}
 
 
 # line break for visual formatting
 ;Download Firefox ESR or Rapid Release for<br> <a href="%(firefox_all)s">another language or platform.</a>
-Download Firefox ESR or Rapid Release for<br> <a href="%(firefox_all)s">another language or platform.</a>
+Emboguejy Firefox ESR térã Rapid Release <br> <a href="%(firefox_all)s">ambue ñe’ẽ térã plataforma peg̃uarã.</a>
 
 

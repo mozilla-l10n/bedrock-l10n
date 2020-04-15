@@ -5,190 +5,190 @@
 
 # Accessible label for dropdown menus
 ;Menu
-Menu
+Мени
 
 
 ;Download Firefox
-Download Firefox
+Преузмите Firefox
 
 
 ;About
-About
+О нама
 
 
 # Accessible label for the 'X' button that closes a menu
 ;Close About menu
-Close About menu
+Затвори мени О нама
 
 
 ;Meet the technology company that puts people before profit.
-Meet the technology company that puts people before profit.
+Упознајте технолошку компанију која ставља људе испред профита.
 
 
 ;Leadership
-Leadership
+Руководство
 
 
 ;Mozilla Foundation
-Mozilla Foundation
+Mozilla фондација
 
 
 ;Mission
-Mission
+Мисија
 
 
 ;Press Center
-Press Center
+Центар за медије
 
 
 ;Contact
-Contact
+Контакт
 
 
 ;Careers
-Careers
+Каријере
 
 
 ;Work for a mission-driven organization that builds purpose-driven products.
-Work for a mission-driven organization that builds purpose-driven products.
+Радите у организацији чија је мисија дизајнирање производа са дефинисаном сврхом.
 
 
 ;Get involved
-Get involved
+Прикључите се
 
 
 ;Join the fight for a healthy internet.
-Join the fight for a healthy internet.
+Придружите се борби за здрав интернет.
 
 
 ;Events
-Events
+Догађаји
 
 
 ;Donate
-Donate
+Донирајте
 
 
 ;Mozilla Manifesto
-Mozilla Manifesto
+Mozilla манифест
 
 
 ;Your right to security and privacy on the internet is fundamental – never optional.
-Your right to security and privacy on the internet is fundamental – never optional.
+Ваше право на сигурност и приватност на интернету је основно - никада опционално.
 
 
 ;Developers
-Developers
+Програмери
 
 
 # Accessible label for the 'X' button that closes a menu
 ;Close Developers menu
-Close Developers menu
+Затвори мени Програмери
 
 
 ;Firefox Developer Edition
-Firefox Developer Edition
+Firefox Developer Edition {ok}
 
 
 ;Firefox, built just for developers.
-Firefox, built just for developers.
+Firefox, направљен само за програмере.
 
 
 ;Test soon-to-be-released features in our most stable pre-release build.
-Test soon-to-be-released features in our most stable pre-release build.
+Тестирајте надолазеће функције у нашем најстабилнијем издању.
 
 
 ;Preview the latest build of Firefox and help us make it the best.
-Preview the latest build of Firefox and help us make it the best.
+Прегледајте најновију верзију Firefox-а и помозите нам да је учинимо што бољом.
 
 
 ;Developer Innovations
-Developer Innovations
+Иновације за програмере
 
 
 ;Projects that help keep the internet open and accessible for all.
-Projects that help keep the internet open and accessible for all.
+Пројекти који помажу да интернет остане отворен и доступан свима.
 
 
 ;Web Assembly
-Web Assembly
+Web Assembly {ok}
 
 
 ;Gaming
-Gaming
+Игре
 
 
 ;Mixed Reality
-Mixed Reality
+Mixed Reality {ok}
 
 
 ;Resources
-Resources
+Ресурси
 
 
 ;Resources for developers, by developers.
-Resources for developers, by developers.
+Ресурси за програмере, од програмера.
 
 
 ;MDN Web Docs
-MDN Web Docs
+MDN веб документација
 
 
 ;Firefox Playground
-Firefox Playground
+Firefox игралиште
 
 
 ;CSS Grid
-CSS Grid
+CSS мрежа
 
 
 ;Developer Blog
-Developer Blog
+Блог за програмере
 
 
 ;Mozilla Open Source Support (MOSS)
-Mozilla Open Source Support (MOSS)
+Mozilla подршка за софтвер отвореног кода (MOSS)
 
 
 ;Build, test, scale and more with the only browser built just for developers.
-Build, test, scale and more with the only browser built just for developers.
+Градите, тестирајте и мерите помоћу прегледача направљеног само за програмере.
 
 
 # Accessible label for the 'X' button that closes a menu
 ;Close Firefox menu
-Close Firefox menu
+Затвори Firefox мени
 
 
 ;Firefox Quantum Desktop Browser
-Firefox Quantum Desktop Browser
+Квантни Firefox десктоп прегледач
 
 
 ;Get the browser that gives more power to you on Windows, macOS or Linux.
-Get the browser that gives more power to you on Windows, macOS or Linux.
+Преузмите моћни прегледач за Windows, macOS или Linux.
 
 
 ;Download
-Download
+Преузмите
 
 
 ;New Features
-New Features
+Нове функције
 
 
 ;Extensions
-Extensions
+Проширења
 
 
 ;Support
-Support
+Подршка
 
 
 ;Privacy
-Privacy
+Приватност
 
 
 ;Firefox Mobile Browsers
-Firefox Mobile Browsers
+Firefox прегледачи за мобилни
 
 
 ;Take Firefox and Firefox Focus with you. For Android and iOS.
@@ -196,11 +196,11 @@ Firefox Mobile Browsers
 
 
 ;Get Firefox
-Get Firefox
+Преузмите Firefox
 
 
 ;Get Firefox Focus
-Get Firefox Focus
+Преузмите Firefox Focus
 
 
 ;Android Extensions
@@ -208,7 +208,7 @@ Get Firefox Focus
 
 
 ;iOS Support
-iOS Support
+iOS подршка
 
 
 ;Android Support
@@ -216,98 +216,98 @@ iOS Support
 
 
 ;Pocket by Firefox
-Pocket by Firefox
+Firefox Pocket
 
 
 ;Save content. Absorb knowledge.
-Save content. Absorb knowledge.
+Сачувајте садржај. Упијте знање.
 
 
 ;Your Firefox Account
-Your Firefox Account
+Ваш Firefox налог
 
 
 ;Make the most of your Firefox experience, across every device.
-Make the most of your Firefox experience, across every device.
+Извуците максимум из вашег Firefox доживљаја на било ком уређају.
 
 
 ;Firefox for Enterprise
-Firefox for Enterprise
+Firefox за предузеће
 
 
 ;Same speed and safety you trust, designed just for business.
-Same speed and safety you trust, designed just for business.
+Иста поуздана сигурност и брзина, прилагођена за пословно окружење.
 
 
 ;Firefox for Fire TV
-Firefox for Fire TV
+Firefox за Fire TV
 
 
 ;Watch videos and browse the internet on your Amazon Fire TV.
-Watch videos and browse the internet on your Amazon Fire TV.
+Гледајте видео записе и сурфајте интернетом путем Amazon Fire TV-а.
 
 
 ;Add-ons
-Add-ons
+Додаци
 
 
 ;Learn how to customize the way Firefox works.
-Learn how to customize the way Firefox works.
+Сазнајте како прилагодити Firefox.
 
 
 ;Projects
-Projects
+Пројекти
 
 
 # Accessible label for the 'X' button that closes a menu
 ;Close Projects menu
-Close Projects menu
+Затвори мени Пројекти
 
 
 ;Donate your voice to help make voice recognition open to everyone.
-Donate your voice to help make voice recognition open to everyone.
+Донирајте свој глас и помозите да технологија препознавања гласа буде доступна свима.
 
 
 ;Experience augmented and virtual reality with Firefox.
-Experience augmented and virtual reality with Firefox.
+Доживите проширене и виртуалне стварности уз Firefox.
 
 
 ;Web of Things (IoT)
-Web of Things (IoT)
+Интернет ствари (IoT)
 
 
 ;Make devices connected to the internet safe, secure and interoperable.
-Make devices connected to the internet safe, secure and interoperable.
+Учините уређаје повезане на интернет сигурнијим.
 
 
 ;Hubs
-Hubs
+Hub-ови
 
 
 ;Meet people in experimental Mixed Reality chatrooms with Firefox.
-Meet people in experimental Mixed Reality chatrooms with Firefox.
+Користите Firefox да упознате људе у експерименталним собама за ћаскање мешовите стварности.
 
 
 ;Mozilla WebVR
-Mozilla WebVR
+Mozilla WebVR {ok}
 
 
 ;Mozilla brings Firefox to augmented and virtual reality.
-Mozilla brings Firefox to augmented and virtual reality.
+Mozilla доводи проширену и виртуелну стварност Firefox-у.
 
 
 # CTA as in language selection
 ;Go
-Go
+Иди
 
 
 # Used on the navigation bar. Link points to https://www.mozilla.org/firefox/accounts/
 ;Get a Firefox Account
-Get a Firefox Account
+Направите Firefox налог
 
 
 ;Check out the Benefits
-Check out the Benefits
+Погледајте предности
 
 
 ;Firefox Blog
