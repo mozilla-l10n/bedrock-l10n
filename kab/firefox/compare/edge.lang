@@ -3,12 +3,12 @@
 
 # HTML page title
 ;Firefox vs. Microsoft Edge: Which is the better browser for you?
-Firefox mgal Microsoft Edge: Anwi iminig i ifazen ɣer-wen?
+Firefox mgal Microsoft Edge: Anwi iminig i ifazen ɣur-wen?
 
 
 # HTML description
 ;Compare Microsoft Edge to the Firefox Browser to find out which is the better browser for you.
-Semyif Microsoft Edge ɣer Firefox akken ad d-taffeḍ anwi iminig i ifazen ɣer-m/k.
+Serwes Microsoft Edge ɣer Firefox akken ad d-tafeḍ anwi iminig i ifazen ɣur-m/k.
 
 
 # Page title
@@ -33,7 +33,7 @@ D acu kan, Edge yesseklas kra seg yisefka-inek usligen yerna yettazen-iten ɣer 
 
 
 ;At Firefox, our <a %(attrs)s>privacy policy</a> is transparent and in plain language. We actually put a lot of work into making sure it was straightforward and easy to read. We pride ourselves in protecting our users security and privacy. With Enhanced Tracking Protection now on by default, we block 2000+ trackers automatically. Trackers are those little pieces of code that try to piece together what you're doing across multiple internet sites to build a composite and detailed picture of who you are, compromising your privacy all just to target better ads.
-At Firefox, our <a %(attrs)s>privacy policy</a> is transparent and in plain language. We actually put a lot of work into making sure it was straightforward and easy to read. We pride ourselves in protecting our users security and privacy. With Enhanced Tracking Protection now on by default, we block 2000+ trackers automatically. Trackers are those little pieces of code that try to piece together what you're doing across multiple internet sites to build a composite and detailed picture of who you are, compromising your privacy all just to target better ads.
+Deg Firefox, tasertit-nneɣ <a %(attrs)s>n tbaḍnit</a> d tafrawant rnu s tutlayt fessusen. Nexdem ayen akk yellan fell-aɣ akken ad neḍmmen tefses d sshala i tɣuri-ines. Nettzuxxu aṭas s ummesten-nneɣ n tɣellist d tbaḍnit n yiseqdacen-nneɣ. S ummesten yettwaseǧhaden mgal aḍfar s wudem amezwer, nessewḥal s wudem awurman ugar n 2000+ n yineḍfaren. Ineḍfaren d iferdisen-nni imecṭaḥ n tengalt yettaɛraḍen ad d-leqḍen ayen akk i txeddmeḍ ɣef yismal n Internt yemgaraden akken ad d-suffɣen tugna yeddsen s ttfaṣil fell-ak, ayen yettarran tudert-inek tusligt deg wugur ayagi akk akken ad ssiwḍen ɣer udellel ifazen.
 
 
 ;Your <a %(attrs)s>Privacy Protections</a> shows you the trackers and cookies that pages have attempted to leave, and how many Firefox has blocked for you.
@@ -53,7 +53,7 @@ Firefox d iminig arurad yerna n uɣbalu yeldin, anamek-is iseqdacen zemren ad sa
 
 
 ;Since Edge has moved to the processor intensive Chromium platform, you can expect it to run a little slower, especially if you have multiple programs running at once. However, with Chromium platform comes a massive library of extensions as well as a decent level of UI customization that Edge did not have before it’s move to Chromium.
-Since Edge has moved to the processor intensive Chromium platform, you can expect it to run a little slower, especially if you have multiple programs running at once. However, with Chromium platform comes a massive library of extensions as well as a decent level of UI customization that Edge did not have before it’s move to Chromium.
+Seg wasmi i yekcem Edge ɣer tenɣubliḍt n Chromium s usekkar ussid, ilaq ad teḥṣum ad yeṭṭef akud deg ummsten, aṭas aṭas ma yella ddeqs n wahilen ara yettummestanen ɣef tikkelt. Acu kan, s tenɣubliḍt n Chromium ad d-tili tkarḍa meqqren aṭas n yisiɣzen akked uswir iwatan i waggan n ugrudem n useqdac ur yesɛi ara Edge uqbel ad yekcem ɣer Chromium.
 
 
 ;Edge has some nice UI features, like their tab previews which can make it easy to find the right open tabs if you’ve got a lot of them open. Another helpful tab-related feature lets you set aside any active tabs that you aren’t using but don’t want to close down.

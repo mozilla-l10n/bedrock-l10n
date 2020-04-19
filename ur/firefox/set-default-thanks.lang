@@ -19,15 +19,15 @@ Firefox ڈائونلوڈ کریں
 
 # When a visitor sees this message a system dialog will also open on screen.
 ;You’re almost done. Just change your default browser to Firefox in the settings panel on your screen.
-آپ تقریبا کر چکے. اپنی سکرین کے ترتیبات پینل میں صرف اپنے پہلے سے طے شدہ براؤزر کو Firefox میں تبدیل کریں۔
+آپ تقریبا کر چکے. اپنی سکرین کے سیٹنگز پینل میں صرف اپنے پہلے سے طے شدہ براؤزر کو Firefox میں تبدیل کریں۔
 
 
 ;Having trouble setting your default browser?
-اپنے پہلے سے طے شدہ براؤزر کو ترتیب دینے میں دشواری ہو رہی ہے؟
+اپنے پہلے سے طے شدہ براؤزر کو سیٹنگ دینے میں دشواری ہو رہی ہے؟
 
 
 ;Here’s everything you need to know about setting your default browser on <a href="%(android)s">Android devices</a>.
-<a href="%(android)s"> Android آلات </a> پر اپنے پہلے سے طے شدہ براؤزر کو ترتیب دینے کے بارے میں جاننے کے لئے آپ کو جاننے کی ضرورت ہے۔
+<a href="%(android)s"> Android آلات </a> پر اپنے پہلے سے طے شدہ براؤزر کو سیٹنگ دینے کے بارے میں جاننے کے لئے آپ کو جاننے کی ضرورت ہے۔
 
 
 ;Here’s everything you need to know about setting your default browser on <a href="%(ios)s">iOS devices</a>.

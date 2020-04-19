@@ -1,3 +1,4 @@
+## active ##
 ## NOTE: Demo page at https://www-demo2.allizom.org/en-US/firefox/set-as-default/thanks/
 
 
@@ -27,11 +28,11 @@ Aql-ak qrib ad tawḍeḍ. Sbadu Firefox d iminig-ik amezwer deg ugalis n yiɣaw
 
 
 ;Here’s everything you need to know about setting your default browser on <a href="%(android)s">Android devices</a>.
-Here’s everything you need to know about setting your default browser on <a href="%(android)s">Android devices</a>.
+Atan akk ayen tesriḍ ad tezreḍ ɣef uswel n iminig-ik amezwer ɣef <a href="%(android)s">ibenkan Android</a>.
 
 
 ;Here’s everything you need to know about setting your default browser on <a href="%(ios)s">iOS devices</a>.
-Here’s everything you need to know about setting your default browser on <a href="%(ios)s">iOS devices</a>.
+Atan akk ayen tesriḍ ad tezreḍ ɣef uswel n iminig-ik amezwer ɣef <a href="%(ios)s">ibenkan</a>.
 
 
 ;You’re all set.
@@ -67,6 +68,6 @@ Llan wuguren?
 
 
 ;Here’s everything you need to know about setting your default browser on <a href="%(android)s">Android devices</a> or <a href="%(desktop)s">desktop computers</a>.
-Here’s everything you need to know about setting your default browser on <a href="%(android)s">Android devices</a> or <a href="%(desktop)s">desktop computers</a>.
+Atan akk ayen tesriḍ ad tezreḍ akken ad tsewleḍ iminig amezwer deg <a href="%(android)s">ibenkan Android</a> neɣ <a href="%(desktop)s">iselkimen</a>.
 
 
