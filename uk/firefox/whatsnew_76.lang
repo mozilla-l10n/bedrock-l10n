@@ -1,54 +1,55 @@
+## active ##
 ## NOTE: Demo page at https://www-dev.allizom.org/firefox/76.0/whatsnew/all/
 
 
 # HTML page title
 ;What’s new with Firefox
-What’s new with Firefox
+Що нового у Firefox
 
 
 ;Congrats! You’re using the latest version of Firefox.
-Congrats! You’re using the latest version of Firefox.
+Вітаємо! Ви користуєтеся найновішою версією Firefox.
 
 
 # Main title
 ;More time online. More protection.
-More time online. More protection.
+Більше часу в мережі. Більше захисту.
 
 
 ;Now Firefox creates and stores strong passwords for more of your online accounts — and stops more trackers than ever before.
-Now Firefox creates and stores strong passwords for more of your online accounts — and stops more trackers than ever before.
+Відтепер Firefox створює і зберігає надійні паролі для більшості ваших облікових записів та стримує більше елементів стеження, ніж будь-коли раніше.
 
 
 # CTA button takes you to the protection report
 ;View your protection report
-View your protection report
+Перегляньте звіт про ваш захист
 
 
 ;See if you’ve been involved in known online data breaches and take action to resolve them.
-See if you’ve been involved in known online data breaches and take action to resolve them.
+Дізнавайтеся, чи була ваша приватна інформація, серед відомих витоків даних вебсайтів та вживайте заходів для відновлення безпеки.
 
 
 ;Go to Monitor
-Go to Monitor
+Перейти до Monitor
 
 
 ;Share large files with end-to-end encryption, using a link that expires automatically.
-Share large files with end-to-end encryption, using a link that expires automatically.
+Обмінюйтесь великими файлами, захищеними наскрізним шифруванням, за допомогою посилання з автоматичним закінченням терміну дії.
 
 
 ;Try Send
-Try Send
+Спробувати Send
 
 
 ;Stay connected to the people you can’t be with in real life, and stop Facebook from following you online.
-Stay connected to the people you can’t be with in real life, and stop Facebook from following you online.
+Залишайтесь на зв’язку з людьми, з якими не можете поспілкуватися в реальному житті та заблокуйте Facebook від стеження за вами в Інтернеті.
 
 
 ;Add Facebook Container
-Add Facebook Container
+Встановіть Facebook Container
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+Ознайомтеся з <a href="%(notes)s">інформацією про випуск</a> та дізнайтеся більше про нові функції в браузері Firefox.
 
 
