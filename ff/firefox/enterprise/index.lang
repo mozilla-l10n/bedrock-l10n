@@ -3,7 +3,7 @@
 
 # HTML page title
 ;Get Firefox for your enterprise with ESR and Rapid Release
-Get Firefox for your enterprise with ESR and Rapid Release
+Heɓ Firefox ngam gollorde maa  ESR e Rapid release
 
 
 # HTML page description
@@ -12,23 +12,23 @@ Get unmatched data protection on the release cadence that suits you with Firefox
 
 
 ;Enterprise
-Enterprise
+Gollorde
 
 
 ;Overview
-Overview
+Tiimtorde
 
 
 ;Downloads
-Downloads
+Gaawte
 
 
 ;Resources
-Resources
+Bulnorɗe
 
 
 ;Get Firefox for your enterprise
-Get Firefox for your enterprise
+Heɓ Firefox ngam gollorde maa
 
 
 ;Get the <a href="%s">Firefox Extended Support Release or Rapid Release</a> browser for comprehensive data security and data protection.
@@ -37,11 +37,11 @@ Get the <a href="%s">Firefox Extended Support Release or Rapid Release</a> brows
 
 # CTA button
 ;Download
-Download
+Aawto
 
 
 ;Firefox Privacy Notice
-Firefox Privacy Notice
+Tinndinoore Suturo Firefox
 
 
 ;Unmatched data protection — on the release cadence that suits you
@@ -54,11 +54,11 @@ The Firefox browser is open source and provides Enhanced Tracking Protection —
 
 # This is a saying that means: your data remains yours - it’s your business and no one else’s
 ;Your data stays your business
-Your data stays your business
+Keɓe maa ngoni ngoƴa maa
 
 
 ;Deploy when and how you want
-Deploy when and how you want
+Hollir nde njiɗɗaa e no njiɗirɗaa
 
 
 # breeze in this context means its uncomplicated and easy to do.
@@ -67,7 +67,7 @@ With install packages and a wide expansion of group policies and features, deplo
 
 
 ;Choose your release cadence
-Choose your release cadence
+Suɓo no njaltinirtaa
 
 
 ;Get rapid releases to make sure you get the latest features faster, or go extended to ensure a super stable experience.
@@ -75,63 +75,63 @@ Get rapid releases to make sure you get the latest features faster, or go extend
 
 
 ;Enterprise downloads
-Enterprise downloads
+Gaawte gollorɗe
 
 
 ;Windows 64-bit
-Windows 64-bit
+Windows 64-bit {ok}
 
 
 ;Select your download
-Select your download
+Suɓo gaawtogol maa
 
 
 ;Firefox browser
-Firefox browser
+Wanngorde Firefox
 
 
 ;Firefox browser - MSI installer
-Firefox browser - MSI installer
+Wanngorde Firefox - aafirde MSI
 
 
 ;Firefox Extended Support Release (ESR)
-Firefox Extended Support Release (ESR)
+Bayyinol (ESR) Tammbol Timmungol Firefox
 
 
 ;Firefox Extended Support Release (ESR) - MSI installer
-Firefox Extended Support Release (ESR) - MSI installer
+Bayyinol (ESR) Tammbol Timmungol Firefox - Aafirde MSI
 
 
 ;Support
-Support
+Tammbol
 
 
 ;MSI installers
-MSI installers
+Gaafirɗe MSI
 
 
 ;Legacy browser support
-Legacy browser support
+Tammbol wanngorde aadanteere
 
 
 ;ADMX templates
-ADMX templates
+Tiimtorɗe ADMX
 
 
 ;Deployment guide
-Deployment guide
+Ɗowirde bertugol
 
 
 ;Policy documentation
-Policy documentation
+Duttorɗe dawrugol
 
 
 ;Release Notes
-Release Notes
+Konngol bayyinol
 
 
 ;Documentation and Community Support
-Documentation and Community Support
+Duttorɗe e Tammbol Renndo
 
 
 ;Sample <a href="%s">plist for configuration profile</a>
@@ -139,11 +139,11 @@ Sample <a href="%s">plist for configuration profile</a>
 
 
 ;PKG installer
-PKG installer
+Aafirde PKG
 
 
 ;Windows 32-bit
-Windows 32-bit
+Windows 64-bit
 
 
 # line break for visual formatting

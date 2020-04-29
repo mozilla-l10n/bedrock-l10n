@@ -8,7 +8,7 @@ Hol no ndaaƴirtaa ɓaŋŋine cekniiɗe e kuutorgol ko daaƴata ɓaŋŋine
 
 # HTML page description
 ;How to stop seeing too many ads and keep companies from following you around online. An ad blocker guide from the Firefox web browser.
-How to stop seeing too many ads and keep companies from following you around online. An ad blocker guide from the Firefox web browser.
+Hol no nattirtaa tiyde ɓaŋŋine ɓurtuɗe etee kaɗaa gollorɗe woosaade e maa e internet oo. Ɗowirde daaƴgol ɓaŋŋine ummoraade e wanngorde geese Firefox.
 
 
 ;The ad blocker – a secret weapon against annoying ads.
@@ -20,7 +20,7 @@ Daaƴoowo ɓaŋŋine oo – kaɓirgal cuuɗingal feewde e ɓaŋŋine cekniide.
 
 
 ;The average person sees an average of 4,000 ads a day. If you think that’s too many, an ad blocker is your new best friend.
-The average person sees an average of 4,000 ads a day. If you think that’s too many, an ad blocker is your new best friend.
+Neɗɗo kakindiiɗo ina yiya ko abbii e ɓaŋŋine 4,000 e ñalawma fof. So a sikkii ɗuum ina ɓurti, daaƴoowo ɓaŋŋine oo woni musiɗɗo maa keso.
 
 
 ;An ad blocker is a piece of software that can be used to block ads, and they work in two ways. The first way is when an ad blocker blocks the signal from an advertiser’s server, so the ad never shows up on your page. Another way ad blockers work is by blocking out sections of a website that could be ads.
@@ -40,11 +40,11 @@ There’s <a href="%(url)s">AdBlocker Ultimate</a> that gets rid of every single
 
 
 ;Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
-Popup ads are the worst. Block them with <a href="%(url)s">Popup Blocker</a> and never deal with another annoying popup again.
+Ɓaŋŋine cuppitooɗe ɗee ɓuri bonde. Daaƴirɗe <a href="%(url)s"> Popup Blocker </a> e hoto haaje abadaa suppitere sekniinde woɗ-nde.
 
 
 ;One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
-One of the most popular ad blockers for Chrome, Safari and Firefox is <a href="%(url)s">AdBlock</a>. Use it to block ads on Facebook, YouTube and Hulu.
+Gooto e daaƴooɓe ɓaŋŋine ɓurɗe lollude ɗee ngam Chrome, Safari e Firefox woni <a href="%(url)s">AdBlock</a>. Huutoro mo ngam daaƴde ɓaŋŋine e Facebook, YouTube e Hulu.
 
 
 # A tracker-free zone means a no tracker zone.
@@ -53,7 +53,7 @@ Sos boowal ngal alaa ñukkindotooɓe e kuutorogol daaƴgol loowdi
 
 
 ;On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
-On Firefox, you can use <a href="%(privacy)s">Privacy</a> or <a href="%(blocking)s">Content Blocking</a> settings to get even more control over ad trackers that serve you the ads.
+E Firefox, aɗa waawi huutoraade <a href="%(privacy)s"> Suturo</a> walla <a href="%(blocking)s">Daaƴgol Loowdi</a> teelte ngam dañde ndeenka ɓeydiika dow rewindotooɓe neldooɓe ma ɓaŋŋine ɗee.
 
 
 ;Choose your level of protection
@@ -85,7 +85,7 @@ Mbaydi fitiram golle heertinaandi
 
 
 ;The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
-The Custom setting gives you the ultimate choice. You can decide what you’re blocking, including trackers, cookies and more. If you allow cookies from a website, you’ll automatically be in Custom mode.
+Teeltal keertinaangal ina rokku maa cuɓogol battindiingol. Ina woodan maa suɓaade ko ndaaƴataa, gila e rewindotooɓe haa e kuukiije e goɗɗum. So a yamirii kuukijje ummoraade e lowre geese, maa won ɗoon e ɗoon e mbaydi keertinaandi.
 
 
 # ’Cover your trail’ means cover your browsing history.
@@ -98,7 +98,7 @@ Click on the Trackers box and you’ll be able to block trackers in two ways. On
 
 
 ;Take a bite out of cookies
-Ƴakku kuukiije
+Ŋappu kuukiije ɗee
 
 
 ;<a href="%(url)s">Cookies</a> are sent by websites you visit. They live on your computer and monitor what you’ve been doing on a site. When an airline hikes your rates because you’ve looked at plane tickets once that day, that is the handiwork of a cookie.
@@ -106,20 +106,20 @@ Click on the Trackers box and you’ll be able to block trackers in two ways. On
 
 
 ;In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
-In Firefox, you can block all third-party cookies or just those set by trackers. Be aware that blocking all cookies can break some sites.
+Nder Firefox, aɗa waawi daaƴde kuukiije janane walla ɗe rewindotooɓe mbaɗi ɗoon. Anndu noon daaƴde kuukiije ɗee fof ina waawi helde won e lowe.
 
 
 ;Send a Do Not Track signal
-Send a Do Not Track signal
+Neldu tintine Hoto rewindo
 
 
 # ’Thanks but no thanks’ here means to reject ads.
 ;If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
-If you don’t want your online behavior used for ads, you can send websites a polite “thanks but no thanks” letter by checking the <a href="%(url)s">Do Not Track</a> option of Firefox. Participation is voluntary, but the websites that participate will stop tracking you immediately.
+So tawii a yiɗaa ngonka ceŋagol maa huutoree ngam ɓaŋŋine, aɗa waawi neldude lowe geese ɓataake nehiiɗo "a jaaraama kon mi yiɗaa" ƴettaa suɓre <a href="%(url)s">Hoto Rewindo</a> mo Firefox. Jeyegol heen ko yarlitaare, kono lowe geese jeyaaɗe heen ɗee ma nattu rewindaade maa ɗoon e ɗoon.
 
 
 ;Speed up thanks to ad blockers
-Speed up thanks to ad blockers
+Ɓeydo yaawde e ballal daaƴoowo rewindotooɓe
 
 
 ;In some cases, an ad blocker can help your browser go faster. When an ad is loading, it can slow down a website. At the same time, it takes longer to find what you’re looking for if you’re too busy closing yet another ad.
@@ -127,7 +127,7 @@ In some cases, an ad blocker can help your browser go faster. When an ad is load
 
 
 ;If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for Firefox and other browsers. If want to try out the ad blockers Firefox uses, <a href="%(url)s">click here to download</a> a browser that puts privacy first.
-If you want to learn more about ad blocking, there are hundreds of ad blocker extensions available for Firefox and other browsers. If want to try out the ad blockers Firefox uses, <a href="%(url)s">click here to download</a> a browser that puts privacy first.
+So aɗa yiɗi ɓeydude humpito baɗte daaƴgol ɓaŋŋine, ina waɗi teemedde jokke daaƴoowo ɓaŋŋine jooɗaniiɗe gooɗɗe ngam Firefox e banngorɗe goɗɗe. So aɗa yiɗi etaade daaƴooɓe ɓaŋŋine Firefox huurtortoo, <a href="%(url)s">dobo ɗoo ngam aawtaade</a> wanngorde ardin'nde suturo.
 
 
 ;Take control of your browser.
