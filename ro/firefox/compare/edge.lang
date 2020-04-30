@@ -13,11 +13,11 @@ Compară Microsoft Edge cu Firefox și află care este cel mai bun browser pentr
 
 # Page title
 ;Comparing Firefox Browser with Microsoft Edge
-Comparație Firefox și Microsoft Edge
+Comparație între Firefox și Microsoft Edge
 
 
 ;With Windows 10, Microsoft introduced its Edge browser to compete with Firefox and Chrome making it the default browser pre-installed on millions of PCs sold. Even so, users were slow to adopt it and Microsoft eventually announced plans to relaunch Edge as a Chromium-based browser (Chromium of course being Google’s Open Source browser project).
-With Windows 10, Microsoft introduced its Edge browser to compete with Firefox and Chrome making it the default browser pre-installed on millions of PCs sold. Even so, users were slow to adopt it and Microsoft eventually announced plans to relaunch Edge as a Chromium-based browser (Chromium of course being Google’s Open Source browser project).
+Cu Windows 10, Microsoft a introdus browserul propriu Edge, drept concurent la Firefox și Chrome, făcându-l browserul implicit preinstalat pe milioane de calculatoare vândute. Chiar și așa, utilizatorii nu l-au adoptat repede, iar Microsoft a anunțat în cele din urmă planuri de a relansa Edge ca browser bazat pe Chromium (Chromium fiind, desigur, proiectul Google de browser cu sursă deschisă).
 
 
 ;Here we’ll compare our Firefox Browser to the Chromium-based Microsoft Edge in terms of privacy, utility, and portability, to help you have a better understanding of which browser better suits your needs and preferences.
@@ -33,15 +33,15 @@ Edge este integrat în platforma Windows 10 și rulează într-un mediu de tip s
 
 
 ;At Firefox, our <a %(attrs)s>privacy policy</a> is transparent and in plain language. We actually put a lot of work into making sure it was straightforward and easy to read. We pride ourselves in protecting our users security and privacy. With Enhanced Tracking Protection now on by default, we block 2000+ trackers automatically. Trackers are those little pieces of code that try to piece together what you're doing across multiple internet sites to build a composite and detailed picture of who you are, compromising your privacy all just to target better ads.
-At Firefox, our <a %(attrs)s>privacy policy</a> is transparent and in plain language. We actually put a lot of work into making sure it was straightforward and easy to read. We pride ourselves in protecting our users security and privacy. With Enhanced Tracking Protection now on by default, we block 2000+ trackers automatically. Trackers are those little pieces of code that try to piece together what you're doing across multiple internet sites to build a composite and detailed picture of who you are, compromising your privacy all just to target better ads.
+La Firefox, <a %(attrs)s>politica de confidențialitate</a> este transparentă și într-un limbaj simplu. De fapt, am depus multe eforturi pentru a ne asigura că este simplă și ușor de citit. Ne mândrim că protejăm securitatea și confidențialitatea utilizatorilor noștri. Cu protecția îmbunătățită împotriva urmăririi, acum activată implicit, blocăm automat peste 2000 de elemente de urmărire. Elementele de urmărire sunt acele bucăți de cod care încearcă să partajeze ce faci pe mai multe site-uri de pe internet ca să construiască o imagine compozită și detaliată despre tine, compromițându-ți astfel confidențialitatea doar ca să dea reclame țintite mai bine.
 
 
 ;Your <a %(attrs)s>Privacy Protections</a> shows you the trackers and cookies that pages have attempted to leave, and how many Firefox has blocked for you.
-Your <a %(attrs)s>Privacy Protections</a> shows you the trackers and cookies that pages have attempted to leave, and how many Firefox has blocked for you.
+<a %(attrs)s> Protecțiile de confidențialitate </a> îți arată elementele de urmărire și cookie-urile pe care paginile au încercat să le lase pe calculator și câte a blocat Firefox.
 
 
 ;In Firefox, Private Browsing mode automatically erases your browsing information like passwords, cookies, and history, leaving no trace after you close out the session. Edge on the other hand, actually records browsing history in their private mode (called “InPrivate”) and it’s a relatively easy task for someone to reconstruct your full browsing history, regardless of whether your browsing was done in regular or InPrivate mode.
-In Firefox, Private Browsing mode automatically erases your browsing information like passwords, cookies, and history, leaving no trace after you close out the session. Edge on the other hand, actually records browsing history in their private mode (called “InPrivate”) and it’s a relatively easy task for someone to reconstruct your full browsing history, regardless of whether your browsing was done in regular or InPrivate mode.
+În Firefox, modul navigare privată șterge automat informațiile de navigare precum parolele, cookie-urile și istoricul, fără a lăsa urme după ce închizi sesiunea. Pe de altă parte, Edge înregistrează de fapt istoricul de navigare în modul privat (denumit „InPrivate”) și este relativ ușor să ți se reconstruiască istoricul complet de navigare, indiferent dacă ai navigat în modul normal sau în InPrivate.
 
 
 ;Both browsers are relatively equal in terms of data encryption. However, if online privacy and transparency are important to you, then Firefox is clearly a better choice here.
@@ -49,23 +49,23 @@ Ambele browsere sunt relativ la egalitate în ceea ce privește criptarea datelo
 
 
 ;Firefox is a fast and open source browser, which means users can customize their browsing experience in every way possible. Firefox also allows the casual user several different ways to customize the UI with applying different themes and toolbar configurations. Since our browser has always been open source we have a large following of devoted developers who have created an extensive library of add-ons and browser extensions.
-Firefox is a fast and open source browser, which means users can customize their browsing experience in every way possible. Firefox also allows the casual user several different ways to customize the UI with applying different themes and toolbar configurations. Since our browser has always been open source we have a large following of devoted developers who have created an extensive library of add-ons and browser extensions.
+Firefox este un browser rapid și cu sursă deschisă, ceea ce înseamnă că utilizatorii își pot personaliza experiența de navigare în toate modurile posibile. În plus, Firefox permite utilizatorilor normali mai multe moduri de personalizare a interfeței de utilizator, aplicând diferite teme și configurații ale barei de unelte. Întrucât browserul nostru a fost întotdeauna cu sursă deschisă, avem o mulțime de dezvoltatori devotați care au creat o bibliotecă extinsă de suplimente și extensii.
 
 
 ;Since Edge has moved to the processor intensive Chromium platform, you can expect it to run a little slower, especially if you have multiple programs running at once. However, with Chromium platform comes a massive library of extensions as well as a decent level of UI customization that Edge did not have before it’s move to Chromium.
-Since Edge has moved to the processor intensive Chromium platform, you can expect it to run a little slower, especially if you have multiple programs running at once. However, with Chromium platform comes a massive library of extensions as well as a decent level of UI customization that Edge did not have before it’s move to Chromium.
+Deoarece Edge s-a mutat pe platforma intensivă de procesare Chromium, te poți aștepta să meargă ceva mai lent, mai ales dacă ai mai multe programe care rulate simultan. Dar, cu platforma Chromium, vine o bibliotecă masivă de extensii și un nivel decent de personalizare a interfeței pentru utilizator, pe care Edge nu le avea înainte de a se muta la Chromium.
 
 
 ;Edge has some nice UI features, like their tab previews which can make it easy to find the right open tabs if you’ve got a lot of them open. Another helpful tab-related feature lets you set aside any active tabs that you aren’t using but don’t want to close down.
-Edge has some nice UI features, like their tab previews which can make it easy to find the right open tabs if you’ve got a lot of them open. Another helpful tab-related feature lets you set aside any active tabs that you aren’t using but don’t want to close down.
+Edge are câteva caracteristici frumoase în interfața pentru utilizator, cum ar fi previzualizarea filelor, care poate ușura găsirea filelor dacă ai multe file deschise. O altă caracteristică utilă pentru file permite punerea deoparte a tuturor filelor active neutilizate pe care nu vrei să le închizi.
 
 
 ;Firefox features a scrolling tab interface, which keeps tab information viewable and scrolls them horizontally instead of shrinking them down to just favicon size. Also whenever you open a new tab, our <a %(attrs)s>Pocket feature</a> suggests relevant articles and content for you. Plus with Pocket, you can also save articles, videos, and other content with one click, for reading at a later time.
-Firefox features a scrolling tab interface, which keeps tab information viewable and scrolls them horizontally instead of shrinking them down to just favicon size. Also whenever you open a new tab, our <a %(attrs)s>Pocket feature</a> suggests relevant articles and content for you. Plus with Pocket, you can also save articles, videos, and other content with one click, for reading at a later time.
+Firefox dispune de o interfață cu derulare prin file, care păstrează vizibile informațiile din file și le derulează pe orizontală, în loc să le micșoreze jos la mărime de pictograme favorite. De asemenea, ori de câte ori deschizi o nouă filă, <a %(attrs)s>funcționalitatea Pocket</a> îți sugerează articole și conținuturi relevante. În plus, cu Pocket poți salva articole, videoclipuri și alte conținuturi cu un singur clic, pentru a le citi ulterior.
 
 
 ;Firefox and Edge both offer excellent reading modes. With Firefox you just tap on the small icon in the search bar and the browser strips down all unnecessary elements and presents you a clean looking article. In Edge you just tap on the small book icon and browser to get a clean easy-to-read UI.
-Firefox and Edge both offer excellent reading modes. With Firefox you just tap on the small icon in the search bar and the browser strips down all unnecessary elements and presents you a clean looking article. In Edge you just tap on the small book icon and browser to get a clean easy-to-read UI.
+Atât Firefox, cât și Edge oferă moduri excelente de lectură. Cu Firefox, trebuie doar să atingi pictograma mică din bara de căutare, iar browserul elimină toate elementele inutile și îți prezintă un articol cu aspect curat. În Edge, trebuie doar să atingi pictograma mică de carte pentru a obține o interfață de utilizator curată ușor de citit.
 
 
 ;Firefox also includes lots of handy built-in features by default like <a %(attrs)s>Enhanced Tracking Protection</a>, a built-in screenshot tool, large file sending and more.
@@ -74,23 +74,23 @@ Firefox include și o mulțime de funcționalități la îndemână, încorporat
 
 # "Out of the gate" means from the very start. Alternative: "From the start,". Race horses are held behind a gate that is opened to release all the horses at the same time at the start of the race, so a horse that leads the race from the very start is said to lead "right out of the gate."
 ;Out of the gate, Firefox has more features and integrations built into the browser and readily available on download. And while both browsers have a tremendous number of add-ons and extensions available, Edge’s compatibility with Google’s Chromium platform gives it the advantage in terms of sheer numbers.
-Out of the gate, Firefox has more features and integrations built into the browser and readily available on download. And while both browsers have a tremendous number of add-ons and extensions available, Edge’s compatibility with Google’s Chromium platform gives it the advantage in terms of sheer numbers.
+De la bun început, Firefox are mai multe funcționalități și integrări încorporate în browser și disponibile de la descărcare. Și, deși ambele browsere au un număr imens de suplimente și extensii disponibile, compatibilitatea Edge cu platforma Google Chromium îi oferă avantajul în ceea ce privește numărul.
 
 
 ;With Internet Explorer, Microsoft learned from its lack of availability across platforms and made Edge available for macOS and Android. The software is now readily available on iOS, Android, Windows and Mac.
-With Internet Explorer, Microsoft learned from its lack of availability across platforms and made Edge available for macOS and Android. The software is now readily available on iOS, Android, Windows and Mac.
+Cu Internet Explorer, Microsoft a învățat din lipsa lui de disponibilitate pe alte platforme și a făcut Edge disponibil pe macOS și Android. Software-ul este acum disponibil pe iOS, Android, Windows și Mac.
 
 
 ;Firefox has been available on iOS, Android, Windows, macOS and Linux for years. And as you would expect with any modern browser, Firefox lets you log in with a <a %(attrs)s>free account</a> and sync data such as passwords, browsing history, bookmarks, and open tabs between your computer, tablet and phone. It also allows you to sync across platforms as well.
-Firefox has been available on iOS, Android, Windows, macOS and Linux for years. And as you would expect with any modern browser, Firefox lets you log in with a <a %(attrs)s>free account</a> and sync data such as passwords, browsing history, bookmarks, and open tabs between your computer, tablet and phone. It also allows you to sync across platforms as well.
+Firefox este disponibil pe iOS, Android, Windows, macOS și Linux de ani buni. Și, așa cum e de așteptat de la orice browser modern, Firefox permite conectarea cu un <a %(attrs)s>cont gratuit</a> și sincronizarea de date precum parole, istoric de navigare, marcaje și file deschise între calculator, tabletă și telefon. În plus, permite și sincronizarea între platforme.
 
 
 ;Edge also allows you to connect your associated Microsoft account and sign in to sync your favorites, history, passwords, and more between your computer and iOS or Android devices, although some Android tablets are not currently supported.
-Edge also allows you to connect your associated Microsoft account and sign in to sync your favorites, history, passwords, and more between your computer and iOS or Android devices, although some Android tablets are not currently supported.
+Edge permite și conectarea contului Microsoft asociat și sincronizarea favoritelor, istoricului, parolelor și a multor alte elemente între calculator și dispozitive iOS sau Android, deși unele tablete Android nu au încă suport.
 
 
 ;Aside from sucking up a lot of computing power, Edge running on Chromium has answered a lot of users’ needs for functionality and features. But there’s still a lot to account for in terms of the browser’s privacy protections. It’s our assessment that Firefox is still a better choice for most people to use in their daily lives, based not only on functionality but more importantly on our transparency in how we collect user data, what exactly we collect, and what we do with it. Because our parent company is <a %(attrs)s>Mozilla</a>, a non-profit organization dedicated to internet privacy and freedom, we simply have a different set of priorities when it comes to users’ data.
-Aside from sucking up a lot of computing power, Edge running on Chromium has answered a lot of users’ needs for functionality and features. But there’s still a lot to account for in terms of the browser’s privacy protections. It’s our assessment that Firefox is still a better choice for most people to use in their daily lives, based not only on functionality but more importantly on our transparency in how we collect user data, what exactly we collect, and what we do with it. Because our parent company is <a %(attrs)s>Mozilla</a>, a non-profit organization dedicated to internet privacy and freedom, we simply have a different set of priorities when it comes to users’ data.
+Deși trage multă putere de calcul, Edge rulat pe Chromium a răspuns multor nevoi de funcționalitate și funcționalități. Însă mai sunt încă multe de luat în calcul referitor la protecția confidențialității în browser. Apreciem că Firefox este în continuare alegerea mai bună pentru uz zilnic, nu numai pentru funcționalitate, ci, și mai important, pentru transparența modului de colectarea datelor utilizatorilor, a ce anume colectăm și ce facem cu ele. Deoarece firma noastră mamă este <a %(attrs)s>Mozilla</a>, o organizație non-profit dedicată confidențialității și libertății internetului, avem pur și simplu alt set de priorități când vine vorba de datele utilizatorilor.
 
 
 ;The bottom line is that while we suggest using Firefox, the best browser for you ultimately will be the one that fits your individual needs with extension support, browsing tools customization, speed, privacy and security.
@@ -98,6 +98,6 @@ The bottom line is that while we suggest using Firefox, the best browser for you
 
 
 ;The comparisons made here were done so across browser release versions as follows:<br> Firefox (70) | Edge (44)
-Comparațiile făcute aici au fost efectuate între versiunile de lansare ale browserelor, după cum urmează:<br> Firefox (70) | Edge (44)
+Comparațiile de aici sunt între versiunile de lansare, și anume:<br> Firefox (70) | Edge (44)
 
 

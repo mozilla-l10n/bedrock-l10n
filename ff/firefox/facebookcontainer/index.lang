@@ -3,52 +3,52 @@
 
 # HTML page title
 ;Facebook Container for Firefox | Prevent Facebook from seeing what websites you visit.
-Facebook Container for Firefox | Prevent Facebook from seeing what websites you visit.
+Facebook Container ngam Firefox | Ina haɗa Facebook yiyde hol lowe njilloto-ɗaa.
 
 
 # HTML page description
 ;Millions of people around the world trust Firefox Web browsers on Android, iOS and desktop computers. Fast. Private. Download now!
-Millions of people around the world trust Firefox Web browsers on Android, iOS and desktop computers. Fast. Private. Download now!
+Miliyoŋaajineɗɗo e jookli winndere ndee ina koolii banngorɗe geese Firefox e Android, iOS e ordinateeruuji. Jaawɗum. Cuuriɗum. Aawto jooni!
 
 
 ;Facebook. Well contained. Keep the rest of your life to yourself.
-Facebook. Well contained. Keep the rest of your life to yourself.
+Facebook. Foolaama sanne. Mooftan hoore maa ko heddii e nguurndam maa.
 
 
 ;Download Firefox and get the Facebook Container Extension
-Download Firefox and get the Facebook Container Extension
+Aawto Firefox e heɓ timmitte Facebook Container
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Get the Facebook Container Extension
-Get the Facebook Container Extension
+Heɓ timmitte Facebook Container
 
 
 ;The Facebook Container Extension is not available on mobile devices.
-The Facebook Container Extension is not available on mobile devices.
+Timmitte Facebook Container heɓotaako e kaɓirɗe cinndel maa.
 
 
 # GLink points to https://www.mozilla.org/firefox/focus/; Product name in German is Firefox Klar.
 ;Try <strong>Firefox Focus</strong>, the privacy browser for Android and iOS.
-Try <strong>Firefox Focus</strong>, the privacy browser for Android and iOS.
+Eto <strong>Firefox Focus</strong>, wanngorde suturo ndee ngam Android e iOS.
 
 
 # The video contains text in English
 ;Watch the video
-Watch the video
+Yeeɓ widewoo
 
 
 ;Opt out on your terms
-Opt out on your terms
+Salo sarɗiiji
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Facebook can track almost all your web activity and tie it to your Facebook identity. If that’s too much for you, the <a href="%(fbcontainer)s">Facebook Container extension</a> isolates your identity into a separate container tab, making it harder for Facebook to track you on the web outside of Facebook.
-Facebook can track almost all your web activity and tie it to your Facebook identity. If that’s too much for you, the <a href="%(fbcontainer)s">Facebook Container extension</a> isolates your identity into a separate container tab, making it harder for Facebook to track you on the web outside of Facebook.
+Facebook ina waawi rewindaade dille maa e geese maa fof e tee seŋondira ɗum e innitol maa Facebook. So ɗuum ina ɓurtirmaa, <a href="%(fbcontainer)s">Timmitere Facebook Container oo </a> ina joña innitol maa e tabbe mooftirde seertunde, addana Facebook caɗeele rewindaande e geese ɗee boowal Facebook.
 
 
 ;Install and contain
-Install and contain
+Aaf etee mooftu
 
 
 # The link points to https://addons.mozilla.org/firefox/addon/facebook-container/
@@ -57,7 +57,7 @@ Installing the <a href="%(fbcontainer)s">extension</a> is easy and, once activat
 
 
 ;About Firefox and Mozilla
-About Firefox and Mozilla
+Baɗte Firefox e Mozilla
 
 
 # The link points to mozilla.org
@@ -66,6 +66,6 @@ We’re backed by <a href="%(mozilla)s">Mozilla</a>, the not-for-profit organiza
 
 
 ;Browse freely with Firefox today.
-Browse freely with Firefox today.
+Wanngo e wellitaare e Firefox hannde.
 
 
