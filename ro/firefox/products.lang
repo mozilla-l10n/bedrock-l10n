@@ -1,94 +1,95 @@
+## active ##
 ## NOTE: Demo page at https://www-demo1.allizom.org/firefox/products/
 
 
 # HTML page title
 ;Firefox is more than a browser
-Firefox is more than a browser
+Firefox este mai mult decât un browser
 
 
 # HTML page description
 ;It’s a whole family of products designed to keep you safer and smarter online.
-It’s a whole family of products designed to keep you safer and smarter online.
+Este o întreagă familie de produse concepute să te mențină în siguranță și să fii mai inteligent(ă) online.
 
 
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 ;Firefox is <strong>more</strong> than a browser
-Firefox is <strong>more</strong> than a browser
+Firefox este <strong>mai mult</strong> decât un browser
 
 
 ;See if your personal information has been compromised in a corporate data breach, and sign up for future alerts.
-See if your personal information has been compromised in a corporate data breach, and sign up for future alerts.
+Vezi dacă datele tale cu caracter personal au fost compromise într-o breșă de date ale firmelor și înregistrează-te pentru alerte viitoare.
 
 
 ;Check for breaches
-Check for breaches
+Caută breșe de date
 
 
 ;Sign up for breach alerts
-Sign up for breach alerts
+Înregistrează-te pentru alerte despre breșe de date
 
 
 ;Firefox browsers
-Firefox browsers
+Browsere Firefox
 
 
 ;Get the browsers that block 2000+ data trackers automatically. Enhanced Tracking Protection comes standard in every Firefox browser.
-Get the browsers that block 2000+ data trackers automatically. Enhanced Tracking Protection comes standard in every Firefox browser.
+Obține browsere care blochează automat peste 2.000 de elemente de urmărire de date. Protecția îmbunătățită împotriva urmăririi este inclusă standard în fiecare browser Firefox.
 
 
 ;Download
-Download
+Descarcă
 
 
 ;Desktop
-Desktop
+Calculator
 
 
 ;See all browsers
-See all browsers
+Vezi toate browserele
 
 
 ;Keep your passwords safe, and access them across all your synced devices.
-Keep your passwords safe, and access them across all your synced devices.
+Păstrează-ți parolele în siguranță și accesează-le de pe toate dispozitivele sincronizate.
 
 
 ;Download Lockwise
-Download Lockwise
+Descarcă Lockwise
 
 
 ;Open in Firefox
-Open in Firefox
+Deschide în Firefox
 
 
 ;Learn more about Lockwise
-Learn more about Lockwise
+Află mai multe despre Lockwise
 
 
 ;Send your large files and sensitive documents safely, up to 2.5G.
-Send your large files and sensitive documents safely, up to 2.5G.
+Trimite fișiere mari, de până la 2,5 G, și documente sensibile în siguranță.
 
 
 ;Send a file
-Send a file
+Trimite un fișier
 
 
 ;Discover the best content on the web — and consume it wherever and whenever you want.
-Discover the best content on the web — and consume it wherever and whenever you want.
+Descoperă cele mai bune conținuturi de pe web — și le vizualizezi oriunde și oricând vrei.
 
 
 ;Get Pocket
-Get Pocket
+Instalează Pocket
 
 
 ;Learn more about Pocket
-Learn more about Pocket
+Află mai multe despre Pocket
 
 
 ;Join Firefox and get the most out of every product — across every device.
-Join Firefox and get the most out of every product — across every device.
+Folosește Firefox și profiți la maxim de orice produs — pe orice dispozitiv.
 
 
 ;Already have an account? <a %(fxa_attr)s>Sign In</a> or <a %(accounts_attr)s>learn more</a> about joining Firefox.
-Already have an account? <a %(fxa_attr)s>Sign In</a> or <a %(accounts_attr)s>learn more</a> about joining Firefox.
+Ai deja un cont? <a %(fxa_attr)s>Autentifică-te</a> sau <a %(accounts_attr)s>află mai multe</a> despre aderarea la Firefox.
 
 

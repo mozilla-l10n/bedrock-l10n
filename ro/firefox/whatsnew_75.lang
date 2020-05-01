@@ -1,93 +1,94 @@
+## active ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/75.0/whatsnew/all/
 
 
 # HTML page title
 ;What’s new with Firefox
-What’s new with Firefox
+Ce e nou în Firefox
 
 
 ;Congrats! You’re using the latest version of Firefox.
-Congrats! You’re using the latest version of Firefox.
+Felicitări! Folosești ultima versiune de Firefox.
 
 
 # Main title for signed out users
 ;Pick up Firefox where you left off
-Pick up Firefox where you left off
+Continuă în Firefox de unde ai rămas
 
 
 ;Whether you’re using Firefox on your phone or computer, make sure all your important stuff — internet searches, passwords, open tabs — appears where you need it.
-Whether you’re using Firefox on your phone or computer, make sure all your important stuff — internet searches, passwords, open tabs — appears where you need it.
+Indiferent dacă folosești Firefox pe telefon sau calculator, asigură-te că tot ce ai important — căutări pe internet, parole, file deschise — apare acolo unde ai nevoie.
 
 
 # CTA button for signed out users
 ;Sync your phone
-Sync your phone
+Sincronizează-ți telefonul
 
 
 # Main title for signed in users
 ;Stay ahead of hackers
-Stay ahead of hackers
+Fii cu un pas înaintea hackerilor
 
 
 ;Now Firefox Monitor not only informs you if you’ve been involved in known online data breaches, it also lets you take action to resolve them and get closure.
-Now Firefox Monitor not only informs you if you’ve been involved in known online data breaches, it also lets you take action to resolve them and get closure.
+Acum, Firefox Monitor nu numai că te informează dacă ai fost implicat în breșe de date online cunoscute, dar îți permite și să iei măsuri pentru a le rezolva și închide.
 
 
 # CTA button for signed in users
 ;Check your Breach Report
-Check your Breach Report
+Verifică-ți raportul de breșe
 
 
 ;Send tabs instantly
-Send tabs instantly
+Trimite file instant
 
 
 ;The days of emailing links to yourself are over. Easily send your open tabs to any of your synced devices.
-The days of emailing links to yourself are over. Easily send your open tabs to any of your synced devices.
+Gata cu trimisul de linkuri de pe un dispozitiv pe altul prin propria adresă de e-mail. Acum îți poți trimite ușor filele deschise către oricare dintre dispozitivele tale sincronizate.
 
 
 ;Preserve your history
-Preserve your history
+Păstrează-ți istoricul
 
 
 ;It’s not a big deal until it’s not there. With Firefox Sync, your browsing history is always right where you expect it to be.
-It’s not a big deal until it’s not there. With Firefox Sync, your browsing history is always right where you expect it to be.
+Nu-i nicio problemă până când îți trebuie și nu e acolo. Cu Firefox Sync, ai istoricul de navigare întotdeauna exact acolo unde te aștepți să fie.
 
 
 ;Safely carry your passwords with you
-Safely carry your passwords with you
+Ia cu tine parolele în siguranță
 
 
 # "Sync" and "Lockwise" are product names that shouldn't be translated.
 ;Sync together with Lockwise means you can securely store and manage the passwords you’ve saved on your phone, computer, or tablet.
-Sync together with Lockwise means you can securely store and manage the passwords you’ve saved on your phone, computer, or tablet.
+Cu Sync și Lockwise poți stoca și gestiona în siguranță parolele salvate pe telefon, calculator sau tabletă.
 
 
 ;Stay alert to new breaches
-Stay alert to new breaches
+Fii la curent cu ultimele breșe de date
 
 
 ;If your information surfaces in a new data breach, we’ll send you an alert.
-If your information surfaces in a new data breach, we’ll send you an alert.
+Dacă informațiile tale apar într-o nouă breșă de date, îți vom trimite o alertă.
 
 
 ;Monitor several emails
-Monitor several emails
+Monitorizează mai multe adrese de e-mail
 
 
 ;Get ongoing breach monitoring for multiple email addresses.
-Get ongoing breach monitoring for multiple email addresses.
+Obține monitorizarea continuă a breșelor de date pentru mai multe adrese de e-mail.
 
 
 ;Protect your online privacy
-Protect your online privacy
+Protejează-ți confidențialitatea online
 
 
 ;Find out what you need to do to keep your data safe from cyber criminals.
-Find out what you need to do to keep your data safe from cyber criminals.
+Află ce trebuie să faci ca să îți păstrezi datele în siguranță împotriva infractorilor cibernetici.
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+Citește <a href="%(notes)s">Notele de lansare</a> pentru a afla mai multe despre noutățile din browserul Firefox.
 
 
