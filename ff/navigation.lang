@@ -5,28 +5,28 @@
 
 # Accessible label for dropdown menus
 ;Menu
-Menu
+Dosol
 
 
 ;Download Firefox
-Download Firefox
+Aawto Firefox
 
 
 ;About
-About
+Baɗte
 
 
 # Accessible label for the 'X' button that closes a menu
 ;Close About menu
-Close About menu
+Uddu dosol baɗte
 
 
 ;Meet the technology company that puts people before profit.
-Meet the technology company that puts people before profit.
+Ƴeew gollordu karallaagal nduu ardinndu yimɓe e yeeso jawdi.
 
 
 ;Leadership
-Leadership
+Ngardiigu
 
 
 ;Mozilla Foundation
@@ -34,15 +34,15 @@ Mozilla Foundation
 
 
 ;Mission
-Mission
+Darnde
 
 
 ;Press Center
-Press Center
+Nokku Jaaynde
 
 
 ;Contact
-Contact
+Jokkondiral
 
 
 ;Careers
@@ -58,15 +58,15 @@ Ar yantu e amen
 
 
 ;Join the fight for a healthy internet.
-Join the fight for a healthy internet.
+Yantu e hare ngam Enternet celluɗo.
 
 
 ;Events
-Events
+Joljole
 
 
 ;Donate
-Donate
+Addu ballal
 
 
 ;Mozilla Manifesto
@@ -74,7 +74,7 @@ Mozilla Manifesto
 
 
 ;Your right to security and privacy on the internet is fundamental – never optional.
-Your right to security and privacy on the internet is fundamental – never optional.
+Jojjaaji maa kisal kam e suturo e nder Enternet oo ko baɗɗiiɗi –ɗi ngonaa sara abadaa.
 
 
 ;Developers
@@ -95,15 +95,15 @@ Firefox, alaa baɗanaaɗo so wonaa topayɓe.
 
 
 ;Test soon-to-be-released features in our most stable pre-release build.
-Test soon-to-be-released features in our most stable pre-release build.
+Ƴeewndo fannuuji kebiiɗi bayyineede e yamre lawɗunde ɓurnde yamɗude.
 
 
 ;Preview the latest build of Firefox and help us make it the best.
-Preview the latest build of Firefox and help us make it the best.
+Ado yiyde yamre Firefoƴ hesere ndee etee wallu min ƴellit-de nde.
 
 
 ;Developer Innovations
-Developer Innovations
+Kesameeje topayɓe
 
 
 ;Projects that help keep the internet open and accessible for all.
@@ -111,7 +111,7 @@ Eɓɓooje ballooje Enternet udditaade e heɓaade mo woni kala.
 
 
 ;Web Assembly
-Web Assembly
+Web Assembly {ok}
 
 
 ;Gaming
@@ -123,23 +123,23 @@ Mixed Reality
 
 
 ;Resources
-Resources
+Bulnorɗe
 
 
 ;Resources for developers, by developers.
-Resources for developers, by developers.
+Ɓulnorɗe ngam topayɓe, ɗe topayɓe.
 
 
 ;MDN Web Docs
-MDN Web Docs
+Duttorɗe geese MDN
 
 
 ;Firefox Playground
-Firefox Playground
+Firefox Playground {ok}
 
 
 ;CSS Grid
-CSS Grid
+CSS Grid {ok}
 
 
 ;Developer Blog
@@ -156,7 +156,7 @@ Mahto, ƴeewndo, ɓetto ekn huutoraade wanngorde wajjere waɗanaande topayɓe.
 
 # Accessible label for the 'X' button that closes a menu
 ;Close Firefox menu
-Close Firefox menu
+Uddu dosol Firefox
 
 
 ;Firefox Quantum Desktop Browser
@@ -168,23 +168,23 @@ Get the browser that gives more power to you on Windows, macOS or Linux.
 
 
 ;Download
-Download
+Aawto
 
 
 ;New Features
-New Features
+Fannuji kesi
 
 
 ;Extensions
-Extensions
+Timmitte
 
 
 ;Support
-Support
+Tammbol
 
 
 ;Privacy
-Privacy
+Suturo
 
 
 ;Firefox Mobile Browsers
@@ -192,47 +192,47 @@ Banngorɗe Cinnde Firefox
 
 
 ;Take Firefox and Firefox Focus with you. For Android and iOS.
-Take Firefox and Firefox Focus with you. For Android and iOS.
+Nawor Firefox e Firefox Focus. Ngam Android e iOS.
 
 
 ;Get Firefox
-Get Firefox
+Heɓ Firefox
 
 
 ;Get Firefox Focus
-Get Firefox Focus
+Heɓ Firefox Focus
 
 
 ;Android Extensions
-Android Extensions
+Timmitte Android
 
 
 ;iOS Support
-iOS Support
+Tammbol iOS
 
 
 ;Android Support
-Android Support
+Wallitorde Android
 
 
 ;Pocket by Firefox
-Pocket by Firefox
+Pocket mo Firefox
 
 
 ;Save content. Absorb knowledge.
-Save content. Absorb knowledge.
+Danndu loowdi. Moɗ ganndal.
 
 
 ;Your Firefox Account
-Your Firefox Account
+Konte maa Firefox
 
 
 ;Make the most of your Firefox experience, across every device.
-Make the most of your Firefox experience, across every device.
+Naftoro ko heewi e dawtol maa Firefox, nder masiŋel kala.
 
 
 ;Firefox for Enterprise
-Firefox for Enterprise
+Firefox mo Gollordu
 
 
 ;Same speed and safety you trust, designed just for business.
@@ -240,19 +240,19 @@ Same speed and safety you trust, designed just for business.
 
 
 ;Firefox for Fire TV
-Firefox for Fire TV
+Firefox ngam Fire TV
 
 
 ;Watch videos and browse the internet on your Amazon Fire TV.
-Watch videos and browse the internet on your Amazon Fire TV.
+Yeeɓ widewooji e wanngo e Enternet oo e Fire TV maa Amazon.
 
 
 ;Add-ons
-Add-ons
+Ɓeyditte
 
 
 ;Learn how to customize the way Firefox works.
-Learn how to customize the way Firefox works.
+Humpito no keertinirtaa no Firefox dogirta.
 
 
 ;Projects
@@ -273,7 +273,7 @@ Experience augmented and virtual reality with Firefox.
 
 
 ;Web of Things (IoT)
-Web of Things (IoT)
+Geese geɗe (IoT)
 
 
 ;Make devices connected to the internet safe, secure and interoperable.
@@ -289,7 +289,7 @@ Meet people in experimental Mixed Reality chatrooms with Firefox.
 
 
 ;Mozilla WebVR
-Mozilla WebVR
+Mozilla WebVR {ok}
 
 
 ;Mozilla brings Firefox to augmented and virtual reality.
@@ -298,7 +298,7 @@ Mozilla brings Firefox to augmented and virtual reality.
 
 # CTA as in language selection
 ;Go
-Go
+Yah
 
 
 # Used on the navigation bar. Link points to https://www.mozilla.org/firefox/accounts/
@@ -335,17 +335,17 @@ Approach your career with a sense of purpose. Find worthy work at Mozilla.
 
 
 ;Browsers
-Browsers
+Banngorɗe
 
 
 # Accessible label for the 'X' button that closes a menu
 ;Close Browsers menu
-Close Browsers menu
+Uddu dosol banngorɗe
 
 
 # please do not translate the product name "Firefox Browser"
 ;Firefox Browser for Desktop
-Firefox Browser for Desktop
+Wanngorde firefox ngam odinateer
 
 
 ;Get the browser that respects your privacy automatically. On Windows, macOS or Linux.
@@ -354,7 +354,7 @@ Get the browser that respects your privacy automatically. On Windows, macOS or L
 
 # please do not translate the product name "Firefox Browser"
 ;Firefox Browser for Mobile
-Firefox Browser for Mobile
+Wanngorde Firefox ngam cinndel
 
 
 ;Take speed, privacy and peace of mind with you. On Android and iOS.
@@ -363,7 +363,7 @@ Take speed, privacy and peace of mind with you. On Android and iOS.
 
 # please do not translate the product name "Firefox Browser"
 ;Firefox Browser for Enterprise
-Firefox Browser for Enterprise
+Wanngorde Firefox ngam Gollordu
 
 
 ;Get unmatched data protection on the release cadence that suits your organization.
@@ -384,7 +384,7 @@ Firefox browsers put your privacy first — and always have.
 
 
 ;Join
-Join
+Tawtu
 
 
 # Accessible label for the 'X' button that closes a menu
@@ -393,7 +393,7 @@ Close Join menu
 
 
 ;Join Firefox
-Join Firefox
+Tawtu Firefox
 
 
 ;Access all of Firefox with a single login — and get more from every product when you do.
@@ -401,11 +401,11 @@ Access all of Firefox with a single login — and get more from every product wh
 
 
 ;Sign In
-Sign In
+Seŋo
 
 
 ;Benefits
-Benefits
+Ɓure
 
 
 ;Meet the Firefox Family
@@ -417,24 +417,24 @@ Protect your life online with a whole family of privacy-first products.
 
 
 ;Download for iOS
-Download for iOS
+Aawto ngam iOS
 
 
 ;Download for Android
-Download for Android
+Aawto ngam Android
 
 
 ;Sign Up
-Sign Up
+Winndito
 
 
 # Accessible label for the 'X' button that closes a menu
 ;Close Products menu
-Close Products menu
+Uddu dosol Topirɗe
 
 
 ;Take the passwords you’ve saved in Firefox with you everywhere.
-Take the passwords you’ve saved in Firefox with you everywhere.
+Nawor pinle ɗe ndanndu-ɗaa e Firefox kala kala nokku.
 
 
 ;See if your personal info has been leaked online, and sign up for future breach alerts.
@@ -442,15 +442,15 @@ See if your personal info has been leaked online, and sign up for future breach 
 
 
 ;Check for Breaches
-Check for Breaches
+Ƴeewto ciigol keɓe
 
 
 ;See Breaches
-See Breaches
+Yiy ciigol keɓe
 
 
 ;Security Tips
-Security Tips
+Peeje Kisal
 
 
 # 'self-destruct' is in single quotes to hint at an ironic meaning. The files are deleted automatically, they don't actually destroy themselves.
