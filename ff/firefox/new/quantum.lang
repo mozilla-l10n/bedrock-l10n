@@ -19,17 +19,17 @@ You’re using an insecure, outdated operating system <a href="%(url)s">no longe
 
 # /firefox/windows/ main page title. Span is for visually formatting.
 ;Firefox fights for you <span>on Windows.</span>
-Firefox fights for you <span>on Windows.</span>
+Firefox ina haɓonomaa <span>e Windows.</span>
 
 
 # /firefox/mac/ main page title. Span is for visually formatting.
 ;Firefox respects <span>your privacy on Mac.</span>
-Firefox respects <span>your privacy on Mac.</span>
+Firefox ina hormii <span> suturo maa e Mac.</span>
 
 
 # /firefox/linux/ main page title.
 ;Firefox for Linux
-Firefox for Linux
+Firefox ngam Linux
 
 
 ;The new <strong>Firefox</strong>
@@ -37,7 +37,7 @@ Firefox for Linux
 
 
 ;Own your online life.
-Own your online life.
+Jey nguurndam maa e ceŋogol.
 
 
 ;Fast for good.
@@ -72,7 +72,7 @@ Cuɓe aaftogol dowrowe & tammbordɗe goɗɗe
 
 # Link points to https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings?
 ;Fix a problem
-Fix a problem
+Ñawndu caɗeele
 
 
 ;Keep up with<br> all things Firefox.
@@ -108,15 +108,15 @@ Heɓ Konte Firefox
 
 
 ;Already have an account?
-Already have an account?
+Aɗa jogii konte kisa?
 
 
 ;Sign In
-Sign In
+Seŋo
 
 
 ;Download Anyway
-Download Anyway
+Aawto no wayi fof
 
 
 # Link points to /firefox/all/
@@ -131,7 +131,7 @@ Aawto e ɗemngal goɗngal
 
 
 ;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+Aawtogol maa ina foti fuɗɗaade ɗoon e ɗoon. Yahaani? <a id="%(id)s" href="%(fallback_url)s">Fuɗɗito aawtogol kadi</a>.
 
 
 # Obsolete string, DO NOT REMOVE
@@ -140,7 +140,7 @@ Gaawtogol maa ina foti fuɗɗaade ɗoon e ɗoon. So ɗuum alaa, <a id="%(id)s" h
 
 
 ;Learn how to make Firefox even smarter, faster and more secure.
-Learn how to make Firefox even smarter, faster and more secure.
+Humpito hol no mbattirtaa Firefox ɓurɗo ƴoƴde, ɓurɗo yaawde e ɓurɗo hisde.
 
 
 ;Get informative tips, tricks and product announcements delivered to your inbox.
@@ -148,11 +148,11 @@ Get informative tips, tricks and product announcements delivered to your inbox.
 
 
 ;Enter your email address
-Enter your email address
+Naatnu ñiiɓirde maa iimeel
 
 
 ;How will Mozilla use my email?
-How will Mozilla use my email?
+Hol no Mozilla huutoroytoo iimeel am?
 
 
 ;Mozilla doesn’t just value your email privacy and security – it’s part of our <a href="%(manifesto)s">Manifesto</a>: “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” <a href="%(principles)s">You can learn about our Data Privacy Principles here</a>.
@@ -160,11 +160,11 @@ Mozilla doesn’t just value your email privacy and security – it’s part of 
 
 
 ;What we want you to know:
-What we want you to know:
+Ko min njiɗi nganndaa:
 
 
 ;You don’t need to give us your email to download and use Firefox.
-You don’t need to give us your email to download and use Firefox.
+A soklaani rokkude min iimeel maa ngam aawtaade e huutoraade Firefox.
 
 
 ;We asked for your email because our research shows that people who receive an introductory experience do more and better with Firefox.
@@ -176,11 +176,11 @@ You can expect emails designed to help you optimize Firefox to work best for you
 
 
 ;You can unsubscribe anytime, for any reason.
-You can unsubscribe anytime, for any reason.
+Aɗa waawi lultinaade kala nde njiɗɗaa, sabu daliilu baawɗo wonde fof.
 
 
 ;We will not share, sell or use your email for any other purposes.
-We will not share, sell or use your email for any other purposes.
+Min lollinoytaa, njeeyoytaa walla kuutoroytaako iimeel maa sabu paandaale goɗɗe.
 
 
 ;Let’s do this!
@@ -193,17 +193,17 @@ Sanngoɗin e Firefox tawa ko e cinndel:
 
 # /firefox/windows/ HTML page title
 ;Download Mozilla Firefox for Windows
-Download Mozilla Firefox for Windows
+Aawto Mozilla Firefox ngam Windows
 
 
 # /firefox/mac/ HTML page title
 ;Download Mozilla Firefox for Mac
-Download Mozilla Firefox for Mac
+Aawto Mozilla Firefox ngam Mac
 
 
 # /firefox/linux/ HTML page title
 ;Download Mozilla Firefox for Linux
-Download Mozilla Firefox for Linux
+Aawto Mozilla Firefox ngam Linux
 
 
 # HTML page title prefix
@@ -218,17 +218,17 @@ Wanngorde Geese Alla meho
 
 # /firefox/windows/ HTML page description
 ;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
-Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+Aawto Mozilla Firefox ngam Windows, wanngorde dokkal. Firefox waɗi-ɗum ko renndo huuɓnungo ngo yiylaaki ngalu ngo faandaare mum woni ko hokkude mo woni kala doole ɗe naatiri e enternet. Heɓ Firefox ngam Windows hannde!
 
 
 # /firefox/mac/ HTML page description
 ;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
-Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+Aawto Mozilla Firefox ngam Mac, wanngorde dokkal. Firefox waɗi-ɗum ko renndo huuɓnungo ngo yiylaaki ngalu ngo faandaare mum woni ko hokkude mo woni kala doole ɗe naatiri e enternet. Heɓ Firefox ngam Mac hannde!
 
 
 # /firefox/linux/ HTML page description
 ;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
-Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+Aawto Mozilla Firefox ngam Linux, wanngorde dokkal. Firefox waɗi-ɗum ko renndo huuɓnungo ngo yiylaaki ngalu ngo faandaare mum woni ko hokkude mo woni kala doole ɗe naatiri e enternet. Heɓ Firefox ngam Linux hannde!
 
 
 # HTML page description
@@ -238,36 +238,36 @@ Aawto Mozilla, wanngorde Geese nde yoɓetaake. Firefox sosiɗum ko renndo ko ɗa
 
 # /firefox/windows/ social sharing title
 ;Download the fastest Firefox for Windows ever
-Download the fastest Firefox for Windows ever
+Aawto Firefox ngam Windows ɓurɗo yaawde abada oo
 
 
 # /firefox/mac/ social sharing title
 ;Download the fastest Firefox for Mac ever
-Download the fastest Firefox for Mac ever
+Aawto Firefox ngam Mac ɓurɗo yaawde abada oo
 
 
 # /firefox/linux/ social sharing title
 ;Download the fastest Firefox for Linux ever
-Download the fastest Firefox for Linux ever
+Aawto Firefox ngam Linux ɓurɗo yaawde abada oo
 
 
 ;Download the fastest Firefox ever
-Aawto Firefox ɓurɗo yaawde abada
+Aawto Firefox ɓurɗo yaawde abadaa oo
 
 
 # /firefox/windows/ social sharing description
 ;Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
-Faster page loading, less memory usage and packed with features, the new Firefox for Windows is here.
+Loowgol hello ɓurngol yaawde, kuutorogol tesko pamɗungol kadi coomdangol e faannuuji, Firefox keso ngam Windows oo nani ɗoo.
 
 
 # /firefox/mac/ social sharing description
 ;Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
-Faster page loading, less memory usage and packed with features, the new Firefox for Mac is here.
+Loowgol hello ɓurngol yaawde, kuutorogol tesko pamɗungol kadi coomdangol e faannuuji, Firefox keso ngam Mac oo nani ɗoo.
 
 
 # /firefox/linux/ social sharing description
 ;Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
-Faster page loading, less memory usage and packed with features, the new Firefox for Linux is here.
+Loowgol hello ɓurngol yaawde, kuutorogol tesko pamɗungol kadi coomdangol e faannuuji, Firefox keso ngam Linux oo nani ɗoo.
 
 
 ;Faster page loading, less memory usage and packed with features, the new Firefox is here.
@@ -275,7 +275,7 @@ Loowgol hello ɓurngol yaawde, kuutorogol tesko pamɗungol kadi coomdangol e faa
 
 
 ;Privacy comes first
-Privacy comes first
+Suturo adii fof
 
 
 ;Privacy - more than a policy
@@ -287,7 +287,7 @@ Privacy - more than a policy
 
 
 ;Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
-Firefox doesn’t spy on searches. We stop third-party tracking cookies and give you full control.
+Firefox xukkindotaako njiilawuuji. Ha min paloo kuukiije janane dewindotooɗe etee ha min ndokkumaa ɗowgol timmungol.
 
 
 ;Firefox moves fast and treats your data with care - no ad tracking and no slowdown.
@@ -295,7 +295,7 @@ Firefox moves fast and treats your data with care - no ad tracking and no slowdo
 
 
 ;Your life, your business. Firefox blocks third-party tracking cookies on Linux.
-Your life, your business. Firefox blocks third-party tracking cookies on Linux.
+Nguurndam maa, ngoƴa maa. Firefox ina faloo kuukiije janane dewindotooɗe e Linux.
 
 
 ;The best Firefox ever
@@ -311,11 +311,11 @@ Tenndeendi kahindiindi
 
 
 ;Get speed and security. Firefox is fast on Mac because we don’t track your moves.
-Get speed and security. Firefox is fast on Mac because we don’t track your moves.
+Heɓ jaawgol kam e kisal. Firefox ina yaawi e Mac sabu min ndewindotaako dille maa.
 
 
 ;Live your life, Firefox isn’t watching. Choose what to share and when to share it.
-Live your life, Firefox isn’t watching. Choose what to share and when to share it.
+Wuur nguurndam maa, Firefox wonaani e ndaarde ma. Labo ko lollintaa e nde lollintaa ɗum.
 
 
 ;Speed, meet security. Firefox is two times faster with 30% less memory than Chrome.
@@ -327,11 +327,11 @@ Ina huutoroo 30%tesko ko ŋakki Chrome
 
 
 ;Block trackers
-Block trackers
+Falo ndewindorɗe
 
 
 ;Open source
-Open source
+Keɓe udditiiɗe
 
 
 ;Seamless setup
@@ -355,7 +355,7 @@ Easy migration of preferences and bookmarks when you download Firefox for Window
 
 
 ;Private Browsing with Tracking Protection
-Private Browsing with Tracking Protection
+Banngagol Suturo wonndugo e Ndeenka Dewindol
 
 
 # String is obsolete. Do not remove.
@@ -369,11 +369,11 @@ A jaɓɓaama e Firefox
 
 
 ;Take Firefox with You
-Take Firefox with You
+Nawor Firefox
 
 
 ;Get your bookmarks, history, passwords and other settings on all your devices.
-Get your bookmarks, history, passwords and other settings on all your devices.
+Heɓ maantore maa, aslol maa, finndeeji maa kam e teelte goɗɗe e kaɓirɗi maa fof.
 
 
 # Obsolete string, DO NOT REMOVE
