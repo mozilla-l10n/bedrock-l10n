@@ -17,11 +17,11 @@ Comparation inter le navigator Firefox e Safari de Apple
 
 
 ;If you use a Mac or have an iPhone, chances are you’re familiar with the Safari web browser. The fact that it’s pre-installed as the default browser for Apple product users definitely gives it an early advantage, but Firefox has its own set of useful features that make it an attractive alternative. Here we’ll explore the main differences between our browser and Safari in terms of privacy, utility, and portability between devices.
-If you use a Mac or have an iPhone, chances are you’re familiar with the Safari web browser. The fact that it’s pre-installed as the default browser for Apple product users definitely gives it an early advantage, but Firefox has its own set of useful features that make it an attractive alternative. Here we’ll explore the main differences between our browser and Safari in terms of privacy, utility, and portability between devices.
+Si tu usa un Mac o tu ha un iPhone, il es probabile que tu es familiar con le navigator del Web Safari. Le facto que illo es pre-installate como le navigator predefinite pro usatores de productos Apple da lo decisemente un prime avantage, ma Firefox ha su proprie equipamento de utile characteristicas que lo rende un attractive alternative. Hic nos discoperira le principal differentias inter nostre navigator e Safari in terminos de confidentialitate, utilitate e portabilitate inter apparatos.
 
 
 ;Privacy has become a white hot topic for tech companies as they realize more and more people are feeling vulnerable to things like data breaches, ad trackers and hackers. But when it comes down to the real tools people use to navigate the actual interwebs, is it all talk or are they actually taking action to keep your data secure?
-Privacy has become a white hot topic for tech companies as they realize more and more people are feeling vulnerable to things like data breaches, ad trackers and hackers. But when it comes down to the real tools people use to navigate the actual interwebs, is it all talk or are they actually taking action to keep your data secure?
+Confidentialitate ha devenite un argumento ardente pro companias technologic durante que illos realisa que sempre plus personas se senti vulnerabile a menacias como violationes de datos, avisos publicitari traciator e piratas informatic. Ma quando on debe offerer al usatores utensiles pro navigar inter le real objectos del Web, iste companias parla solmente o sume vermente actiones pro proteger tu datos?
 
 
 ;As alluded to before, Apple is one of those companies that recently decided to step up their privacy game. Not long ago, Apple implemented cross-site tracking prevention in Safari, which prevents ads from following you around the internet. Safari also offers a strong password suggestion when you sign up for a new account on any website. And if you’re invested in the iCloud ecosystem, it syncs that password securely with your other devices, so you never actually have to remember it.
@@ -74,7 +74,7 @@ Firefox also offers a similar sync feature when you sign up for a free <a %(attr
 
 
 ;The Firefox app for <a %(ios)s>iOS</a> and <a %(android)s>Android</a> is one of the fastest browsers available and also has solid security and anti-tracking features — a huge plus if you’re constantly bouncing between a laptop and mobile devices.
-The Firefox app for <a %(ios)s>iOS</a> and <a %(android)s>Android</a> is one of the fastest browsers available and also has solid security and anti-tracking features — a huge plus if you’re constantly bouncing between a laptop and mobile devices.
+Le application Firefox pro <a %(ios)s>iOS</a> e <a %(android)s>Android</a> es un del plus veloce navigatores disponibile e ha alsi solide functionalitates de securitate e anti-traciamento; un grande avantage si tu salta sovente inter apparatos portabile e mobile.
 
 
 ;Since Safari is Apple’s proprietary web browser, its iCloud syncing works exclusively with Apple products. This can be somewhat limiting if, for example, you’re both an Android user and an iPhone user or if you have a Windows based PC for work but use an iPhone as your personal device.
