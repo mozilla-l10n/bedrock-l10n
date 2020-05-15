@@ -1,72 +1,73 @@
+## active ##
 ## NOTE: Demo page at https://www-demo2.allizom.org/en-US/firefox/set-as-default/thanks/
 
 
 ;Thanks for choosing Firefox
-Thanks for choosing Firefox
+Շնորհակալություն Firefox-ը նախընտրելու համար:
 
 
 ;Success! Your default browser is set to Firefox.
-Success! Your default browser is set to Firefox.
+Հաջող էր: Ձեր կանխադրված զննարկիչը Firefox-ն է:
 
 
 ;Looks like you’re using a different browser right now. Make sure you have Firefox downloaded on your device.
-Looks like you’re using a different browser right now. Make sure you have Firefox downloaded on your device.
+Կարծես թե հիմա այլ զննարկիչ եք օգտագործում: Համոզվեք, որ Firefox-ը ներբեռնված է ձեր սարքում:
 
 
 ;Download Firefox
-Download Firefox
+Ներբեռնել Firefox-ը
 
 
 # When a visitor sees this message a system dialog will also open on screen.
 ;You’re almost done. Just change your default browser to Firefox in the settings panel on your screen.
-You’re almost done. Just change your default browser to Firefox in the settings panel on your screen.
+Դուք գրեթե արել եք: Պարզապես դարձրեք Firefox-ը ձեր կանխադրված զննարկիչը ձեր էկրանի կարգավորումների վահանակում:
 
 
 ;Having trouble setting your default browser?
-Having trouble setting your default browser?
+Կանխադրված զննարկիչ կարգավորելու խնդիր կա՞:
 
 
 ;Here’s everything you need to know about setting your default browser on <a href="%(android)s">Android devices</a>.
-Here’s everything you need to know about setting your default browser on <a href="%(android)s">Android devices</a>.
+Ահա այն ամենը, ինչ դուք պետք է իմանաք զննարկիչը որպես կանխադրված հաստատելու մասին <a href="%(android)s"> Android սարքերում</a>:
 
 
 ;Here’s everything you need to know about setting your default browser on <a href="%(ios)s">iOS devices</a>.
-Here’s everything you need to know about setting your default browser on <a href="%(ios)s">iOS devices</a>.
+Ահա այն ամենը, ինչ դուք պետք է իմանաք զննարկիչը որպես կանխադրված հաստատելու մասին <a href="%(ios)s">iOS սարքերում</a>:
 
 
 ;You’re all set.
-You’re all set.
+Պատրաստ է:
 
 
 ;Get Firefox for mobile
-Get Firefox for mobile
+Ստացեք Firefox-ը բջջայինի համար
 
 
 ;Travel the internet with protection on all your devices.
-Travel the internet with protection on all your devices.
+Ճանապարհորդեք համացանցով պաշտպանված՝ Ձեր բոլոր սարքերով:
 
 
 ;Download the app
-Download the app
+Ներբեռնեք հավելվածը
 
 
 ;Join Firefox
-Join Firefox
+Միացեք Firefox֊ին
 
 
 ;Sign up for a free account and sync all your passwords, browsing history, and preferences across your devices.
-Sign up for a free account and sync all your passwords, browsing history, and preferences across your devices.
+Գրանցեք անվճար հաշիվ և համաժամեցրեք ձեր բոլոր գաղտնաբառերը, զննարկման պատմությունը և նախընտրությունները Ձեր բոլոր սարքերում:
 
 
 ;Get an Account
-Get an Account
+Ստանալ հաշիվ
 
 
 ;Having trouble?
-Having trouble?
+Խնդիր ունե՞ք:
 
 
 ;Here’s everything you need to know about setting your default browser on <a href="%(android)s">Android devices</a> or <a href="%(desktop)s">desktop computers</a>.
-Here’s everything you need to know about setting your default browser on <a href="%(android)s">Android devices</a> or <a href="%(desktop)s">desktop computers</a>.
+Ահա այն ամենը, ինչ դուք պետք է իմանաք զննարկիչը որպես կանխադրված հաստատելու մասին <a href="%(android)s">Android սարքերում</a> կամ <a href="%(desktop)s">դեսքթոփ համակարգիչներում</a>:
 
 

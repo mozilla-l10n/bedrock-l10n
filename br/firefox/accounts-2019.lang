@@ -13,7 +13,7 @@ Krouit ho kont Firefox – Ho roadennoù a chomo prevez, diarvar ha goubredet
 
 # HTML page description
 ;Take your stand against an industry that’s selling your data to third parties. Stay smart and safe online with technology that fights for you.
-Take your stand against an industry that’s selling your data to third parties. Stay smart and safe online with technology that fights for you.
+Bezit a-enep ur greanterezh a werzh ho roadennoù da dredeourien.  Chomit fin hag e surentez gant teknologiezhioù a stourm evidoc'h.
 
 
 # String is obsolete. Do not remove.
@@ -23,16 +23,16 @@ Securely sync your passwords, bookmarks and tabs across all your devices. Get a 
 
 # the span here is for visual formatting to display the phrase "Join Firefox" in a different color.
 ;There is a way to protect your privacy. <span>Join Firefox.</span>
-There is a way to protect your privacy. <span>Join Firefox.</span>
+Un doare a zo da wareziñ ho puhez prevez. <span>Tremenit da Firefox.</span>
 
 
 # This refers to the way some tech companies treat personal information as a commodity, as if their users are the product they're selling to their advertisers.
 ;Take your stand against an industry that’s making you the product.
-Take your stand against an industry that’s making you the product.
+Bezit a-enep ur greanterezh a sell ouzhoc'h evel ouzh ur produ.
 
 
 ;Join Firefox
-Join Firefox
+Tremen da Firefox
 
 
 ;Enter your email address to get started.
@@ -49,19 +49,19 @@ Kennaskañ
 
 # the span here is to display the phrase "Now try Firefox Monitor." in a different color. Line breaks are for visual formatting.
 ;You’re signed <br>in to Firefox. <br><span>Now try Firefox Monitor.</span>
-You’re signed <br>in to Firefox. <br><span>Now try Firefox Monitor.</span>
+Kennasket hoc'h <br>ouzh Firefox. <br><span>Bremañ, klaskit Firefox Monitor.</span>
 
 
 ;See if you’ve been involved in an online data breach.
-See if you’ve been involved in an online data breach.
+Sellit hag-eñ hoc'h bet tizhet gant ur fuadur roadennoù enlinenn.
 
 
 ;Sign In to Monitor
-Sign In to Monitor
+Kennaskañ ouzh Monitor
 
 
 ;Meet our family of privacy-first products.
-Meet our family of privacy-first products.
+Kavit hon dibab produoù buhez-prevez-da-gentañ.
 
 
 # String is obsolete. Do not remove.
@@ -71,7 +71,7 @@ Un deknologiezh a stourm evidoc'h-c'hwi eo Firefox.
 
 # String is obsolete. Do not remove.
 ;Get technology that fights for you.
-Get technology that fights for you.
+Implijit an teknologiezh a stourm evit ho kwirioù.
 
 
 # This is not a complete proper name; "Firefox" is a proper name that shouldn't be translated, but you can choose to translate "browser". Span for formatting.
@@ -80,32 +80,32 @@ Merdeer <span>Firefox</span>
 
 
 ;Travel the internet with protection, on every device.
-Travel the internet with protection, on every device.
+Merdeit gwarezet war internet, war pep trevnad.
 
 
 ;Keep your passwords protected and portable.
-Keep your passwords protected and portable.
+Dalc'hit ho kerioù-tremen gwarezet ha ganeoc'h bepred.
 
 
 ;Get a lookout for data breaches.
-Get a lookout for data breaches.
+Dizoleiñ ar fuadurioù roadennoù.
 
 
 ;Share large files without prying eyes.
-Share large files without prying eyes.
+Rannit restroù pounner hep selloù diaviz.
 
 
 ;Get it all on every device, without feeling trapped in a single operating system.
-Get it all on every device, without feeling trapped in a single operating system.
+Kavit pep tra war pep trevnad hep bezañ stanket war ur reizhiad korvoiñ nemetken.
 
 
 # String is obsolete. Do not remove.
 ;And get it all on every device, without feeling trapped in a single operating system.
-And get it all on every device, without feeling trapped in a single operating system.
+Ha kavit pep tra war pep trevnad hep bezañ stanket war ur reizhiad korvoiñ nemetken.
 
 
 ;Get the respect you deserve.
-Get the respect you deserve.
+Ho pezet an doujañs a zellezit.
 
 
 ;You’ll always get the truth from us. Everything we make and do honors our <a href="%(promise)s">Personal Data Promise</a>:
@@ -118,31 +118,31 @@ Take less.<br> Keep it safe.<br> No secrets.
 
 
 ;Get the knowledge to keep you safe.
-Get the knowledge to keep you safe.
+Ho pezet an anaoudegezhioù ret evit chom e surentez.
 
 
 ;Learn everything you need to know (but don’t yet) about staying smart and safe online, from some of the world’s foremost experts.
-Learn everything you need to know (but don’t yet) about staying smart and safe online, from some of the world’s foremost experts.
+Deskit pep tra a rankit gouzout evit chom fin hag e surentez enlinenn a-drugarez d'an arbennigourien e-touez ar re barrekañ er bed.
 
 
 ;And be part of protecting the internet for future generations.
-And be part of protecting the internet for future generations.
+Ha kemerit perzh a-benn suraat an internet evit ar rummadoù da zont.
 
 
 ;Help us build a better Firefox for all.
-Help us build a better Firefox for all.
+Sikourit ac'hanomp a-benn sevel ur Firefox gwelloc'h evit an holl.
 
 
 ;Get into the open source spirit by test-driving upcoming products.
-Get into the open source spirit by test-driving upcoming products.
+Degemerit spered an tarzh digor en ur prouadiñ ar produoù da zont.
 
 
 # "Big Tech" refers to large technology companies that dominate the web, such as Google and Facebook. Mozilla helps to keep these companies "in check" by challenging their dominance so they can't completely take over.
 ;Help us keep Big Tech in check.
-Help us keep Big Tech in check.
+Sikourit ac'hanomp da zalc'h Big Tech dindan reolerezh.
 
 
 ;We support communities all over the world standing up for a healthier internet. Add your voice to the fight.
-We support communities all over the world standing up for a healthier internet. Add your voice to the fight.
+Skoazellañ a reomp kumuniezhioù deus ar bed a-bezh evit un internet yac'husoc'h. Ouzhpennit ho mouezh er stourm.
 
 

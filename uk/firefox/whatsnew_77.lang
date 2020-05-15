@@ -1,54 +1,55 @@
+## active ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/77.0/whatsnew/all/
 
 
 # HTML page title
 ;What’s new with Firefox
-What’s new with Firefox
+Що нового у Firefox
 
 
 ;Congrats! You’re using the latest version of Firefox.
-Congrats! You’re using the latest version of Firefox.
+Вітаємо! Ви користуєтеся найновішою версією Firefox.
 
 
 # Main title. This uses "Picture-in-Picture" as a verb, a play on the phrase "Picture this"
 ;Picture-in-Picture this
-Picture-in-Picture this
+Зображення в зображенні це
 
 
 ;Got things to do and things to watch? Do both with Picture-in-Picture.
-Got things to do and things to watch? Do both with Picture-in-Picture.
+Необхідно виконувати роботу і щось переглядати? Робіть це одночасно за допомогою функції Зображення в зображенні.
 
 
 ;Try it out with these cuddly red pandas.
-Try it out with these cuddly red pandas.
+Спробуйте цю функцію, переглядаючи відео з цими симпатичними червоними пандами.
 
 
 ;Press play and hover your cursor over the video. Then click the blue button to pop the video out.
-Press play and hover your cursor over the video. Then click the blue button to pop the video out.
+Натисніть кнопку відтворення та наведіть курсор на відео. Потім натисніть синю кнопку, щоби відокремити відео.
 
 
 # An accessible title/tooltip on a video thumbnail
 ;Play the video
-Play the video
+Відтворення відео
 
 
 ;Ways we’ve been using Picture-in-Picture
-Ways we’ve been using Picture-in-Picture
+Як ми користуємося функцією зображення в зображенні
 
 
 ;Watching a lecture or meeting while you take notes
-Watching a lecture or meeting while you take notes
+Пишемо примітки під час перегляду лекції чи зустрічі
 
 
 ;Keeping a tutorial video open with a recipe while you cook or bake
-Keeping a tutorial video open with a recipe while you cook or bake
+Під час приготування або запікання смаколиків переглядаємо відео з рецептом
 
 
 ;Entertaining cats, dogs and kids while you get work done
-Entertaining cats, dogs and kids while you get work done
+Розважаємо котів, собак та дітей, поки ми працюємо
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+Ознайомтеся з <a href="%(notes)s">інформацією про випуск</a> та дізнайтеся більше про нові функції в браузері Firefox.
 
 

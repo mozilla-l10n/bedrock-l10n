@@ -1,54 +1,55 @@
+## active ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/77.0/whatsnew/all/
 
 
 # HTML page title
 ;What’s new with Firefox
-What’s new with Firefox
+Firefox 的新变化
 
 
 ;Congrats! You’re using the latest version of Firefox.
-Congrats! You’re using the latest version of Firefox.
+太好了！您正在使用最新版本的 Firefox。
 
 
 # Main title. This uses "Picture-in-Picture" as a verb, a play on the phrase "Picture this"
 ;Picture-in-Picture this
-Picture-in-Picture this
+画中画播放
 
 
 ;Got things to do and things to watch? Do both with Picture-in-Picture.
-Got things to do and things to watch? Do both with Picture-in-Picture.
+需要边看边做？请使用画中画。
 
 
 ;Try it out with these cuddly red pandas.
-Try it out with these cuddly red pandas.
+超可爱的小熊猫，观看视频体验该功能。
 
 
 ;Press play and hover your cursor over the video. Then click the blue button to pop the video out.
-Press play and hover your cursor over the video. Then click the blue button to pop the video out.
+点击播放，将鼠标指针悬浮于视频上方，然后单击蓝色按钮以弹出视频。
 
 
 # An accessible title/tooltip on a video thumbnail
 ;Play the video
-Play the video
+播放视频
 
 
 ;Ways we’ve been using Picture-in-Picture
-Ways we’ve been using Picture-in-Picture
+常见的画中画的使用场景
 
 
 ;Watching a lecture or meeting while you take notes
-Watching a lecture or meeting while you take notes
+一边上课或开会，一边作笔记
 
 
 ;Keeping a tutorial video open with a recipe while you cook or bake
-Keeping a tutorial video open with a recipe while you cook or bake
+烹煮或烘焙时，播放教学视频的同时翻看食谱
 
 
 ;Entertaining cats, dogs and kids while you get work done
-Entertaining cats, dogs and kids while you get work done
+工作间隙，看看萌宠萌娃视频放松心情
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+请阅读<a href="%(notes)s">发行说明</a>，了解更多 Firefox 浏览器的新变化。
 
 
