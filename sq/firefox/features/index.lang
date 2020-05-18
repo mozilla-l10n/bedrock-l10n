@@ -1,6 +1,7 @@
 ## active ##
 ## firefox-features-57-update ##
 ## firefox-features-send-tabs ##
+## firefox_features_compare_browsers ##
 ## NOTE: demo page available at https://www-dev.allizom.org/firefox/features/
 
 
@@ -33,7 +34,7 @@ Njëkohësoni pajisje
 
 
 ;Firefox Test Pilot
-Firefox Test Pilot{ok}
+Firefox Test Pilot {ok}
 
 
 ;Tabs that travel
@@ -65,7 +66,7 @@ Shfletoni më shpejt
 
 
 ;Compare Browsers
-Compare Browsers
+Krahasoni Shfletues
 
 
 ;Firefox Product Benefits

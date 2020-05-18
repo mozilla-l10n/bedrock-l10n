@@ -1,54 +1,55 @@
+## active ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/77.0/whatsnew/all/
 
 
 # HTML page title
 ;What’s new with Firefox
-What’s new with Firefox
+Ç’ka të re te Firefox-i
 
 
 ;Congrats! You’re using the latest version of Firefox.
-Congrats! You’re using the latest version of Firefox.
+Përgëzime! Po përdorni versionin më të ri të Firefox-it.
 
 
 # Main title. This uses "Picture-in-Picture" as a verb, a play on the phrase "Picture this"
 ;Picture-in-Picture this
-Picture-in-Picture this
+Picture-in-Picture këtë
 
 
 ;Got things to do and things to watch? Do both with Picture-in-Picture.
-Got things to do and things to watch? Do both with Picture-in-Picture.
+Keni punë për të bërë dhe gjëra për të parë? Bëjini që të dyja përmes funksionit “Picture-in-Picture”.
 
 
 ;Try it out with these cuddly red pandas.
-Try it out with these cuddly red pandas.
+Provojeni me këto panda të kuqe që kanë qejf t’i përqafosh.
 
 
 ;Press play and hover your cursor over the video. Then click the blue button to pop the video out.
-Press play and hover your cursor over the video. Then click the blue button to pop the video out.
+Shtypni butonin Luaje dhe kaloni kursorin sipër videos. Mandej klikoni mbi butonin blu që të hapet videoja.
 
 
 # An accessible title/tooltip on a video thumbnail
 ;Play the video
-Play the video
+Luaje videon
 
 
 ;Ways we’ve been using Picture-in-Picture
-Ways we’ve been using Picture-in-Picture
+Mënyra se si e kemi përdorur funksionin “Picture-in-Picture”
 
 
 ;Watching a lecture or meeting while you take notes
-Watching a lecture or meeting while you take notes
+Ndjekja e një leksioni ose mbledhjeje teksa mbani shënime
 
 
 ;Keeping a tutorial video open with a recipe while you cook or bake
-Keeping a tutorial video open with a recipe while you cook or bake
+Mbajtja hapur e një videoje me udhëzimet për recetën, teksa gatuani apo piqni diçka
 
 
 ;Entertaining cats, dogs and kids while you get work done
-Entertaining cats, dogs and kids while you get work done
+Zbavitje me mace, qen dhe fëmijë, teksa bëni punën
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+Që të mësoni më tepër rreth se ç’ka të re te Firefox Browser, lexoni <a href="%(notes)s">Shënime Hedhjeje Në Qarkullim</a>.
 
 

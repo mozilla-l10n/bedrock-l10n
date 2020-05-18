@@ -1,54 +1,55 @@
+## active ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/77.0/whatsnew/all/
 
 
 # HTML page title
 ;What’s new with Firefox
-What’s new with Firefox
+Firefox’taki yenilikler
 
 
 ;Congrats! You’re using the latest version of Firefox.
-Congrats! You’re using the latest version of Firefox.
+Tebrikler! Firefox’un son sürümünü kullanıyorsunuz.
 
 
 # Main title. This uses "Picture-in-Picture" as a verb, a play on the phrase "Picture this"
 ;Picture-in-Picture this
-Picture-in-Picture this
+Görüntü içinde görüntü
 
 
 ;Got things to do and things to watch? Do both with Picture-in-Picture.
-Got things to do and things to watch? Do both with Picture-in-Picture.
+Hem yapmanız hem de izlemeniz gereken şeyler mi var? Görüntü içinde görüntü ile her ikisini de yapın.
 
 
 ;Try it out with these cuddly red pandas.
-Try it out with these cuddly red pandas.
+Bu sevimli kırmızı pandalarla deneyin.
 
 
 ;Press play and hover your cursor over the video. Then click the blue button to pop the video out.
-Press play and hover your cursor over the video. Then click the blue button to pop the video out.
+Oynat'a basın ve imlecinizi videonun üzerine getirin. Ardından, videoyu görüntü içinde görüntü modunda açmak için mavi düğmeye tıklayın.
 
 
 # An accessible title/tooltip on a video thumbnail
 ;Play the video
-Play the video
+Videoyu oynat
 
 
 ;Ways we’ve been using Picture-in-Picture
-Ways we’ve been using Picture-in-Picture
+Görüntü içinde görüntü ne işe yarar?
 
 
 ;Watching a lecture or meeting while you take notes
-Watching a lecture or meeting while you take notes
+Ders veya toplantı izlerken not alma
 
 
 ;Keeping a tutorial video open with a recipe while you cook or bake
-Keeping a tutorial video open with a recipe while you cook or bake
+Yemek yaparken hem öğretici videoyu hem de yazılı tarifi açık tutma
 
 
 ;Entertaining cats, dogs and kids while you get work done
-Entertaining cats, dogs and kids while you get work done
+Bir yandan çalışırken bir yandan da çocuklarınızı eğlendirme
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+Firefox tarayıcınızdaki yenilikler hakkında daha fazla bilgi almak için <a href="%(notes)s">sürüm notlarını</a> okuyabilirsiniz.
 
 
