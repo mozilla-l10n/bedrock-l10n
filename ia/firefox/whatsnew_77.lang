@@ -1,54 +1,55 @@
+## active ##
 ## NOTE: Demo page at https://www-demo3.allizom.org/firefox/77.0/whatsnew/all/
 
 
 # HTML page title
 ;What’s new with Firefox
-What’s new with Firefox
+Qual novas re Firefox?
 
 
 ;Congrats! You’re using the latest version of Firefox.
-Congrats! You’re using the latest version of Firefox.
+Felicitationes! Tu usa le ultime version de Firefox.
 
 
 # Main title. This uses "Picture-in-Picture" as a verb, a play on the phrase "Picture this"
 ;Picture-in-Picture this
-Picture-in-Picture this
+Pone lo in Imagine annidate
 
 
 ;Got things to do and things to watch? Do both with Picture-in-Picture.
-Got things to do and things to watch? Do both with Picture-in-Picture.
+Vole tu facer alcun cosas durante que tu reguarda altere cosas?
 
 
 ;Try it out with these cuddly red pandas.
-Try it out with these cuddly red pandas.
+Prova lo con iste tenere pandas rubie.
 
 
 ;Press play and hover your cursor over the video. Then click the blue button to pop the video out.
-Press play and hover your cursor over the video. Then click the blue button to pop the video out.
+Pulsa reproducer e passa le cursor del mus super le video. Alora clicca le button blau pro passar le video a un fenestra emergente.
 
 
 # An accessible title/tooltip on a video thumbnail
 ;Play the video
-Play the video
+Reproducer le video
 
 
 ;Ways we’ve been using Picture-in-Picture
-Ways we’ve been using Picture-in-Picture
+Occasiones pro usar Imagine annidate
 
 
 ;Watching a lecture or meeting while you take notes
-Watching a lecture or meeting while you take notes
+Observar un conferentia o incontro durante que on prende notas
 
 
 ;Keeping a tutorial video open with a recipe while you cook or bake
-Keeping a tutorial video open with a recipe while you cook or bake
+Tener aperte sia un exercitation video que un recepta durante que tu cocina o coce
 
 
 ;Entertaining cats, dogs and kids while you get work done
-Entertaining cats, dogs and kids while you get work done
+Tener occupate cattos, canes e pueros durante que tu fini le labor
 
 
 ;Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
-Read the <a href="%(notes)s">Release Notes</a> to know more about what’s new in your Firefox Browser.
+Lege le <a href="%(notes)s">Notas de version</a> pro saper plus re lo que es nove in tu navigator Firefox.
 
 
