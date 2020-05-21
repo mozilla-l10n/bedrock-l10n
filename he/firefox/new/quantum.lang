@@ -24,12 +24,12 @@ Firefox fights for you <span>on Windows.</span>
 
 # /firefox/mac/ main page title. Span is for visually formatting.
 ;Firefox respects <span>your privacy on Mac.</span>
-Firefox respects <span>your privacy on Mac.</span>
+Firefox מכבד את <span>הפרטיות שלך ב־Mac.</span>
 
 
 # /firefox/linux/ main page title.
 ;Firefox for Linux
-Firefox for Linux
+Firefox עבור Linux
 
 
 ;The new <strong>Firefox</strong>
@@ -100,28 +100,28 @@ You’ve already got the Firefox browser. Now get everything else Firefox.
 
 
 ;Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
-Sync bookmarks, send tabs, save to Pocket and more with a Firefox Account.
+סנכרון סימניות, שליחת לשוניות, שמירה אל Pocker ועוד עם חשבון Firefox.
 
 
 ;Get a Firefox Account
-Get a Firefox Account
+קבלת חשבון Firefox
 
 
 ;Already have an account?
-Already have an account?
+כבר יש לך חשבון?
 
 
 ;Sign In
-Sign In
+כניסה
 
 
 ;Download Anyway
-Download Anyway
+הורדה בכל זאת
 
 
 # Link points to /firefox/all/
 ;Download for other platforms & languages
-Download for other platforms & languages
+הורדה לפלטפורמות ולשפות אחרות
 
 
 # The string is obsolete. Do not remove.
@@ -131,7 +131,7 @@ Download for other platforms & languages
 
 
 ;Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
-Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(fallback_url)s">Try downloading again</a>.
+ההורדה שלך אמורה להתחיל אוטומטית. לא התחילה? <a id="%(id)s" href="%(fallback_url)s">אפשר לנסות להוריד שוב</a>.
 
 
 # Obsolete string, DO NOT REMOVE
@@ -140,7 +140,7 @@ Your download should begin automatically. Didn’t work? <a id="%(id)s" href="%(
 
 
 ;Learn how to make Firefox even smarter, faster and more secure.
-Learn how to make Firefox even smarter, faster and more secure.
+למידע כיצד לשפר את Firefox כדי שיהיה חכם, מהיר ומאובטח אף יותר.
 
 
 ;Get informative tips, tricks and product announcements delivered to your inbox.
@@ -148,7 +148,7 @@ Get informative tips, tricks and product announcements delivered to your inbox.
 
 
 ;Enter your email address
-Enter your email address
+נא להקליד את כתובת הדוא״ל שלך
 
 
 ;How will Mozilla use my email?
@@ -193,17 +193,17 @@ You can expect emails designed to help you optimize Firefox to work best for you
 
 # /firefox/windows/ HTML page title
 ;Download Mozilla Firefox for Windows
-Download Mozilla Firefox for Windows
+הורדת Mozilla Firefox עבור Windows
 
 
 # /firefox/mac/ HTML page title
 ;Download Mozilla Firefox for Mac
-Download Mozilla Firefox for Mac
+הורדת Mozilla Firefox עבור Mac
 
 
 # /firefox/linux/ HTML page title
 ;Download Mozilla Firefox for Linux
-Download Mozilla Firefox for Linux
+הורדת Mozilla Firefox עבור Linux
 
 
 # HTML page title prefix
@@ -218,17 +218,17 @@ Download Mozilla Firefox for Linux
 
 # /firefox/windows/ HTML page description
 ;Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
-Download Mozilla Firefox for Windows, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Windows today!
+הורידו את Mozilla Firefox עבור Windows, הדפדפן החופשי. Firefox נוצר על־ידי קהילה עולמית שאינה למטרות רווח שמטרתה לתת לכולנו שליטה מקוונת. הורידו את Firefox עבור Windows עוד היום!
 
 
 # /firefox/mac/ HTML page description
 ;Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
-Download Mozilla Firefox for Mac, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Mac today!
+הורידו את Mozilla Firefox עבור Mac, הדפדפן החופשי. Firefox נוצר על־ידי קהילה עולמית שאינה למטרות רווח שמטרתה לתת לכולנו שליטה מקוונת. הורידו את Firefox עבור Mac עוד היום!
 
 
 # /firefox/linux/ HTML page description
 ;Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
-Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox for Linux today!
+הורידו את Mozilla Firefox עבור Linux, הדפדפן החופשי. Firefox נוצר על־ידי קהילה עולמית שאינה למטרות רווח שמטרתה לתת לכולנו שליטה מקוונת. הורידו את Firefox עבור Linux עוד היום!
 
 
 # HTML page description
@@ -238,17 +238,17 @@ Download Mozilla Firefox for Linux, a free Web browser. Firefox is created by a 
 
 # /firefox/windows/ social sharing title
 ;Download the fastest Firefox for Windows ever
-Download the fastest Firefox for Windows ever
+הורידו את ה־Firefox עבור Windows המהיר ביותר אי פעם
 
 
 # /firefox/mac/ social sharing title
 ;Download the fastest Firefox for Mac ever
-Download the fastest Firefox for Mac ever
+הורידו את ה־Firefox עבור Mac המהיר ביותר אי פעם
 
 
 # /firefox/linux/ social sharing title
 ;Download the fastest Firefox for Linux ever
-Download the fastest Firefox for Linux ever
+הורידו את ה־Firefox עבור Linux המהיר ביותר אי פעם
 
 
 ;Download the fastest Firefox ever
@@ -275,7 +275,7 @@ Faster page loading, less memory usage and packed with features, the new Firefox
 
 
 ;Privacy comes first
-Privacy comes first
+פרטיות בראש ובראשונה
 
 
 ;Privacy - more than a policy
@@ -327,15 +327,15 @@ Speed, meet security. Firefox is two times faster with 30% less memory than Chro
 
 
 ;Block trackers
-Block trackers
+חסימת רכיבי מעקב
 
 
 ;Open source
-Open source
+קוד פתוח
 
 
 ;Seamless setup
-Seamless setup
+התקנה חלקה
 
 
 ;Powerfully private
@@ -355,7 +355,7 @@ Easy migration of preferences and bookmarks when you download Firefox for Window
 
 
 ;Private Browsing with Tracking Protection
-Private Browsing with Tracking Protection
+גלישה פרטית עם הגנת מעקב
 
 
 # String is obsolete. Do not remove.

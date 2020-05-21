@@ -3,32 +3,32 @@
 
 # HTML page title
 ;Get Firefox for your enterprise with ESR and Rapid Release
-Get Firefox for your enterprise with ESR and Rapid Release
+Hanki Firefox yrityksellesi ESR:n ja Rapid Release -sovelluksen avulla
 
 
 # HTML page description
 ;Get unmatched data protection on the release cadence that suits you with Firefox for enterprise. Download ESR and Rapid Release.
-Get unmatched data protection on the release cadence that suits you with Firefox for enterprise. Download ESR and Rapid Release.
+Saat verrattoman tietosuojan sinulle sopivasta päivitysrytmistä Firefox yrityksille -sovelluksen kanssa. Lataa ESR ja Rapid Release.
 
 
 ;Enterprise
-Enterprise
+Yrityksille
 
 
 ;Overview
-Overview
+Yleiskatsaus
 
 
 ;Downloads
-Downloads
+Lataukset
 
 
 ;Resources
-Resources
+Resurssit
 
 
 ;Get Firefox for your enterprise
-Get Firefox for your enterprise
+Hanki Firefox yrityksellesi
 
 
 ;Get the <a href="%s">Firefox Extended Support Release or Rapid Release</a> browser for comprehensive data security and data protection.
@@ -37,15 +37,15 @@ Get the <a href="%s">Firefox Extended Support Release or Rapid Release</a> brows
 
 # CTA button
 ;Download
-Download
+Lataa
 
 
 ;Firefox Privacy Notice
-Firefox Privacy Notice
+Firefoxin tietosuojakäytäntö
 
 
 ;Unmatched data protection — on the release cadence that suits you
-Unmatched data protection — on the release cadence that suits you
+Verraton tietosuoja – sinulle sopivassa päivitysrytmissä
 
 
 ;The Firefox browser is open source and provides Enhanced Tracking Protection — all part of our longstanding commitment to data protection.
@@ -54,11 +54,11 @@ The Firefox browser is open source and provides Enhanced Tracking Protection —
 
 # This is a saying that means: your data remains yours - it’s your business and no one else’s
 ;Your data stays your business
-Your data stays your business
+Tietosi pysyvät tietonasi
 
 
 ;Deploy when and how you want
-Deploy when and how you want
+Ota käyttöön milloin ja miten haluat
 
 
 # breeze in this context means its uncomplicated and easy to do.
@@ -67,59 +67,59 @@ With install packages and a wide expansion of group policies and features, deplo
 
 
 ;Choose your release cadence
-Choose your release cadence
+Valitse päivitysrytmi
 
 
 ;Get rapid releases to make sure you get the latest features faster, or go extended to ensure a super stable experience.
-Get rapid releases to make sure you get the latest features faster, or go extended to ensure a super stable experience.
+Hanki nopeita julkaisuja varmistaaksesi, että saat viimeisimmät ominaisuudet nopeammin, tai valitse laaja, varmistaaksesi erittäin vakaan käyttökokemuksen.
 
 
 ;Enterprise downloads
-Enterprise downloads
+Yrityslataukset
 
 
 ;Windows 64-bit
-Windows 64-bit
+Windows 64-bittinen
 
 
 ;Select your download
-Select your download
+Valitse lataus
 
 
 ;Firefox browser
-Firefox browser
+Firefox-selain
 
 
 ;Firefox browser - MSI installer
-Firefox browser - MSI installer
+Firefox-selain - MSI-asennusohjelma
 
 
 ;Firefox Extended Support Release (ESR)
-Firefox Extended Support Release (ESR)
+Firefox Laajennettu tuki -jakelu (ESR)
 
 
 ;Firefox Extended Support Release (ESR) - MSI installer
-Firefox Extended Support Release (ESR) - MSI installer
+Firefox Laajennettu tuki -jakelu - MSI-asennusohjelma
 
 
 ;Support
-Support
+Tuki
 
 
 ;MSI installers
-MSI installers
+MSI-asennusohjelmat
 
 
 ;Legacy browser support
-Legacy browser support
+Vanhan selaimen tuki
 
 
 ;ADMX templates
-ADMX templates
+ADMX-mallit
 
 
 ;Deployment guide
-Deployment guide
+Käyttöönotto-opas
 
 
 ;Policy documentation
@@ -127,23 +127,23 @@ Policy documentation
 
 
 ;Release Notes
-Release Notes
+Julkaisutiedot
 
 
 ;Documentation and Community Support
-Documentation and Community Support
+Dokumentaatio ja yhteisön tuki
 
 
 ;Sample <a href="%s">plist for configuration profile</a>
-Sample <a href="%s">plist for configuration profile</a>
+Esimerkki <a href="%s">plist konfiguraatioprofiili</a>
 
 
 ;PKG installer
-PKG installer
+PKG-asentaja
 
 
 ;Windows 32-bit
-Windows 32-bit
+Windows 32-bittinen
 
 
 # line break for visual formatting
